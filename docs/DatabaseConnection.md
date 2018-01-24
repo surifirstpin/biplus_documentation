@@ -1,6 +1,6 @@
 ## Create  a connection 
 
- Connection specifies a database connection from which a model can retrieve the data. to get started with you need to Select the database dialects used in your project and below are the steps to be 
+ Connection specifies a database connection from which a model can retrieve the data. to get started with you need to Select the database dialects used in your project and below are the steps to be follloe
 **1.** Click on Database Section to setup a database connection.
 
 **2.** Click on +New connection button to start setting up the connection to database. in general, you specify the below mentioned fields:
@@ -24,6 +24,6 @@
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MDg3ODYxOCwyMDUzMjc1MzE0LC0xNz
-UwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbNjk4NTQzNjQ5LDIwNTMyNzUzMTQsLTE3NT
+AyODc2NTNdfQ==
 -->
