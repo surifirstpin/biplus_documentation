@@ -69,22 +69,7 @@
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 
-## Delete a connection
-
-           welcome to Biplus
-
-## Different Dialects supported
-
-           welcome to Biplus
-
-## SSH functionality
-
-           welcome to Biplus
-
-## Test Connection
-
-          welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjM5OTY3Nyw0OTQ4OTczMTgsLTE3NT
-AyODc2NTNdfQ==
+eyJoaXN0b3J5IjpbLTE2MDM0NDQyNjIsNDk0ODk3MzE4LC0xNz
+UwMjg3NjUzXX0=
 -->
