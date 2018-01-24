@@ -1,6 +1,6 @@
 ## Create  a connection 
 
-           welcome to Biplus
+           welcome to BiplusMy sSample db connection
 
 ## Edit a connection
 
@@ -21,3 +21,6 @@
 ## Test Connection
 
           welcome to Biplus
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3NTAyODc2NTNdfQ==
+-->
