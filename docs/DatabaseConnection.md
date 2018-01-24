@@ -17,12 +17,12 @@
   - Amazon Aurora(MySQL)
 >In the most recent release, Bi Plus also supports following list of dialects
 
-
- 
- Amazon Redshift
-Google BigQuery
-Snowflake
-PostgreSQL
+  - 
+    - 
+    - Amazon Redshift
+    - Google BigQuery
+    - Snowflake
+    - PostgreSQL
 Teradata
 Apache Spark
 Impala
@@ -51,6 +51,6 @@ Hive
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjI1MDI4NSwyMDUzMjc1MzE0LC0xNz
-UwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbOTY1Mzg1MjUxLDIwNTMyNzUzMTQsLTE3NT
+AyODc2NTNdfQ==
 -->
