@@ -16,7 +16,7 @@
    - Vertica
    - Rest
    - PSQL
-    - MariaDB
+   - MariaDB
     - Amazon Aurora(MySQL)
 In the most recent release, Bi Plus also supports following list of dialects;
     - Amazon Redshift
@@ -63,6 +63,6 @@ In the most recent release, Bi Plus also supports following list of dialects;
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI2Njk5MzYsLTEyNzEwOTk0MzZdfQ
-==
+eyJoaXN0b3J5IjpbMTYzODExNzg4MiwtMTE2MjY2OTkzNiwtMT
+I3MTA5OTQzNl19
 -->
