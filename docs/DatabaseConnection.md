@@ -25,9 +25,20 @@ In the most recent release, Bi Plus also supports following list of dialects;
   - Impala
   - Amazon Athena
   - Druid
-Cloud Spanner
-MemSQL
-Hive
+  - Cloud Spanner
+  - MemSQL
+  - Hive
+>Note: In case if your database are not available in the above mentioned list, Bi Plus will include the dialects required.|
+
+- **Host** Provides the database host path
+- **Database** identifier name of the database used for connection
+- **Username and Password** to connect the database
+- **Temp database** ( depending on the selected dialects) contains a derived set of tables which can be used as per requirement
+Maximum connection maximum number of connection you want to setup
+Additional Parameters include any additional JDBC parameter in this section
+Over SSH protect the data using a user and access key assigned to it
+
+
 ## Edit a connection
 
            welcome to Biplus
@@ -48,6 +59,6 @@ Hive
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjM4ODY3MzMsMjA1MzI3NTMxNCwtMT
-c1MDI4NzY1M119
+eyJoaXN0b3J5IjpbLTQxNTY0MDgxMywyMDUzMjc1MzE0LC0xNz
+UwMjg3NjUzXX0=
 -->
