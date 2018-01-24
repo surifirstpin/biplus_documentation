@@ -42,11 +42,12 @@
 
 ## SSH Functionality
 
-- **Over SSH** protect the data using a user and access key assigned to it
+**Over SSH** protect the data using a user and access key assigned to it
 
 **3. Dialects** select the accurate dialect from the list using drop down option.
 
 ## Test Connection
+
 **4. Test Connection** click the button to check if the entered information is running accurately.
 
 **5. Add Connection**click the button to establish and save the connection.
@@ -63,6 +64,6 @@
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTUxNjIwMiwyMDUzMjc1MzE0LC0xNz
+eyJoaXN0b3J5IjpbLTU3MTI4NzE0MSwyMDUzMjc1MzE0LC0xNz
 UwMjg3NjUzXX0=
 -->
