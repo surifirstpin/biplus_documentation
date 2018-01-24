@@ -35,7 +35,7 @@
 
 
 
-**Host** Provides the database host path
+ **Host** Provides the database host path
 - **Database** identifier name of the database used for connection
 - **Username and Password** to connect the database
 - **Temp database** ( depending on the selected dialects) contains a derived set of tables which can be used as per requirement
@@ -65,6 +65,6 @@
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDI3MjQ3NywyMDUzMjc1MzE0LC0xNz
+eyJoaXN0b3J5IjpbLTUwMTg3MTQxNywyMDUzMjc1MzE0LC0xNz
 UwMjg3NjUzXX0=
 -->
