@@ -7,10 +7,11 @@
   **1.** Click on **Database Section** to setup a database connection.
 
   **2.** Click on **+New connection**  button to start setting up the connection to database. in general, you specify the below mentioned fields:
+  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/demo%20image.png)
 
   **Name** Specify a name to define connection
-
+  
    **Database(dialect)** choose a appropriate dialect that matches your connection. at present Bi Plus is supporting following list of Database.Further to this we can also include the dialect as per the business requirement.
    
 >Note: In case if your database are not available in the above mentioned list,Bi Plus will include the dialects required.
@@ -26,7 +27,9 @@
 **Maximum connection** number of connection you want to setup
 
 **Additional Parameters** include any additional JDBC parameter in this section
+
 ## Different Dialects supported
+
 - MySQL
  - Oracle
  - Vertica
@@ -71,6 +74,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyNTc2NTQ4LDQ5NDg5NzMxOCwtMTc1MD
-I4NzY1M119
+eyJoaXN0b3J5IjpbLTc1OTExOTk0Niw0OTQ4OTczMTgsLTE3NT
+AyODc2NTNdfQ==
 -->
