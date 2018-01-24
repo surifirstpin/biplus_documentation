@@ -5,6 +5,7 @@
 **1.** Click on Database Section to setup a database connection.
 
 **2.** Click on +New connection button to start setting up the connection to database. in general, you specify the below mentioned fields:
+
 ## Edit a connection
 
            welcome to Biplus
@@ -25,6 +26,6 @@
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxMjE0MzIsMjA1MzI3NTMxNCwtMTc1MD
-I4NzY1M119
+eyJoaXN0b3J5IjpbLTQwNjEyODE4NiwyMDUzMjc1MzE0LC0xNz
+UwMjg3NjUzXX0=
 -->
