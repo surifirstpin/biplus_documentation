@@ -8,7 +8,7 @@
 - **Name** Specify a name of the connection to define
 - **Database(dialect)** choose a appropriate dialect that matches your connection.at present Bi Plus is supporting following list of Database.Further to this we can also include the dialect as per the business requirement.
   - MySQL
-Oracle
+  -Oracle
 MS SQL
 Vertica
 Rest
@@ -35,6 +35,6 @@ Amazon Aurora(MySQL)
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzA1NDc2OSwyMDUzMjc1MzE0LC0xNz
-UwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbMzI3ODc3NjY2LDIwNTMyNzUzMTQsLTE3NT
+AyODc2NTNdfQ==
 -->
