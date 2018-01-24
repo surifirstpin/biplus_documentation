@@ -12,28 +12,7 @@
 
   **Name** Specify a name to define connection
 
-## Different Dialects supported
-
    **Database(dialect)** choose a appropriate dialect that matches your connection. at present Bi Plus is supporting following list of Database.Further to this we can also include the dialect as per the business requirement.
-   - MySQL
-   - Oracle
-   - Vertica
-   - Rest
-   - PSQL
-   - MariaDB
-   - Amazon Aurora(MySQL)  
-   - Amazon Redshift
-   - Google BigQuery
-   - Snowflake
-   - PostgreSQL
-   - Teradata
-   - Apache Spark
-   - Impala
-   - Amazon Athena
-   - Druid
-   - Cloud Spanner
-   - MemSQL
-   - Hive
    
 >Note: In case if your database are not available in the above mentioned list,Bi Plus will include the dialects required.
 
@@ -48,7 +27,27 @@
 **Maximum connection** number of connection you want to setup
 
 **Additional Parameters** include any additional JDBC parameter in this section
-
+## Different Dialects supported
+- MySQL
+ - Oracle
+ - Vertica
+ - Rest
+ - PSQL
+ - MariaDB
+ - Amazon Aurora(MySQL)  
+ - Amazon Redshift
+ - Google BigQuery
+ - Snowflake
+ - PostgreSQL
+ - Teradata
+   - Apache Spark
+   - Impala
+   - Amazon Athena
+   - Druid
+   - Cloud Spanner
+   - MemSQL
+   - Hive
+   
 ## SSH Functionality
 
 **Over SSH** protect the data using a user and access key assigned to it
@@ -73,6 +72,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDc0NjU1NzAsNDk0ODk3MzE4LC0xNz
+eyJoaXN0b3J5IjpbLTE5Mjc3MTEyNzgsNDk0ODk3MzE4LC0xNz
 UwMjg3NjUzXX0=
 -->
