@@ -66,10 +66,9 @@
 
 ## Delete a connection
 
-
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM0NDQyNjIsNDk0ODk3MzE4LC0xNz
-UwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbLTgyNTM0OTQ2MCw0OTQ4OTczMTgsLTE3NT
+AyODc2NTNdfQ==
 -->
