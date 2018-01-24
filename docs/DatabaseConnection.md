@@ -33,7 +33,6 @@
    
 >Note: In case if your database are not available in the above mentioned list,Bi Plus will include the dialects required.
 
-
 ## Edit a connection
 
            welcome to Bi Pplus will include the dialects required.|
@@ -90,6 +89,6 @@
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTg5OTE3Niw0OTQ4OTczMTgsLTE3NT
+eyJoaXN0b3J5IjpbMTk1NzIyMTU3NCw0OTQ4OTczMTgsLTE3NT
 AyODc2NTNdfQ==
 -->
