@@ -18,6 +18,7 @@
 >In the most recent release, Bi Plus also supports following list of dialects
 
 
+ 
  Amazon Redshift
 Google BigQuery
 Snowflake
@@ -50,6 +51,6 @@ Hive
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzY2NDAxLDIwNTMyNzUzMTQsLTE3NT
-AyODc2NTNdfQ==
+eyJoaXN0b3J5IjpbMTI2NjI1MDI4NSwyMDUzMjc1MzE0LC0xNz
+UwMjg3NjUzXX0=
 -->
