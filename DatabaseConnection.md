@@ -20,6 +20,7 @@
    - Amazon Aurora(MySQL)
    
   >In the most recent release, Bi Plus also supports following list of dialects;
+  
    - Amazon Redshift
    - Google BigQuery
    - Snowflake
@@ -32,6 +33,7 @@
    - Cloud Spanner
    - MemSQL
    - Hive
+   
 >Note: In case if your database are not available in the above mentioned list, Bi Plus will include the dialects required.|
 - **Host** Provides the database host path
 - **Database** identifier name of the database used for connection
@@ -63,6 +65,6 @@
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0ODI4NDA2LC03MjQ0NDk3OCwxNjM4MT
-E3ODgyLC0xMjcxMDk5NDM2XX0=
+eyJoaXN0b3J5IjpbLTUwMzM3OTEyMiwtNzI0NDQ5NzgsMTYzOD
+ExNzg4MiwtMTI3MTA5OTQzNl19
 -->
