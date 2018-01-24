@@ -13,7 +13,7 @@
     - MySQL
     - Oracle
     - MS SQL
-     - Vertica
+    - Vertica
     - Rest
     - PSQL
     - MariaDB
@@ -63,5 +63,5 @@ In the most recent release, Bi Plus also supports following list of dialects;
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1NzA1MjYsLTEyNzEwOTk0MzZdfQ==
+eyJoaXN0b3J5IjpbOTQwNDUxMDU0LC0xMjcxMDk5NDM2XX0=
 -->
