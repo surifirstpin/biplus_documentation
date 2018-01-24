@@ -34,9 +34,9 @@ In the most recent release, Bi Plus also supports following list of dialects;
 - **Database** identifier name of the database used for connection
 - **Username and Password** to connect the database
 - **Temp database** ( depending on the selected dialects) contains a derived set of tables which can be used as per requirement
-Maximum connection maximum number of connection you want to setup
-Additional Parameters include any additional JDBC parameter in this section
-Over SSH protect the data using a user and access key assigned to it
+- **Maximum connection** maximum number of connection you want to setup
+- **Additional Parameters** include any additional JDBC parameter in this section
+- **Over SSH** protect the data using a user and access key assigned to it
 
 
 ## Edit a connection
@@ -59,6 +59,6 @@ Over SSH protect the data using a user and access key assigned to it
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTY0MDgxMywyMDUzMjc1MzE0LC0xNz
+eyJoaXN0b3J5IjpbLTg5NTc1MDI3MiwyMDUzMjc1MzE0LC0xNz
 UwMjg3NjUzXX0=
 -->
