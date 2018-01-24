@@ -1,5 +1,5 @@
 ## Biplus
-BiPlus is a userfriendly BI
+BiPlus is the most user friendly BI expert 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2ODE0MDA4XX0=
+eyJoaXN0b3J5IjpbLTQ2MjkwODc2OV19
 -->
