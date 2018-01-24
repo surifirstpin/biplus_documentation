@@ -1,6 +1,6 @@
 ## Create  a connection 
 
- **Connection** specifies a database connection from which a model can retrieve the data and at time a model can use only one connection. to get started with the process you need to Select the database dialects used in your project and below are the steps to be followed:
+ **Connection** specifies a database connection from which a model can retrieve the data and at  a time model can use only one connection. to get started with the process you need to Select the database dialects used in your project and below are the steps to be followed:
  
 **1.** Click on **Database Section** to setup a database connection.
 
@@ -63,6 +63,6 @@
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjY3MzA1NzMsMjA1MzI3NTMxNCwtMT
-c1MDI4NzY1M119
+eyJoaXN0b3J5IjpbMjAzMTIyNTE5NSwyMDUzMjc1MzE0LC0xNz
+UwMjg3NjUzXX0=
 -->
