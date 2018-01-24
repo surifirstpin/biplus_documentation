@@ -43,8 +43,9 @@ In the most recent release, Bi Plus also supports following list of dialects;
 ## SSH Functionality
 
 - **Over SSH** protect the data using a user and access key assigned to it
-- 
+
 **3. Dialects** select the accurate dialect from the list using drop down option.
+## Test Connection
 **4. Test Connection** click the button to check if the entered information is running accurately.
 
 **5. Add Connection**click the button to establish and save the connection.
@@ -64,15 +65,7 @@ In the most recent release, Bi Plus also supports following list of dialects;
            welcome to Biplus
 
            welcome to Biplus
-
-## SSH functionality
-
-           welcome to Biplus
-
-## Test Connection
-
-          welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDA1NDMzMywyMDUzMjc1MzE0LC0xNz
-UwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbNTcyMzY2NTE3LDIwNTMyNzUzMTQsLTE3NT
+AyODc2NTNdfQ==
 -->
