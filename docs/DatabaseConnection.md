@@ -35,7 +35,7 @@
 
  **Host** Provides the database host path
 **Database** identifier name of the database used for connection
- **Username and Password** to connect the database
+**Username and Password** to connect the database
 - **Temp database** ( depending on the selected dialects) contains a derived set of tables which can be used as per requirement
 - **Maximum connection** maximum number of connection you want to setup
 - **Additional Parameters** include any additional JDBC parameter in this section
@@ -63,6 +63,6 @@
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTE5Mjc5OSwyMDUzMjc1MzE0LC0xNz
+eyJoaXN0b3J5IjpbLTQwODk4OTk0MywyMDUzMjc1MzE0LC0xNz
 UwMjg3NjUzXX0=
 -->
