@@ -8,7 +8,8 @@
 - **Name** Specify a name of the connection to define
 
 ## Different Dialects supported
-- **Database(dialect)** choose a appropriate dialect that matches your connection.at present Bi Plus is supporting following list of Database.Further to this we can also include the dialect as per the business requirement.
+
+ **Database(dialect)** choose a appropriate dialect that matches your connection.at present Bi Plus is supporting following list of Database.Further to this we can also include the dialect as per the business requirement.
   - MySQL
   - Oracle
   - MS SQL
@@ -38,6 +39,9 @@ In the most recent release, Bi Plus also supports following list of dialects;
 - **Temp database** ( depending on the selected dialects) contains a derived set of tables which can be used as per requirement
 - **Maximum connection** maximum number of connection you want to setup
 - **Additional Parameters** include any additional JDBC parameter in this section
+
+## SSH Functionality
+
 - **Over SSH** protect the data using a user and access key assigned to it
 - 
 **3. Dialects** select the accurate dialect from the list using drop down option.
@@ -69,6 +73,6 @@ In the most recent release, Bi Plus also supports following list of dialects;
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQ4NDI5OTMsMjA1MzI3NTMxNCwtMT
-c1MDI4NzY1M119
+eyJoaXN0b3J5IjpbMTE2MDA1NDMzMywyMDUzMjc1MzE0LC0xNz
+UwMjg3NjUzXX0=
 -->
