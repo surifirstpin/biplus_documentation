@@ -1,5 +1,5 @@
 ## Biplus
-BiPlus is a userfriendly 
+BiPlus is a userfriendly BI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDMxODk0MDldfQ==
+eyJoaXN0b3J5IjpbODg2ODE0MDA4XX0=
 -->
