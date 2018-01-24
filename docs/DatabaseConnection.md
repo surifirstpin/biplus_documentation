@@ -32,6 +32,7 @@
    - Hive
    
 >Note: In case if your database are not available in the above mentioned list, Bi Plus will include the dialects required.|
+
  **Host** Provides the database host path
 - **Database** identifier name of the database used for connection
 - **Username and Password** to connect the database
@@ -62,6 +63,6 @@
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njc4MzE3OTEsMjA1MzI3NTMxNCwtMT
+eyJoaXN0b3J5IjpbLTEyOTk0MDU3ODksMjA1MzI3NTMxNCwtMT
 c1MDI4NzY1M119
 -->
