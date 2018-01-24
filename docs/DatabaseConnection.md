@@ -24,7 +24,7 @@
     - Snowflake
     - PostgreSQL
     - Teradata
-   Apache Spark
+    - Apache Spark
 Impala
 Amazon Athena
 Druid
@@ -51,6 +51,6 @@ Hive
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1ODAwMzE2LDIwNTMyNzUzMTQsLTE3NT
+eyJoaXN0b3J5IjpbMjgzMTQwNjgxLDIwNTMyNzUzMTQsLTE3NT
 AyODc2NTNdfQ==
 -->
