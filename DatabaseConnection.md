@@ -6,7 +6,6 @@
 
 **2.** Click on **+New connection**  button to start setting up the connection to database. in general, you specify the below mentioned fields:
 - **Name** Specify a name of the connection to define
-
 ## Different Dialects supported
 
  - **Database(dialect)** choose a appropriate dialect that matches your connection.at present Bi Plus is supporting following list of Database.Further to this we can also include the dialect as per the business requirement.
@@ -62,6 +61,6 @@
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njk4NTMxODcsLTcyNDQ0OTc4LDE2Mz
+eyJoaXN0b3J5IjpbLTE4MTQ2NDYyNTcsLTcyNDQ0OTc4LDE2Mz
 gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
 -->
