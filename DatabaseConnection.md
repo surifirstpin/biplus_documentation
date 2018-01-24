@@ -33,10 +33,6 @@
    
 >Note: In case if your database are not available in the above mentioned list,Bi Plus will include the dialects required.
 
-## Edit a connection
-
-           welcome to Bi Pplus will include the dialects required.|
-
  **Host** Provides the database host path
  
 **Database** identifier name of the database used for connection
@@ -55,14 +51,13 @@
 
 **3. Dialects** select the accurate dialect from the list using drop down option.
 
-## Test Connection
+## Test and Save Connection
 
-**4. Test Connection** click the button to check if the entered information is running accurately.
+**4. Test Connection** click the button to check if the entered information is running accurately and click on save.
 
 **5. Add Connection**click the button to establish and save the connection.
 
 >After establishing the connection you can see the list of connections names on left side toolbar
-
 
 ## Edit a connection
 
@@ -70,25 +65,9 @@
 
 ## Delete a connection
 
-
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 
-## Delete a connection
-
-           welcome to Biplus
-
-## Different Dialects supported
-
-           welcome to Biplus
-
-## SSH functionality
-
-           welcome to Biplus
-
-## Test Connection
-
-          welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NzIyMTU3NCwtNzI0NDQ5NzgsMTYzOD
-ExNzg4MiwtMTI3MTA5OTQzNl19
+eyJoaXN0b3J5IjpbLTQ3NzY5NTEwLC03MjQ0NDk3OCwxNjM4MT
+E3ODgyLC0xMjcxMDk5NDM2XX0=
 -->
