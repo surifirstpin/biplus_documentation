@@ -17,9 +17,8 @@
   - Amazon Aurora(MySQL)
 >In the most recent release, Bi Plus also supports following list of dialects;
 
-
-    -   j
-     
+  
+     - 
 ## Edit a connection
 
            welcome to Biplus
@@ -40,6 +39,6 @@
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTg5NzgxODgsMjA1MzI3NTMxNCwtMT
-c1MDI4NzY1M119
+eyJoaXN0b3J5IjpbMTc5NzgzNjY0MiwyMDUzMjc1MzE0LC0xNz
+UwMjg3NjUzXX0=
 -->
