@@ -1,17 +1,20 @@
+
 ## Create  a connection 
 
- **Connection** specifies a database connection from which a model can retrieve the data and at  a time model can use only one connection. to get started with the process you need to Select the database dialects used in your project and below are the steps to be followed:
- 
-**1.** Click on **Database Section** to setup a database connection.
 
-**2.** Click on **+New connection**  button to start setting up the connection to database. in general, you specify the below mentioned fields:
+   **Connection** specifies a database connection from which a model can retrieve the data and at  a time model can use only one connection. to get started with the process you need to Select the database dialects used in your project and below are the steps to be followed:
+ 
+ 
+  **1.** Click on **Database Section** to setup a database connection.
+
+  **2.** Click on **+New connection**  button to start setting up the connection to database. in general, you specify the below mentioned fields:
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/demo%20image.png)
 
-**Name** Specify a name to define connection
+  **Name** Specify a name to define connection
 
 ## Different Dialects supported
 
- **Database(dialect)** choose a appropriate dialect that matches your connection. at present Bi Plus is supporting following list of Database.Further to this we can also include the dialect as per the business requirement.
+   **Database(dialect)** choose a appropriate dialect that matches your connection. at present Bi Plus is supporting following list of Database.Further to this we can also include the dialect as per the business requirement.
    - MySQL
    - Oracle
    - Vertica
@@ -70,6 +73,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Njc4MjI3MiwtNzI0NDQ5NzgsMTYzOD
-ExNzg4MiwtMTI3MTA5OTQzNl19
+eyJoaXN0b3J5IjpbLTE3MDc0NjU1NzAsLTcyNDQ0OTc4LDE2Mz
+gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
 -->
