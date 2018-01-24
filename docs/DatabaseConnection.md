@@ -9,12 +9,27 @@
 - **Database(dialect)** choose a appropriate dialect that matches your connection.at present Bi Plus is supporting following list of Database.Further to this we can also include the dialect as per the business requirement.
   - MySQL
   - Oracle
-MS SQL
-Vertica
-Rest
-PSQL
-MariaDB
-Amazon Aurora(MySQL)
+  - MS SQL
+   - Vertica
+  - Rest
+  - PSQL
+  - MariaDB
+  - Amazon Aurora(MySQL)
+>In the most recent release, Bi Plus also supports following list of dialects
+
+
+Amazon Redshift
+Google BigQuery
+Snowflake
+PostgreSQL
+Teradata
+Apache Spark
+Impala
+Amazon Athena
+Druid
+Cloud Spanner
+MemSQL
+Hive
 ## Edit a connection
 
            welcome to Biplus
@@ -35,6 +50,6 @@ Amazon Aurora(MySQL)
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Njc5NDU4OCwyMDUzMjc1MzE0LC0xNz
-UwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbLTEyNzMyMDg0MjEsMjA1MzI3NTMxNCwtMT
+c1MDI4NzY1M119
 -->
