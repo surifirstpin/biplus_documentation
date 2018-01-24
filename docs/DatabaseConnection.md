@@ -4,7 +4,6 @@
 
    **Connection** specifies a database connection from which a model can retrieve the data and at  a time model can use only one connection. to get started with the process you need to Select the database dialects used in your project and below are the steps to be followed:
  
- 
   **1.** Click on **Database Section** to setup a database connection.
 
   **2.** Click on **+New connection**  button to start setting up the connection to database. in general, you specify the below mentioned fields:
@@ -72,6 +71,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjAwMjIxMCw0OTQ4OTczMTgsLTE3NT
-AyODc2NTNdfQ==
+eyJoaXN0b3J5IjpbOTEyNTc2NTQ4LDQ5NDg5NzMxOCwtMTc1MD
+I4NzY1M119
 -->
