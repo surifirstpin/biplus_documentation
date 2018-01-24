@@ -6,6 +6,8 @@
 
 **2.** Click on +New connection button to start setting up the connection to database. in general, you specify the below mentioned fields:
 - **Name** Specify a name of the connection to define
+
+## Different Dialects supported
 - **Database(dialect)** choose a appropriate dialect that matches your connection.at present Bi Plus is supporting following list of Database.Further to this we can also include the dialect as per the business requirement.
   - MySQL
   - Oracle
@@ -37,10 +39,11 @@ In the most recent release, Bi Plus also supports following list of dialects;
 - **Maximum connection** maximum number of connection you want to setup
 - **Additional Parameters** include any additional JDBC parameter in this section
 - **Over SSH** protect the data using a user and access key assigned to it
-**3.** Dialects select the accurate dialect from the list using drop down option.
-**Test Connection** click the button to check if the entered information is running accurately.
+- 
+**3. Dialects** select the accurate dialect from the list using drop down option.
+**4. Test Connection** click the button to check if the entered information is running accurately.
 
-**5.** Add Connection click the button to establish and save the connection.
+**5. Add Connection**click the button to establish and save the connection.
 
 >After establishing the connection you can see the list of connections names on left side toolbar
 
@@ -56,8 +59,6 @@ In the most recent release, Bi Plus also supports following list of dialects;
 
            welcome to Biplus
 
-## Different Dialects supported
-
            welcome to Biplus
 
 ## SSH functionality
@@ -68,6 +69,6 @@ In the most recent release, Bi Plus also supports following list of dialects;
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDk4MjQxMiwyMDUzMjc1MzE0LC0xNz
-UwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbLTIxMjQ4NDI5OTMsMjA1MzI3NTMxNCwtMT
+c1MDI4NzY1M119
 -->
