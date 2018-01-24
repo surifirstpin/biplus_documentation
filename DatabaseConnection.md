@@ -5,6 +5,7 @@
 **1.** Click on **Database Section** to setup a database connection.
 
 **2.** Click on **+New connection**  button to start setting up the connection to database. in general, you specify the below mentioned fields:
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/demo%20image.png)
 
 **Name** Specify a name to define connection
 
@@ -68,6 +69,6 @@
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NzY5NTEwLC03MjQ0NDk3OCwxNjM4MT
-E3ODgyLC0xMjcxMDk5NDM2XX0=
+eyJoaXN0b3J5IjpbLTE4NDQ1NzU2NTUsLTcyNDQ0OTc4LDE2Mz
+gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
 -->
