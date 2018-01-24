@@ -31,7 +31,16 @@
    - MemSQL
    - Hive
    
->Note: In case if your database are not available in the above mentioned list, Bi Plus will include the dialects required.|
+>Note: In case if your database are not available in the above mentioned list,          welcome to BiplusMy sSample db connection
+           asdlfkasdf alskdfj asdf
+
+
+----------
+
+
+## Edit a connection
+
+           welcome to Bi Pplus will include the dialects required.|
 
  **Host** Provides the database host path
  
@@ -68,7 +77,23 @@
 
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
+
+## Delete a connection
+
+           welcome to Biplus
+
+## Different Dialects supported
+
+           welcome to Biplus
+
+## SSH functionality
+
+           welcome to Biplus
+
+## Test Connection
+
+          welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjA2MDY1NSwtNzI0NDQ5NzgsMTYzOD
+eyJoaXN0b3J5IjpbLTg5MDY1MzExMSwtNzI0NDQ5NzgsMTYzOD
 ExNzg4MiwtMTI3MTA5OTQzNl19
 -->
