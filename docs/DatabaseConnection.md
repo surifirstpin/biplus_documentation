@@ -31,11 +31,7 @@
    - MemSQL
    - Hive
    
->Note: In case if your database are not available in the above mentioned list,          welcome to BiplusMy sSample db connection
-           asdlfkasdf alskdfj asdf
-
-
-----------
+>Note: In case if your database are not available in the above mentioned list,Bi Plus will include the dialects required.
 
 
 ## Edit a connection
@@ -94,6 +90,6 @@
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDY1MzExMSw0OTQ4OTczMTgsLTE3NT
+eyJoaXN0b3J5IjpbLTU3OTg5OTE3Niw0OTQ4OTczMTgsLTE3NT
 AyODc2NTNdfQ==
 -->
