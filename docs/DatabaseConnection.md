@@ -15,10 +15,19 @@
   - PSQL
   - MariaDB
   - Amazon Aurora(MySQL)
->In the most recent release, Bi Plus also supports following list of dialects;
-
-  
-     - 
+In the most recent release, Bi Plus also supports following list of dialects;
+  - Amazon Redshift
+  - Google BigQuery
+  - Snowflake
+  - PostgreSQL
+  - Teradata
+  - Apache Spark
+  - Impala
+  - Amazon Athena
+  - Druid
+Cloud Spanner
+MemSQL
+Hive
 ## Edit a connection
 
            welcome to Biplus
@@ -39,6 +48,6 @@
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzgzNjY0MiwyMDUzMjc1MzE0LC0xNz
-UwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbLTIwMjM4ODY3MzMsMjA1MzI3NTMxNCwtMT
+c1MDI4NzY1M119
 -->
