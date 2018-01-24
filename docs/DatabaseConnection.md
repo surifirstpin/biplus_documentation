@@ -45,8 +45,8 @@
  - Amazon Athena
  - Druid
  - Cloud Spanner
-  - MemSQL
-   - Hive
+ - MemSQL
+ - Hive
    
 ## SSH Functionality
 
@@ -72,6 +72,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjk4NTI1MTYsNDk0ODk3MzE4LC0xNz
-UwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbMTAyMTg3MDU0Niw0OTQ4OTczMTgsLTE3NT
+AyODc2NTNdfQ==
 -->
