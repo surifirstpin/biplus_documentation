@@ -41,7 +41,7 @@
  - PostgreSQL
  - Teradata
  - Apache Spark
-   - Impala
+ - Impala
    - Amazon Athena
    - Druid
    - Cloud Spanner
@@ -72,6 +72,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5ODk5OTg2LC03MjQ0NDk3OCwxNjM4MT
+eyJoaXN0b3J5IjpbNDIwNTE0MDAyLC03MjQ0NDk3OCwxNjM4MT
 E3ODgyLC0xMjcxMDk5NDM2XX0=
 -->
