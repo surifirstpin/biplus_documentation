@@ -6,7 +6,7 @@
 
 **2.** Click on **+New connection**  button to start setting up the connection to database. in general, you specify the below mentioned fields:
 - **Name** Specify a name of the connection to define
-
+- 
 ## Different Dialects supported
 
  - **Database(dialect)** choose a appropriate dialect that matches your connection.at present Bi Plus is supporting following list of Database.Further to this we can also include the dialect as per the business requirement.
@@ -32,7 +32,6 @@
    - MemSQL
    - Hive
 >Note: In case if your database are not available in the above mentioned list, Bi Plus will include the dialects required.|
-
 - **Host** Provides the database host path
 - **Database** identifier name of the database used for connection
 - **Username and Password** to connect the database
@@ -63,6 +62,6 @@
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTIyNTE5NSwyMDUzMjc1MzE0LC0xNz
-UwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbLTE0MTcwMjkzMDIsMjA1MzI3NTMxNCwtMT
+c1MDI4NzY1M119
 -->
