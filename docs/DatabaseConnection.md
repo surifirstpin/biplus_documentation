@@ -24,7 +24,7 @@ In the most recent release, Bi Plus also supports following list of dialects;
     - Snowflake
     - PostgreSQL
     - Teradata
-  - Apache Spark
+    - Apache Spark
   - Impala
   - Amazon Athena
   - Druid
@@ -63,6 +63,6 @@ In the most recent release, Bi Plus also supports following list of dialects;
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzE1MDE1NTYsMjA1MzI3NTMxNCwtMT
+eyJoaXN0b3J5IjpbLTExNzgzNjE0NjAsMjA1MzI3NTMxNCwtMT
 c1MDI4NzY1M119
 -->
