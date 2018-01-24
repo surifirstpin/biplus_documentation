@@ -1,8 +1,9 @@
 ## Create  a connection 
 
-           welcome to BiplusMy sSample db connection
-           asdlfkasdf alskdfj asdf
+ Connection specifies a database connection from which model can retrieve the data. 
+**1.** Click on Database Section to setup a database connection.
 
+**2.** Click on +New connection button to start setting up the connection to database. in general, you specify the below mentioned fields:
 ## Edit a connection
 
            welcome to Biplus
@@ -23,6 +24,6 @@
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzMzNjc4OSwyMDUzMjc1MzE0LC0xNz
+eyJoaXN0b3J5IjpbMTk0NzgwNTgyNiwyMDUzMjc1MzE0LC0xNz
 UwMjg3NjUzXX0=
 -->
