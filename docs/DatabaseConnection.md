@@ -1,6 +1,6 @@
 ## Create  a connection 
 
- Connection specifies a database connection from which a model can retrieve the data and at time a model can use only one connection. to get started with the process you need to Select the database dialects used in your project and below are the steps to be followed:
+ **Connection** specifies a database connection from which a model can retrieve the data and at time a model can use only one connection. to get started with the process you need to Select the database dialects used in your project and below are the steps to be followed:
  
 **1.** Click on **Database Section** to setup a database connection.
 
@@ -9,7 +9,7 @@
 
 ## Different Dialects supported
 
- - ** 8.** Database(dialect)** choose a appropriate dialect that matches your connection.at present Bi Plus is supporting following list of Database.Further to this we can also include the dialect as per the business requirement.
+ - **Database(dialect)** choose a appropriate dialect that matches your connection.at present Bi Plus is supporting following list of Database.Further to this we can also include the dialect as per the business requirement.
     - MySQL
     - Oracle
     - MS SQL
@@ -63,6 +63,6 @@ In the most recent release, Bi Plus also supports following list of dialects;
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDA2MjUyLDIwNTMyNzUzMTQsLTE3NT
-AyODc2NTNdfQ==
+eyJoaXN0b3J5IjpbNjk1NzA1MjYsMjA1MzI3NTMxNCwtMTc1MD
+I4NzY1M119
 -->
