@@ -2,7 +2,7 @@
 
  Connection specifies a database connection from which a model can retrieve the data and at time a model can use only one connection. to get started with the process you need to Select the database dialects used in your project and below are the steps to be followed:
  
-**1.** Click on Database Section to setup a database connection.
+**1.** Click on **Database Section to setup a database connection.
 
 **2.** Click on **+New connection**  button to start setting up the connection to database. in general, you specify the below mentioned fields:
 - **Name** Specify a name of the connection to define
@@ -63,5 +63,5 @@ In the most recent release, Bi Plus also supports following list of dialects;
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Mjc4NDUzMl19
+eyJoaXN0b3J5IjpbLTEyNzEwOTk0MzYsMTU5Mjc4NDUzMl19
 -->
