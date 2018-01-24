@@ -56,7 +56,7 @@
 
 **3. Dialects** select the accurate dialect from the list using drop down option.
 
-## Test and Save Connection
+## Test and Add Connection
 
 **4. Test Connection** click the button to check if the entered information is running accurately.
 
@@ -74,6 +74,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTExOTk0Niw0OTQ4OTczMTgsLTE3NT
-AyODc2NTNdfQ==
+eyJoaXN0b3J5IjpbLTEzOTc2OTM0MjYsNDk0ODk3MzE4LC0xNz
+UwMjg3NjUzXX0=
 -->
