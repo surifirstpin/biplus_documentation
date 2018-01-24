@@ -38,7 +38,7 @@
 **Username and Password** to connect the database
 **Temp database** ( depending on the selected dialects) contains a derived set of tables which can be used as per requirement
 **Maximum connection** maximum number of connection you want to setup
--**Additional Parameters** include any additional JDBC parameter in this section
+**Additional Parameters** include any additional JDBC parameter in this section
 
 ## SSH Functionality
 
@@ -63,6 +63,6 @@
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDE4NDg4MTUsLTcyNDQ0OTc4LDE2Mz
-gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
+eyJoaXN0b3J5IjpbLTIwNTUxNjIwMiwtNzI0NDQ5NzgsMTYzOD
+ExNzg4MiwtMTI3MTA5OTQzNl19
 -->
