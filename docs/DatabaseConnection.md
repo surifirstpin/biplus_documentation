@@ -15,7 +15,11 @@
   - PSQL
   - MariaDB
   - Amazon Aurora(MySQL)
->In the most recent release, Bi Plus also supports following list of dialects.  
+>In the most recent release, Bi Plus also supports following list of dialects;
+
+
+  - j
+     
 ## Edit a connection
 
            welcome to Biplus
@@ -36,6 +40,6 @@
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjg2NTEwLDIwNTMyNzUzMTQsLTE3NT
-AyODc2NTNdfQ==
+eyJoaXN0b3J5IjpbMTUxOTcxOTQ3NiwyMDUzMjc1MzE0LC0xNz
+UwMjg3NjUzXX0=
 -->
