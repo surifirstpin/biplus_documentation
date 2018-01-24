@@ -5,6 +5,8 @@
 **1.** Click on Database Section to setup a database connection.
 
 **2.** Click on +New connection button to start setting up the connection to database. in general, you specify the below mentioned fields:
+- **Name** Specify a name of the connection to define
+- **Database(dialect)** choose a appropriate dialect that matches your connection.at present Bi Plus is supporting following list of Database.Further to this we can also include the dialect as per the business requirement.
 
 ## Edit a connection
 
@@ -26,6 +28,6 @@
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjEyODE4NiwyMDUzMjc1MzE0LC0xNz
-UwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbNjM5OTk1MDcxLDIwNTMyNzUzMTQsLTE3NT
+AyODc2NTNdfQ==
 -->
