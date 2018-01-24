@@ -37,7 +37,16 @@ In the most recent release, Bi Plus also supports following list of dialects;
 - **Maximum connection** maximum number of connection you want to setup
 - **Additional Parameters** include any additional JDBC parameter in this section
 - **Over SSH** protect the data using a user and access key assigned to it
-**3.** Dialects select the accurate dialect from the list using dropdown option.
+**3.** Dialects select the accurate dialect from the list using drop down option.
+**Test Connection** click the button to check if the entered information is running accurately.
+
+**5.** Add Connection click the button to establish and save the connection.
+
+>After establishing the connection you can see the list of connections names on left side toolbar
+
+**6.** click on edit option available on right side of your connection name to make changes.
+
+**7.** click on delete option available on far right of your connection name to delete the connection from database.
 
 ## Edit a connection
 
@@ -59,6 +68,6 @@ In the most recent release, Bi Plus also supports following list of dialects;
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTk0Njk3MiwyMDUzMjc1MzE0LC0xNz
+eyJoaXN0b3J5IjpbLTQxNDk4MjQxMiwyMDUzMjc1MzE0LC0xNz
 UwMjg3NjUzXX0=
 -->
