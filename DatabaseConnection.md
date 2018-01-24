@@ -42,11 +42,11 @@
  - Teradata
  - Apache Spark
  - Impala
-   - Amazon Athena
-   - Druid
-   - Cloud Spanner
-   - MemSQL
-   - Hive
+ - Amazon Athena
+ - Druid
+ - Cloud Spanner
+ - MemSQL
+ - Hive
    
 ## SSH Functionality
 
@@ -72,6 +72,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwNTE0MDAyLC03MjQ0NDk3OCwxNjM4MT
-E3ODgyLC0xMjcxMDk5NDM2XX0=
+eyJoaXN0b3J5IjpbMTAyMTg3MDU0NiwtNzI0NDQ5NzgsMTYzOD
+ExNzg4MiwtMTI3MTA5OTQzNl19
 -->
