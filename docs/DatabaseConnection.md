@@ -27,7 +27,7 @@
     - Apache Spark
     - Impala
     - Amazon Athena
-    Druid
+    - Druid
 Cloud Spanner
 MemSQL
 Hive
@@ -51,6 +51,6 @@ Hive
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTI5NDAyNDEsMjA1MzI3NTMxNCwtMT
-c1MDI4NzY1M119
+eyJoaXN0b3J5IjpbMzY3NDkzNTY0LDIwNTMyNzUzMTQsLTE3NT
+AyODc2NTNdfQ==
 -->
