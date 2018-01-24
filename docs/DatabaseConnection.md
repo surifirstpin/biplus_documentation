@@ -54,18 +54,15 @@ In the most recent release, Bi Plus also supports following list of dialects;
 >After establishing the connection you can see the list of connections names on left side toolbar
 
 
-**7.** click on delete option available on far right of your connection name to delete the connection from database.
-
 ## Edit a connection
 
    **6.** click on **edit** option available on right side of your connection name to make changes.
 
 ## Delete a connection
 
-           welcome to Biplus
 
-           welcome to Biplus
+**7.** click on **delete option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTg5NzUwOSwyMDUzMjc1MzE0LC0xNz
-UwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbLTExNDQ5NTM3ODMsMjA1MzI3NTMxNCwtMT
+c1MDI4NzY1M119
 -->
