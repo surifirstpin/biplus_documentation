@@ -23,16 +23,16 @@
 
   - Amazon Redshift
    - Google BigQuery
-    - Snowflake
-    - PostgreSQL
-    - Teradata
-    - Apache Spark
-    - Impala
-    - Amazon Athena
-    - Druid
-    - Cloud Spanner
-    - MemSQL
-    - Hive
+   - Snowflake
+   - PostgreSQL
+   - Teradata
+   - Apache Spark
+   - Impala
+   - Amazon Athena
+   - Druid
+   - Cloud Spanner
+   - MemSQL
+   - Hive
 >Note: In case if your database are not available in the above mentioned list, Bi Plus will include the dialects required.|
 
 - **Host** Provides the database host path
@@ -65,6 +65,6 @@
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzkzNTgyNzMsLTcyNDQ0OTc4LDE2Mz
-gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
+eyJoaXN0b3J5IjpbLTkxMjExMTQ1MywtNzI0NDQ5NzgsMTYzOD
+ExNzg4MiwtMTI3MTA5OTQzNl19
 -->
