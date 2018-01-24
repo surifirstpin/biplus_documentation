@@ -12,7 +12,6 @@
 - **Database(dialect)** choose a appropriate dialect that matches your connection. at present Bi Plus is supporting following list of Database.Further to this we can also include the dialect as per the business requirement.
    - MySQL
    - Oracle
-   - MS SQL
    - Vertica
    - Rest
    - PSQL
@@ -62,6 +61,6 @@
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTU2Nzg3LDIwNTMyNzUzMTQsLTE3NT
-AyODc2NTNdfQ==
+eyJoaXN0b3J5IjpbLTE5Njk0MDg4NzgsMjA1MzI3NTMxNCwtMT
+c1MDI4NzY1M119
 -->
