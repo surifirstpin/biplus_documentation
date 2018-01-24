@@ -59,7 +59,6 @@
 
 >After establishing the connection you can see the list of connections names on left side toolbar
 
-
 ## Edit a connection
 
    **6.** click on **edit** option available on right side of your connection name to make changes.
@@ -69,6 +68,6 @@
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTM0OTQ2MCw0OTQ4OTczMTgsLTE3NT
-AyODc2NTNdfQ==
+eyJoaXN0b3J5IjpbLTQ3NzY5NTEwLDQ5NDg5NzMxOCwtMTc1MD
+I4NzY1M119
 -->
