@@ -21,7 +21,7 @@
    
 - In the most recent release, Bi Plus also supports following list of dialects;
 
-  - Amazon Redshift
+   - Amazon Redshift
    - Google BigQuery
    - Snowflake
    - PostgreSQL
@@ -65,6 +65,6 @@
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjExMTQ1MywtNzI0NDQ5NzgsMTYzOD
-ExNzg4MiwtMTI3MTA5OTQzNl19
+eyJoaXN0b3J5IjpbNTgzNjY3NTcxLC03MjQ0NDk3OCwxNjM4MT
+E3ODgyLC0xMjcxMDk5NDM2XX0=
 -->
