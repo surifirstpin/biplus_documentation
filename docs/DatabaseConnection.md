@@ -44,8 +44,8 @@
  - Impala
  - Amazon Athena
  - Druid
-   - Cloud Spanner
-   - MemSQL
+ - Cloud Spanner
+  - MemSQL
    - Hive
    
 ## SSH Functionality
@@ -72,6 +72,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxMTAxNjUwLDQ5NDg5NzMxOCwtMTc1MD
-I4NzY1M119
+eyJoaXN0b3J5IjpbLTEzNjk4NTI1MTYsNDk0ODk3MzE4LC0xNz
+UwMjg3NjUzXX0=
 -->
