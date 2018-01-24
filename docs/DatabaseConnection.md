@@ -33,10 +33,6 @@
    
 >Note: In case if your database are not available in the above mentioned list,Bi Plus will include the dialects required.
 
-## Edit a connection
-
-           welcome to Bi Pplus will include the dialects required.|
-
  **Host** Provides the database host path
  
 **Database** identifier name of the database used for connection
@@ -55,9 +51,9 @@
 
 **3. Dialects** select the accurate dialect from the list using drop down option.
 
-## Test Connection
+## Test and Save Connection
 
-**4. Test Connection** click the button to check if the entered information is running accurately.
+**4. Test Connection** click the button to check if the entered information is running accurately and click on save.
 
 **5. Add Connection**click the button to establish and save the connection.
 
@@ -89,6 +85,6 @@
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NzIyMTU3NCw0OTQ4OTczMTgsLTE3NT
+eyJoaXN0b3J5IjpbLTQyNjM5OTY3Nyw0OTQ4OTczMTgsLTE3NT
 AyODc2NTNdfQ==
 -->
