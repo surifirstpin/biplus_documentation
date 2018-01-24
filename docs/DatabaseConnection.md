@@ -45,6 +45,7 @@ In the most recent release, Bi Plus also supports following list of dialects;
 - **Over SSH** protect the data using a user and access key assigned to it
 
 **3. Dialects** select the accurate dialect from the list using drop down option.
+
 ## Test Connection
 **4. Test Connection** click the button to check if the entered information is running accurately.
 
@@ -52,13 +53,12 @@ In the most recent release, Bi Plus also supports following list of dialects;
 
 >After establishing the connection you can see the list of connections names on left side toolbar
 
-**6.** click on edit option available on right side of your connection name to make changes.
 
 **7.** click on delete option available on far right of your connection name to delete the connection from database.
 
 ## Edit a connection
 
-           welcome to Biplus
+   **6.** click on **edit** option available on right side of your connection name to make changes.
 
 ## Delete a connection
 
@@ -66,6 +66,6 @@ In the most recent release, Bi Plus also supports following list of dialects;
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyMzY2NTE3LDIwNTMyNzUzMTQsLTE3NT
-AyODc2NTNdfQ==
+eyJoaXN0b3J5IjpbLTY5OTg5NzUwOSwyMDUzMjc1MzE0LC0xNz
+UwMjg3NjUzXX0=
 -->
