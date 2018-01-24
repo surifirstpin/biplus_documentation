@@ -6,7 +6,7 @@
 
 **2.** Click on **+New connection**  button to start setting up the connection to database. in general, you specify the below mentioned fields:
 
-**Name** Specify a name to define a connection
+**Name** Specify a name to define connection
 
 ## Different Dialects supported
 
@@ -64,6 +64,6 @@
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzODUxMTIsMjA1MzI3NTMxNCwtMTc1MD
-I4NzY1M119
+eyJoaXN0b3J5IjpbNzQ3ODMyNDA3LDIwNTMyNzUzMTQsLTE3NT
+AyODc2NTNdfQ==
 -->
