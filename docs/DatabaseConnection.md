@@ -34,7 +34,7 @@
 >Note: In case if your database are not available in the above mentioned list, Bi Plus will include the dialects required.|
 
  **Host** Provides the database host path
-- **Database** identifier name of the database used for connection
+**Database** identifier name of the database used for connection
 - **Username and Password** to connect the database
 - **Temp database** ( depending on the selected dialects) contains a derived set of tables which can be used as per requirement
 - **Maximum connection** maximum number of connection you want to setup
@@ -63,6 +63,6 @@
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTk0MDU3ODksMjA1MzI3NTMxNCwtMT
-c1MDI4NzY1M119
+eyJoaXN0b3J5IjpbMTQ3NzYzMjAyMiwyMDUzMjc1MzE0LC0xNz
+UwMjg3NjUzXX0=
 -->
