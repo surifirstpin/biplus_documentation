@@ -18,8 +18,9 @@
    - PSQL
    - MariaDB
    - Amazon Aurora(MySQL)
-In the most recent release, Bi Plus also supports following list of dialects;
-    -   Amazon Redshift
+>In the most recent release, Bi Plus also supports following list of dialects;
+
+ - Amazon Redshift
     - Google BigQuery
     - Snowflake
     - PostgreSQL
@@ -63,6 +64,6 @@ In the most recent release, Bi Plus also supports following list of dialects;
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxNjQ4MTUwLDIwNTMyNzUzMTQsLTE3NT
+eyJoaXN0b3J5IjpbNjk0MjQzMjk2LDIwNTMyNzUzMTQsLTE3NT
 AyODc2NTNdfQ==
 -->
