@@ -8,8 +8,7 @@
 - **Name** Specify a name of the connection to define
 ## Different Dialects supported
 
-
-- **Database(dialect)** choose a appropriate dialect that matches your connection. at present Bi Plus is supporting following list of Database.Further to this we can also include the dialect as per the business requirement.
+ **Database(dialect)** choose a appropriate dialect that matches your connection. at present Bi Plus is supporting following list of Database.Further to this we can also include the dialect as per the business requirement.
    - MySQL
    - Oracle
    - Vertica
@@ -61,6 +60,6 @@
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njk0MDg4NzgsLTcyNDQ0OTc4LDE2Mz
-gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
+eyJoaXN0b3J5IjpbLTcwODI3NzEzMywtNzI0NDQ5NzgsMTYzOD
+ExNzg4MiwtMTI3MTA5OTQzNl19
 -->
