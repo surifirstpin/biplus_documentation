@@ -23,7 +23,7 @@
     - Google BigQuery
     - Snowflake
     - PostgreSQL
-    Teradata
+    - Teradata
 Apache Spark
 Impala
 Amazon Athena
@@ -51,6 +51,6 @@ Hive
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzkyMzUwMzcsMjA1MzI3NTMxNCwtMT
-c1MDI4NzY1M119
+eyJoaXN0b3J5IjpbLTk2NTI3ODQ3NCwyMDUzMjc1MzE0LC0xNz
+UwMjg3NjUzXX0=
 -->
