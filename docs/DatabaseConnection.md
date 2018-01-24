@@ -54,7 +54,7 @@
 
 ## Test and Save Connection
 
-**4. Test Connection** click the button to check if the entered information is running accurately and click on save.
+**4. Test Connection** click the button to check if the entered information is running accurately.
 
 **5. Add Connection**click the button to establish and save the connection.
 
@@ -68,7 +68,8 @@
 
 **7.** click on **delete** option available on far right of your connection name to delete the connection from database.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ1NzU2NTUsNDk0ODk3MzE4LC0xNz
-UwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbMTI5MzUzNDAyMCw0OTQ4OTczMTgsLTE3NT
+AyODc2NTNdfQ==
 -->
