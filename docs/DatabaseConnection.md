@@ -18,7 +18,7 @@
 >In the most recent release, Bi Plus also supports following list of dialects;
 
 
-  - j
+  -   j
      
 ## Edit a connection
 
@@ -40,6 +40,6 @@
 
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTcxOTQ3NiwyMDUzMjc1MzE0LC0xNz
-UwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbLTE3ODc2NDg0NjAsMjA1MzI3NTMxNCwtMT
+c1MDI4NzY1M119
 -->
