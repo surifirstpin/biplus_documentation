@@ -12,9 +12,9 @@
 
   **Name** Specify a name to define connection
   
-   **Database(dialect)** choose a appropriate dialect that matches your connection. At present Bi Plus is supporting following list of Database. 
+   **Database(dialect)** choose a appropriate dialect that matches your connection. 
    
->Note: Further to this we can also include the dialect as per the business requirement.
+>Note: As per your business requirement we can include the s
 
  **Host** Provides the database host path
  
@@ -73,6 +73,6 @@
  - MemSQL
  - Hive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTc3Mzg0NSwtMTg0MTQ5OTI5LC03Mj
-Q0NDk3OCwxNjM4MTE3ODgyLC0xMjcxMDk5NDM2XX0=
+eyJoaXN0b3J5IjpbODU3MTg4MDMzLC0xODQxNDk5MjksLTcyND
+Q0OTc4LDE2MzgxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
 -->
