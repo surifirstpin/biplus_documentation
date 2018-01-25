@@ -26,7 +26,7 @@
 
    
 ## SSH 
-To proceed with Database Configuration, you can connect BiPlus to your database  without using SSH tunnel If you’re connecting Looker to your database without using an SSH tunnel, please proceed on to Database Configuration.
+In Case if you are connection Bi If you’re connecting Looker to your database without using an SSH tunnel, please proceed on to Database Configuration.
 
 If you’re connecting with a tunnel server, which is the same as your database host, you should provide the following information to your Looker analyst:
 
@@ -65,6 +65,6 @@ Username on the tunnel server for the SSH connection (the standard is looker)
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1NDg4MDQ5LDQzODc0NjA3MywyMTA0Nz
-AyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2NTNdfQ==
+eyJoaXN0b3J5IjpbLTUyODk4MDI5Niw0Mzg3NDYwNzMsMjEwND
+cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
 -->
