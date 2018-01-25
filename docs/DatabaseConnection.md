@@ -29,7 +29,7 @@
    
 ## SSH Functionality
 
-**Over SSH** network protocol for operating network services secureprotocol securely protect the data using a user and access key assigned to it
+**Over SSH** network protocol for operating network services securely protocol securely protect the data using a user and access key assigned to it
 
 **3. Dialects** select the accurate dialect from the list using drop down option.
 
@@ -73,6 +73,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Mjg2OTgsNDM4NzQ2MDczLDIxMDQ3MD
-IwNCwtMTM5NzY5MzQyNiwtMTc1MDI4NzY1M119
+eyJoaXN0b3J5IjpbMTk2NzY4NzA1MSw0Mzg3NDYwNzMsMjEwND
+cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
 -->
