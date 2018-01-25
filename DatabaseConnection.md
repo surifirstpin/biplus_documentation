@@ -28,7 +28,7 @@
 ## SSH 
 In case if you are connecting BiPlus to your database without using SSH tunnel,you can go ahead with Database Configuration
 
-In case if you are connecting through SSH tunnel ,you need to provide thenfollowing information to BiPlus analyst:
+In case if you are connecting through SSH tunnel ,you need to provide thefollowing information to BiPlus analyst:
 
 IP address or DNS name of the database server
 SSH port of the database server
@@ -65,7 +65,7 @@ Username on the tunnel server for the SSH connection (the standard is looker)
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDk1MDA3MDcsMTM2NDc0MjcxMywtMT
-g0MTQ5OTI5LC03MjQ0NDk3OCwxNjM4MTE3ODgyLC0xMjcxMDk5
-NDM2XX0=
+eyJoaXN0b3J5IjpbNjk2ODY0OTE1LC0xNzQ5NTAwNzA3LDEzNj
+Q3NDI3MTMsLTE4NDE0OTkyOSwtNzI0NDQ5NzgsMTYzODExNzg4
+MiwtMTI3MTA5OTQzNl19
 -->
