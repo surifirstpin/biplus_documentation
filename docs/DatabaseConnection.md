@@ -2,9 +2,9 @@
 ## Create  a connection 
 
 
-   **Connection** specifies a database connection from which a model can retrieve the data. Folllowing aee the steps to followed to set up the connection.
-**1.**  From your database administrator, get the contact details for your database such as host name, database or schema name, username, and password.
-**2.** Enable secure access to your database. You have several choices:
+   **Connection** specifies a database connection from which a model can retrieve the data. Following are the steps to followed to set up the connection.
+**I.**  From your database administrator, get the contact details for your database such as host name, database or schema name, username, and password.
+**II.** Enable secure access to your database. You have several choices:
   -  Using an IP Address Whitelist, optionally adding SSL Encryption.
   - Using an SSH Tunnel, which provides an encrypted connection and extra authentication. This is more secure but also is more time-consuming to set up. 
 
@@ -73,6 +73,6 @@ if connecting with separate database host then you need to provide following inf
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwNDA5NDcyLDQzODc0NjA3MywyMTA0Nz
+eyJoaXN0b3J5IjpbODEzNjA0NjExLDQzODc0NjA3MywyMTA0Nz
 AyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2NTNdfQ==
 -->
