@@ -53,27 +53,9 @@
 
 ##  Dialects supported
 
- - MySQL
- - Oracle
- - Vertica
- - Rest
- - PSQL
- - MariaDB
- - Amazon Aurora(MySQL)  
- - Amazon Redshift
- - Google BigQuery
- - Snowflake
- - PostgreSQL
- - Teradata
- - Apache Spark
- - Impala
- - Amazon Athena
- - Druid
- - Cloud Spanner
- - MemSQL
- - Hive
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyNjY1NzMwLDEzNjQ3NDI3MTMsLTE4ND
-E0OTkyOSwtNzI0NDQ5NzgsMTYzODExNzg4MiwtMTI3MTA5OTQz
-Nl19
+eyJoaXN0b3J5IjpbLTE5NTAxNjUzOTAsMTM2NDc0MjcxMywtMT
+g0MTQ5OTI5LC03MjQ0NDk3OCwxNjM4MTE3ODgyLC0xMjcxMDk5
+NDM2XX0=
 -->
