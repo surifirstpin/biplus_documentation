@@ -49,30 +49,10 @@
 
 **7.** click on **Delete** option available on far right of your connection name to delete the connection from database.
 
-##  Dialects supported
 
- - MySQL
- - Oracle
- - Vertica
- - Rest
- - PSQL
- - MariaDB
- - Amazon Aurora(MySQL)  
- - Amazon Redshift
- - Google BigQuery
- - Snowflake
- - PostgreSQL
- - Teradata
- - Apache Spark
- - Impala
- - Amazon Athena
- - Druid
- - Cloud Spanner
- - MemSQL
- - Hive
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjEzMzQyOTMsNDM4NzQ2MDczLDIxMD
-Q3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4NzY1M119
+eyJoaXN0b3J5IjpbMTE0NjMyMDU5OSw0Mzg3NDYwNzMsMjEwND
+cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
 -->
