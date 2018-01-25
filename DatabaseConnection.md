@@ -72,8 +72,8 @@
  - Cloud Spanner
  - MemSQL
  - Hive
- ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/image.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDc0MjcxMywtMTg0MTQ5OTI5LC03Mj
-Q0NDk3OCwxNjM4MTE3ODgyLC0xMjcxMDk5NDM2XX0=
+eyJoaXN0b3J5IjpbMjcyNjY1NzMwLDEzNjQ3NDI3MTMsLTE4ND
+E0OTkyOSwtNzI0NDQ5NzgsMTYzODExNzg4MiwtMTI3MTA5OTQz
+Nl19
 -->
