@@ -27,9 +27,9 @@
 **Additional Parameters** include any additional JDBC parameter in this section
 
    
-## SSH Functionality
+## SSH 
 
-**Over SSH** network protocol for operating network services securely protocol securely protect the data using a user and access key assigned to it
+**Over SSH** network protocol for operating network services securely over unsecured network by access key.
 
 **3. Dialects** select the accurate dialect from the list using drop down option.
 
@@ -73,6 +73,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzY4NzA1MSwtNzI0NDQ5NzgsMTYzOD
-ExNzg4MiwtMTI3MTA5OTQzNl19
+eyJoaXN0b3J5IjpbNDY1Mjc3MDgsLTcyNDQ0OTc4LDE2MzgxMT
+c4ODIsLTEyNzEwOTk0MzZdfQ==
 -->
