@@ -2,7 +2,7 @@
 ## Create  a connection 
 
 
-   **Connection** specifies a database connection from which a model can retrieve the data and at a time model can use only one connection. To get started with the process you need to Select the database dialects used in your project and below are the steps to be followed:
+   **Connection** specifies a database connection from which a model can retrieve the data and at a time model can use only one connection. this page provids you with the information on how to connect to  To get started with the process you need to Select the database dialects used in your project and below are the steps to be followed:
  
   **1.** Click on **Database Section** to setup a database connection.
 
@@ -65,7 +65,7 @@ if connecting with separate database host then you need to provide following inf
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTEyMjI4NCw2OTY4NjQ5MTUsMTM2ND
+eyJoaXN0b3J5IjpbMTU3NTg3MTU1NSw2OTY4NjQ5MTUsMTM2ND
 c0MjcxMywtMTg0MTQ5OTI5LC03MjQ0NDk3OCwxNjM4MTE3ODgy
 LC0xMjcxMDk5NDM2XX0=
 -->
