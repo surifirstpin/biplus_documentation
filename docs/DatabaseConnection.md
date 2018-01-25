@@ -34,7 +34,7 @@ In case if you are connecting through SSH tunnel with same database host,you nee
 - SSH port of the database server
 - Database port number
 
-if connecting with separate database host the you need to provide following information to your BIPlus analyst:
+if connecting with separate database host the you need to provide following information to your BI Plus analyst:
 
 IP address or DNS name of the database server as seen from the tunnel server
 Database port number as seen from the tunnel server
@@ -66,6 +66,6 @@ Username on the tunnel server for the SSH connection (the standard is looker)
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTc4Nzg4NzAsNDM4NzQ2MDczLDIxMD
-Q3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4NzY1M119
+eyJoaXN0b3J5IjpbODc5NTc1NzYsNDM4NzQ2MDczLDIxMDQ3MD
+IwNCwtMTM5NzY5MzQyNiwtMTc1MDI4NzY1M119
 -->
