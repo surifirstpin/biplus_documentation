@@ -1,4 +1,4 @@
-                        # ##  BiPlus
+                        # ## BiPlus
 
 ## Turns Insights into Actions
 
@@ -8,5 +8,5 @@ it has a rapid setup which connects people to data quickly. it can retrieve mass
 
 BiPlus helps you to create an apparent and easy-to- read report by providing data exploration and filtering. Visualization provides an intelligible pictorial representation of your data for better understanding. it provides beautiful dashboard layouts helping you to explore data more efficiently and you can also share the data publicly to concerned team members.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDI5NTgxN119
+eyJoaXN0b3J5IjpbLTEwNjcxMTQ4ODVdfQ==
 -->
