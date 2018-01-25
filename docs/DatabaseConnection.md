@@ -9,7 +9,7 @@
 -  Using an IP Address Whitelist, optionally adding SSL Encryption.
   - Using an SSH Tunnel, which provides a secured and encrypted connection with extra authentication
   
-**III.** On your database, set it up to work with BiPlus. The instructions may vary from dialect to dialect. Typically it includes providing approval to BiPlus to access your database.
+**III.** Set up your database to work with BiPlus. The instructions may vary from dialect to dialect. Typically it includes providing approval to BiPlus to access your database.
    
   To get started with the process you need to Select the database dialects used in your project and below are the steps to be followed:
  
@@ -74,6 +74,6 @@ if connecting with separate database host then you need to provide following inf
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzQxMTcyMDMsNDM4NzQ2MDczLDIxMD
-Q3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4NzY1M119
+eyJoaXN0b3J5IjpbLTE3MjI5ODk3MSw0Mzg3NDYwNzMsMjEwND
+cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
 -->
