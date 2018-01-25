@@ -15,12 +15,11 @@ A Project is collection of files that describes how database tables are connecte
 
 **2. Auto Build Joins**  automatically adapt or take over the join connection which have been enabled in database .
 
-**3.Save project** Click on save button to save the project created.
-
-**4.Click on Edit** Button to add any additional information to created project then update button to save changes.
+**3. Save project** Click on save button to save the project created.
 ## Edit a Project
 
-      welcome to Biplus
+**4. Click on Edit** Button to add any additional information to created project then update button to save changes.
+
 
 ## Delete a Project
 
@@ -42,5 +41,5 @@ A Project is collection of files that describes how database tables are connecte
   
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjU5NzYxMjVdfQ==
+eyJoaXN0b3J5IjpbMTg4MjQ0ODU1XX0=
 -->
