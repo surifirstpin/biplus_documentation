@@ -26,6 +26,7 @@
 
    
 ## SSH 
+
  if you are connecting BiPlus to your database without using SSH tunnel,you can go ahead with Database Configuration
 
 In case if you are connecting through SSH tunnel with same database host,you need to provide the following information to BiPlus analyst:
@@ -34,13 +35,12 @@ In case if you are connecting through SSH tunnel with same database host,you nee
 - SSH port of the database server
 - Database port number
 
-if connecting with separate database host the you need to provide following information to your BI Plus analyst:
+if connecting with separate database host then you need to provide following information to your BI Plus analyst:
 - IP address or DNS name of the database server as seen from the tunnel server
-Database port number as seen from the tunnel server
-IP address or DNS name of the tunnel server as seen from the public internet
-SSH port of the tunnel server as seen from the public internet
-Username on the tunnel server for the SSH connection (the standard is looker)
-**Over SSH** to access network services securely using an access key
+- Database port number as seen from the tunnel server
+- IP address or DNS name of the tunnel server as seen from the public internet
+- SSH port of the tunnel server as seen from the public internet
+- Username on the tunnel server for the SSH connection (the standard is looker)
 
 **3. Dialects** select the accurate dialect from the list using drop down option.
 
@@ -65,7 +65,7 @@ Username on the tunnel server for the SSH connection (the standard is looker)
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDYzMzUxMSw2OTY4NjQ5MTUsMTM2ND
-c0MjcxMywtMTg0MTQ5OTI5LC03MjQ0NDk3OCwxNjM4MTE3ODgy
-LC0xMjcxMDk5NDM2XX0=
+eyJoaXN0b3J5IjpbNTQ5MDAxMTQyLDY5Njg2NDkxNSwxMzY0Nz
+QyNzEzLC0xODQxNDk5MjksLTcyNDQ0OTc4LDE2MzgxMTc4ODIs
+LTEyNzEwOTk0MzZdfQ==
 -->
