@@ -14,7 +14,7 @@
   
    **Database(dialect)** choose a appropriate dialect that matches your connection. 
    
->Note: As per your business requirement we can include the 
+>Note: As per your requirement we can include the dialects needed to run the business.
 
  **Host** Provides the database host path
  
@@ -73,6 +73,6 @@
  - MemSQL
  - Hive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzg4ODUwMiw0Mzg3NDYwNzMsMjEwND
-cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbNjUxODU2MTkxLDQzODc0NjA3MywyMTA0Nz
+AyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2NTNdfQ==
 -->
