@@ -53,8 +53,8 @@
 
 ##  Dialects 
 
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0MzE3NTUxLDQzODc0NjA3MywyMTA0Nz
-AyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2NTNdfQ==
+eyJoaXN0b3J5IjpbMTA5Njg1MDM4Niw0Mzg3NDYwNzMsMjEwND
+cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
 -->
