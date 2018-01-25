@@ -4,6 +4,7 @@
    **Connection** specifies a database connection from which a model can retrieve the data. Following are the steps to be followed to set up the connection.
     
 **I.**  Get the connection details for your database such as Host name, schema name, username and password from your             **Database Administrator**.
+
 **II.** Enable secure access to your database. You have several choices:
 -  Using an IP Address Whitelist, optionally adding SSL Encryption.
 - Using an SSH Tunnel, which provides a secured and encrypted connection with extra authentication
@@ -35,15 +36,14 @@
    
 ## SSH 
 
- if you are connecting BiPlus to your database without using SSH tunnel,you can go ahead with Database Configuration
-
+ If you are connecting BiPlus to your database without using SSH tunnel,you can go ahead with Database Configuration.
+ 
 In case if you are connecting through SSH tunnel with same database host,you need to provide the following information to BiPlus analyst:
-
 - IP address or DNS name of the database server
 - SSH port of the database server
 - Database port number
 
-if connecting with separate database host then you need to provide following information to your BI Plus analyst:
+If connecting with separate database host then you need to provide following information to your BI Plus analyst:
 - IP address or DNS name of the database server as seen from the tunnel server
 - Database port number as seen from the tunnel server
 - IP address or DNS name of the tunnel server as seen from the public internet
@@ -79,6 +79,6 @@ Once you have Setup the Database connection you can further take up the process 
   - Creating a Project to control data  in model
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTUwNTIwNCw0Mzg3NDYwNzMsMjEwND
+eyJoaXN0b3J5IjpbLTc5MjU0MDc2Miw0Mzg3NDYwNzMsMjEwND
 cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
 -->
