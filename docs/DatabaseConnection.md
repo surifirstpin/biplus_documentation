@@ -16,7 +16,7 @@
    
 >Note: As per your requirement we can include the dialects needed to run the business.
 
- **Host** Provides the database host path
+ **Host**  database host path
  
 **Database** name of the database
 
@@ -73,6 +73,6 @@
  - MemSQL
  - Hive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxODU2MTkxLDQzODc0NjA3MywyMTA0Nz
+eyJoaXN0b3J5IjpbMjcyNjY1NzMwLDQzODc0NjA3MywyMTA0Nz
 AyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2NTNdfQ==
 -->
