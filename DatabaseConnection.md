@@ -3,13 +3,11 @@
 
 
    **Connection** specifies a database connection from which a model can retrieve the data and at a time model can use only one connection. this page provides you with an abstract on what steps to take while setting up connection.
-   
-   Getting started:
-   1.  From your database administrator, get the contact details for your database such as host name, database or schema name, username, and password.
-   2. 2.Enable secure access to your database. You have several choices:
+1.  From your database administrator, get the contact details for your database such as host name, database or schema name, username, and password.
+2. Enable secure access to your database. You have several choices:
    -  Using an IP Address Whitelist, optionally adding SSL Encryption.
   - Using an SSH Tunnel, which provides an encrypted connection and extra authentication. This is more secure but also is more time-consuming to set up. 
- 3. On your database, set it up to work with BiPlus. The instructions may vary different  from dialect to dialect. Typically it includes providing approval to Bi plus to access your database.
+3. On your database, set it up to work with BiPlus. The instructions may vary different  from dialect to dialect. Typically it includes providing approval to Bi plus to access your database.
    
   To get started with the process you need to Select the database dialects used in your project and below are the steps to be followed:
  
@@ -74,8 +72,8 @@ if connecting with separate database host then you need to provide following inf
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTM5NzkzLC04MTQ3MzU2OTcsLTQxOD
-E4ODA5NCwxNjU0ODMwODcxLDY5Njg2NDkxNSwxMzY0NzQyNzEz
-LC0xODQxNDk5MjksLTcyNDQ0OTc4LDE2MzgxMTc4ODIsLTEyNz
-EwOTk0MzZdfQ==
+eyJoaXN0b3J5IjpbMjA0NzkyMzA1MCwtODE0NzM1Njk3LC00MT
+gxODgwOTQsMTY1NDgzMDg3MSw2OTY4NjQ5MTUsMTM2NDc0Mjcx
+MywtMTg0MTQ5OTI5LC03MjQ0NDk3OCwxNjM4MTE3ODgyLC0xMj
+cxMDk5NDM2XX0=
 -->
