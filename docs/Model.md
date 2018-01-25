@@ -3,8 +3,8 @@ A Project is collection of files that describes how database tables are connecte
 
 
    Select the model section and click projects.
-
-click on new project button and specify the below fields:
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model1.png)
+1. click on new project button and specify the below fields:
 ## mappings
 
            welcome to biplus
@@ -21,5 +21,5 @@ click on new project button and specify the below fields:
     
            welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5ODU3NTg2XX0=
+eyJoaXN0b3J5IjpbMTEzNjQ0NDkyM119
 -->
