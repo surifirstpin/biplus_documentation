@@ -4,7 +4,7 @@
 
    **Connection** specifies a database connection from which a model can retrieve the data. Following are the steps to be followed to set up the connection.
    
-**I.**  Get the access details for your database such as Host name, schema name, username and password from your database administrator.
+**I.**  Get the connection details for your database such as Host name, schema name, username and password from your database administrator.
 **II.** Enable secure access to your database. You have several choices:
   -  Using an IP Address Whitelist, optionally adding SSL Encryption.
   - Using an SSH Tunnel, which provides an encrypted connection and extra authentication. This is more secure but also is more time-consuming to set up. 
@@ -74,6 +74,6 @@ if connecting with separate database host then you need to provide following inf
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0NzM5MTM4LDQzODc0NjA3MywyMTA0Nz
+eyJoaXN0b3J5IjpbMzE4MTQ1NjcyLDQzODc0NjA3MywyMTA0Nz
 AyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2NTNdfQ==
 -->
