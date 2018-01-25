@@ -51,10 +51,8 @@
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
-##  Dialects supported
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/dialects.png)
+##  Dialects supported(https://raw.githubusercontent.com/sv18042016/fp1/master/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTAxNjUzOTAsNDM4NzQ2MDczLDIxMD
-Q3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4NzY1M119
+eyJoaXN0b3J5IjpbMTIzOTY4NTc2Miw0Mzg3NDYwNzMsMjEwND
+cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
 -->
