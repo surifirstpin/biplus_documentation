@@ -29,7 +29,7 @@
    
 ## SSH 
 
-**Over SSH** to acsess ne
+**Over SSH** to acsess network 
 
 **3. Dialects** select the accurate dialect from the list using drop down option.
 
@@ -73,6 +73,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDY3MTc3NDIsNDM4NzQ2MDczLDIxMD
+eyJoaXN0b3J5IjpbLTEzMTY0NDU4OTcsNDM4NzQ2MDczLDIxMD
 Q3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4NzY1M119
 -->
