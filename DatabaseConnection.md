@@ -24,7 +24,7 @@
 
 **Temp database** ( depending on the selected dialects) contains a derived set of tables which can be used as per requirement
 
-**Maximum connection** number of connection you want to setup
+**Maximum connection** concurrent connection used by databsewant to setup
 
 **Additional Parameters** include any additional JDBC parameter in this section
 
@@ -75,6 +75,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDg0NzE5MTgsLTcyNDQ0OTc4LDE2Mz
-gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
+eyJoaXN0b3J5IjpbNDg4MDE1MTgwLC03MjQ0NDk3OCwxNjM4MT
+E3ODgyLC0xMjcxMDk5NDM2XX0=
 -->
