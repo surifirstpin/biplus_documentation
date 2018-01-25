@@ -13,9 +13,9 @@
   ## Create Connection
   To get started with the process you need to Select the database dialects used in your project and below are the steps to be followed:
  
-  **1.** Click on **Database Section** to setup a database connection.
+ **1.** Click on **Database Section** to setup a database connection.
 
-  **2.** Click on **+New connection**  button to start setting up the connection to database. In general, you specify the below mentioned fields:
+ **2.** Click on **+New connection**  button to start setting up the connection to database. In general, you specify the below mentioned fields:
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/demo%20image.png)
   **Name** Specify a name to define connection
   
@@ -44,7 +44,7 @@ In case if you are connecting through SSH tunnel with same database host,you nee
 - Database port number
 
 If connecting with separate database host then you need to provide following information to your BI Plus analyst:
-- IP address or DNS name of the database server as seen from the tunnel server
+- IP address or DNS name of the database server as seen from the   tunnel server
 - Database port number as seen from the tunnel server
 - IP address or DNS name of the tunnel server as seen from the public internet
 - SSH port of the tunnel server as seen from the public internet
@@ -79,8 +79,8 @@ Once you have Setup the Database connection you can further take up the process 
   - Creating a Project to control data  in model
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxOTE3OTIzLDE0OTAzMzk3NzYsLTgxND
-czNTY5NywtNDE4MTg4MDk0LDE2NTQ4MzA4NzEsNjk2ODY0OTE1
-LDEzNjQ3NDI3MTMsLTE4NDE0OTkyOSwtNzI0NDQ5NzgsMTYzOD
-ExNzg4MiwtMTI3MTA5OTQzNl19
+eyJoaXN0b3J5IjpbLTk1NTQ1OTk4OSwxNDkwMzM5Nzc2LC04MT
+Q3MzU2OTcsLTQxODE4ODA5NCwxNjU0ODMwODcxLDY5Njg2NDkx
+NSwxMzY0NzQyNzEzLC0xODQxNDk5MjksLTcyNDQ0OTc4LDE2Mz
+gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
 -->
