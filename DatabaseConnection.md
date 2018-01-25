@@ -46,14 +46,13 @@
 ## Delete a connection
 
 **7.** click on **Delete** option available on far right of your connection name to delete the connection from database.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/database%202.png)
 
 ##  Dialects supported
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDQ3MjgyMywxMzY0NzQyNzEzLC0xOD
+eyJoaXN0b3J5IjpbLTE0NzA0MjcyMSwxMzY0NzQyNzEzLC0xOD
 QxNDk5MjksLTcyNDQ0OTc4LDE2MzgxMTc4ODIsLTEyNzEwOTk0
 MzZdfQ==
 -->
