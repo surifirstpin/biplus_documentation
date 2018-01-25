@@ -1,7 +1,6 @@
 
 ## Create  a connection 
 
-
    **Connection** specifies a database connection from which a model can retrieve the data. Following are the steps to be followed to set up the connection.
     
 **I.**  Get the connection details for your database such as Host name, schema name, username and password from your             **Database Administrator**.
@@ -78,6 +77,6 @@ if connecting with separate database host then you need to provide following inf
 Once you have Setup the Database connection
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2NjU2NjAxLDQzODc0NjA3MywyMTA0Nz
-AyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2NTNdfQ==
+eyJoaXN0b3J5IjpbMTU3OTQyNDQyNyw0Mzg3NDYwNzMsMjEwND
+cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
 -->
