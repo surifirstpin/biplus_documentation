@@ -20,6 +20,7 @@ A Project is collection of files that describes how database tables are connecte
 
 **4. Click on Edit** Button to add any additional information to created project then update button to save changes.
 
+> Once we save the created project the data is reflected in model screen as shown in below image:
 
 ## Delete a Project
 
@@ -41,5 +42,5 @@ A Project is collection of files that describes how database tables are connecte
   
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjQ0ODU1XX0=
+eyJoaXN0b3J5IjpbMTYxMDE0OTIwMF19
 -->
