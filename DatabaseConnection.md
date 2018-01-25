@@ -26,6 +26,7 @@
 
    
 ## SSH 
+I
 f you’re connecting Looker to your database without using an SSH tunnel, please proceed on to Database Configuration.
 
 If you’re connecting with a tunnel server, which is the same as your database host, you should provide the following information to your Looker analyst:
@@ -65,7 +66,7 @@ Username on the tunnel server for the SSH connection (the standard is looker)
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjczOTkyMzEsMTM2NDc0MjcxMywtMT
-g0MTQ5OTI5LC03MjQ0NDk3OCwxNjM4MTE3ODgyLC0xMjcxMDk5
-NDM2XX0=
+eyJoaXN0b3J5IjpbNzM3OTEwNTg4LDEzNjQ3NDI3MTMsLTE4ND
+E0OTkyOSwtNzI0NDQ5NzgsMTYzODExNzg4MiwtMTI3MTA5OTQz
+Nl19
 -->
