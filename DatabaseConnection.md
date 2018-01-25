@@ -72,10 +72,14 @@ if connecting with separate database host then you need to provide following inf
 
 ##  Dialects supported
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
+
+### Next Steps
+Once you have Setup the Database connection
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc2MjUzOSwtODE0NzM1Njk3LC00MT
-gxODgwOTQsMTY1NDgzMDg3MSw2OTY4NjQ5MTUsMTM2NDc0Mjcx
-MywtMTg0MTQ5OTI5LC03MjQ0NDk3OCwxNjM4MTE3ODgyLC0xMj
-cxMDk5NDM2XX0=
+eyJoaXN0b3J5IjpbMjg2NjU2NjAxLC04MTQ3MzU2OTcsLTQxOD
+E4ODA5NCwxNjU0ODMwODcxLDY5Njg2NDkxNSwxMzY0NzQyNzEz
+LC0xODQxNDk5MjksLTcyNDQ0OTc4LDE2MzgxMTc4ODIsLTEyNz
+EwOTk0MzZdfQ==
 -->
