@@ -14,7 +14,7 @@
   
    **Database(dialect)** choose a appropriate dialect that matches your connection. At present Bi Plus is supporting following list of Database. 
    
->Note: In case if your database are not available in the above mentioned list,Bi Plus will include the dialects required.
+>Note: Further to this we can also include the dialect as per the business requirement.
 
  **Host** Provides the database host path
  
@@ -73,6 +73,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjAxMDU5NDksNDM4NzQ2MDczLDIxMD
+eyJoaXN0b3J5IjpbLTE1NjEzMzQyOTMsNDM4NzQ2MDczLDIxMD
 Q3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4NzY1M119
 -->
