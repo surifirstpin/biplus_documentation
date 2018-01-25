@@ -2,17 +2,17 @@
 ## Create  a connection 
 
 
-   **Connection** specifies a database connection from which a model can retrieve the data and at  a time model can use only one connection. to get started with the process you need to Select the database dialects used in your project and below are the steps to be followed:
+   **Connection** specifies a database connection from which a model can retrieve the data and at  a time model can use only one connection. To get started with the process you need to Select the database dialects used in your project and below are the steps to be followed:
  
   **1.** Click on **Database Section** to setup a database connection.
 
-  **2.** Click on **+New connection**  button to start setting up the connection to database. in general, you specify the below mentioned fields:
+  **2.** Click on **+New connection**  button to start setting up the connection to database. In general, you specify the below mentioned fields:
   
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/demo%20image.png)
 
   **Name** Specify a name to define connection
   
-   **Database(dialect)** choose a appropriate dialect that matches your connection. at present Bi Plus is supporting following list of Database.Further to this we can also include the dialect as per the business requirement.
+   **Database(dialect)** choose a appropriate dialect that matches your connection. At present Bi Plus is supporting following list of Database. 
    
 >Note: In case if your database are not available in the above mentioned list,Bi Plus will include the dialects required.
 
@@ -73,6 +73,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTgzNjA1LDQzODc0NjA3MywyMTA0Nz
-AyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2NTNdfQ==
+eyJoaXN0b3J5IjpbLTEzNjAxMDU5NDksNDM4NzQ2MDczLDIxMD
+Q3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4NzY1M119
 -->
