@@ -53,9 +53,9 @@
 
 ##  Dialects supported
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/dialects.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTAxNjUzOTAsMTM2NDc0MjcxMywtMT
+eyJoaXN0b3J5IjpbLTE2NTc1NzcwNjUsMTM2NDc0MjcxMywtMT
 g0MTQ5OTI5LC03MjQ0NDk3OCwxNjM4MTE3ODgyLC0xMjcxMDk5
 NDM2XX0=
 -->
