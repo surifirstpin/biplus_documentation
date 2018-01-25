@@ -3,7 +3,7 @@ BiPlus is the most user friendly BI tool.Business Intelligence is center of toda
 
 it has a rapid setup which connects people to data quickly. it can retrieve massive amount of data with an ease as BI Plus is directly connected to your database.there is no limitation to what you can explore and you need not download any software. this way Bi Plus has proven to be totally user friendly tool for your Business requirements.
 
-BiPlus help you to create an apparent and easy to read report. Visualization provides an intelligible pictorial representation of  data for better understanding.it provides beautiful dashboard layouts helping you to explore the data in 
+BiPlus help you to create an apparent and easy to read report. Visualization provides an intelligible pictorial representation of  data for better understanding.it provides beautiful dashboard layouts helping you to explore the data mo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjY5Njc2NF19
+eyJoaXN0b3J5IjpbMTEwMDY1MjU3MV19
 -->
