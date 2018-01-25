@@ -11,7 +11,10 @@ A Project is collection of files that describes how database tables are connecte
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model3.png)
 
-- Tables select the table fields in the tables section by selecting the check boxes all the selected tables are visible on the right side of the tables section as shown in the image below,you can also remove the tables by deselectiong the check boxes. selected tables from database by unchecking the check boxes.
+- Tables select the table fields in the tables section by selecting the check boxes all the selected tables are visible on the right side of the tables section as shown in the image below,you can also remove the tables by deselecting the check boxes.
+2.Auto Build Joins automatically adapt or take over the join connection which have been enabled in database .
+3.Save project Click on save button to save the project created.
+4.Click on Edit Button to add any additional information to created project then update button to save changes.
 ## Edit a Project
 
       welcome to Biplus
@@ -36,5 +39,5 @@ A Project is collection of files that describes how database tables are connecte
   
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxMDY2NTA5XX0=
+eyJoaXN0b3J5IjpbMzQwOTE2MTk3XX0=
 -->
