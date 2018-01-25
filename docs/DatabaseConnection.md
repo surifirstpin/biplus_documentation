@@ -18,7 +18,7 @@
 
  **Host** Provides the database host path
  
-**Database** data
+**Database** database nam
 
 **Username and Password** to connect the database
 
@@ -75,6 +75,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTQ0NzM5MCw0Mzg3NDYwNzMsMjEwND
-cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbNjAxOTkwNTY5LDQzODc0NjA3MywyMTA0Nz
+AyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2NTNdfQ==
 -->
