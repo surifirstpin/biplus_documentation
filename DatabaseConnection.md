@@ -78,10 +78,12 @@ Once you have Setup the Database connection you can further take up the process 
 
   -  Creating a Project to control our data model
   - Configuring the model to access our connection
-  - Create visualisation for to explore the data and 
+  - Create visualisation for to explore and pictorial representation of the data
+  - Create Dashboard to create layouts for the reports
+  - Save and share the Reports in Public() Private()
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDQ1NDU1NywxNDkwMzM5Nzc2LC04MT
+eyJoaXN0b3J5IjpbLTM5MjU2NDA1NSwxNDkwMzM5Nzc2LC04MT
 Q3MzU2OTcsLTQxODE4ODA5NCwxNjU0ODMwODcxLDY5Njg2NDkx
 NSwxMzY0NzQyNzEzLC0xODQxNDk5MjksLTcyNDQ0OTc4LDE2Mz
 gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
