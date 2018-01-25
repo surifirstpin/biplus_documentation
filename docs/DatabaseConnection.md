@@ -80,9 +80,9 @@ Once you have Setup the Database connection you can further take up the process 
   - Configuring the model to access our connection
   - Create visualisation for to explore and pictorial representation of the data
   - Create Dashboard to create layouts for the reports
-  - Save and share the Reports 
+  - Save and share the Reports in Pu
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzczMDExMCw0Mzg3NDYwNzMsMjEwND
-cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbLTE3NDU2Nzg2MDYsNDM4NzQ2MDczLDIxMD
+Q3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4NzY1M119
 -->
