@@ -29,7 +29,7 @@
    
 ## SSH 
 
-**Over SSH** network protocol for operating network services securely over unsecured network by access key.
+**Over SSH** to 
 
 **3. Dialects** select the accurate dialect from the list using drop down option.
 
@@ -73,6 +73,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1Mjc3MDgsLTcyNDQ0OTc4LDE2MzgxMT
-c4ODIsLTEyNzEwOTk0MzZdfQ==
+eyJoaXN0b3J5IjpbNTQzMTk5MDY5LC03MjQ0NDk3OCwxNjM4MT
+E3ODgyLC0xMjcxMDk5NDM2XX0=
 -->
