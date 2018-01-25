@@ -1,6 +1,8 @@
 ## Defining new relations
-A Project is collection of files that describes how database tables are connected to each other and how BiPlus will interrupth 
-         Select the model section and click projects.
+A Project is collection of files that describes how database tables are connected to each other and how BiPlus will portray those tables.
+
+
+   Select the model section and click projects.
 
 click on new project button and specify the below fields:
 ## mappings
@@ -19,5 +21,5 @@ click on new project button and specify the below fields:
     
            welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDIzNTMyMl19
+eyJoaXN0b3J5IjpbNzU5ODU3NTg2XX0=
 -->
