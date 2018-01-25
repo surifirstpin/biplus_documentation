@@ -4,10 +4,10 @@
 
    **Connection** specifies a database connection from which a model can retrieve the data and at a time model can use only one connection. this page provides you with an abstract on what steps to take while setting up connection.
    Getting started:
-   - From your database administrator, get the contact details for your database such as host name, database or schema name, username, and password.
-1. Enable secure access to your database. You have several choices:
-2. Using an IP Address Whitelist, optionally adding SSL Encryption.
-Using an SSH Tunnel, which provides an encrypted connection and extra authentication. This is more secure but also is more time-consuming to set up.
+   1.  From your database administrator, get the contact details for your database such as host name, database or schema name, username, and password.
+   2. 2.Enable secure access to your database. You have several choices:
+   -  Using an IP Address Whitelist, optionally adding SSL Encryption.
+  - Using an SSH Tunnel, which provides an encrypted connection and extra authentication. This is more secure but also is more time-consuming to set up.
 On your database, set it up to work with Looker. The instructions vary quite a bit from dialect to dialect. Typically the steps include adding permissions for Looker to access the database and possibly creating a scratch schema for Looker to create derived tables in the database. To see the instructions you need, go to the Database Configuration page and click on your database dialect.
 
 In Looker, go to the Admin panel’s Connection page. If you are in a trial, typically you won’t have any connections on that page.
@@ -75,7 +75,7 @@ if connecting with separate database host then you need to provide following inf
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM1MTQxMTAwLC00MTgxODgwOTQsMTY1ND
-gzMDg3MSw2OTY4NjQ5MTUsMTM2NDc0MjcxMywtMTg0MTQ5OTI5
-LC03MjQ0NDk3OCwxNjM4MTE3ODgyLC0xMjcxMDk5NDM2XX0=
+eyJoaXN0b3J5IjpbLTEzOTkxMDI3MSwtNDE4MTg4MDk0LDE2NT
+Q4MzA4NzEsNjk2ODY0OTE1LDEzNjQ3NDI3MTMsLTE4NDE0OTky
+OSwtNzI0NDQ5NzgsMTYzODExNzg4MiwtMTI3MTA5OTQzNl19
 -->
