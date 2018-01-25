@@ -76,11 +76,11 @@ if connecting with separate database host then you need to provide following inf
 ### Next Steps
 Once you have Setup the Database connection you can further take up the process by following below steps:
 
-  - Creating a Project to control our data model
+  - [Creating][1] a Project to control our data model
   - Configuring the model to access our connection
   - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzIwOTA1MDEsNDM4NzQ2MDczLDIxMD
-Q3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4NzY1M119
+eyJoaXN0b3J5IjpbMTQ5MDMzOTc3Niw0Mzg3NDYwNzMsMjEwND
+cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
 -->
