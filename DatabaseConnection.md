@@ -12,19 +12,19 @@
 
   **Name** Specify a name to define connection
   
-   **Database(dialect)** choose a appropriate dialect that matches your connection. 
+ **Database(dialect)** choose a appropriate dialect that matches your connection. 
    
 >Note: As per your requirement we can include the dialects needed to run the business.
 
  **Host**  database host path
  
-**Database** name of the database
+ **Database** name of the database
 
-**Username and Password** to connect the database
+ **Username and Password** to connect the database
 
-**Maximum connection** concurrent connection used by database
+ **Maximum connection** concurrent connection used by database
 
-**Additional Parameters** include any additional JDBC parameter in this section
+ **Additional Parameters** include any additional JDBC parameter in this section
 
    
 ## SSH 
@@ -55,7 +55,7 @@
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTc1NzcwNjUsMTM2NDc0MjcxMywtMT
-g0MTQ5OTI5LC03MjQ0NDk3OCwxNjM4MTE3ODgyLC0xMjcxMDk5
-NDM2XX0=
+eyJoaXN0b3J5IjpbMTQyOTM4MDY0OSwxMzY0NzQyNzEzLC0xOD
+QxNDk5MjksLTcyNDQ0OTc4LDE2MzgxMTc4ODIsLTEyNzEwOTk0
+MzZdfQ==
 -->
