@@ -26,7 +26,7 @@
 
    
 ## SSH 
-In case if you are connecting BiPlus to your database without using SSH tunnel,you can go ahead with Database Configurationin case
+In case if you are connecting BiPlus to your database without using SSH tunnel,you can go ahead with Database Configurationin case if you
 
 IP address or DNS name of the database server
 SSH port of the database server
@@ -63,6 +63,6 @@ Username on the tunnel server for the SSH connection (the standard is looker)
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2ODk2Njk5LDQzODc0NjA3MywyMTA0Nz
+eyJoaXN0b3J5IjpbODI4MzM2MDQ5LDQzODc0NjA3MywyMTA0Nz
 AyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2NTNdfQ==
 -->
