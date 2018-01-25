@@ -2,7 +2,7 @@
 ## Create  a connection 
 
 
-   **Connection** specifies a database connection from which a model can retrieve the data and at a time model can use only one connection. this page provides you with an abstract on what steps to take while setting up connection.
+   **Connection** specifies a database connection from which a model can retrieve the data. Folllowing aee the steps to followed to set up the connection.this page provides you with an abstract on what steps to take while setting up connection.
    
 **1.**  From your database administrator, get the contact details for your database such as host name, database or schema name, username, and password.
 **2.** Enable secure access to your database. You have several choices:
@@ -74,6 +74,6 @@ if connecting with separate database host then you need to provide following inf
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY1NTczNDEsNDM4NzQ2MDczLDIxMD
-Q3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4NzY1M119
+eyJoaXN0b3J5IjpbMzM2Nzc2MTA3LDQzODc0NjA3MywyMTA0Nz
+AyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2NTNdfQ==
 -->
