@@ -3,9 +3,10 @@ A Project is collection of files that describes how database tables are connecte
    Select the model section and click on projects.
    **1.** click on **new project** button and specify below fields:![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model1.png)  
  - **Project name** enter a project name to identify the model file.
- - 
+
 - **Connection** Select the database connection you want to setup from the list provided
-- 
+-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model2.png)
 ## Edit a Project
 
       welcome to Biplus
@@ -30,5 +31,5 @@ A Project is collection of files that describes how database tables are connecte
   
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzM2MzY0Nl19
+eyJoaXN0b3J5IjpbMjA5ODk3OTEwNF19
 -->
