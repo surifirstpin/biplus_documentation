@@ -17,8 +17,7 @@ A Project is collection of files that describes how database tables are connecte
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/add_tables.png)
 ## Remove tables from Database 
 To remove tables from database select the check boxes of selected tables from right side section or else you can click on **deselect all** option available to remove all tables at a time.
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/remove_tables.png)
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/remove_tables.png)
+
 ## Auto Build Joins
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model%204.png)
@@ -49,5 +48,5 @@ To remove tables from database select the check boxes of selected tables from ri
   
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5OTgxMDU5XX0=
+eyJoaXN0b3J5IjpbMjAzODAwNDYyOV19
 -->
