@@ -14,6 +14,8 @@ A Project is collection of files that describes how database tables are connecte
 ## Add tables from Database
 
 - Tables select the table fields in the tables section by selecting the check boxes all the selected tables are visible on the right side of the tables section as shown in the image below,you can also remove the tables by deselecting the check boxes.
+- 
+## Remove tables from Database
 
 ## Auto Build Joins
 
@@ -39,13 +41,11 @@ A Project is collection of files that describes how database tables are connecte
 
          welcome to Biplus
 
-## Remove tables from Database
-
          welcome to Biplus
 
 ## Privacy & Share Option to Projects
   
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzAxMTE3OV19
+eyJoaXN0b3J5IjpbLTUxNTk2MjQxMl19
 -->
