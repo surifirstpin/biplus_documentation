@@ -7,7 +7,7 @@
 **I.**  Get the connection details for your database such as Host name, schema name, username and password from your             **Database Administrator**.
 **II.** Enable secure access to your database. You have several choices:
 -  Using an IP Address Whitelist, optionally adding SSL Encryption.
-  - Using an SSH Tunnel, which provides an secured connection and extra authentication and also m
+  - Using an SSH Tunnel, which provides an secured connection and extra authentication and also more time c
 
 **III.** On your database, set it up to work with BiPlus. The instructions may vary from dialect to dialect. Typically it includes providing approval to BiPlus to access your database.
    
@@ -74,6 +74,6 @@ if connecting with separate database host then you need to provide following inf
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjQ0NDAxMCw0Mzg3NDYwNzMsMjEwND
-cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbMTE4NDk4NzYwLDQzODc0NjA3MywyMTA0Nz
+AyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2NTNdfQ==
 -->
