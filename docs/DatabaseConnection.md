@@ -78,9 +78,9 @@ Once you have Setup the Database connection you can further take up the process 
 
   -  Creating a Project to control our data model
   - Configuring the model to access our connection
-  - Create visualisation fo
+  - Create visualisation for 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwNjAzNjEsNDM4NzQ2MDczLDIxMDQ3MD
-IwNCwtMTM5NzY5MzQyNiwtMTc1MDI4NzY1M119
+eyJoaXN0b3J5IjpbMTgyNTg3MzU2Myw0Mzg3NDYwNzMsMjEwND
+cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
 -->
