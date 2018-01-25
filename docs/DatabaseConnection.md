@@ -72,8 +72,12 @@ if connecting with separate database host then you need to provide following inf
 
 ##  Dialects supported
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
+
+### Next Steps
+Once you have Setup the c
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc2MjUzOSw0Mzg3NDYwNzMsMjEwND
-cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbLTEyOTI1MTk1NTksNDM4NzQ2MDczLDIxMD
+Q3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4NzY1M119
 -->
