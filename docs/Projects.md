@@ -9,6 +9,9 @@ A Project is collection of files that describes how database tables are connecte
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model2.png)
 - Database Select the database that you want to use for configuration by selecting the checkbox on left side database section as shown below the selected databases are visible on right side of the database section.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model3.png)
+
+- Tables select the table fields in the tables section by selecting the check boxes all the selected tables are visible on the right side of the tables section as shown in the image below,you can also remove the selected tables from database by unchecking the check boxes.
 ## Edit a Project
 
       welcome to Biplus
@@ -33,5 +36,5 @@ A Project is collection of files that describes how database tables are connecte
   
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzM5Mjk5MDJdfQ==
+eyJoaXN0b3J5IjpbMTcwOTUwMTc4N119
 -->
