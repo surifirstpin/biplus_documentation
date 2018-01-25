@@ -76,15 +76,15 @@ if connecting with separate database host then you need to provide following inf
 ### Next Steps
 Once you have Setup the Database connection you can further take up the process by following below steps:
 
-  - Creating a Project to control our data model
+  - Creating a Project to control data in model
   - Configuring the model to access our connection
   - Create visualization  to explore the pictorial representation of the data
   - Create Dashboard to create layouts for the reports
   - Save and share the Reports in Public() and Private()
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjkwNzk2LDE0OTAzMzk3NzYsLTgxND
-czNTY5NywtNDE4MTg4MDk0LDE2NTQ4MzA4NzEsNjk2ODY0OTE1
-LDEzNjQ3NDI3MTMsLTE4NDE0OTkyOSwtNzI0NDQ5NzgsMTYzOD
-ExNzg4MiwtMTI3MTA5OTQzNl19
+eyJoaXN0b3J5IjpbLTEwNzI0ODUwNDcsMTQ5MDMzOTc3NiwtOD
+E0NzM1Njk3LC00MTgxODgwOTQsMTY1NDgzMDg3MSw2OTY4NjQ5
+MTUsMTM2NDc0MjcxMywtMTg0MTQ5OTI5LC03MjQ0NDk3OCwxNj
+M4MTE3ODgyLC0xMjcxMDk5NDM2XX0=
 -->
