@@ -26,7 +26,20 @@
 
    
 ## SSH 
+f you’re connecting Looker to your database without using an SSH tunnel, please proceed on to Database Configuration.
 
+If you’re connecting with a tunnel server, which is the same as your database host, you should provide the following information to your Looker analyst:
+
+IP address or DNS name of the database server
+SSH port of the database server
+Database port number
+If you’re connecting with a tunnel server, which is separate from your database host, you should provide the following information to your Looker analyst:
+
+IP address or DNS name of the database server as seen from the tunnel server
+Database port number as seen from the tunnel server
+IP address or DNS name of the tunnel server as seen from the public internet
+SSH port of the tunnel server as seen from the public internet
+Username on the tunnel server for the SSH connection (the standard is looker)
 **Over SSH** to access network services securely using an access key
 
 **3. Dialects** select the accurate dialect from the list using drop down option.
@@ -52,6 +65,6 @@
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA0MjcyMSw0Mzg3NDYwNzMsMjEwND
-cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbLTE5NjczOTkyMzEsNDM4NzQ2MDczLDIxMD
+Q3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4NzY1M119
 -->
