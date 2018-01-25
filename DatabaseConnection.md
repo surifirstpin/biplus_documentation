@@ -4,7 +4,7 @@
 
    **Connection** specifies a database connection from which a model can retrieve the data. Following are the steps to be followed to set up the connection.
    
-**I.**  Get the connection details for your database such as Host name, schema name, username and password from your atabase administrator.
+**I.**  Get the connection details for your database such as Host name, schema name, username and password from your Database dministrator.
 **II.** Enable secure access to your database. You have several choices:
   -  Using an IP Address Whitelist, optionally adding SSL Encryption.
   - Using an SSH Tunnel, which provides an encrypted connection and extra authentication. This is more secure but also is more time-consuming to set up. 
@@ -74,8 +74,8 @@ if connecting with separate database host then you need to provide following inf
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTAzNTQxMCwtODE0NzM1Njk3LC00MT
-gxODgwOTQsMTY1NDgzMDg3MSw2OTY4NjQ5MTUsMTM2NDc0Mjcx
-MywtMTg0MTQ5OTI5LC03MjQ0NDk3OCwxNjM4MTE3ODgyLC0xMj
-cxMDk5NDM2XX0=
+eyJoaXN0b3J5IjpbLTE0ODc4MDUxNjEsLTgxNDczNTY5NywtND
+E4MTg4MDk0LDE2NTQ4MzA4NzEsNjk2ODY0OTE1LDEzNjQ3NDI3
+MTMsLTE4NDE0OTkyOSwtNzI0NDQ5NzgsMTYzODExNzg4MiwtMT
+I3MTA5OTQzNl19
 -->
