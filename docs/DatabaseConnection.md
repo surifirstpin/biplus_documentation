@@ -7,7 +7,7 @@
   **1.** Click on **Database Section** to setup a database connection.
 
   **2.** Click on **+New connection**  button to start setting up the connection to database. In general, you specify the below mentioned fields:
-  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/demo%20image.png)
+  
   **Name** Specify a name to define connection
   
  **Database(dialect)** choose a appropriate dialect that matches your connection. 
@@ -53,6 +53,6 @@
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTcwNzgzNSw0Mzg3NDYwNzMsMjEwND
-cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbNzkwMjE4NDIyLDQzODc0NjA3MywyMTA0Nz
+AyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2NTNdfQ==
 -->
