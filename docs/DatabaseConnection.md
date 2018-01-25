@@ -51,7 +51,28 @@
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
+##  Dialects supported
+
+ - MySQL
+ - Oracle
+ - Vertica
+ - Rest
+ - PSQL
+ - MariaDB
+ - Amazon Aurora(MySQL)  
+ - Amazon Redshift
+ - Google BigQuery
+ - Snowflake
+ - PostgreSQL
+ - Teradata
+ - Apache Spark
+ - Impala
+ - Amazon Athena
+ - Druid
+ - Cloud Spanner
+ - MemSQL
+ - Hive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzNzgxMDk3LDQzODc0NjA3MywyMTA0Nz
-AyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2NTNdfQ==
+eyJoaXN0b3J5IjpbLTIxMTc3Mzg0NSw0Mzg3NDYwNzMsMjEwND
+cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
 -->
