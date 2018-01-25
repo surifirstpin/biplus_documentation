@@ -80,9 +80,9 @@ Once you have Setup the Database connection you can further take up the process 
   - Configuring the model to access our connection
   - Create visualisation for to explore and pictorial representation of the data
   - Create Dashboard to create layouts for the reports
-  - Save and share the 
+  - Save and share the Reports 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTQ0Nzg3Myw0Mzg3NDYwNzMsMjEwND
+eyJoaXN0b3J5IjpbMTIyNzczMDExMCw0Mzg3NDYwNzMsMjEwND
 cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
 -->
