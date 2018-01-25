@@ -76,9 +76,9 @@ if connecting with separate database host then you need to provide following inf
 ### Next Steps
 Once you have Setup the Database connection you can further take up the process by following below steps:
 
-  - Creating 
+  - Creating a Project 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTA5MjkwNiw0Mzg3NDYwNzMsMjEwND
+eyJoaXN0b3J5IjpbMTk3NDE5MTIxNiw0Mzg3NDYwNzMsMjEwND
 cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
 -->
