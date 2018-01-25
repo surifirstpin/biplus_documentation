@@ -6,7 +6,7 @@
    Getting started:
    - From your database administrator, get the contact details for your database such as host name, database or schema name, username, and password.
 1. Enable secure access to your database. You have several choices:
-- Using an IP Address Whitelist, optionally adding SSL Encryption.
+2. Using an IP Address Whitelist, optionally adding SSL Encryption.
 Using an SSH Tunnel, which provides an encrypted connection and extra authentication. This is more secure but also is more time-consuming to set up.
 On your database, set it up to work with Looker. The instructions vary quite a bit from dialect to dialect. Typically the steps include adding permissions for Looker to access the database and possibly creating a scratch schema for Looker to create derived tables in the database. To see the instructions you need, go to the Database Configuration page and click on your database dialect.
 
@@ -75,6 +75,6 @@ if connecting with separate database host then you need to provide following inf
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTQ4OTkwNyw0Mzg3NDYwNzMsMjEwND
-cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbNDM1MTQxMTAwLDQzODc0NjA3MywyMTA0Nz
+AyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2NTNdfQ==
 -->
