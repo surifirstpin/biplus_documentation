@@ -30,7 +30,7 @@
 
 ## Different Dialects supported
 
-- MySQL
+ - MySQL
  - Oracle
  - Vertica
  - Rest
@@ -75,6 +75,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDcwMjA0LC03MjQ0NDk3OCwxNjM4MT
-E3ODgyLC0xMjcxMDk5NDM2XX0=
+eyJoaXN0b3J5IjpbLTE5NTUyODUyODIsLTcyNDQ0OTc4LDE2Mz
+gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
 -->
