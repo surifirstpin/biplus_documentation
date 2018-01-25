@@ -22,8 +22,6 @@
 
 **Username and Password** to connect the database
 
-**Temp database** ( depending on the selected dialects) contains a derived set of tables which can be used as per requirement
-
 **Maximum connection** concurrent connection used by database
 
 **Additional Parameters** include any additional JDBC parameter in this section
@@ -75,6 +73,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjEyMTcxMzcsLTcyNDQ0OTc4LDE2Mz
-gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
+eyJoaXN0b3J5IjpbMTU4ODcxODM1OSwtNzI0NDQ5NzgsMTYzOD
+ExNzg4MiwtMTI3MTA5OTQzNl19
 -->
