@@ -29,7 +29,7 @@
    
 ## SSH 
 
-**Over SSH** to 
+**Over SSH** to acsess network services securely using an acess key
 
 **3. Dialects** select the accurate dialect from the list using drop down option.
 
@@ -73,6 +73,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/screenshot.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQzMTk5MDY5LC03MjQ0NDk3OCwxNjM4MT
-E3ODgyLC0xMjcxMDk5NDM2XX0=
+eyJoaXN0b3J5IjpbLTcyMjIxMDE5MCwtNzI0NDQ5NzgsMTYzOD
+ExNzg4MiwtMTI3MTA5OTQzNl19
 -->
