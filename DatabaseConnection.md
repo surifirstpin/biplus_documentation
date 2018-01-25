@@ -76,10 +76,10 @@ if connecting with separate database host then you need to provide following inf
 ### Next Steps
 Once you have Setup the Database connection you can further take up the process by following below steps:
 
-  - Creating 
+  - Creating a Project 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTA5MjkwNiwtODE0NzM1Njk3LC00MT
+eyJoaXN0b3J5IjpbMTk3NDE5MTIxNiwtODE0NzM1Njk3LC00MT
 gxODgwOTQsMTY1NDgzMDg3MSw2OTY4NjQ5MTUsMTM2NDc0Mjcx
 MywtMTg0MTQ5OTI5LC03MjQ0NDk3OCwxNjM4MTE3ODgyLC0xMj
 cxMDk5NDM2XX0=
