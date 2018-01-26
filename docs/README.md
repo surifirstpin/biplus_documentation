@@ -9,8 +9,8 @@ BI+ is a Collection of business analytics tools that provides a standard insight
 
 it delivers fine tuned and easy-to-read reports and publish them throughout the organisation to access them on web and mobile devices. Visualization provides an intelligible pictorial representation of your data for better understanding and provides beautiful dashboard layouts to explore data more efficiently and share them to concerned team members.
 
-it has a rapid setup which connects people to data quickly. it can retrieve massive amount of data with an ease as BI+** is directly connected to your database.there is no limitation to what you can explore and you need not download any software. this way Bi Plus has proven to be totally user friendly tool for your Business requirements.
+it has a rapid setup which connects people to data quickly. it can retrieve massive amount of data with an ease as **BI+** is directly connected to your database and there is no limitation to what you can explore. need no download of any software and hasproven to be totally user friendly tool for your Business requirements.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTQ1NDQxNV19
+eyJoaXN0b3J5IjpbLTEwNzM0MTA0MzBdfQ==
 -->
