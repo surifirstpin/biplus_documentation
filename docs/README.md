@@ -20,7 +20,8 @@ it has a rapid setup which connects people to data quickly. it can retrieve mass
 Create, explore and operate on any device, directly at the point of decision.**BI+** is developed with responsive mobile design and touch interaction and they’ll work efficiently everywhere, on desktop, tablet, or mobile devices.
 
 ### Customer Success
-when it comes to business establ;ishment and success, BI+ is 
+
+when it comes to business establishment and success, BI+ is 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTQ3NjEyN119
+eyJoaXN0b3J5IjpbLTI4ODc0NDYwMl19
 -->
