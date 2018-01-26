@@ -1,11 +1,8 @@
-                            
- 
+                          
 <center><h1>Biplus</h1></center>
-<center><h2></h2></center>
-## Turn Insights into Actions
+<center><h2>Turn Insights into Actions</h2></center>
 
 ###  Why Bi+
-
 BI+ is a Collection of business analytics tools that provides a standard insights throughout your organization. it streamline your process by giving you an ability to use live data by predicting needs of the Business.
  
  ## See BI+ in Action
@@ -26,5 +23,5 @@ Create, explore and operate on any device, directly at the point of decision. **
 
 When it comes to business establishment and success, **BI+** software is an innovation that has ability to share and collaborate ideas efficiently.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTkzMDAxOTVdfQ==
+eyJoaXN0b3J5IjpbLTE3Njk4Mjg2NzVdfQ==
 -->
