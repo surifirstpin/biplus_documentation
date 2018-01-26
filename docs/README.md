@@ -31,9 +31,9 @@ Create, explore and operate on any device, directly at the point of decision. **
 When it comes to business establishment and success, **BI+** software is an innovation that has ability to share and collaborate ideas efficiently.
 
 
-Embedded analytics
+### Embedded analytics
 Get a powerful BI tool installed within your own product, application, portal, or website.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzUxODgxNl19
+eyJoaXN0b3J5IjpbMjgwNDMyNzA3XX0=
 -->
