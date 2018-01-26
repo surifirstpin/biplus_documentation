@@ -17,7 +17,7 @@ it has a rapid setup which connects people to data quickly. it can retrieve mass
 
 ### Create and research on any device
 
-Create, explore and operate on any device, directly at the point of decision. Qlik Sense is built from the ground up with responsive mobile design and touch interaction. Build analytics apps once, and they’ll work everywhere, on desktop, tablet, or mobile devices
+Create, explore and operate on any device, directly at the point of decision.**BI+** is developed with responsive mobile design and touch interaction. Build analytics apps once, and they’ll work everywhere, on desktop, tablet, or mobile devices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2NDk4OTM1XX0=
+eyJoaXN0b3J5IjpbLTExMTE0Njg3NDldfQ==
 -->
