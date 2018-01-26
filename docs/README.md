@@ -29,6 +29,12 @@ Create, explore and operate on any device, directly at the point of decision. **
 ### Customer Success
 
 When it comes to business establishment and success, **BI+** software is an innovation that has ability to share and collaborate ideas efficiently.
+
+
+Embedded analytics
+Get a powerful cloud BI reporting tool in your own brand name embedded within your own product, application, portal, or website.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc5NDI0NDVdfQ==
+eyJoaXN0b3J5IjpbLTIyODY3MDc0NV19
 -->
