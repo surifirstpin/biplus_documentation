@@ -48,7 +48,9 @@ Select the project you want to delete and click on **delete icon**
 
 ## Privacy & Share Option to Project
 
-you can save the projects in
+You can save the project i 
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/save_proj.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2NTU4NzY1XX0=
+eyJoaXN0b3J5IjpbMjcwNjc1MzM1XX0=
 -->
