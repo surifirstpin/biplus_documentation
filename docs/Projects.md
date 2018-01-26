@@ -49,9 +49,9 @@ Select the project you want to delete and click on **delete icon**
 ## Privacy & Share Option to Project
 
 You can save the project in public or private sections by selecting the radio button in BiPlus or share them to concerned team members.
-7. Click on Save project 
+**7.** Click on **Save project**.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/save_proj.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODA5NDAzOV19
+eyJoaXN0b3J5IjpbNjg5MDQ1MTU3XX0=
 -->
