@@ -13,7 +13,7 @@ It delivers fine tuned and easy-to-read reports and publish them throughout the 
 
 ### Easy access to data 
 
-it has a rapid setup which connects people to data quickly and can retrieve massive amount of data with an ease as **BI+** is directly connected to your database. there is no limitation to what you can explore and need not download any software. it has proven to be totally user friendly tool for your Business requirements.
+It has a rapid setup which connects people to data quickly and can retrieve massive amount of data with an ease as **BI+** is directly connected to your database. there is no limitation to what you can explore and need not download any software. it has proven to be totally user friendly tool for your Business requirements.
 
 ### Create and research on any device
 
@@ -23,5 +23,5 @@ Create, explore and operate on any device, directly at the point of decision. **
 
 When it comes to business establishment and success, **BI+** software is an innovation that has ability to share and collaborate ideas efficiently.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzA0NDQxMzFdfQ==
+eyJoaXN0b3J5IjpbMTY5Njk4ODc5N119
 -->
