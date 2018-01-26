@@ -42,9 +42,10 @@ To remove tables from database select the check boxes of selected tables from ri
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_del.png)
     
 5.Select the project you want to delete and click on delete icon
+6
 ## Privacy & Share Option to Projects
   
       
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzNTk5MzldfQ==
+eyJoaXN0b3J5IjpbNzcyNTM2ODk5XX0=
 -->
