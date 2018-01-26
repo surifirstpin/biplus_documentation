@@ -17,11 +17,11 @@ it has a rapid setup which connects people to data quickly and can retrieve mass
 
 ### Create and research on any device
 
-Create, explore and operate on any device, directly at the point of decision.**BI+** is developed with responsive mobile design and touch interaction and they’ll work efficiently everywhere, on desktop, tablet, or mobile devices.
+Create, explore and operate on any device, directly at the point of decision. **BI+** is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices.
 
 ### Customer Success
 
-When it comes to business establishment and success, **BI+** software is a innovation that has ability to share and collaborate ideas efficiently.
+When it comes to business establishment and success, **BI+** software is an innovation that has ability to share and collaborate ideas efficiently.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzNDU1MzI2XX0=
+eyJoaXN0b3J5IjpbMTA3MzQzOTk3Nl19
 -->
