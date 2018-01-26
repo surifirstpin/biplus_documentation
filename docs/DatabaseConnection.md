@@ -77,9 +77,9 @@ If connecting with separate database host then you need to provide following inf
 ### Next Steps
 Once you have Setup the Database connection you can further take up the process by following below steps:
 
-  - Creating a Project to control data  in model
+  - Create Project to control data  in model
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzUzOTgyMSw0Mzg3NDYwNzMsMjEwND
+eyJoaXN0b3J5IjpbMTg1Mjc2NzI3OSw0Mzg3NDYwNzMsMjEwND
 cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
 -->
