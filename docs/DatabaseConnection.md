@@ -24,15 +24,15 @@
    
 >Note: As per your requirement we can include the dialects needed to run the business.
 
- **Host**  database host path
+**Host**  database host path
  
- **Database** name of the database
+**Database** name of the database
 
- **Username and Password** to connect the database
+**Username and Password** to connect the database
 
- **Maximum connection** concurrent connection used by database
-
- **Additional Parameters** include any additional JDBC parameter in this section
+**Maximum connection** concurrent connection used by  database
+ 
+**Additional Parameters** include any additional JDBC parameter in this section
 
    
 ## SSH 
@@ -80,6 +80,6 @@ Once you have Setup the Database connection you can further take up the process 
   - Creating a Project to control data  in model
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjE5Nzk1NSw0Mzg3NDYwNzMsMjEwND
+eyJoaXN0b3J5IjpbMTgyNzUzOTgyMSw0Mzg3NDYwNzMsMjEwND
 cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
 -->
