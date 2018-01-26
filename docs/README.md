@@ -14,7 +14,7 @@ Import data from files,databases, cloud drives, popular business applications an
 ### Smarter visualization
 
 It delivers fine tuned and easy-to-read reports and publish them throughout the organisation to access them on web and mobile devices.  Visualization delivers an innovative pictorial representation of your data in right context. Use advanced analytic integration and geographic calculation to broaden insight. It is fully interactive-easily adjustable,Zoom, and make selections to find the insights visually for better understanding and provides beautiful dashboard layouts to explore data more efficiently and share them to concerned team members.
-
+### Data merge
 ### Explore from any device
 
 Create, explore and operate on any device, directly at the point of decision. **BI+** is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices.
@@ -23,5 +23,5 @@ Create, explore and operate on any device, directly at the point of decision. **
 
 When it comes to business establishment and success, **BI+** software is an innovation that has ability to share and collaborate ideas efficiently.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTM0NzM1ODVdfQ==
+eyJoaXN0b3J5IjpbLTE3MTU0MzkyMF19
 -->
