@@ -24,11 +24,11 @@ Create, explore and operate on any device, directly at the point of decision. **
 
 ### Secure Accessibility
 
- Share and collaborate reports with team members more securely.
+ Share and collaborate reports with team members more securely and  get the consent quickly.
 
 ### Customer Success
 
 When it comes to business establishment and success, **BI+** software is an innovation that has ability to share and collaborate ideas efficiently.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjM2MTY0NF19
+eyJoaXN0b3J5IjpbLTIwMTI3NTk2MThdfQ==
 -->
