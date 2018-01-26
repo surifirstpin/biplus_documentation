@@ -1,5 +1,9 @@
 ## Defining new relations. 
 
+Model defines explore and their relationship with other view it derived using all the below parameters.
+
+- **Project** used for the model
+- **Connection** database connection used for the model.
 ## mappings
 
            welcome to biplus
@@ -16,5 +20,5 @@
     
            welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODQyNjg5NF19
+eyJoaXN0b3J5IjpbLTI4MDQ3ODgwOV19
 -->
