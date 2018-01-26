@@ -16,7 +16,8 @@ it delivers fine tuned and easy-to-read reports and publish them throughout the 
 it has a rapid setup which connects people to data quickly. it can retrieve massive amount of data with an ease as **BI+** is directly connected to your database and there is no limitation to what you can explore. need no download of any software and has proven to be totally user friendly tool for your Business requirements.
 
 ### Create and research on any device
-research, create, and collaborate on any device, directly at the point of decision. Qlik Sense is built from the ground up with responsive mobile design and touch interaction. Build analytics apps once, and they’ll work everywhere, on desktop, tablet, or mobile devices
+
+Create, analysis  and collaborate on any device, directly at the point of decision. Qlik Sense is built from the ground up with responsive mobile design and touch interaction. Build analytics apps once, and they’ll work everywhere, on desktop, tablet, or mobile devices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDg3NTg5NV19
+eyJoaXN0b3J5IjpbOTkyOTI1MjU2XX0=
 -->
