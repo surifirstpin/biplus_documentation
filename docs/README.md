@@ -7,16 +7,16 @@ BI+ is a Collection of business analytics tools that provides a standard insight
  
  ## See BI+ in Action
  
-### Smarter and Efficient Visualization
+### Smarter and efficient visualization
 
 it delivers fine tuned and easy-to-read reports and publish them throughout the organisation to access them on web and mobile devices. Visualization provides an intelligible pictorial representation of your data for better understanding and provides beautiful dashboard layouts to explore data more efficiently and share them to concerned team members.
 
-### Easy Access to Data 
+### Easy access to data 
 
 it has a rapid setup which connects people to data quickly. it can retrieve massive amount of data with an ease as **BI+** is directly connected to your database and there is no limitation to what you can explore. need no download of any software and has proven to be totally user friendly tool for your Business requirements.
 
-### Create and Research on any Device
-
+### Create and research on any device
+Explore, create, and collaborate on any device, directly at the point of decision. Qlik Sense is built from the ground up with responsive mobile design and touch interaction. Build analytics apps once, and they’ll work everywhere, on desktop, tablet, or mobile devices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjAwMTcxOF19
+eyJoaXN0b3J5IjpbLTE5ODU4NzM0MzldfQ==
 -->
