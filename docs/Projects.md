@@ -39,17 +39,12 @@ To remove tables from database select the check boxes of selected tables from ri
 
 ## Delete a Project
 
-    Select the project that you want to delete and
-
-
-
-         welcome to Biplus
-
-         welcome to Biplus
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_del.png)
+    
+5.Select the project 
 ## Privacy & Share Option to Projects
   
-          welcome to Biplus
+      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTkzMzA1NDldfQ==
+eyJoaXN0b3J5IjpbMTAzNzA5NzU0OF19
 -->
