@@ -6,8 +6,8 @@
 **I.**  Get the connection details for your database such as Host name, schema name, username and password from your             **Database Administrator**.
 
 **II.** Enable secure access to your database. You have several choices:
--  Using an IP Address Whitelist, optionally adding SSL Encryption.
-- Using an SSH Tunnel, which provides a secured and encrypted connection with extra authentication
+  -  Using an IP Address Whitelist, optionally adding SSL Encryption.
+  - Using an SSH Tunnel, which provides a secured and encrypted connection with extra authentication
   
 **III.** Set up your database to work with BiPlus. The instructions may vary from dialect to dialect. Typically it includes providing approval to BiPlus to access your database.
   ## Create Connection
@@ -79,6 +79,6 @@ Once you have Setup the Database connection you can further take up the process 
   - Creating a Project to control data  in model
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTQ1OTk4OSw0Mzg3NDYwNzMsMjEwND
-cwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3NjUzXX0=
+eyJoaXN0b3J5IjpbLTEyMTUwNjA4MjEsNDM4NzQ2MDczLDIxMD
+Q3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4NzY1M119
 -->
