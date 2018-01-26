@@ -12,7 +12,7 @@ Model defines explore and their relationship with other view it is derived using
 	"info": "Project Info",
 	"connections": [
 		"Oracle_Build",
-],
+]
 }
 ``` 
 ## mappings
@@ -30,5 +30,5 @@ Model defines explore and their relationship with other view it is derived using
     
            welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTk2Njk2Nl19
+eyJoaXN0b3J5IjpbLTY1MzQxNTM4XX0=
 -->
