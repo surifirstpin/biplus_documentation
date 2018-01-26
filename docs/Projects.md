@@ -39,7 +39,8 @@ To remove tables from database select the check boxes of selected tables from ri
 
 ## Delete a Project
 
-Select the project you want to delete and click on delete icon
+Select the project you want to delete and click on **delete icon**
+
 6. Click on **Delete** button shown in pop up screen.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_del.png)
@@ -50,5 +51,5 @@ Select the project you want to delete and click on delete icon
   
       
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDkxNzk1NF19
+eyJoaXN0b3J5IjpbLTE0ODU4NDMzNzJdfQ==
 -->
