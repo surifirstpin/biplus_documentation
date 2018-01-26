@@ -1,5 +1,6 @@
 ## Bi+
-               ## Turn Insights into Actions
+
+## Turn Insights into Actions
 
 BiPlus is one of the most user friendly BI tool. Business Intelligence is center of today business and technology revolution. it streamline your process by giving you an ability to use live data by predicting needs of the customer.
 
@@ -7,5 +8,5 @@ it has a rapid setup which connects people to data quickly. it can retrieve mass
 
 BiPlus helps you to create an apparent and easy-to-read report by providing data exploration and filtering. Visualization provides an intelligible pictorial representation of your data for better understanding. it provides beautiful dashboard layouts helping you to explore data more efficiently and you can also share the data publicly to concerned team members.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3NDQwNjkwXX0=
+eyJoaXN0b3J5IjpbLTE4MjQ0NDM0NTZdfQ==
 -->
