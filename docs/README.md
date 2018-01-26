@@ -1,6 +1,7 @@
                             
-  # BI+ 
-
+ 
+<center><h1>Biplus</h1></center>
+<center><h2></h2></center>
 ## Turn Insights into Actions
 
 ###  Why Bi+
@@ -25,5 +26,5 @@ Create, explore and operate on any device, directly at the point of decision. **
 
 When it comes to business establishment and success, **BI+** software is an innovation that has ability to share and collaborate ideas efficiently.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4NDg1MTcxXX0=
+eyJoaXN0b3J5IjpbLTE4OTkzMDAxOTVdfQ==
 -->
