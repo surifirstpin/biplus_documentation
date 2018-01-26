@@ -15,8 +15,8 @@ it delivers fine tuned and easy-to-read reports and publish them throughout the 
 
 it has a rapid setup which connects people to data quickly. it can retrieve massive amount of data with an ease as **BI+** is directly connected to your database and there is no limitation to what you can explore. need no download of any software and has proven to be totally user friendly tool for your Business requirements.
 
-### Create and Research on a
+### Create and Research on any 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTE3NTQ5M119
+eyJoaXN0b3J5IjpbLTIxNDMzMDM1NTJdfQ==
 -->
