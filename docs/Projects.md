@@ -43,12 +43,11 @@ Select the project you want to delete and click on **delete icon**
 
 6. Click on **Delete** button shown in pop up screen.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_del.png)
     
 
 ## Privacy & Share Option to Projects
   
       
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjY2Njg4Ml19
+eyJoaXN0b3J5IjpbMTk5OTI2ODQ4M119
 -->
