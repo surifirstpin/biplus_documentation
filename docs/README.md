@@ -21,7 +21,7 @@ Create, explore and operate on any device, directly at the point of decision.**B
 
 ### Customer Success
 
-when it comes to business establishment and success, BI+ software is a innovation that has ability to share and collaborate ideas.
+When it comes to business establishment and success, **BI+** software is a innovation that has ability to share and collaborate ideas efficiently.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzMzOTk0OV19
+eyJoaXN0b3J5IjpbLTEwNTkwMDg2MzldfQ==
 -->
