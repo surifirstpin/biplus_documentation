@@ -39,7 +39,7 @@ To remove tables from database select the check boxes of selected tables from ri
 
 ## Delete a Project
 
-       welcome to Biplus
+    Select the project that you want to delete and
 
 
 
@@ -51,5 +51,5 @@ To remove tables from database select the check boxes of selected tables from ri
   
           welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjI5Mjg2XX0=
+eyJoaXN0b3J5IjpbLTExNTkzMzA1NDldfQ==
 -->
