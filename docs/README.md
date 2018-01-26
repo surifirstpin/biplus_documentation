@@ -9,7 +9,7 @@ BI+ is a Collection of business analytics tools that provides a standard insight
  
 ### Smarter and efficient visualization
 
-it delivers fine tuned and easy-to-read reports and publish them throughout the organisation to access them on web and mobile devices. Visualization provides an intelligible pictorial representation of your data for better understanding and provides beautiful dashboard layouts to explore data more efficiently and share them to concerned team members.
+It delivers fine tuned and easy-to-read reports and publish them throughout the organisation to access them on web and mobile devices. Visualization provides an intelligible pictorial representation of your data for better understanding and provides beautiful dashboard layouts to explore data more efficiently and share them to concerned team members.
 
 ### Easy access to data 
 
@@ -23,5 +23,5 @@ Create, explore and operate on any device, directly at the point of decision. **
 
 When it comes to business establishment and success, **BI+** software is an innovation that has ability to share and collaborate ideas efficiently.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk4Mjg2NzVdfQ==
+eyJoaXN0b3J5IjpbLTE1MzA0NDQxMzFdfQ==
 -->
