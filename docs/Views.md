@@ -100,8 +100,9 @@ list of supporting parameters used while defining the custom fields:
 ```    
 
 ## Defining map coordinates
- ## Login based Lookups
+
+## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTU3ODA4XX0=
+eyJoaXN0b3J5IjpbLTE3NjIwNTk1ODBdfQ==
 -->
