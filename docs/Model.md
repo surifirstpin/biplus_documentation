@@ -59,7 +59,7 @@ Model defines explore and their relationship with other view it is derived using
 
 ## Model Filters
 
-Model filters helps you to extract the relevant information based on the applied filter options.
+Filters defined under the model section are applied by default to all the fields.
 
 ### Syntax for model based filter
 ```
@@ -112,5 +112,5 @@ SELECT ORDERID,TO_CHAR(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE1NDkzMDRdfQ==
+eyJoaXN0b3J5IjpbLTEyNTIyMDg4NjddfQ==
 -->
