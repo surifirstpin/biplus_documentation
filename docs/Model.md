@@ -17,7 +17,7 @@ Model defines explore and their relationship with other view it is derived using
 	"info": "Project Info",
 	"connections": [
 		"Oracle_Build",
-]
+                   ]
 }
 ``` 
 ## mappings
@@ -51,8 +51,8 @@ Model defines explore and their relationship with other view it is derived using
 					"join_type": "left",
 					"join_on": "${BI_DELIVERYREPORT.CUSTOMERID} = ${BI_CUSTOMERS.CUSTOMERID}"
 				}
-			]
-		},
+			            ]
+},
 		```
 		
 **1.** Click on **Save** button.
@@ -119,5 +119,5 @@ SELECT ORDERID,TO_CHAR(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjk3NDEwMzJdfQ==
+eyJoaXN0b3J5IjpbLTExNzM1Nzg2ODBdfQ==
 -->
