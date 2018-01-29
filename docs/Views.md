@@ -53,12 +53,21 @@ list of supporting parameters used while defining the custom fields:
 - **lookup** retrieves a list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization).
 - **Operator** is used to retrieve single or multiple values in the filter section while using lookup.
 - **SQL** parameter is used define a valid SQL expression that results in a field value.
+- 
 ## Summary ( aggregates as sum, min, max, avg, count)
 
 - **Summary** is used to retrieve the aggregate field values of the measures using the following options Sum,count,average, maximum, minimum.
+
+## Drill-down feature and specs
+
 - **Drill_down_fields** parameter is used to explore the data within the field.
 - **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning he true or false condition to the parameter.
+
+## Field Visibility On / Off
+
 - **Visualize** parameter is used as display on-off option of the field in visualization section by assigning true or false condition to the parameter.
+## Adding Currency & Format to a field
+
 - **Number_format** it specifies different set of number formats used for the field values.
 - **Currency** is applied to retrieve the values in specified currency applicable.
 - 
@@ -82,7 +91,7 @@ list of supporting parameters used while defining the custom fields:
 
                  welcome to biplus
 
-## Adding Currency & Format to a field
+
 
                  welcome to biplus
 
@@ -90,14 +99,13 @@ list of supporting parameters used while defining the custom fields:
 
                  welcome to biplus
 
-## Drilldown featuer and specs
 
                  welcome to biplus
 
-## Field Visibility On / Off
+
 
                  welcome to biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODg3MDY4Nl19
+eyJoaXN0b3J5IjpbMTI2OTU3NjEwNF19
 -->
