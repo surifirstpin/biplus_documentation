@@ -7,11 +7,16 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 
 ## Labelling a Database Field
 
-- **Name** of the custom table derived
-- **label** the custom table
-- **Info** provides description for custom table
-- **Type** datatype used for deriving a custom table
-- **Database** table is used to retrieve the data fields
+- **Name** of the custom table derived.
+
+- **label** the custom table.
+
+- **Info** provides description for custom table.
+
+- **Type** datatype used for deriving a custom table.
+
+- **Database** table is used to retrieve the data fields.
+
 - **Connection** establish the database connection for deriving new fields.
 
 ### Syntax for deriving custom table :
@@ -44,17 +49,17 @@ list of supporting parameters used while defining the custom fields:
   - **Time_frame** is a derived list of formats from time stamps for instance the following are the available formats hour, day, week,month,quarter, year,date,week_day, date_month , date_quarter, date_hour, year_week.
  
   - **Number** for the measure that contain number.
-  - 
+ 
   - **Int** for the measure that contains integers.
-  - 
+  
 - **Type** can be used as part of dimension or measure.
 
 ## Lookup and Operators ( Query & Items)
 
 - **lookup** retrieves a list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization).
-- 
+
 - **Operator** is used to retrieve single or multiple values in the filter section while using lookup.
-- 
+
 - **SQL** parameter is used define a valid SQL expression that results in a field value.
 
 ## Summary ( aggregates as sum, min, max, avg, count)
@@ -98,5 +103,5 @@ list of supporting parameters used while defining the custom fields:
  ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjY2NDM4NzddfQ==
+eyJoaXN0b3J5IjpbMjIxOTkyMDAxXX0=
 -->
