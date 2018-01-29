@@ -23,6 +23,7 @@ Model defines explore and their relationship with other view it is derived using
 ## mappings
 
 ### Mapping Parameters used in the model:
+
 - **Name** of the database table.
 
 - **Label** changes the way that model should appear in the visualization if not by default it uses the name of the model.
@@ -82,10 +83,8 @@ Model filters helps you to extract the relevant information based on the applied
   }
   ]
   }
-  
   ``` 
-
-
+  
 ## Login based Filters
 
            welcome to biplus
@@ -94,5 +93,5 @@ Model filters helps you to extract the relevant information based on the applied
 
 BI+ helps you yo create your own set of derived custom table that doesn’t already exist in your database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTQzNzQ0XX0=
+eyJoaXN0b3J5IjpbOTQyMzAzMzUwXX0=
 -->
