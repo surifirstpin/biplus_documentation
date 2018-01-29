@@ -27,7 +27,18 @@ Model defines explore and their relationship with other view it is derived using
   - **Join_on** derives the relationship between how to join two tables.
   ### Syntax for join parameters defined :
   ```
-  
+  {
+			"name": "BI_DELIVERYREPORT",
+			"label": "BI_DELIVERYREPORT",
+			"filters": [],
+			"joins": [
+				{
+					"join": "BI_CUSTOMERS",
+					"join_type": "left",
+					"join_on": "${BI_DELIVERYREPORT.CUSTOMERID} = ${BI_CUSTOMERS.CUSTOMERID}"
+				}
+			]
+		},
 ## Model Filters
 
            welcome to biplus
@@ -40,5 +51,5 @@ Model defines explore and their relationship with other view it is derived using
     
            welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Nzk1NTM4NF19
+eyJoaXN0b3J5IjpbODMzNTA5MjA2XX0=
 -->
