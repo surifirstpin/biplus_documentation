@@ -135,7 +135,7 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 - **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning he true or false condition to the parameter
 - **Visualize** parameter is used as display on-off option of the field in visualization section by assigning true or false condition to the parameter
 - **Number_format** it specifies different set of number formats used for the field values
--Currency is applied to retrieve the values in specified currency applicable
+- **Currency is applied to retrieve the values in specified currency applicable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzEyOTMzMF19
+eyJoaXN0b3J5IjpbLTI1MDI5NTgyMF19
 -->
