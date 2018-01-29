@@ -25,6 +25,9 @@ Model defines explore and their relationship with other view it is derived using
   - **Join** derive the relationship between 2 views based on the condition.
   - **Join_type** derives type of join to apply (Left,Right,inner join).
   - **Join_on** derives the relationship between how to join two tables.
+  ### Syntax for join parameters defined :
+  ```
+  
 ## Model Filters
 
            welcome to biplus
@@ -37,5 +40,5 @@ Model defines explore and their relationship with other view it is derived using
     
            welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0ODI1NjYyXX0=
+eyJoaXN0b3J5IjpbLTY4Nzk1NTM4NF19
 -->
