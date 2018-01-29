@@ -122,7 +122,7 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 - **label** the derived field
 - **Data_type** have supporting parameters and string is used as  Default parameter while deriving the fields for custom table.below are the list of supporting parameters we use while defining the custom fields,
 - **String** for measures that contain letters or special characters
-- **date measures that contain dates
+- **Date measures that contain dates
 time_frame is a derived list of formats from timestamps for instance the following are the available formats hour,day,week,month,quarter, year,date,week_day,date_month,date_quarter, date_hour, year_week.
 number for the measure that contain number
 int for the measure that contains integers
@@ -137,5 +137,5 @@ Visualize parameter is used as display on-off option of the field in visualizati
 Number_format it specifies different set of number formats used for the field values
 Currency is applied to retrieve the values in specified currency applicable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDY1MjE3MjddfQ==
+eyJoaXN0b3J5IjpbLTY4NTQwODQxNV19
 -->
