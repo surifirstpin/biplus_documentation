@@ -139,6 +139,22 @@ list of supporting parameters used while defining the custom fields:
 - **Number_format** it specifies different set of number formats used for the field values.
 - **Currency** is applied to retrieve the values in specified currency applicable.
 #### Syntax for defining fields in custom table:
+```
+"fields": [
+		{
+			"name": "CUSTNAME",
+			"label": "CUSTOMER NAME",
+			"data_type": "string",
+			"type": "dimension",
+			"lookup": "",
+			"operators": "",
+			"sql": "\"CustomView_791\".CUSTNAME",
+			"summary": "",
+			"drill_down_fields": "SC,ORID",
+			"visualise": "true"
+]
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTExNjMxMzddfQ==
+eyJoaXN0b3J5IjpbMzM5NDQ1Mjc0XX0=
 -->
