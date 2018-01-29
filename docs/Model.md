@@ -91,7 +91,7 @@ Model filters helps you to extract the relevant information based on the applied
 ### Syntax for login based filters:
 
 ## Derived Table
-Derived tables enables you to refine the 
+Derived tables enables you to refine your data analysis more precisely
 
 Using BI+ you create your own set of derived custom table that doesn’t already exist in your database.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/custom_table.png)
@@ -164,5 +164,5 @@ list of supporting parameters used while defining the custom fields:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model_last.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTI1OTg0Ml19
+eyJoaXN0b3J5IjpbLTEyMDgxMDc5MjFdfQ==
 -->
