@@ -94,7 +94,7 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/custom_table.png)**1.** Click on New Empty view button to create a derive a new custom view table.
 **2.** Once the view is created label the database field and derive the custom table using a SQL query as a result a derived table is created.
 
-### List of parameters used while defining a custom table :
+#### List of parameters used while defining a custom table :
 
 - **Name** of the custom table derived
 - **label** the custom table
@@ -116,6 +116,26 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 	"connection": "Oracle_Build",
 }
 ```
+#### Below are the list of function and parameters used while defining a fields under table :
+
+- **Name** identifier defined for a field
+- **label** the derived field
+data_type have supporting parameters and string is used as default parameter while deriving the fields for custom table.below are the list of supporting parameters we use while defining the custom fields,
+string for measures that contain letters or special characters
+date measures that contain dates
+time_frame is a derived list of formats from timestamps for instance the following are the available formats hour,day,week,month,quarter, year,date,week_day,date_month,date_quarter, date_hour, year_week.
+number for the measure that contain number
+int for the measure that contains integers
+type can be used as part of dimension or measure
+lookup retrieves a list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization)
+operator is used to retrieve single or multiple values in the filter section while using lookup
+SQL parameter is used define a valid sql expression that results in a field value
+summary is used to retrieve the aggregate field values of the measures using the following options Sum,count,average, maximum,minimum
+drill_down_fields parameter is used to explore the data within the field
+show_drill_down _measure parameter is used to retrieve the data from multiple levels by assigning he true or false condition to the parameter
+Visualize parameter is used as display on-off option of the field in visualization section by assigning true or false condition to the parameter
+Number_format it specifies different set of number formats used for the field values
+Currency is applied to retrieve the values in specified currency applicable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTIzMDIyMzRdfQ==
+eyJoaXN0b3J5IjpbLTEwMzE4NDg1NDJdfQ==
 -->
