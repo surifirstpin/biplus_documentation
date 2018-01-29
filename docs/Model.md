@@ -88,7 +88,7 @@ Model filters helps you to extract the relevant information based on the applied
 
    Login based filter provides access to specified user only.
 
-### Syntax for login based filters
+### Syntax for login based filters:
 
 ## Custom Query
 
@@ -105,7 +105,7 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 - **Database** table is used to retrieve the data fields
 - **Connection** establish the database connection for deriving new fields.
 
-### Syntax for deriving custom table:
+### Syntax for deriving custom table :
 
 ``` 
 {
@@ -140,7 +140,7 @@ list of supporting parameters used while defining the custom fields:
 - **Visualize** parameter is used as display on-off option of the field in visualization section by assigning true or false condition to the parameter.
 - **Number_format** it specifies different set of number formats used for the field values.
 - **Currency** is applied to retrieve the values in specified currency applicable.
-#### Syntax for defining fields in custom table:
+#### Syntax for defining fields in custom table :
 ```
 "fields": [
 		{
@@ -161,5 +161,5 @@ list of supporting parameters used while defining the custom fields:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model_last.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY3NDUzNjZdfQ==
+eyJoaXN0b3J5IjpbMTU2NjI3MjkyMF19
 -->
