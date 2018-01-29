@@ -65,6 +65,8 @@ Filters defined under the model section are applied by default to all the fields
 Name 
 Label
 Filter_sql
+Apply
+Position
 
 ### Syntax for model based filter
 ```
@@ -117,5 +119,5 @@ SELECT ORDERID,TO_CHAR(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk5NTIxNDddfQ==
+eyJoaXN0b3J5IjpbLTEzNjk3NDEwMzJdfQ==
 -->
