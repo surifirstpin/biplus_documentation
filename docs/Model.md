@@ -104,7 +104,8 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 - **Connection** establish the database connection for deriving new fields.
 
 ### Syntax for deriving custom table:
-```
+
+``` 
 {
 "name": "CustomView_791",
 	"label": "CustomView_791",
@@ -116,5 +117,5 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODU0NTA5Nl19
+eyJoaXN0b3J5IjpbLTEwMTIzMDIyMzRdfQ==
 -->
