@@ -15,7 +15,6 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 - **Connection** establish the database connection for deriving new fields.
 
 ### Syntax for deriving custom table :
-
 ``` 
 {
 "name": "CustomView_820",
@@ -28,21 +27,22 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 }
 ```
 
-
-                 welcome to biplus
-
-
-                 welcome to biplus
-
 ## Usage of functions, logical & arithmetical operations in Custom Fields
 
 - **Name** of the field.
+
 - **label** the derived field.
+
 - **Data_type** have supporting parameters and string is used as  Default parameter while deriving the fields for custom table.
+
 list of supporting parameters used while defining the custom fields:
+
    - **String** for measures that contain letters or special characters.
+   
   - **Date** measures that contain dates.
+  
   - **Time_frame** is a derived list of formats from time stamps for instance the following are the available formats hour, day, week,month,quarter, year,date,week_day, date_month , date_quarter, date_hour, year_week.
+  
   - **Number** for the measure that contain number.
   - **Int** for the measure that contains integers.
 - **Type** can be used as part of dimension or measure.
@@ -50,7 +50,9 @@ list of supporting parameters used while defining the custom fields:
 ## Lookup and Operators ( Query & Items)
 
 - **lookup** retrieves a list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization).
+- 
 - **Operator** is used to retrieve single or multiple values in the filter section while using lookup.
+- 
 - **SQL** parameter is used define a valid SQL expression that results in a field value.
 
 ## Summary ( aggregates as sum, min, max, avg, count)
@@ -94,5 +96,5 @@ list of supporting parameters used while defining the custom fields:
  ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3NTc5MzAzXX0=
+eyJoaXN0b3J5IjpbLTIwMjExNDc4ODVdfQ==
 -->
