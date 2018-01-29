@@ -94,6 +94,16 @@ Model filters helps you to extract the relevant information based on the applied
 
 Derived tables enables you to refine your data analysis more precisely.it creates a new temporary table that doesn't exist in your database already, they either be built at your query time or they can be stored in your database. These can be defined by writing a SQL query and results as derived table.
 
+### Syntax for derived tables :
+```
+SELECT
+ROOT.ORDERS.STATIONCODE AS STATIONCODE,
+ROOT.ORDERS.WHENMADE AS WHENMADE,ROOT.ORDERS.ORDERID AS ORDERID,
+SUM(ROOT.ORDERS.AMOUNT) AS sum_AMOUNT
+FROM ROOT.ORDERS
+WHERE (ROOT.ORDERS.WHENMADE >= TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
+GROUP BY (ROOT.ORDERS.STATIONCODE),(ROOT.ORDERS.WHENMADE),(ROOT.ORDERS.ORDERID)
+
 Using BI+ you create your own set of derived custom table that doesn’t already exist in your database.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/custom_table.png)
 
@@ -165,5 +175,5 @@ list of supporting parameters used while defining the custom fields:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model_last.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk5NDcxMTNdfQ==
+eyJoaXN0b3J5IjpbLTU1NjAyNjM2M119
 -->
