@@ -121,9 +121,8 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 - **Name** of the field.
 - **label** the derived field.
 - **Data_type** have supporting parameters and string is used as  Default parameter while deriving the fields for custom table.
-####  list of supporting parameters used while defining the custom fields.
 
-  - **String** for measures that contain letters or special characters.
+   - **String** for measures that contain letters or special characters.
   - **Date** measures that contain dates.
   - **Time_frame** is a derived list of formats from time stamps for instance the following are the available formats hour, day, week,month,quarter, year,date,week_day, date_month , date_quarter, date_hour, year_week.
   - **Number** for the measure that contain number.
@@ -139,5 +138,5 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 - **Number_format** it specifies different set of number formats used for the field values.
 - **Currency** is applied to retrieve the values in specified currency applicable.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDgxMTc0OF19
+eyJoaXN0b3J5IjpbLTk4Nzg2ODA1XX0=
 -->
