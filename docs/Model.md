@@ -93,7 +93,8 @@ Model filters helps you to extract the relevant information based on the applied
 Using BI+ you create your own set of derived custom table that doesn’t already exist in your database.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/custom_table.png)**1.** Click on New Empty view button to create a derive a new custom view table.
 **2.** Once the view is created label the database field and derive the custom table using a SQL query as a result a derived table is created.
-#### List of parameters used while defining a custom table :
+
+### List of parameters used while defining a custom table :
 
 - **Name** of the custom table derived
 - **label** the custom table
@@ -101,6 +102,19 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 - **Type** datatype used for deriving a custom table
 - **Database** table is used to retrieve the data fields
 - **Connection** establish the database connection for deriving new fields.
+
+### Syntax for deriving custom table:
+```
+{
+"name": "CustomView_791",
+	"label": "CustomView_791",
+	"info": "Description",
+	"type": "query",
+	"sql": "(SELECT A.STATIONCODE SC,A.ORDERID ORID,A.WHENMADE ORTIME,B.NAME RECEPNAME, A.AMOUNT ORDVAL,A.QUANTITY QTY,A.WAYUSED ORDBY, A.PAYMENTMODE PM,C.NAME CUSTNAME,C.ADDRESS CUSTADDR FROM ROOT.ORDERS A INNER JOIN ROOT.EMPLOYEES B ON A.ORDERATTDID=B.EMPLOYEEID INNER JOIN ROOT.CUSTOMERS C ON A.CUSTOMERID=C.CUSTOMERID)",
+	"database": "ROOT",
+	"connection": "Oracle_Build",
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0NTA5NTMxXX0=
+eyJoaXN0b3J5IjpbMTUyODU0NTA5Nl19
 -->
