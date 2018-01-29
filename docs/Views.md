@@ -56,11 +56,11 @@ list of supporting parameters used while defining the custom fields:
 
 ## Lookup and Operators ( Query & Items)
 
-- **lookup** retrieves a list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization).
+**lookup** retrieves a list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization).
 
-- **Operator** is used to retrieve single or multiple values in the filter section while using lookup.
+**Operator** is used to retrieve single or multiple values in the filter section while using lookup.
 
-- **SQL** parameter is used define a valid SQL expression that results in a field value.
+ **SQL** parameter is used define a valid SQL expression that results in a field value.
 
 ## Summary ( aggregates as sum, min, max, avg, count)
 
@@ -103,5 +103,5 @@ list of supporting parameters used while defining the custom fields:
  ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxOTkyMDAxXX0=
+eyJoaXN0b3J5IjpbMTMwNTU3ODA4XX0=
 -->
