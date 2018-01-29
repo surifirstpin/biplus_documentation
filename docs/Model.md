@@ -1,6 +1,7 @@
 
  Once we save the created project the data is reflected in model screen as shown in below image:
-
+ 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/49e5251756b8ccdaf049b25596aab34272f82085/images/project_final_model.png)
 
 ## Defining new relations. 
 
@@ -44,6 +45,7 @@ Model defines explore and their relationship with other view it is derived using
 			]
 		},
 		```
+		**1.** Click on Save
 ## Model Filters
 
            welcome to biplus
@@ -56,5 +58,5 @@ Model defines explore and their relationship with other view it is derived using
     
            welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDU3MTQxMV19
+eyJoaXN0b3J5IjpbOTA4MzI1MzQ1XX0=
 -->
