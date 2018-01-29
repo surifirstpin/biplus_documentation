@@ -22,9 +22,9 @@ Model defines explore and their relationship with other view it is derived using
 - **Label** changes the way that model should appear in the visualization if not by default it uses the name of the model.
 - **Filters** is optional list of filter expression derived for calculation of the measures.
 - **Join** establishes the relationship between visualization and views,here we use 3 types of join parameter join,join_type,join_on.
-- **Join** can derive the relationship between 2 views based on the condition
-- **Join_type** derives which type of join to apply (Left,Right,inner join)
-- **Join_on** derives the relationship between how to join two tables
+  - **Join** derive the relationship between 2 views based on the condition
+  - **Join_type** derives which type of join to apply (Left,Right,inner join)
+  - **Join_on** derives the relationship between how to join two tables
            welcome to biplus
 ## Model Filters
 
@@ -38,5 +38,5 @@ Model defines explore and their relationship with other view it is derived using
     
            welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Njk3MzM1N119
+eyJoaXN0b3J5IjpbLTI1NTQxMDQyOV19
 -->
