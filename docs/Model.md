@@ -86,7 +86,8 @@ Model filters helps you to extract the relevant information based on the applied
   
 ## Login based Filters
 
-        Login based filter provides access to specified user only.
+   Login based filter provides access to specified user only.
+#### Synatx
 
 ## Custom Query
 
@@ -159,5 +160,5 @@ list of supporting parameters used while defining the custom fields:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model_last.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU1ODI0MjZdfQ==
+eyJoaXN0b3J5IjpbNTMzODkzNDM1XX0=
 -->
