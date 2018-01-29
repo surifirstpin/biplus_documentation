@@ -129,15 +129,15 @@ Using BI+ you create your own set of derived custom table that doesn’t already
   - **Number** for the measure that contain number.
   - **Int** for the measure that contains integers.
 - **Type** can be used as part of dimension or measure.
-- **lookup** retrieves a list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization)
-- **Operator** is used to retrieve single or multiple values in the filter section while using lookup
-- **SQL** parameter is used define a valid SQL expression that results in a field value
-- **Summary** is used to retrieve the aggregate field values of the measures using the following options Sum,count,average, maximum,minimum
-- **Drill_down_fields** parameter is used to explore the data within the field
-- **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning he true or false condition to the parameter
+- **lookup** retrieves a list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization).
+- **Operator** is used to retrieve single or multiple values in the filter section while using lookup.
+- **SQL** parameter is used define a valid SQL expression that results in a field value.
+- **Summary** is used to retrieve the aggregate field values of the measures using the following options Sum,count,average, maximum, minimum.
+- **Drill_down_fields** parameter is used to explore the data within the field.
+- **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning he true or false condition to the parameter.
 - **Visualize** parameter is used as display on-off option of the field in visualization section by assigning true or false condition to the parameter.
 - **Number_format** it specifies different set of number formats used for the field values.
 - **Currency** is applied to retrieve the values in specified currency applicable.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0NjIxNTc2XX0=
+eyJoaXN0b3J5IjpbLTEwMTA0Mzk4MzZdfQ==
 -->
