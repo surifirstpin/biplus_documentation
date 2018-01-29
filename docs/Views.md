@@ -97,15 +97,7 @@ list of supporting parameters used while defining the custom fields:
 
 ## Defining map coordinates
 
-                 welcome to biplus
-
-
-                 welcome to biplus
-
-
-
-                 welcome to biplus
-
+           
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTU3NjEwNF19
+eyJoaXN0b3J5IjpbNTQ5MjE3ODI4XX0=
 -->
