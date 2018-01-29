@@ -45,7 +45,9 @@ Model defines explore and their relationship with other view it is derived using
 			]
 		},
 		```
-		**1.** Click on Save
+		
+**1.** Click on **Save** button.
+
 ## Model Filters
 
            welcome to biplus
@@ -58,5 +60,5 @@ Model defines explore and their relationship with other view it is derived using
     
            welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4MzI1MzQ1XX0=
+eyJoaXN0b3J5IjpbMTIwMDQzMDM2OV19
 -->
