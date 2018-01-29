@@ -91,8 +91,7 @@ Model filters helps you to extract the relevant information based on the applied
 ### Syntax for login based filters:
 
 ## Derived Table
-Derived tables enables you to refine your data analysis more precisely.it creates a new temporary table that doesn't exist in your database already, they either be built at your query time or they can be stored in your database. These can be define by writing a SQL query and uses it results as derived table.
- functionality provides a way to create new tables that don’t already exist in your database. These tables can be temporary and built at query time, or they can be stored in your database. Either way, you define a derived table by writing a SQL query, and the results of that query become the derived table. You can then reference the derived table in a LookML view, just like any other table.
+Derived tables enables you to refine your data analysis more precisely.it creates a new temporary table that doesn't exist in your database already, they either be built at your query time or they can be stored in your database. These can be defined by writing a SQL query and results as derived table.
 
 Using BI+ you create your own set of derived custom table that doesn’t already exist in your database.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/custom_table.png)
@@ -165,5 +164,5 @@ list of supporting parameters used while defining the custom fields:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model_last.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTg1OTA5MjJdfQ==
+eyJoaXN0b3J5IjpbLTE5MjQ2NDIxNjRdfQ==
 -->
