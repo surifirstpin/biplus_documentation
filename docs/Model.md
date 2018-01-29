@@ -53,7 +53,7 @@ Model defines explore and their relationship with other view it is derived using
 **1.** Click on **Save** button.
 
 ## Model Filters
-
+Model Filters helps you to extract the data by applying filters options
            welcome to biplus
 
 ## Login based Filters
@@ -64,5 +64,5 @@ Model defines explore and their relationship with other view it is derived using
 
 BI+ helps you yo create your own set of derived custom table that doesn’t already exist in your database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Nzg2MDg4NV19
+eyJoaXN0b3J5IjpbODQ1MjE1NjFdfQ==
 -->
