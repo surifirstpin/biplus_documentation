@@ -123,9 +123,9 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 - **Data_type** have supporting parameters and string is used as  Default parameter while deriving the fields for custom table.below are the list of supporting parameters we use while defining the custom fields,
 - **String** for measures that contain letters or special characters
 - **Date** measures that contain dates
-  - **Time_frame** is a derived list of formats from time stamps for instance the following are the available formats hour, day, week ,month,quarter, year,date,week_day, date_month,date_quarter, date_hour, year_week.
-number for the measure that contain number
-int for the measure that contains integers
+  - **Time_frame** is a derived list of formats from time stamps for instance the following are the available formats hour, day, week,month,quarter, year,date,week_day, date_month , date_quarter, date_hour, year_week.
+  - **Number** for the measure that contain number
+  - **Int** for the measure that contains integers
 type can be used as part of dimension or measure
 lookup retrieves a list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization)
 operator is used to retrieve single or multiple values in the filter section while using lookup
@@ -137,5 +137,5 @@ Visualize parameter is used as display on-off option of the field in visualizati
 Number_format it specifies different set of number formats used for the field values
 Currency is applied to retrieve the values in specified currency applicable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODY3NDQ5MTRdfQ==
+eyJoaXN0b3J5IjpbLTc1ODcxODUxNl19
 -->
