@@ -86,7 +86,7 @@ Model filters helps you to extract the relevant information based on the applied
   
 ## Login based Filters
 
-           welcome to biplus
+        Login based filter pro
 
 ## Custom Query
 
@@ -155,9 +155,9 @@ list of supporting parameters used while defining the custom fields:
 ]
 }
 ```
-**3.** Click on save** button to save the custom table view.
+**3.** Click on ** save** button to save the custom table view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model_last.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4Nzk3NjAyXX0=
+eyJoaXN0b3J5IjpbLTU2NjUyOTI5OV19
 -->
