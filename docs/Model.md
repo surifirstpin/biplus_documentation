@@ -2,7 +2,7 @@
 
 Model defines explore and their relationship with other view it is derived using below parameters.
 
-- **Project** used for the model
+- **Project** used for the model.
 - **Connection** database connection used for the model.
 
 ### Syntax for defining model parameters:
@@ -25,7 +25,6 @@ Model defines explore and their relationship with other view it is derived using
   - **Join** derive the relationship between 2 views based on the condition.
   - **Join_type** derives type of join to apply (Left,Right,inner join).
   - **Join_on** derives the relationship between how to join two tables.
-           welcome to biplus
 ## Model Filters
 
            welcome to biplus
@@ -38,5 +37,5 @@ Model defines explore and their relationship with other view it is derived using
     
            welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDYxOTM3MTRdfQ==
+eyJoaXN0b3J5IjpbODA0ODI1NjYyXX0=
 -->
