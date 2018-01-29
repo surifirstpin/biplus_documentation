@@ -33,9 +33,13 @@ Model defines explore and their relationship with other view it is derived using
 - **Join** establishes the relationship between visualization and views,here we use 3 types of join parameter join,join_type,join_on.
 
   - **Join** derive the relationship between 2 views based on the condition.
+  
   - **Join_type** derives type of join to apply (Left,Right,inner join).
+  
   - **Join_on** derives the relationship between how to join two tables.
+  
   ### Syntax for join parameters defined :
+  
   ```
   {
 			"name": "BI_DELIVERYREPORT",
@@ -108,5 +112,5 @@ SELECT ORDERID,TO_CHAR(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU4MjUzMjhdfQ==
+eyJoaXN0b3J5IjpbLTE3OTE1NDkzMDRdfQ==
 -->
