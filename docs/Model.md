@@ -62,7 +62,7 @@ Model defines explore and their relationship with other view it is derived using
 
 ## Custom Query
 
-BI+ helps you  create your own set of derived custom table that doesn’t already exist in your database.
+BI+ helps you yo create your own set of derived custom table that doesn’t already exist in your database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxNTYzMDkzXX0=
+eyJoaXN0b3J5IjpbLTc0Nzg2MDg4NV19
 -->
