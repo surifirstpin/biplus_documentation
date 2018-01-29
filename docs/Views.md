@@ -44,7 +44,9 @@ list of supporting parameters used while defining the custom fields:
   - **Time_frame** is a derived list of formats from time stamps for instance the following are the available formats hour, day, week,month,quarter, year,date,week_day, date_month , date_quarter, date_hour, year_week.
  
   - **Number** for the measure that contain number.
+  - 
   - **Int** for the measure that contains integers.
+  - 
 - **Type** can be used as part of dimension or measure.
 
 ## Lookup and Operators ( Query & Items)
@@ -96,5 +98,5 @@ list of supporting parameters used while defining the custom fields:
  ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTMxMDUyM119
+eyJoaXN0b3J5IjpbLTExNjY2NDM4NzddfQ==
 -->
