@@ -5,9 +5,16 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 **1.** Click on New Empty view button to create a derive a new custom view table.
 **2.** Once the view is created label the database field and derive the custom table using a SQL query as a result a derived table is created.
 
+#### List of parameters used while defining a custom table :
+
 ## Labelling a Database Field
 
-                 welcome to biplus
+- **Name** of the custom table derived
+- **label** the custom table
+- **Info** provides description for custom table
+- **Type** datatype used for deriving a custom table
+- **Database** table is used to retrieve the data fields
+- **Connection** establish the database connection for deriving new fields.
 
 ## Lookup and Operators ( Query & Items)
 
@@ -42,5 +49,5 @@ Using BI+ you create your own set of derived custom table that doesn’t already
                  welcome to biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2NDk3NjMxXX0=
+eyJoaXN0b3J5IjpbNDIwNTc5Nzg1XX0=
 -->
