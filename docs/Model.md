@@ -154,7 +154,7 @@ list of supporting parameters used while defining the custom fields:
 			"type": "dimension",
 			"lookup": "",
 			"operators": "",
-			"sql": "\"CustomView_791\".CUSTNAME",
+			"sql": "\"CustomView_820\".CUSTNAME",
 			"summary": "",
 			"drill_down_fields": "SC,ORID",
 			"visualise": "true"
@@ -165,5 +165,5 @@ list of supporting parameters used while defining the custom fields:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model_last.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjU0NjUyNTBdfQ==
+eyJoaXN0b3J5IjpbLTEyNzk5NDcxMTNdfQ==
 -->
