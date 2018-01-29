@@ -111,8 +111,8 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 
 ``` 
 {
-"name": "CustomView_791",
-	"label": "CustomView_791",
+"name": "CustomView_820",
+	"label": "CustomView_820",
 	"info": "Description",
 	"type": "query",
 	"sql": "(SELECT A.STATIONCODE SC,A.ORDERID ORID,A.WHENMADE ORTIME,B.NAME RECEPNAME, A.AMOUNT ORDVAL,A.QUANTITY QTY,A.WAYUSED ORDBY, A.PAYMENTMODE PM,C.NAME CUSTNAME,C.ADDRESS CUSTADDR FROM ROOT.ORDERS A INNER JOIN ROOT.EMPLOYEES B ON A.ORDERATTDID=B.EMPLOYEEID INNER JOIN ROOT.CUSTOMERS C ON A.CUSTOMERID=C.CUSTOMERID)",
@@ -163,5 +163,5 @@ list of supporting parameters used while defining the custom fields:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model_last.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTUxNTU4MF19
+eyJoaXN0b3J5IjpbMTk1MTcxOTE1MF19
 -->
