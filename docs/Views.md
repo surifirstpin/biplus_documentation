@@ -63,14 +63,16 @@ list of supporting parameters used while defining the custom fields:
 - **Drill_down_fields** parameter is used to explore the data within the field.
 - **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning he true or false condition to the parameter.
 
-## Field Visibility On / Off
+## Field Visibility On / Of
 
-- **Visualize** parameter is used as display on-off option of the field in visualization section by assigning true or false condition to the parameter.
+**Visualize** parameter is used as display on-off option of the field in visualization section by assigning true or false condition to the parameter.
+
 ## Adding Currency & Format to a field
 
-- **Number_format** it specifies different set of number formats used for the field values.
-- **Currency** is applied to retrieve the values in specified currency applicable.
-- 
+ **Number_format** it specifies different set of number formats used for the field values.
+
+**Currency** is applied to retrieve the values in specified currency applicable.
+ 
 #### Syntax for defining fields in custom table :
 ```
 "fields": [
@@ -89,15 +91,10 @@ list of supporting parameters used while defining the custom fields:
 }
 ```    
 
-                 welcome to biplus
-
-
-
-                 welcome to biplus
 
 ## Defining map coordinates
 
            
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5MjE3ODI4XX0=
+eyJoaXN0b3J5IjpbMjEwMDcwMTE0OF19
 -->
