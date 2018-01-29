@@ -39,8 +39,6 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 
 ## Usage of functions, logical & arithmetical operations in Custom Fields
 
- #### Below are the list of function and parameters used while defining a fields under table :
-
 - **Name** of the field.
 - **label** the derived field.
 - **Data_type** have supporting parameters and string is used as  Default parameter while deriving the fields for custom table.
@@ -99,5 +97,5 @@ list of supporting parameters used while defining the custom fields:
                  welcome to biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDM4OTY5N119
+eyJoaXN0b3J5IjpbMTU2NjA0OTQzMV19
 -->
