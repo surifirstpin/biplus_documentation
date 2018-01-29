@@ -56,6 +56,29 @@ Model defines explore and their relationship with other view it is derived using
 
 Model filters helps you to extract the relevant information based on the applied filter options.
 
+### Syntax for model based filter
+```
+{
+  "name": "AppliedDate",
+  "filter_sql": "ROOT.BI_ORDERS.WHENMADE >= TO_DATE('2016-01-01','YYYY-MM-DD HH24:MI:SS') AND ROOT.BI_ORDERS.WHENMADE < TO_DATE('2017-07-01','YYYY-MM-DD HH24:MI:SS')",
+  "apply": "all",
+  "position": "before"
+  },
+  {
+  "name": "UserAccessibility",
+  "filter_sql": " ROOT.BI_ORDERS.AREACODE IN (#{Model_Stage1.Customer_AreaCode,#userid#,UserName}) AND ROOT.BI_PRODUCTS.MODEL IN (#{Model_Stage1.Products_Model,#userid#,UserName})",
+  "apply": "all",
+  "position": "before"
+  },
+  {
+  "name": "RateRange",
+  "filter_sql": " ROOT.BI_ORDERS.RATE >= 200 AND ROOT.BI_ORDERS.RATE < 500",
+  "apply": "all",
+  "position": "after"
+  }
+  ``` 
+
+
 ## Login based Filters
 
            welcome to biplus
@@ -64,5 +87,5 @@ Model filters helps you to extract the relevant information based on the applied
 
 BI+ helps you yo create your own set of derived custom table that doesn’t already exist in your database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODAzMjQzMzRdfQ==
+eyJoaXN0b3J5IjpbLTQ0NTYyMTU5NF19
 -->
