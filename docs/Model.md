@@ -107,17 +107,18 @@ Position
 Derived tables enables you to refine your data analysis more precisely. it creates a new temporary table that doesn't exist in your database already, they either be built at your query time or they can be stored in your database. These can be defined by writing a SQL query and results as derived table.
 
 ### Syntax for derived tables :
-``` SELECT
+
+```select
 ROOT.ORDERS.STATIONCODE AS STATIONCODE,
 ROOT.ORDERS.WHENMADE AS WHENMADE,ROOT.ORDERS.ORDERID AS ORDERID,
 SUM(ROOT.ORDERS.AMOUNT) AS sum_AMOUNT
 FROM ROOT.ORDERS
-WHERE (ROOT.ORDERS.WHENMADE >= TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
+where (ROOT.ORDERS.WHENMADE >= TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 GROUP BY (ROOT.ORDERS.STATIONCODE),(ROOT.ORDERS.WHENMADE),(ROOT.ORDERS.ORDERID)
 
 SELECT ORDERID,TO_CHAR(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.ORDERS WHERE 
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM1Nzg2ODBdfQ==
+eyJoaXN0b3J5IjpbMTI4OTA1NDYzNF19
 -->
