@@ -29,7 +29,7 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 	"connection": "Oracle_Build",
 }
 ```
-## Lookup and Operators ( Query & Items)
+
 
                  welcome to biplus
 
@@ -43,25 +43,27 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 - **label** the derived field.
 - **Data_type** have supporting parameters and string is used as  Default parameter while deriving the fields for custom table.
 list of supporting parameters used while defining the custom fields:
-
    - **String** for measures that contain letters or special characters.
   - **Date** measures that contain dates.
   - **Time_frame** is a derived list of formats from time stamps for instance the following are the available formats hour, day, week,month,quarter, year,date,week_day, date_month , date_quarter, date_hour, year_week.
   - **Number** for the measure that contain number.
   - **Int** for the measure that contains integers.
 - **Type** can be used as part of dimension or measure.
+- 
+## Lookup and Operators ( Query & Items)
+
 - **lookup** retrieves a list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization).
 - **Operator** is used to retrieve single or multiple values in the filter section while using lookup.
 - **SQL** parameter is used define a valid SQL expression that results in a field value.
-- 
+
 ## Summary ( aggregates as sum, min, max, avg, count)
 
-- **Summary** is used to retrieve the aggregate field values of the measures using the following options Sum,count,average, maximum, minimum.
+ **Summary** is used to retrieve the aggregate field values of the measures using the following options Sum,count,average, maximum, minimum.
 
 ## Drill-down feature and specs
 
-- **Drill_down_fields** parameter is used to explore the data within the field.
-- **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning he true or false condition to the parameter.
+**Drill_down_fields** parameter is used to explore the data within the field.
+ **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning he true or false condition to the parameter.
 
 ## Field Visibility On / Of
 
@@ -96,5 +98,5 @@ list of supporting parameters used while defining the custom fields:
 
            
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDcwMTE0OF19
+eyJoaXN0b3J5IjpbLTEwOTE3NjYxXX0=
 -->
