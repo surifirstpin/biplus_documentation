@@ -18,13 +18,13 @@ Model defines explore and their relationship with other view it is derived using
 ## mappings
 
 ### Mapping Parameters used in the model:
-- **Name** of the database table
-- **Label** changes the way that model should appear in the visualization if not by default it uses the name of the
-- **Filters** is optional list of filter expression derived for calculation of the measures
-Join establishes the relationship between visualization and views,here we use 3 types of join parameter join,join_type,join_on.
-Join can derive the relationship between 2 views based on the condition
-Join_type derives which type of join to apply (Left,Right,inner join)
-Join_on derives the relationship between how to join two tables
+- **Name** of the database table.
+- **Label** changes the way that model should appear in the visualization if not by default it uses the name of the model.
+- **Filters** is optional list of filter expression derived for calculation of the measures.
+- **Join** establishes the relationship between visualization and views,here we use 3 types of join parameter join,join_type,join_on.
+- **Join** can derive the relationship between 2 views based on the condition
+- **Join_type** derives which type of join to apply (Left,Right,inner join)
+- **Join_on derives the relationship between how to join two tables
            welcome to biplus
 ## Model Filters
 
@@ -38,5 +38,5 @@ Join_on derives the relationship between how to join two tables
     
            welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjc1NjU1ODhdfQ==
+eyJoaXN0b3J5IjpbOTk3MzcwNzcxXX0=
 -->
