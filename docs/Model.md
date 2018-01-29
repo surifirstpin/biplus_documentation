@@ -90,7 +90,8 @@ Model filters helps you to extract the relevant information based on the applied
 
 ## Custom Query
 
-BI+ helps you you create your own set of derived custom table that doesn’t already exist in your database.
+Using BI+ you create your own set of derived custom table that doesn’t already exist in your database.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/custom_table.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3MTk1ODQ0XX0=
+eyJoaXN0b3J5IjpbMTU4MDc2MDYwM119
 -->
