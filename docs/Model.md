@@ -1,5 +1,5 @@
 
- Once the project saved the data is reflected in model section as 
+ Once the project saved you can derive your data in model section as shown 
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model_new.png)
 
@@ -93,5 +93,5 @@ Model filters helps you to extract the relevant information based on the applied
 
 BI+ helps you yo create your own set of derived custom table that doesn’t already exist in your database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU1MDMwMDJdfQ==
+eyJoaXN0b3J5IjpbMTk4NjkzNzM2NV19
 -->
