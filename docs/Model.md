@@ -1,3 +1,7 @@
+
+ Once we save the created project the data is reflected in model screen as shown in below image:
+
+
 ## Defining new relations. 
 
 Model defines explore and their relationship with other view it is derived using below parameters.
@@ -52,5 +56,5 @@ Model defines explore and their relationship with other view it is derived using
     
            welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjU2NTc4MF19
+eyJoaXN0b3J5IjpbMTMyMDU3MTQxMV19
 -->
