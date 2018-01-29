@@ -118,8 +118,8 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 ```
 #### Below are the list of function and parameters used while defining a fields under table :
 
-- **Name** identifier defined for a field
-- **label** the derived field
+- **Name** of the field.
+- **label** the derived field.
 - **Data_type** have supporting parameters and string is used as  Default parameter while deriving the fields for custom table.below are the list of supporting parameters we use while defining the custom fields,
 - **String** for measures that contain letters or special characters
 - **Date** measures that contain dates
@@ -133,9 +133,9 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 - **Summary** is used to retrieve the aggregate field values of the measures using the following options Sum,count,average, maximum,minimum
 - **Drill_down_fields** parameter is used to explore the data within the field
 - **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning he true or false condition to the parameter
-- **Visualize** parameter is used as display on-off option of the field in visualization section by assigning true or false condition to the parameter
-- **Number_format** it specifies different set of number formats used for the field values
-- **Currency is applied to retrieve the values in specified currency applicable
+- **Visualize** parameter is used as display on-off option of the field in visualization section by assigning true or false condition to the parameter.
+- **Number_format** it specifies different set of number formats used for the field values.
+- **Currency** is applied to retrieve the values in specified currency applicable.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDI5NTgyMF19
+eyJoaXN0b3J5IjpbLTE0NzM3MjIxMDBdfQ==
 -->
