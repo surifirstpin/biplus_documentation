@@ -59,6 +59,10 @@ Model filters helps you to extract the relevant information based on the applied
 ### Syntax for model based filter
 ```
 {
+			"name": "BI_ORDERS",
+			"label": "BI_ORDERS",
+			"filters": [
+{
   "name": "AppliedDate",
   "filter_sql": "ROOT.BI_ORDERS.WHENMADE >= TO_DATE('2016-01-01','YYYY-MM-DD HH24:MI:SS') AND ROOT.BI_ORDERS.WHENMADE < TO_DATE('2017-07-01','YYYY-MM-DD HH24:MI:SS')",
   "apply": "all",
@@ -76,6 +80,9 @@ Model filters helps you to extract the relevant information based on the applied
   "apply": "all",
   "position": "after"
   }
+  ]
+  }
+  
   ``` 
 
 
@@ -87,5 +94,5 @@ Model filters helps you to extract the relevant information based on the applied
 
 BI+ helps you yo create your own set of derived custom table that doesn’t already exist in your database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTYyMTU5NF19
+eyJoaXN0b3J5IjpbLTQ0NTQzNzQ0XX0=
 -->
