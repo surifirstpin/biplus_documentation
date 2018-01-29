@@ -121,6 +121,7 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 - **Name** of the field.
 - **label** the derived field.
 - **Data_type** have supporting parameters and string is used as  Default parameter while deriving the fields for custom table.
+list of supporting parameters used while defining the custom fields.
 
    - **String** for measures that contain letters or special characters.
   - **Date** measures that contain dates.
@@ -138,5 +139,5 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 - **Number_format** it specifies different set of number formats used for the field values.
 - **Currency** is applied to retrieve the values in specified currency applicable.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Nzg2ODA1XX0=
+eyJoaXN0b3J5IjpbMjA3Njg2OTY1Nl19
 -->
