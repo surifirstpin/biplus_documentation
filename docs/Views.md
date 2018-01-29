@@ -5,8 +5,6 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 **1.** Click on New Empty view button to create a derive a new custom view table.
 **2.** Once the view is created label the database field and derive the custom table using a SQL query as a result a derived table is created.
 
-#### List of parameters used while defining a custom table :
-
 ## Labelling a Database Field
 
 - **Name** of the custom table derived
@@ -33,7 +31,6 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 
                  welcome to biplus
 
-## Login based Lookups
 
                  welcome to biplus
 
@@ -49,7 +46,7 @@ list of supporting parameters used while defining the custom fields:
   - **Number** for the measure that contain number.
   - **Int** for the measure that contains integers.
 - **Type** can be used as part of dimension or measure.
-- 
+
 ## Lookup and Operators ( Query & Items)
 
 - **lookup** retrieves a list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization).
@@ -93,10 +90,9 @@ list of supporting parameters used while defining the custom fields:
 }
 ```    
 
-
 ## Defining map coordinates
+ ## Login based Lookups
 
-           
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTE3NjYxXX0=
+eyJoaXN0b3J5IjpbNzQ3NTc5MzAzXX0=
 -->
