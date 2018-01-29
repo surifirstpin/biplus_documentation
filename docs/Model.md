@@ -91,7 +91,16 @@ Model filters helps you to extract the relevant information based on the applied
 ## Custom Query
 
 Using BI+ you create your own set of derived custom table that doesn’t already exist in your database.
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/custom_table.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/custom_table.png)**1.** Click on New Empty view button to create a derive a new custom view table.
+**2.** Once the view is created label the database field and derive the custom table using a SQL query as a result a derived table is created.
+Below are the list of parameters used while defining a table :
+
+Name of the custom table derived
+label the custom table
+info provides the description for the table
+type datatype used while deriving a table
+database table used to get the table field
+connection database connection established for creating a new derived table
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDc2MDYwM119
+eyJoaXN0b3J5IjpbLTE4OTI0MTUyMzddfQ==
 -->
