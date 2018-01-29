@@ -97,10 +97,10 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 
 - **Name** of the custom table derived
 - **label** the custom table
-- **Info** provides the description for the table
-- **Type** datatype used while deriving a table
-- **Database** table is used to retrive the data fields
+- **Info** provides description for custom table
+- **Type** datatype used for deriving a custom table
+- **Database** table is used to retrieve the data fields
 - **Connection** establish the database connection for deriving new fields.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwNDEwOTcyXX0=
+eyJoaXN0b3J5IjpbNzI0NTA5NTMxXX0=
 -->
