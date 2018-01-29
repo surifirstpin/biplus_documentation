@@ -1,7 +1,6 @@
 ## Defining new Fileds in a View (Custom Fields)
 Using BI+ you create your own set of derived custom table that doesn’t already exist in your database.
-                 welcome to biplus
-
+   
 ## Labelling a Database Field
 
                  welcome to biplus
@@ -39,5 +38,5 @@ Using BI+ you create your own set of derived custom table that doesn’t already
                  welcome to biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzIxMzU0M119
+eyJoaXN0b3J5IjpbLTUyMTYxMzE2OV19
 -->
