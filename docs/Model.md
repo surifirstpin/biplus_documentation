@@ -1,5 +1,6 @@
 
  Once project is saved you can derive your data in model section as shown in below image:
+ ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ca01fdfd9787082af897b153cb9bb2e74a97c099/images/model_new.png)
  
 ## Defining new relations. 
 
@@ -89,7 +90,7 @@ Model filters helps you to extract the relevant information based on the applied
 
 ## Custom Query
 
-BI+ helps you yo create your own set of derived custom table that doesn’t already exist in your database.
+BI+ helps you you create your own set of derived custom table that doesn’t already exist in your database.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjA3MjMyNV19
+eyJoaXN0b3J5IjpbNjQ3MTk1ODQ0XX0=
 -->
