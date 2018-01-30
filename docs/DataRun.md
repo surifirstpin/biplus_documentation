@@ -24,9 +24,10 @@ A measure is a list of fields that uses a SQL aggregate function, such as COUNT,
 
 >For example, measures for a “Amount” is Amount_sum, Amount_avg, Amount_min, Amount_max etc.
 
-Using the search option provided in the visualization section you can select the fields for which you want to carryout the field values and apply filter options as shown in below image.
+Using the search option provided in the visualization section you can select the fields for which you want to carryout the field values and apply filter options as shown in below image:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/visu_fields.png)
+
 ## Row Limitation and Runtime display
 
                   welcome to biplus
@@ -72,5 +73,5 @@ the behavior and expected values for a field depend on its declared type, such a
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxMDk4MTI2XX0=
+eyJoaXN0b3J5IjpbLTE5MTA5MTQ2NjhdfQ==
 -->
