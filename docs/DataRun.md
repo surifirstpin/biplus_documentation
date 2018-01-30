@@ -12,7 +12,7 @@ Visualisation sections contains Dimension and measures which acts as fundamental
 
 ## Search option for getting fields
 
-Views contain some set of fields, mostly dimensions and measures, they act as fundamental building blocks for Bi+ query
+Views contain some set of fields, mostly dimensions and measures, they act as fundamental building blocks for Bi+ quer
 
 
 ## Row Limitation and Runtime display
@@ -60,5 +60,5 @@ Views contain some set of fields, mostly dimensions and measures, they act as fu
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwODQ1NDQ2XX0=
+eyJoaXN0b3J5IjpbMTg1NjE5MDgzOV19
 -->
