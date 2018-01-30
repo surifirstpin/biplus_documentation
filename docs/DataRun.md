@@ -17,8 +17,7 @@ Dimensions are list of fields that can be used for applying filter options, for 
 - An **attribute**, which has a direct association to a column in an primary table.
 - A **numerical value**.
 - A **derived value,** computed based on the values of other fields in a single row.
-
-
+For example, Dimensions for customer includes customer name,customer phone
 ## Row Limitation and Runtime display
 
                   welcome to biplus
@@ -64,5 +63,5 @@ Dimensions are list of fields that can be used for applying filter options, for 
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTAwOTc3MV19
+eyJoaXN0b3J5IjpbLTQzMTM0MjkxNl19
 -->
