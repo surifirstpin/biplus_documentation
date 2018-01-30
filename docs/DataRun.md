@@ -6,7 +6,8 @@ Visualization access the data and allows you to perform data analysis with slice
 
 Under visualization section, Select the project and model for which you want to explore the data.
 
-Visualisation sections contains Dimension and measures which acts as fundamental building blocks  for a query
+Visualisation sections contains Dimension and measures which acts as fundamental building blocks for a query.
+
 **1.** Select the data fields from the list to create a visualisation.
 **2.** Click on Run Button.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/visu_run.png)
@@ -75,5 +76,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjU5NTY2MjNdfQ==
+eyJoaXN0b3J5IjpbLTk2OTUyMDU4N119
 -->
