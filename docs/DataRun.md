@@ -33,9 +33,10 @@ Using the search option provided in the visualization section you can select the
 Using Bi+ you can limit the display of field values by using Limit option and check the Query runtime as shown in the image below;
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/row_limit.png)
 
-## Filters (String , Number & Timeline)
+## Filters (String , Integer and Date)
 
-Filters is a optional list of filter expression applied to measure calculation,below are the available operations that can be applied for String , Number and Date
+Filters is a optional list of filter expression applied to measure calculation,below are the available operations that can be applied for String , Integer and Date.
+
 ## Global Sorting (Ascending / Descending)
 
                   welcome to biplus
@@ -73,5 +74,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzA0NTU5MF19
+eyJoaXN0b3J5IjpbLTg4ODAyMjg1Nl19
 -->
