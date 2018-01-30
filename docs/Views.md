@@ -87,7 +87,7 @@ list of supporting parameters used while defining the custom fields:
 
 **Currency** is applied to retrieve the values in specified currency applicable.
  
-#### Syntax for defining fields in custom table :
+### Syntax for defining fields in custom table :
 ```
 "fields": [
 		{
@@ -110,5 +110,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODgwMjU3NF19
+eyJoaXN0b3J5IjpbLTYyMDA2MjUxXX0=
 -->
