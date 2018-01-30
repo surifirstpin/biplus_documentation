@@ -1,5 +1,5 @@
 
- Once project is saved you can derive your data in model section as shown in below image:
+ Once project is saved you can define your data in model section as shown in below image :
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ca01fdfd9787082af897b153cb9bb2e74a97c099/images/model_new.png)
  
@@ -120,5 +120,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MjEwMzMxOF19
+eyJoaXN0b3J5IjpbMTgyMDQyOTAwNF19
 -->
