@@ -40,9 +40,9 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 
 ## Usage of functions, logical & arithmetical operations in Custom Fields
 
-- **Name**name identifieer  of the field.
+- **Name** Name identifier  of the field in custom ta.
 
-- **label** title the way you want the derived field.
+- **label** title the way you want the derived field to appear in custom table.
 
 - **Data_type** have supporting parameters and string is used as  Default parameter while deriving the fields for custom table.
 
@@ -110,5 +110,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MjY4MzU2M119
+eyJoaXN0b3J5IjpbLTEzMDU2Nzk0OTddfQ==
 -->
