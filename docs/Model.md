@@ -63,7 +63,7 @@ Filters defined under the model section are applied by default to all the fields
 
 ### List of Parameters used in model filters :
 Name 
-Label parameter helps you to change the title 
+**Label** parameter helps you to change the title and the way they should appear in field picker.
 Filter_sql
 Apply
 Position
@@ -120,5 +120,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjQwOTM2Nl19
+eyJoaXN0b3J5IjpbLTE4MzQxODA4NDhdfQ==
 -->
