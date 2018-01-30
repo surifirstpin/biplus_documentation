@@ -22,7 +22,7 @@ Dimensions are list of fields that can be used for applying filter options, for 
 
 A measure is a list of fields that uses a SQL aggregate function, such as COUNT, SUM, AVG, MIN or MAX. any field that is counted based on the values is refereed as measure. Measures can be used to filter grouped values. 
 
->For example, measures for a “Sales”
+>For example, measures for a “Amount” is amount_sum,amount_avg,amount_min,amount_max etc.
 
 ## Row Limitation and Runtime display
 
@@ -69,5 +69,5 @@ A measure is a list of fields that uses a SQL aggregate function, such as COUNT,
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzI0MzI5MV19
+eyJoaXN0b3J5IjpbNzcyNDUxMzI2XX0=
 -->
