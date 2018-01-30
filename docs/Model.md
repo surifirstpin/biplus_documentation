@@ -101,10 +101,13 @@ Position
   
 ## Login based Filters
 
-   Login based filter provides access to specified user only.
+Login based filter provides access to specified user only.
 ccess_filter_fields enables you to apply user-specific data restrictions. Unlike most LookML parameters, it needs to be used in conjunction with other settings in Looker in order to work properly. An access_filter_fields parameter is specific to a single explore, so you need to make sure you apply an access_filter_fields parameter to each explore that needs a restriction.
 
 Login based filter enables you to apply user-specific restrictions. for this you need to be associated with global parameter under settings section in BI+ to work efficiently.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/05f4f8072b85b8252c162bcf0d494351bd30b232/images/login_based_filters.png)
+
 ### Syntax for login based filters:
 
 ## Derived Table
@@ -125,5 +128,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxMDY4NjcwXX0=
+eyJoaXN0b3J5IjpbMjUwNzkyMzRdfQ==
 -->
