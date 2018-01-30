@@ -1,5 +1,6 @@
 
-Visualisation access the data and allows you to perform data analysis with slice and dice of report information with pictorial representation.
+
+Visualization access the data and allows you to perform data analysis with slice and dice of report information with pictorial representation.
 
 ## Selecting Fields from different mapped views
 
@@ -74,5 +75,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTE0NTA2NF19
+eyJoaXN0b3J5IjpbLTExNjU5NTY2MjNdfQ==
 -->
