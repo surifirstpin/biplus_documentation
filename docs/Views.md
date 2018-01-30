@@ -3,7 +3,7 @@
 A view may join to other views. The relationship between views is typically defined as part of a explore declaration in a model file.
 
 Views are declared to define list of fields (dimensions and measures) and how they are linked to primary table or derived table.
-A view can join many views and the relationship between the views are defined under visualisation section.
+A view can join many views and the relationship between the views are defined under visualization section in a mosedl file.
 
 Using BI+ you create your own set of derived custom table that doesn’t already exist in your database.
       ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3b50165c4cf02e474b87d097aa2f8b0897fae1ae/images/custom_table.png)
@@ -111,5 +111,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDk4NDAxNl19
+eyJoaXN0b3J5IjpbLTEzOTQ3MDA0NjldfQ==
 -->
