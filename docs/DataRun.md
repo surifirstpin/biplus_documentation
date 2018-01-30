@@ -30,7 +30,8 @@ Using the search option provided in the visualization section you can select the
 
 ## Row Limitation and Runtime display
 
-                  welcome to biplus
+Using Bi+ you can limit the display of field values by using Limit option and check the runtime quer
+  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/row_limit.png)
 
 ## Filters (String , Number & Timeline)
 the behavior and expected values for a field depend on its declared type, such as string, number,  time. For measures, types include aggregate functions, such as sum and percent_of_previous. For details, refer to dimension types and measure types.
@@ -73,5 +74,5 @@ the behavior and expected values for a field depend on its declared type, such a
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTA5MTQ2NjhdfQ==
+eyJoaXN0b3J5IjpbLTEyODg4MjMyMzBdfQ==
 -->
