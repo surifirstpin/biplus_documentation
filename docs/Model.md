@@ -63,11 +63,14 @@ Model defines explore and their relationship with other view it is derived using
 Filters defined under the model section are applied by default to all the fields.
 
 ### List of Parameters used in model filters :
-Name 
+**Name** identifier  
 **Label** parameter helps you to change the title and the way they should appear in field picker.
+
 **Filter_sql** enables the filter application to specified fields and to the query derived.
-**Apply** filter applied to all the fields or any specific field 
-Position
+
+**Apply** filter applied to **all** the fields or any specific field.
+
+**Position** apply filter before or after the data retreive.
 
 ### Syntax for model based filter
 ```
@@ -128,5 +131,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQ4OTg0MV19
+eyJoaXN0b3J5IjpbMjA3Njk0NjcxOV19
 -->
