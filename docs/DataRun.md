@@ -12,7 +12,7 @@ Visualisation sections contains Dimension and measures which acts as fundamental
 
 ## Search option for getting fields
 
-Views contain some set of fields, mostly dimensions and measures, they act as fundamental building blocks for Looker queries.
+Views contain some set of fields, mostly dimensions and measures, they act as fundamental building blocks for 
 
 
 ## Row Limitation and Runtime display
@@ -60,5 +60,5 @@ Views contain some set of fields, mostly dimensions and measures, they act as fu
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzQ0NDcwODJdfQ==
+eyJoaXN0b3J5IjpbLTQ4MTM1ODk0MF19
 -->
