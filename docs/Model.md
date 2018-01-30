@@ -1,7 +1,6 @@
-A model is a customized portal into the database, designed to provide intuitive data exploration for specific business users. Multiple models can exist for the same database connection in a single LookML project. Each model can expose different data to different users. For example, sales agents need different data than company executives, and so you would probably develop two models to offer views of the database appropriate for each user.
+
 A model is a customized gateway into the database, it is designed in such a way that it provides a spontaneous data analysis to specific business users.
-Using BI+ you can maintain multiple models for single project and each of them displays different data to different users depending on parameters applied 
-In the Looker app, queries are grouped by the model they belong to, and business users see models listed under the Explore menu.
+Using BI+ you can maintain multiple models for single project and each of them disclose different data to different users depending on parameters applied in model. 
  Once project is saved you can define your data in model section as shown in below image :
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ca01fdfd9787082af897b153cb9bb2e74a97c099/images/model_new.png)
@@ -123,5 +122,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxOTczMzM0XX0=
+eyJoaXN0b3J5IjpbLTEzMzE1MDA5MjddfQ==
 -->
