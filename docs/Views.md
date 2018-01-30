@@ -4,7 +4,7 @@ A view declaration defines a list of fields (dimensions or measures) and their l
 
 A view may join to other views. The relationship between views is typically defined as part of a explore declaration in a model file.
 
-Views are declared to define list of fields (dimensions and measures) and how tyhey are linked to the 
+Views are declared to define list of fields (dimensions and measures) and how tyhey are linked to the derived ta
 
 Using BI+ you create your own set of derived custom table that doesn’t already exist in your database.
       ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3b50165c4cf02e474b87d097aa2f8b0897fae1ae/images/custom_table.png)
@@ -112,5 +112,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODUwNTYwMzVdfQ==
+eyJoaXN0b3J5IjpbNTIzMzY2NTQxXX0=
 -->
