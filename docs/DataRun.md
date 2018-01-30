@@ -12,7 +12,20 @@ Visualisation sections contains Dimension and measures which acts as fundamental
 
 ## Search option for getting fields
 
-                  welcome to biplus
+              Views contain fields, mostly dimensions and measures, which are the fundamental building blocks for Looker queries.
+
+In Looker, a dimension is a groupable field and can be used to filter query results. It can be:
+
+an attribute, which has a direct association to a column in an underlying table
+a fact or numerical value
+a derived value, computed based on the values of other fields in a single row
+For example, dimensions for a “Products” view might include: product name, product model, product color, product price, product created date, product end-of-life date.
+
+A measure is a field that uses a SQL aggregate function, such as COUNT, SUM, AVG, MIN or MAX. Any field computed based on the values of other measure values is also a measure. Measures can be used to filter grouped values. For example, measures for a “Sales” view might include: total items sold (a count), total sale price (a sum), average sale price (an average).
+
+The behavior and expected values for a field depend on its declared type, such as string, number,  time. For measures, types include aggregate functions, such as sum and percent_of_previous. For details, refer to dimension types and measure types.
+
+In the Looker app, fields are listed on the Explore page when building and running queries.    welcome to biplus
 
 ## Row Limitation and Runtime display
 
@@ -59,5 +72,5 @@ Visualisation sections contains Dimension and measures which acts as fundamental
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDU2MjgyNjddfQ==
+eyJoaXN0b3J5IjpbLTEyMjYwNjQ3NzNdfQ==
 -->
