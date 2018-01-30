@@ -22,14 +22,14 @@ Dimensions are list of fields that can be used for applying filter options, for 
 
 A measure is a list of fields that uses a SQL aggregate function, such as COUNT, SUM, AVG, MIN or MAX. any field that is counted based on the values is refereed as measure. Measures can be used to filter grouped values. 
 
->For example, measures for a “Amount” is amount_sum,amount_avg,amount_min,amount_max etc.
+>For example, measures for a “Amount” is Amount_sum, Amount_avg, Amount_min, Amount_max etc.
 
 ## Row Limitation and Runtime display
 
                   welcome to biplus
 
 ## Filters (String , Number & Timeline)
-
+the behavior and expected values for a field depend on its declared type, such as string, number,  time. For measures, types include aggregate functions, such as sum and percent_of_previous. For details, refer to dimension types and measure types.
                   welcome to biplus
 
 ## Global Sorting (Ascending / Descending)
@@ -69,5 +69,5 @@ A measure is a list of fields that uses a SQL aggregate function, such as COUNT,
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyNDUxMzI2XX0=
+eyJoaXN0b3J5IjpbLTE3ODk4NTQ1MTVdfQ==
 -->
