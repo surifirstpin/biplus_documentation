@@ -18,7 +18,9 @@ Dimensions are list of fields that can be used for applying filter options, for 
 - A **numerical value**.
 - A **derived value,** computed based on the values of other fields in a single row.
 For example, Dimensions for "Customer" view includes customer name,customer phone number and customer email etc.
-A measure is a list of fields that uses a SQL aggregate function, such as COUNT, SUM, AVG, MIN or MAX. any field that is counted based on the values is refereed as measure. Measures can be used to filter grouped values. For example, measures for a “Sales”
+A measure is a list of fields that uses a SQL aggregate function, such as COUNT, SUM, AVG, MIN or MAX. any field that is counted based on the values is refereed as measure. Measures can be used to filter grouped values. 
+
+For example, measures for a “Sales”
 
 ## Row Limitation and Runtime display
 
@@ -65,5 +67,5 @@ A measure is a list of fields that uses a SQL aggregate function, such as COUNT,
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjgwMTE5MjNdfQ==
+eyJoaXN0b3J5IjpbNjYzNjg5NjE3XX0=
 -->
