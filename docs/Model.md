@@ -63,7 +63,7 @@ Model defines explore and their relationship with other view it is derived using
 Filters defined under the model section are applied by default to all the fields.
 
 ### List of Parameters used in model filters :
-**Name** identifier name to d 
+**Name** identifier name to derive  
 **Label** parameter helps you to change the title and the way they should appear in field picker.
 
 **Filter_sql** enables the filter application to specified fields and to the query derived.
@@ -131,5 +131,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDM5MTc1MjNdfQ==
+eyJoaXN0b3J5IjpbMTYxODUxNDI2NF19
 -->
