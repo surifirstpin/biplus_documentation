@@ -1,7 +1,5 @@
 ## Defining new Fileds in a View (Custom Fields)
 
-A view declaration defines a list of fields (dimensions or measures) and their linkage to an underlying table or derived table. In LookML a view typically references an underlying database table, but it can also represent a derived table.
-
 A view may join to other views. The relationship between views is typically defined as part of a explore declaration in a model file.
 
 Views are declared to define list of fields (dimensions and measures) and how they are linked to primary table or derived table.
@@ -112,5 +110,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODAxNTI4MzhdfQ==
+eyJoaXN0b3J5IjpbMTg5NjI3MDkxOF19
 -->
