@@ -101,7 +101,7 @@ Position
   
 ## Login based Filters
 
-Login based filter enables you to apply user-specific restrictions.for this you need to be associated with global parameter under settings section in BI+ to work efficiently.
+Login based filter enables you to apply user-specific restrictions,for this you need to be associated with global parameter under settings section in BI+ to work efficiently.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/05f4f8072b85b8252c162bcf0d494351bd30b232/images/login_based_filters.png)
 
@@ -130,5 +130,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODM5NDE0OTddfQ==
+eyJoaXN0b3J5IjpbMjE0OTc2MjYxXX0=
 -->
