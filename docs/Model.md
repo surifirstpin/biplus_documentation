@@ -27,7 +27,7 @@ Model defines explore and their relationship with other view it is derived using
 
 ### Mapping Parameters used in the model:
 
-- **Name** of the database table.
+- **Name** identifier of the database table.
 
 - **Label** changes the way that model should appear in the visualization if not by default it uses the name of the model.
 
@@ -128,5 +128,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTMzNjI2MF19
+eyJoaXN0b3J5IjpbLTkzNjk2NjQyM119
 -->
