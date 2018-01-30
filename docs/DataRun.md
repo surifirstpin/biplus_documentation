@@ -1,9 +1,9 @@
-## Selecting Fields from different mapped views
 
 Visualisation access the data and allows you to perform data analysis with slice and dice of report information with pictorial representation.
 
-Open the visualisation section then
-Select the project and model for which you want to explore the data.
+## Selecting Fields from different mapped views
+
+Under visualization section, Select the project and model for which you want to explore the data.
 Visualisation sections contains Dimension and measures which acts as fundamental building blocks  for a query
 **1.** Select the data fields from the list to create a visualisation.
 **2.** Click on Run Button.
@@ -58,5 +58,5 @@ Visualisation sections contains Dimension and measures which acts as fundamental
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjc4NzY2OF19
+eyJoaXN0b3J5IjpbLTY2ODk3OTQ1XX0=
 -->
