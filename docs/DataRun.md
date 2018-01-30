@@ -14,9 +14,9 @@ Visualisation sections contains Dimension and measures which acts as fundamental
 
 Views contain some set of fields, mostly dimensions and measures, they act as fundamental building blocks for Bi+ queries.
 Dimensions are list of fields that can be used for applying filter options, for instance:
-- **an attribute**, which has a direct association to a column in an primary table.
-a fact or numerical value
-a derived value, computed based on the values of other fields in a single row
+- An **attribute**, which has a direct association to a column in an primary table.
+- A **numerical value**.
+- A **derived value, computed based on the values of other fields in a single row
 
 
 ## Row Limitation and Runtime display
@@ -64,5 +64,5 @@ a derived value, computed based on the values of other fields in a single row
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODA5MTk4MDddfQ==
+eyJoaXN0b3J5IjpbLTEzNTUwNjMzOTRdfQ==
 -->
