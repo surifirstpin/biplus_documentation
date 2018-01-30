@@ -35,7 +35,7 @@ Using Bi+ you can limit the display of field values by using Limit option and ch
 
 ## Filters (String , Number & Timeline)
 
-Filters is a optional list of filter expression applied to measure calculation,below are the available operations that can be applied for String , Number
+Filters is a optional list of filter expression applied to measure calculation,below are the available operations that can be applied for String , Number and 
 ## Global Sorting (Ascending / Descending)
 
                   welcome to biplus
@@ -73,5 +73,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTc3NDMwM119
+eyJoaXN0b3J5IjpbLTIwMDI3OTM1MDBdfQ==
 -->
