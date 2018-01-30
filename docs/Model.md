@@ -58,8 +58,6 @@ Model defines explore and their relationship with other view it is derived using
 },
 		```
 		
-**1.** Click on **Save** button.
-
 ## Model Filters
 
 Filters defined under the model section are applied by default to all the fields.
@@ -130,5 +128,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3MjMyNTg4XX0=
+eyJoaXN0b3J5IjpbLTE3MzExMTAyODldfQ==
 -->
