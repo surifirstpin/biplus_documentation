@@ -100,11 +100,10 @@ Using BI+ you can perform sorting on data retreived by applying ascending and de
 
 Using Bi+ you can apply the sorting options locally at the column field in the data section of visualization.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c6f7269afe640dd6c16f4fd1d4423aa394bdf2b4/images/local_sorting.png)
 
 ## Hidden filter option
-
-                  welcome to biplus
-
+on applying hidd
 ## Filed Visualization On / Off
 
                   welcome to biplus
@@ -130,5 +129,5 @@ Using Bi+ you can apply the sorting options locally at the column field in the d
   pivot  checks each dimension horizontally and reduces the effect of scrolling down the data.
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5MDEzNTQ1LC04MzA5ODE4NV19
+eyJoaXN0b3J5IjpbOTM1ODQyNzA0LC04MzA5ODE4NV19
 -->
