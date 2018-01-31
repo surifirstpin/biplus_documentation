@@ -67,7 +67,7 @@ is not null |data is not null
 |not empty|data is not empty
 |is empty|data is empty
 | equal|data equal to specified value
-not equal
+| not equal
 data not equal to specified value
 in
 data equal to specified values
@@ -125,5 +125,5 @@ data not in between the specified range
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDUyMDc2Ml19
+eyJoaXN0b3J5IjpbMTU2MDIwOTM2Nl19
 -->
