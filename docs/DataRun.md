@@ -116,7 +116,9 @@ On applying hidden filters the column fields are visible in the list of filter e
     
 
 ## Number Format & Currency option for Fields
-You can apply number formats and currency options to measures
+You can apply number formats and currency options to measures.
+####  list of number formats you can apply to measures:
+
 ## Group aggregate option
 
                   welcome to biplus
@@ -140,5 +142,5 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTQ2MjA5MSwtODMwOTgxODVdfQ==
+eyJoaXN0b3J5IjpbLTY1OTc5MzUxNiwtODMwOTgxODVdfQ==
 -->
