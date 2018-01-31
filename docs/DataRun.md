@@ -94,6 +94,8 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
 Using BI+ you can perform sorting on data retreived by applying ascending and decending orders.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3a66bec34562013987acc9ca17385d78b2741ac4/images/sorting.png)
+
 ## Local Sorting
 
                   welcome to biplus
@@ -127,5 +129,5 @@ Using BI+ you can perform sorting on data retreived by applying ascending and de
 
                 welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDgyMzEwMiwtODMwOTgxODVdfQ==
+eyJoaXN0b3J5IjpbMTYzMDk2Mzg0NSwtODMwOTgxODVdfQ==
 -->
