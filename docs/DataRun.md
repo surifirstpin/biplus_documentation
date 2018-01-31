@@ -119,8 +119,8 @@ You can apply number formats and currency options to measures.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7dfa13518bf2db95fe1ceae68cc572ccf066bcc4/images/number_format.png)
 
-|   Number formats |    currency       |	
-|------------------|-------------------|
+|   Number formats | 
+|------------------|
 |#                 |        
 |#.00              |
 |#.000             |
@@ -147,6 +147,7 @@ You can apply number formats and currency options to measures.
 |#K                |
 |#M                |
 
+|    Currency                  |
 ####  list of number formats you can apply to measures:
 
 ## Group aggregate option
@@ -172,5 +173,5 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTE5Njk2NiwtODMwOTgxODVdfQ==
+eyJoaXN0b3J5IjpbMjAwMDM5MTQ5NywtODMwOTgxODVdfQ==
 -->
