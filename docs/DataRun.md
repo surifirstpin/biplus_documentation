@@ -131,8 +131,8 @@ On applying hidden filters the column fields are visible in the list of filter e
 
 ## Pivot table
 
-  Pivot  checks each dimension horizontally and reduces the effect of scrolling down the data. you can directly apply pivot in data output field
+  Pivot  checks each dimension horizontally and reduces the effect of scrolling down the data. y
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/78c46d819c716135d45ff60b9a71b15dd9e7a97f/images/pivot.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3MzkyNTczLC04MzA5ODE4NV19
+eyJoaXN0b3J5IjpbLTc1NDM4MjIxNywtODMwOTgxODVdfQ==
 -->
