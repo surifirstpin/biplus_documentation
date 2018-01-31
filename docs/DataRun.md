@@ -111,7 +111,7 @@ On applying hidden filters the column fields are visible in the list of filter e
 
 ## Field Visualization On / Off
 
-                  welcome to biplus
+    in Bi+ you can hide or show the fields in visualisation.
 
 ## Number Format & Currency option for Fields
 
@@ -140,5 +140,5 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwMjk2ODc0LC04MzA5ODE4NV19
+eyJoaXN0b3J5IjpbLTI2NjkyNDg5NiwtODMwOTgxODVdfQ==
 -->
