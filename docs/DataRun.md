@@ -54,7 +54,7 @@ Filters is a optional list of filter expression applied to measure calculation,b
 |doesn’t begins with           | finds a value that doesn't begin with mentioned sub-string|
 |Contains                      | contains mentioned sub-string                             |
 |doesn’t contain               | finds a value which does not contain mentioned sub-string |
-|ends with                     | should end with mentioned substring
+|ends with                     | should end with mentioned sub-string
 |doesn’t end with              | should not end with mentioned substring
 
 ## Global Sorting (Ascending / Descending)
@@ -94,5 +94,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                 welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY1MTgxODMsLTgzMDk4MTg1XX0=
+eyJoaXN0b3J5IjpbLTEzNDQ5NDYzNzgsLTgzMDk4MTg1XX0=
 -->
