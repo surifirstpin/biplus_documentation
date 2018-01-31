@@ -50,7 +50,8 @@ Filters is a optional list of filter expression applied to measure calculation,b
    |not in|Data selection on excluding specific list of values|
    |begins with|finds any value that starts with mentioned sub-string|
    |doesn’t begins with|finds any value that doesn't starts with mentioned sub-string|
-   |
+   |Contains| contains mentioned sub-string|
+   |doesn
 
 
 
@@ -91,5 +92,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzEzNzY1MjJdfQ==
+eyJoaXN0b3J5IjpbODg5NzAyODMwXX0=
 -->
