@@ -59,10 +59,9 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
 ### Integer
 
-   | Example                                           | Description                                               
-   | ---------------------|--------------------------------------------------------------------|           
-   
-is not null |data is not null
+   | Example           |              Description                                               
+   |-------------------|--------------------------------------------------------------------|           
+   |is not null        |                     data is not null
 |is null|data is null
 |not empty|data is not empty
 |is empty|data is empty
@@ -75,8 +74,7 @@ is not null |data is not null
 | greater| data greater than specified value
 | greater or equal | data greater than or equal to specified value
 | between | data in between the specified range
-not between
-data not in between the specified range
+| not between | data not in between the specified range
 
 
 
@@ -117,5 +115,5 @@ data not in between the specified range
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODUwNTI2MF19
+eyJoaXN0b3J5IjpbLTE4MTAwODMzODBdfQ==
 -->
