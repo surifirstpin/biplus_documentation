@@ -65,16 +65,16 @@ Filters is a optional list of filter expression applied to measure calculation,b
    | is null            | data is null                                                         |          
    | not empty          | data is not empty                                                    |       
    | is empty           | data is empty                                                        |
-   | equal              | data equal to specified value                                        |
-   | not equal          | data not equal to specified value                                    |
-   | in                 | data equal to specified values                                       |
-   | not in             | data not equal to specified values                                   |
-   | less               | data less than specified value                                       |
-   | less or equal      | data less than or equal to specified value                           |
-   | greater            | data greater than specified value									   |	
-   | greater or equal   | data greater than or equal to specified value             		   |
-   | between            | data in between the specified range 								   |
-   | not between        | data not in between the specified range                              |
+   | equal              | data equal to specific value                                         |
+   | not equal          | data not equal to specific value                                     |
+   | in                 | data equal to specific values                                        |
+   | not in             | data not equal to specific values                                   |
+   | less               | data less than specific value                                        |
+   | less or equal      | data less than or equal to specific value                           |
+   | greater            | data greater than specified value									  |	
+   | greater or equal   | data greater than or equal to specific value             		      |
+   | between            | data in between the specific range 							      |
+   | not between        | data not in between the specific range                              |
 
 
 
@@ -115,5 +115,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDY2OTA1M119
+eyJoaXN0b3J5IjpbLTYwMjU1MTY5MV19
 -->
