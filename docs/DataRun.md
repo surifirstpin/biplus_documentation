@@ -41,14 +41,14 @@ Filters is a optional list of filter expression applied to measure calculation,b
 ### String : 
 
    | Example                                           | Description                                               
-   | ----------------------------------------|----------------------------------------------|
-   | is not null                             | Data not equal to null value                 |
-   | is null                                 | Data equal to null value                     |
-   | is not empty                            | Data not equal to null value                 |
-   | is empty							     | Data equal to null value                     |
+   | ----------------------------|----------------------------------------------|
+   | is not null                 | Data not equal to null value                 |
+   | is null                     | Data equal to null value                     |
+   | is not empty                | Data not equal to null value                 |
+   | is empty			         | Data equal to null value                     |
    | equal                                   | Data equal to specific value                 |
-   | not equal                               | Data not equal to specific value             |                               
-   |in                                 |Data selection based on combination of filter values applied|
+   |not equal                                | Data not equal to specific value             |                               
+   |in                                       |   Data selection based on combination of filter values applied|
    |not in                              |Data selection on excluding specific list of values|
    |begins with|finds any value that starts with mentioned sub-string|
    |doesn’t begins with|finds any value that doesn't starts with mentioned sub-string|
@@ -96,5 +96,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjUyNzAxNjVdfQ==
+eyJoaXN0b3J5IjpbLTc3ODI3MzkyNV19
 -->
