@@ -103,7 +103,11 @@ Using Bi+ you can apply the sorting options locally at the column field in the d
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c6f7269afe640dd6c16f4fd1d4423aa394bdf2b4/images/local_sorting.png)
 
 ## Hidden filter option
-on applying hidden filters the column fields are visible in the 
+
+On applying hidden filters the column fields are visible in the list of filter expression specified.
+
+
+
 ## Filed Visualization On / Off
 
                   welcome to biplus
@@ -129,5 +133,5 @@ on applying hidden filters the column fields are visible in the
   pivot  checks each dimension horizontally and reduces the effect of scrolling down the data.
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTY2MDc3NiwtODMwOTgxODVdfQ==
+eyJoaXN0b3J5IjpbMTExNTE5NzQ0NSwtODMwOTgxODVdfQ==
 -->
