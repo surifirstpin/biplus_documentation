@@ -127,7 +127,7 @@ On applying hidden filters the column fields are visible in the list of filter e
 
 ## Row Grouping
 
-                  welcome to biplus
+Using Bi+ you can group the fields.
 
 ## Pivot table
 
@@ -137,5 +137,5 @@ On applying hidden filters the column fields are visible in the list of filter e
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODY1Mjc4MywtODMwOTgxODVdfQ==
+eyJoaXN0b3J5IjpbNzMzMDQ5NjkxLC04MzA5ODE4NV19
 -->
