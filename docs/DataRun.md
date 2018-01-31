@@ -49,10 +49,9 @@ Filters is a optional list of filter expression applied to measure calculation,b
    |in|Data selection based on combination of filter values applied|
    |not in|Data selection on excluding specific list of values|
    |begins with|finds any value that starts with mentioned sub-string|
-|
-should not be empty
+   |doesn’t begins with|finds any value that doesn't starts with mentioned sub-string|
+   |
 
- 
 
 
 ## Global Sorting (Ascending / Descending)
@@ -92,5 +91,5 @@ should not be empty
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTMwNzY3MF19
+eyJoaXN0b3J5IjpbLTEzNzEzNzY1MjJdfQ==
 -->
