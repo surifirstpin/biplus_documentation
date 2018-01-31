@@ -142,7 +142,7 @@ You can apply number formats and currency options to measures.
 |###.###,000       |
 |### ###           |
 |#%                |
-|#.0% |  
+|#.0%             |  
 |#.00%|
 |#.000%|
 |#K|
@@ -173,5 +173,5 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjAxNDAyNSwtODMwOTgxODVdfQ==
+eyJoaXN0b3J5IjpbOTQ1OTcyMjk3LC04MzA5ODE4NV19
 -->
