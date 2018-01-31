@@ -62,6 +62,30 @@ Filters is a optional list of filter expression applied to measure calculation,b
    | Example                                           | Description                                               
    | ---------------------|--------------------------------------------------------------------|           
    
+is not null |data is not null
+|is null|data is null
+|not empty|data is not empty
+|is empty|data is empty
+equaldata equal to specified value
+not equal
+data not equal to specified value
+in
+data equal to specified values
+not in
+data not equal to specified values
+less
+data less than specified value
+less or equal
+data less than or equal to specified value
+greater
+data greater than specified value
+greater or equal
+data greater than or equal to specified value
+between
+data in between the specified range
+not between
+data not in between the specified range
+
 
 
 ## Global Sorting (Ascending / Descending)
@@ -101,5 +125,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQzMzY3MzZdfQ==
+eyJoaXN0b3J5IjpbLTE3MzQ4MzMwODRdfQ==
 -->
