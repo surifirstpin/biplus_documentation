@@ -41,7 +41,7 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
 ### String :
 |                 Example                |                   Description                                                                                 |
-|---------------------------------|--------------------------------------------------------------
+|---------------------------------|----------------------------------------------------------
 ## Global Sorting (Ascending / Descending)
 
                   welcome to biplus
@@ -79,5 +79,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                 welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTUyODY5OCwtODMwOTgxODVdfQ==
+eyJoaXN0b3J5IjpbLTE2OTQ0NDA2NDYsLTgzMDk4MTg1XX0=
 -->
