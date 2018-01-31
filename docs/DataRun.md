@@ -40,7 +40,7 @@ Using Bi+ you can limit the display of field values by using Limit option and ch
 Filters is a optional list of filter expression applied to measure calculation,below are the available operations that can be applied for String , Integer and Date.
 
 ### String :
-|                 Example      |                   Description                             |                                                                                 
+|			Example      |						Description                             |                                                                                 
 |------------------------------|-----------------------------------------------------------|
 |is not null                   | should not be a null value                                |
 |is null                       | should be a null value                                    |
@@ -58,7 +58,7 @@ Filters is a optional list of filter expression applied to measure calculation,b
 |doesn’t end with              | should not end with mentioned sub-string                  |
 
 ### Integer:
-|                 Example      |                   Description                              |                                                                                 
+|			Example            |						Description                         |                                                                                 
 |------------------------------|------------------------------------------------------------|
 |is not null                   | data is not null                                           |
 |is null                       | data is null                                               |
@@ -112,5 +112,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                 welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODIxOTQzNCwtODMwOTgxODVdfQ==
+eyJoaXN0b3J5IjpbLTExNzM4MDQxNjAsLTgzMDk4MTg1XX0=
 -->
