@@ -47,6 +47,7 @@ Filters is a optional list of filter expression applied to measure calculation,b
    | equal| data equal to specific value
    |not equal|Data not equal to specific value|
    |in|Data selection based on combination of filter values applied|
+   |not in|
 
 should not be empty
 is empty
@@ -112,5 +113,5 @@ should not end with mentioned substring
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDA2MDQ1MjhdfQ==
+eyJoaXN0b3J5IjpbMTYzNDEwOTI0MF19
 -->
