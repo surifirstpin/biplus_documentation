@@ -38,45 +38,6 @@ Using Bi+ you can limit the display of field values by using Limit option and ch
 ## Filters (String , Integer and Date)
 
 Filters is a optional list of filter expression applied to measure calculation,below are the available operations that can be applied for String , Integer and Date.
-### String : 
-
-   | Example                                           | Description                                               
-   | ---------------------|--------------------------------------------------------------------|           
-   | is not null          | Data not equal to null value                                       |
-   | is null              | Data equal to null value                                           |
-   | is not empty         | Data not equal to null value                                       |
-   | is empty			  | Data equal to null value                                           |
-   | equal                | Data equal to specific value                                       |
-   | not equal            | Data not equal to specific value                                   |                
-   | in                   | Data selection based on combination of filter values applied       |
-   | not in               | Data selection on excluding specific list of values                |
-   | begins with          | Finds any value that starts with mentioned sub-string              |
-   | doesn’t begins with  | Finds any value that doesn't starts with mentioned sub-string      |
-   | contains             | Contains mentioned sub-string                                      |
-   | doesn't contain      | Finds a value that doesn't contain mentioned sub-string            |
-   | ends with            | Should end with mentioned sub-string                               |
-   | doesn’t end with     | Should not end with mentioned sub-string                           |
-
-### Integer
-
-   | Example            |                Description                                               
-   |--------------------|----------------------------------------------------------------------|           
-   | is not null        | data is not null                                                     |
-   | is null            | data is null                                                         |          
-   | not empty          | data is not empty                                                    |       
-   | is empty           | data is empty                                                        |
-   | equal              | data equal to specific value                                         |
-   | not equal          | data not equal to specific value                                     |
-   | in                 | data equal to specific values                                        |
-   | not in             | data not equal to specific values                                    |
-   | less               | data less than specific value                                        |
-   | less or equal      | data less than or equal to specific value                            |
-   | greater            | data greater than specified value									   |	
-   | greater or equal   | data greater than or equal to specific value             		       |
-   | between            | data in between the specific range 							       |
-   | not between        | data not in between the specific range                               |
-
-
 
 ## Global Sorting (Ascending / Descending)
 
@@ -115,5 +76,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDk4MTg1XX0=
+eyJoaXN0b3J5IjpbLTk2OTUyMDU4NywtODMwOTgxODVdfQ==
 -->
