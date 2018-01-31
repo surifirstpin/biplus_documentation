@@ -58,8 +58,8 @@ Filters is a optional list of filter expression applied to measure calculation,b
 |doesn’t end with              | should not end with mentioned sub-string                  |
 
 ### Integer:
-|                 Example      |                   Description                             |                                                                                 
-|------------------------------|-----------------------------------------------------------|
+|                 Example      |                   Description                              |                                                                                 
+|------------------------------|------------------------------------------------------------|
 |is not null                   | data is not null                                           |
 |is null                       | data is null                                               |
 |not empty                     | data is not empty                                          |
@@ -112,5 +112,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                 welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MzQ0OTEwOSwtODMwOTgxODVdfQ==
+eyJoaXN0b3J5IjpbMTA1ODIxOTQzNCwtODMwOTgxODVdfQ==
 -->
