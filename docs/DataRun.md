@@ -105,9 +105,7 @@ Using Bi+ you can apply the sorting options locally at the column field in the d
 ## Hidden filter option
 
 On applying hidden filters the column fields are visible in the list of filter expression specified and display the data depending on the filters applied.
- ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34391bdf76fb249287716076e426ddd4d82df671/images/hidden_filter.png)
-
-
+ ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e777906f8a8aafdb323a64c65c2a1c9e69cb01b1/images/hidden_filter.png)
 
 ## Field Visualization On / Off
 
@@ -173,5 +171,5 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAyNTMzOTEsLTgzMDk4MTg1XX0=
+eyJoaXN0b3J5IjpbMTIxNzU2MjAwMSwtODMwOTgxODVdfQ==
 -->
