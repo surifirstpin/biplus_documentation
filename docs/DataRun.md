@@ -109,7 +109,7 @@ On applying hidden filters the column fields are visible in the list of filter e
 
 
 
-## Filed Visualization On / Off
+## Field Visualization On / Off
 
                   welcome to biplus
 
@@ -137,5 +137,5 @@ On applying hidden filters the column fields are visible in the list of filter e
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc2NjU2OTksLTgzMDk4MTg1XX0=
+eyJoaXN0b3J5IjpbMTI5ODY1Mjc4MywtODMwOTgxODVdfQ==
 -->
