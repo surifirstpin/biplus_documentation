@@ -119,13 +119,12 @@ On applying hidden filters the column fields are visible in the list of filter e
 You can apply number formats and currency options to measures.
 |   Number formats |
 |------------------|
-|None
-#
-#.00
-#.000 ✓
-#,##0
-#,##0.0
-#,##0.00
+|#                     |
+|#.00                 |
+|#.000                |
+|#,##0                |
+|#,##0.0              |
+|#,##0.00             |
 
 ####  list of number formats you can apply to measures:
 
@@ -152,5 +151,5 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjMyOTUyOCwtODMwOTgxODVdfQ==
+eyJoaXN0b3J5IjpbOTM4NzkyMDMsLTgzMDk4MTg1XX0=
 -->
