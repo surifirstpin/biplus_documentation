@@ -83,10 +83,10 @@ Filters is a optional list of filter expression applied to measure calculation,b
 |not equal                     |data excluding from specific date
 |between                       |data in between the specified dates
 |not between                   |excluding the data between the specified range
-|less or equal                 |Data upto specified date 
-|greater or equal              |Data from the specified date 
-|is not null                   |Data which is not null
-|is null                       |Data which is null
+|less or equal                 |data up to specified date 
+|greater or equal              |data from the specified date 
+|is not null                   |data which is not equal to null
+|is null                       |data which is equal to null
 
 
 
@@ -134,5 +134,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                 welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDI1OTAxMSwtODMwOTgxODVdfQ==
+eyJoaXN0b3J5IjpbLTE2ODUxMDEwMTcsLTgzMDk4MTg1XX0=
 -->
