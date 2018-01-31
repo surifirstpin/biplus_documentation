@@ -91,7 +91,7 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
 
 ## Global Sorting (Ascending / Descending)
-Using BI+ you can perform sorting on data
+Using BI+ you can perform sorting on data ret
          Order to view the data in ascending or descending order.
 
 ## Local Sorting
@@ -127,5 +127,5 @@ Using BI+ you can perform sorting on data
 
                 welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA3MjE1MzMsLTgzMDk4MTg1XX0=
+eyJoaXN0b3J5IjpbMTU2ODM2MTYzNCwtODMwOTgxODVdfQ==
 -->
