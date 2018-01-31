@@ -70,10 +70,10 @@ Filters is a optional list of filter expression applied to measure calculation,b
    | in                 | data equal to specified values                                       |
    | not in             | data not equal to specified values                                   |
    | less               | data less than specified value                                       |
-   | less or equal      | data less than or equal to specified value
-   | greater            | data greater than specified value
-   | greater or equal   | data greater than or equal to specified value
-   | between            | data in between the specified range
+   | less or equal      | data less than or equal to specified value                           |
+   | greater            | data greater than specified value									   |	
+   | greater or equal   | data greater than or equal to specified value             		   |
+   | between            | data in between the specified range 								 	|
    | not between        | data not in between the specified range
 
 
@@ -115,5 +115,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyMjU2NjcxXX0=
+eyJoaXN0b3J5IjpbLTE4Mzc5ODQ3MTldfQ==
 -->
