@@ -43,22 +43,14 @@ Filters is a optional list of filter expression applied to measure calculation,b
 |                 Example      |                   Description                            |                                                                                 
 |------------------------------|----------------------------------------------------------|
 | is not null                  | should not be a null value
-| is null                      |
-should be null value
-is not empty
-should not be empty
-is empty
-should be empty
-equal
-should be equals to particular value
-not equal
-shouldn't be equal to particular value
-in
-selecting combination of filter values
-not in
-excluding set of values
-begins with
-finds any value that starts with mentioned substring
+| is null                      |should be null value
+|is not empty|should not be empty
+|is empty|should be empty
+|equal|should be equals to particular value
+|not equal|shouldn't be equal to particular value
+|in|selecting combination of filter values
+|not in|excluding set of values
+|begins with|finds any value that starts with mentioned substring
 doesn’t begins with
 finds a value that does not begins with mentioned substring
 Contains
@@ -107,5 +99,5 @@ should not end with mentioned substring
 
                 welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3NzQxMjMzLC04MzA5ODE4NV19
+eyJoaXN0b3J5IjpbMTk1ODcyMDE0NywtODMwOTgxODVdfQ==
 -->
