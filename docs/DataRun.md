@@ -42,8 +42,7 @@ Filters is a optional list of filter expression applied to measure calculation,b
 ### String :
 |                 Example         |                   Description                            |                                                                                 
 |---------------------------------|----------------------------------------------------------|
-is not null
-should not be a null value
+|   is not null                   should not be a null value
 is null
 should be null value
 is not empty
@@ -108,5 +107,5 @@ should not end with mentioned substring
 
                 welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTE2NzA3NjQsLTgzMDk4MTg1XX0=
+eyJoaXN0b3J5IjpbLTE1MTAyNzg2OCwtODMwOTgxODVdfQ==
 -->
