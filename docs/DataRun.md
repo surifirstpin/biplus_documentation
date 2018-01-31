@@ -68,7 +68,7 @@ Filters is a optional list of filter expression applied to measure calculation,b
    | equal              | data equal to specific value                                         |
    | not equal          | data not equal to specific value                                     |
    | in                 | data equal to specific values                                        |
-   | not in             | data not equal to specific values                                   |
+   | not in             | data not equal to specific values                                    |
    | less               | data less than specific value                                        |
    | less or equal      | data less than or equal to specific value                           |
    | greater            | data greater than specified value									  |	
@@ -115,5 +115,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjU1MTY5MV19
+eyJoaXN0b3J5IjpbMTcxMTcwNDEzN119
 -->
