@@ -38,7 +38,8 @@ Using Bi+ you can limit the display of field values by using Limit option and ch
 ## Filters (String , Integer and Date)
 
 Filters is a optional list of filter expression applied to measure calculation,below are the available operations that can be applied for String , Integer and Date.
-   | Example                                           | Description                                               
+   | Example                                           | Description                                               |
+   
 
 
 ## Global Sorting (Ascending / Descending)
@@ -78,5 +79,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MDQyODY5MV19
+eyJoaXN0b3J5IjpbLTIwNjMzMzI0NzldfQ==
 -->
