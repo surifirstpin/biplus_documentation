@@ -42,20 +42,20 @@ Filters is a optional list of filter expression applied to measure calculation,b
 ### String :
 |                 Example      |                   Description                            |                                                                                 
 |------------------------------|----------------------------------------------------------|
-| is not null                  | should not be a null value
-| is null                      |should be null value
-|is not empty                  |should not be empty
-|is empty                      |should be empty
-|equal                         |should be equals to particular value
-|not equal                     |shouldn't be equal to particular value
-|in                            |selecting combination of filter values
+| is not null                  | should not be a null value                               |
+| is null                      |should be null value                                      |
+|is not empty                  |should not be empty                                       |
+|is empty                      |should be empty                                           |
+|equal                         |should be equals to particular value                      |
+|not equal                     |shouldn't be equal to particular value                    |
+|in                            |selecting combination of filter values                    |
 |not in                        |excluding set of values
 |begins with                   |finds any value that starts with mentioned substring
 |doesn’t begins with           |finds a value that does not begins with mentioned substring
 |Contains                      |contains mentioned substring
-|doesn’t contain|finds a value which does not contain mentioned substring
-|ends with|should end with mentioned substring
-|doesn’t end with|should not end with mentioned substring
+|doesn’t contain               |finds a value which does not contain mentioned substring
+|ends with                     |should end with mentioned substring
+|doesn’t end with              |should not end with mentioned substring
 
 ## Global Sorting (Ascending / Descending)
 
@@ -94,5 +94,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                 welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE1NTgyMywtODMwOTgxODVdfQ==
+eyJoaXN0b3J5IjpbLTcwMzAzOTU0NywtODMwOTgxODVdfQ==
 -->
