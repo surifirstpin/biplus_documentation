@@ -42,8 +42,8 @@ Filters is a optional list of filter expression applied to measure calculation,b
 ### String :
 |                 Example      |                   Description                             |                                                                                 
 |------------------------------|-----------------------------------------------------------|
-| is not null                  | should not be a null value                                |
-| is null                      | should be a null value                                    |
+|is not null                  | should not be a null value                                |
+|is null                      | should be a null value                                    |
 |is not empty                  | should not be empty                                       |
 |is empty                      | should be empty                                           |
 |equal                         | should be equals to specific value                        |
@@ -56,6 +56,9 @@ Filters is a optional list of filter expression applied to measure calculation,b
 |doesn’t contain               | finds a value which does not contain mentioned sub-string |
 |ends with                     | should end with mentioned sub-string                      |
 |doesn’t end with              | should not end with mentioned sub-string                  |
+
+### Integer:
+
 
 ## Global Sorting (Ascending / Descending)
 
@@ -94,5 +97,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                 welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTgwMjExMjEsLTgzMDk4MTg1XX0=
+eyJoaXN0b3J5IjpbLTE4OTI2NTU1MTYsLTgzMDk4MTg1XX0=
 -->
