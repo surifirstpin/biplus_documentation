@@ -126,8 +126,8 @@ Using BI+ you can perform sorting on data retreived by applying ascending and de
 
 ## Pivot table
 
-
-                welcome to biplus
+  pivot  checks each dimension horizontally and reduces the effect of scrolling down the data.
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDk2Mzg0NSwtODMwOTgxODVdfQ==
+eyJoaXN0b3J5IjpbMzEyMjY3Mjg3LC04MzA5ODE4NV19
 -->
