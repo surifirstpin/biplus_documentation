@@ -73,7 +73,7 @@ Filters is a optional list of filter expression applied to measure calculation,b
 |greater                       |data greater than specified value
 |greater or equal              |data greater than or equal to specified value
 |between                       |data in between the specified range
-|not between              |data not in between the specified range
+|not between                   |data not in between the specified range
 
 ## Global Sorting (Ascending / Descending)
 
@@ -112,5 +112,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                 welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzY0NjM3LC04MzA5ODE4NV19
+eyJoaXN0b3J5IjpbLTE0MzM4NDIxNDEsLTgzMDk4MTg1XX0=
 -->
