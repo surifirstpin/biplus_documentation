@@ -78,8 +78,8 @@ Filters is a optional list of filter expression applied to measure calculation,b
 ### Date :
 |			Example            |						Description                         |                                                                                 
 |------------------------------|------------------------------------------------------------|
-|timeline                      |data from specific time scale
-|equal                         |data from specific date
+|timeline                      |data from specific time scale                               |
+|equal                         |data from specific date                                     |
 |not equal                     |data excluding from specific date
 |between                       |data in between the specified dates
 |not between                   |excluding the data between the specified range
@@ -134,5 +134,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                 welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODUxMDEwMTcsLTgzMDk4MTg1XX0=
+eyJoaXN0b3J5IjpbLTE0NzA3ODMzMjEsLTgzMDk4MTg1XX0=
 -->
