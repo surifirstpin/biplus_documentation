@@ -164,7 +164,7 @@ You can apply different number formats and currency options to measures.
 
 ## Group aggregate option
 
-  it helps you to display the consolidated values of the fields 
+  it helps you to display the consolidated values of the fields which ar
   
 ## Format based on Logic
 
@@ -185,5 +185,5 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjQxOTExMiwtODMwOTgxODVdfQ==
+eyJoaXN0b3J5IjpbLTE0MzY0NzYxMDAsLTgzMDk4MTg1XX0=
 -->
