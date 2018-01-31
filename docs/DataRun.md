@@ -40,8 +40,37 @@ Using Bi+ you can limit the display of field values by using Limit option and ch
 Filters is a optional list of filter expression applied to measure calculation,below are the available operations that can be applied for String , Integer and Date.
 
 ### String :
-|                 Example                |                   Description                                                                                 
+|                 Example         |                   Description                            |                                                                                 
 |---------------------------------|----------------------------------------------------------|
+is not null
+should not be a null value
+is null
+should be null value
+is not empty
+should not be empty
+is empty
+should be empty
+equal
+should be equals to particular value
+not equal
+shouldn't be equal to particular value
+in
+selecting combination of filter values
+not in
+excluding set of values
+begins with
+finds any value that starts with mentioned substring
+doesn’t begins with
+finds a value that does not begins with mentioned substring
+Contains
+contains mentioned substring
+doesn’t contain
+finds a value which does not contain mentioned substring
+ends with
+should end with mentioned substring
+doesn’t end with
+should not end with mentioned substring
+
 ## Global Sorting (Ascending / Descending)
 
                   welcome to biplus
@@ -79,5 +108,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                 welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI3NzIyNjgsLTgzMDk4MTg1XX0=
+eyJoaXN0b3J5IjpbLTEwOTE2NzA3NjQsLTgzMDk4MTg1XX0=
 -->
