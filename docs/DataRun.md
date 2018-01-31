@@ -74,7 +74,7 @@ Filters is a optional list of filter expression applied to measure calculation,b
 ## Pivot table
 
 
-                  welcome to biplus
+                welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTUyMDU4NywtODMwOTgxODVdfQ==
+eyJoaXN0b3J5IjpbLTQwMDMxODczMSwtODMwOTgxODVdfQ==
 -->
