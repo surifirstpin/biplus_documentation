@@ -118,7 +118,10 @@ On applying hidden filters the column fields are visible in the list of filter e
 You can apply different number formats and currency options to measures.
 **a.** select the required number format from the list
 **b.** select the currency you would like to view
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a289a74e21b8055ac795aa2bb25d4cb945bc02b0/images/number_format.png)###  list of number formats applicable on measures :
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a289a74e21b8055ac795aa2bb25d4cb945bc02b0/images/number_format.png)
+_format.png)
+
+####  list of number formats applicable on measures :
 
 |   Number formats | 
 |------------------|
@@ -183,5 +186,5 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjgzMDIxMDksLTgzMDk4MTg1XX0=
+eyJoaXN0b3J5IjpbLTM4MDE2NjI5NCwtODMwOTgxODVdfQ==
 -->
