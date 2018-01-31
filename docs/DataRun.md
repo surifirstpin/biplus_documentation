@@ -166,7 +166,7 @@ You can apply different number formats and currency options to measures.
 
   it helps you to display the consolidated values to the fields which are grouped.
   **a.** enable row groupng by selecting the checkbox.
-  **b.**you can explore the primacolumn fields which are 
+  **b.**you can explore the primary column fields which are 
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/657b29d2f18b269f2964e8150a3670df8db7869c/images/group_aggregate.png)
 ## Format based on Logic
 
@@ -187,5 +187,5 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTE2ODAwOCwtODMwOTgxODVdfQ==
+eyJoaXN0b3J5IjpbMTU3NjI4NTg4OSwtODMwOTgxODVdfQ==
 -->
