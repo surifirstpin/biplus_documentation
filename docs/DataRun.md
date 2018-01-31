@@ -40,18 +40,18 @@ Using Bi+ you can limit the display of field values by using Limit option and ch
 Filters is a optional list of filter expression applied to measure calculation,below are the available operations that can be applied for String , Integer and Date.
 
 ### String :
-|                 Example      |                   Description                            |                                                                                 
-|------------------------------|----------------------------------------------------------|
-| is not null                  | should not be a null value                               |
-| is null                      | should be a null value                                      |
+|                 Example      |                   Description                             |                                                                                 
+|------------------------------|-----------------------------------------------------------|
+| is not null                  | should not be a null value                                |
+| is null                      | should be a null value                                    |
 |is not empty                  | should not be empty                                       |
 |is empty                      | should be empty                                           |
-|equal                         | should be equals to specific value                      |
-|not equal                     | shouldn't be equal to specific value                    |
-|in                            | selection based on combination of filter values                    |
+|equal                         | should be equals to specific value                        |
+|not equal                     | shouldn't be equal to specific value                      |
+|in                            | selection based on combination of filter values           |
 |not in                        | excluding set of values                                   |
 |begins with                   | finds any value that starts with mentioned substring      |
-|doesn’t begins with           | finds a value that does not begins with mentioned substrin|
+|doesn’t begins with           | finds a value that doesn't begins with mentioned sub-strin|
 |Contains                      | contains mentioned substring                               |
 |doesn’t contain               | finds a value which does not contain mentioned substring
 |ends with                     | should end with mentioned substring
@@ -94,5 +94,5 @@ Filters is a optional list of filter expression applied to measure calculation,b
 
                 welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzNjkzNzUsLTgzMDk4MTg1XX0=
+eyJoaXN0b3J5IjpbLTY4ODIyNzM0OSwtODMwOTgxODVdfQ==
 -->
