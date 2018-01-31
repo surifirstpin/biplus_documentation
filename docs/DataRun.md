@@ -98,7 +98,7 @@ Using BI+ you can perform sorting on data retreived by applying ascending and de
 
 ## Local Sorting
 
-Using Bi+ you can the column in the data section
+Using Bi+ you can the column in the data section of v
 
 ## Hidden filter option
 
@@ -129,5 +129,5 @@ Using Bi+ you can the column in the data section
   pivot  checks each dimension horizontally and reduces the effect of scrolling down the data.
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Mzk3MDMyMiwtODMwOTgxODVdfQ==
+eyJoaXN0b3J5IjpbMTY5NjE1MjAyMSwtODMwOTgxODVdfQ==
 -->
