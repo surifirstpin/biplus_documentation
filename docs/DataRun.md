@@ -48,31 +48,9 @@ Filters is a optional list of filter expression applied to measure calculation,b
    |not equal|Data not equal to specific value|
    |in|Data selection based on combination of filter values applied|
    |not in|Data selection on excluding specific list of values|
-   |begins with|finds any value that starts with mensioned substring|
-
+   |begins with|finds any value that starts with mentioned sub-string|
+|
 should not be empty
-is empty
-should be empty
-equal
-should be equals to particular value
-not equal
-shouldn't be equal to particular value
-in
-selecting combination of filter values
-not in
-excluding set of values
-begins with
-finds any value that starts with mentioned substring
-doesn’t begins with
-finds a value that does not begins with mentioned substring
-Contains
-contains mentioned substring
-doesn’t contain
-finds a value which does not contain mentioned substring
-ends with
-should end with mentioned substring
-doesn’t end with
-should not end with mentioned substring
 
  
 
@@ -114,5 +92,5 @@ should not end with mentioned substring
 
                   welcome to biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjIwMzUyM119
+eyJoaXN0b3J5IjpbMTE1MTMwNzY3MF19
 -->
