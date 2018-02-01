@@ -52,6 +52,34 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  std | Compute the standard deviation of a matrix or a list with values. | x = (6,2,3,1),xbar = 6+2+3+1/4 = 3,​SD = root<code>&amp;#124;</code>x-xbar<code>&amp;#124;</code>^2/n,SD = 1.87<br/>xbar = mean |
 |  sum | Compute the sum of a matrix or a list with values. | sum(2, 1, 4, 3) = 10 |
 |  var | Compute the variance of a matrix or a list with values. | var(2, 4, 6) = 4, var([2, 4, 6, 8], 'uncorrected') = 5, |
+**Matrix :**
+
+|  Name | **Description** | **Example** |
+|  ------ | ------ | ------ |
+|  Concat | Concatenate two or more matrices. | var A = [[1, 2], [5, 6]], var B = [[3, 4], [7, 8]]  concat(A, B) = [[1, 2, 3, 4], [5, 6, 7, 8]] |
+|  Cross | Calculate the cross product for two vectors in three dimensional space. | cross(A, B) = [ a2 * b3 - a3 * b2, a3 * b1 - a1 * b3, a1 * b2 - a2 * b1 ] , cross([1, 1, 0],   [0, 1, 1]) = [1, -1, 1] |
+|  det | Calculate the determinant of a matrix. | det([[1, 2], [3, 4]]) = -2 |
+|  dot | Calculate the dot product of two vectors. | dot(A, B) = a1 * b1 + a2 * b2 + a3 * b3 + … + an * bn, dot([2, 4, 1], [2, 2, 3]) = 15 |
+|  eye | Create a 2-dimensional identity matrix with size m x n or n x n. | eye(3) = [[1, 0, 0], [0, 1, 0], [0, 0, 1]], eye(3, 2) = [[1, 0], [0, 1], [0, 0]] |
+|  filter | Filter the items in an array or one dimensional matrix. | filter([6, -2, -1, 4, 3], isPositive) = [6, 4, 3], filter(["23", "foo", "100", "55", "bar"], /[0-9]+/) = ["23", "100", "55"] |
+|  flatten | Flatten a multi dimensional matrix into a single dimensional matrix. | flatten([[1,2], [3,4]]) = [1, 2, 3, 4] |
+|  forEach | Iterate over all elements of a matrix/array, and executes the given callback function. | forEach([1, 2, 3], function(value) { console.log(value);}); = 1,2,3 |
+|  inv | Calculate the inverse of a square matrix. | inv(x) = inv(4); 1/4 = 0.25 |
+|  kron | Calculates the kronecker product of 2 matrices or vectors. | kron([1,1], [2,3,4]) = [ [ 2, 3, 4, 2, 3, 4 ] ] |
+|  map | Create a new matrix or array with the results of the callback function executed on each entry of the matrix/array. | map([1, 2, 3], function(value) { return value * value;}); = [1,4,9] |
+|  ones | Create a matrix filled with ones. | ones(3) = [1, 1, 1], ones(3, 2) = [[1, 1], [1, 1], [1, 1]] |
+|  partitionSelect | Partition-based selection of an array or 1D matrix. | function sortByLength (a, b) { return a.length - b.length;} partitionSelect(['Langdon', 'Tom', 'Sara'], 2, sortByLength); = 'Langdon' |
+|  range | Create an array from a range. | range(2, 6) = [2, 3, 4, 5], range(2, -3, -1) = [2, 1, 0, -1, -2], range(2, 6, true) = [2, 3, 4, 5, 6] |
+|  reshape | Reshape a multi dimensional array to fit the specified dimensions. | <br/>reshape(x, sizes) = var x = matrix([1, 2, 3, 4, 5, 6, 7, 8]);reshape(x, [2, 2, 2]); = [[[1, 2], [3, 4]], [[5, 6], [7, 8]]] |
+|  resize | Resize a matrix | resize(x, size, defaultValue) = resize([1, 2, 3, 4, 5], [3]) = [1,2,3], resize("hello", [8], "!") = 'hello!!!' |
+|  size | Calculate the size of a matrix or scalar. | size(x) = size('hello world') =  [11], var A = [[1, 2, 3], [4, 5, 6]];size(A); = [2, 3] |
+|  sort | Sort the items in a matrix. | sort(x, compare) = function sortByLength (a, b) {<br/>  return a.length - b.length;<br/>} sort(['Langdon', 'Tom', 'Sara'], sortByLength); = ['Tom', 'Sara', 'Langdon'] |
+|  squeeze | Squeeze a matrix, remove inner and outer singleton dimensions from a matrix. | squeeze(x) = var A = zeros(3, 1); = [[0], [0], [0]] (size 3x1)<br/>squeeze(A); = [0, 0, 0] (size 3) |
+|  subset | Get or set a subset of a matrix or string. | subset(value, index, replacement [, defaultValue]) = var e = [];<br/>var f = subset(e, index(0, [0, 2]), [5, 6]);  f = [[5, 6]]<br/>var g = subset(f, index(1, 1), 7, 0);  g = [[5, 6], [0, 7]] |
+|  trace | Calculate the trace of a matrix: the sum of the elements on the main diagonal of a square matrix. | trace(x) =  trace([[1, 2], [3, 4]]); = 5 |
+|  transpose | Transpose a matrix. | transpose(x) = var A = [[1, 2, 3], [4, 5, 6]]; = transpose(A); = [[1, 4], [2, 5], [3, 6]] |
+|  zeros | 	Create a matrix filled with zeros. | var A = [[1, 2, 3], [4, 5, 6]];<br/>zeros(size(A)); = [[0, 0, 0], [0, 0, 0]] |
+
 **String:**
 |  Name | **Description** | **Example** |
 |  ------ | ------ | ------ |
@@ -169,5 +197,5 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0OTEyNjhdfQ==
+eyJoaXN0b3J5IjpbNzM0MjUwNDEwXX0=
 -->
