@@ -95,9 +95,9 @@ To maximize a specific report click on the maximize icon in the tool bar of the 
 
 ## Home Page Display Option
 
-To have a look at the daily updates made to any specific report you can set the dashboard to your home page.
+To have a look at  updates made to any specific report you can set the dashboard to your home page.
 Select the dashboard and click on **Set Home page** Icon. 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTA2ODYxOF19
+eyJoaXN0b3J5IjpbLTc1MzkzNjM1MF19
 -->
