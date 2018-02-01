@@ -3,7 +3,6 @@ Calculation is a statement or expression or a function operator which can be use
 ## Usage of #math# 
 
 Apply mathematical operation.
-
 ### Syntax for using math functionality
 
 
@@ -45,5 +44,5 @@ Apply mathematical operation.
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3ODQ2ODIzXX0=
+eyJoaXN0b3J5IjpbLTEzNjEzMjkzNTFdfQ==
 -->
