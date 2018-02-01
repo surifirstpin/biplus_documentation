@@ -179,7 +179,7 @@ Using Bi+ you can add different logic's individually as explained below:
 ** Value** Specifies values depending on the condition applied. 
 **BG (background colour)** Select the background colour for the data which is retrieved using condition.
 **Font** Select the font colour for the data retrieved based on condition.
-**Icon** Select a icon
+**Icon** Select a icon for 
 **Before number**
 ## Row Grouping
 
@@ -196,5 +196,5 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2ODc2NTI2LC04MzA5ODE4NV19
+eyJoaXN0b3J5IjpbLTY3MjE5NTQ2NywtODMwOTgxODVdfQ==
 -->
