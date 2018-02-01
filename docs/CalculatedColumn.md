@@ -36,8 +36,37 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  calculate_key_group | Aggregates a measure value with respect to a dimension and futher allowing another dimension for Row Gouping. | calculate_key_group(colmun1, column2, column3, "aggregate function")   i.e agg_fun like = sum,avg etc |
 |  col_running_total | You can use the SUM() formula combined with a clever use of absolute and relative references | col_running_total(#{col_name}) |
 |  col_running_avg | You use the AVERAGE function. The only trick you need to apply is to make your range changing continuously. | col_running_avg(#{col_name}) |
+**Trignometry:**
+|  Name | **Description** | **Example** |
+|  ------ | ------ | ------ |
+|  acos | Calculate the inverse cosine of a value. | acos(0.5) = 1.0471975511965979, acos(cos(1.5)) =1.5 |
+|  acosh | Calculate the hyperbolic arccos of a value, defined as acosh(x) = ln(sqrt(x^2 - 1) + x). | acosh(1.5) = 0.9624236501192069, acosh(x) = ln(sqrt(x^2 - 1) + x), where x = 1.5 |
+|  acot | Calculate the inverse cotangent of a value, defined as acot(x) = atan(1/x). | acot(0.5) = 0.4636476090008061 |
+|  acoth | Calculate the hyperbolic arccotangent of a value, defined as acoth(x) = atanh(1/x) = (ln((x+1)/x) + ln(x/(x-1))) / 2. | acoth(0.5) = 0.8047189562170503, acoth(x) = atanh(1/x) = (ln((x+1)/x) + ln(x/(x-1))) / 2.where x = 0.5 |
+|  acsc | Calculate the inverse cosecant of a value, defined as acsc(x) = asin(1/x). | acsc(0.5) = 0.5235987755982989, acsc(math.csc(1.5)) =1.5<br/> |
+|  acsch | Calculate the hyperbolic arccosecant of a value, defined as acsch(x) = asinh(1/x) = ln(1/x + sqrt(1/x^2 + 1)). | acsch(0.5) = 1.4436354751788103, acsch(x) = asinh(1/x) = ln(1/x + sqrt(1/x^2 + 1)), where x = 0.5 |
+|  asec | Calculate the inverse secant of a value. | asec(0.5) = 1.0471975511965979 |
+|  asech | Calculate the hyperbolic arcsecant of a value, defined as asech(x) = acosh(1/x) = ln(sqrt(1/x^2 - 1) + 1/x). | asech(0.5) = 1.3169578969248166, asech(x) = acosh(1/x) = ln(sqrt(1/x^2 - 1) + 1/x), where x = 0.5 |
+|  asin | Calculate the inverse sine of a value. | asin(30) = 0.5, asin(45) = 0.7071068 |
+|  asinh | Calculate the hyperbolic arcsine of a value, defined as asinh(x) = ln(x + sqrt(x^2 + 1)). | asinh(0.5) = 0.48121182505960347, asinh(x) = ln(x + sqrt(x^2 + 1)), where x = 0.5 |
+|  atan | Calculate the inverse tangent of a value. | atan(0.5) = 0.4636476090008061, atan(math.tan(1.5)) = 1. |
+|  atan2 | Calculate the inverse tangent function with two arguments, y/x. | atan2(2, 2) / math.pi = 0.25 |
+|  atanh | Calculate the hyperbolic arctangent of a value, defined as atanh(x) = ln((1 + x)/(1 - x)) / 2. | atanh(0.5) = 0.5493061443340549, tanh(x) = ln((1 + x)/(1 - x)) / 2, where x = 0.5 |
+|  cos | Calculate the cosine of a value. | cos(60) = 1/2 |
+|  cosh | Calculate the hyperbolic cosine of a value, defined as cosh(x) = 1/2 * (exp(x) + exp(-x)) | cosh(90) = 6.1020164715892E+38, cosh(x) = 1/2 * (exp(x) + exp(-x))  where x = 90 |
+|  cot | Calculate the cotangent of a value. | cot(45) = 1 |
+|  coth | Calculate the hyperbolic cotangent of a value, defined as coth(x) = 1 / tanh(x). | coth(30) = 1, coth(x) = 1/tanh(x)  where x = 30  |
+|  csc | Calculate the cosecant of a value, defined as csc(x) = 1/sin(x). | csc(30) = 2 |
+|  csch | Calculate the hyperbolic cosecant of a value, defined as csch(x) = 1 / sinh(x). | csch(45) = 5.725037161098787e-20 .csch(x) = 1/sinh(x)  where x = 45 |
+|  sec | Calculate the secant of a value, defined as sec(x) = 1/cos(x). | sec(60) = 2 |
+|  sech | Calculate the hyperbolic secant of a value, defined as sech(x) = 1 / cosh(x). | sech(65) = 1.1800181083194122e-28, sech(x) = 1/cosh(x)  where  x = 65 |
+|  sin |  Calculate the sine of a value. | sin(0) = 0,sin(90) = 1 |
+|  sinh | Calculate the hyperbolic sine of a value, defined as sinh(x) = 1/2 * (exp(x) - exp(-x)). | sinh(30) = 5343237290762.231 sinh(x) = 1/2 * (exp(x) - exp(-x)) where  x = 30 |
+|  tan | Calculate the tangent of a value. | tan(45) = 1 |
+|  tanh | Calculate the hyperbolic tangent of a value, defined as tanh(x) = (exp(2 * x) - 1) / (exp(2 * x) + 1). | tanh(90) = 1,  tanh(90) = (exp(2 * x) - 1) / (exp(2 * x) + 1).  where x = 90 |
 
 **Constant :**
+
 |  Name | **Description** | **Example** |
 |  ------ | ------ | ------ |
 |  e, E | Euler’s number, the base of the natural logarithm | 2.71828182845904 |
@@ -90,5 +119,5 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzNDU0NjcxXX0=
+eyJoaXN0b3J5IjpbMTc2MDUwNzAzMF19
 -->
