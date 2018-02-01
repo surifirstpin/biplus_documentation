@@ -49,7 +49,8 @@ Click on **save** to save dashboard created.
 
 ## Edit   Dashboard 
 
-   To Edit the dashboard Select the dashboard created and Click on Edit Button.
+   To Edit the dashboard Select the dashboard created and Click on **Edit** Button.
+   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/32cd07ab577aaece73d4b9b7f53010680bda5fa0/images/edit_dash2.png)
    
 
 ## Delete Dashboard
@@ -93,5 +94,5 @@ Click on **save** to save dashboard created.
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQ3NTkzNzhdfQ==
+eyJoaXN0b3J5IjpbLTEwODQzNTM3MzNdfQ==
 -->
