@@ -16,7 +16,10 @@ bi.days_in_month
 ```
 To calculate the cubical value of the field
 
-
+#math#
+bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
+```
+Similarly we can use all the below functionality Using Bi+:
 
 
 ## Usage of #math#plugin# for Grid View
@@ -54,5 +57,5 @@ To calculate the cubical value of the field
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjYxNDkxMjldfQ==
+eyJoaXN0b3J5IjpbMTk1OTc3MDQwMF19
 -->
