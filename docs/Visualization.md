@@ -1,6 +1,5 @@
-## 9 different chart types
-
-      Bi+ enables you to explore the data 
+## 9 different chart type
+Bi+ enables you to visuali
 
 ## Legend On/Off ability
 
@@ -27,5 +26,5 @@
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTA1Njc5OF19
+eyJoaXN0b3J5IjpbLTcyMjExMDE4XX0=
 -->
