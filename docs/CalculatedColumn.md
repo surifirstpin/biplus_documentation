@@ -37,8 +37,24 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  col_running_total | You can use the SUM() formula combined with a clever use of absolute and relative references | col_running_total(#{col_name}) |
 |  col_running_avg | You use the AVERAGE function. The only trick you need to apply is to make your range changing continuously. | col_running_avg(#{col_name}) |
 
-**Date :**
-
+**Constant :**
+|  Name | **Description** | **Example** |
+|  ------ | ------ | ------ |
+|  e, E | Euler’s number, the base of the natural logarithm | 2.71828182845904 |
+|  i | Imaginary unit, defined as i*i = -1. A complex number is described as a + bi, where a is the real part, and b is the imaginary part. | sqrt(-1) |
+|  Infinity | Infinity, a number which is larger than the maximum number that can be handled by a floating point number. | Infinity |
+|  LN2 | Returns the natural logarithm of 2. | 0.693147180559945 |
+|  LN10 | Returns the natural logarithm of 10. | 2.30258509299404 |
+|  LOG2E | Returns the base-2 logarithm of E | 1.44269504088896 |
+|  LOG10E | Returns the base-10 logarithm of E. | 0.434294481903251 |
+|  NaN | Not a number. | NaN |
+|  null | Value null. | null |
+|  phi | Phi is the golden ratio in math this is separately coded has unicode glyph ϕ | 1.61803398874989 |
+|  pi, PI | The number pi is a mathematical constant that is the ratio of a circle's circumference to its diameter. | 3.14159265358979 |
+|  SQRT1_2 | Returns the square root of 1/2. | 0.707106781186547 |
+|  SQRT2 | Returns the square root of 2. | 1.41421356237309 |
+|  tau | Tau is the ratio constant of a circle's circumference to radius, equal to 2 * pi. | 6.28318530717958 |
+|  uninitialized | Constant used as default value when resizing a matrix to leave new entries uninitialized. |  |
 ## Usage of #math#plugin# for Grid View
 
             welcome to Biplus
@@ -74,5 +90,5 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTczNzg0NF19
+eyJoaXN0b3J5IjpbNjkzNDU0NjcxXX0=
 -->
