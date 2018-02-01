@@ -4,7 +4,7 @@ Calculation is a statement or expression or a function operator which can be use
 
 Custom made mathematical operations.
 
-### Syntax for using math functionality
+### Syntax for using math functionality :
 
 ```
 Check the number of working days in each month:
@@ -52,5 +52,5 @@ bi.days_in_month
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTI1MTA5N119
+eyJoaXN0b3J5IjpbOTI5NTE5MjQ1XX0=
 -->
