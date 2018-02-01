@@ -20,20 +20,24 @@ To calculate the cubical value of the field
 bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 ```
 **Similarly we can use all the below functionality Using Bi+:**
+**General :**
 
-
-|   |  |  |
-|  ------ | ------ | ------ |
 |  **Name** | **Description** | **Example** |
-|  date_to_week | Returns the number of current day week in the year | date_to_week(Give reference to month_date)   |
-|  date_to_quarter | Returns the Quarter number for current date or the month parameter given inside () | date_to_quarter-> it returns quarter number like Q1,Q2,Q3,Q4 |
-|  date_to_year | Returns the Year value for current date or the month parameter given inside () | date_to_year("2017-10-22")   it returns  only  year = 2017 |
-|  date_to_month | Returns the Month Number for current date or the month parameter given inside () | date_to_month("2017-10-23")--> it returns month number = 10 |
-|  date_format | Returns the required format of a date parameter mentioned after it & inside () | date_format(To_date,'YYYY-MM-DD') |
-|  date_diff | Returns the number of days between two dates given inside () | date_diff("2017-10-20" to "2017-10-23") = 3 |
-|  days_in_month | Returns the total number of days completed in the present month including today | days_in_month (january) = 31 |
-ry) = 31 |
-|  days_till_month | Returns the total number of days completed in the present month including today | days _till_month(october) = 23 it shows  how many days completed in given month |
+|  ------ | ------ | ------ |
+|  offset | Return the row value of the column mentioned as before or after based on -Ve or +Ve number given | offset(#{col_name}, row_difference) |
+|  pivot_offset | Returns the total value in the row for the preceeding measures (before the present column) | pivot_offset(reference of given Column ,col_no,row_no) |
+|  contains | Returns true if the Column mentioned contains the followed ‘Sub-String’, else it returns false | contains(given any name from the table like reference = "prabhas",if it is  present in the given col it gives true or else false) |
+|  row_total | Returns the total value in the row for the preceeding measures (before the present column) | row_total ( ) |
+|  col_total | Returns the total value of the column given inside () | column_total(#{col_name}) |
+|  number | Returns number value of a string | number("1234567") it returns =1234567 |
+|  int | Returns only integer values  | int(74845.9898) = 74845 |
+|  in_globals | It returns the data from Global parameters  | in_globals(${colname}, #globalParameter.Requiredparam# ,"param") |
+|  in_global_keys | It returns the data from Global parameters with  two or more references | in_global_keys(["param1","param2"], [reference1,reference2], "globalParameter.Requiredparam") |
+|  calculate_key_group | Aggregates a measure value with respect to a dimension and futher allowing another dimension for Row Gouping. | calculate_key_group(colmun1, column2, column3, "aggregate function")   i.e agg_fun like = sum,avg etc |
+|  col_running_total | You can use the SUM() formula combined with a clever use of absolute and relative references | col_running_total(#{col_name}) |
+|  col_running_avg | You use the AVERAGE function. The only trick you need to apply is to make your range changing continuously. | col_running_avg(#{col_name}) |
+
+**Date :**
 
 ## Usage of #math#plugin# for Grid View
 
@@ -70,5 +74,5 @@ ry) = 31 |
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODM1Nzc2ODJdfQ==
+eyJoaXN0b3J5IjpbLTUxNTczNzg0NF19
 -->
