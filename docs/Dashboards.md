@@ -17,13 +17,13 @@ Select Dashboard Section and click on New Dashboards button.
 ** Below are the field used while applying filters :**
 **Filter Name** identifier name to the filter applicable
 **Filter Type** type of filter user (eg: string,date,number)
-**Operator filter operation that are applicable
-5.Lookup by adding lookup you can refer set of query or list of items in filters.
-Lookup name name of the lookup field
-Lookup Type  refers to item or query type
-Test Lookup to test the lookup 
-Multiple Selections refers to selection of list of multiple data
-Referred used to refer predefined filter for the following filters 
+**Operator** filter operation that are applicable
+**5.** Lookup by adding lookup you can refer set of query or list of items in filters.
+**Lookup name** name of the lookup field
+**Lookup Type**  refers to item or query type
+**Test Lookup** to test the lookup 
+**Multiple Selections** refers to selection of list of multiple data
+**Referred** used to refer predefined filter for the following filters 
 6.Report Listeners allows you to apply filters to reports selected in Dashboard.
 Dashboard Report Select the report for adding filters
 Listen Filter refers to filter option available
@@ -82,5 +82,5 @@ Click on save to save dashboard created.
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDcyNTg5N119
+eyJoaXN0b3J5IjpbLTE5OTU2NDcwNjddfQ==
 -->
