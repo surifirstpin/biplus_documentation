@@ -62,8 +62,40 @@ leftShift	Bitwise left logical shift of a value x by y number of bits, x << y.	l
 rightArithShift	Bitwise right arithmetic shift of a value x by y number of bits, x >> y.	rightArithShift(4, 2) = 1, rightArithShift([16, -32, 64], 4) = [1, -2, 3]
 rightLogShift	Bitwise right logical shift of value x by y number of bits, x >>> y.	rightLogShift(4, 2) = 1, rightLogShift([16, -32, 64], 4) = [1, 2, 3]
 
-Arithmatic:'
+**Arithmatic :**
 
+|  **Name** | **Description** | **Example** |
+|  ------ | ------ | ------ |
+|  abs | Calculate the absolute value of a number | abs(-12) = 12 |
+|  add | Add two or more values, x + y | add(3,4) = 7 |
+|  cbrt | Calculate the cubic root of a value. | cbrt(27) = 3 |
+|  ceil | The smallest integer greater than or equal to the given number | ceil(3.1) = 4,ceil(-8.5) = -8 |
+|  cube | Compute the cube of a value, x * x * x. | cube(7) = 343 |
+|  divide | Divides the two values | divide(6,3) = 2 |
+|  fix | Round a value towards zero. | fix(4.5) = 4, fix(-4.5) = -4 |
+|  floor | Round a value towards minus infinity. | floor(2.8) = 2, floor(-7.5) = -8 |
+|  dotDivide         | Divide two matrices element wise. | dotDivide(x, y) dotDivide(2, 4) = 0.5 |
+|  dotMultiple | Multiply two matrices element wise | dotMultiply(x, y) dotMultiply(2, 4) = 8 |
+|  dotPow | Calculates the power of x to y element wise. | dotPow(x, y) var a = [[1, 2], [4, 3]], dotPow(a, 2) = [[1, 4], [16, 9]] |
+|  exp | Calculate the exponent of a value. | exp(x), exp(2) = 7.3890560989306495 |
+|  gcd | Calculate the greatest common divisor for two or more values or arrays. | gcd(a,b) = a.b/Lcm(a,b) where a,b = (8,12) , gcd = 4 |
+|  hypot | Calculate the hypotenusa of a list with values. | hypot = (v1,v2,v3..vn) = Vi square = square root of (v1 square + v2 square) = hypot (3,4) = 5 |
+|  lcm | Calculate the least common multiple for two or more values or arrays | lcm(a,b) = abs(a*b)/gcd(a,b) = where a,b = (4,6), lcm = 12 |
+|  log | Calculate the logarithm of a value. | log(-1) = NaN, log(0) = -Infinity, log(1) = 0, log(10) = 2.3025850929 |
+|  log10 | Calculate the 10-base logarithm of a value. | log10 = log10 // function(x) { return log(x) *LOG10E; }; log10(1) = 0 |
+|  mod | Calculates the modulus, the remainder of an integer division. | 17 mod 3 = 2 because 17/3 = 5 rem 2 which is 17 = 3*5+2 |
+|  multiply | Multiply two or more values, x * y. | multiply = 3*4 =12 |
+|  norm |  Calculate the norm of a number, vector or matrix | abs(-3.5) = 3.5, norm(-3.5) = 3.5, norm([[1, 2], [3, 4]], 1) = returns 6 |
+|  nthRoot | Calculate the nth root of a value. | nthRoot(9,2) = (3^2) = 9 |
+|  pow |  pow(x, y), pow(2, 3) = 8. | pow (5,3) = 125   where x = 5 and y = 3  and  pow = The value of x to the power y  |
+|  round | Round a value towards the nearest integer. | round(3.2) = 3,round(3.8) = 4, round(-4.2) = -4 |
+|  sign | Compute the sign of a value. |  sign (3.4) = 1 , (-3,4)= -1 , (0) = 0  ,  1 when x > 1, -1 when x < 0,  0 when x == 0  |
+|  sqrt | Calculate the square root of a value. | sqrt(25) = 5, square(5) = 25, sqrt(-4) = Complex 2i |
+|  square | Compute the square of a value, x * x | square([1, 2, 3, 4]);  returns Array [1, 4, 9, 16] |
+|  unaryMinus | Inverse the sign of a value, apply a unary minus operation. | unaryMinus(x) = unaryMinus(3.5) = -3.5, unaryMinus(-4.2) = 4.2 |
+|  subtract | Subtract two values, x - y. |  subtract (4-3) = 1 |
+|  unaryPlus | Unary plus operation. | unaryPlus(3.44) = 3.44 , unary Plus(40 - 6) = 34 |
+|  xgcd | Calculate the extended greatest common divisor for two values. | xgcd(a,b) where div = gcd(a,b) and a*m + b*n = div, xgcd(8,12) = [4,-1,1], gcd(8,12) = 4 |
 **Matrix :**
 
 |  Name | **Description** | **Example** |
@@ -214,5 +246,5 @@ Arithmatic:'
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjExNjY2Nl19
+eyJoaXN0b3J5IjpbMjEzMzI1NjA3XX0=
 -->
