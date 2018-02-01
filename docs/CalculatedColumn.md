@@ -52,6 +52,15 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  std | Compute the standard deviation of a matrix or a list with values. | x = (6,2,3,1),xbar = 6+2+3+1/4 = 3,​SD = root<code>&amp;#124;</code>x-xbar<code>&amp;#124;</code>^2/n,SD = 1.87<br/>xbar = mean |
 |  sum | Compute the sum of a matrix or a list with values. | sum(2, 1, 4, 3) = 10 |
 |  var | Compute the variance of a matrix or a list with values. | var(2, 4, 6) = 4, var([2, 4, 6, 8], 'uncorrected') = 5, |
+
+Bit-wise Operators:
+bitAnd	Bitwise AND two values, x & y. Ex. bit And(x, y)	bitAnd(53, 131) = 1
+bitNot	"	Bitwise NOT value, ~x."	bitNot(1) = -2, bitNot([2,-3,4]) = [-3,2,5]
+bitOr	Bitwise OR two values, x | y.	bitOr(1,2) = 3, bitOr([1,2,3],4) = [5,6,7]
+bitXor     	Bitwise XOR two values, x ^ y.	bitXor(1, 2) = 3, bitXor([2, 3, 4], 4) = [6,7,0]
+leftShift	Bitwise left logical shift of a value x by y number of bits, x << y.	leftShift(1, 2) = 4, leftShift([1, 2, 3], 4) =  [16, 32, 64]
+rightArithShift	Bitwise right arithmetic shift of a value x by y number of bits, x >> y.	rightArithShift(4, 2) = 1, rightArithShift([16, -32, 64], 4) = [1, -2, 3]
+rightLogShift	Bitwise right logical shift of value x by y number of bits, x >>> y.	rightLogShift(4, 2) = 1, rightLogShift([16, -32, 64], 4) = [1, 2, 3]
 **Matrix :**
 
 |  Name | **Description** | **Example** |
@@ -202,5 +211,5 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTc4NTE1Nl19
+eyJoaXN0b3J5IjpbNjg0ODIyMzQ1XX0=
 -->
