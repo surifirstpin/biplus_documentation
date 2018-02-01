@@ -2,10 +2,12 @@ Calculation is a statement or expression or a function operator which can be use
 
 ## Usage of #math# 
 
-Custom made mathematical operations.
+Custom made mathematical operations can be added in calculated column section as shown below
+
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a3a039bae7badccb31d41bbc9c5449943045474/images/calculate.png)
 
 ### Syntax for using math functionality :
-
 ```
 Check the number of working days in each month:
 
@@ -273,5 +275,5 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDY3MzI1NV19
+eyJoaXN0b3J5IjpbLTE5Mzg5MzA1NDVdfQ==
 -->
