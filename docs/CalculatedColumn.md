@@ -5,7 +5,8 @@ Calculation is a statement or expression or a function operator which can be use
 Custom made mathematical operations.
 
 ### Syntax for using math functionality
-
+#math#
+bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE}) 
 
 
 
@@ -45,5 +46,5 @@ Custom made mathematical operations.
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTM2NTIzNF19
+eyJoaXN0b3J5IjpbMzM3ODYxMTEwXX0=
 -->
