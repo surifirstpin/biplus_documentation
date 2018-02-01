@@ -14,7 +14,7 @@ bi.days_in_month
 (${ROOT.BI_ORDERS.date_month_WHENMADE}) 
 ```
 ```
-To oerfirm the cub
+To oerfirm t
 
 
 
@@ -53,5 +53,5 @@ To oerfirm the cub
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODY0OTI1M119
+eyJoaXN0b3J5IjpbLTEyMzcyMzQxNjJdfQ==
 -->
