@@ -7,7 +7,7 @@
             welcome to Biplus
 
 
-## Arithmetic & Logical operations on Data Fileds
+## Arithmetic & Logical operations on Data Fields
 
             welcome to Biplus
 
@@ -37,5 +37,5 @@
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTQxOTc0Nl19
+eyJoaXN0b3J5IjpbODIyNjExNzYwXX0=
 -->
