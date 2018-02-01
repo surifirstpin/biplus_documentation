@@ -1,6 +1,8 @@
 ## Create Dashboard
 
-           welcome to Biplus
+Dashboard provides  access to view multiple reports or charts on single screen layout,in this way you can get a quick view on the related data.in order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive.
+Select Dashboard Section and click on New Dashboards button.
+1. select the Layout options available on page.
 
 ## Edit   Dashboard 
 
@@ -47,5 +49,5 @@
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzYyOTE1Ml19
+eyJoaXN0b3J5IjpbNjczODMyNDg4XX0=
 -->
