@@ -2,7 +2,8 @@ Calculation is a statement or expression or a function operator which can be use
 
 ## Usage of #math# 
 
-  By using math we can make use of all the built in functionality in Bi+.
+Apply mathematical operation.
+
 
 ## Usage of #math#plugin# for Grid View
 
@@ -39,5 +40,5 @@ Calculation is a statement or expression or a function operator which can be use
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzQ2MzU1Ml19
+eyJoaXN0b3J5IjpbLTI1ODgxNjg1MV19
 -->
