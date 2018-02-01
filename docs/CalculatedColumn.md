@@ -57,7 +57,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  ------ | ------ | ------ |
 |  format | Format a value of any type into a string. | format(6.4) = '6.4',format(21385, 2) = '21000' |
 |  print | Interpolate values into a string template | print('Lokes is $age years old', {age: 8}); 'Lokesh is 8 years old' |
-Relation
+Relational**
 **Trignometry:**
 
 |  Name | **Description** | **Example** |
@@ -157,5 +157,5 @@ Relation
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY4NTU2OThdfQ==
+eyJoaXN0b3J5IjpbLTE5NTgzMzE5MzNdfQ==
 -->
