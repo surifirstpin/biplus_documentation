@@ -58,14 +58,10 @@ It will navigate to Dashboard created.
 **11.** Click on **Save** button to save the changes made.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8ddfd637b9b4be13275803e28d16a23a8fb52666/images/dash_edi3.png)
 ## Delete Dashboard
+
 To delete the Dashboard, Select the dashboard created and click on delete icon as shown in below image :
 
-
-----------
-
-
-----------
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/666070bb576904871a67ced2eb5388f9bcd1e142/images/dash_del.png)
 
 ## Ability for Multiple Layouts
 
@@ -104,5 +100,5 @@ To delete the Dashboard, Select the dashboard created and click on delete icon a
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDc0ODI5N119
+eyJoaXN0b3J5IjpbMTIzODIwODQyOV19
 -->
