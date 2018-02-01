@@ -176,7 +176,7 @@ Using Bi+ you can add different logic's individually as explained below:
 
 **Condition** Select the condition you want to apply on the field.
 **Format on** Select the measure for which you want to set the format.
-** Value** Specify a value for
+** Value** Specify a value for whc
 **BG(baground colour)**
 **Font**
 **Icon**
@@ -196,5 +196,5 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTAzOTg2NDcsLTgzMDk4MTg1XX0=
+eyJoaXN0b3J5IjpbLTcxMTQwOTQxNywtODMwOTgxODVdfQ==
 -->
