@@ -56,7 +56,9 @@ It will navigate to Dashboard created.
 **9.** Click on Apply Filters.
 **10.** Click on Add Listener to add more filters to dashboard created.
 **11.** Click on **Save** button to save the changes made.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8ddfd637b9b4be13275803e28d16a23a8fb52666/images/dash_edi3.png)
+
 ## Delete Dashboard
 
 To delete the Dashboard, Select the dashboard created and click on delete icon as shown in below image :
@@ -100,5 +102,5 @@ To delete the Dashboard, Select the dashboard created and click on delete icon a
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODIwODQyOV19
+eyJoaXN0b3J5IjpbLTM5MTI1NzkzOV19
 -->
