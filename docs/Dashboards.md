@@ -95,7 +95,8 @@ To maximize a specific report click on the maximize icon in the tool bar of the 
 
 ## Home Page Display Option
 
-Using BI+ Plus you can set the Dashboard to home page to have a look at the daily updates made to your report.
+To have a look at the daily updates made to your report you can set the dashboard to your home page.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODY3NzYzMTldfQ==
+eyJoaXN0b3J5IjpbODU2MzI4NTIzXX0=
 -->
