@@ -76,7 +76,7 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 
 ## Maximize a contained Report
 
-To maximize a specific report click on the maximize icon in the tool bar of the report layout.
+**12.** To maximize a specific report click on the maximize icon in the tool bar of the report layout.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/078a756c7f5ed60ca10511acdbae528ea7f7cc16/images/repo_max.png)
 
@@ -86,5 +86,5 @@ To maximize a specific report click on the maximize icon in the tool bar of the 
 Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTAwOTQ5OF19
+eyJoaXN0b3J5IjpbLTYzNzQ0NDMwN119
 -->
