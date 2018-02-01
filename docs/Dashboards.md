@@ -6,7 +6,7 @@ Select Dashboard Section and click on New Dashboards button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c5df381a6fdd5127a3590acfc32d28528ae62449/images/dash_1.png)
 
-2.Click on update reports then select the layout and add the reports for which you want to build dashboard.
+**2.** Click on update reports then select the layout and add the reports for which you want to build dashboard.
 
 ## Edit   Dashboard 
 
@@ -53,5 +53,5 @@ Select Dashboard Section and click on New Dashboards button.
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzUzMDA4MDFdfQ==
+eyJoaXN0b3J5IjpbMTgyMDgxMjcxOV19
 -->
