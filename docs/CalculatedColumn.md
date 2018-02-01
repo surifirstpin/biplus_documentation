@@ -249,9 +249,10 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 
 You can perform Arithmetic operation to the desired fields in calculated columns.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/60036e93167331ca3442d5bb10ff48209b021fdd/images/arth_add.png)
 
 
-## Usage of Global Functions with paramerts from Data Fields
+## Usage of Global Functions with parameters from Data Fields
 
             welcome to Biplus
 
@@ -276,5 +277,5 @@ You can perform Arithmetic operation to the desired fields in calculated columns
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjA1NzI0NV19
+eyJoaXN0b3J5IjpbLTM1NDA3MjkwN119
 -->
