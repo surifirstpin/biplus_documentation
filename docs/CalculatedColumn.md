@@ -32,7 +32,9 @@ Arithmetic :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecac78d4d1b36abb3678a52b8e9d18aed7890ed/images/Arithematic_math.png)
 
 
+Bit-wise operators :
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/88874364183c8334667c8af1803f686a2021481f/images/bit_math.png)
 
 
 ## Usage of #math#plugin# for Grid View
@@ -70,5 +72,5 @@ Arithmetic :
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDM1Mzc2OV19
+eyJoaXN0b3J5IjpbLTE0NTA3OTM0NDNdfQ==
 -->
