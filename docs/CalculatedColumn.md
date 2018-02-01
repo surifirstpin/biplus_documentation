@@ -190,10 +190,14 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  sinh | Calculate the hyperbolic sine of a value, defined as sinh(x) = 1/2 * (exp(x) - exp(-x)). | sinh(30) = 5343237290762.231 sinh(x) = 1/2 * (exp(x) - exp(-x)) where  x = 30 |
 |  tan | Calculate the tangent of a value. | tan(45) = 1 |
 |  tanh | Calculate the hyperbolic tangent of a value, defined as tanh(x) = (exp(2 * x) - 1) / (exp(2 * x) + 1). | tanh(90) = 1,  tanh(90) = (exp(2 * x) - 1) / (exp(2 * x) + 1).  where x = 90 |
- **Unit**
+ 
+ **Unit :**
+
  |  Name | **Description** | **Example** |
 |  ------ | ------ | ------ |
- **Utils**
+|  to | Change the unit of a value. | to(x, unit) = to(math.unit('2 inch'), 'cm') = Unit 5.08 cm, to(math.unit(16, 'bytes'), 'bits') =  Unit 128 bits |
+
+ **Utils:**
 
 |  Name | **Description** | **Example** |
 |  ------ | ------ | ------ |
@@ -227,6 +231,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  SQRT2 | Returns the square root of 2. | 1.41421356237309 |
 |  tau | Tau is the ratio constant of a circle's circumference to radius, equal to 2 * pi. | 6.28318530717958 |
 |  uninitialized | Constant used as default value when resizing a matrix to leave new entries uninitialized. |  |
+
 ## Usage of #math#plugin# for Grid View
 
             welcome to Biplus
@@ -262,5 +267,5 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc5NzY0OTddfQ==
+eyJoaXN0b3J5IjpbMjAzNDM5MTEzOV19
 -->
