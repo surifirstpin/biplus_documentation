@@ -38,6 +38,19 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  col_running_avg | You use the AVERAGE function. The only trick you need to apply is to make your range changing continuously. | col_running_avg(#{col_name}) |
 
 **Statistics**
+|  Name | **Description** | **Example** |
+|  ------ | ------ | ------ |
+|  unequal | Test whether two values are unequal. | math.unequal(2 + 2, 3) = true, math.unequal(2+3,5) = false;  |
+|  mad | Compute the median absolute deviation of a matrix or a list with values. | math.mad(10, 20, 30); mean = 20,math.mad = <code>&amp;#124;</code>10-20<code>&amp;#124;</code>,<code>&amp;#124;</code>20-20<code>&amp;#124;</code><code>&amp;#124;</code>30-20<code>&amp;#124;</code> = 20/3 = 6.666 |
+|  max | 	Compute the maximum value of a matrix or a list with values. | math.max(2, 1, 4, 3) = 4,math.min(2.6, 7.1, -4.5, 2.0, 4.1) = -4.5,math.max(2.4,7.1,-2.8,5.4) = 7.1  |
+|  mean | Compute the mean value of matrix or a list with values. | math.mean(2, 1, 4, 3) = 2+1+4+3/4 = 10/4 = 2.5, |
+|  median | Compute the median of a matrix or a list with values. | math.median(5, 2, 7) = 5,math.median([3, -1, 5, 7]) = 4 |
+|  mode | Computes the mode of a set of numbers or a list with values(numbers or characters). | math.mode(2, 1, 4, 3, 1) = 1,No of times Repeated Number |
+|  prod | Compute the product of a matrix or a list with values. | math.prod(2, 3) = 6,math.prod(2,3,4) = 24; |
+|  quantileSeq | Compute the prob order quantile of a matrix or a list with values. | math.quantileSeq(2,4,4,5,5,6,7,8,9), mean = 5, LowerQua = 4+4/2 = 4, HigherQua = 7+8/2 = 7.5, Q = HQ-LQ = 3.5 |
+|  std | Compute the standard deviation of a matrix or a list with values. | x = (6,2,3,1),xbar = 6+2+3+1/4 = 3,​SD = root<code>&amp;#124;</code>x-xbar<code>&amp;#124;</code>^2/n,SD = 1.87<br/>xbar = mean |
+|  sum | Compute the sum of a matrix or a list with values. | sum(2, 1, 4, 3) = 10 |
+|  var | Compute the variance of a matrix or a list with values. | var(2, 4, 6) = 4, var([2, 4, 6, 8], 'uncorrected') = 5, |
 **Trignometry:**
 |  Name | **Description** | **Example** |
 |  ------ | ------ | ------ |
@@ -136,5 +149,5 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Njc4NDEwNl19
+eyJoaXN0b3J5IjpbLTIzNzk1OTM1MF19
 -->
