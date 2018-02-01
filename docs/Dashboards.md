@@ -8,6 +8,9 @@ Select Dashboard Section and click on New Dashboards button.
 
 **2.** Click on update reports then select the layout and add the reports for which you want to build dashboard.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8414a3a116f22024e677cb9e647af84aaa27f6c6/images/dash_2.png)
+
+**3** Click on apply filters to add Global filters and Lookups.
 ## Edit   Dashboard 
 
            welcome to Biplus
@@ -53,5 +56,5 @@ Select Dashboard Section and click on New Dashboards button.
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDgxMjcxOV19
+eyJoaXN0b3J5IjpbMTEyOTIyNzU0MF19
 -->
