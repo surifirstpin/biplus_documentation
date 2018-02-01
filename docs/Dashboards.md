@@ -37,14 +37,15 @@ Select Dashboard Section and click on New Dashboards button.
 **Apply to field** will allows you apply the filter options to available field list in report 
 **Add Listener** allows you to add multiple filters to reports
 
-**7.** Click on save and fill the below fields to save dashboard.
+## Privacy & Share Option
 
+**7.** Click on save and fill the below fields to save dashboard.
 - **Name** name identifier for dashboard created
 - **Title** title to refer the dashboard
 - **Info** summary information of the dashboard created
 - **privacy()  public()  share()** Access to dashboard created
 
-Click on save to save dashboard created.
+Click on **save** to save dashboard created.
 
 ## Edit   Dashboard 
 
@@ -82,7 +83,7 @@ Click on save to save dashboard created.
 
            welcome to Biplus 
 
-## Privacy & Share ption
+
 
            welcome to Biplus
 
@@ -91,5 +92,5 @@ Click on save to save dashboard created.
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTIxODgzOF19
+eyJoaXN0b3J5IjpbLTEwNDIwMjc1NTldfQ==
 -->
