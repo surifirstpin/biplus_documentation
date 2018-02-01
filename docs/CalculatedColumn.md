@@ -80,6 +80,11 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  transpose | Transpose a matrix. | transpose(x) = var A = [[1, 2, 3], [4, 5, 6]]; = transpose(A); = [[1, 4], [2, 5], [3, 6]] |
 |  zeros | 	Create a matrix filled with zeros. | var A = [[1, 2, 3], [4, 5, 6]];<br/>zeros(size(A)); = [[0, 0, 0], [0, 0, 0]] |
 
+**Geometry**:
+|  Name | **Description** | **Example** |
+|  ------ | ------ | ------ |
+|  distance | Calculates: The eucledian distance between two points in 2 and 3 dimensional spaces. | distance([x1, y1], [x2, y2]) = distance([0,0], [4,4]) = 5.6569. |
+
 **String:**
 |  Name | **Description** | **Example** |
 |  ------ | ------ | ------ |
@@ -197,5 +202,5 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0MjUwNDEwXX0=
+eyJoaXN0b3J5IjpbLTg5NTc4NTE1Nl19
 -->
