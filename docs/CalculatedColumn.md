@@ -14,7 +14,7 @@ bi.days_in_month
 (${ROOT.BI_ORDERS.date_month_WHENMADE}) 
 ```
 ```
-To c
+To calculate the 
 
 
 
@@ -53,5 +53,5 @@ To c
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzExOTA0M119
+eyJoaXN0b3J5IjpbLTQ0NTYwNzI4N119
 -->
