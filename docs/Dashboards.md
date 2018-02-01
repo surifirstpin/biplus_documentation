@@ -27,10 +27,10 @@ Select Dashboard Section and click on New Dashboards button.
 - **Multiple Selections** refers to selection of list of multiple data
 - **Referred** used to refer predefined filter for the following filters 
 **6.** Report Listeners allows you to apply filters to reports selected in Dashboard.
-**Dashboard Report Select the report for adding filters
-Listen Filter refers to filter option available
-Apply to field will allows you apply the filter options to available field list in report 
-Add Listener allows you to add multiple filters to reports
+**Dashboard Report** Select the report for adding filters
+**Listen Filter** refers to filter option available
+**Apply to field** will allows you apply the filter options to available field list in report 
+**Add Listener** allows you to add multiple filters to reports
 7.Click on save and fill the below fields to save dashboard.
 Name name identifier for dashboard created
 Title title to refer the dashboard
@@ -84,5 +84,5 @@ Click on save to save dashboard created.
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4Mjg0OTMxOF19
+eyJoaXN0b3J5IjpbLTIxNTc2NzQ2Ml19
 -->
