@@ -254,9 +254,7 @@ You can perform Arithmetic operation to the desired fields in calculated columns
 
 ## Usage of Global Functions with parameters from Data Fields
 
-            welcome to Biplus
-
-
+Global parametersProvides access to the user 
 ## Usage of Global Parameters with reference from Data Field values
 
             welcome to Biplus
@@ -277,5 +275,5 @@ You can perform Arithmetic operation to the desired fields in calculated columns
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDA3MjkwN119
+eyJoaXN0b3J5IjpbLTE0NzQwOTY3MjVdfQ==
 -->
