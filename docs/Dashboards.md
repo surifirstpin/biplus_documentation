@@ -85,7 +85,7 @@ To delete the Dashboard, Select the dashboard created and click on delete icon a
 
 ## Listeners On / Off
 
-           welcome to Biplus
+If the listener is on filter is applied or else filters are n 
 
 ## Maximize a contained Report
 
@@ -100,5 +100,5 @@ To delete the Dashboard, Select the dashboard created and click on delete icon a
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTEzNTc1XX0=
+eyJoaXN0b3J5IjpbMTQxMjcxNDk0Ml19
 -->
