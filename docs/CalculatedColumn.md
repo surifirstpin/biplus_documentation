@@ -37,7 +37,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  col_running_total | You can use the SUM() formula combined with a clever use of absolute and relative references | col_running_total(#{col_name}) |
 |  col_running_avg | You use the AVERAGE function. The only trick you need to apply is to make your range changing continuously. | col_running_avg(#{col_name}) |
 
-
+**Stat
 **Trignometry:**
 |  Name | **Description** | **Example** |
 |  ------ | ------ | ------ |
@@ -136,5 +136,5 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDMwMDEwM119
+eyJoaXN0b3J5IjpbNjQ1ODY0MDY5XX0=
 -->
