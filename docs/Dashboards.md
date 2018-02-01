@@ -88,11 +88,11 @@ To delete the Dashboard, Select the dashboard created and click on delete icon a
 If the listener is **ON** filter is applied and if it is **OFF** filters are not applicable. you can carry out this function using **Add Listener** Parameter.
 
 ## Maximize a contained Report
-To maximise the report click on the maximise i
+To maximise the report click on the maximise icon on 
 ## Home Page Display Option
 
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDM2MTA1NV19
+eyJoaXN0b3J5IjpbLTE3MjU0NjQ4NzBdfQ==
 -->
