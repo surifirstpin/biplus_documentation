@@ -95,9 +95,9 @@ To maximize a specific report click on the maximize icon in the tool bar of the 
 
 ## Home Page Display Option
 
-You can set the dashboard to your home page.
-Select the dashboard and click on **Set Home page** Icon. 
+
+Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5MjM4NjBdfQ==
+eyJoaXN0b3J5IjpbNjE3NTY4ODI0XX0=
 -->
