@@ -268,12 +268,11 @@ Global parameters Provides access to the users.
 
 ## Calculate on Raw functionality
 
-Calculate on the raw data function is applied initially before pivot or grouping otherwise  it is applied later.
 
 ## Calc column with Pivot Option On /Off
 
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0NTcwODFdfQ==
+eyJoaXN0b3J5IjpbLTU5MjUzODU1Nl19
 -->
