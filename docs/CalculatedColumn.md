@@ -61,6 +61,9 @@ bitXor     	Bitwise XOR two values, x ^ y.	bitXor(1, 2) = 3, bitXor([2, 3, 4], 4
 leftShift	Bitwise left logical shift of a value x by y number of bits, x << y.	leftShift(1, 2) = 4, leftShift([1, 2, 3], 4) =  [16, 32, 64]
 rightArithShift	Bitwise right arithmetic shift of a value x by y number of bits, x >> y.	rightArithShift(4, 2) = 1, rightArithShift([16, -32, 64], 4) = [1, -2, 3]
 rightLogShift	Bitwise right logical shift of value x by y number of bits, x >>> y.	rightLogShift(4, 2) = 1, rightLogShift([16, -32, 64], 4) = [1, 2, 3]
+
+Arithmatic:'
+
 **Matrix :**
 
 |  Name | **Description** | **Example** |
@@ -211,5 +214,5 @@ rightLogShift	Bitwise right logical shift of value x by y number of bits, x >>> 
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0ODIyMzQ1XX0=
+eyJoaXN0b3J5IjpbMTUxNjExNjY2Nl19
 -->
