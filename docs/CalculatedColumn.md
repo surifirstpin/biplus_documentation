@@ -19,9 +19,9 @@ To calculate the cubical value of the field
 #math#
 bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 ```
-Similarly we can use all the below functionality Using Bi+:
+**Similarly we can use all the below functionality Using Bi+:**
 
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cfefd498c01e4223ed823dbe31c1a57c8ba93386/images/general_math.png)
 
 
 
@@ -68,5 +68,5 @@ Similarly we can use all the below functionality Using Bi+:
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzgyMTE1OF19
+eyJoaXN0b3J5IjpbLTIzNzIyNzkyOV19
 -->
