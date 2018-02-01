@@ -89,16 +89,10 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 
 ## Maximize a contained Report
 
-           welcome to Biplus 
-
-
-
-           welcome to Biplus
-
 ## Home Page Display Option
 
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzMDY3Mjk0XX0=
+eyJoaXN0b3J5IjpbOTcyMjM4MzA0XX0=
 -->
