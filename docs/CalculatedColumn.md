@@ -21,8 +21,10 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 ```
 **Similarly we can use all the below functionality Using Bi+:**
 
+**General**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cfefd498c01e4223ed823dbe31c1a57c8ba93386/images/general_math.png)
 
+**Date :**
 
 
 
@@ -69,5 +71,5 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTIyNzA5MTldfQ==
+eyJoaXN0b3J5IjpbLTIwODM1NzY3NjddfQ==
 -->
