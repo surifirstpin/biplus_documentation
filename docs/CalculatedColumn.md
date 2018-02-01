@@ -1,6 +1,8 @@
+Calculation is a statement or expression or a function operator which can be used to derive the column values, lets get deep into calculated column function.
+
 ## Usage of #math# 
 
-            welcome to Biplus
+  
 
 ## Usage of #math#plugin# for Grid View
 
@@ -37,5 +39,5 @@
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyNjExNzYwXX0=
+eyJoaXN0b3J5IjpbMTAyNDUxMjA3NF19
 -->
