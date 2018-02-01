@@ -14,7 +14,7 @@ bi.days_in_month
 (${ROOT.BI_ORDERS.date_month_WHENMADE}) 
 ```
 ```
-To calculate the 
+To calculate the cubical val
 
 
 
@@ -53,5 +53,5 @@ To calculate the
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTYwNzI4N119
+eyJoaXN0b3J5IjpbLTQ3NjM0MjgwM119
 -->
