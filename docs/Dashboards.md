@@ -95,8 +95,8 @@ To maximize a specific report click on the maximize icon in the tool bar of the 
 
 ## Home Page Display Option
 
-Using BI+ Plus you can set the Dashboard to home page to have a look at the daily updates made 
+Using BI+ Plus you can set the Dashboard to home page to have a look at the daily updates made to your r
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODA2MDMxM119
+eyJoaXN0b3J5IjpbNTI3MDkwMTI3XX0=
 -->
