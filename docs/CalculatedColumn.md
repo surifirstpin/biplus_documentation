@@ -57,7 +57,19 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  ------ | ------ | ------ |
 |  format | Format a value of any type into a string. | format(6.4) = '6.4',format(21385, 2) = '21000' |
 |  print | Interpolate values into a string template | print('Lokes is $age years old', {age: 8}); 'Lokesh is 8 years old' |
-Relational**
+
+**Relational**
+|  Name | **Description** | **Example** |
+|  ------ | ------ | ------ |
+|  compare | Compare two values. | compare(6> 1) = 1,compare(2 < 3) = -1,compare(7 = 7) = 0,it returns only 1,-1,0 |
+|  compareNatural | Compare two values of any type in a deterministic, natural way. | it is also same as Compare but compareNatural('10' > '2') = 1,compareNatural([1, 2, 4], [1, 2, 3]); return 1 |
+|  deepEqual | Test element wise whether two matrices are equal. | math.deepEqual(6, 8) = false,a = [2 3 4],b = [2 5 4]; math.deepEqual(a,b) = false; |
+|  equal | Test whether two values are equal. | math.Equal(2+4,6) = true,a = [2 3 4],b = [2 5 4]; math.Equal(a,b) = [true false true]; |
+|  larger | Test whether value x is larger than y. | math.larger(2, 3) = math.larger(2>3) = false,math.larger(2+5,4) = math.larger(6>4) = true; |
+|  smaller | Test whether value x is smaller than y. | math.smaller(2, 3) = math.smaller(2 < 3) = true,math.smaller(5, 2 * 2) = math.smaller(5 < 4) = false; |
+|  smallerEq | Test whether value x is smaller or equal to y. | math.smallerEq(1 + 2, 3) = math.smallerEq(3 <= 3) = true; |
+|  unequal | Test whether two values are unequal. | math.unequal(2 + 2, 3) = true, math.unequal(2+3,5) = false;  |
+
 **Trignometry:**
 
 |  Name | **Description** | **Example** |
@@ -157,5 +169,5 @@ Relational**
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTgzMzE5MzNdfQ==
+eyJoaXN0b3J5IjpbNDk0OTEyNjhdfQ==
 -->
