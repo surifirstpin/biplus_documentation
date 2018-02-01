@@ -64,8 +64,21 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  sinh | Calculate the hyperbolic sine of a value, defined as sinh(x) = 1/2 * (exp(x) - exp(-x)). | sinh(30) = 5343237290762.231 sinh(x) = 1/2 * (exp(x) - exp(-x)) where  x = 30 |
 |  tan | Calculate the tangent of a value. | tan(45) = 1 |
 |  tanh | Calculate the hyperbolic tangent of a value, defined as tanh(x) = (exp(2 * x) - 1) / (exp(2 * x) + 1). | tanh(90) = 1,  tanh(90) = (exp(2 * x) - 1) / (exp(2 * x) + 1).  where x = 90 |
-
-**Constant :**
+**Utils**
+|  Name | **Description** | **Example** |
+|  ------ | ------ | ------ |
+|  to | Change the unit of a value. | to(x, unit) = to(math.unit('2 inch'), 'cm') = Unit 5.08 cm, to(math.unit(16, 'bytes'), 'bits') =  Unit 128 bits |
+|  clone | Clone an object. | Clone(x) = Clone(math.complex('2-4i') = 2 - 4i, clone([[1, 2], [3, 4]]) = [[1, 2], [3, 4]] |
+|  isInteger | Test whether a value is an integer number. | isInteger(2) = true, isInteger(0.5) = false, isInteger(math.complex('2-4i') = throws an error |
+|  isNaN | Test whether a value is NaN (not a number). | isNaN(3) = false, isNaN(NaN) = true |
+|  isNegative | Test whether a value is negative: smaller than zero. | isNegative(3) = false, isNegative(-2) = true |
+|  isNumeric | Test whether a value is an numeric value. | isNumeric(2) = true, isNumeric([2.3, 'foo', false]) =  [true, false, true] |
+|  isPositive | Test whether a value is positive: larger than zero. | isPositive(3) = true, isPositive([2, 0, -3]') = [true, false, false] |
+|  isPrime | Test whether a value is prime: has no divisors other than itself and one. | <br/>isPrime(3) = true, isPrime([2, 17, 100]') = [true, true, false] |
+|  isZero | Test whether a value is zero. | isZero(0) = true, isZero([2, 0, -3]') =  [false, true, false] |
+|  typeof | Determine the type of a variable. | typeof(3.5) = number, typeof(math.complex('2-4i')) = complex, typeof(math.unit('45 deg')) = Unit, typeof('hello world') = string |
+ 
+ **Constant :**
 
 |  Name | **Description** | **Example** |
 |  ------ | ------ | ------ |
@@ -119,5 +132,5 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDUwNzAzMF19
+eyJoaXN0b3J5IjpbLTc4MzYwNDczNV19
 -->
