@@ -48,6 +48,7 @@ Select Dashboard Section and click on New Dashboards button.
 Click on **save** to save dashboard created.
 
 ## Edit   Dashboard 
+
    You can Edit the Dashboard build to add extra features into it.
 
 ## Delete Dashboard
@@ -91,5 +92,5 @@ Click on **save** to save dashboard created.
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ5NTcxMDVdfQ==
+eyJoaXN0b3J5IjpbLTE2ODU0NTg3NTVdfQ==
 -->
