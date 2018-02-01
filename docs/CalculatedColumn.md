@@ -6,6 +6,10 @@ Apply mathematical operation.
 
 ### Syntax for using math functionality
 
+
+
+
+
 ## Usage of #math#plugin# for Grid View
 
             welcome to Biplus
@@ -41,5 +45,5 @@ Apply mathematical operation.
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4MTg5NTM1XX0=
+eyJoaXN0b3J5IjpbNzc3ODQ2ODIzXX0=
 -->
