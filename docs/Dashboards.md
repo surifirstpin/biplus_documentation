@@ -49,7 +49,7 @@ Click on **save** to save dashboard created.
 
 ## Edit   Dashboard 
 
-   To Edit the dashboard Select the dashboard created and Click on **Edit** Button.It will anvigate to Dashboard cre
+   To Edit the dashboard Select the dashboard created and Click on **Edit** Button.It will anvigate to Dashboard created.
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/32cd07ab577aaece73d4b9b7f53010680bda5fa0/images/edit_dash2.png)
    
 Add Filters to the Dashboard as shown in below image
@@ -96,5 +96,5 @@ Add Filters to the Dashboard as shown in below image
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDA4NzUzNDddfQ==
+eyJoaXN0b3J5IjpbLTExMTUwNTQ5MTddfQ==
 -->
