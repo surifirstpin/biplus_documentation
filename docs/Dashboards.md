@@ -60,6 +60,13 @@ It will navigate to Dashboard created.
 ## Delete Dashboard
 To delete the Dashboard, Select the dashboard created and click on delete icon as shown in below image :
 
+
+----------
+
+
+----------
+
+
 ## Ability for Multiple Layouts
 
            welcome to Biplus
@@ -97,5 +104,5 @@ To delete the Dashboard, Select the dashboard created and click on delete icon a
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTY5NTA1MV19
+eyJoaXN0b3J5IjpbMTkzMDc0ODI5N119
 -->
