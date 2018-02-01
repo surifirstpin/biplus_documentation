@@ -14,7 +14,8 @@ bi.days_in_month
 (${ROOT.BI_ORDERS.date_month_WHENMADE}) 
 ```
 ```
-To calculate the cubical value of the fiel
+To calculate the cubical value of the field
+
 
 
 
@@ -53,5 +54,5 @@ To calculate the cubical value of the fiel
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyNzYyOTQzXX0=
+eyJoaXN0b3J5IjpbLTE5MjYxNDkxMjldfQ==
 -->
