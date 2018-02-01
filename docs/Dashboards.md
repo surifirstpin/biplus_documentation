@@ -85,7 +85,7 @@ To delete the Dashboard, Select the dashboard created and click on delete icon a
 
 ## Listeners On / Off
 
-If the listener is **ON** filter is applied and if it is **OFF** filters are not applicable. you can carry out this function using ADD Listener Parameter.
+If the listener is **ON** filter is applied and if it is **OFF** filters are not applicable. you can carry out this function using **Add Listener** Parameter.
 
 ## Maximize a contained Report
 
@@ -100,5 +100,5 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDcwODcwMTBdfQ==
+eyJoaXN0b3J5IjpbODYzMDY3Mjk0XX0=
 -->
