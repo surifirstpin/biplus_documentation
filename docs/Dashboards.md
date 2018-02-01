@@ -91,11 +91,12 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 
 To maximize a specific report click on the maximize icon in the tool bar of the report layout.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/81b624b35926d32f8655dfb9bfd56c3da06a9a17/images/repo_max.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/078a756c7f5ed60ca10511acdbae528ea7f7cc16/images/repo_max.png)
+
 ## Home Page Display Option
 
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTk5MDYzNl19
+eyJoaXN0b3J5IjpbNzEwODYxODQ1XX0=
 -->
