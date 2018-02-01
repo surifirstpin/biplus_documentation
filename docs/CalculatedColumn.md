@@ -65,6 +65,16 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  date_diff | Returns the number of days between two dates given inside () | date_diff("2017-10-20" to "2017-10-23") = 3 |
 |  days_in_month | Returns the total number of days completed in the present month including today | days_in_month (january) = 31 |
 |  days_till_month | Returns the total number of days completed in the present month including today | days _till_month(october) = 23 it shows  how many days completed in given month |
+**Bit-wise Operators**
+|  **Name** | **Description** | **Example** |
+|  ------ | ------ | ------ |
+|  bitAnd | Bitwise AND two values, x & y. Ex. bit And(x, y) | bitAnd(53, 131) = 1 |
+|  bitNot | 	Bitwise NOT value, ~x. | bitNot(1) = -2, bitNot([2,-3,4]) = [-3,2,5] |
+|  bitOr | Bitwise OR two values, x <code>&amp;#124;</code> y. | bitOr(1,2) = 3, bitOr([1,2,3],4) = [5,6,7] |
+|  bitXor      | Bitwise XOR two values, x ^ y. | bitXor(1, 2) = 3, bitXor([2, 3, 4], 4) = [6,7,0] |
+|  leftShift | Bitwise left logical shift of a value x by y number of bits, x << y. | leftShift(1, 2) = 4, leftShift([1, 2, 3], 4) =  [16, 32, 64] |
+|  rightArithShift | Bitwise right arithmetic shift of a value x by y number of bits, x >> y. | rightArithShift(4, 2) = 1, rightArithShift([16, -32, 64], 4) = [1, -2, 3] |
+|  rightLogShift | Bitwise right logical shift of value x by y number of bits, x >>> y. | rightLogShift(4, 2) = 1, rightLogShift([16, -32, 64], 4) = [1, 2, 3] |
 
 **Arithmatic :**
 
@@ -250,5 +260,5 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE4OTQ5NjNdfQ==
+eyJoaXN0b3J5IjpbMjA0NDMwODgzNF19
 -->
