@@ -65,17 +65,12 @@ To delete the Dashboard, Select the dashboard created and click on delete icon a
 
 ## Ability for Multiple Layouts
 
-           welcome to Biplus
+     
 
 ##  Add Reports for Different Projects
 
-           welcome to Biplus
-
-
-
-           welcome to Biplus
-
 ## Dependency Filters
+
 
 ## Listeners On / Off
 
@@ -93,5 +88,5 @@ To maximize a specific report click on the maximize icon in the tool bar of the 
 Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTg0MDAzOTZdfQ==
+eyJoaXN0b3J5IjpbLTIwODE2NzY0OThdfQ==
 -->
