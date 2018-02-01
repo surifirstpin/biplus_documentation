@@ -85,7 +85,7 @@ To delete the Dashboard, Select the dashboard created and click on delete icon a
 
 ## Listeners On / Off
 
-If the listener is on filter is applied or else filters are not applicable. you can carry out this function using ADD Listner
+If the listener is on filter is applied or else filters are not applicable. you can carry out this function using ADD Listner Pa
 
 ## Maximize a contained Report
 
@@ -100,5 +100,5 @@ If the listener is on filter is applied or else filters are not applicable. you 
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjc5MjQ5Ml19
+eyJoaXN0b3J5IjpbLTU2NjE3MjY1MV19
 -->
