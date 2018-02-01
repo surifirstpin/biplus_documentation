@@ -2,7 +2,8 @@
 
 Dashboard provides  access to view multiple reports or charts on single screen layout,in this way you can get a quick view on the related data.in order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive.
 Select Dashboard Section and click on New Dashboards button.
-**1.** select the Desired Layout options available on page.
+
+**1.** Select the Desired Layout options available on page.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c5df381a6fdd5127a3590acfc32d28528ae62449/images/dash_1.png)
 
@@ -11,12 +12,13 @@ Select Dashboard Section and click on New Dashboards button.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8414a3a116f22024e677cb9e647af84aaa27f6c6/images/dash_2.png)
 
 **3** Click on apply filters to add Global filters and Lookups.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6132f122dcb8f6567b9b63f0fe51d8fca0de5e01/images/dash_3.png)
 
 ## Dashboard Filters Customization
 
-**4.** By adding Dashboard Filters you can allows user to view limited data.
-- ** Below are the field used while applying filters :**
+**4.** By adding Dashboard Filters you can allow user to view limited data.
+- ** Below are the fields used while applying filters :**
 - **Filter Name** identifier name to the filter applicable
 - **Filter Type** type of filter user (eg: string,date,number)
 - **Operator** filter operation that are applicable
@@ -102,5 +104,5 @@ To delete the Dashboard, Select the dashboard created and click on delete icon a
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTI3MDMzOF19
+eyJoaXN0b3J5IjpbLTE2Mjg4Mjc3ODRdfQ==
 -->
