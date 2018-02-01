@@ -27,7 +27,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 **Date :**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5fa6328b9abfbe65d455724bebbcbc68a461dadb/images/Date_math.png)
 
-Arthematic :
+Arithmetic :
 
 
 
@@ -71,5 +71,5 @@ Arthematic :
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzMzMzA2Ml19
+eyJoaXN0b3J5IjpbLTg3MDg5MzgwMl19
 -->
