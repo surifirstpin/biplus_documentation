@@ -4,7 +4,7 @@ Calculation is a statement or expression or a function operator which can be use
 
 Custom made mathematical operations.
 
-### Syntax for using math functionality
+### Syntax for using math functionality to check the number of working days in eaxch montg
 #math#
 bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE}) 
 
@@ -46,5 +46,5 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3ODYxMTEwXX0=
+eyJoaXN0b3J5IjpbLTE1MDMzMzQyMTNdfQ==
 -->
