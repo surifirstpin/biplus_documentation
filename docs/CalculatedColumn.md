@@ -29,7 +29,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 
 Arithmetic :
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4ff2d83df9f5ee0c3364f618b71007c262753717/images/Arithematic_math.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecac78d4d1b36abb3678a52b8e9d18aed7890ed/images/Arithematic_math.png)
 
 
 
@@ -70,5 +70,5 @@ Arithmetic :
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU5MDkyOTddfQ==
+eyJoaXN0b3J5IjpbLTYxMDM1Mzc2OV19
 -->
