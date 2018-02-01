@@ -53,14 +53,18 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  sum | Compute the sum of a matrix or a list with values. | sum(2, 1, 4, 3) = 10 |
 |  var | Compute the variance of a matrix or a list with values. | var(2, 4, 6) = 4, var([2, 4, 6, 8], 'uncorrected') = 5, |
 
-Bit-wise Operators:
-bitAnd	Bitwise AND two values, x & y. Ex. bit And(x, y)	bitAnd(53, 131) = 1
-bitNot	"	Bitwise NOT value, ~x."	bitNot(1) = -2, bitNot([2,-3,4]) = [-3,2,5]
-bitOr	Bitwise OR two values, x | y.	bitOr(1,2) = 3, bitOr([1,2,3],4) = [5,6,7]
-bitXor     	Bitwise XOR two values, x ^ y.	bitXor(1, 2) = 3, bitXor([2, 3, 4], 4) = [6,7,0]
-leftShift	Bitwise left logical shift of a value x by y number of bits, x << y.	leftShift(1, 2) = 4, leftShift([1, 2, 3], 4) =  [16, 32, 64]
-rightArithShift	Bitwise right arithmetic shift of a value x by y number of bits, x >> y.	rightArithShift(4, 2) = 1, rightArithShift([16, -32, 64], 4) = [1, -2, 3]
-rightLogShift	Bitwise right logical shift of value x by y number of bits, x >>> y.	rightLogShift(4, 2) = 1, rightLogShift([16, -32, 64], 4) = [1, 2, 3]
+**Date**
+
+|  **Name** | **Description** | **Example** |
+|  ------ | ------ | ------ |
+|  date_to_week | Returns the number of current day week in the year | date_to_week(Give reference to month_date)   |
+|  date_to_quarter | Returns the Quarter number for current date or the month parameter given inside () | date_to_quarter-> it returns quarter number like Q1,Q2,Q3,Q4 |
+|  date_to_year | Returns the Year value for current date or the month parameter given inside () | date_to_year("2017-10-22")   it returns  only  year = 2017 |
+|  date_to_month | Returns the Month Number for current date or the month parameter given inside () | date_to_month("2017-10-23")--> it returns month number = 10 |
+|  date_format | Returns the required format of a date parameter mentioned after it & inside () | date_format(To_date,'YYYY-MM-DD') |
+|  date_diff | Returns the number of days between two dates given inside () | date_diff("2017-10-20" to "2017-10-23") = 3 |
+|  days_in_month | Returns the total number of days completed in the present month including today | days_in_month (january) = 31 |
+|  days_till_month | Returns the total number of days completed in the present month including today | days _till_month(october) = 23 it shows  how many days completed in given month |
 
 **Arithmatic :**
 
@@ -246,5 +250,5 @@ rightLogShift	Bitwise right logical shift of value x by y number of bits, x >>> 
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzI1NjA3XX0=
+eyJoaXN0b3J5IjpbLTEzNTE4OTQ5NjNdfQ==
 -->
