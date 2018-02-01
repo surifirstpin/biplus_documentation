@@ -95,8 +95,8 @@ To maximize a specific report click on the maximize icon in the tool bar of the 
 
 ## Home Page Display Option
 
-Using BI+ Plus you can set the Dashboard to home page to have dai
+Using BI+ Plus you can set the Dashboard to home page to have a lo
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDQ5ODA2NV19
+eyJoaXN0b3J5IjpbMTQ1Nzk4MDUxXX0=
 -->
