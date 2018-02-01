@@ -78,7 +78,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  rightArithShift | Bitwise right arithmetic shift of a value x by y number of bits, x >> y. | rightArithShift(4, 2) = 1, rightArithShift([16, -32, 64], 4) = [1, -2, 3] |
 |  rightLogShift | Bitwise right logical shift of value x by y number of bits, x >>> y. | rightLogShift(4, 2) = 1, rightLogShift([16, -32, 64], 4) = [1, 2, 3] |
 
-**Arithmatic :**
+**Arithmetic :**
 
 |  **Name** | **Description** | **Example** |
 |  ------ | ------ | ------ |
@@ -273,5 +273,5 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzUwNzM1N119
+eyJoaXN0b3J5IjpbMTY4MDY3MzI1NV19
 -->
