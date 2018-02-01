@@ -65,7 +65,9 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  date_diff | Returns the number of days between two dates given inside () | date_diff("2017-10-20" to "2017-10-23") = 3 |
 |  days_in_month | Returns the total number of days completed in the present month including today | days_in_month (january) = 31 |
 |  days_till_month | Returns the total number of days completed in the present month including today | days _till_month(october) = 23 it shows  how many days completed in given month |
+
 **Bit-wise Operators**
+
 |  **Name** | **Description** | **Example** |
 |  ------ | ------ | ------ |
 |  bitAnd | Bitwise AND two values, x & y. Ex. bit And(x, y) | bitAnd(53, 131) = 1 |
@@ -110,6 +112,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  subtract | Subtract two values, x - y. |  subtract (4-3) = 1 |
 |  unaryPlus | Unary plus operation. | unaryPlus(3.44) = 3.44 , unary Plus(40 - 6) = 34 |
 |  xgcd | Calculate the extended greatest common divisor for two values. | xgcd(a,b) where div = gcd(a,b) and a*m + b*n = div, xgcd(8,12) = [4,-1,1], gcd(8,12) = 4 |
+
 **Matrix :**
 
 |  Name | **Description** | **Example** |
@@ -139,17 +142,20 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  zeros | 	Create a matrix filled with zeros. | var A = [[1, 2, 3], [4, 5, 6]];<br/>zeros(size(A)); = [[0, 0, 0], [0, 0, 0]] |
 
 **Geometry**:
+
 |  Name | **Description** | **Example** |
 |  ------ | ------ | ------ |
 |  distance | Calculates: The eucledian distance between two points in 2 and 3 dimensional spaces. | distance([x1, y1], [x2, y2]) = distance([0,0], [4,4]) = 5.6569. |
 
 **String:**
+
 |  Name | **Description** | **Example** |
 |  ------ | ------ | ------ |
 |  format | Format a value of any type into a string. | format(6.4) = '6.4',format(21385, 2) = '21000' |
 |  print | Interpolate values into a string template | print('Lokes is $age years old', {age: 8}); 'Lokesh is 8 years old' |
 
 **Relational**
+
 |  Name | **Description** | **Example** |
 |  ------ | ------ | ------ |
 |  compare | Compare two values. | compare(6> 1) = 1,compare(2 < 3) = -1,compare(7 = 7) = 0,it returns only 1,-1,0 |
@@ -267,5 +273,5 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDM5MTEzOV19
+eyJoaXN0b3J5IjpbLTUxNzUwNzM1N119
 -->
