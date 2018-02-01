@@ -22,6 +22,17 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 Similarly we can use all the below functionality Using Bi+:
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## Usage of #math#plugin# for Grid View
 
             welcome to Biplus
@@ -57,5 +68,5 @@ Similarly we can use all the below functionality Using Bi+:
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTc3MDQwMF19
+eyJoaXN0b3J5IjpbMTY2NzgyMTE1OF19
 -->
