@@ -38,6 +38,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  col_running_avg | You use the AVERAGE function. The only trick you need to apply is to make your range changing continuously. | col_running_avg(#{col_name}) |
 
 **Statistics**
+
 |  Name | **Description** | **Example** |
 |  ------ | ------ | ------ |
 |  unequal | Test whether two values are unequal. | math.unequal(2 + 2, 3) = true, math.unequal(2+3,5) = false;  |
@@ -51,7 +52,13 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  std | Compute the standard deviation of a matrix or a list with values. | x = (6,2,3,1),xbar = 6+2+3+1/4 = 3,​SD = root<code>&amp;#124;</code>x-xbar<code>&amp;#124;</code>^2/n,SD = 1.87<br/>xbar = mean |
 |  sum | Compute the sum of a matrix or a list with values. | sum(2, 1, 4, 3) = 10 |
 |  var | Compute the variance of a matrix or a list with values. | var(2, 4, 6) = 4, var([2, 4, 6, 8], 'uncorrected') = 5, |
+**String:**
+|  Name | **Description** | **Example** |
+|  ------ | ------ | ------ |
+|  format | Format a value of any type into a string. | format(6.4) = '6.4',format(21385, 2) = '21000' |
+|  print | Interpolate values into a string template | print('Lokes is $age years old', {age: 8}); 'Lokesh is 8 years old' |
 **Trignometry:**
+
 |  Name | **Description** | **Example** |
 |  ------ | ------ | ------ |
 |  acos | Calculate the inverse cosine of a value. | acos(0.5) = 1.0471975511965979, acos(cos(1.5)) =1.5 |
@@ -149,5 +156,5 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzk1OTM1MF19
+eyJoaXN0b3J5IjpbMTg0Nzg4MDM0OF19
 -->
