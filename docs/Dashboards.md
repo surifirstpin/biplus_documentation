@@ -32,14 +32,12 @@ Select Dashboard Section and click on New Dashboards button.
 - **Referred** used to refer predefined filter for the following filters 
 
 **6.** Report Listeners allows you to apply filters to reports selected in Dashboard.
-
 **Dashboard Report** Select the report for adding filters
 **Listen Filter** refers to filter option available
 **Apply to field** will allows you apply the filter options to available field list in report 
 **Add Listener** allows you to add multiple filters to reports
 
 ## Privacy & Share Option
-
 **7.** Click on save and fill the below fields to save dashboard.
 - **Name** name identifier for dashboard created
 - **Title** title to refer the dashboard
@@ -49,12 +47,11 @@ Select Dashboard Section and click on New Dashboards button.
 Click on **save** to save dashboard created.
 
 ## Edit   Dashboard 
-
    To Edit the dashboard Select the dashboard created and Click on **Edit** Button. 
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/32cd07ab577aaece73d4b9b7f53010680bda5fa0/images/edit_dash2.png)
    
 It will navigate to Dashboard created. 
-**9.** Click on Apply Filters.
+**9.**  Click on Apply Filters.
 **10.** Click on Add Listener to add more filters to dashboard created.
 **11.** Click on **Save** button to save the changes made.
 
@@ -103,5 +100,5 @@ To delete the Dashboard, Select the dashboard created and click on delete icon a
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQ2MjcyMTFdfQ==
+eyJoaXN0b3J5IjpbLTQ1MTEzNTc1XX0=
 -->
