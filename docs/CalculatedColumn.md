@@ -13,6 +13,7 @@ Check the number of working days in each month:
 bi.days_in_month
 (${ROOT.BI_ORDERS.date_month_WHENMADE}) 
 ```
+```
 
 
 
@@ -52,5 +53,5 @@ bi.days_in_month
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5NTE5MjQ1XX0=
+eyJoaXN0b3J5IjpbLTE2MzU2MzEzMjNdfQ==
 -->
