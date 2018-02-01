@@ -18,7 +18,6 @@ Select Dashboard Section and click on New Dashboards button.
 ## Dashboard Filters Customization
 
 **4.** By adding Dashboard Filters you can allow user to view limited data.
-- ** Below are the fields used while applying filters :**
 - **Filter Name** identifier name to the filter applicable
 - **Filter Type** type of filter user (eg: string,date,number)
 - **Operator** filter operation that are applicable
@@ -104,5 +103,5 @@ To delete the Dashboard, Select the dashboard created and click on delete icon a
 
            welcome to Biplus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg4Mjc3ODRdfQ==
+eyJoaXN0b3J5IjpbLTE3MDQ2MjcyMTFdfQ==
 -->
