@@ -247,6 +247,8 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 
 ## Arithmetic & Logical operations on Data Fields
 
+You can perform Arithmetic operation to the desired fields.
+
 
 ## Usage of Global Functions with paramerts from Data Fields
 
@@ -273,5 +275,5 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1NDUzNjQzXX0=
+eyJoaXN0b3J5IjpbMTc4MDMzNzUzN119
 -->
