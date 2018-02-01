@@ -190,7 +190,9 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  sinh | Calculate the hyperbolic sine of a value, defined as sinh(x) = 1/2 * (exp(x) - exp(-x)). | sinh(30) = 5343237290762.231 sinh(x) = 1/2 * (exp(x) - exp(-x)) where  x = 30 |
 |  tan | Calculate the tangent of a value. | tan(45) = 1 |
 |  tanh | Calculate the hyperbolic tangent of a value, defined as tanh(x) = (exp(2 * x) - 1) / (exp(2 * x) + 1). | tanh(90) = 1,  tanh(90) = (exp(2 * x) - 1) / (exp(2 * x) + 1).  where x = 90 |
- 
+ **Unit**
+ |  Name | **Description** | **Example** |
+|  ------ | ------ | ------ |
  **Utils**
 
 |  Name | **Description** | **Example** |
@@ -260,5 +262,5 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDMwODgzNF19
+eyJoaXN0b3J5IjpbLTE3NTc5NzY0OTddfQ==
 -->
