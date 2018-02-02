@@ -50,6 +50,7 @@ Line type displays the information as a series of data points called markers.for
 - **Arc field**
 - **Curve**
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8c388ee908e66225a1da14cb36218e1a29087ff1/images/radar_chart.png)
 **Bi+ provide the following standard editing options for all the charts:**
 **01.General Section :**
 - **Title**  provides a label or identifier title for chart, align them on any side of the chart. 
@@ -108,5 +109,5 @@ Line type displays the information as a series of data points called markers.for
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4MjM5NTA5XX0=
+eyJoaXN0b3J5IjpbLTI5MTU1NDQ4OF19
 -->
