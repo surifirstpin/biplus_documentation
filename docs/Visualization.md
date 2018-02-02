@@ -10,10 +10,10 @@ Bi+ enables you to visualize the data in 9 different chart types.
 **01.General Section :**
 - **Title**  provides a label or identifier for chart, align them in top,bottom,left,right position. 
 - **Padding** sets the spacing at the top,bottom,left and right side of the charts.
-**02.Data Section
-Row Grouping are used to cluster the field value side-by-side in charts
-Explore Enabled 
-Stacked are used weather to stack the values at y-axis 
+**02.Data Section**
+- **Row Grouping** are used to cluster the field value side-by-side in charts.
+- **Explore Enabled**
+- **Stacked are used weather to stack the values at y-axis 
 Datasets specifies the alignment,formats,currency,number of y-axis and grouping of aggregates for the legends used in the visualisation menu
  X-Axis Section
 Axis type type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column,timeframe refer to the timeformat of the data
@@ -58,5 +58,5 @@ Icon help you to set the icon for the condition value before or after the number
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzIyMTk4Ml19
+eyJoaXN0b3J5IjpbNzkxMDQxNDczXX0=
 -->
