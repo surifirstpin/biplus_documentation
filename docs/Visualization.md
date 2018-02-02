@@ -31,7 +31,7 @@ Line type displays the information as a series of data points called markers.for
 ### Radar chart in visualization menu:
 -**Tooltips**
 -**Grouped Tooltips**
--**Points** enable sets the pointers at the field values using the point styles Circle, T
+-**Points** enable pointers at the field values using the point styles Circle, T
 riangle,Reet,RectRot,Cross,Cross Rot,Star,Line,Dash
 Legend
 Show legend to view the field column at top,bottom,left and right side of the chart
@@ -100,5 +100,5 @@ Curve
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjkxMDM3OTNdfQ==
+eyJoaXN0b3J5IjpbLTE0ODY4Nzg1ODldfQ==
 -->
