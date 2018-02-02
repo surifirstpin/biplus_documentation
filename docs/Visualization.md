@@ -2,6 +2,7 @@
 
 Bi+ enables you to visualize the data in 9 different chart types.
 Under visualization section Click on **charts** tab to view the pictorial representation of data.
+
 Biplus provide the following standard editing options for all the charts:
 
 General Section
@@ -55,5 +56,5 @@ Icon help you to set the icon for the condition value before or after the number
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NzI4MTEwMV19
+eyJoaXN0b3J5IjpbMTEyMzg5OTU3XX0=
 -->
