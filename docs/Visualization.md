@@ -49,7 +49,7 @@ Below are the list of markers used in Bi+,
 - **Show ticklabels** displays the points in y-axis.
 - **Show arc lines** points the dimension fields in radar chart.
 - **Arc field** select the dimension field to apply arc lines.
-- **Curve**
+- **Curve** to maximum and minimize the measure values.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8c388ee908e66225a1da14cb36218e1a29087ff1/images/radar_chart.png)
 
@@ -59,7 +59,7 @@ Below are the list of markers used in Bi+,
 
 ## Funnel chart in visualization menu:
 
-You can view the funnel charts using different formats available in Bi+ for instance,
+You can view the funnel charts using different formats
  - Sort 
  - Curved
  -  Pinched 
@@ -148,5 +148,5 @@ Negative Cutoff
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTcyNTQ4NV19
+eyJoaXN0b3J5IjpbNDg5OTMwODM4XX0=
 -->
