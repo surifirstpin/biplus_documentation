@@ -87,7 +87,7 @@ You can view the funnel charts using different formats
 ## Widget chart in visualization menu and operations applicable:
 -**Value** select the measure value.
 -**Format** select the number format.
--**Previous value** select the measure value to apply 
+-**Previous value** select the measure value 
 -**Change**
 -**Show growth**
 -**Style** set different style formats from the option provided.
@@ -148,5 +148,5 @@ Negative Cutoff
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3NDQ2MzI1XX0=
+eyJoaXN0b3J5IjpbLTEzMjI5NzkzNl19
 -->
