@@ -49,10 +49,24 @@ Line type displays the information as a series of data points called markers.for
 - **Show arc lines**
 - **Arc field**
 - **Curve**
-
+- 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8c388ee908e66225a1da14cb36218e1a29087ff1/images/radar_chart.png)
 
 Bubble chart in visualization menu:
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ec5924d5adfe6b89f890004c73f4af93ab62f8c6/images/bubble_chart.png)
+
+
+### Funnel chart in visualization menu:
+
+You can view the funnel charts using different formats available in Biplus for instance,
+Sort
+Curved
+Pinched
+Inverted
+Highlight on Hover
+Dynamic Height
+Dynamic Slop
+Load Animation
 
 **Bi+ provide the following standard editing options for all the charts:**
 **01.General Section :**
@@ -112,5 +126,5 @@ Bubble chart in visualization menu:
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4NjQxMjg2XX0=
+eyJoaXN0b3J5IjpbNDY5NjE0NjQ5XX0=
 -->
