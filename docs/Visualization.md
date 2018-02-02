@@ -120,6 +120,7 @@ Negative Cutoff
 - **Datasets** specifies the alignment,formats,currency,number of y-axis and grouping of aggregates for the legends used in the visualization menu.
 
 ## Multiple X- Axis functionality
+
 - **Axis type** type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column,timeframe refer to the time-format of the data.
 -**Label field** select the field name for which you want to display the field values in x-axis.
 -**Show grid** enables grid display for the field values selected. 
@@ -143,5 +144,5 @@ Negative Cutoff
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODMwNTMwNF19
+eyJoaXN0b3J5IjpbLTYxMzQ0NDYwMl19
 -->
