@@ -22,7 +22,7 @@ Line type displays the information as a series of data points called markers.for
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/50d8394be0b51c1be62b6a079fd7d0a88a35fa82/images/bar_chart.png)
 
 ### Pie chart in visualization menu :
-- **Show percentage**  you can view the percentage for pie.
+- **Show percentage**  displays percentage for pie.
 - **Polar area** displays data in polar area view.
 - **Donut** displays data in  donut view.
 
@@ -86,5 +86,5 @@ Line type displays the information as a series of data points called markers.for
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzk2OTk4NF19
+eyJoaXN0b3J5IjpbLTIwNTc1NTMwOThdfQ==
 -->
