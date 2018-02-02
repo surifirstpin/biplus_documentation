@@ -108,7 +108,7 @@ You can view the funnel charts using different formats
 - **Color** choose the color you want to apply on field.
 - **From & To** select the data field range to be colored.
 - **Negative Cutoff** enabled when negatives values are applicable.
-- ** Negative color-from & to** 
+- ** Negative color-from & to** Specify colour for negative values.
 
 ## Standard Editing options in visualization menu:
 
@@ -148,5 +148,5 @@ You can view the funnel charts using different formats
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzMzQzNTgyXX0=
+eyJoaXN0b3J5IjpbMzM1MDMzNDk5XX0=
 -->
