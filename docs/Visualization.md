@@ -47,8 +47,8 @@ Below are the list of markers used in Bi+,
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 - **Reverse scale** reverses the chart  
 - **Show ticklabels** displays the points in y-axis.
-- **Show arc lines**
-- **Arc field**
+- **Show arc lines** points the dimension fields in radar chart.
+- **Arc field** enables for which column field the arc lines shoukld point
 - **Curve**
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8c388ee908e66225a1da14cb36218e1a29087ff1/images/radar_chart.png)
@@ -148,5 +148,5 @@ Negative Cutoff
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODg0MjcyOF19
+eyJoaXN0b3J5IjpbMTY4MzUxNDgxNl19
 -->
