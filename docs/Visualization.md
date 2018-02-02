@@ -149,21 +149,6 @@ Negative Cutoff
 -**Icon** Select a icon for for the data retrieved based on condition.
 -**Before number** Align the icon before or after the data.
 
-
-## Legend On/Off ability
-
-           welcome to Biplus  
-
-## Growth Indicator for Widget Chart
-
-           welcome to Biplus
-
-## Include Zero or Not
-
-      
-
-          welcome to Biplus
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzA3ODIyOF19
+eyJoaXN0b3J5IjpbLTQ2NTkyMjg3M119
 -->
