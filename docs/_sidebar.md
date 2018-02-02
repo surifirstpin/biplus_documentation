@@ -7,7 +7,7 @@
   - [Views](Views.md)
 
 - Visualize
-  - [Data & Run](DataRun.md)  
+  - [Data Analysis](DataRun.md)  
   - [Calculated Column](CalculatedColumn.md)
   - [Visualization](Visualization.md)
   - [Saving Reports](SavingReports.md)
