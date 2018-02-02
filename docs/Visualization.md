@@ -89,7 +89,7 @@ You can view the funnel charts using different formats available in Bi+ for inst
 -**Previous value**
 -**Change**
 -**Show growth**
--**Style Set** different style formats from the option provided
+-**Style** set different style formats from the option provided.
 
 **Bi+ provide the following standard editing options for all the charts:**
 **01.General Section :**
@@ -149,5 +149,5 @@ You can view the funnel charts using different formats available in Bi+ for inst
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDAxMjg5Nl19
+eyJoaXN0b3J5IjpbLTQyMDg2MTcyNF19
 -->
