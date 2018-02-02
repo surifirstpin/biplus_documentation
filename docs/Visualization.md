@@ -5,7 +5,7 @@ Bi+ enables you to visualize the data in 9 different chart types.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3710ac3eed2b9f9c4f8cee76118256359b3e83cc/images/charts.png)
 
-### Line Chart in visualization menu:
+## Line Chart in visualization menu:
 
 Line type displays the information as a series of data points called markers.for instance BiPlus uses 
 - Spline 
@@ -17,18 +17,18 @@ Line type displays the information as a series of data points called markers.for
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d3d4eada165eae0a50c4611ea26492aa4955d2b7/images/line_chart.png)
 
-### Bar chart in visualization menu:
+## Bar chart in visualization menu:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/50d8394be0b51c1be62b6a079fd7d0a88a35fa82/images/bar_chart.png)
 
-### Pie chart in visualization menu :
+## Pie chart in visualization menu :
 - **Show percentage**  displays percentage for pie.
 - **Polar area** displays data in polar area view.
 - **Donut** displays data in  donut view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c66214b2148edec3d66478d025613df820473d76/images/pie_chart.png)
 
-### Radar chart in visualization menu :
+## Radar chart in visualization menu :
 
 - **Tooltips**
 - **Grouped Tooltips**
@@ -52,11 +52,11 @@ Line type displays the information as a series of data points called markers.for
 - 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8c388ee908e66225a1da14cb36218e1a29087ff1/images/radar_chart.png)
 
-Bubble chart in visualization menu:
+## Bubble chart in visualization menu:
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ec5924d5adfe6b89f890004c73f4af93ab62f8c6/images/bubble_chart.png)
 
 
-### Funnel chart in visualization menu:
+## Funnel chart in visualization menu:
 
 You can view the funnel charts using different formats available in Bi+ for instance,
  - Sort 
@@ -69,7 +69,7 @@ You can view the funnel charts using different formats available in Bi+ for inst
  - Load Animation
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d696d15bd213206d95a7c0ba73396857aeb0e7de/images/funnel_chart.png)
 
-### Gauge chart in visualization menu:
+##  Gauge chart in visualization menu:
 
 - **Value** select the field value to carry out the operations
 - **Min** displays minimum value measure field.
@@ -79,7 +79,7 @@ You can view the funnel charts using different formats available in Bi+ for inst
 - **Reverse** Displays maximum to minimum value.
 - **Hide Minmax**  hides min and maximum value
 
-### Table chart in visualization menu:
+## Table chart in visualization menu:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/717c0f965ba7ecb18b850c5be7da86e667de298b/images/table_chart.png)
 
@@ -165,5 +165,5 @@ Negative Cutoff
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTcyNDgyNzNdfQ==
+eyJoaXN0b3J5IjpbMTU0MzA3ODIyOF19
 -->
