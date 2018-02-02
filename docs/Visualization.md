@@ -5,7 +5,7 @@ Bi+ enables you to visualize the data in 9 different chart types.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3710ac3eed2b9f9c4f8cee76118256359b3e83cc/images/charts.png)
 
-Biplus provide the following standard editing options for all the charts:
+**Biplus provide the following standard editing options for all the charts:
 
 General Section
 Title label for chart and align them in top,bottom,left,right position 
@@ -58,5 +58,5 @@ Icon help you to set the icon for the condition value before or after the number
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1NTgzNzgwXX0=
+eyJoaXN0b3J5IjpbODE0OTk5NzE2XX0=
 -->
