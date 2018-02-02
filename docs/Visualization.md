@@ -31,7 +31,7 @@ Bi+ enables you to visualize the data in 9 different chart types.
 - **Reference Line** allows you to refer specific range of values by applying colours and label to the same.
 
 **05.Format Section :**      
-Condition BiPlus set the condition on field values
+- **Condition** enables you to apply condition on column fields.
 Format on used to set the format on particular column field
 Value  specify the condition for which you want to apply the format
 BG help you set the background colour to condition value
@@ -64,5 +64,5 @@ Icon help you to set the icon for the condition value before or after the number
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQxNDIyMTRdfQ==
+eyJoaXN0b3J5IjpbLTIwMTAxMzE2ODJdfQ==
 -->
