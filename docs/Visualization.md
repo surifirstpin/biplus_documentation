@@ -84,11 +84,12 @@ You can view the funnel charts using different formats available in Bi+ for inst
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/717c0f965ba7ecb18b850c5be7da86e667de298b/images/table_chart.png)
 
 ### Widget chart in visualization menu and operations applicable:
-Format   choose suitable number formats
-Previous value
-Change
-Show growth
-Style Set different style formats from the option provided
+
+-**Format** choose suitable number formats
+-**Previous value**
+-**Change**
+-**Show growth**
+-**Style Set** different style formats from the option provided
 
 **Bi+ provide the following standard editing options for all the charts:**
 **01.General Section :**
@@ -148,5 +149,5 @@ Style Set different style formats from the option provided
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTkxOTg0MV19
+eyJoaXN0b3J5IjpbLTE4MDAxMjg5Nl19
 -->
