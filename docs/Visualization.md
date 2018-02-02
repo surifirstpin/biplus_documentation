@@ -17,6 +17,8 @@ Line type displays the information as a series of data points called markers.for
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d3d4eada165eae0a50c4611ea26492aa4955d2b7/images/line_chart.png)
 
+### Bar chart in visualization menu:
+
 **Bi+ provide the following standard editing options for all the charts:**
 **01.General Section :**
 - **Title**  provides a label or identifier title for chart, align them on any side of the chart. 
@@ -75,5 +77,5 @@ Line type displays the information as a series of data points called markers.for
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTk4MTQ4Ml19
+eyJoaXN0b3J5IjpbMjAzMzgxOTE3MF19
 -->
