@@ -106,8 +106,9 @@ You can view the funnel charts using different formats
 - **Tip Fields** select numbers of data fields to be displayed on map.
 - **Color Field** select the data field you want to colour.
 - **Color** choose the color you want to apply on field.
-- **From & To** select the data field range to be colored
+- **From & To** select the data field range to be colored.
 - **Negative Cutoff** enabled when negatives values are applicable.
+- **
 
 ## Standard Editing options in visualization menu:
 
@@ -147,5 +148,5 @@ You can view the funnel charts using different formats
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyMzMxODU3XX0=
+eyJoaXN0b3J5IjpbNDE2MDAzNDc2XX0=
 -->
