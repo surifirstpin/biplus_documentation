@@ -6,6 +6,7 @@ Bi+ enables you to visualize the data in 9 different chart types.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3710ac3eed2b9f9c4f8cee76118256359b3e83cc/images/charts.png)
 
 ### Line Chart in visualization menu:
+
 Line type displays the information as a series of data points called markers.for instance BiPlus uses 
 - Spline 
 - Step
@@ -73,5 +74,5 @@ Line type displays the information as a series of data points called markers.for
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTM2MTIyOTVdfQ==
+eyJoaXN0b3J5IjpbMTY4OTEyNTEzMV19
 -->
