@@ -75,9 +75,11 @@ You can view the funnel charts using different formats available in Bi+ for inst
 - **Min** displays minimum value measure field.
 - **Max** displays maximum value of measure field.
 - **Donut** to displays total measure value.
-- **Counter**
+- **Counter** to display all 
 - **Reverse** Displays maximum to minimum value.
 - **Hide Minmax**  hides min and maximum value
+
+### Table chart in visualization menu:
 
 
 **Bi+ provide the following standard editing options for all the charts:**
@@ -138,5 +140,5 @@ You can view the funnel charts using different formats available in Bi+ for inst
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTM3NzE1Nl19
+eyJoaXN0b3J5IjpbLTYzMjYwNzEyN119
 -->
