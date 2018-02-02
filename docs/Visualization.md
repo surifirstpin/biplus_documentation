@@ -1,8 +1,8 @@
 ## 9 different chart type
 
 Bi+ enables you to visualize the data in 9 different chart types.
-Under visualization section Click on **charts** tab to view the pictorial representation of data.
-
+**1.** Under visualization section Click on **charts** tab to view the pictorial representation of data.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3710ac3eed2b9f9c4f8cee76118256359b3e83cc/images/charts.png)
 Biplus provide the following standard editing options for all the charts:
 
 General Section
@@ -56,5 +56,5 @@ Icon help you to set the icon for the condition value before or after the number
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzg5OTU3XX0=
+eyJoaXN0b3J5IjpbMjgyODA0NTQ1XX0=
 -->
