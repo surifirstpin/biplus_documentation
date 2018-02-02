@@ -22,7 +22,7 @@ Bi+ enables you to visualize the data in 9 different chart types.
 -**Label field** select the field name for which you want to display the field values in x-axis.
 -**Show grid** enables grid display for the field values selected. 
 -**Axis label** provide label option in x-axis of the chart.
--**Reference Line** is used to refer the particular values by coloring and this is optional
+-**Reference Line** you can refer to specific values , you can display this usi
 Y-Axis section
 Axis type type of axis used in charts
 Label field Label the field name in Y-axis using grid display, including or excluding zero and aligning left or right position to y-axis
@@ -61,5 +61,5 @@ Icon help you to set the icon for the condition value before or after the number
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Nzc5Njc5NV19
+eyJoaXN0b3J5IjpbLTQ4MTQ0MTg2Ml19
 -->
