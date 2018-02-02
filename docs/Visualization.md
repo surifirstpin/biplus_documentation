@@ -28,11 +28,13 @@ Line type displays the information as a series of data points called markers.for
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c66214b2148edec3d66478d025613df820473d76/images/pie_chart.png)
 
-### Radar chart in visualization menu:
+### Radar chart in visualization menu
+
 -**Tooltips**
 -**Grouped Tooltips**
--**Points** enable pointers at the field values using the point styles Circle, T
-riangle,Reet,RectRot,Cross,Cross Rot,Star,Line,Dash
+-**Points** enable pointers at the field values using the following point styles ;
+  - 
+  - Circle, Triangle,Reet,RectRot,Cross,Cross Rot,Star,Line,Dash
 Legend
 Show legend to view the field column at top,bottom,left and right side of the chart
 Reverse
@@ -100,5 +102,5 @@ Curve
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY4Nzg1ODldfQ==
+eyJoaXN0b3J5IjpbMTA5NTk0MDEzXX0=
 -->
