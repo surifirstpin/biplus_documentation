@@ -99,7 +99,7 @@ You can view the funnel charts using different formats
 **Editing options in World chart :**
 
 -**Title** name identifier for the world chart.
--**Flat Map** enables the "2D" vision of the chart.
+-**Flat Map**enables the "2D" vision of the chart.
 - **Default**set default colour to display countries.
 - **Over Border**apply colour to the border.
 - **Data Field**	
@@ -148,5 +148,5 @@ Negative Cutoff
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4NjYwMTQ2XX0=
+eyJoaXN0b3J5IjpbLTIwMDc5MTkyNjZdfQ==
 -->
