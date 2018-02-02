@@ -50,7 +50,7 @@ Below are the list of markers used in Bi+,
 - **Show arc lines**
 - **Arc field**
 - **Curve**
-- 
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8c388ee908e66225a1da14cb36218e1a29087ff1/images/radar_chart.png)
 
 ## Bubble chart in visualization menu:
@@ -148,5 +148,5 @@ Negative Cutoff
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjY5MTA2MjRdfQ==
+eyJoaXN0b3J5IjpbMTUyOTU1NTMzXX0=
 -->
