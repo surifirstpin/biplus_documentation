@@ -19,8 +19,8 @@ Line type displays the information as a series of data points called markers.for
 
 **Bi+ provide the following standard editing options for all the charts:**
 **01.General Section :**
-- **Title**  provides a label or identifier for chart, align them in all directions. 
-- **Padding** sets the spacing in all directions.
+- **Title**  provides a label or identifier title for chart, align them on any side of the chart. 
+- **Padding** sets the spacing in any side of the chart.
 
 **02.Data Section :**
 - **Row Grouping** are used to cluster the field value side-by-side in charts.
@@ -75,5 +75,5 @@ Line type displays the information as a series of data points called markers.for
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjYwMzA4MDZdfQ==
+eyJoaXN0b3J5IjpbLTc2OTk4MTQ4Ml19
 -->
