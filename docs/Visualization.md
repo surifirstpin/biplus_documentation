@@ -76,7 +76,7 @@ You can view the funnel charts using different formats available in Bi+ for inst
 - **Max** maximum measure value
 - **Donut** displays total value
 - **Counter**
-- **Reverse** D
+- **Reverse** Displays
 - **Hide Minmax** to hide the min and maximum value
 
 
@@ -138,5 +138,5 @@ You can view the funnel charts using different formats available in Bi+ for inst
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjI5MjExM119
+eyJoaXN0b3J5IjpbLTQ4ODk4MjQ3Ml19
 -->
