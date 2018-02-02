@@ -42,7 +42,8 @@ Line type displays the information as a series of data points called markers.for
   - Star
   - Line
   - Dash
-- **Show legend to view the field column at top,bottom,left and right side of the chart
+- **Show legend**displays the measures values of the chart.
+- ** the  to view the field column at top,bottom,left and right side of the chart
 Reverse
 Reverse scale
 Show ticklabels
@@ -108,5 +109,5 @@ Curve
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM1NjE0NzldfQ==
+eyJoaXN0b3J5IjpbMTcwOTY0Mjk4XX0=
 -->
