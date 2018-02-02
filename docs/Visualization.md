@@ -122,7 +122,7 @@ Negative Cutoff
 - **Stacked** are used whether to stack the values at y-axis.
 - **Datasets** specifies the alignment,formats,currency,number of y-axis and grouping of aggregates for the legends used in the visualization menu.
 
-## Multiple X- Axis functionality
+## X- Axis functionality
 
 - **Axis type** type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column,timeframe refer to the time-format of the data.
 -**Label field** select the field name for which you want to display the field values in x-axis.
@@ -130,7 +130,7 @@ Negative Cutoff
 -**Axis label** provide label option in x-axis of the chart.
 -**Reference Line** allows you to refer specific range of values by applying colours and label to the same.
 
-## Multiple Y- Axis functionality
+##  Y- Axis functionality
 
 -**Axis type** refer to type of axis used in charts.
 -**Label field** select the field name for which you want to display the field values in Y-axis.
@@ -147,5 +147,5 @@ Negative Cutoff
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjU4NzE4N119
+eyJoaXN0b3J5IjpbMTY5MzE0NTEzM119
 -->
