@@ -96,7 +96,8 @@ You can view the funnel charts using different formats available in Bi+ for inst
 ## Map View
 
 #### World chart in visualization menu:
-< Editing options in World chart
+> Editing options in World chart :
+
 Flat Map
 Default
 Over
@@ -165,5 +166,5 @@ Negative Cutoff
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTUxMjUxMV19
+eyJoaXN0b3J5IjpbLTk1MjY0Mjc5NV19
 -->
