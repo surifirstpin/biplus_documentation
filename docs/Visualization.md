@@ -32,7 +32,7 @@ Below are the list of markers used in Bi+,
 ## Radar chart in visualization menu :
 
 - **Tooltips** points the first measure value from the data.
-- **Grouped Tooltips** points all the measure values of the colu
+- **Grouped Tooltips** points all the measure values of the column fiel
 - **Points** enables pointers at the field values using the following point styles ;
   - Circle
   -  Triangle
@@ -148,5 +148,5 @@ Negative Cutoff
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzE2Mjc4OTldfQ==
+eyJoaXN0b3J5IjpbMTY4NDQwOTc3OF19
 -->
