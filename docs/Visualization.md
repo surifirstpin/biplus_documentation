@@ -59,14 +59,9 @@ Bubble chart in visualization menu:
 ### Funnel chart in visualization menu:
 
 You can view the funnel charts using different formats available in Biplus for instance,
-Sort
-Curved
-Pinched
-Inverted
-Highlight on Hover
-Dynamic Height
-Dynamic Slop
-Load Animation
+
+ - Sort Curved Pinched Inverted Highlight on Hover Dynamic Height
+   Dynamic Slop Load Animation
 
 **Bi+ provide the following standard editing options for all the charts:**
 **01.General Section :**
@@ -126,5 +121,5 @@ Load Animation
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5NjE0NjQ5XX0=
+eyJoaXN0b3J5IjpbLTExMTUyODc0NjZdfQ==
 -->
