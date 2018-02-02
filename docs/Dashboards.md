@@ -3,6 +3,11 @@
 Dashboard provides  access to view multiple reports or charts on single screen layout,in this way you can get a quick view on the related data.in order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive.
 Select Dashboard Section and click on New Dashboards button.
 
+## Ability for Multiple Layouts
+
+Bi+ Provides you an opportunity to add multiple report layouts. Depending on the requirement ,
+Select the suitable Layout from given options available at the same time you can add or delete the reports from the selected layout. 
+
 **1.** Select the Desired Layout options available on page.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c5df381a6fdd5127a3590acfc32d28528ae62449/images/dash_1.png)
@@ -66,12 +71,6 @@ To delete the Dashboard, Select the dashboard created and click on **delete icon
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/666070bb576904871a67ced2eb5388f9bcd1e142/images/dash_del.png)
 
-## Ability for Multiple Layouts
-
-Bi+ Provides you an opportunity to add multiple report layouts. Depending on the requirement ,
-Select the suitable Layout from given options available at the same time you can add or delete the reports from the selected layout. 
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c9d6b6e9be883a4df0c62c47c8623392dc4e9e10/images/multiple_layout.png)
 
 
 
@@ -94,5 +93,5 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTIxNTE5XX0=
+eyJoaXN0b3J5IjpbNDAxODQwNzAzXX0=
 -->
