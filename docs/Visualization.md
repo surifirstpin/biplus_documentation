@@ -89,7 +89,7 @@ You can view the funnel charts using different formats
 -**Format** select the number format.
 -**Previous value** select the 2nd measure value to apply conditions.
 -**Change** choose the condition (difference,growth,none).
--**Show growth** displays the growth rate of selected 
+-**Show growth** displays the growth rate of selected measure fields.
 -**Style** set different style formats from the option provided.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/28fb94f1198bb83b0c3ecd8244bed8c91fef3f7f/images/widget_chart.png)
@@ -97,6 +97,7 @@ You can view the funnel charts using different formats
 ##  World chart in visualization menu:
 > Editing options in World chart :
 
+-**Title** selec
 Flat Map
 Default
 Over
@@ -148,5 +149,5 @@ Negative Cutoff
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjM0NzMxMF19
+eyJoaXN0b3J5IjpbLTEwMjU4NjgyMTJdfQ==
 -->
