@@ -32,9 +32,7 @@ Line type displays the information as a series of data points called markers.for
 
 - **Tooltips**
 - **Grouped Tooltips**
-- **Points enables pointers at the field values using the following point styles ;
-
-  - 
+- **Points** enables pointers at the field values using the following point styles ;
   - Circle
   -  Triangle
   - Reet
@@ -44,8 +42,7 @@ Line type displays the information as a series of data points called markers.for
   - Star
   - Line
   - Dash
-  - Legend
-Show legend to view the field column at top,bottom,left and right side of the chart
+- **Show legend to view the field column at top,bottom,left and right side of the chart
 Reverse
 Reverse scale
 Show ticklabels
@@ -111,5 +108,5 @@ Curve
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0ODc2MzU1XX0=
+eyJoaXN0b3J5IjpbLTEzMTM1NjE0NzldfQ==
 -->
