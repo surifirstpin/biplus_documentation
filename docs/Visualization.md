@@ -83,7 +83,7 @@ You can view the funnel charts using different formats available in Bi+ for inst
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/717c0f965ba7ecb18b850c5be7da86e667de298b/images/table_chart.png)
 
-### Widget chart in visualization menu and operations applicable:
+###Widget chart in visualization menu and operations applicable:
 
 -**Format** choose suitable number formats
 -**Previous value**
@@ -165,5 +165,5 @@ Negative Cutoff
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTAzMDUyMjZdfQ==
+eyJoaXN0b3J5IjpbMTA0NTI5Njk0Nl19
 -->
