@@ -15,6 +15,8 @@ Line type displays the information as a series of data points called markers.for
 - Area-Step
 - Scatter and uses spline as default line type
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d3d4eada165eae0a50c4611ea26492aa4955d2b7/images/line_chart.png)
+
 **Bi+ provide the following standard editing options for all the charts:**
 
 **01.General Section :**
@@ -74,5 +76,5 @@ Line type displays the information as a series of data points called markers.for
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTEyNTEzMV19
+eyJoaXN0b3J5IjpbMTA3MTc3MTE5NV19
 -->
