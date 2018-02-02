@@ -52,7 +52,7 @@ Click on **save** to save dashboard created.
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/32cd07ab577aaece73d4b9b7f53010680bda5fa0/images/edit_dash2.png)
    
 It will navigate to Dashboard created. 
-**9.**  Click on Apply Filters.
+**9.**   Click on Apply Filters.
 **10.** Click on Add Listener to add more filters to dashboard created.
 **11.** Click on **Save** button to save the changes made.
 
@@ -87,5 +87,5 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Mzc0NTAyNV19
+eyJoaXN0b3J5IjpbLTI1NDc0NTc3NV19
 -->
