@@ -200,3 +200,6 @@ You can directly apply pivot option in data output field.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTg0ODY5ODM1NSwtODMwOTgxODVdfQ==
 -->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTkxNTY5MTMxNl19
+-->
