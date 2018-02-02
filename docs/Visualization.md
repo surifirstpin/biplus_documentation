@@ -46,7 +46,7 @@ Below are the list of markers used in Bi+,
 - **Show legend** displays the measures values of the chart.
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 - **Reverse scale** reverses the chart  
-- **Show ticklabels**
+- **Show ticklabels** displays the points in y-axis.
 - **Show arc lines**
 - **Arc field**
 - **Curve**
@@ -148,5 +148,5 @@ Negative Cutoff
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTgyNDQxNDddfQ==
+eyJoaXN0b3J5IjpbLTQ3ODg0MjcyOF19
 -->
