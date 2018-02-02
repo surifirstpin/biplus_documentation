@@ -35,7 +35,7 @@ Line type displays the information as a series of data points called markers.for
 - **Points** enable pointers at the field values using the following point styles ;
   - 
   - Circle,
-  -  Triangle,
+  -  Triangle
   - Reet
   - RectRot
   - Cross
@@ -110,5 +110,5 @@ Curve
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTczNDU2MF19
+eyJoaXN0b3J5IjpbLTExNDcyNTQyMzBdfQ==
 -->
