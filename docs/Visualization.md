@@ -95,7 +95,8 @@ You can view the funnel charts using different formats
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/28fb94f1198bb83b0c3ecd8244bed8c91fef3f7f/images/widget_chart.png)
 
 ##  World chart in visualization menu:
-> Editing options in World chart :
+
+**Editing options in World chart :**
 
 -**Title** name identifier for the world chart.
 -**Flat Map** enables the "2D" vision of the chart.
@@ -148,5 +149,5 @@ Negative Cutoff
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODU0MDA3MjVdfQ==
+eyJoaXN0b3J5IjpbLTEzNDUzNDQzNTddfQ==
 -->
