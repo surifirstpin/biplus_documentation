@@ -19,7 +19,8 @@ Bi+ enables you to visualize the data in 9 different chart types.
 
 **03. X-Axis Section :**
 - **Axis type** type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column,timeframe refer to the time-format of the data.
-- **Label field** select the field name for which you want to check the Label the field name in x-axis using grid display
+- **Label field** select the field name for which you want to display the field values in x-axis.
+- **Show grid** enables grid display for the field values selected. using grid display
 Axis label used to provide label option to x-axis
 Reference Line is used to refer the particular values by colouring and this is optional
 Y-Axis section
@@ -60,5 +61,5 @@ Icon help you to set the icon for the condition value before or after the number
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5NDc1NDY5XX0=
+eyJoaXN0b3J5IjpbLTQ0OTA2ODExNF19
 -->
