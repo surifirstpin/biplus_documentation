@@ -7,7 +7,8 @@ Bi+ enables you to visualize the data in 9 different chart types.
 
 ## Line Chart in visualization menu:
 
-Line type displays the information as a series of data points called markers.for instance BiPlus uses 
+Line type displays the information as a series of data points called markers.
+Below are the list of markers used in Bi+, 
 - Spline 
 - Step
 - Area
@@ -147,5 +148,5 @@ Negative Cutoff
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzE0NTEzM119
+eyJoaXN0b3J5IjpbLTE2NjY5MTA2MjRdfQ==
 -->
