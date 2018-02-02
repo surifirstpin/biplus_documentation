@@ -5,10 +5,10 @@ Bi+ enables you to visualize the data in 9 different chart types.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3710ac3eed2b9f9c4f8cee76118256359b3e83cc/images/charts.png)
 
-**Biplus provide the following standard editing options for all the charts:
+**Bi+ provide the following standard editing options for all the charts:**
 
-General Section
-Title label for chart and align them in top,bottom,left,right position 
+**General Section :**
+- **Title** label for chart and align them in top,bottom,left,right position 
 Padding sets the spacing at the top,bottom,left and right side of the charts
 Data Section
 Row Grouping are used to cluster the field value side-by-side in charts
@@ -58,5 +58,5 @@ Icon help you to set the icon for the condition value before or after the number
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0OTk5NzE2XX0=
+eyJoaXN0b3J5IjpbLTk5NzUwNTkyNl19
 -->
