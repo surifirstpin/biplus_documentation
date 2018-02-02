@@ -28,7 +28,7 @@ Bi+ enables you to visualize the data in 9 different chart types.
 
 -**Axis type** refer to type of axis used in charts.
 -**Label field** select the field name for which you want to display the field values in Y-axis.
-- **Reference Line** allows you to referto specific range of values by applying colours,label to the same.
+- **Reference Line** allows you to refer specific range of values by applying colours,label to the same.
 Format Section      
 Condition BiPlus set the condition on field values
 Format on used to set the format on particular column field
@@ -63,5 +63,5 @@ Icon help you to set the icon for the condition value before or after the number
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDIxNzU2OF19
+eyJoaXN0b3J5IjpbODc5NjYyOTcxXX0=
 -->
