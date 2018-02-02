@@ -99,7 +99,7 @@ You can view the funnel charts using different formats
 
 -**Title** name identifier for the world chart.
 -**Flat Map** enables the 2D vision of the chart.
-Default
+- **Default** 
 Over
 Over Border
 Data Field	
@@ -116,7 +116,6 @@ Negative Cutoff
 
 - **Title**  provides a label or identifier title for chart, align them on any side of the chart. 
 - **Padding** sets the spacing in any side of the chart.
-- 
 ## Data Edits 
 
 - **Row Grouping** are used to cluster the field value side-by-side in charts.
@@ -149,5 +148,5 @@ Negative Cutoff
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODcyNDUxNF19
+eyJoaXN0b3J5IjpbLTE4NDY4OTM1OTZdfQ==
 -->
