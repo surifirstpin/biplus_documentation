@@ -44,11 +44,11 @@ Line type displays the information as a series of data points called markers.for
   - Dash
 - **Show legend** displays the measures values of the chart.
 - **Position** Align the legend at top,bottom,left and right side of the chart.
-- Reverse scale
-Show ticklabels
-Show arc lines
-Arc field
-Curve
+- **Reverse scale**
+- **Show ticklabels**
+- **Show arc lines**
+- **Arc field**
+- **Curve**
 
 **Bi+ provide the following standard editing options for all the charts:**
 **01.General Section :**
@@ -108,5 +108,5 @@ Curve
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0NTg5MzMzXX0=
+eyJoaXN0b3J5IjpbOTc4MjM5NTA5XX0=
 -->
