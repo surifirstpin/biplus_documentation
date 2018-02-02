@@ -12,7 +12,7 @@ Visualisation sections contains Dimension and measures which acts as fundamental
 **2.** Click on Run Button.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/visu_run.png)
 
-## Search option for getting fields
+## Search option to select the fields
 
 Views contain some set of fields, mostly dimensions and measures and they act as fundamental building blocks for Bi+ queries.
 Dimensions are list of fields that can be used for applying filter options, for instance:
@@ -198,5 +198,5 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODY5ODM1NV19
+eyJoaXN0b3J5IjpbNjEwNDcwMjk2XX0=
 -->
