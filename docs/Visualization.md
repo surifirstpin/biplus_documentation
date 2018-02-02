@@ -120,26 +120,19 @@ Negative Cutoff
 - **Datasets** specifies the alignment,formats,currency,number of y-axis and grouping of aggregates for the legends used in the visualization menu.
 
 ## Multiple X- Axis functionality
-
-**03. X-Axis Section :**
 - **Axis type** type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column,timeframe refer to the time-format of the data.
 -**Label field** select the field name for which you want to display the field values in x-axis.
 -**Show grid** enables grid display for the field values selected. 
 -**Axis label** provide label option in x-axis of the chart.
-
-
-## Reference Lines in Charts
-
 -**Reference Line** allows you to refer specific range of values by applying colours and label to the same.
 
 ## Multiple Y- Axis functionality
-**04. Y-Axis section :**
 
 -**Axis type** refer to type of axis used in charts.
 -**Label field** select the field name for which you want to display the field values in Y-axis.
 - **Reference Line** allows you to refer specific range of values by applying colours and label to the same.
 
-**05.Format Section :**      
+## Condition Format     
 
 -**Condition** Select the condition you want to apply on the field.
 -**Format on** Select the measure for which you want to set the format.
@@ -150,5 +143,5 @@ Negative Cutoff
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTkyMjg3M119
+eyJoaXN0b3J5IjpbMTUzODMwNTMwNF19
 -->
