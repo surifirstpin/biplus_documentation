@@ -32,7 +32,7 @@ Bi+ enables you to visualize the data in 9 different chart types.
 
 **05.Format Section :**      
 - **Condition** enables you to apply condition on column fields.
-Format on used to set the format on particular column field
+-**Format on** used to set the format on specific column field.
 Value  specify the condition for which you want to apply the format
 BG help you set the background colour to condition value
 Font help you set the font colour to condition value
@@ -64,5 +64,5 @@ Icon help you to set the icon for the condition value before or after the number
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTAxMzE2ODJdfQ==
+eyJoaXN0b3J5IjpbLTEyNTQxMjk2MzRdfQ==
 -->
