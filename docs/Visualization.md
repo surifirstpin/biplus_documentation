@@ -88,8 +88,8 @@ You can view the funnel charts using different formats
 -**Value** select the 1st measure value to apply the conditions.
 -**Format** select the number format.
 -**Previous value** select the 2nd measure value to apply conditions.
--**Change** choose the condition 
--**Show growth**
+-**Change** choose the condition (difference,growth,none).
+-**Show growth** displays the growth rate of se
 -**Style** set different style formats from the option provided.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/28fb94f1198bb83b0c3ecd8244bed8c91fef3f7f/images/widget_chart.png)
@@ -148,5 +148,5 @@ Negative Cutoff
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTE0MDU4Ml19
+eyJoaXN0b3J5IjpbLTg1MzI3NzE4N119
 -->
