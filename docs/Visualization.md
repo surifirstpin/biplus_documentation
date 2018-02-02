@@ -1,7 +1,7 @@
 ## 9 different chart type
 
 Bi+ enables you to visualize the data in 9 different chart types .
-Under visual
+Under visualisatiomn 
 
 ## Legend On/Off ability
 
@@ -28,5 +28,5 @@ Under visual
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTAwNTU3ODBdfQ==
+eyJoaXN0b3J5IjpbLTM3NDkwMTcwMF19
 -->
