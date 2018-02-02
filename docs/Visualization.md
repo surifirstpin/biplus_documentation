@@ -111,6 +111,7 @@ Negative Cutoff
 ## Standard Editing options in visualization menu:
 
 ## General 
+
 - **Title**  provides a label or identifier title for chart, align them on any side of the chart. 
 - **Padding** sets the spacing in any side of the chart.
 - 
@@ -146,5 +147,5 @@ Negative Cutoff
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjY1NzUyNF19
+eyJoaXN0b3J5IjpbNDc2ODY0NDgyXX0=
 -->
