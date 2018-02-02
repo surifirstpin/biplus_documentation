@@ -93,9 +93,7 @@ You can view the funnel charts using different formats available in Bi+ for inst
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/28fb94f1198bb83b0c3ecd8244bed8c91fef3f7f/images/widget_chart.png)
 
-## Map View
-
-#### World chart in visualization menu:
+##  World chart in visualization menu:
 > Editing options in World chart :
 
 Flat Map
@@ -122,6 +120,7 @@ Negative Cutoff
 - **Datasets** specifies the alignment,formats,currency,number of y-axis and grouping of aggregates for the legends used in the visualization menu.
 
 ## Multiple X- Axis functionality
+
 **03. X-Axis Section :**
 - **Axis type** type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column,timeframe refer to the time-format of the data.
 -**Label field** select the field name for which you want to display the field values in x-axis.
@@ -166,5 +165,5 @@ Negative Cutoff
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MjY0Mjc5NV19
+eyJoaXN0b3J5IjpbLTEwMTAzMDUyMjZdfQ==
 -->
