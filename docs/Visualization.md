@@ -17,13 +17,19 @@ Bi+ enables you to visualize the data in 9 different chart types.
 - **Stacked** are used whether to stack the values at y-axis.
 - **Datasets** specifies the alignment,formats,currency,number of y-axis and grouping of aggregates for the legends used in the visualization menu.
 
+## Multiple X- Axis functionality
 **03. X-Axis Section :**
 - **Axis type** type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column,timeframe refer to the time-format of the data.
 -**Label field** select the field name for which you want to display the field values in x-axis.
 -**Show grid** enables grid display for the field values selected. 
 -**Axis label** provide label option in x-axis of the chart.
+
+
+## Reference Lines in Charts
+
 -**Reference Line** allows you to refer specific range of values by applying colours and label to the same.
 
+## Multiple Y- Axis functionality
 **04. Y-Axis section :**
 
 -**Axis type** refer to type of axis used in charts.
@@ -51,20 +57,12 @@ Bi+ enables you to visualize the data in 9 different chart types.
 
 ## Include Zero or Not
 
-           welcome to Biplus
-
-## Reference Lines in Charts
-
-           welcome to Biplus
-
-## Multiple Y- Axis functionality
-
-          welcome to Biplus
+      
 
 ## Map View
 
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDEwNjYxMF19
+eyJoaXN0b3J5IjpbLTQ2Mjc5NTM3MV19
 -->
