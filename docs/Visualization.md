@@ -108,12 +108,12 @@ From
 To
 Negative Cutoff
 
-**Bi+ provide the following standard editing options for all the charts:**
-**01.General Section :**
+## General 
 - **Title**  provides a label or identifier title for chart, align them on any side of the chart. 
 - **Padding** sets the spacing in any side of the chart.
+- 
+## Data Edits 
 
-**02.Data Section :**
 - **Row Grouping** are used to cluster the field value side-by-side in charts.
 - **Explore Enabled**
 - **Stacked** are used whether to stack the values at y-axis.
@@ -144,5 +144,5 @@ Negative Cutoff
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzQ0NDYwMl19
+eyJoaXN0b3J5IjpbMzM1MTc2OTVdfQ==
 -->
