@@ -70,13 +70,14 @@ You can view the funnel charts using different formats available in Bi+ for inst
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d696d15bd213206d95a7c0ba73396857aeb0e7de/images/funnel_chart.png)
 
 ### Gauge chart in visualization menu:
+
 - **Value** select the field value to carry out the operations
 - **Min** minimum the measure value
 - **Max** maximum measure value
--**Donut** displays total value
-- **Counter
-Reverse reverse the min and max value
-Hide Minmax to hide the min and maximum value
+- **Donut** displays total value
+- **Counter**
+- **Reverse** reverse the min and max value
+- **Hide Minmax** to hide the min and maximum value
 
 
 **Bi+ provide the following standard editing options for all the charts:**
@@ -137,5 +138,5 @@ Hide Minmax to hide the min and maximum value
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzAwMjI1MzBdfQ==
+eyJoaXN0b3J5IjpbLTIwODgxMjE1MzhdfQ==
 -->
