@@ -67,7 +67,7 @@ To delete the Dashboard, Select the dashboard created and click on **delete icon
 ## Ability for Multiple Layouts
 
 Bi+ Provides you an opportunity to add multiple report layouts. Depending on the requirement ,
-Select the Layout from given options available you can also add or delete the reports from the selected layout. 
+Select the suitable Layout from given options available at the same time you can add or delete the reports from the selected layout. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa19980a1047ab0ef3e89ad2ec128be71d0cb0fc/images/multiple_layout.png)
 
@@ -92,5 +92,5 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM5MjE3MzBdfQ==
+eyJoaXN0b3J5IjpbNzkxODQ5NDI1XX0=
 -->
