@@ -97,7 +97,7 @@ You can view the funnel charts using different formats
 ##  World chart in visualization menu:
 > Editing options in World chart :
 
--**Title** selec
+-**Title** 
 Flat Map
 Default
 Over
@@ -149,5 +149,5 @@ Negative Cutoff
 -**Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU4NjgyMTJdfQ==
+eyJoaXN0b3J5IjpbMTE4ODI5MjQyMF19
 -->
