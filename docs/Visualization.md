@@ -93,6 +93,20 @@ You can view the funnel charts using different formats available in Bi+ for inst
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/28fb94f1198bb83b0c3ecd8244bed8c91fef3f7f/images/widget_chart.png)
 
+World chart in visualisation menu:
+Below are editing option that you can apply to world chart,
+Flat Map
+Default
+Over
+Over Border
+Data Field	
+Tip Fields	
+Color Field
+Color
+From
+To
+Negative Cutoff
+
 **Bi+ provide the following standard editing options for all the charts:**
 **01.General Section :**
 - **Title**  provides a label or identifier title for chart, align them on any side of the chart. 
@@ -151,5 +165,5 @@ You can view the funnel charts using different formats available in Bi+ for inst
           welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDMwNTQ2N119
+eyJoaXN0b3J5IjpbMTU4MjQ4MDg0Nl19
 -->
