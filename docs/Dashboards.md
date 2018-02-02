@@ -66,6 +66,8 @@ To delete the Dashboard, Select the dashboard created and click on **delete icon
 
 ## Ability for Multiple Layouts
 
+Bi+ Provides you an opportunity to add multiple report layouts as per the requirement.
+
 ##  Add Reports for Different Projects
 
 ## Dependency Filters
@@ -87,5 +89,5 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTUyODk2NDddfQ==
+eyJoaXN0b3J5IjpbMTE1MDE2NTY2XX0=
 -->
