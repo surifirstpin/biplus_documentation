@@ -33,6 +33,8 @@ To view data or visualization of the report saved click on the setting icon on f
 
 it will display the data flow of the dashboard report.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/75dc8e17122b93eba5d8cb82ae8a5c8fa0b4f72f/images/show_visu.png)
+
 ## Refresh & Hard Refresh
 
              welcome to Biplus  
@@ -78,5 +80,5 @@ it will display the data flow of the dashboard report.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzE0MTg1NThdfQ==
+eyJoaXN0b3J5IjpbNjAzMTQ4MDcxXX0=
 -->
