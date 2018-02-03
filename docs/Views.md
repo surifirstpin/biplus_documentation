@@ -140,7 +140,7 @@ A view may join other views and there relationship are defined as part of data a
  -when drilling is applied on a dimension, 
  **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning he true or false condition to the parameter.
 
-## Field Visibility On / Of
+## Field Visibility On / Off
 
 **Visualize** parameter is used as display on-off option of the field in visualization section by assigning true or false condition to the parameter.
 
@@ -173,5 +173,5 @@ A view may join other views and there relationship are defined as part of data a
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTAzNjEyM119
+eyJoaXN0b3J5IjpbNzk5NzkzMTczXX0=
 -->
