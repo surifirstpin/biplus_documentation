@@ -41,7 +41,7 @@ it will display the data flow of the dashboard report.
 - **Hard Refresh**  displays the most recent data information by clearing the cache for specific dashboard or report.
 
 ## Download CSV & Image formats
-- **Download CSV** 
+- **Download CSV** to 
 
 ## Filters & Customization
 
@@ -80,5 +80,5 @@ it will display the data flow of the dashboard report.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDUwOTkyOF19
+eyJoaXN0b3J5IjpbMTcwNTczODQ2OV19
 -->
