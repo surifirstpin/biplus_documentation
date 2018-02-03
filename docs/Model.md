@@ -11,13 +11,6 @@ Using BI+ you can maintain multiple models for single project and each of them d
 ## Defining relations. 
 
 ```
-"explore": [
-		{
-			"name": "BI_CUSTOMERS",
-			"label": "BI_CUSTOMERS",
-			"filters": [],
-			"joins": []
-		},
 		{
 			"name": "BI_DELIVERYREPORT",
 			"label": "BI_DELIVERYREPORT",
@@ -35,11 +28,8 @@ Using BI+ you can maintain multiple models for single project and each of them d
 				}
 			]
 		},
-		{
+
 ```
-		
-		
-### Parameters used :
 
 - **Name** identifier name to define a model.
 
@@ -130,5 +120,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDc0MDQ4NF19
+eyJoaXN0b3J5IjpbLTQ4NzE2MzMyOF19
 -->
