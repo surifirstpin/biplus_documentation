@@ -65,8 +65,9 @@ it will display the data flow of the dashboard report.
 
 ## Save As / Update option for a saved report in Edit
 
-save the report after changes by clicking on save button on dashboard screen.
+save the updated report after the changes made to report by clicking on save button on dashboard screen.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8f646429db04aa96c0908e2837ac3e8a52d03450/images/update_report.png)
 ## Save a Shared Report after changes
 
              welcome to Biplus
@@ -84,5 +85,5 @@ save the report after changes by clicking on save button on dashboard screen.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjI1Mzk3MTJdfQ==
+eyJoaXN0b3J5IjpbMjA2NzYxMzc5NV19
 -->
