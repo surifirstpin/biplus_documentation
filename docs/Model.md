@@ -124,7 +124,19 @@ Derived tables enables you to refine your data analysis more precisely. it creat
 				"Station_1": "IND",
 				"Station_2": "AUS"
 			}
+				},
+		{
+			"name": "ORID",
+			"label": "ORDERSCOUNT",
+			"data_type": "number",
+			"type": "measure",
+			"lookup": "",
+			"operators": "",
+			"sql": "COUNT(DISTINCT \"CustomView_791\".ORID)",
+			"summary": "",
+			"visualise": "true"
+		},
 			```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODEwNjY1OV19
+eyJoaXN0b3J5IjpbLTE4MjY0Mjg0NTldfQ==
 -->
