@@ -11,7 +11,7 @@ You can save the visualization under any specific tag as shown below.
 - **Private() Public() share()** provides report accessibility to the users.
 
 ## Defining Global Filter fields
-Global filter added in this section is automatically refelect
+Global filter added in this section is automatically refelected 
 
 ## Cache option with specific duration
 
@@ -23,5 +23,5 @@ Repeat every set the time period
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTc3NDIyODVdfQ==
+eyJoaXN0b3J5IjpbLTE0ODQyODg5NzJdfQ==
 -->
