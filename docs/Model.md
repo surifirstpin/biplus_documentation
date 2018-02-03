@@ -123,7 +123,7 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 			"type": "dimension",
 			"lookup": "",
 			"operators": "",
-			"sql": "\"CustomView_791\".SC",
+			"sql": "\"${table}.stationcode,
 			"summary": "",
 			"visualise": "true",
 			"country_ref": {
@@ -144,5 +144,5 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 		},
 			```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTgwMjE2Nl19
+eyJoaXN0b3J5IjpbMTE1Mjc1MTM3XX0=
 -->
