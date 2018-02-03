@@ -12,7 +12,7 @@ You can save the visualization under any specific tag as shown below.
 
 ## Defining Global Filter fields
 
-- **Filter** added in this section is automatically reflected 
+- **Filter** global filters added in this section is automatically reflected in 
 
 ## Cache option with specific duration
 
@@ -24,5 +24,5 @@ Repeat every set the time period
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTE0OTA1NV19
+eyJoaXN0b3J5IjpbLTg5MTQ4ODU5NF19
 -->
