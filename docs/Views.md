@@ -136,6 +136,7 @@ A view may join other views and there relationship are defined as part of data a
 ## Drill-down feature and specs
 
 **Drill_down_fields** parameter is used to explore the data within the field.
+
  **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning he true or false condition to the parameter.
 
 ## Field Visibility On / Of
@@ -171,5 +172,5 @@ A view may join other views and there relationship are defined as part of data a
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDQ4OTE5M119
+eyJoaXN0b3J5IjpbMTYyMjIxMDMyN119
 -->
