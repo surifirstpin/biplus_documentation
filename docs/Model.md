@@ -1,5 +1,5 @@
 
-A model is a customized gateway into the database, it is designed in such a way that it provides a spontaneous data analysis to specific business users.model is used to define data between the two views , you can apply model based filter globally to restricted data at user level.Each model displays different data to different users.For example if 
+A model is a customized gateway into the database, it is designed in such a way that it provides a spontaneous data analysis to specific business users.model is used to define data between the two views , you can apply model based filter globally to restricted data at user level.Each model displays different data to different users.For example if sales person need different data then 
 Using BI+ you can maintain multiple models for single project and each of them disclose different data to different users depending on parameters applied in model. 
 
  Once project is saved you can define your data in model section as shown in below image :
@@ -133,5 +133,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0ODg3MDQzXX0=
+eyJoaXN0b3J5IjpbMTk2NzAzNDg0NF19
 -->
