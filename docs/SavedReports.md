@@ -54,12 +54,8 @@ it will display the data flow of the dashboard report.
              welcome to Biplus
 
 ## Lookup Single & Multiple
-
-             welcome to Biplus
-
-
-
-             welcome to Biplus
+ 
+ By adding lookup to reports you can refer set of query or list of items in filters.
 
 ## Save As / Update option for a saved report in Edit
 
@@ -82,5 +78,5 @@ it will display the data flow of the dashboard report.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTUwOTYzMF19
+eyJoaXN0b3J5IjpbMTk3MDI3OTg4OF19
 -->
