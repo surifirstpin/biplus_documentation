@@ -15,8 +15,13 @@ Filters Filter options to be applied on the column field
 
 ## Cache option with specific duration
 
-           welcome to Biplus
+Enable cache multiple users can pull the report from the cache
+Time frame set the time frame 
+Repeat every set the time period
+
+6.Click on save button to save the report.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzA5ODE5XX0=
+eyJoaXN0b3J5IjpbMTU3NTg5MTU0Ml19
 -->
