@@ -20,7 +20,6 @@ A view may join other views and there relationship are defined as part of data a
 	"sql": "(SELECT A.STATIONCODE SC,A.ORDERID ORID,A.WHENMADE ORTIME,B.NAME RECEPNAME, A.AMOUNT ORDVAL,A.QUANTITY QTY,A.WAYUSED ORDBY, A.PAYMENTMODE PM,C.NAME CUSTNAME,C.ADDRESS CUSTADDR FROM ROOT.ORDERS A INNER JOIN ROOT.EMPLOYEES B ON A.ORDERATTDID=B.EMPLOYEEID INNER JOIN ROOT.CUSTOMERS C ON A.CUSTOMERID=C.CUSTOMERID)",
 	"database": "ROOT",
 	"connection": "Oracle_Build",
-}
 "fields": [
 		{
 			"name": "SC",
@@ -48,6 +47,8 @@ A view may join other views and there relationship are defined as part of data a
 			"summary": "",
 			"visualise": "true"
 		},
+		]
+	}
 ```
 - **Name** name identifier of custom table derived.
 
@@ -175,5 +176,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MjExNDgzNl19
+eyJoaXN0b3J5IjpbLTY2NzIzODIwM119
 -->
