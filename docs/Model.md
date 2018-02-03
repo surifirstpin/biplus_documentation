@@ -93,7 +93,6 @@ Login based filter enables you to apply user-specific restrictions. To carry out
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/05f4f8072b85b8252c162bcf0d494351bd30b232/images/login_based_filters.png)
 
-### Syntax for login based filters:
 ```
 #math#
 bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661} 
@@ -118,5 +117,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDU4OTQ5XX0=
+eyJoaXN0b3J5IjpbMTI5NDUzNTE1XX0=
 -->
