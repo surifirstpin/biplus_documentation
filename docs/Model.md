@@ -131,18 +131,19 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 				"Station_2": "AUS"
 			}
 				},
-		{
-			"name": "ORID",
-			"label": "ORDERSCOUNT",
-			"data_type": "number",
-			"type": "measure",
+	{
+			"name": "WHENMADE",
+			"label": "WHENMADE",
+			"data_type": "date",
+			"time_frame": "hour,day,week,month,quarter,year,date,week_day,date_month,date_quarter,date_hour,year_week",
+			"type": "dimension",
 			"lookup": "",
 			"operators": "",
-			"sql": "COUNT(DISTINCT \"CustomView_791\".ORID)",
+			"sql": "${TABLE}.WHENMADE",
 			"summary": "",
 			"visualise": "true"
 		},
-			```
+		```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Mjc1MTM3XX0=
+eyJoaXN0b3J5IjpbNTM2OTQyMDQ1XX0=
 -->
