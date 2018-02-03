@@ -1,6 +1,6 @@
 ## Custom Fields
-Custom fields are user defined fields for which we apply Arithmetic  and logical operations that are supported by database.
 
+Custom fields are user defined fields for which we apply Arithmetic  and logical operations that are supported by database.
 A view can join many views and the relationship between the views are defined under visualization section in a model file.
 
 Using BI+ you create your own set of derived custom table that doesn’t already exist in your database.
@@ -148,5 +148,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzYxNDYzMV19
+eyJoaXN0b3J5IjpbMjExOTIzMzgwM119
 -->
