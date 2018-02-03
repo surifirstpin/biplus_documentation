@@ -149,7 +149,7 @@ You can view the funnel charts using different formats
 -**Before number** Align the icon before or after the data.
 
 ## SQL Query 
-
+Below is the sy
 ```
 SELECT
 ROOT.BI_DELIVERYREPORT.STATIONCODE AS "STATIONCODE",
@@ -163,6 +163,8 @@ FROM ROOT.BI_DELIVERYREPORT "BI_DELIVERYREPORT"
 WHERE (ROOT.BI_DELIVERYREPORT.PHONE IS NOT NULL)
 GROUP BY (ROOT.BI_DELIVERYREPORT.STATIONCODE), (ROOT.BI_DELIVERYREPORT.DELIVERYID), (ROOT.BI_DELIVERYREPORT.PHONE), (to_char(ROOT.BI_DELIVERYREPORT.WHENMADE, 'HH24')), (to_char(ROOT.BI_DELIVERYREPORT.WHENMADE, 'DD'))
 ```
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5NDA3ODkzXX0=
+eyJoaXN0b3J5IjpbLTE5NjI0MjQ5MDVdfQ==
 -->
