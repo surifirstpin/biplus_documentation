@@ -4,16 +4,19 @@ You can save the visualization under any specific tag as shown below.
 
 ## Save with info message
 
-           welcome to Biplus
+Report Name name identifier for saving the report ( BiPlus allows you to use special character but does not  support any spaces )
+Title label for the report
+Info any specific information about the report
+Private() Public() share() report accessibility to the users
 
 ## Defining Global Filter fields
+Filters Filter options to be applied on the column field
 
-           welcome to Biplus
 
 ## Cache option with specific duration
 
            welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjkyNzg3MF19
+eyJoaXN0b3J5IjpbLTM2NzA5ODE5XX0=
 -->
