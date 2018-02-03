@@ -67,7 +67,12 @@ list of supporting parameters used while defining the custom fields:
 
 ## Summary
 
- **Summary** is used to retrieve the aggregate field values of the measures using the following options Sum,count,average, maximum, minimum.
+ **Summary** is used to retrieve the aggregate field values of the measures using the following options   
+ - Sum 
+ - count
+ - average 
+ - maximum
+ -  minimum.
 
 ## Drill-down feature and specs
 
@@ -107,5 +112,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjU4OTA0MF19
+eyJoaXN0b3J5IjpbLTE1ODQ3NzgyMjFdfQ==
 -->
