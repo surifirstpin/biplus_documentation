@@ -19,7 +19,7 @@ Select the dashboard report you want to edit and click on edit icon.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/57a42a8d038698acf71f644dde9c012b191c2e75/images/edit_dash_rep.png)
 
 ## Delete Saved Report
-To delete the dashboard from database, click on del
+To delete the dashboard from database, click on delete icon
 ## Chart to Grid Change over (Show Data / Show Visualization)
 
              welcome to Biplus
@@ -69,5 +69,5 @@ To delete the dashboard from database, click on del
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzcwMTA4Nl19
+eyJoaXN0b3J5IjpbMjQzOTQ3ODc3XX0=
 -->
