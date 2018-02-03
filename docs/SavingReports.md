@@ -13,17 +13,16 @@ You can save the visualization under any specific tag as shown below.
 ## Defining Global Filter fields
 
 - **Filter** global filters added in this section is automatically reflected in the filter section of  dashboard.
+- 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9b8eb3887fb798f871e12f13dddc254b0e845cc2/images/global_filter.png)
 
 ## Cache option with specific duration
 
 - **Enable cache** multiple users can pull the report from the cache in given time frame.
 - **Time frame** Enables a time limit.
-- **Repeat every** Enables automatic repeat series in specified time range.
-
-6.Click on save button to save the report.
+- **Repeat every** Enables automatic repeat in specified time range.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyNjA3OTNdfQ==
+eyJoaXN0b3J5IjpbMTk1MzMyMDQ0Nl19
 -->
