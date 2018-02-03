@@ -57,7 +57,7 @@ list of supporting parameters used while defining the custom fields:
   
 - **Type** can be used as part of dimension or measure.
 
-## Lookup and Operators ( Query & Items)
+## Lookups
 
 **lookup** retrieves a list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization).
 
@@ -65,7 +65,7 @@ list of supporting parameters used while defining the custom fields:
 
  **SQL** parameter is used define a valid SQL expression that results in a field value.
 
-## Summary ( aggregates as sum, min, max, avg, count)
+## Summary
 
  **Summary** is used to retrieve the aggregate field values of the measures using the following options Sum,count,average, maximum, minimum.
 
@@ -107,5 +107,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDExMzk4NV19
+eyJoaXN0b3J5IjpbMTEyMjU4OTA0MF19
 -->
