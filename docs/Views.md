@@ -11,6 +11,17 @@ A view may join other views and there relationship are defined as part of data a
    
 **2.** Once the view is created label the database field and derive the custom table using a SQL query as a result a derived table is created.
 
+``` 
+{
+"name": "CustomView_820",
+	"label": "CustomView_820",
+	"info": "Description",
+	"type": "query",
+	"sql": "(SELECT A.STATIONCODE SC,A.ORDERID ORID,A.WHENMADE ORTIME,B.NAME RECEPNAME, A.AMOUNT ORDVAL,A.QUANTITY QTY,A.WAYUSED ORDBY, A.PAYMENTMODE PM,C.NAME CUSTNAME,C.ADDRESS CUSTADDR FROM ROOT.ORDERS A INNER JOIN ROOT.EMPLOYEES B ON A.ORDERATTDID=B.EMPLOYEEID INNER JOIN ROOT.CUSTOMERS C ON A.CUSTOMERID=C.CUSTOMERID)",
+	"database": "ROOT",
+	"connection": "Oracle_Build",
+}
+```
 - **Name** name identifier of custom table derived.
 
 - **label** the custom table.
@@ -23,17 +34,6 @@ A view may join other views and there relationship are defined as part of data a
 
 - **Connection** establish the database connection for deriving new fields.
 
-``` 
-{
-"name": "CustomView_820",
-	"label": "CustomView_820",
-	"info": "Description",
-	"type": "query",
-	"sql": "(SELECT A.STATIONCODE SC,A.ORDERID ORID,A.WHENMADE ORTIME,B.NAME RECEPNAME, A.AMOUNT ORDVAL,A.QUANTITY QTY,A.WAYUSED ORDBY, A.PAYMENTMODE PM,C.NAME CUSTNAME,C.ADDRESS CUSTADDR FROM ROOT.ORDERS A INNER JOIN ROOT.EMPLOYEES B ON A.ORDERATTDID=B.EMPLOYEEID INNER JOIN ROOT.CUSTOMERS C ON A.CUSTOMERID=C.CUSTOMERID)",
-	"database": "ROOT",
-	"connection": "Oracle_Build",
-}
-```
 
 ## Usage of functions, logical & arithmetical operations in Custom Fields
 
@@ -148,5 +148,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4Njg3MzUxXX0=
+eyJoaXN0b3J5IjpbLTU5MDY1MTQwMV19
 -->
