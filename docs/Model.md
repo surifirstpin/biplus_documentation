@@ -37,7 +37,7 @@ Using BI+ you can maintain multiple models for single project and each of them d
 ```
 		
 		
-### parameters used :
+### Parameters used :
 
 - **Name** identifier name to define a model.
 
@@ -128,5 +128,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjI5MjYzXX0=
+eyJoaXN0b3J5IjpbMTA1MTI1Mzg0MV19
 -->
