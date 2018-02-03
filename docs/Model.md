@@ -99,6 +99,7 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 ## Derived Table
 
 Derived tables enables you to refine your data analysis more precisely. it creates a new temporary table that doesn't exist in your database already, they either be built at your query time or they can be stored in your database. These can be defined by writing a SQL query and results as derived table.
+
 ```
 {
 	"name": "CustomView_820",
@@ -125,5 +126,5 @@ Derived tables enables you to refine your data analysis more precisely. it creat
 			}
 			```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTkxNTQzMzFdfQ==
+eyJoaXN0b3J5IjpbLTQwMTYwNzQzM119
 -->
