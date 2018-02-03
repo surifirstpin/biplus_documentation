@@ -70,7 +70,8 @@ save the updated report after the changes made to report by clicking on save but
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8f646429db04aa96c0908e2837ac3e8a52d03450/images/update_report.png)
 ## Save a Shared Report after changes
 
-         save the r
+         save the re
+         
 
 ## Home Page Display Option
 
@@ -85,5 +86,5 @@ save the updated report after the changes made to report by clicking on save but
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5ODgyOTUzXX0=
+eyJoaXN0b3J5IjpbMjgxNjUxNTM4XX0=
 -->
