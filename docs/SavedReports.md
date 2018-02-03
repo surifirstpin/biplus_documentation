@@ -56,6 +56,11 @@ it will display the data flow of the dashboard report.
 ## Lookup Single & Multiple
  
  By adding lookup to reports you can refer set of query or list of items in filters.
+Lookup name name of the lookup field
+Lookup Type  refers to item or query type
+Test Lookup to test the lookup 
+Multiple Selections refers to selection of list of multiple data
+Referred used to refer predefined filter for the following filters 
 
 ## Save As / Update option for a saved report in Edit
 
@@ -78,5 +83,5 @@ it will display the data flow of the dashboard report.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDI3OTg4OF19
+eyJoaXN0b3J5IjpbMTUyNzcyMTcyNl19
 -->
