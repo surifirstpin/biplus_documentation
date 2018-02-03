@@ -50,8 +50,6 @@ Using BI+ you can maintain multiple models for single project and each of them d
 
 Filters defined under the model section are applied globally to all the fields.
 
-### Parameters used :
-
 **Name** identifier name to derive a field.
  
 **Label** parameter helps you to change the title and the way they should appear in field picker.
@@ -62,7 +60,6 @@ Filters defined under the model section are applied globally to all the fields.
 
 **Position** apply filter before or after the data retrieval.
 
-### Syntax for model based filter
 ```
 {
 			"name": "BI_ORDERS",
@@ -121,5 +118,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjEyODA0MDJdfQ==
+eyJoaXN0b3J5IjpbMTYyNDU4OTQ5XX0=
 -->
