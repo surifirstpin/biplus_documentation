@@ -67,7 +67,7 @@ Filters defined under the model section are applied globally to all the fields.
 
 **Apply** filter applied to **all** the fields or any specific field.
 
-**Position** apply filter before or after the data retreive.
+**Position** apply filter before or after the data retrieval.
 
 ### Syntax for model based filter
 ```
@@ -128,5 +128,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTI1Mzg0MV19
+eyJoaXN0b3J5IjpbLTIxNjc0NjcyNV19
 -->
