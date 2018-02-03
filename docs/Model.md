@@ -9,20 +9,34 @@ Using BI+ you can maintain multiple models for single project and each of them d
 ## Defining relations. 
 
 Model defines explore and their relationship with other view it is derived using below parameters.
-
-- **Project** used for the model.
-- **Connection** database connection used for the model.
-
-### Syntax for defining model parameters:
 ```
-{
-	"project": "Oracle_test2",
-	"info": "Project Info",
-	"connections": [
-		"Oracle_Build",
-                   ]
-}
-``` 
+	"explore": [
+		{
+			"name": "AUTOTEST_EMPLOYEES",
+			"label": "AUTOTEST_EMPLOYEES",
+			"filters": [],
+			"joins": []
+		},
+		{
+			"name": "BI_CUSTOMERS",
+			"label": "BI_CUSTOMERS",
+			"filters": [],
+			"joins": []
+		},
+		{
+			"name": "BI_DELIVERYREPORT",
+			"label": "BI_DELIVERYREPORT",
+			"filters": [],
+			"joins": [
+				{
+					"join": "BI_CUSTOMERS",
+					"join_type": "left",
+					"join_on": "${BI_DELIVERYREPORT.CUSTOMERID} = ${BI_CUSTOMERS.CUSTOMERID}"
+				}
+			]
+		},
+		{
+		```
 ## mappings
 
 ### Mapping Parameters used in the model:
@@ -133,5 +147,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5MTQxNDhdfQ==
+eyJoaXN0b3J5IjpbLTEyMTUzODUwMjhdfQ==
 -->
