@@ -99,7 +99,31 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 ## Derived Table
 
 Derived tables enables you to refine your data analysis more precisely. it creates a new temporary table that doesn't exist in your database already, they either be built at your query time or they can be stored in your database. These can be defined by writing a SQL query and results as derived table.
-
+```
+{
+	"name": "CustomView_820",
+	"label": "CustomView_820",
+	"info": "Description",
+	"type": "query",
+	"sql": "(SELECT A.STATIONCODE SC,A.ORDERID ORID,A.WHENMADE ORTIME,B.NAME RECEPNAME, A.AMOUNT ORDVAL,A.QUANTITY QTY,A.WAYUSED ORDBY, A.PAYMENTMODE PM,C.NAME CUSTNAME,C.ADDRESS CUSTADDR FROM ROOT.ORDERS A INNER JOIN ROOT.EMPLOYEES B ON A.ORDERATTDID=B.EMPLOYEEID INNER JOIN ROOT.CUSTOMERS C ON A.CUSTOMERID=C.CUSTOMERID)",
+	"database": "ROOT",
+	"connection": "Oracle_Build",
+	"fields": [
+		{
+			"name": "SC",
+			"label": "STATION CODE",
+			"data_type": "string",
+			"type": "dimension",
+			"lookup": "",
+			"operators": "",
+			"sql": "\"CustomView_791\".SC",
+			"summary": "",
+			"visualise": "true",
+			"country_ref": {
+				"Station_1": "IND",
+				"Station_2": "AUS"
+			}
+			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzU0MjU1MTRdfQ==
+eyJoaXN0b3J5IjpbMTM2MTY4NTE2N119
 -->
