@@ -17,7 +17,7 @@ You can save the visualization under any specific tag as shown below.
 
 ## Cache option with specific duration
 
-**Enable cache** multiple users can pull the report from the cache in given time frame ins
+**Enable cache** multiple users can pull the report from the cache in given time frame instaed o
 Time frame set the time frame 
 Repeat every set the time period
 
@@ -25,5 +25,5 @@ Repeat every set the time period
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODMzMTg5MV19
+eyJoaXN0b3J5IjpbLTEyMzAxNTg2MzhdfQ==
 -->
