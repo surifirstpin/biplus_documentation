@@ -1,6 +1,6 @@
 ## Save under specific tag
 
-           welcome to Biplus
+You can save the visualization under any specific tag as shown below.
 
 ## Save with info message
 
@@ -15,5 +15,5 @@
            welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzIzMDE5XX0=
+eyJoaXN0b3J5IjpbLTQwNjkyNzg3MF19
 -->
