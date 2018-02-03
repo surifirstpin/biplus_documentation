@@ -1,4 +1,4 @@
-## Defining new Fields in a View (Custom Fields)
+## Custom Fields
 
 Views are declared to define list of fields (dimensions and measures) and how they are linked to primary table or derived table.
 
@@ -110,5 +110,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDA2MjUxXX0=
+eyJoaXN0b3J5IjpbMTQ1NDMwOTJdfQ==
 -->
