@@ -148,6 +148,7 @@ You can view the funnel charts using different formats
 -**Icon** Select a icon for for the data retrieved based on condition.
 -**Before number** Align the icon before or after the data.
 
+## SQL Query 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzcxNzQzN119
+eyJoaXN0b3J5IjpbLTQ3MTg3NjM4NV19
 -->
