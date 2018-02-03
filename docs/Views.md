@@ -131,7 +131,7 @@ A view may join other views and there relationship are defined as part of data a
    - count
    - Average 
    - maximum
-   -  minimum.
+   -  minimum
 
 ## Drill-down feature and specs
 
@@ -173,5 +173,5 @@ A view may join other views and there relationship are defined as part of data a
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTg3MjAwNDddfQ==
+eyJoaXN0b3J5IjpbMTcyOTAzNjEyM119
 -->
