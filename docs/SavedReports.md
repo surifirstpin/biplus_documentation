@@ -17,10 +17,9 @@ Save the dashboard report, below are the available saving options for dashboard.
 Select the dashboard report you want to edit and click on edit icon.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/57a42a8d038698acf71f644dde9c012b191c2e75/images/edit_dash_rep.png)
+
 ## Delete Saved Report
-
-             welcome to Biplus
-
+To delete the dashboard from
 ## Chart to Grid Change over (Show Data / Show Visualization)
 
              welcome to Biplus
@@ -70,5 +69,5 @@ Select the dashboard report you want to edit and click on edit icon.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3ODE2MzkyXX0=
+eyJoaXN0b3J5IjpbLTU4NDk1OTAxXX0=
 -->
