@@ -119,7 +119,7 @@ list of supporting parameters used while defining the custom fields:
  
   - **Int** for the measure that contains integers.
   
-- **Type** can be used as part of dimension or measure.
+ - **Type** can be used as part of dimension or measure.
 
 ## Lookups
 
@@ -176,5 +176,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjYyMjkzMV19
+eyJoaXN0b3J5IjpbNjcwMzA1MDkxXX0=
 -->
