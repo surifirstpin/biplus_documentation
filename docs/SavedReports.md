@@ -1,6 +1,6 @@
 
-
-
+## Privacy & Share Option
+Save the dashboard report.below are the saving options for dashboard.
 
 ## Edit Saved Report
 
@@ -34,7 +34,7 @@
 
              welcome to Biplus
 
-## Privacy & Share Option
+
 
              welcome to Biplus
 
@@ -59,5 +59,5 @@
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDY4OTUzMzldfQ==
+eyJoaXN0b3J5IjpbMjEwMjA5NTIwXX0=
 -->
