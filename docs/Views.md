@@ -21,6 +21,33 @@ A view may join other views and there relationship are defined as part of data a
 	"database": "ROOT",
 	"connection": "Oracle_Build",
 }
+"fields": [
+		{
+			"name": "SC",
+			"label": "STATION CODE",
+			"data_type": "string",
+			"type": "dimension",
+			"lookup": "",
+			"operators": "",
+			"sql": "\"CustomView_791\".SC",
+			"summary": "",
+			"visualise": "true",
+			"country_ref": {
+				"Station_1": "IND",
+				"Station_2": "AUS"
+			}
+		},
+		{
+			"name": "ORID",
+			"label": "ORDERSCOUNT",
+			"data_type": "number",
+			"type": "measure",
+			"lookup": "",
+			"operators": "",
+			"sql": "COUNT(DISTINCT \"CustomView_820\".ORID)",
+			"summary": "",
+			"visualise": "true"
+		},
 ```
 - **Name** name identifier of custom table derived.
 
@@ -148,5 +175,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDY1MTQwMV19
+eyJoaXN0b3J5IjpbMTY4MjExNDgzNl19
 -->
