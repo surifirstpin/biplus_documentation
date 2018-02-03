@@ -27,6 +27,9 @@ To delete the dashboard from database, click on delete icon .
 
 To view data or visualization of the report saved click on the setting icon on far right of the dashboard and choose the from the given options provided.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b669cba912831971eb357451a6076136dca8d1bb/images/show_data.png)
+
+it will displat
 ## Refresh & Hard Refresh
 
              welcome to Biplus  
@@ -72,5 +75,5 @@ To view data or visualization of the report saved click on the setting icon on f
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Njg3MDY5NV19
+eyJoaXN0b3J5IjpbMzY0NTIwMzAwXX0=
 -->
