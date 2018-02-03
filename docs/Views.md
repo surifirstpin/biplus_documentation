@@ -107,8 +107,8 @@ A view may join other views and there relationship are defined as part of data a
 
 - **Data_type** define supporting parameters and string is used as  Default parameter while deriving the fields for custom table.
 
-
-    - **String** for measures that contain letters or special characters.
+    - *
+*String** for measures that contain letters or special characters.
    
   - **Date** measures that contain dates.
   
@@ -122,18 +122,18 @@ A view may join other views and there relationship are defined as part of data a
 
 ## Lookups
 
-- **lookup** retrieves a list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization).
+- **lookup** retrieve list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization).
 
 - **Operator** is used to retrieve single or multiple values in the filter section while using lookup.
 
  - **SQL** parameter is used define a valid SQL expression that results in a field value.
 
- - **Summary** is used to retrieve the aggregate field values of the measures using the following options   
- - Sum 
- - count
- - average 
- - maximum
- -  minimum.
+ - **Summary** is used to retrieve the aggregate field values of the measures using the following options,
+   - Sum 
+   - count
+   - Average 
+   - maximum
+   -  minimum.
 
 ## Drill-down feature and specs
 
@@ -173,5 +173,5 @@ A view may join other views and there relationship are defined as part of data a
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE5MDQ3OTNdfQ==
+eyJoaXN0b3J5IjpbODY4MTM4NDczXX0=
 -->
