@@ -10,13 +10,7 @@ Using BI+ you can maintain multiple models for single project and each of them d
 
 Model defines explore and their relationship with other view it is derived using below parameters.
 ```
-	"explore": [
-		{
-			"name": "AUTOTEST_EMPLOYEES",
-			"label": "AUTOTEST_EMPLOYEES",
-			"filters": [],
-			"joins": []
-		},
+"explore": [
 		{
 			"name": "BI_CUSTOMERS",
 			"label": "BI_CUSTOMERS",
@@ -28,6 +22,11 @@ Model defines explore and their relationship with other view it is derived using
 			"label": "BI_DELIVERYREPORT",
 			"filters": [],
 			"joins": [
+				{
+					"join": "BI_EMPLOYEES",
+					"join_type": "left",
+					"join_on": "${BI_DELIVERYREPORT.DELIVERYATTDID} = ${BI_EMPLOYEES.EMPLOYEEID}"
+				},
 				{
 					"join": "BI_CUSTOMERS",
 					"join_type": "left",
@@ -147,5 +146,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTUzODUwMjhdfQ==
+eyJoaXN0b3J5IjpbODEzNDQ1MTk5XX0=
 -->
