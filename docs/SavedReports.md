@@ -75,14 +75,15 @@ Save the
 ## Home Page Display Option
 Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
+
 ## Hide Filters panel
-To hide the filter panel click on **left shift operator**.
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a6c3220f82d8b6df8fafa3410e10c8b9542ad96f/images/hide_filter.png) 
+To hide the filter panel click on **left shift operator** on dashboard report screen.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1d2f5f99ff0adb44cf4f29fad6293c953095b169/images/hide_filter.png) 
 
 ## Show Filters panel
 
    To view the filter pane click on **right shift operator** on dashboard report screen.
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/74742e26a25f759329de154c34ffce2a239cd5fb/images/show_filter.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTgwOTgxNzFdfQ==
+eyJoaXN0b3J5IjpbLTgxMTA5NTcxNl19
 -->
