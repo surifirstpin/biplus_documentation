@@ -8,7 +8,6 @@ Using BI+ you can maintain multiple models for single project and each of them d
  
 ## Defining relations. 
 
-Model defines explore and their relationship with other view it is derived using below parameters.
 ```
 "explore": [
 		{
@@ -36,9 +35,7 @@ Model defines explore and their relationship with other view it is derived using
 		},
 		{
 		```
-## mappings
-
-### Mapping Parameters used in the model:
+		
 
 - **Name** identifier name to define a model.
 
@@ -146,5 +143,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzNDQ1MTk5XX0=
+eyJoaXN0b3J5IjpbMTY1OTUyMTI0OF19
 -->
