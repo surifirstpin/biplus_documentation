@@ -102,8 +102,8 @@ Derived tables enables you to refine your data analysis more precisely. it creat
 
 ```
 {
-	"name": "CustomView_820",
-	"label": "CustomView_820",
+	"name": "Customtable",
+	"label": "Customtable",
 	"info": "Description",
 	"type": "query",
 	"sql": "(SELECT A.STATIONCODE SC,A.ORDERID ORID,A.WHENMADE ORTIME,B.NAME RECEPNAME, A.AMOUNT ORDVAL,A.QUANTITY QTY,A.WAYUSED ORDBY, A.PAYMENTMODE PM,C.NAME CUSTNAME,C.ADDRESS CUSTADDR FROM ROOT.ORDERS A INNER JOIN ROOT.EMPLOYEES B ON A.ORDERATTDID=B.EMPLOYEEID INNER JOIN ROOT.CUSTOMERS C ON A.CUSTOMERID=C.CUSTOMERID)",
@@ -126,5 +126,5 @@ Derived tables enables you to refine your data analysis more precisely. it creat
 			}
 			```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTYwNzQzM119
+eyJoaXN0b3J5IjpbLTk2ODEwNjY1OV19
 -->
