@@ -105,11 +105,10 @@ A view may join other views and there relationship are defined as part of data a
 
 - **label** title the way you want the derived field to appear in custom table.
 
-- **Data_type** have supporting parameters and string is used as  Default parameter while deriving the fields for custom table.
+- **Data_type** define supporting parameters and string is used as  Default parameter while deriving the fields for custom table.
 
-list of supporting parameters used while defining the custom fields:
 
-   - **String** for measures that contain letters or special characters.
+    - **String** for measures that contain letters or special characters.
    
   - **Date** measures that contain dates.
   
@@ -176,5 +175,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwMzA1MDkxXX0=
+eyJoaXN0b3J5IjpbLTIwNTI3NDk4MjddfQ==
 -->
