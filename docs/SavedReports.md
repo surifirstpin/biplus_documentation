@@ -77,12 +77,11 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 ## Hide Filters panel
 To hide the filter panel click on **left shift operator**.
- 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a6c3220f82d8b6df8fafa3410e10c8b9542ad96f/images/hide_filter.png) 
 
 ## Show Filters panel
 
-             welcome to Biplus
-
+   To view the filter pane click on **right shift operator** on dashboard report screen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTM2MDc5M119
+eyJoaXN0b3J5IjpbLTIwNDQ3NjQxMzFdfQ==
 -->
