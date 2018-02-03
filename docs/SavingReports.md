@@ -7,8 +7,8 @@ You can save the visualization under any specific tag as shown below.
 
 - **Report Name** name identifier for saving the report ( BiPlus allows you to use special character but does not  support any spaces )
 - **Title** label for the report the way you want it to appear.
-- **Info** any specific information about the report
-- **Private() Public() share()** report accessibility to the users
+- **Info** displays any specific information about the report
+- **Private() Public() share()** provides report accessibility to the users.
 
 ## Defining Global Filter fields
 Filters Filter options to be applied on the column field
@@ -24,5 +24,5 @@ Repeat every set the time period
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDEzOTA2MF19
+eyJoaXN0b3J5IjpbNDUwNzMyNjQxXX0=
 -->
