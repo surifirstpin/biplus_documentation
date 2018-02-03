@@ -25,7 +25,7 @@ To delete the dashboard from database, click on delete icon .
 
 ## Chart to Grid Change over (Show Data / Show Visualization)
 
-To view data or visualization of the report saved click on the setting icon on far right of the dashboard and choose the from the given options provided.
+To view data or visualization of the report saved click on the setting icon on far right of the dashboard and choose the from the given options provided. select **show data** to display data report.select** show visualization to view the chart sections
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b669cba912831971eb357451a6076136dca8d1bb/images/show_data.png)
 
@@ -75,5 +75,5 @@ it will displat
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0NTIwMzAwXX0=
+eyJoaXN0b3J5IjpbOTMwMDk2NjRdfQ==
 -->
