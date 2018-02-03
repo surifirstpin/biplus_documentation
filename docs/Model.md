@@ -3,10 +3,10 @@ A model is a customized gateway into the database, it is designed in such a way 
 Using BI+ you can maintain multiple models for single project and each of them disclose different data to different users depending on parameters applied in model. 
 
  Once project is saved you can define your data in model section as shown in below image :
+ ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5f41bf1e6bf7e11e52fb03d555ce35e47060280b/images/model_new.png)
  
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ca01fdfd9787082af897b153cb9bb2e74a97c099/images/model_new.png)
  
-## Defining new relations. 
+## Defining relations. 
 
 Model defines explore and their relationship with other view it is derived using below parameters.
 
@@ -133,5 +133,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1NzQ4MDUwXX0=
+eyJoaXN0b3J5IjpbNDI5MTQxNDhdfQ==
 -->
