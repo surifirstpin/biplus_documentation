@@ -90,9 +90,6 @@ Filters defined under the model section are applied globally to all the fields.
 ## Login based Filters
 
 Login based filter enables you to apply user-specific restrictions. To carry out this you need to be associated with global parameter under settings section in BI+ to work efficiently.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/05f4f8072b85b8252c162bcf0d494351bd30b232/images/login_based_filters.png)
-
 ```
 #math#
 bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661} 
@@ -103,19 +100,6 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 
 Derived tables enables you to refine your data analysis more precisely. it creates a new temporary table that doesn't exist in your database already, they either be built at your query time or they can be stored in your database. These can be defined by writing a SQL query and results as derived table.
 
-### Syntax for derived tables :
-
-```select
-ROOT.ORDERS.STATIONCODE AS STATIONCODE,
-ROOT.ORDERS.WHENMADE AS WHENMADE,ROOT.ORDERS.ORDERID AS ORDERID,
-SUM(ROOT.ORDERS.AMOUNT) AS sum_amount
-FROM ROOT.ORDERS
-where (ROOT.ORDERS.WHENMADE >= TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
-Group by (ROOT.ORDERS.STATIONCODE),(ROOT.ORDERS.WHENMADE),(ROOT.ORDERS.ORDERID)
-
-Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.ORDERS WHERE 
-(ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
-``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDUzNTE1XX0=
+eyJoaXN0b3J5IjpbLTExMzU0MjU1MTRdfQ==
 -->
