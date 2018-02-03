@@ -13,9 +13,8 @@ Save the dashboard report, below are the available saving options for dashboard.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/73ed5f5e02b1219a0de22fe51ec38b5c11bfd9ed/images/saved_report.png)
 
 ## Edit Saved Report
-
-            welcome to Biplus
-
+Select the dashboard report you want to edit and click on edi
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/57a42a8d038698acf71f644dde9c012b191c2e75/images/edit_dash_rep.png)
 ## Delete Saved Report
 
              welcome to Biplus
@@ -69,5 +68,5 @@ Save the dashboard report, below are the available saving options for dashboard.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTU1NDU1NF19
+eyJoaXN0b3J5IjpbLTEzMjQ4NTIyNzNdfQ==
 -->
