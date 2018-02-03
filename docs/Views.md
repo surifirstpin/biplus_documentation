@@ -3,15 +3,14 @@
 Custom fields are user defined fields for which we apply Arithmetic  and logical operations that are supported by database.
 A view may join other views and there relationship are defined as part of data analysis section of model file..
 
-**Derive custom view :** 
+**Derive custom view**
 
 **1.** Click on **New Empty view** button to create or derive a new custom view table.
-!
-[enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3b50165c4cf02e474b87d097aa2f8b0897fae1ae/images/custom_table.png)
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3b50165c4cf02e474b87d097aa2f8b0897fae1ae/images/custom_table.png)
    
 
 **2.** Once the view is created label the database field and derive the custom table using a SQL query as a result a derived table is created.
-
 
 - **Name** name identifier of custom table derived.
 
@@ -150,5 +149,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzgwOTg2M119
+eyJoaXN0b3J5IjpbMjEyOTIyODI1XX0=
 -->
