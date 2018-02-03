@@ -6,7 +6,7 @@ You can save the visualization under any specific tag as shown below.
 ## Save with info message
 
 **Report Name** name identifier for saving the report ( BiPlus allows you to use special character but does not  support any spaces )
-**Title** label for the report the way you want it to app
+**Title** label for the report the way you want it to appe
 Info any specific information about the report
 Private() Public() share() report accessibility to the users
 
@@ -24,5 +24,5 @@ Repeat every set the time period
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4NjM3MjY2XX0=
+eyJoaXN0b3J5IjpbLTM3OTQ5NDQ4M119
 -->
