@@ -69,14 +69,12 @@ save the updated report after the changes made to report by clicking on save but
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8f646429db04aa96c0908e2837ac3e8a52d03450/images/update_report.png)
 ## Save a Shared Report after changes
-
-         save the re
-         
+Save the 
+(https://raw.githubusercontent.com/sv18042016/fp1/8f646429db04aa96c0908e2837ac3e8a52d03450/images/update_report.png)
 
 ## Home Page Display Option
-
-             welcome to Biplus
-
+Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 ## Hide Filters panel
 
              welcome to Biplus
@@ -86,5 +84,5 @@ save the updated report after the changes made to report by clicking on save but
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxNjUxNTM4XX0=
+eyJoaXN0b3J5IjpbMTE1NTg1NjM3NV19
 -->
