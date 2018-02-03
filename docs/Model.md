@@ -45,28 +45,12 @@ Using BI+ you can maintain multiple models for single project and each of them d
 
 - **Join** establishes the relationship between visualization and views,here we use 3 types of join parameter join,join_type,join_on.
 
-  - **Join** derive the relationship between 2 views based on the condition.
+ - **Join** derive the relationship between 2 views based on the condition.
   
-  - **Join_type** derives type of join to apply (Left,Right,inner join).
+ - **Join_type** derives type of join to apply (Left,Right,inner join).
   
-  - **Join_on** derives the relationship between how to join two tables.
-  
-  ### Syntax for join parameters defined :
-  
-  ```
-  {
-			"name": "BI_DELIVERYREPORT",
-			"label": "BI_DELIVERYREPORT",
-			"filters": [],
-			"joins": [
-				{
-					"join": "BI_CUSTOMERS",
-					"join_type": "left",
-					"join_on": "${BI_DELIVERYREPORT.CUSTOMERID} = ${BI_CUSTOMERS.CUSTOMERID}"
-				}
-			            ]
-},
-		```
+ - **Join_on** derives the relationship between how to join two tables.
+
 		
 ## Model Filters
 
@@ -143,5 +127,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTUyMTI0OF19
+eyJoaXN0b3J5IjpbNDM1MDk3MjcwXX0=
 -->
