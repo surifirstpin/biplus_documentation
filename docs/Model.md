@@ -49,7 +49,7 @@ Using BI+ you can maintain multiple models for single project and each of them d
 
  - **Join** derive the relationship between 2 views based on the condition.
   
- - **Join_type** derives type of join to apply (Left,Right,inner join).
+ - **Join_type** derives type of join condition to apply (Left,Right,inner join).
   
  - **Join_on** derives the relationship between how to join two tables.
  - 
@@ -128,5 +128,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc5Mjg0NjFdfQ==
+eyJoaXN0b3J5IjpbNjM5MDczMjYyXX0=
 -->
