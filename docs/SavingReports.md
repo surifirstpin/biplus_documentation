@@ -5,10 +5,10 @@ You can save the visualization under any specific tag as shown below.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e3b7bf2c45247e84daf15a733ebe46301c7a2004/images/saving%20report.png)
 ## Save with info message
 
-**Report Name** name identifier for saving the report ( BiPlus allows you to use special character but does not  support any spaces )
-**Title** label for the report the way you want it to appear.
-Info any specific information about the report
-Private() Public() share() report accessibility to the users
+- **Report Name** name identifier for saving the report ( BiPlus allows you to use special character but does not  support any spaces )
+- **Title** label for the report the way you want it to appear.
+- **Info** any specific information about the report
+- **Private() Public() share()** report accessibility to the users
 
 ## Defining Global Filter fields
 Filters Filter options to be applied on the column field
@@ -24,5 +24,5 @@ Repeat every set the time period
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODg2NzUyNl19
+eyJoaXN0b3J5IjpbMTQ3NDEzOTA2MF19
 -->
