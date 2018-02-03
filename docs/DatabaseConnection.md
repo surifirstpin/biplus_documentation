@@ -1,7 +1,7 @@
 
 ## Connection 
 
-   **Connection** specifies a database connection from which a model can retrieve the data. Following are the steps to be followed to set up the connection.
+   **Connection** specifies a database connection from which a model can retrieve the data. Following are the steps to be followed to set up database connection.
     
 **I.**  Get the connection details for your database such as Host name, schema name, username and password from your             **Database Administrator**.
 
@@ -81,7 +81,7 @@ Once you have Setup the Database connection you can further take up the process 
   - **Create Project** to control data in model
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTk0NTYwMSwtMTI3OTM3MDU5NCwxNT
-MxOTQ1NjAxLDIxMDQ3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4
-NzY1M119
+eyJoaXN0b3J5IjpbMTMyNDcyMTgxLC0xMjc5MzcwNTk0LDE1Mz
+E5NDU2MDEsMjEwNDcwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3
+NjUzXX0=
 -->
