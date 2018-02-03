@@ -123,7 +123,7 @@ Derived tables enables you to refine your data analysis more precisely. it creat
 				"Station_1": "IND",
 				"Station_2": "AUS"
 			}
-			
+			```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTY4NTE2N119
+eyJoaXN0b3J5IjpbLTEwNTkxNTQzMzFdfQ==
 -->
