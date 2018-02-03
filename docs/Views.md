@@ -9,7 +9,6 @@ A view may join other views and there relationship are defined as part of data a
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3b50165c4cf02e474b87d097aa2f8b0897fae1ae/images/custom_table.png)
    
-
 **2.** Once the view is created label the database field and derive the custom table using a SQL query as a result a derived table is created.
 
 - **Name** name identifier of custom table derived.
@@ -149,5 +148,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTIyODI1XX0=
+eyJoaXN0b3J5IjpbNzc4Njg3MzUxXX0=
 -->
