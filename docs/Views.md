@@ -1,5 +1,5 @@
 ## Custom Fields
-Custom fields are user defined fields for which we apply Arithmetic  and logical operations that are supporte
+Custom fields are user defined fields for which we apply Arithmetic  and logical operations that are supported by datab
 Views are declared to define list of fields (dimensions and measures) and how they are linked to primary table or derived table.
 
 A view can join many views and the relationship between the views are defined under visualization section in a model file.
@@ -110,5 +110,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzMzMDMyXX0=
+eyJoaXN0b3J5IjpbMTY1MTIxOTQ1OV19
 -->
