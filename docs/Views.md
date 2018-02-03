@@ -63,7 +63,7 @@ A view may join other views and there relationship are defined as part of data a
 - **Connection** establish the database connection for deriving new fields.
 
 
-## Usage of functions, logical & arithmetical operations in Custom Fields
+##  Arithmetical operations in Custom Fields
 
 ```
 {
@@ -176,5 +176,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzIzODIwM119
+eyJoaXN0b3J5IjpbLTQyMjYyMjkzMV19
 -->
