@@ -10,7 +10,6 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 
 **2.** Once the view is created label the database field and derive the custom table using a SQL query as a result a derived table is created.
 
-## Labelling a Database Field
 
 - **Name** name identifier of custom table derived.
 
@@ -24,7 +23,6 @@ Using BI+ you create your own set of derived custom table that doesn’t already
 
 - **Connection** establish the database connection for deriving new fields.
 
-### Syntax for deriving custom table :
 ``` 
 {
 "name": "CustomView_820",
@@ -109,5 +107,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTAzNDQ1MV19
+eyJoaXN0b3J5IjpbLTEwMDExMzk4NV19
 -->
