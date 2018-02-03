@@ -52,12 +52,12 @@ Using BI+ you can maintain multiple models for single project and each of them d
  - **Join_type** derives type of join condition to apply (Left,Right,inner join).
   
  - **Join_on** derives the relationship between how to join two tables.
- - 
- ## Model Filters
+ 
+##  Model Filters
 
-Filters defined under the model section are applied by default to all the fields.
+Filters defined under the model section are applied globally to all the fields.
 
-### List of Parameters used in model filters :
+### Parameters used :
 
 **Name** identifier name to derive a field.
  
@@ -128,5 +128,5 @@ Select orderid,to_char(WHENMADE,'YYYY-MM-DD') AS WHENMADE_DATE,AMOUNT FROM ROOT.
 (ROOT.ORDERS.WHENMADE > = TRUNC(SYSDATE) AND ROOT.ORDERS.WHENMADE < SYSDATE)
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5MDczMjYyXX0=
+eyJoaXN0b3J5IjpbLTk1NjI5MjYzXX0=
 -->
