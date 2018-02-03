@@ -142,8 +142,10 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 			"sql": "${TABLE}.WHENMADE",
 			"summary": "",
 			"visualise": "true"
+			}
+			]
 		},
 		```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2OTQyMDQ1XX0=
+eyJoaXN0b3J5IjpbNDE4NTYxMzA5XX0=
 -->
