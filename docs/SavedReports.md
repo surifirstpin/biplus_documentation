@@ -36,8 +36,8 @@ it will display the data flow of the dashboard report.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/75dc8e17122b93eba5d8cb82ae8a5c8fa0b4f72f/images/show_visu.png)
 
 ## Refresh & Hard Refresh
-Refresh displays the most recent data 
-             welcome to Biplus  
+- **Refresh** displays the most recent data information of the report.
+- **Hard Refresh**  
 
 ## Download CSV & Image formats
 
@@ -80,5 +80,5 @@ Refresh displays the most recent data
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjkwODI1NjRdfQ==
+eyJoaXN0b3J5IjpbMTYxMTU0MDM3NF19
 -->
