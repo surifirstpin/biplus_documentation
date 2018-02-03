@@ -1,5 +1,5 @@
 ## Custom Fields
-
+Custom fields are user defined fields for which we apply Arithmetic  and logical operations.
 Views are declared to define list of fields (dimensions and measures) and how they are linked to primary table or derived table.
 
 A view can join many views and the relationship between the views are defined under visualization section in a model file.
@@ -110,5 +110,5 @@ list of supporting parameters used while defining the custom fields:
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDMwOTJdfQ==
+eyJoaXN0b3J5IjpbNTc2NzgyNjU3XX0=
 -->
