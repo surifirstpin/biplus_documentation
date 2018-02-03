@@ -102,8 +102,8 @@ Derived tables enables you to refine your data analysis more precisely. it creat
 
 ```
 {
-	"name": "Customtable",
-	"label": "Customtable",
+	"name": "derivedtable",
+	"label": "derivedtable",
 	"info": "Description",
 	"type": "query",
 	"sql": "(SELECT
@@ -112,7 +112,7 @@ to_char(ROOT.BI_ORDERS.WHENMADE, 'HH24') AS "hour_WHENMADE"
 FROM ROOT.BI_ORDERS "BI_ORDERS"
 LEFT JOIN ROOT.BI_EMPLOYEES "BI_EMPLOYEES" ON (BI_ORDERS.ORDERATTDID = BI_EMPLOYEES.EMPLOYEEID)
 LEFT JOIN ROOT.BI_PRODUCTS "BI_PRODUCTS" ON (BI_ORDERS.PRODUCTID = BI_PRODUCTS.PRODUCTID)
-LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOMERS.CUSTOMERID)",
+LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOMERS.CUSTOMERID))",
 	"database": "ROOT",
 	"connection": "Oracle_Build",
 	"fields": [
@@ -144,5 +144,5 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 		},
 			```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5NTM5NDI5XX0=
+eyJoaXN0b3J5IjpbLTkzOTgwMjE2Nl19
 -->
