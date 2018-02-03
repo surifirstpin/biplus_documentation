@@ -2,8 +2,9 @@
 ## Privacy & Share Option
 
 Save the dashboard report, below are the available saving options for dashboard.
+
 - **Report Name** name identifier for saving the report ( BiPlus allows you to use special character but does not  support any spaces )
-- **Title** label for the report
+- **Title**  label for the report the way you want it to appear
 - **Info** any specific information about the report
 - **Private()** report saved in private section is accessed by the user itself.
 - ** Public()** the report is saved in public section is accessed by all the users.
@@ -68,5 +69,5 @@ Save the dashboard report, below are the available saving options for dashboard.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODM2MjAxNF19
+eyJoaXN0b3J5IjpbNzI4NjEwNTY2XX0=
 -->
