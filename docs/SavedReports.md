@@ -59,7 +59,7 @@ it will display the data flow of the dashboard report.
 - **Lookup name** name of the lookup field
 - **Lookup Type**  refers to item or query type
 - **Test Lookup** to test the lookup 
-- **Multiple Selections** refers to selection of list of multiple data
+- **Multiple Selections** refers to selection of list of multiple data.
 - **Referred** to refer predefined filter for the following filters.
 
 ## Save As / Update option for a saved report in Edit
@@ -83,5 +83,5 @@ it will display the data flow of the dashboard report.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTA5OTgyMF19
+eyJoaXN0b3J5IjpbMTMwMTM1MzIzMl19
 -->
