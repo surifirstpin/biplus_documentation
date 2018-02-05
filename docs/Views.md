@@ -166,7 +166,7 @@ A view may join other views and there relationship are defined as part of data a
 			"visualise": "true"
 		}
 ```
-- When **drilling on a measure,** the new query will show the data set that contributed to the measure. For example,  when drilling on a **REVENUE_AMOUNT** it shows the **BONUSPOINTS** assigned to it.
+- When **drilling on a measure,** the new query will show the data set that contributed to the measure. For example,  when drilling on a **REVENUE_AMOUNT** it shows the **BONUS POINTS** assigned to it.
 
 ```
 {
@@ -229,5 +229,5 @@ A view may join other views and there relationship are defined as part of data a
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxMzY2MzQyXX0=
+eyJoaXN0b3J5IjpbLTE0NDUwMzc5NDJdfQ==
 -->
