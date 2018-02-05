@@ -128,7 +128,9 @@ Depending on your field selection data under data analysis is enabled.
 - **Stacked** are used whether to stack the values at y-axis.
 
 - **Datasets** specifies the alignment, formats, currency, number of y-axis and grouping of aggregates for the legends used in the visualization menu.
-- 
+
+- Calculate on the raw data this function is applied initially before pivot or grouping otherwise  it is applied later.
+
 ### Group aggregate
 
   it helps you to display the consolidated values to the fields which are grouped.
@@ -227,5 +229,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTE4ODA4OTVdfQ==
+eyJoaXN0b3J5IjpbLTk5NTY0MTIwOF19
 -->
