@@ -55,7 +55,7 @@ Displays polar area of the dimensions
 
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
-- **Reverse scale** it displays the scale values that .
+- **Reverse scale** it displays the scale values that are  .
 
 - **Show ticklabels** displays the points in y-axis.
 
@@ -143,6 +143,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzM2OTYwLC0xMTk2MDE2ODMyLC0xOT
-Q4MjMyMjU1LDQ2NzkwNjIyNF19
+eyJoaXN0b3J5IjpbMTQyOTY3MTY1MiwtMTE5NjAxNjgzMiwtMT
+k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
