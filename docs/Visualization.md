@@ -76,9 +76,10 @@ You can view the funnel charts using different formats
  - Dynamic Height   
  - Dynamic Slop 
  - Load Animation
- 
+ ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/funnel_chart.png)
 
 ##  Gauge chart in visualization menu:
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/guage.png)
 
 - **Value** select the field value to carry out the operations
 - **Min** displays minimum value measure field.
@@ -88,9 +89,8 @@ You can view the funnel charts using different formats
 - **Reverse** Displays maximum to minimum value.
 - **Hide Minmax**  hides min and maximum value
 
-## Table chart in visualization menu:
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/717c0f965ba7ecb18b850c5be7da86e667de298b/images/table_chart.png)
+## Table chart :
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/table_chart.png)
 
 ## Widget chart in visualization menu and operations applicable:
 - **Value** select the 1st measure value to apply the conditions.
@@ -99,8 +99,8 @@ You can view the funnel charts using different formats
 - **Change** choose the condition (difference,growth,none).
 - **Show growth** displays the growth rate of selected measure fields.
 - **Style** set different style formats from the option provided.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/28fb94f1198bb83b0c3ecd8244bed8c91fef3f7f/images/widget_chart.png)
+- 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/widget_chart.png)
 
 ##  World chart in visualization menu:
 
@@ -137,6 +137,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2NDA3Nzg1LC0xOTQ4MjMyMjU1LDQ2Nz
-kwNjIyNF19
+eyJoaXN0b3J5IjpbMTk1MzgxOTgyMywtMTk0ODIzMjI1NSw0Nj
+c5MDYyMjRdfQ==
 -->
