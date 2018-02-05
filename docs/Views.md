@@ -183,6 +183,17 @@ A view may join other views and there relationship are defined as part of data a
 			"show_drill_down_measures": "true",
 			"visualise": "true"
 		},
+		{
+			"name": "BONUSPOINTS",
+			"label": "BONUSPOINTS",
+			"data_type": "number",
+			"type": "measure",
+			"lookup": "",
+			"operators": "",
+			"sql": "${TABLE}.BONUSPOINTS",
+			"summary": "sum,avg,max,min,count",
+			"visualise": "true"
+		}
 		
 ``` 
 
@@ -219,5 +230,5 @@ A view may join other views and there relationship are defined as part of data a
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI1MzQ4MjldfQ==
+eyJoaXN0b3J5IjpbMTg0MzA2MjAzMF19
 -->
