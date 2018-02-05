@@ -136,10 +136,10 @@ A view may join other views and there relationship are defined as part of data a
 ## Drill-down feature and specs
 
 **Drill_down_fields** parameter is used to explore the data within the field. it works in query results tables and dashboards. Drilling disclose a new query that is restricted by the value you clicked on.
+ **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning the true or false condition to the parameter.
 
 **Drill has different actions for dimensions and measures:**
-
-- When **drilling on a dimension,** the new query filters on the drilled value. For example, if you click on country name it willl show the state and branchcode assigned to the country.
+- When **drilling on a dimension,** the new query filters on the drilled value. For example, if you click on country name it will show the state and branch code assigned to the country.
 ```
 {
 			"name": "BRANCHCODE",
@@ -179,7 +179,7 @@ A view may join other views and there relationship are defined as part of data a
 ```
 - When **drilling on a measure,** the new query will show the data set that contributed to the measure. For example,  when drilling on a max measure it shows all the rows that were used to calculate the max value, not just a single row for the max value.
  -when drilling is applied on a dimension, 
- **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning he true or false condition to the parameter.
+
 
 ## Field Visibility On / Off
 
@@ -214,5 +214,5 @@ A view may join other views and there relationship are defined as part of data a
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTYwNzkxMDNdfQ==
+eyJoaXN0b3J5IjpbMTQ0MTgzODU1N119
 -->
