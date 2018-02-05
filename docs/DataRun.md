@@ -217,8 +217,7 @@ You can apply different number formats and currency options to measures.
 
 
 
-  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/657b29d2f18b269f2964e8150a3670df8db7869c/images/group_aggregate.png)
-
+  
 ## Format based on Logic
 
 Using Bi+ you can add different logic's individually as explained below:
@@ -233,5 +232,5 @@ Using Bi+ you can add different logic's individually as explained below:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTA5MTg4N119
+eyJoaXN0b3J5IjpbMTcyMjI0NTczNV19
 -->
