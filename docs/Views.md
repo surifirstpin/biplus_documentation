@@ -198,12 +198,7 @@ A view may join other views and there relationship are defined as part of data a
 
 **Visualize** parameter is used as, display on-off option for fields in data analyse section by assigning true or false condition to the parameter.
 
-## Adding Currency & Format to a field
 
- **Number_format** it specifies different set of number formats used for the field values.
-
-**Currency** is applied to retrieve the values in specified currency applicable.
- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDYxODQ1NDJdfQ==
+eyJoaXN0b3J5IjpbMjUzNjg5MjEzXX0=
 -->
