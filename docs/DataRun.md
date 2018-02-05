@@ -122,7 +122,8 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 
 ## Pin or Remove Pin
 
-To freeze the field values click on ** Pin** option in drop down and click remove pin to release th 
+To freeze the field values click on ** Pin** options in drop down and click on **Remove Pin** to release it.
+ 
 ## Field Visualization On / Off
 
  To hide field values click on **Hide Visualization** option in the drop down option.
@@ -200,5 +201,5 @@ Using Bi+ you can add different logic's individually as explained below:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjk2MTY4OF19
+eyJoaXN0b3J5IjpbLTk4NzI2NzUyNV19
 -->
