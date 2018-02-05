@@ -159,10 +159,10 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 ## X- Axis functionality
 
 - **Axis type** type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column,timeframe refer to the time-format of the data.
--**Label field** select the field name for which you want to display the field values in x-axis.
--**Show grid** enables grid display for the field values selected. 
--**Axis label** provide label option in x-axis of the chart.
--**Reference Line** allows you to refer specific range of values by applying colours and label to the same.
+- **Label field** select the field name for which you want to display the field values in x-axis.
+- **Show grid** enables grid display for the field values selected. 
+- **Axis label** provide label option in x-axis of the chart.
+- **Reference Line** allows you to refer specific range of values by applying colours and label to the same.
 
 ##  Y- Axis functionality
 
@@ -231,5 +231,5 @@ Using Bi+ you can add different logic's individually as explained below:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODgxMzQzOF19
+eyJoaXN0b3J5IjpbLTkxNzgzNzc0Nl19
 -->
