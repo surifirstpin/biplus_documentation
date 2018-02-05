@@ -120,7 +120,9 @@ Using Bi+ you can limit the display of field values by using Limit option and ch
 Using Bi+ you can group the rows of the fields by selection **group** options from the drop down. 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/12c2bc69fcf082dc620f2819ae901ae9c7a962a7/images/group.png)
 
-## Pin/ Remove Pin
+## Pin or Remove Pin
+
+
 ## Field Visualization On / Off
 
  To hide field values click on **Hide Visualization** option in the drop down option.
@@ -198,5 +200,5 @@ Using Bi+ you can add different logic's individually as explained below:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzgxMTAyODBdfQ==
+eyJoaXN0b3J5IjpbLTgzMTUzMTM4NF19
 -->
