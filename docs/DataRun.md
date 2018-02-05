@@ -120,7 +120,14 @@ Using Bi+ you can limit the display of field values by using **Limit** option an
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 
 ## Data 
-Depending on the query build by selecting fields from dimensions and measures the data is triffered 
+
+Depending on the query build by selecting fields from dimensions and measures the data is trifferedggered.
+
+- **Row Grouping** are used to cluster the field value side-by-side in charts.
+- **Explore Enabled**
+- **Stacked** are used whether to stack the values at y-axis.
+- **Datasets** specifies the alignment, formats, currency, number of y-axis and grouping of aggregates for the legends used in the visualization menu.
+- 
 ## Row Grouping
 
 Using Bi+ you can group the rows of the fields by selection **group** options from the drop down. 
@@ -138,7 +145,7 @@ Calculated column is statement or expression or a function operator which can be
 - **Field type** derives dimension or measure.
 
 - **Calculation** derive Arithmetical & logical expressions.
-- ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c383b6e32c490bd5f0a32eb8cf2dcd4bb1fbfa9d/images/calculate%20column1.png)
+ ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c383b6e32c490bd5f0a32eb8cf2dcd4bb1fbfa9d/images/calculate%20column1.png)
 
 Run the report after deriving calculated column:
 
@@ -217,5 +224,5 @@ You can apply different number formats and currency options to measures.
 Below is sql query for the report :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzgwMDMzMjNdfQ==
+eyJoaXN0b3J5IjpbODEyNzk0MTQzLC0xMzc4MDAzMzIzXX0=
 -->
