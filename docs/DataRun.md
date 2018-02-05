@@ -123,7 +123,7 @@ Using Bi+ you can limit the display of field values by using **Limit** option an
 
 Depending on the query build by selecting fields from dimensions and measures the data is triggered
 
-- **Row Grouping** are used to cluster the field value side-by-side in charts.
+- **Row Grouping** enables row grouping for column fields and it is applied for first column field only.
 
 - **Explore Enabled** to explore the data which are grouped.
 
@@ -131,7 +131,7 @@ Depending on the query build by selecting fields from dimensions and measures th
 
 - **Datasets** specifies the alignment, formats, currency, number of y-axis and grouping of aggregates for the legends used in the visualization menu.
 
-## Row Grouping
+## Row Grouping for Specific column
 
 Using Bi+ you can group the rows of the fields by selection **group** options from the drop down. 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/12c2bc69fcf082dc620f2819ae901ae9c7a962a7/images/group.png)
@@ -227,5 +227,5 @@ You can apply different number formats and currency options to measures.
 Below is sql query for the report :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTc0ODAyNiwtMTM3ODAwMzMyM119
+eyJoaXN0b3J5IjpbLTEwNzQyNzU1NTldfQ==
 -->
