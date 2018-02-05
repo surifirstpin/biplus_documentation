@@ -107,11 +107,11 @@ Using Bi+ you can apply the sorting options locally at the column field in the d
 
 ## Row Limitation and Query Time
 
-Using Bi+ you can limit the display of field values by using Limit option and check the Query run-time as shown in the image below;
+Using Bi+ you can limit the display of field values by using Limit option and check the Query run-time as shown in the image below ;
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/row_limit.png)
 
 ## Pivot table
-
 -   Pivot  checks each dimension horizontally and reduces the effect of scrolling down the data.
   
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/78c46d819c716135d45ff60b9a71b15dd9e7a97f/images/pivot.png)
@@ -233,5 +233,5 @@ Using Bi+ you can add different logic's individually as explained below:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwOTY0NzU2XX0=
+eyJoaXN0b3J5IjpbLTQzMzU0MTY2Nl19
 -->
