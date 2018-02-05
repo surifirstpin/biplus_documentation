@@ -1,51 +1,48 @@
 ## 9 different chart type
 
 Bi+ enables you to visualize the data in 9 different chart types.
- Under visualization section Click on **charts** tab and click on ** general** section to view all the available charts option in Bi+ .
+**1.** Under visualization section Click on **charts** tab and click on ** general** section to view all the available charts option in Bi+ .
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3710ac3eed2b9f9c4f8cee76118256359b3e83cc/images/charts.png)
 
-## Line Chart :
- 
- This section explains the editing options for line chart.
+## Line Chart in visualization menu:
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/line_chart.png)
+:
+ 
+ This section explains the editing options for line chart
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1//images/line_chart.png)
 
  - Line type displays the information as a series of data points called markers.
 Below are the list of markers used in Bi+, 
-     - Spline 
-      - Step
-      - Area
-      - Area-Spline
-      - Area-Step
-      - Scatter and uses spline as default line type
-      
-## Bar Chart 
- This section explains the editing options for bar chart.
- 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/bar_chart.png)
+- Spline 
+- Step
+- Area
+- Area-Spline
+- Area-Step
+- Scatter and uses spline as default line type
 
-## Pie chart in visualization menu :
- This section explains the editing options for pie chart.
-- **Show percentage**  displays percentage for pie.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d3d4eada165eae0a50c4611ea26492aa4955d2b7931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/barline_chart.png)
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/pie_chart.png)
+## BarPie chart in visualization menu:
 
-### Polar Area
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea450d8394be0b51c1be62b6a079fd7d0a88a35fa82b873c0857bbfa3e9/images/_chart.png)
 
- **Polar area** displays data in polar area view.
- 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/polar_area.png)
+###  chart in visualization menu :
+- **Show perarea**  displays percentage for pdata in polar area view.
+- **Polar area** displays data in  
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b873c0857bbfa3e9/images/polar _area.png)
 
 ### Donut 
 
-**Donut** displays data in  donut view.
+ ** displays ie.
+vie**Donut** displays data in  donut view.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/donut.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c66214b2148edec3d66478d025613df820473d76/images/_chart.png)
+
+## Radar chart in visualization menu :931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/donut.png)
 
 ## Radar chart in visualization menu :
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/radar_chart.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1//images/radar_chart.png)
 
 - **Tooltips** points the first measure value of the column field.
 
@@ -66,15 +63,17 @@ Below are the list of markers used in Bi+,
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
 - **Reverse scale** reverses the chart .
-- 
-- **Show ticklabels** displays the points in y-axis.
+-- **Show ticklabels** displays the points in y-axis.
 - **Show arc lines** points the dimension fields in radar chart.
 - **Arc field** select the dimension field to apply arc lines.
 - **Curve** to maximum and minimize the measure values.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8c388ee908e66225a1da14cb36218e1a29087ff1/images/radar_chart.png)
+
 ## Bubble chart in visualization menu:
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/bubble_chart.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ec5924d5adfe6b89f890004c73f4af93ab62f8c6931940aa7f830b84487e8ea4/images/bubble_chart.png)
+
 
 ## Funnel chart in visualization menu:
 
@@ -87,10 +86,9 @@ You can view the funnel charts using different formats
  - Dynamic Height   
  - Dynamic Slop 
  - Load Animation
- ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/funnel_chart.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d696d15bd213206d95a7c0ba73396857aeb0e7de931940aa7f830b84487e8ea4/images/funnel_chart.png)
 
 ##  Gauge chart in visualization menu:
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/guage.png)
 
 - **Value** select the field value to carry out the operations
 - **Min** displays minimum value measure field.
@@ -100,8 +98,9 @@ You can view the funnel charts using different formats
 - **Reverse** Displays maximum to minimum value.
 - **Hide Minmax**  hides min and maximum value
 
-## Table chart :
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/table_chart.png)
+## Table chart in visualization menu:
+:
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/717c0f965ba7ecb18b850c5be7da86e667de298b931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/table_chart.png)
 
 ## Widget chart in visualization menu and operations applicable:
 - **Value** select the 1st measure value to apply the conditions.
@@ -110,8 +109,8 @@ You can view the funnel charts using different formats
 - **Change** choose the condition (difference,growth,none).
 - **Show growth** displays the growth rate of selected measure fields.
 - **Style** set different style formats from the option provided.
-- 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/widget_chart.png)
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/28fb94f1198bb83b0c3ecd8244bed8c91fef3f7fb873c0857bbfa3e9/images/widget_chart.png)
 
 ##  World chart in visualization menu:
 
@@ -148,6 +147,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTYwMTY4MzIsLTE5NDgyMzIyNTUsND
-Y3OTA2MjI0XX0=
+eyJoaXN0b3J5IjpbLTE0MjEwNzU4NTQsLTExOTYwMTY4MzIsLT
+E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
