@@ -133,6 +133,13 @@ To freeze the field values click on ** Pin** options in drop down and click on *
  To hide field values click on **Hide Visualization** option in the drop down option.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bee13bc200cda9988be61a3c7b58de502a4915fa/images/hide_visu.png)
   
+  ## Group aggregate option
+
+  it helps you to display the consolidated values to the fields which are grouped.
+  **a.** enable row grouping by selecting the checkbox.
+  **b.** you can explore the primary column fields data individually, which are grouped under the column field. 
+  **c.** Select the field for which you want to perform row grouping.
+  
 ## General 
 
 - **Title**  provides a label or identifier title for chart, align them on any side of the chart. 
@@ -209,12 +216,7 @@ You can apply different number formats and currency options to measures.
 
 
 
-## Group aggregate option
 
-  it helps you to display the consolidated values to the fields which are grouped.
-  **a.** enable row grouping by selecting the checkbox.
-  **b.** you can explore the primary column fields data individually, which are grouped under the column field. 
-  **c.** Select the field for which you want to perform row grouping.
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/657b29d2f18b269f2964e8150a3670df8db7869c/images/group_aggregate.png)
 
 ## Format based on Logic
@@ -231,5 +233,5 @@ Using Bi+ you can add different logic's individually as explained below:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjkxNzIyOV19
+eyJoaXN0b3J5IjpbMTA3OTA5MTg4N119
 -->
