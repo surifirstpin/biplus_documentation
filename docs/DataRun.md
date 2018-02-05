@@ -213,11 +213,6 @@ You can apply different number formats and currency options to measures.
 |         €        |
 |         £        |
 
-
-
-
-
-  
 ## Format based on Logic
 
 Using Bi+ you can add different logic's individually as explained below:
@@ -232,5 +227,5 @@ Using Bi+ you can add different logic's individually as explained below:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjI0NTczNV19
+eyJoaXN0b3J5IjpbLTEzOTU1OTMwNzVdfQ==
 -->
