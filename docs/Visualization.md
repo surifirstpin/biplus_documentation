@@ -32,11 +32,11 @@ Below are the list of markers used in Bi+,
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/donut.png)
 
 ## Radar chart 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/radar_chart.png)
 
 - **Tooltips** points the first measure value of the column field.
 
 - **Grouped Tooltips** points all the measure values of the column field.
-
 
 - **Points** enables pointers at the field values using the following point styles ;
   - Circle
@@ -50,15 +50,16 @@ Below are the list of markers used in Bi+,
   - Dash
 - **Show legend** displays the measures values of the chart.
 
-
 - **Position** Align the legend at top,bottom,left and right side of the chart.
-
 
 - **Reverse scale** reverses the chart .
 
 - **Show ticklabels** displays the points in y-axis.
+
 - **Show arc lines** points the dimension fields in radar chart.
+
 - **Arc field** select the dimension field to apply arc lines.
+
 - **Curve** to maximum and minimize the measure values.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8c388ee908e66225a1da14cb36218e1a29087ff1/images/radar_chart.png)
@@ -140,6 +141,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxNTY0OTcxLC0xMTk2MDE2ODMyLC0xOT
-Q4MjMyMjU1LDQ2NzkwNjIyNF19
+eyJoaXN0b3J5IjpbMTcwNzE2NTg2MSwtMTE5NjAxNjgzMiwtMT
+k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
