@@ -123,6 +123,7 @@ Using Bi+ you can limit the display of field values by using **Limit** option an
 
 Using Bi+ you can group the rows of the fields by selection **group** options from the drop down. 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/12c2bc69fcf082dc620f2819ae901ae9c7a962a7/images/group.png)
+Calculation statement or expression or a function operator which can be used to derive the column values, Below are the list of operators used for calculation
 
 ## Pin or Remove Pin
 
@@ -231,5 +232,5 @@ you can apply different conditions logic to the field values:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4MzIwNTQyXX0=
+eyJoaXN0b3J5IjpbMTc0Mzg4ODgwOF19
 -->
