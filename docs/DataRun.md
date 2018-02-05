@@ -163,31 +163,6 @@ To freeze the field values click on ** Pin** options in drop down and click on *
   
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/657b29d2f18b269f2964e8150a3670df8db7869c/images/group_aggregate.png)
 
-## General 
-
-- **Title**  provides a label or identifier title for chart, align them on any side of the chart. 
-- **Padding** sets the spacing in any side of the chart.
-
-## Data 
-
-- **Row Grouping** are used to cluster the field value side-by-side in charts.
-- **Explore Enabled**
-- **Stacked** are used whether to stack the values at y-axis.
-- **Datasets** specifies the alignment,formats,currency,number of y-axis and grouping of aggregates for the legends used in the visualization menu.
-
-## X- Axis functionality
-
-- **Axis type** type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column,timeframe refer to the time-format of the data.
-- **Label field** select the field name for which you want to display the field values in x-axis.
-- **Show grid** enables grid display for the field values selected. 
-- **Axis label** provide label option in x-axis of the chart.
-- **Reference Line** allows you to refer specific range of values by applying colours and label to the same.
-
-##  Y- Axis functionality
-
--**Axis type** refer to type of axis used in charts.
--**Label field** select the field name for which you want to display the field values in Y-axis.
-- **Reference Line** allows you to refer specific range of values by applying colours and label to the same.
 
 ## Number Format & Currency option for Fields
 
@@ -248,6 +223,10 @@ you can apply different conditions logic to the field values:
 - **Icon** Select a icon for for the data retrieved based on condition.
 - **Before number** Align the icon before or after the data.
 
+## SQL Query 
+
+Below is sql query for the report :
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTEwNzUxMV19
+eyJoaXN0b3J5IjpbMTg2MzE1NjAxXX0=
 -->
