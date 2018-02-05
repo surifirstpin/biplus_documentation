@@ -91,10 +91,10 @@ Filters is a optional list of filter expression applied to measure calculation,b
 ## Hidden Filters
 
 On applying hidden filters the column fields are visible in the list of filter expression specified and displays the data depending on the filters applied.
- 
+ ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e777906f8a8aafdb323a64c65c2a1c9e69cb01b1/images/hidden_filter.png)
 
 
-## Global Sorting (Ascending / Descending)
+## Order Sorting (Ascending / Descending)
 
 Using BI+ you can perform sorting on data retreived by applying ascending and decending orders.
 
@@ -105,10 +105,6 @@ Using BI+ you can perform sorting on data retreived by applying ascending and de
 Using Bi+ you can apply the sorting options locally at the column field in the data section of visualization.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c6f7269afe640dd6c16f4fd1d4423aa394bdf2b4/images/local_sorting.png)
-
-## Hidden filter option
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e777906f8a8aafdb323a64c65c2a1c9e69cb01b1/images/hidden_filter.png)
 
 ## Field Visualization On / Off
 
@@ -201,5 +197,5 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDUzNzUyOV19
+eyJoaXN0b3J5IjpbLTEzOTg5MTI2ODldfQ==
 -->
