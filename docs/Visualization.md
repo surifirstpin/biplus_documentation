@@ -2,6 +2,7 @@
 
 Depending on query build it enables pictorial representation of data with different chart options.
 
+This page describes the editing options for charts under visualization and types of charts used in Bi+.
 
 ## General 
 
@@ -172,5 +173,5 @@ You can view the funnel charts using different formats
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4MDI1OTIwLDQ2NzkwNjIyNF19
+eyJoaXN0b3J5IjpbMTc4MTE1NzAwNCw0Njc5MDYyMjRdfQ==
 -->
