@@ -2,11 +2,11 @@
 
 Depending on query build it enables pictorial representation of data with different chart options.
 **Getting started:
-**1.** Under visualization section Click on **charts** tab and click on ** general** section to view all the available charts option in Bi+ .
+**1.** Under visualization section Click on **charts** tab and click on ** general** section to view all the available charts option in Bi+.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3710ac3eed2b9f9c4f8cee76118256359b3e83cc/images/charts.png)
 
-## Line Chart in visualization menu:
+## Line Chart :
 
 Line type displays the information as a series of data points called markers.
 Below are the list of markers used in Bi+, 
@@ -24,6 +24,7 @@ Below are the list of markers used in Bi+,
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/50d8394be0b51c1be62b6a079fd7d0a88a35fa82/images/bar_chart.png)
 
 ## Pie chart in visualization menu :
+
 - **Show percentage**  displays percentage for pie.
 - **Polar area** displays data in polar area view.
 - **Donut** displays data in  donut view.
@@ -166,5 +167,5 @@ you can apply different conditions logic to the field values:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzAwODU5MCw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbNTE0Njc4NzQwLDQ2NzkwNjIyNF19
 -->
