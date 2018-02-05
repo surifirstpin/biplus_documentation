@@ -139,7 +139,44 @@ A view may join other views and there relationship are defined as part of data a
 
 **Drill has different actions for dimensions and measures:**
 
-- When **drilling on a dimension,** the new query filters on the drilled value. For example, if you click on a specific month in a query of customer order by month, the new query will show only orders in specific month.
+- When **drilling on a dimension,** the new query filters on the drilled value. For example, if you click on country name it willl show the tste and 
+```
+{
+			"name": "BRANCHCODE",
+			"label": "BRANCHCODE",
+			"data_type": "string",
+			"type": "dimension",
+			"lookup": "",
+			"operators": "",
+			"sql": "${TABLE}.BRANCHCODE",
+			"summary": "",
+			"visualise": "true"
+		},
+		{
+			"name": "COUNTRYNAME",
+			"label": "COUNTRYNAME",
+			"data_type": "string",
+			"type": "dimension",
+			"lookup": "",
+			"operators": "",
+			"sql": "${TABLE}.COUNTRYNAME",
+			"summary": "",
+			"drill_down_fields": "STATENAME",
+			"show_drill_down_measures": "true",
+			"visualise": "true"
+		},
+		{
+			"name": "STATENAME",
+			"label": "STATENAME",
+			"data_type": "string",
+			"type": "dimension",
+			"lookup": "",
+			"operators": "",
+			"sql": "${TABLE}.STATENAME",
+			"summary": "",
+			"visualise": "true"
+		},
+```
 - When **drilling on a measure,** the new query will show the data set that contributed to the measure. For example,  when drilling on a max measure it shows all the rows that were used to calculate the max value, not just a single row for the max value.
  -when drilling is applied on a dimension, 
  **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning he true or false condition to the parameter.
@@ -177,5 +214,5 @@ A view may join other views and there relationship are defined as part of data a
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1NDAzOTQ4XX0=
+eyJoaXN0b3J5IjpbMTEzNTU2NDA3MV19
 -->
