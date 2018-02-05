@@ -115,6 +115,7 @@ Using Bi+ you can limit the display of field values by using Limit option and ch
 - You can directly apply pivot option in data output field by selecting **pivot** option from drop down.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
+
 ## Row Grouping
 
 Using Bi+ you can group the rows of the fields by selection **group** options from the drop down. 
@@ -126,13 +127,12 @@ To freeze the field values click on ** Pin** options in drop down and click on *
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b001b2f2f386a9730f3be339c38c54b73c69c5b9/images/pin.png)
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f14d690d76bb1f0feacaf24259f67d1b9b55ea52/images/unpin.png)
+
 ## Field Visualization On / Off
 
  To hide field values click on **Hide Visualization** option in the drop down option.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bee13bc200cda9988be61a3c7b58de502a4915fa/images/hide_visu.png)
   
-## Standard Editing options in visualization menu:
-
 ## General 
 
 - **Title**  provides a label or identifier title for chart, align them on any side of the chart. 
@@ -231,5 +231,5 @@ Using Bi+ you can add different logic's individually as explained below:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzIyNDIwODhdfQ==
+eyJoaXN0b3J5IjpbMjA3NjkxNzIyOV19
 -->
