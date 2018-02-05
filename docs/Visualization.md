@@ -2,6 +2,7 @@
 
 Depending on query build it enables pictorial representation of data with different chart options.
 
+
 ## General 
 
 - **Title**  provides a label or identifier title for chart, align them on any side of the chart. 
@@ -21,9 +22,9 @@ Depending on query build it enables pictorial representation of data with differ
 
 ##  Y- Axis functionality
 
--**Axis type** refer to type of axis used in charts.
+- **Axis type** refer to type of axis used in charts.
 
--**Label field** select the field name for which you want to display the field values in Y-axis.
+- **Label field** select the field name for which you want to display the field values in Y-axis.
 
 - **Reference Line** allows you to refer specific range of values by applying colours and label to the same.
 
@@ -171,5 +172,5 @@ You can view the funnel charts using different formats
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA0NTAzMzgsNDY3OTA2MjI0XX0=
+eyJoaXN0b3J5IjpbNDc4MDI1OTIwLDQ2NzkwNjIyNF19
 -->
