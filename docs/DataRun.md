@@ -129,7 +129,7 @@ Depending on your field selection data under data analysis is enabled.
 
 - **Datasets** specifies the alignment, formats, currency, number of y-axis and grouping of aggregates for the legends used in the visualization menu.
 
-- **Calculate on Raw data** Calculates the field value before applying grouping ,pivot or other parameters or else calculates 
+- **Calculate on Raw data** Calculates the field values before applying grouping ,pivot or other parameters or else calculates after applying the parameters.
 
 ### Group aggregate
 
@@ -229,5 +229,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTczNjY5M119
+eyJoaXN0b3J5IjpbLTExMDg3MzM2NDNdfQ==
 -->
