@@ -129,7 +129,8 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 
  To hide field values click on **Hide Visualization** option in the drop down option.
  **To Freeze**
- **To release **
+
+**To release **
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f14d690d76bb1f0feacaf24259f67d1b9b55ea52/images/unpin.png)
 ## Number Format & Currency option for Fields
 
@@ -202,5 +203,5 @@ Using Bi+ you can add different logic's individually as explained below:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzY3MzUxODVdfQ==
+eyJoaXN0b3J5IjpbMTU0MTQ1Nzc4NV19
 -->
