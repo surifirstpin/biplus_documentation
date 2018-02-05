@@ -139,7 +139,7 @@ A view may join other views and there relationship are defined as part of data a
 
 **Drill has different actions for dimensions and measures:**
 
-- When **drilling on a dimension,** the new query filters on the drilled value. For example, if you click on country name it willl show the state and branchcode
+- When **drilling on a dimension,** the new query filters on the drilled value. For example, if you click on country name it willl show the state and branchcode assigned
 ```
 {
 			"name": "BRANCHCODE",
@@ -214,5 +214,5 @@ A view may join other views and there relationship are defined as part of data a
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODAxNzczMzddfQ==
+eyJoaXN0b3J5IjpbLTE3NjU5Nzk1MzFdfQ==
 -->
