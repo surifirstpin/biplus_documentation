@@ -30,11 +30,6 @@ Using the search option provided in the visualization section you can select the
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/visu_fields.png)
 
-## Row Limitation and Runtime display
-
-Using Bi+ you can limit the display of field values by using Limit option and check the Query runtime as shown in the image below;
- ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/row_limit.png)
-
 ## Filters (String , Integer and Date)
 
 Filters is a optional list of filter expression applied to measure calculation,below are the available operations that can be applied for String , Integer and Date.
@@ -108,9 +103,8 @@ Using Bi+ you can apply the sorting options locally at the column field in the d
 
 ## Row Limitation and Runtime display
 
-Using Bi+ you can limit the display of field values by using Limit option and check the Query runtime as shown in the image below;
-
-
+Using Bi+ you can limit the display of field values by using Limit option and check the Query run-time as shown in the image below;
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/row_limit.png)
 ## Field Visualization On / Off
 
  In Bi+ you can hide the fields values in visualization charts by using the drop down option.
@@ -202,5 +196,5 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0NzA4MDMzXX0=
+eyJoaXN0b3J5IjpbMTcxNzM5NDQ1NF19
 -->
