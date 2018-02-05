@@ -99,6 +99,7 @@ You can view the funnel charts using different formats
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa5a5ec1ca971ffeed2d834874ab8905fc50bd31/images/world.png)
 
 ### Editing options in World chart :
+
 - **Title** name identifier for the world chart.
 - **Flat Map** enables the "2D" vision of the chart.
 - **Default** set default colour to display countries.
@@ -128,5 +129,5 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5NjI1MDk4XX0=
+eyJoaXN0b3J5IjpbMjk4NjI1MjBdfQ==
 -->
