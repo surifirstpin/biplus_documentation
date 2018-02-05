@@ -114,7 +114,7 @@ Using Bi+ you can limit the display of field values by using Limit option and ch
 
 ## Field Visualization On / Off
 
- In Bi+ you can hide the fields values by selecting **Hide Visualization** in the drop down option.
+ To hide field values click on **Hide Visualization** option in the drop down option.
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bee13bc200cda9988be61a3c7b58de502a4915fa/images/hide_visu.png)
     
 
@@ -197,5 +197,5 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0MjI4ODYyXX0=
+eyJoaXN0b3J5IjpbLTIwOTk0MjA2MDJdfQ==
 -->
