@@ -88,6 +88,10 @@ Filters is a optional list of filter expression applied to measure calculation,b
 |is not null                   |data which is not equal to null
 |is null                       |data which is equal to null
 
+## Hidden Filters
+
+On applying hidden filters the column fields are visible in the list of filter expression specified and displays the data depending on the filters applied.
+ 
 
 
 ## Global Sorting (Ascending / Descending)
@@ -104,8 +108,7 @@ Using Bi+ you can apply the sorting options locally at the column field in the d
 
 ## Hidden filter option
 
-On applying hidden filters the column fields are visible in the list of filter expression specified and displays the data depending on the filters applied.
- ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e777906f8a8aafdb323a64c65c2a1c9e69cb01b1/images/hidden_filter.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e777906f8a8aafdb323a64c65c2a1c9e69cb01b1/images/hidden_filter.png)
 
 ## Field Visualization On / Off
 
@@ -198,5 +201,5 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4Njc3MTgxNl19
+eyJoaXN0b3J5IjpbLTI3NDUzNzUyOV19
 -->
