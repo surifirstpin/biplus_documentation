@@ -30,10 +30,7 @@ vie**Donut** displays data in  donut view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c66214b2148edec3d66478d025613df820473d76/images/_chart.png)
 
-## Radar chart in visualization menu :931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/donut.png)
-
-## Radar chart in visualization menu :
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1//images/radar_chart.png)
+## Radar chart 
 
 - **Tooltips** points the first measure value of the column field.
 
@@ -142,6 +139,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTY0OTU1MDUsLTExOTYwMTY4MzIsLT
-E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
+eyJoaXN0b3J5IjpbLTUyOTQ3ODEyNSwtMTE5NjAxNjgzMiwtMT
+k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
