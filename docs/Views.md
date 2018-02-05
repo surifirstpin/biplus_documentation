@@ -180,6 +180,21 @@ A view may join other views and there relationship are defined as part of data a
 - When **drilling on a measure,** the new query will show the data set that contributed to the measure. For example,  when drilling on a max measure it shows all the rows that were used to calculate the max value, not just a single row for the max value.
  -when drilling is applied on a dimension, 
 
+```
+{
+			"name": "REVENUE_AMOUNT",
+			"label": "REVENUE_AMOUNT",
+			"data_type": "number",
+			"type": "measure",
+			"lookup": "",
+			"operators": "",
+			"sql": "${TABLE}.REVENUE_AMOUNT",
+			"summary": "sum,avg,max,min,count",
+			"drill_down_fields": "BONUSPOINTS",
+			"show_drill_down_measures": "true",
+			"visualise": "true"
+		}
+``` 
 
 ## Field Visibility On / Off
 
@@ -214,5 +229,5 @@ A view may join other views and there relationship are defined as part of data a
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTgzODU1N119
+eyJoaXN0b3J5IjpbLTEwNzUzNjkyMjFdfQ==
 -->
