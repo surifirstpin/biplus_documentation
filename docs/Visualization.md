@@ -20,13 +20,16 @@ Below are the list of markers used in Bi+,
 
 ## Bar chart in visualization menu:
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/bar_chart.png)
+
 ## Pie chart in visualization menu :
 - **Show percentage**  displays percentage for pie.
 - **Polar area** displays data in polar area view.
 - **Donut** displays data in  donut view.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/pie_chart.png)
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c66214b2148edec3d66478d025613df820473d76/images/pie_chart.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/polar_area.png)
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/donut.png)
 ## Radar chart in visualization menu :
 
 - **Tooltips** points the first measure value of the column field.
@@ -127,6 +130,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExNTE3NzM5LC0xOTQ4MjMyMjU1LDQ2Nz
-kwNjIyNF19
+eyJoaXN0b3J5IjpbLTQzNzMxODkyMCwtMTk0ODIzMjI1NSw0Nj
+c5MDYyMjRdfQ==
 -->
