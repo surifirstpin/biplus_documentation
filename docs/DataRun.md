@@ -170,7 +170,6 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 -**Label field** select the field name for which you want to display the field values in Y-axis.
 - **Reference Line** allows you to refer specific range of values by applying colours and label to the same.
 
-
 ## Number Format & Currency option for Fields
 
 You can apply different number formats and currency options to measures.
@@ -231,5 +230,5 @@ Using Bi+ you can add different logic's individually as explained below:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzgzNzc0Nl19
+eyJoaXN0b3J5IjpbMTk5MjMzMDYyMF19
 -->
