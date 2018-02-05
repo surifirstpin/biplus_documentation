@@ -161,7 +161,7 @@ To freeze the field values click on ** Pin** options in drop down and click on *
   **b.** you can explore the primary column fields data individually, which are grouped under the column field. 
   **c.** Select the field for which you want to perform row grouping.
   
- ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/657b29d2f18b269f2964e8150a3670df8db7869c/images/group_aggregate.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/657b29d2f18b269f2964e8150a3670df8db7869c/images/group_aggregate.png)
 
 
 ## Number Format & Currency option for Fields
@@ -211,6 +211,7 @@ You can apply different number formats and currency options to measures.
 |         £        |
 
 ## Format based on Logic
+
 you can apply different conditions logic to the field values:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/959d41865fdc807c1a289904b3e14415443e0cd7/images/logic_format.png)
@@ -228,5 +229,5 @@ you can apply different conditions logic to the field values:
 Below is sql query for the report :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MzE1NjAxXX0=
+eyJoaXN0b3J5IjpbNjQ4MDQ2NDQ1XX0=
 -->
