@@ -1,6 +1,6 @@
 ## Visualization
 
-Dwepending on query build it enables pictor
+Dwepending on query build it enables pictorial represe
 Bi+ enables you to visualize the data in 9 different chart types.
 **1.** Under visualization section Click on **charts** tab and click on ** general** section to view all the available charts option in Bi+ .
 
@@ -166,5 +166,5 @@ you can apply different conditions logic to the field values:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwNTM5OTMyLDQ2NzkwNjIyNF19
+eyJoaXN0b3J5IjpbLTM4MTc2Njc2OCw0Njc5MDYyMjRdfQ==
 -->
