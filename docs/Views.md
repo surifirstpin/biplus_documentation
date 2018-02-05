@@ -195,39 +195,10 @@ A view may join other views and there relationship are defined as part of data a
 		}
 		
 ``` 
-
 ## Field Visibility On / Off
 
 **Visualize** parameter is used as display on-off option of the field in visualization section by assigning true or false condition to the parameter.
 
-## Adding Currency & Format to a field
-
- **Number_format** it specifies different set of number formats used for the field values.
-
-**Currency** is applied to retrieve the values in specified currency applicable.
- 
-### Syntax for defining fields in custom table :
-```
-"fields": [
-		{
-			"name": "CUSTNAME",
-			"label": "CUSTOMER NAME",
-			"data_type": "string",
-			"type": "dimension",
-			"lookup": "",
-			"operators": "",
-			"sql": "\"CustomView_820\".CUSTNAME",
-			"summary": "",
-			"drill_down_fields": "SC,ORID",
-			"visualise": "true"
-]
-}
-```    
-
-## Defining map coordinates
-
-## Login based Lookups
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDUwMzc5NDJdfQ==
+eyJoaXN0b3J5IjpbLTExOTA4OTUyMzVdfQ==
 -->
