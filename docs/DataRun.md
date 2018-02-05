@@ -135,8 +135,7 @@ Calculated column is statement or expression or a function operator which can be
 
 - **Field type** derives dimension or measure.
 
-- **Calculation** derive Arithmetical & logical expressions.
--![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c383b6e32c490bd5f0a32eb8cf2dcd4bb1fbfa9d/images/calculate%20column1.png)
+- **Calculation** derive Arithmetical & logical expressions.![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c383b6e32c490bd5f0a32eb8cf2dcd4bb1fbfa9d/images/calculate%20column1.png)
 Run the report after deriving calculated column:
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c383b6e32c490bd5f0a32eb8cf2dcd4bb1fbfa9d/images/calculate%20column2.png)
 ## Pin or Remove Pin
@@ -246,5 +245,5 @@ you can apply different conditions logic to the field values:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjMxNTE0NjFdfQ==
+eyJoaXN0b3J5IjpbLTkzMzUxMDEwOF19
 -->
