@@ -218,8 +218,8 @@ You can apply different number formats and currency options to measures.
 |         £        |
 
 ## Format based on Logic
+you can apply different conditions logic to the field values:
 
-To add conditions to 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/959d41865fdc807c1a289904b3e14415443e0cd7/images/logic_format.png)
 
 - **Condition** Select the condition you want to apply on the field.
@@ -231,5 +231,5 @@ To add conditions to
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODEyNDE2M119
+eyJoaXN0b3J5IjpbMzM4MzIwNTQyXX0=
 -->
