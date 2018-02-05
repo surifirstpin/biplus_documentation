@@ -14,8 +14,6 @@ Visualisation sections contains Dimension and measures which acts as fundamental
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/visu_run.png)
 
-## Select Data Fields
-
 Views contain some set of fields, mostly dimensions and measures and they act as fundamental building blocks for Bi+ queries.
 Dimensions are list of fields that can be used for applying filter options, for instance:
 - An **Attribute**, which has a direct association to a column in an primary table.
@@ -233,5 +231,5 @@ Using Bi+ you can add different logic's individually as explained below:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDk0NjE2OF19
+eyJoaXN0b3J5IjpbMTE5NDAxNDU4NV19
 -->
