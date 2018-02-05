@@ -81,7 +81,7 @@ This section describes the option for editing pie chart in visualization menu.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c66214b2148edec3d66478d025613df820473d76/images/pie_chart.png)
 
-polar Area:
+Polar Area :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/441a2885782ed75dae2f9b1bd5379bdcaeba059a/images/polar_area.png)
 
 Donut:
@@ -181,5 +181,5 @@ You can view the funnel charts using different formats
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjI2ODIyMyw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbMjE0MzU4MTcyNyw0Njc5MDYyMjRdfQ==
 -->
