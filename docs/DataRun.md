@@ -1,5 +1,6 @@
 
 ## Data Analysis
+
 Data Analysis Retrieve the  data  perform data exploration with slice and dice of report information providing pictorial representation.
 
 ## Build Query
@@ -10,6 +11,7 @@ Visualisation sections contains Dimension and measures which acts as fundamental
 
 **1.** Select the data fields from the list to create a visualisation.
 **2.** Click on Run Button.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/visu_run.png)
 
 ## Select Data Fields
@@ -53,6 +55,7 @@ Filters is a optional list of filter expression applied to measure calculation,b
 |doesn’t end with              | should not end with mentioned sub-string                  |
 
 ### Integer:
+
 |			Example            |						Description                         |                                                                                 
 |------------------------------|------------------------------------------------------------|
 |is not null                   | should not be equal to null value                          |                
@@ -71,6 +74,7 @@ Filters is a optional list of filter expression applied to measure calculation,b
 |not between                   | data not in between the specified range                    |
 
 ### Date :
+
 |			Example            |						Description                         |                                                                                 
 |------------------------------|------------------------------------------------------------|
 |timeline                      |data from specific time scale                               |
@@ -229,5 +233,5 @@ Using Bi+ you can add different logic's individually as explained below:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1NDg3NTZdfQ==
+eyJoaXN0b3J5IjpbOTQwOTY0NzU2XX0=
 -->
