@@ -72,6 +72,7 @@ Below are the list of markers used in Bi+,
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/50d8394be0b51c1be62b6a079fd7d0a88a35fa82/images/bar_chart.png)
 
+
 ## Pie chart in visualization menu :
 This section describes the option for editing pie chart in visualization menu.
 
@@ -91,6 +92,7 @@ Enables the polar area by displaying measure values
 ### Donut
 Enables you to format pie chart into donut.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2b45c10fdfcaaf86fa0255b5ce56ae98fcdab702/images/donut.png)
+
 ## Radar chart in visualization menu :
 
 - **Tooltips** points the first measure value of the column field.
@@ -186,5 +188,5 @@ You can view the funnel charts using different formats
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0MDg2OTEzLDQ2NzkwNjIyNF19
+eyJoaXN0b3J5IjpbLTE5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
