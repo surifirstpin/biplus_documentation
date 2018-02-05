@@ -81,6 +81,11 @@ This section describes the option for editing pie chart in visualization menu.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c66214b2148edec3d66478d025613df820473d76/images/pie_chart.png)
 
+polar Area:
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/441a2885782ed75dae2f9b1bd5379bdcaeba059a/images/polar_area.png)
+
+Donut:
+
 ## Radar chart in visualization menu :
 
 - **Tooltips** points the first measure value of the column field.
@@ -174,5 +179,5 @@ You can view the funnel charts using different formats
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyODc4NDYzLDQ2NzkwNjIyNF19
+eyJoaXN0b3J5IjpbMTYxNzcwNTI2MCw0Njc5MDYyMjRdfQ==
 -->
