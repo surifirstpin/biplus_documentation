@@ -39,6 +39,8 @@ Below are the list of markers used in Bi+,
 
 ## Radar chart in visualization menu :
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/radar_chart.png)
+
 - **Tooltips** points the first measure value of the column field.
 - **Grouped Tooltips** points all the measure values of the column field.
 - **Points** enables pointers at the field values using the following point styles ;
@@ -59,11 +61,9 @@ Below are the list of markers used in Bi+,
 - **Arc field** select the dimension field to apply arc lines.
 - **Curve** to maximum and minimize the measure values.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8c388ee908e66225a1da14cb36218e1a29087ff1/images/radar_chart.png)
-
 ## Bubble chart in visualization menu:
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ec5924d5adfe6b89f890004c73f4af93ab62f8c6/images/bubble_chart.png)
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/bubble_chart.png)
 
 ## Funnel chart in visualization menu:
 
@@ -76,7 +76,7 @@ You can view the funnel charts using different formats
  - Dynamic Height   
  - Dynamic Slop 
  - Load Animation
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d696d15bd213206d95a7c0ba73396857aeb0e7de/images/funnel_chart.png)
+ 
 
 ##  Gauge chart in visualization menu:
 
@@ -137,6 +137,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU4MzE4NzMsLTE5NDgyMzIyNTUsND
-Y3OTA2MjI0XX0=
+eyJoaXN0b3J5IjpbMjg2NDA3Nzg1LC0xOTQ4MjMyMjU1LDQ2Nz
+kwNjIyNF19
 -->
