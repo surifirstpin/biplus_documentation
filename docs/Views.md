@@ -177,8 +177,7 @@ A view may join other views and there relationship are defined as part of data a
 			"visualise": "true"
 		},
 ```
-- When **drilling on a measure,** the new query will show the data set that contributed to the measure. For example,  when drilling on a Revenue Account it shows all the rows that were used to calculate the max value, not just a single row for the max value.
- -when drilling is applied on a dimension, 
+- When **drilling on a measure,** the new query will show the data set that contributed to the measure. For example,  when drilling on a Revenue Account it shows all sum,avg,max,min,count of the bonus-points.
 
 ```
 {
@@ -229,5 +228,5 @@ A view may join other views and there relationship are defined as part of data a
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTU4MjE3NDBdfQ==
+eyJoaXN0b3J5IjpbMTM0NzQ2OTYwNV19
 -->
