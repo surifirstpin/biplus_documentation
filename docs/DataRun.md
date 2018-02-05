@@ -119,6 +119,8 @@ Using Bi+ you can limit the display of field values by using **Limit** option an
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 
+## Data 
+Depending on the query build by selecting fields from dimensions and measures the da
 ## Row Grouping
 
 Using Bi+ you can group the rows of the fields by selection **group** options from the drop down. 
@@ -210,24 +212,10 @@ You can apply different number formats and currency options to measures.
 |         €        |
 |         £        |
 
-## Format based on Logic
-
-you can apply different conditions logic to the field values:
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/959d41865fdc807c1a289904b3e14415443e0cd7/images/logic_format.png)
-
-- **Condition** Select the condition you want to apply on the field.
-- **Format on** Select the measure for which you want to set the format.
-- **Value** Specify a value to which you want to apply condition. 
-- **BG (background colour)** Select the background colour for the data - which is retrieved using condition.
-- **Font** Select the font colour for the data retrieved based on condition.
-- **Icon** Select a icon for for the data retrieved based on condition.
-- **Before number** Align the icon before or after the data.
-
 ## SQL Query 
 
 Below is sql query for the report :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4MDQ2NDQ1XX0=
+eyJoaXN0b3J5IjpbMjQ1MjYxOTQ1XX0=
 -->
