@@ -193,9 +193,9 @@ Using Bi+ you can add different logic's individually as explained below:
 - **Value** Specify a value to which you want to apply condition. 
 - **BG (background colour)** Select the background colour for the data - which is retrieved using condition.
 - **Font** Select the font colour for the data retrieved based on condition.
--**Icon** Select a icon for for the data retrieved based on condition.
-**Before number** Align the icon before or after the data.
+- **Icon** Select a icon for for the data retrieved based on condition.
+- **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTg4MjMyNF19
+eyJoaXN0b3J5IjpbLTE4NTI4NzEzMjFdfQ==
 -->
