@@ -136,7 +136,9 @@ Calculated column is statement or expression or a function operator which can be
 - **Field type** derives dimension or measure.
 
 - **Calculation** derive Arithmetical & logical expressions.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fe9bf8ee5cd5a67cac6e9f58dec7185b6d9ba9ab/images/calculate%20column1.png)
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fe9bf8ee5cd5a67cac6e9f58dec7185b6d9ba9ab/images/calculate%20column2.png)
 ## Pin or Remove Pin
 
 To freeze the field values click on ** Pin** options in drop down and click on **Remove Pin** to release it.
@@ -244,5 +246,5 @@ you can apply different conditions logic to the field values:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzgwOTgxMV19
+eyJoaXN0b3J5IjpbLTE4ODQxNTEyOF19
 -->
