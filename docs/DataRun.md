@@ -101,7 +101,7 @@ Using BI+ you can perform sorting on data retreived by applying ascending and de
 
 ## Local Sorting
 
-Sorting can be applied locally at the column field in the data section of visualization.
+Sorting can be applied locally to the column field in the data section of visualization.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c6f7269afe640dd6c16f4fd1d4423aa394bdf2b4/images/local_sorting.png)
 
@@ -232,5 +232,5 @@ Using Bi+ you can add different logic's individually as explained below:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTc2NzI2XX0=
+eyJoaXN0b3J5IjpbMTgxNDUzODEyNl19
 -->
