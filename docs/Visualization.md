@@ -48,6 +48,7 @@ vie**Donut** displays data in  donut view.
 
 - **Grouped Tooltips** points all the measure values of the column field.
 
+
 - **Points** enables pointers at the field values using the following point styles ;
   - Circle
   -  Triangle
@@ -60,10 +61,13 @@ vie**Donut** displays data in  donut view.
   - Dash
 - **Show legend** displays the measures values of the chart.
 
+
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
+
 - **Reverse scale** reverses the chart .
--- **Show ticklabels** displays the points in y-axis.
+
+- **Show ticklabels** displays the points in y-axis.
 - **Show arc lines** points the dimension fields in radar chart.
 - **Arc field** select the dimension field to apply arc lines.
 - **Curve** to maximum and minimize the measure values.
@@ -147,6 +151,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjEwNzU4NTQsLTExOTYwMTY4MzIsLT
+eyJoaXN0b3J5IjpbLTE2NTk0MzI4NjEsLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
