@@ -112,7 +112,7 @@ Using Bi+ you can limit the display of field values by using Limit option and ch
   
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/78c46d819c716135d45ff60b9a71b15dd9e7a97f/images/pivot.png)
 
-- You can directly apply pivot option in data output field by selecting **pivot** option in drop down button.
+- You can directly apply pivot option in data output field by selecting **pivot** option from drop down.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 ## Row Grouping
@@ -188,14 +188,14 @@ You can apply different number formats and currency options to measures.
 Using Bi+ you can add different logic's individually as explained below:
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/959d41865fdc807c1a289904b3e14415443e0cd7/images/logic_format.png)
 
-**Condition** Select the condition you want to apply on the field.
-**Format on** Select the measure for which you want to set the format.
-** Value** Specify a value to which you want to apply condition. 
-**BG (background colour)** Select the background colour for the data which is retrieved using condition.
-**Font** Select the font colour for the data retrieved based on condition.
-**Icon** Select a icon for for the data retrieved based on condition.
+- **Condition** Select the condition you want to apply on the field.
+- **Format on** Select the measure for which you want to set the format.
+- **Value** Specify a value to which you want to apply condition. 
+- **BG (background colour)** Select the background colour for the data - which is retrieved using condition.
+- **Font** Select the font colour for the data retrieved based on condition.
+-**Icon** Select a icon for for the data retrieved based on condition.
 **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1NjY0MTE4XX0=
+eyJoaXN0b3J5IjpbMTU5OTg4MjMyNF19
 -->
