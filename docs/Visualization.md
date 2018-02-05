@@ -111,33 +111,6 @@ You can view the funnel charts using different formats
 - **Negative Cutoff** enabled when negatives values are applicable.
 - ** Negative color-from & to** Specify colour for negative values.
 
-## Standard Editing options in visualization menu:
-
-## General Edits
-
-- **Title**  provides a label or identifier title for chart, align them on any side of the chart. 
-- **Padding** sets the spacing in any side of the chart.
-
-## Data Edits 
-
-- **Row Grouping** are used to cluster the field value side-by-side in charts.
-- **Explore Enabled**
-- **Stacked** are used whether to stack the values at y-axis.
-- **Datasets** specifies the alignment,formats,currency,number of y-axis and grouping of aggregates for the legends used in the visualization menu.
-
-## X- Axis functionality
-
-- **Axis type** type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column,timeframe refer to the time-format of the data.
--**Label field** select the field name for which you want to display the field values in x-axis.
--**Show grid** enables grid display for the field values selected. 
--**Axis label** provide label option in x-axis of the chart.
--**Reference Line** allows you to refer specific range of values by applying colours and label to the same.
-
-##  Y- Axis functionality
-
--**Axis type** refer to type of axis used in charts.
--**Label field** select the field name for which you want to display the field values in Y-axis.
-- **Reference Line** allows you to refer specific range of values by applying colours and label to the same.
 
 ## Condition Format     
 
@@ -151,22 +124,9 @@ You can view the funnel charts using different formats
 
 ## SQL Query 
 
-Below is sql query for the report.
-```
-SELECT
-ROOT.BI_DELIVERYREPORT.STATIONCODE AS "STATIONCODE",
-ROOT.BI_DELIVERYREPORT.DELIVERYID AS "DELIVERYID",
-ROOT.BI_DELIVERYREPORT.PHONE AS "PHONE_729",
-to_char(ROOT.BI_DELIVERYREPORT.WHENMADE, 'HH24') AS "hour_WHENMADE",
-to_char(ROOT.BI_DELIVERYREPORT.WHENMADE, 'DD') AS "day_WHENMADE",
-SUM(ROOT.BI_DELIVERYREPORT.TIMETAKEN) AS "sum_TIMETAKEN",
-AVG(ROOT.BI_DELIVERYREPORT.TIMETAKEN) AS "avg_TIMETAKEN"
-FROM ROOT.BI_DELIVERYREPORT "BI_DELIVERYREPORT"
-WHERE (ROOT.BI_DELIVERYREPORT.PHONE IS NOT NULL)
-GROUP BY (ROOT.BI_DELIVERYREPORT.STATIONCODE), (ROOT.BI_DELIVERYREPORT.DELIVERYID), (ROOT.BI_DELIVERYREPORT.PHONE), (to_char(ROOT.BI_DELIVERYREPORT.WHENMADE, 'HH24')), (to_char(ROOT.BI_DELIVERYREPORT.WHENMADE, 'DD'))
-```
+Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk0MDE0ODZdfQ==
+eyJoaXN0b3J5IjpbOTY2MTYwNDhdfQ==
 -->
