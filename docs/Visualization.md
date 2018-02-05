@@ -6,7 +6,8 @@ Bi+ enables you to visualize the data in 9 different chart types.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3710ac3eed2b9f9c4f8cee76118256359b3e83cc/images/charts.png)
 
 ## Line Chart in visualization menu:
-This section explains the editing options for line char
+This section explains the editing options for line chart.
+
 Line type displays the information as a series of data points called markers.
 Below are the list of markers used in Bi+, 
 - Spline 
@@ -137,6 +138,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzcxNTk0NCwtMTk0ODIzMjI1NSw0Nj
+eyJoaXN0b3J5IjpbMjA1MjY2ODY0NCwtMTk0ODIzMjI1NSw0Nj
 c5MDYyMjRdfQ==
 -->
