@@ -25,6 +25,7 @@ Below are the list of markers used in Bi+,
 
 ## Pie chart in visualization menu :
 This section describes the option for editing pie chart in visualization menu.
+
 - **Show percentage**  displays percentage for pie.
 - **Polar area** displays data in polar area view.
 - **Donut** displays data in  donut view.
@@ -167,5 +168,5 @@ you can apply different conditions logic to the field values:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTkwNDIyMDgsNDY3OTA2MjI0XX0=
+eyJoaXN0b3J5IjpbNTc5MjkxNzkwLDQ2NzkwNjIyNF19
 -->
