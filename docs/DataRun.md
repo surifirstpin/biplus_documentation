@@ -130,51 +130,14 @@ Depending on the query build by selecting fields from dimensions and measures th
 - **Stacked** are used whether to stack the values at y-axis.
 
 - **Datasets** specifies the alignment, formats, currency, number of y-axis and grouping of aggregates for the legends used in the visualization menu.
-
-## Group / Un-Group
-
-To group the row fields select **Group** options from the drop down.select **Un-Group** to release the same.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/12c2bc69fcf082dc620f2819ae901ae9c7a962a7/images/group.png)
-
-## Calculated column 
-
-Calculated column is statement or expression or a function operator which can be used to derive the column values.
-
-- **Field name** unique identifier name to refer calculated column
-- **Label** labeling the calculated column.
-
-- **Data type** data type used (string,number).
-
-- **Field type** derives dimension or measure.
-
-- **Calculation** derive Arithmetical & logical expressions.
- ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c383b6e32c490bd5f0a32eb8cf2dcd4bb1fbfa9d/images/calculate%20column1.png)
-
-Run the report after deriving calculated column:
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c383b6e32c490bd5f0a32eb8cf2dcd4bb1fbfa9d/images/calculate%20column2.png)
-
-## Pin or Remove Pin
-
-To freeze the field values click on ** Pin** options in drop down and click on **Remove Pin** to release it.
- ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b001b2f2f386a9730f3be339c38c54b73c69c5b9/images/pin.png)
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f14d690d76bb1f0feacaf24259f67d1b9b55ea52/images/unpin.png)
-
-## Field Visualization On / Off
-
- To hide field values click on **Hide Visualization** option in the drop down option.
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bee13bc200cda9988be61a3c7b58de502a4915fa/images/hide_visu.png)
-
+- 
 ## Group aggregate
 
   it helps you to display the consolidated values to the fields which are grouped.
   **a.** enable row grouping by selecting the checkbox.
   **b.** you can explore the primary column fields data individually, which are grouped under the column field. 
   **c.** Select the field for which you want to perform row grouping.
-  
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/657b29d2f18b269f2964e8150a3670df8db7869c/images/group_aggregate.png)
+  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/657b29d2f18b269f2964e8150a3670df8db7869c/images/group_aggregate.png)
 
 
 ## Number Format & Currency option for Fields
@@ -223,10 +186,45 @@ You can apply different number formats and currency options to measures.
 |         €        |
 |         £        |
 
+## Group / Un-Group
+
+To group the row fields select **Group** options from the drop down.select **Un-Group** to release the same.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/12c2bc69fcf082dc620f2819ae901ae9c7a962a7/images/group.png)
+
+## Calculated column 
+
+Calculated column is statement or expression or a function operator which can be used to derive the column values.
+
+- **Field name** unique identifier name to refer calculated column
+- **Label** labeling the calculated column.
+
+- **Data type** data type used (string,number).
+
+- **Field type** derives dimension or measure.
+
+- **Calculation** derive Arithmetical & logical expressions.
+ ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c383b6e32c490bd5f0a32eb8cf2dcd4bb1fbfa9d/images/calculate%20column1.png)
+
+Run the report after deriving calculated column:
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c383b6e32c490bd5f0a32eb8cf2dcd4bb1fbfa9d/images/calculate%20column2.png)
+
+## Pin or Remove Pin
+
+To freeze the field values click on ** Pin** options in drop down and click on **Remove Pin** to release it.
+ ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b001b2f2f386a9730f3be339c38c54b73c69c5b9/images/pin.png)
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f14d690d76bb1f0feacaf24259f67d1b9b55ea52/images/unpin.png)
+
+## Field Visualization On / Off
+
+ To hide field values click on **Hide Visualization** option in the drop down option.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bee13bc200cda9988be61a3c7b58de502a4915fa/images/hide_visu.png)
 ## SQL Query 
 
 Below is sql query for the report :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjAyOTUxNjhdfQ==
+eyJoaXN0b3J5IjpbMTA0MjM1NTQzM119
 -->
