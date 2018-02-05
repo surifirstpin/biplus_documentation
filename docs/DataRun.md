@@ -111,9 +111,10 @@ Using Bi+ you can limit the display of field values by using Limit option and ch
   Pivot  checks each dimension horizontally and reduces the effect of scrolling down the data.
   
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/78c46d819c716135d45ff60b9a71b15dd9e7a97f/images/pivot.png)
+
 ## Field Visualization On / Off
 
- In Bi+ you can hide the fields values in visualization charts by using the drop down option.
+ In Bi+ you can hide the fields values by selecting **Hide V by using the drop down option.
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bee13bc200cda9988be61a3c7b58de502a4915fa/images/hide_visu.png)
     
 
@@ -196,5 +197,5 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 You can directly apply pivot option in data output field.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NzY5Mzc5MV19
+eyJoaXN0b3J5IjpbNzEzODQ5NDc0XX0=
 -->
