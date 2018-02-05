@@ -85,6 +85,7 @@ Polar Area :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/441a2885782ed75dae2f9b1bd5379bdcaeba059a/images/polar_area.png)
 
 Donut:
+Enables you to format pie chart into donut.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2b45c10fdfcaaf86fa0255b5ce56ae98fcdab702/images/donut.png)
 ## Radar chart in visualization menu :
 
@@ -181,5 +182,5 @@ You can view the funnel charts using different formats
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MzU4MTcyNyw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbLTg0MzA5NzEzMiw0Njc5MDYyMjRdfQ==
 -->
