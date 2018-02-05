@@ -113,6 +113,7 @@ Using Bi+ you can limit the display of field values by using Limit option and ch
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/78c46d819c716135d45ff60b9a71b15dd9e7a97f/images/pivot.png)
 
 You can directly apply pivot option in data output field.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 ## Row Grouping
 
@@ -196,5 +197,5 @@ Using Bi+ you can add different logic's individually as explained below:
 **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTYwNTQwMF19
+eyJoaXN0b3J5IjpbLTk0MTEzNTYxMF19
 -->
