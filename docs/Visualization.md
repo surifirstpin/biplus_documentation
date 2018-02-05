@@ -16,12 +16,12 @@ Below are the list of markers used in Bi+,
 
 ## Bar Chart 
 
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/bar_chart.png)
 
 ###  chart in visualization menu :
 - **Show perarea**  displays percentage for pdata in polar area view.
 - **Polar area** displays data in  
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b873c0857bbfa3e9/images/polar _area.png)
+
 
 ### Donut 
 
@@ -142,6 +142,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQ5MTI2MSwtMTE5NjAxNjgzMiwtMT
-k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbLTE1NTY0OTU1MDUsLTExOTYwMTY4MzIsLT
+E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
