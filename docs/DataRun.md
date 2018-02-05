@@ -129,11 +129,13 @@ Using Bi+ you can group the rows of the fields by selection **group** options fr
 Calculated column is statement or expression or a function operator which can be used to derive the column values.
 
 - **Field name** unique identifier name to refer calculated column
-- **Label** labelling the calculated column
-- **Data type** data type used (string,number )
-- **Field type** derives dimension or measure
-**Calculation** statement or expression or a function operator which can be used to derive the column values, Below are the list of operators used for calculation
+- **Label** labeling the calculated column.
 
+- **Data type** data type used (string,number).
+
+- **Field type** derives dimension or measure.
+
+- **Calculation** derive Arithmetical & logical expressions.
 
 ## Pin or Remove Pin
 
@@ -242,5 +244,5 @@ you can apply different conditions logic to the field values:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1NTAzMDU1XX0=
+eyJoaXN0b3J5IjpbLTk3NzgwOTgxMV19
 -->
