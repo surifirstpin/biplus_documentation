@@ -1,13 +1,15 @@
 ## 9 different chart type
 
 Bi+ enables you to visualize the data in 9 different chart types.
-**1.** Under visualization section Click on **charts** tab and click on ** general** section to view all the available charts option in Bi+ .
+ Under visualization section Click on **charts** tab and click on ** general** section to view all the available charts option in Bi+ .
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3710ac3eed2b9f9c4f8cee76118256359b3e83cc/images/charts.png)
 
 ## Line Chart :
  
  This section explains the editing options for line chart.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/line_chart.png)
 
  - Line type displays the information as a series of data points called markers.
 Below are the list of markers used in Bi+, 
@@ -17,9 +19,7 @@ Below are the list of markers used in Bi+,
       - Area-Spline
       - Area-Step
       - Scatter and uses spline as default line type
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/line_chart.png)
-
+      
 ## Bar chart in visualization menu:
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/bar_chart.png)
 
@@ -139,6 +139,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODUwODkzOSwtMTk0ODIzMjI1NSw0Nj
-c5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbLTE1Nzg5NTI2MjQsLTE5NDgyMzIyNTUsND
+Y3OTA2MjI0XX0=
 -->
