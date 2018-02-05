@@ -182,7 +182,8 @@ A view may join other views and there relationship are defined as part of data a
 			"drill_down_fields": "BONUSPOINTS",
 			"show_drill_down_measures": "true",
 			"visualise": "true"
-		}
+		},
+		
 ``` 
 
 ## Field Visibility On / Off
@@ -218,5 +219,5 @@ A view may join other views and there relationship are defined as part of data a
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjczNTQyOV19
+eyJoaXN0b3J5IjpbLTE0MDI1MzQ4MjldfQ==
 -->
