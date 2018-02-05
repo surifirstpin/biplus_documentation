@@ -62,14 +62,13 @@ Below are the list of markers used in Bi+,
 
 - **Curve** to maximum and minimize the measure values.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8c388ee908e66225a1da14cb36218e1a29087ff1/images/radar_chart.png)
-
 ## Bubble chart in visualization menu:
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ec5924d5adfe6b89f890004c73f4af93ab62f8c6931940aa7f830b84487e8ea4/images/bubble_chart.png)
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/bubble_chart.png)
 
 ## Funnel chart in visualization menu:
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/funnel_chart.png)
 
 You can view the funnel charts using different formats
  - Sort 
@@ -80,10 +79,10 @@ You can view the funnel charts using different formats
  - Dynamic Height   
  - Dynamic Slop 
  - Load Animation
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d696d15bd213206d95a7c0ba73396857aeb0e7de931940aa7f830b84487e8ea4/images/funnel_chart.png)
 
 ##  Gauge chart in visualization menu:
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/guage.png)
 - **Value** select the field value to carry out the operations
 - **Min** displays minimum value measure field.
 - **Max** displays maximum value of measure field.
@@ -141,6 +140,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzE2NTg2MSwtMTE5NjAxNjgzMiwtMT
+eyJoaXN0b3J5IjpbMTkwNDU5MjA5NywtMTE5NjAxNjgzMiwtMT
 k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
