@@ -117,6 +117,7 @@ You can view the funnel charts using different formats
 
 - **Title**  provides a label or identifier title for chart, align them on any side of the chart. 
 - **Padding** sets the spacing in any side of the chart.
+
 ## Data Edits 
 
 - **Row Grouping** are used to cluster the field value side-by-side in charts.
@@ -167,5 +168,5 @@ GROUP BY (ROOT.BI_DELIVERYREPORT.STATIONCODE), (ROOT.BI_DELIVERYREPORT.DELIVERYI
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTMzOTU4OF19
+eyJoaXN0b3J5IjpbLTE5MTk0MDE0ODZdfQ==
 -->
