@@ -139,7 +139,7 @@ A view may join other views and there relationship are defined as part of data a
  **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning the true or false condition to the parameter.
 
 **Drill has different actions for dimensions and measures:**
-- When **drilling on a dimension,** the new query filters on the drilled value. For example, if you click on country name it will show the state and branch code assigned to the country.
+- When **drilling on a dimension,** the new query filters on the drilled value. For example, if you click on country name it will show the SName assigned to the country.
 ```
 
 		{
@@ -167,7 +167,7 @@ A view may join other views and there relationship are defined as part of data a
 			"visualise": "true"
 		},
 ```
-- When **drilling on a measure,** the new query will show the data set that contributed to the measure. For example,  when drilling on a Revenue Account it shows all sum,avg,max,min,count of the bonus-points.
+- When **drilling on a measure,** the new query will show the data set that contributed to the measure. For example,  when drilling on a Revenue Account it shows the bonus-points.
 
 ```
 {
@@ -230,5 +230,5 @@ A view may join other views and there relationship are defined as part of data a
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzA2MjAzMF19
+eyJoaXN0b3J5IjpbLTM4MjQyOTY5OV19
 -->
