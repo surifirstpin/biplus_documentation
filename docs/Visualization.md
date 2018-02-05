@@ -23,7 +23,8 @@ Below are the list of markers used in Bi+,
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/pie_chart.png)
 
 - **Show percentage**  displays percentage for data
-## Polar 
+## Polar Chart
+
 - **Polar area** displays data in  polar view
 
 
@@ -143,6 +144,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzYzNjM2ODYsLTExOTYwMTY4MzIsLT
+eyJoaXN0b3J5IjpbLTE4NTc0ODA1MTQsLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
