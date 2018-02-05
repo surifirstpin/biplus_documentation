@@ -1,9 +1,6 @@
 ## 9 different chart type
 
-Bi+ enables you to visualize the data in 9 different chart types.
-**1.** Under visualization section Click on **charts** tab and click on ** general** section to view all the available charts option in Bi+ .
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3710ac3eed2b9f9c4f8cee76118256359b3e83cc/images/charts.png)
+Bi+ enables you to visualize the data in  different chart types.
 
 ## Line Chart in visualization menu:
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/line_chart.png)
@@ -16,12 +13,10 @@ Below are the list of markers used in Bi+,
 - Area-Spline
 - Area-Step
 - Scatter and uses spline as default line type
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d3d4eada165eae0a50c4611ea26492aa4955d2b7931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/barline_chart.png)
-(https://raw.githubusercontent.com/sv18042016/fp1/d3d4eada165eae0a50c4611ea26492aa4955d2b7931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/barline_chart.png)
 
-## BarPie chart in visualization menu:
+## Bar Chart 
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea450d8394be0b51c1be62b6a079fd7d0a88a35fa82b873c0857bbfa3e9/images/_chart.png)
+
 
 ###  chart in visualization menu :
 - **Show perarea**  displays percentage for pdata in polar area view.
@@ -147,6 +142,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTQ3MzQ1MywtMTE5NjAxNjgzMiwtMT
+eyJoaXN0b3J5IjpbLTEwMTQ5MTI2MSwtMTE5NjAxNjgzMiwtMT
 k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
