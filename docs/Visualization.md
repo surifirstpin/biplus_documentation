@@ -1,61 +1,11 @@
-## Visualization
+## 9 different chart type
 
-Depending on query build it enables pictorial representation of data with different chart options.
-
-This page describes the editing options for charts under visualization and types of charts used in Bi+.
-
-## General 
-
-- **Title**  provides a label or identifier title for chart, align them on any side of the chart. 
-- **Padding** sets the spacing in any side of the chart.
-
-## X- Axis functionality
-
-- **Axis type** type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column,timeframe refer to the time-format of the data.
-
-- **Label field** select the field name for which you want to display the field values in x-axis.
-
-- **Show grid** enables grid display for the field values selected. 
-
-- **Axis label** provide label option in x-axis of the chart.
-
-- **Reference Line** allows you to refer specific range of values by applying colours and label to the same.
-
-##  Y- Axis functionality
-
-- **Axis type** refer to type of axis used in charts.
-
-- **Label field** select the field name for which you want to display the field values in Y-axis.
-
-- **Reference Line** allows you to refer specific range of values by applying colours and label to the same.
-
-
-## Format based on Logic
-
-you can apply different conditions logic to the field values:
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/959d41865fdc807c1a289904b3e14415443e0cd7/images/logic_format.png)
-
-- **Condition** Select the condition you want to apply on the field.
-
-- **Format on** Select the measure for which you want to set the format.
-
-- **Value** Specify a value to which you want to apply condition. 
-
-- **BG (background colour)** Select the background colour for the data which is retrieved using condition.
-
-- **Font** Select the font colour for the data retrieved based on condition.
-
-- **Icon** Select a icon for for the data retrieved based on condition.
-
-- **Before number** Align the icon before or after the data.
-
-**Getting started :**
-
-**1.** Under visualization section Click on **charts** tab and click on ** general** section to view all the available editing option in Bi+.
+Bi+ enables you to visualize the data in 9 different chart types.
+**1.** Under visualization section Click on **charts** tab and click on ** general** section to view all the available charts option in Bi+ .
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3710ac3eed2b9f9c4f8cee76118256359b3e83cc/images/charts.png)
 
-## Line Chart :
+## Line Chart in visualization menu:
 
 Line type displays the information as a series of data points called markers.
 Below are the list of markers used in Bi+, 
@@ -66,39 +16,21 @@ Below are the list of markers used in Bi+,
 - Area-Step
 - Scatter and uses spline as default line type
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d3d4eada165eae0a50c4611ea26492aa4955d2b7/images/line_chart.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/line_chart.png)
 
 ## Bar chart in visualization menu:
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/50d8394be0b51c1be62b6a079fd7d0a88a35fa82/images/bar_chart.png)
-
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/bar_chart.png)
 ## Pie chart in visualization menu :
-This section describes the option for editing pie chart in visualization menu.
-
-- **Show percentage**  displays percentage for different measure values as a portion of the total pie.
-
+- **Show percentage**  displays percentage for pie.
 - **Polar area** displays data in polar area view.
-
 - **Donut** displays data in  donut view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c66214b2148edec3d66478d025613df820473d76/images/pie_chart.png)
 
-### Polar Area 
-
-Enables the polar area by displaying measure values
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/441a2885782ed75dae2f9b1bd5379bdcaeba059a/images/polar_area.png)
-
-### Donut
-Enables you to format pie chart into donut.
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2b45c10fdfcaaf86fa0255b5ce56ae98fcdab702/images/donut.png)
-
 ## Radar chart in visualization menu :
 
 - **Tooltips** points the first measure value of the column field.
-
 - **Grouped Tooltips** points all the measure values of the column field.
-
 - **Points** enables pointers at the field values using the following point styles ;
   - Circle
   -  Triangle
@@ -138,18 +70,12 @@ You can view the funnel charts using different formats
 
 ##  Gauge chart in visualization menu:
 
-- **Value** select the field value to carry out the operations.
-- 
+- **Value** select the field value to carry out the operations
 - **Min** displays minimum value measure field.
-- 
 - **Max** displays maximum value of measure field.
-- 
 - **Donut** displays total measure value.
-- 
 - **Counter** displays all the values starting from minimum to maximum.
-- 
-- **Reverse** isplays maximum to minimum value.
-- 
+- **Reverse** Displays maximum to minimum value.
 - **Hide Minmax**  hides min and maximum value
 
 ## Table chart in visualization menu:
@@ -157,7 +83,6 @@ You can view the funnel charts using different formats
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/717c0f965ba7ecb18b850c5be7da86e667de298b/images/table_chart.png)
 
 ## Widget chart in visualization menu and operations applicable:
-
 - **Value** select the 1st measure value to apply the conditions.
 - **Format** select the number format.
 - **Previous value** select the 2nd measure value to apply conditions.
@@ -186,7 +111,22 @@ You can view the funnel charts using different formats
 - **Negative color-from & to** Specify colour for negative values.
 
 
-#
+## Condition Format     
+
+- **Condition** Select the condition you want to apply on the field.
+- **Format on** Select the measure for which you want to set the format.
+- **Value** Specify a value to which you want to apply condition. 
+- **BG (background colour)** Select the background colour for the data which is retrieved using condition.
+- **Font** Select the font colour for the data retrieved based on condition.
+- **Icon** Select a icon for for the data retrieved based on condition.
+- **Before number** Align the icon before or after the data.
+
+## SQL Query 
+
+Below is sql query for the report :
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
+eyJoaXN0b3J5IjpbNDExNTE3NzM5LC0xOTQ4MjMyMjU1LDQ2Nz
+kwNjIyNF19
 -->
