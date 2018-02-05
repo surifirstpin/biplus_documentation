@@ -131,7 +131,7 @@ Depending on the query build by selecting fields from dimensions and measures th
 
 - **Datasets** specifies the alignment, formats, currency, number of y-axis and grouping of aggregates for the legends used in the visualization menu.
 - 
-## Group aggregate
+### Group aggregate
 
   it helps you to display the consolidated values to the fields which are grouped.
   **a.** enable row grouping by selecting the checkbox.
@@ -140,7 +140,7 @@ Depending on the query build by selecting fields from dimensions and measures th
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/657b29d2f18b269f2964e8150a3670df8db7869c/images/group_aggregate.png)
 
 
-## Number Format & Currency option for Fields
+### Number Format & Currency option for fields
 
 You can apply different number formats and currency options to measures.
 **a.** select the required number format from the list
@@ -179,12 +179,14 @@ You can apply different number formats and currency options to measures.
 |#M                |
 
 ####  list of currency applicable on measures :
+
 |    Currency      |
 |------------------|
 |         $        |
 |         ₹        |
 |         €        |
 |         £        |
+
 
 ## Group / Un-Group
 
@@ -221,10 +223,12 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 
  To hide field values click on **Hide Visualization** option in the drop down option.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bee13bc200cda9988be61a3c7b58de502a4915fa/images/hide_visu.png)
+
 ## SQL Query 
 
-Below is sql query for the report :
+selected fields  :
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjM1NTQzM119
+eyJoaXN0b3J5IjpbLTEzNDQ2MTQ3ODRdfQ==
 -->
