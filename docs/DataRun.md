@@ -90,7 +90,7 @@ Filters is a optional list of filter expression applied to measure calculation,b
 ## Hidden Filters
 
 On applying hidden filters the column fields are visible in the list of filter expression specified and displays the data depending on the filters applied.
- a.Apply **hidden filters
+ a.Apply **hidden filters**
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e777906f8a8aafdb323a64c65c2a1c9e69cb01b1/images/hidden_filter.png)
 
 
@@ -233,5 +233,5 @@ Using Bi+ you can add different logic's individually as explained below:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzNzU3NDM4XX0=
+eyJoaXN0b3J5IjpbLTExNjI4Nzc3NjJdfQ==
 -->
