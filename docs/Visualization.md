@@ -51,7 +51,7 @@ you can apply different conditions logic to the field values:
 
 **Getting started :**
 
-**1.** Under visualization section Click on **charts** tab and click on ** general** section to view all the available charts option in Bi+.
+**1.** Under visualization section Click on **charts** tab and click on ** general** section to view all the available editing option in Bi+.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3710ac3eed2b9f9c4f8cee76118256359b3e83cc/images/charts.png)
 
@@ -174,5 +174,5 @@ You can view the funnel charts using different formats
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2MzY4MDM2LDQ2NzkwNjIyNF19
+eyJoaXN0b3J5IjpbNzkyODc4NDYzLDQ2NzkwNjIyNF19
 -->
