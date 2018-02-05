@@ -85,11 +85,13 @@ polar Area:
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/441a2885782ed75dae2f9b1bd5379bdcaeba059a/images/polar_area.png)
 
 Donut:
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2b45c10fdfcaaf86fa0255b5ce56ae98fcdab702/images/donut.png)
 ## Radar chart in visualization menu :
 
 - **Tooltips** points the first measure value of the column field.
+
 - **Grouped Tooltips** points all the measure values of the column field.
+
 - **Points** enables pointers at the field values using the following point styles ;
   - Circle
   -  Triangle
@@ -179,5 +181,5 @@ You can view the funnel charts using different formats
 
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzcwNTI2MCw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbLTUwMjI2ODIyMyw0Njc5MDYyMjRdfQ==
 -->
