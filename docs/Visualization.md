@@ -82,7 +82,7 @@ You can view the funnel charts using different formats
 - 
 - **Counter** displays all the values starting from minimum to maximum.
 - 
-- **Reverse** displays maximum to minimum value.
+- **Reverse** isplays maximum to minimum value.
 - 
 - **Hide Minmax**  hides min and maximum value
 
@@ -120,21 +120,50 @@ You can view the funnel charts using different formats
 - **Negative color-from & to** Specify colour for negative values.
 
 
-## Condition Format     
+## General - **Title**  provides a label or identifier title for chart, align them on any side of the chart. 
+- **Padding** sets the spacing in any side of the chart.
+
+## Data 
+
+- **Row Grouping** are used to cluster the field value side-by-side in charts.
+- **Explore Enabled**
+- **Stacked** are used whether to stack the values at y-axis.
+- **Datasets** specifies the alignment, formats, currency, number of y-axis and grouping of aggregates for the legends used in the visualization menu.
+
+## X- Axis functionality
+
+- **Axis type** type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column,timeframe refer to the time-format of the data.
+- **Label field** select the field name for which you want to display the field values in x-axis.
+- **Show grid** enables grid display for the field values selected. 
+- **Axis label** provide label option in x-axis of the chart.
+- **Reference Line** allows you to refer specific range of values by applying colours and label to the same.
+
+##  Y- Axis functionality
+
+-**Axis type** refer to type of axis used in charts.
+-**Label field** select the field name for which you want to display the field values in Y-axis.
+- **Reference Line** allows you to refer specific range of values by applying colours and label to the same.
+
+
+## Format based on Logic
+
+you can apply different conditions logic to the field values:
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/959d41865fdc807c1a289904b3e14415443e0cd7/images/logic_format.png)
 
 - **Condition** Select the condition you want to apply on the field.
+
 - **Format on** Select the measure for which you want to set the format.
+
 - **Value** Specify a value to which you want to apply condition. 
+
 - **BG (background colour)** Select the background colour for the data which is retrieved using condition.
+
 - **Font** Select the font colour for the data retrieved based on condition.
+
 - **Icon** Select a icon for for the data retrieved based on condition.
+
 - **Before number** Align the icon before or after the data.
 
-## SQL Query 
-
-Below is sql query for the report :
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3OTA2MjI0XX0=
+eyJoaXN0b3J5IjpbMTYzMTYzMTQ4Niw0Njc5MDYyMjRdfQ==
 -->
