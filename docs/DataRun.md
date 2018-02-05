@@ -30,7 +30,7 @@ Using the search option provided in the visualization section you can select the
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/visu_fields.png)
 
-## Filters (String , Integer and Date)
+## Filters /Hidden Filters
 
 Filters is a optional list of filter expression applied to measure calculation,below are the available operations that can be applied for String , Integer and Date.
 
@@ -85,7 +85,7 @@ Filters is a optional list of filter expression applied to measure calculation,b
 |is not null                   |data which is not equal to null
 |is null                       |data which is equal to null
 
-## Hidden Filters
+**Hidden Filters :**
 
 On applying hidden filters the column fields are visible in the list of filter expression specified and displays the data depending on the filters applied.
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e777906f8a8aafdb323a64c65c2a1c9e69cb01b1/images/hidden_filter.png)
@@ -231,5 +231,5 @@ Using Bi+ you can add different logic's individually as explained below:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDAxNDU4NV19
+eyJoaXN0b3J5IjpbNzY0MDYyNDk2XX0=
 -->
