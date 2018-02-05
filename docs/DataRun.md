@@ -119,7 +119,7 @@ Using Bi+ you can limit the display of field values by using **Limit** option an
 
 ## Data 
 
-Depending on 
+Depending on your field selection data analys enabled.
 
 - **Row Grouping** enables row grouping for column fields and it is applied for first column field only.
 
@@ -227,5 +227,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2MzcwOTQxXX0=
+eyJoaXN0b3J5IjpbLTE3NjUyNzA4OV19
 -->
