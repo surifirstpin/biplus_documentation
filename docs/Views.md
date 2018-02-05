@@ -139,7 +139,7 @@ A view may join other views and there relationship are defined as part of data a
 
 **Drill has different actions for dimensions and measures:**
 
-When drilling on a dimension, the new query filters on the drilled value. For example, if you click on a specific month in a query of customer order by month, the new query will show only orders in specific .
+When drilling on a dimension, the new query filters on the drilled value. For example, if you click on a specific month in a query of customer order by month, the new query will show only orders in specific month.
 When drilling on a measure, the new query will show the data set that contributed to the measure. For example, when drilling on a count, the new query will show the rows to calculate that count. When drilling on max, min, and average measures, drilling still shows all the rows that contributed to that measure. This means that drilling on a max measure, for example, shows all the rows that were used to calculate the max value, not just a single row for the max value.
  -when drilling is applied on a dimension, 
  **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning he true or false condition to the parameter.
@@ -177,5 +177,5 @@ When drilling on a measure, the new query will show the data set that contribute
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDE5Nzg2M119
+eyJoaXN0b3J5IjpbLTI0OTQzMTQzOV19
 -->
