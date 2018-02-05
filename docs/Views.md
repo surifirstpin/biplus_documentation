@@ -136,7 +136,6 @@ A view may join other views and there relationship are defined as part of data a
 ## Drill-down feature and specs
 
 **Drill_down_fields** parameter is used to explore the data within the field. it works in query results tables and dashboards. Drilling disclose a new query that is restricted by the value you clicked on.
-
  -when drilling is applied on a dimension, 
  **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning he true or false condition to the parameter.
 
@@ -173,5 +172,5 @@ A view may join other views and there relationship are defined as part of data a
 ## Login based Lookups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5NzkzMTczXX0=
+eyJoaXN0b3J5IjpbNTU0MzAwNDU1XX0=
 -->
