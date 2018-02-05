@@ -137,6 +137,7 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bee13bc200cda9988be61a3c7b58de502a4915fa/images/hide_visu.png)
 
 ## Group aggregate
+
   it helps you to display the consolidated values to the fields which are grouped.
   **a.** enable row grouping by selecting the checkbox.
   **b.** you can explore the primary column fields data individually, which are grouped under the column field. 
@@ -230,5 +231,5 @@ Using Bi+ you can add different logic's individually as explained below:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjMzMDYyMF19
+eyJoaXN0b3J5IjpbNTMwNjU4NjY2XX0=
 -->
