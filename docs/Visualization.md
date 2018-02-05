@@ -86,6 +86,7 @@ You can view the funnel charts using different formats
 ##  Gauge Chart :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3ab8a101cb46871444f60f0e5b10e81a6785a826/images/guage.png)
+
 - **Value** select the field value to carry out the operations.
 
 - **Min** displays minimum value measure field.
@@ -146,6 +147,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDYyNjM4MDAsLTExOTYwMTY4MzIsLT
-E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
+eyJoaXN0b3J5IjpbMTU3MDkyMDExOCwtMTE5NjAxNjgzMiwtMT
+k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
