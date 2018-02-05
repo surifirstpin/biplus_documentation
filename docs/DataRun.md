@@ -1,6 +1,6 @@
 
 ## Data Analysis
-Data Analysis access the data and allows you to perform data analysis with slice and dice of report information with pictorial representation.
+Data Analysis Retrieve the  data  perform data exploration with slice and dice of report information providing pictorial representation.
 
 ## Build Query
 
@@ -229,5 +229,5 @@ Using Bi+ you can add different logic's individually as explained below:
 - **Before number** Align the icon before or after the data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTgwOTc0MzRdfQ==
+eyJoaXN0b3J5IjpbNTY1NDg3NTZdfQ==
 -->
