@@ -131,7 +131,7 @@ Converts pie chart to donut.
 
 - **Show Grid** enables the grid display for measures in y-axis.
 
--**Include Zero** displays values in y-axis starting from zero.
+- **Include Zero** displays values in y-axis starting from zero.
 
 ### Reference lines in bubble chart :
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ca6272443bb686c3c41aa07bbd28a407c2238688/images/bubble_chart4.png)
@@ -250,6 +250,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODE2MjUxMywtMTE5NjAxNjgzMiwtMT
-k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbLTE2ODE2NTY3NTksLTExOTYwMTY4MzIsLT
+E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
