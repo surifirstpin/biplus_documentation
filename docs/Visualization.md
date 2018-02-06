@@ -119,8 +119,10 @@ Converts pie chart to donut.
 
 ### Y-axis for bubble chart :
 
-- **Axis** select the measures to which you would like to apply the editing options in bubble chart.
-- **Format** enables number format for dimensions.
+- **Axis** select the measures values in y-axis  to which you would like to apply the editing options in bubble chart.
+
+- **Format** enables number format for dimensions values.
+
 ## Funnel chart :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/funnel_chart.png)
@@ -215,6 +217,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwNTY2ODk5LC0xMTk2MDE2ODMyLC0xOT
-Q4MjMyMjU1LDQ2NzkwNjIyNF19
+eyJoaXN0b3J5IjpbLTk5NDI0MjIyMSwtMTE5NjAxNjgzMiwtMT
+k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
