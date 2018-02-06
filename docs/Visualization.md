@@ -13,7 +13,7 @@ Bi+ enables you to visualize the data in  different chart types and provides som
 
 - **Label field** Label the field name in x-axis using grid display
 
-- **Axis label** provides label to x-axis
+- **Axis label** provides label to x-axis.
 
 - **Reference Line** is used to refer specific values by applying colors to it.
 
@@ -215,6 +215,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTU2NDU4NywtMTE5NjAxNjgzMiwtMT
+eyJoaXN0b3J5IjpbLTYwMzc3MjExNSwtMTE5NjAxNjgzMiwtMT
 k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
