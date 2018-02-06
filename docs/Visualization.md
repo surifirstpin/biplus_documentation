@@ -111,16 +111,16 @@ Converts pie chart to donut.
 
 - **Axis type** enables x-axis with indexed values or categorized dimension value and in time series format.
 
-- **X-Axis** enables you to display x-axis in bubble chart. 
+- **X-Axis** enables you to display measure values in x-axis. 
 
 - **Show Grid** enables the grid display in bubble chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6ea6b74b687735d18f0b1009219c5a3de903411a/images/bubble_chart2.png)
 
 ### Y-axis for bubble chart :
+
 - **Axis** displays list of measures in bubble chart.
 
-- **Axis Label**
 ## Funnel chart :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/funnel_chart.png)
@@ -215,6 +215,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzc3MjExNSwtMTE5NjAxNjgzMiwtMT
-k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbLTEzNzM4ODM4NDEsLTExOTYwMTY4MzIsLT
+E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
