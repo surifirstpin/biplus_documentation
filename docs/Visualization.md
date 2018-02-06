@@ -164,13 +164,17 @@ Red color indicates the value attained is initial state or low.
 - **Condition** Select the condition you want to apply on the field.
 - **Format on** Select the measure for which you want to set the format.
 - **Value** Specify a value to which you want to apply condition. 
+
 - **BG (background colour)** Select the background colour for the data which is retrieved using condition.
+
 - **Font** Select the font colour for the data retrieved based on condition.
+
 - **Icon** Select a icon for for the data retrieved based on condition.
+
 - **Before number** Align the icon before or after the data.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwNDA1NjE1LC0xMTk2MDE2ODMyLC0xOT
-Q4MjMyMjU1LDQ2NzkwNjIyNF19
+eyJoaXN0b3J5IjpbLTExMjk0OTAzNDksLTExOTYwMTY4MzIsLT
+E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
