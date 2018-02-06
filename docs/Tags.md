@@ -1,6 +1,6 @@
 ## Create Tag
 
-Tag is a label attached to provide information 
+Tag provides path information 
 
 ## Edit Tag
 
@@ -23,5 +23,5 @@ Tag is a label attached to provide information
          welcomre to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTE0Mjk0M119
+eyJoaXN0b3J5IjpbLTExNTQ5NTgyMTldfQ==
 -->
