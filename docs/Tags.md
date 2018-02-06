@@ -26,6 +26,7 @@ To create a Child Tag click on **Add Tag** button in dashboard section and selec
 ## Edit Tag
 
 To edit the tag click on setting icon.
+
 ## Delete Tag
  
          welcomre to Biplus
@@ -43,5 +44,5 @@ Save the reports in the tag created as shown below.
          welcomre to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTUzNzIzMDBdfQ==
+eyJoaXN0b3J5IjpbOTQ2Nzk1NDkwXX0=
 -->
