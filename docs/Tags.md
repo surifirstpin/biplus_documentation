@@ -1,6 +1,6 @@
 ## Create Tag
 
-Tag is a label attached to rep
+Tag is a label attached to reports or 
 
 ## Edit Tag
 
@@ -23,5 +23,5 @@ Tag is a label attached to rep
          welcomre to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4NDU2MTMxXX0=
+eyJoaXN0b3J5IjpbMTA3MzY0MzUyNF19
 -->
