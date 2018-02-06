@@ -119,6 +119,7 @@ Converts pie chart to donut.
 
 ### Y-axis for bubble chart :
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ca6272443bb686c3c41aa07bbd28a407c2238688/images/bubble_chart3.png)
 - **Axis** select the measures values in y-axis  to which you would like to apply the editing options in bubble chart.
 
 - **Format** enables number format for measure values.
@@ -132,7 +133,7 @@ Converts pie chart to donut.
 -**Include Zero** displays values in y-axis starting from zero.
 
 ### Reference lines in bubble chart :
-  
+  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ca6272443bb686c3c41aa07bbd28a407c2238688/images/bubble_chart4.png)
   - **Name** Provide a reference name.
   
   - **Type** specifies how y-axis scale is calculated and displayed,Below are the options available to enable the scale type.
@@ -246,6 +247,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjEwMDczMCwtMTE5NjAxNjgzMiwtMT
+eyJoaXN0b3J5IjpbMTc3MzE0MDgyNywtMTE5NjAxNjgzMiwtMT
 k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
