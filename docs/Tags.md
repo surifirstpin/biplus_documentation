@@ -6,7 +6,7 @@ Tag provides the total path for reports and dashboards.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/457c21c373c4db9d2f1ae47344146723ffe79d2d/images/add_tag.png)
 
 - **Tag Name** name identifier for the new tag.
-- **Enable Privacy** Ente
+- **Enable Privacy** Enter the sa
 - - **Private()** report saved in private section is accessed by the user itself.
 - ** Public()** the report is saved in public section is accessed by all the users.
 -  **share()** the report saved under share section is accessed by specific set of users.
@@ -32,5 +32,5 @@ Tag provides the total path for reports and dashboards.
          welcomre to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1OTE5MzUxXX0=
+eyJoaXN0b3J5IjpbMjI4MzcyMTA4XX0=
 -->
