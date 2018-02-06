@@ -2,17 +2,17 @@
 
 Tag provides the total path for reports and dashboards.
 
-1. Click on **Add Tag** in Dashboard section to create a New Tag.
+**2.** Click on **Add Tag** in Dashboard section to create a New Tag.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/457c21c373c4db9d2f1ae47344146723ffe79d2d/images/add_tag.png)
 
 - **Tag Name** name identifier for the new tag.
  
 - **Enable Privacy** select privacy options for tag. 
 
- -   **Private()** report saved in private section is accessed by the user itself.
--    **Public()** the report is saved in public section is accessed by all the users.
--  **share()** the report saved under share section is accessed by specific set of users.
-2.![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/457c21c373c4db9d2f1ae47344146723ffe79d2d/images/tag_2.png)
+  -   **Private()** report saved in private section is accessed by the user itself.
+  -    **Public()** the report is saved in public section is accessed by all the users.
+  -  **share()** the report saved under share section is accessed by specific set of users.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/457c21c373c4db9d2f1ae47344146723ffe79d2d/images/tag_2.png)
 ## Edit Tag
 
          welcomre to Biplus
@@ -34,5 +34,5 @@ Tag provides the total path for reports and dashboards.
          welcomre to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzcyNjUyNzddfQ==
+eyJoaXN0b3J5IjpbLTE0ODc0MjgyMDBdfQ==
 -->
