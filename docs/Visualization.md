@@ -135,7 +135,7 @@ Converts pie chart to donut.
   
   - **Name** Provide a reference name.
   - **Type** specifies how y-axis scale is calculated and displayed,Below are the options available to enable the scale type.
-  - Linear
+ Linear
 Polynomial
 Exponential
 Logarithmic
@@ -242,6 +242,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDEwNzI2MTQsLTExOTYwMTY4MzIsLT
-E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
+eyJoaXN0b3J5IjpbLTI5NDg2MzQwNywtMTE5NjAxNjgzMiwtMT
+k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
