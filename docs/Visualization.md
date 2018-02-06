@@ -16,7 +16,8 @@ Bi+ enables you to visualize the data in  different chart types and provides som
 **Reference Line** is used to refer specific values by applying colors to it.
 
 03. Y-Axis
-**Axis type** type of axis used in charts
+**Axis type** type of axis used in charts.
+
 Label field Label the field name in Y-axis using grid display, including or excluding zero and aligning left or right position to y-axis
 Reference Line is used to refer the particular values by colouring and this is optional
 Format Section      
@@ -200,6 +201,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDgxNDk1MCwtMTE5NjAxNjgzMiwtMT
+eyJoaXN0b3J5IjpbMTg3MDM3NjM1NiwtMTE5NjAxNjgzMiwtMT
 k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
