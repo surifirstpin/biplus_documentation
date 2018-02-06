@@ -45,7 +45,8 @@ Select the tag in which you want to save **Dashboard**  and click on **Save.**
 
 All the saved tags are visible in tree view as shown below.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/191f8906591a719bb70c33b807cb4c3dabf4ed4e/images/tree_view.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTE1ODI4NzJdfQ==
+eyJoaXN0b3J5IjpbLTEzNjk2MTM3MTBdfQ==
 -->
