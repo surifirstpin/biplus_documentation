@@ -44,9 +44,9 @@ All the saved tags are visible in tree view as shown below.
 To edit the tag click on setting icon.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e571af6fdf36fb0e58a5248a84669f5f73f5703f/images/edit_tag.png)
 ## Delete Tag
-To delete the tag click on delete icon.
+To delete the tag click on delete icon on far right of the screen.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e571af6fdf36fb0e58a5248a84669f5f73f5703f/images/delete_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3NjI2Njg5XX0=
+eyJoaXN0b3J5IjpbLTE1NTM3MDAyNzldfQ==
 -->
