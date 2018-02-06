@@ -87,7 +87,7 @@ You can view the funnel charts using different formats
 Green color indicates the value attained is closer to the maximum value.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3ab8a101cb46871444f60f0e5b10e81a6785a826/images/guage.png)
-Orange color indicat
+Orange color indicated tg
 - **Value** select the field value to carry out the operations.
 
 - **Min** displays minimum value measure field.
@@ -157,6 +157,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5MTg1OTk3LC0xMTk2MDE2ODMyLC0xOT
-Q4MjMyMjU1LDQ2NzkwNjIyNF19
+eyJoaXN0b3J5IjpbMTkwNjA4MDEzMywtMTE5NjAxNjgzMiwtMT
+k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
