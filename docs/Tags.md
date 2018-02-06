@@ -15,6 +15,9 @@ Tag provides the total path for reports and dashboards.
   
 **2.** Click on **OK** button to save the Tag.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/457c21c373c4db9d2f1ae47344146723ffe79d2d/images/tag_2.png)
+
+
+## Create a Child tag u
 ## Edit Tag
 
          welcomre to Biplus
@@ -36,5 +39,5 @@ Tag provides the total path for reports and dashboards.
          welcomre to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzA4MTU4N119
+eyJoaXN0b3J5IjpbLTgwNDY0Mjc5N119
 -->
