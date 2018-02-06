@@ -155,6 +155,7 @@ Converts pie chart to donut.
 - **Data Field** select the measure value you want to refer.
 
 - **Theme** choose the color for reference lines.
+
 ## Funnel chart :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/funnel_chart.png)
@@ -249,6 +250,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODA4ODUxMSwtMTE5NjAxNjgzMiwtMT
+eyJoaXN0b3J5IjpbMTIyMDc0OTkzMywtMTE5NjAxNjgzMiwtMT
 k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
