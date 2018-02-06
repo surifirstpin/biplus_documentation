@@ -1,6 +1,6 @@
 ## Create Tag
 
-Tag provides path information 
+Tag provides the total path for reports and 
 
 ## Edit Tag
 
@@ -23,5 +23,5 @@ Tag provides path information
          welcomre to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ5NTgyMTldfQ==
+eyJoaXN0b3J5IjpbMTAwMjQzMTU3MV19
 -->
