@@ -134,7 +134,8 @@ Converts pie chart to donut.
 ### Reference lines in bubble chart :
   
   - **Name** Provide a reference name.
-  - **Type** specifies how y-axis scale is calculated and displayed,Below are the options available to enable the scale typ
+  - **Type** specifies how y-axis scale is calculated and displayed,Below are the options available to enable the scale type.
+  - 
 ## Funnel chart :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/funnel_chart.png)
@@ -229,6 +230,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0Nzk3NzE3NywtMTE5NjAxNjgzMiwtMT
-k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbLTE2NzMxMjIxMDEsLTExOTYwMTY4MzIsLT
+E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
