@@ -23,13 +23,6 @@ To create a Child Tag click on **Add Tag** button in dashboard section and selec
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c1b8fc9522826986d90afc6df61df3f988227475/images/child_tag.png)
 
-## Edit Tag
-
-To edit the tag click on setting icon.
-
-## Delete Tag
- 
-         welcomre to Biplus
 
 ## Privacy & Share for a Cluster of Reports
 
@@ -46,7 +39,14 @@ Select the tag in which you want to save **Dashboard**  and click on **Save.**
 All the saved tags are visible in tree view as shown below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/191f8906591a719bb70c33b807cb4c3dabf4ed4e/images/tree_view.png)
+## Edit Tag
+
+To edit the tag click on setting icon.
+
+## Delete Tag
+ 
+         welcomre to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjk2MTM3MTBdfQ==
+eyJoaXN0b3J5IjpbLTMzMzkxMTg4Nl19
 -->
