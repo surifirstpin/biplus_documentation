@@ -31,7 +31,7 @@ To create a Child Tag click on **Add Tag** button in dashboard section and selec
 
 ## Privacy & Share for a Cluster of Reports
 
-Save the reports in the tag cre
+Save the reports in the tag created as 
 
 ## Privacy & Share for a Cluster of Reports Dashboards
 
@@ -42,5 +42,5 @@ Save the reports in the tag cre
          welcomre to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODIzNDg2NDRdfQ==
+eyJoaXN0b3J5IjpbLTM4NTY3OTQyOF19
 -->
