@@ -130,6 +130,8 @@ Converts pie chart to donut.
 - **Show Grid** enables the grid display for dimension in y-axis.
 
 -**Include Zero** displays dimension values in y-axis including zero.
+
+### Reference lines in bubble chart
   
 ## Funnel chart :
 
@@ -225,6 +227,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU0NzE1MTIsLTExOTYwMTY4MzIsLT
-E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
+eyJoaXN0b3J5IjpbOTc4NDQyMTY4LC0xMTk2MDE2ODMyLC0xOT
+Q4MjMyMjU1LDQ2NzkwNjIyNF19
 -->
