@@ -119,7 +119,7 @@ Converts pie chart to donut.
 
 ### Y-axis for bubble chart :
 
-- **Axis** displays list of measures you would l in bubble chart.
+- **Axis** displays list of measures you would like  in bubble chart.
 - **Format** enables number format for dimensions.
 ## Funnel chart :
 
@@ -215,6 +215,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjAzODUyMDMsLTExOTYwMTY4MzIsLT
-E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
+eyJoaXN0b3J5IjpbMTg4ODIyMjQ3NCwtMTE5NjAxNjgzMiwtMT
+k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
