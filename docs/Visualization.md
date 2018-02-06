@@ -18,7 +18,7 @@ Bi+ enables you to visualize the data in  different chart types and provides som
 03. Y-Axis
 **Axis type** type of axis used in charts.
 
-Label field Label the field name in Y-axis using grid display, including or excluding zero and aligning left or right position to y-axis
+**Label field Label the field name in Y-axis using grid display, including or excluding zero and aligning left or right position to y-axis
 Reference Line is used to refer the particular values by colouring and this is optional
 Format Section      
 Condition BiPlus set the condition on field values
@@ -201,6 +201,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDM3NjM1NiwtMTE5NjAxNjgzMiwtMT
-k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbNTQ5MTk5MTQwLC0xMTk2MDE2ODMyLC0xOT
+Q4MjMyMjU1LDQ2NzkwNjIyNF19
 -->
