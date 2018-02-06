@@ -163,9 +163,9 @@ Converts pie chart to donut.
 You can view the funnel charts using different formats :
  - Sort 
  - Curved
- -  Pinched 
+ - Pinched 
  - Inverted
- -  Highlight on Hover 
+ - Highlight on Hover 
  - Dynamic Height   
  - Dynamic Slop 
  - Load Animation
@@ -250,6 +250,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDc0OTkzMywtMTE5NjAxNjgzMiwtMT
+eyJoaXN0b3J5IjpbMTA0ODE2MjUxMywtMTE5NjAxNjgzMiwtMT
 k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
