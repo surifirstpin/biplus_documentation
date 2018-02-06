@@ -123,7 +123,8 @@ Converts pie chart to donut.
 
 - **Format** enables number format for dimensions values.
 
-- **Currency** enables the currency format for y-axis in
+- **Currency** enables the currency format for dimension values in y-axis.
+-
 ## Funnel chart :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/funnel_chart.png)
@@ -218,6 +219,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzM3ODA0NSwtMTE5NjAxNjgzMiwtMT
-k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbLTE3Mjc4NjcxNTYsLTExOTYwMTY4MzIsLT
+E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
