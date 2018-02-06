@@ -6,7 +6,7 @@ Tag provides the total path for reports and dashboards.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/457c21c373c4db9d2f1ae47344146723ffe79d2d/images/add_tag.png)
 
 - **Tag Name** name identifier for the new tag.
-- **Enable Priva
+- **Enable Privacy
 2.![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/457c21c373c4db9d2f1ae47344146723ffe79d2d/images/tag_2.png)
 ## Edit Tag
 
@@ -29,5 +29,5 @@ Tag provides the total path for reports and dashboards.
          welcomre to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQyNzMxOTRdfQ==
+eyJoaXN0b3J5IjpbLTkwOTgzODM4OF19
 -->
