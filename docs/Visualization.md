@@ -30,7 +30,7 @@ Displays polar area of the dimensions
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/polar_area.png)
 
 ## Donut 
-
+Displays the pie chart in donut section
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/donut.png)
 
 ## Radar chart 
@@ -92,7 +92,7 @@ Green color indicates the value attained is closer to target.
 Orange color indicates the value attained is half the way to target.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/671476ecbe2c70dcf89cc72f25b75ba5b4dafe41/images/guage_mediN.png)
 
-Red color indicates the value attained is intial state to meet 
+Red color indicates the value attained is initial state or low. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/671476ecbe2c70dcf89cc72f25b75ba5b4dafe41/images/GUAGE_LOW.png)
 
@@ -165,6 +165,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDg5Mjc2MjIsLTExOTYwMTY4MzIsLT
+eyJoaXN0b3J5IjpbLTE0MjA4OTg4OTAsLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
