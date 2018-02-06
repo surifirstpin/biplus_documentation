@@ -27,7 +27,7 @@ Bi+ enables you to visualize the data in  different chart types and provides som
 
 4. Format Section      
 
-## Condition Format     
+## Format     
 
 - **Condition** Select the condition you want to apply on the field.
 - **Format on** Select the measure for which you want to set the format.
@@ -201,6 +201,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzU0OTUzMSwtMTE5NjAxNjgzMiwtMT
-k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbMTczNjY3MjIyLC0xMTk2MDE2ODMyLC0xOT
+Q4MjMyMjU1LDQ2NzkwNjIyNF19
 -->
