@@ -1,7 +1,7 @@
 ## Create Tag
 
 Tag provides the total path for reports and dashboards.
-1. 
+1. Click on **Add Tag** 
 
 ## Edit Tag
 
@@ -24,5 +24,5 @@ Tag provides the total path for reports and dashboards.
          welcomre to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODg3MTg1XX0=
+eyJoaXN0b3J5IjpbMTI0MzExMzQyOV19
 -->
