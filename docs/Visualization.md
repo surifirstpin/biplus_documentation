@@ -107,6 +107,8 @@ Converts pie chart to donut.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/bubble_chart.png)
 
+### X-axis for bubble chart :
+
 - **Axis type** enables x-axis with indexed values or categorized dimension value and in time series format.
 
 - **X-Axis** enables you to display x-axis in bubble chart. 
@@ -208,6 +210,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0MzA0MDgsLTExOTYwMTY4MzIsLTE5ND
-gyMzIyNTUsNDY3OTA2MjI0XX0=
+eyJoaXN0b3J5IjpbLTE1MDkwMjY5MzgsLTExOTYwMTY4MzIsLT
+E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
