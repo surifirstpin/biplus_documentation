@@ -135,6 +135,7 @@ Converts pie chart to donut.
 
 ### Reference lines in bubble chart :
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ca6272443bb686c3c41aa07bbd28a407c2238688/images/bubble_chart4.png)
+
   - **Name** Provide a reference name.
   
   - **Type** specifies how y-axis scale is calculated and displayed,Below are the options available to enable the scale type.
@@ -248,6 +249,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjg1NDQ3ODcsLTExOTYwMTY4MzIsLT
-E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
+eyJoaXN0b3J5IjpbMTgzODA4ODUxMSwtMTE5NjAxNjgzMiwtMT
+k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
