@@ -25,8 +25,6 @@ To create a Child Tag click on **Add Tag** button in dashboard section and selec
 
 ## Edit Tag
 
-         welcomre to Biplus
-
 ## Delete Tag
  
          welcomre to Biplus
@@ -44,5 +42,5 @@ To create a Child Tag click on **Add Tag** button in dashboard section and selec
          welcomre to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzMTE1MDIxXX0=
+eyJoaXN0b3J5IjpbLTEyODIwODExMjFdfQ==
 -->
