@@ -3,17 +3,19 @@
 Bi+ enables you to visualize the data in  different chart types and provides some standard editing options.
 
 01. General Section
-**Title** label for chart and align them in top,bottom,left,right position 
-**Padding** sets the spacing at the top,bottom,left and right side of the charts
+
+- **Title** label for chart and align them in top,bottom,left,right position 
+- **Padding** sets the spacing at the top,bottom,left and right side of the charts
 
 02. X-Axis
-**Axis type** type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column,timeframe refer to the time-format of the data.
 
-**Label field** Label the field name in x-axis using grid display
+- **Axis type** type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column,timeframe refer to the time-format of the data.
 
-**Axis label** used to provide label option to x-axis
+- **Label field** Label the field name in x-axis using grid display
 
-**Reference Line** is used to refer specific values by applying colors to it.
+- **Axis label** used to provide label option to x-axis
+
+- **Reference Line** is used to refer specific values by applying colors to it.
 
 03. Y-Axis
 
@@ -25,13 +27,19 @@ Bi+ enables you to visualize the data in  different chart types and provides som
 
 4. Format Section      
 
-Condition BiPlus set the condition on field values
-Format on used to set the format on particular column field
-Value  specify the condition for which you want to apply the format
-BG help you set the background colour to condition value
-Font help you set the font colour to condition value
-Icon help you to set the icon for the condition value before or after the number
+## Condition Format     
 
+- **Condition** Select the condition you want to apply on the field.
+- **Format on** Select the measure for which you want to set the format.
+- **Value** Specify a value to which you want to apply condition. 
+
+- **BG (background colour)** Select the background colour for the data which is retrieved using condition.
+
+- **Font** Select the font colour for the data retrieved based on condition.
+
+- **Icon** Select a icon for for the data retrieved based on condition.
+
+- **Before number** Align the icon before or after the data.
 ## Line Chart in visualization menu:
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/line_chart.png)
  
@@ -189,22 +197,10 @@ Red color indicates the value attained is initial state or low.
 - **Negative color-from & to** Specify colour for negative values.
 
 
-## Condition Format     
 
-- **Condition** Select the condition you want to apply on the field.
-- **Format on** Select the measure for which you want to set the format.
-- **Value** Specify a value to which you want to apply condition. 
-
-- **BG (background colour)** Select the background colour for the data which is retrieved using condition.
-
-- **Font** Select the font colour for the data retrieved based on condition.
-
-- **Icon** Select a icon for for the data retrieved based on condition.
-
-- **Before number** Align the icon before or after the data.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTg5MTI2NSwtMTE5NjAxNjgzMiwtMT
+eyJoaXN0b3J5IjpbMTAzMzU0OTUzMSwtMTE5NjAxNjgzMiwtMT
 k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
