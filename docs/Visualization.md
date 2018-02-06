@@ -111,7 +111,7 @@ Converts pie chart to donut.
 
 - **Axis type** enables x-axis with indexed values or categorized dimension value and in time series format.
 
-- **X-Axis** enables you to display measure values in x-axis. 
+- **X-Axis** enables you to display dimensions values in x-axis. 
 
 - **Show Grid** enables the grid display in bubble chart.
 
@@ -121,15 +121,15 @@ Converts pie chart to donut.
 
 - **Axis** select the measures values in y-axis  to which you would like to apply the editing options in bubble chart.
 
-- **Format** enables number format for dimensions values.
+- **Format** enables number format for measure values.
 
-- **Currency** enables the currency format for dimension values in y-axis.
+- **Currency** enables the currency format for measures values in y-axis.
 
-- **Y-Axis** enables you to display dimension values in Y-axis. 
+- **Y-Axis** enables you to display measure values in Y-axis. 
 
-- **Show Grid** enables the grid display for dimension in y-axis.
+- **Show Grid** enables the grid display for measures in y-axis.
 
--**Include Zero** displays values in y-axis including zero.
+-**Include Zero** displays values in y-axis starting from zero.
 
 ### Reference lines in bubble chart
   
@@ -227,6 +227,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODczNTQyMiwtMTE5NjAxNjgzMiwtMT
-k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbLTEwMjU4MDY4ODksLTExOTYwMTY4MzIsLT
+E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
