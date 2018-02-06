@@ -128,7 +128,8 @@ Converts pie chart to donut.
 - **Y-Axis** enables you to display dimension values in Y-axis. 
 
 - **Show Grid** enables the grid display for dimension in y-axis.
--**Include Zero** enables indexed 
+
+-**Include Zero** enables value 
 ## Funnel chart :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/funnel_chart.png)
@@ -223,6 +224,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTI1MDIwMywtMTE5NjAxNjgzMiwtMT
-k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbLTEwODg1NDY3MzMsLTExOTYwMTY4MzIsLT
+E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
