@@ -1,15 +1,12 @@
 ## 9 different chart type
 
-Bi+ enables you to visualize the data in  different chart types and provides some standard editing options
-General Section
-Title label for chart and align them in top,bottom,left,right position 
-Padding sets the spacing at the top,bottom,left and right side of the charts
-Data Section
-Row Grouping are used to cluster the field value side-by-side in charts
-Explore Enabled 
-Stacked are used weather to stack the values at y-axis 
-Datasets specifies the alignment,formats,currency,number of y-axis and grouping of aggregates for the legends used in the visualisation menu
- X-Axis Section
+Bi+ enables you to visualize the data in  different chart types and provides some standard editing options.
+
+01. General Section
+**Title** label for chart and align them in top,bottom,left,right position 
+**Padding** sets the spacing at the top,bottom,left and right side of the charts
+
+02. X-Axis Section
 Axis type type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column,timeframe refer to the timeformat of the data
 Label field Label the field name in x-axis using grid display
 Axis label used to provide label option to x-axis
@@ -199,6 +196,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjIyMTQ4NzMsLTExOTYwMTY4MzIsLT
-E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
+eyJoaXN0b3J5IjpbMTEyNDExOTA4NSwtMTE5NjAxNjgzMiwtMT
+k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
