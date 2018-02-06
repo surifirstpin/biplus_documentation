@@ -6,10 +6,11 @@ Bi+ enables you to visualize the data in  different chart types and provides som
 **Title** label for chart and align them in top,bottom,left,right position 
 **Padding** sets the spacing at the top,bottom,left and right side of the charts
 
-02. X-Axis Section
-Axis type type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column,timeframe refer to the timeformat of the data
-Label field Label the field name in x-axis using grid display
-Axis label used to provide label option to x-axis
+02. X-Axis
+**Axis type** type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column,timeframe refer to the time-format of the data.
+
+**Label field** Label the field name in x-axis using grid display
+Axis label** used to provide label option to x-axis
 Reference Line is used to refer the particular values by colouring and this is optional
 Y-Axis section
 Axis type type of axis used in charts
@@ -196,6 +197,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDExOTA4NSwtMTE5NjAxNjgzMiwtMT
-k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbLTEwODI1OTIwMjMsLTExOTYwMTY4MzIsLT
+E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
