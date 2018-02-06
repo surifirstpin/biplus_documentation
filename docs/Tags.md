@@ -43,8 +43,9 @@ Select the tag in which you want to save **Dashboard**  and click on **Save.**
 
 ## Tree view with Parent & Child tags
 
-All the save 
+All the saved tags are visible in tree view as shown below.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTk5ODQyN119
+eyJoaXN0b3J5IjpbLTE0NTE1ODI4NzJdfQ==
 -->
