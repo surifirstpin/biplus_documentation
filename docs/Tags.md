@@ -33,17 +33,18 @@ To edit the tag click on setting icon.
 
 ## Privacy & Share for a Cluster of Reports
 
-Save the reports in the tag created and click on **Save.**
+Select the tag in wj on **Save.**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/48df1ea04c2a595b12cbc950174ccae53a3669e2/images/report_tag.png)
 
 ## Privacy & Share for a Cluster of Reports Dashboards
 
-         welcomre to Biplus
+Save the reports in the tag created and click on **Save.**
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0fb2c0fe9fbc99b6ac2cd3d818fe7533a74872b8/images/2018-02-06_16-09-56.png)
 
 ## Tree view with Parent & Child tags
 
          welcomre to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY3MTY3MjldfQ==
+eyJoaXN0b3J5IjpbMTAyNjM5MDk2OF19
 -->
