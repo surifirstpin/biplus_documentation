@@ -1,6 +1,6 @@
 ## Create Tag
 
-Tag is a label attached to reports or dashboar
+Tag is a label attached to reports or dashboards
 
 ## Edit Tag
 
@@ -23,5 +23,5 @@ Tag is a label attached to reports or dashboar
          welcomre to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Mjc4OTMyNF19
+eyJoaXN0b3J5IjpbLTQ1NzIxNjM3OV19
 -->
