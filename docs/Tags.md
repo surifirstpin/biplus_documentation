@@ -20,7 +20,9 @@ Tag provides the total path for reports and dashboards.
 ## Create a Child Tag 
 
 To create a Child Tag click on **Add Tag** button in dashboard section and select the parent tag under which you want to create a child tag.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c1b8fc9522826986d90afc6df61df3f988227475/images/child_tag.png)
+
 ## Edit Tag
 
          welcomre to Biplus
@@ -42,5 +44,5 @@ To create a Child Tag click on **Add Tag** button in dashboard section and selec
          welcomre to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjU1MDMxNl19
+eyJoaXN0b3J5IjpbMTE0MTUwNTA4XX0=
 -->
