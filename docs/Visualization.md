@@ -1,6 +1,6 @@
 ## 9 different chart type
 
-Bi+ enables you to visualize the data in  different chart types and provides some standard editing
+Bi+ enables you to visualize the data in  different chart types and provides some standard editing options
 General Section
 Title label for chart and align them in top,bottom,left,right position 
 Padding sets the spacing at the top,bottom,left and right side of the charts
@@ -199,6 +199,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQzMTI5ODcsLTExOTYwMTY4MzIsLT
+eyJoaXN0b3J5IjpbLTE5MjIyMTQ4NzMsLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
