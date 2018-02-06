@@ -73,7 +73,7 @@ Converts pie chart to donut.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/funnel_chart.png)
 
-You can view the funnel charts using different formats
+You can view the funnel charts using different formats :
  - Sort 
  - Curved
  -  Pinched 
@@ -171,6 +171,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTE0NDQ1NywtMTE5NjAxNjgzMiwtMT
-k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbNTkwNDA1NjE1LC0xMTk2MDE2ODMyLC0xOT
+Q4MjMyMjU1LDQ2NzkwNjIyNF19
 -->
