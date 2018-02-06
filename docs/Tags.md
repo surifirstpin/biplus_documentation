@@ -19,7 +19,7 @@ Tag provides the total path for reports and dashboards.
 
 ## Create Child Tag 
 
-To create a Child Tag click on **Add Tag** button in dashboard section and select the parent tag under which you want to create a child tag.
+To create a Child Tag click on **Add Tag** button in dashboard section and select the parent tag under which you want to create a child tag.You can add multiple child tags in parent tag.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c1b8fc9522826986d90afc6df61df3f988227475/images/child_tag.png)
 
@@ -43,8 +43,8 @@ Select the tag in which you want to save **Dashboard**  and click on **Save.**
 
 ## Tree view with Parent & Child tags
 
-         welcomre to Biplus
+All the save 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDA5NzI2NF19
+eyJoaXN0b3J5IjpbLTc5MTk5ODQyN119
 -->
