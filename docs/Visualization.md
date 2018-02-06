@@ -85,13 +85,16 @@ You can view the funnel charts using different formats
 
 ##  Gauge Chart :
 
-Green color indicates the value attained is closer to target range
+Green color indicates the value attained is closer to target.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3ab8a101cb46871444f60f0e5b10e81a6785a826/images/guage.png)
 
 Orange color indicates the value attained is half the way to target.
-Red color indicates the value attained is 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/671476ecbe2c70dcf89cc72f25b75ba5b4dafe41/images/guage_mediN.png)
 
+Red color indicates the value attained is intial state to meet
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/671476ecbe2c70dcf89cc72f25b75ba5b4dafe41/images/GUAGE_LOW.png)
 
 - **Value** select the field value to carry out the operations.
 
@@ -162,6 +165,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzEzNDA3NCwtMTE5NjAxNjgzMiwtMT
+eyJoaXN0b3J5IjpbMTYzMjcxNzMxMCwtMTE5NjAxNjgzMiwtMT
 k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
