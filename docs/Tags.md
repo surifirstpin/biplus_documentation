@@ -1,6 +1,6 @@
 ## Create Tag
 
-         welcomre to Biplus
+Tag is a label attached to rep
 
 ## Edit Tag
 
@@ -23,5 +23,5 @@
          welcomre to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjM4MzY1Ml19
+eyJoaXN0b3J5IjpbNzg4NDU2MTMxXX0=
 -->
