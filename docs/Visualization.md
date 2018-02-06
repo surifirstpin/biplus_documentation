@@ -135,18 +135,18 @@ Converts pie chart to donut.
   
   - **Name** Provide a reference name.
   - **Type** specifies how y-axis scale is calculated and displayed,Below are the options available to enable the scale type.
- Linear
-Polynomial
-Exponential
-Logarithmic
-Average
-Median
-Min
-Max
-Deviation
-Variance 
-Custom Line
-Custom Area
+ - Linear
+- Polynomial
+- Exponential
+- Logarithmic
+- Average
+- Median
+- Min
+- Max
+- Deviation
+- Variance 
+- Custom Line
+- Custom Area
 
 ## Funnel chart :
 
@@ -242,6 +242,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDg2MzQwNywtMTE5NjAxNjgzMiwtMT
+eyJoaXN0b3J5IjpbLTkzNDI4NDA3MywtMTE5NjAxNjgzMiwtMT
 k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
