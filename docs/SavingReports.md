@@ -3,6 +3,7 @@
 You can save the visualization under any specific tag as shown below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e3b7bf2c45247e84daf15a733ebe46301c7a2004/images/saving%20report.png)
+
 ## Save with info message
 
 - **Report Name** name identifier for saving the report ( BiPlus allows you to use special character but does not  support any spaces )
@@ -26,5 +27,5 @@ You can save the visualization under any specific tag as shown below.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDExNzk3N119
+eyJoaXN0b3J5IjpbLTE1MzU1MTg1NDldfQ==
 -->
