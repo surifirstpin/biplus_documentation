@@ -33,7 +33,8 @@ To edit the tag click on setting icon.
 
 ## Privacy & Share for a Cluster of Reports
 
-Save the reports in the tag created as shown below.
+Save the reports in the tag created and click on Save.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/48df1ea04c2a595b12cbc950174ccae53a3669e2/images/report_tag.png)
 
 ## Privacy & Share for a Cluster of Reports Dashboards
 
@@ -44,5 +45,5 @@ Save the reports in the tag created as shown below.
          welcomre to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2Nzk1NDkwXX0=
+eyJoaXN0b3J5IjpbLTE4Nzg1NjExNDVdfQ==
 -->
