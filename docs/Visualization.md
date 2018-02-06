@@ -107,7 +107,7 @@ Converts pie chart to donut.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/bubble_chart.png)
 
-Axis ty
+Axis type
 ## Funnel chart :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/funnel_chart.png)
@@ -202,6 +202,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwNzUwMzQ2LC0xMTk2MDE2ODMyLC0xOT
+eyJoaXN0b3J5IjpbNzUxNzU2MTQ5LC0xMTk2MDE2ODMyLC0xOT
 Q4MjMyMjU1LDQ2NzkwNjIyNF19
 -->
