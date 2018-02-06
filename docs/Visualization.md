@@ -109,10 +109,15 @@ You can view the funnel charts using different formats
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/widget_chart.png)
 
 - **Value** select the 1st measure value to apply the conditions.
+
 - **Format** select the number format.
+
 - **Previous value** select the 2nd measure value to apply conditions.
+
 - **Change** choose the condition (difference,growth,none).
+
 - **Show growth** displays the growth rate of selected measure fields.
+
 - **Style** set different style formats from the option provided.
 
 ##  World chart in visualization menu:
@@ -148,6 +153,6 @@ Below is sql query for the report :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExMjMwMzA4LC0xMTk2MDE2ODMyLC0xOT
-Q4MjMyMjU1LDQ2NzkwNjIyNF19
+eyJoaXN0b3J5IjpbLTE4NDA2MzY5MCwtMTE5NjAxNjgzMiwtMT
+k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
