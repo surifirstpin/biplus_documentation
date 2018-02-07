@@ -258,7 +258,7 @@ You can perform Arithmetic operation to the desired fields in calculated columns
 
 ## Usage of Global Parameters with reference from Data Field values & Login Control
  
- Global parameter is a flat file used to manipulate,control and organize the data retrieved from database.it can be used in three ways:
+ Global parameter is a flat file used to manipulate,control and organize the data retrieved from database. it can be used in three ways:
  
  1. While calculating an expression over a database field value using field reference.
  ```
@@ -289,13 +289,8 @@ Example: In Model -> Data Control over a view
 ```
 
  3.  While calculating an expression over a database field value using field reference and login reference.
+```
 
-```bi.in_global_keys(["ParameterColumnName","ParameterUserID"],["DatabaseField","bi._globals("#userid#")"],"ParameterName.Field"])
-
-**Example**:
-#math#
-bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661} 
-,bi._globals("#userid#")],"CalcCol_Stage2.SeizeLimit
 
 ```
 
@@ -307,5 +302,5 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTgwNjUzNTBdfQ==
+eyJoaXN0b3J5IjpbLTYxNzA4NzU3OF19
 -->
