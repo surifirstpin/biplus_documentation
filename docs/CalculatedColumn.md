@@ -258,7 +258,7 @@ You can perform Arithmetic operation to the desired fields in calculated columns
 
 ## Usage of Global Parameters with reference from Data Field values & Login Control
  
- Global parametrs acts like interface between 
+ Global parameters acts as user interface between 
 
 
 ## Calculate on Raw functionality
@@ -269,5 +269,5 @@ You can perform Arithmetic operation to the desired fields in calculated columns
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA1ODU2MjBdfQ==
+eyJoaXN0b3J5IjpbNzA4NjkxOTEzXX0=
 -->
