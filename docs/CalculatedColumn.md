@@ -1,3 +1,5 @@
+## Calculated Column Definition
+
 Calculation is a statement or expression or a function operator which can be used to derive the column values, lets get deep into calculated column function.
 
 ## Usage of #math# 
@@ -257,6 +259,7 @@ You can perform Arithmetic operation to the desired fields in calculated columns
 it will execute a series of actions on a database record and returns a particular value.
  
  **Syntax**
+ 
  ```
  #math#
 /*START*/
@@ -334,5 +337,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzM5ODU3NF19
+eyJoaXN0b3J5IjpbLTE4NDQ2NzQ3NTddfQ==
 -->
