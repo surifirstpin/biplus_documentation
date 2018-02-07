@@ -265,14 +265,17 @@ You can perform Arithmetic operation to the desired fields in calculated columns
   **Syntax** 
  ```
  bi.in_global_keys(["ParameterColumnName"],["DatabaseField"],"ParameterName.Field"])
- 
-Example :
+```
+
+**Example :**
+```
 #math#
 bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"Calc_ONRAW.value")
 ```
  2. While controlling the visibility of a shared report based on Login.
  
 **Syntax** 
+
  ```
 DatabaseField in (#{ParameterName.Field,#userid#,ReferenceColumnName})
 ```
@@ -313,5 +316,5 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzk0ODAwMF19
+eyJoaXN0b3J5IjpbLTI3ODk0MTE0XX0=
 -->
