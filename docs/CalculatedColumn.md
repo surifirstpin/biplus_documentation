@@ -270,10 +270,10 @@ Stetement 2;
 return Outpur_value;
 }
 /*END*/
-F_Name(input_param1, input_param2,.......)
+bi._Fname(input_param1, input_param2,.......)
 ```
 
-##A
+## Access Global Parameters
  
  Global parameter is a flat file used to manipulate,control and organize the data retrieved from database. it can be used in three ways:
  
@@ -334,5 +334,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Mjg4ODcxNV19
+eyJoaXN0b3J5IjpbLTU5NzM5ODU3NF19
 -->
