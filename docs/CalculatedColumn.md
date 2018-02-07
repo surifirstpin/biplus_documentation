@@ -291,7 +291,7 @@ bi._Fname(input_param1, input_param2,.......)
 -  Database Value
     - it can be static value
     - it can be reference value
-    - it can be used with provuse id  
+    - it can be used with providing a use id  
 - Parameter Name
 **Example :**
 ```
@@ -322,5 +322,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDgyNDQwN119
+eyJoaXN0b3J5IjpbLTY2MjkwMTM0NV19
 -->
