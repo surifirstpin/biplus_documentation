@@ -21,10 +21,6 @@ A Project is collection of files that describes how database tables are connecte
 
 - Tables select the table fields in the tables section by selecting the check boxes all the selected tables are visible on the right side of the tables section. 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/add_tables.png)
-## Remove tables from Database 
-To remove tables from database select the check boxes of selected tables from right side section or else you can click on **deselect all** option available to remove all tables at a time.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0e5fb234751d7b3cd7f8f40b1ad7d79bca7c22d7/images/remove_tables.png)
 
 ## Auto Build Joins
 
@@ -41,7 +37,7 @@ To remove tables from database select the check boxes of selected tables from ri
 
 ## Remove tables from Database 
 To remove tables from database select the check boxes of selected tables from right side section or else you can click on **deselect all** option available to remove all tables at a time.
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0e5fb234751d7b3cd7f8f40b1ad7d79bca7c22d7/images/remove_tables.png)
 > Once we save the created project the data is reflected in model screen as shown in below image:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_final.png)
@@ -64,5 +60,5 @@ You can save the project in public or private sections by selecting the radio bu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODE2MjE0OTNdfQ==
+eyJoaXN0b3J5IjpbLTE0NzM2MDc3MTNdfQ==
 -->
