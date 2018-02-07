@@ -284,9 +284,10 @@ bi._Fname(input_param1, input_param2,.......)
   
 **Syntax** 
  ```
- bi.in_global_keys(["ParameterColumnName"],["DatabaseField"],"ParameterName.Field"])
+ bi.in_global_keys(["ParameterColumnName"],["DatabaseValue"],"ParameterName.Field"])
 ```
-
+- Parameter Column Name 
+- 
 **Example :**
 ```
 #math#
@@ -316,5 +317,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3MDM0ODQ3XX0=
+eyJoaXN0b3J5IjpbMTYzODIyMDcxOF19
 -->
