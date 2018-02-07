@@ -292,8 +292,10 @@ bi._Fname(input_param1, input_param2,.......)
   
    **b) Reference value**
     
-        **c) Login Name(User Id)**       
-        **Example :**
+   **c) Login Name(User Id)**       
+   
+   **Example :**
+
 ```
 #math#
 bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"Calc_ONRAW.value")
@@ -323,5 +325,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTE1NTg5OF19
+eyJoaXN0b3J5IjpbNjM2MjE5MDA0XX0=
 -->
