@@ -39,6 +39,9 @@ To remove tables from database select the check boxes of selected tables from ri
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model5.png)
 
+## Remove tables from Database 
+To remove tables from database select the check boxes of selected tables from right side section or else you can click on **deselect all** option available to remove all tables at a time.
+
 > Once we save the created project the data is reflected in model screen as shown in below image:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_final.png)
@@ -61,5 +64,5 @@ You can save the project in public or private sections by selecting the radio bu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODgzNzA4NzVdfQ==
+eyJoaXN0b3J5IjpbLTE5ODE2MjE0OTNdfQ==
 -->
