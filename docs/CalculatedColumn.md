@@ -298,7 +298,7 @@ bi._Fname(input_param1, input_param2,.......)
 ```
 #math#
 bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"Calc_ONRAW.value")
-
+```
 **Syntax** 
 ```
 bi.in_global_keys(["ParameterColumnName","ParameterUserID"],["DatabaseField","bi._globals("#userid#")"],"ParameterName.Field"])
@@ -324,5 +324,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjM0ODY2XX0=
+eyJoaXN0b3J5IjpbMTI2MjQxMTc1NF19
 -->
