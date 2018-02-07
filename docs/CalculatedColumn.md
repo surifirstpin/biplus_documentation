@@ -287,11 +287,12 @@ bi._Fname(input_param1, input_param2,.......)
 - Parameter Column Name
 
 -  Database Value can be used in 3 different ways
-  ** Static value**
   
-    **Reference value**
+  **a)  Static value**
+  
+   **b) Reference value**
     
-    **Login Name(User Id)**       
+    **c) Login Name(User Id)**       
         **Example :**
 ```
 #math#
@@ -322,5 +323,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU0NDEzNjldfQ==
+eyJoaXN0b3J5IjpbLTE5NjEyNDkyMjJdfQ==
 -->
