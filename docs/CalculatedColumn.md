@@ -286,9 +286,11 @@ bi._Fname(input_param1, input_param2,.......)
 ```
 - Parameter Column Name
 
--  Database Value can be retrieved in 3 di
-    - it can be static value
-    - it can be reference value
+-  Database Value can be used in 3 different ways
+  ** Static value**
+  
+    **Reference value**
+    
     - it can be used providing a user id
         - #Userid
          ```
@@ -322,5 +324,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTIwNzY3MDBdfQ==
+eyJoaXN0b3J5IjpbNTYxODEzMTVdfQ==
 -->
