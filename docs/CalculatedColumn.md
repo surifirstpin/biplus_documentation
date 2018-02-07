@@ -261,6 +261,7 @@ You can perform Arithmetic operation to the desired fields in calculated columns
  Global parameter is a flat file used to manipulate,control and organize the data retrieved from database. it can be used in three ways:
  
  1. While calculating an expression over a database field value using field reference.
+  **Syntax** 
  ```
  bi.in_global_keys(["ParameterColumnName"],["DatabaseField"],"ParameterName.Field"])
  
@@ -269,8 +270,9 @@ Example :
 bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"Calc_ONRAW.value")
 ```
  2. While controlling the visibility of a shared report based on Login.
+ 
+**Syntax** 
  ```
-
 DatabaseField in (#{ParameterName.Field,#userid#,ReferenceColumnName})
 
 Example: In Model -> Data Control over a view
@@ -309,5 +311,5 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDc1NTM3Nl19
+eyJoaXN0b3J5IjpbMTc2NTAxNjIzNl19
 -->
