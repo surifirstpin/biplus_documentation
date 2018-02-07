@@ -278,7 +278,7 @@ bi._Fname(input_param1, input_param2,.......)
 
 ## Access Global Parameters
  
- Global parameter is a flat file used to manipulate,control and organize the data retrieved from database. it can be used in three ways:
+ Global parameter is a flat file used to manipulate,control and organize the data which is not available in database and accessed the data in report,. it can be used in three ways:
  
  1. While calculating an expression over a database field value using field reference.
   
@@ -292,28 +292,7 @@ bi._Fname(input_param1, input_param2,.......)
 #math#
 bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"Calc_ONRAW.value")
 ```
- 2. While controlling the visibility of a shared report based on Login.
- 
-**Syntax** 
 
- ```
-DatabaseField in (#{ParameterName.Field,#userid#,ReferenceColumnName})
-```
-
-**Example:**
-```
-"explore": [
-		{
-			"name": "DatabaseTableName",
-			"label": "DatabaseTableName",
-			"filters": [
-					{
-					"name": "FilterName",
-					"filter_sql": "DatabaseField in (#{ParameterName.Field,#userid#,ReferenceColumnName})",
-					"apply": "all",
-					"position": "before"
-					}
-```
 
  3.  While calculating an expression over a database field value using field reference and login reference.
 
@@ -337,5 +316,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ2NzQ3NTddfQ==
+eyJoaXN0b3J5IjpbNzYyODkwMDddfQ==
 -->
