@@ -270,9 +270,10 @@ bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"
 ```
  2. While controlling the visibility of a shared report based on Login.
  ```
+
 DatabaseField in (#{ParameterName.Field,#userid#,ReferenceColumnName})
 
-Ex: In Model -> Data Control over a view
+Example: In Model -> Data Control over a view
 
 "explore": [
 		{
@@ -288,9 +289,13 @@ Ex: In Model -> Data Control over a view
 ```
 
  3.  While calculating an expression over a database field value using field reference and login reference.
-
+ 4. ```
+bi.in_global_keys(["ParameterColumnName","ParameterUserID"],["DatabaseField","bi._globals("#userid#")"],"ParameterName.Field"])
  ```
-
+Example :
+#math#
+bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661} 
+,bi._globals("#userid#")],"CalcCol_Stage2.SeizeLimit
 ```
 
 ## Calculate on Raw functionality
@@ -301,5 +306,5 @@ Ex: In Model -> Data Control over a view
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzUxMTUwOV19
+eyJoaXN0b3J5IjpbMTU4MDcwNDM1Nl19
 -->
