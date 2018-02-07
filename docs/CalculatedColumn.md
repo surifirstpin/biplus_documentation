@@ -296,7 +296,7 @@ bi.in_global_keys(["ParameterColumnName","ParameterUserID"],["DatabaseField","bi
 #math#
 bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661} 
 ,bi._globals("#userid#")],"CalcCol_Stage2.SeizeLimit
-```
+``
 ## Calculate on Raw functionality
 
 
@@ -305,5 +305,5 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDUwNDQ3Ml19
+eyJoaXN0b3J5IjpbMTQxMDc2OTg1NF19
 -->
