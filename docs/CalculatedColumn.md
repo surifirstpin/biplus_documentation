@@ -258,7 +258,7 @@ You can perform Arithmetic operation to the desired fields in calculated columns
 
 ## Usage of Global Parameters with reference from Data Field values & Login Control
  
- Global parameter  a flat file used to manupulate 
+ Global parameter is a flat file used to manipulate,control and organised the data retrieved from database.it can be used in three ways:
 
 
 ## Calculate on Raw functionality
@@ -269,5 +269,5 @@ You can perform Arithmetic operation to the desired fields in calculated columns
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NzA1Nzg1MV19
+eyJoaXN0b3J5IjpbLTgzMjA1NjY2M119
 -->
