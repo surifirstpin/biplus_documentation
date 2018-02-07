@@ -16,7 +16,7 @@ Bi+ provides an Integrated Development Environment(IDE) for developing and handl
 
 > Step 1
  - **Project name** enter a project name to identify the model file.
- 
+
 - **Connection** Select the database connection you want to setup from the list provided
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model2.png)
@@ -67,5 +67,5 @@ You can save the project in public or private sections by selecting the radio bu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM4MDQyXX0=
+eyJoaXN0b3J5IjpbLTg5NDQzMTk0XX0=
 -->
