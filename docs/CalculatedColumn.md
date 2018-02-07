@@ -276,7 +276,7 @@ bi._Fname(input_param1, input_param2,.......)
 
 ## Access Global Parameters
  
- Global parameter is a flat file used to manipulate,control and organize the data which is not available in database and accessed the data in report.
+ Global parameter is a flat file used to manipulate,control and organize the data which is not available in database and accessed this data in report.
  
  While calculating an expression over a database value using field reference.
   
@@ -322,5 +322,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTEzMzk1XX0=
+eyJoaXN0b3J5IjpbLTIzNDUwMDk2NF19
 -->
