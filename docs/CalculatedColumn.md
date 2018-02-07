@@ -9,8 +9,6 @@ Custom made mathematical operations can be added in calculated column section as
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a3a039bae7badccb31d41bbc9c5449943045474/images/calculate.png)
 
-### Syntax for using math functionality :
-
 **Check the number of working days in each month :**
 ```
 #math#
@@ -324,5 +322,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTE4NTc1MzRdfQ==
+eyJoaXN0b3J5IjpbMTEzODcxMTQ3Nl19
 -->
