@@ -273,7 +273,7 @@ return Outpur_value;
 F_Name(input_param1, input_param2,.......)
 ```
 
-## Usage of Global Parameters with reference from Data Field values & Login Control
+##A
  
  Global parameter is a flat file used to manipulate,control and organize the data retrieved from database. it can be used in three ways:
  
@@ -334,5 +334,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzY5NTYzOF19
+eyJoaXN0b3J5IjpbMTU4Mjg4ODcxNV19
 -->
