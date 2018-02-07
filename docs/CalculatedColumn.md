@@ -254,7 +254,7 @@ You can perform Arithmetic operation to the desired fields in calculated columns
 
 ## Usage of Global Functions with parameters from Data Fields
 
-it will execute a series of ns
+it will execute a series of actions ns
  
  **SYNTAX**
  ```
@@ -337,5 +337,5 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3NzcxNDc4XX0=
+eyJoaXN0b3J5IjpbLTE3NjEzNzk0OTVdfQ==
 -->
