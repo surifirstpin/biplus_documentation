@@ -262,7 +262,11 @@ You can perform Arithmetic operation to the desired fields in calculated columns
  
  1. While calculating an expression over a database field value using field reference.
  ```
-
+ bi.in_global_keys(["ParameterColumnName"],["DatabaseField"],"ParameterName.Field"])
+ 
+Example :
+#math#
+bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"Calc_ONRAW.value")
 ```
  2. While controlling the visibility of a shared report based on Login.
  ```
@@ -297,5 +301,5 @@ Ex: In Model -> Data Control over a view
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDA5NzYyN119
+eyJoaXN0b3J5IjpbLTE0MzUxMTUwOV19
 -->
