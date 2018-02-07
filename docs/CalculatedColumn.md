@@ -289,6 +289,7 @@ Example: In Model -> Data Control over a view
 ```
 
  3.  While calculating an expression over a database field value using field reference and login reference.
+```
 
 ## Calculate on Raw functionality
 
@@ -298,5 +299,5 @@ Example: In Model -> Data Control over a view
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTQwMDk4XX0=
+eyJoaXN0b3J5IjpbMzAxMTY5MzYyXX0=
 -->
