@@ -327,11 +327,12 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 ```
 ## Calculate on Raw functionality
 
+This function is applied initially before pivot or grouping or else applied later.
 
-## Calc column with Pivot Option On /Off
+## Calculate column with Pivot Option On /Off
 
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODE5MTE2MzFdfQ==
+eyJoaXN0b3J5IjpbMTA0MTU2MTAzMF19
 -->
