@@ -252,7 +252,7 @@ You can perform Arithmetic operation to the desired fields in calculated columns
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/60036e93167331ca3442d5bb10ff48209b021fdd/images/arth_add.png)
 
 
-## Usage of Global Functions with parameters from Data Fields
+## Calculate Custom Functions
 
 it will execute a series of actions on a database record and returns a particular value.
  
@@ -334,5 +334,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTkzOTgxXX0=
+eyJoaXN0b3J5IjpbLTU5NzY5NTYzOF19
 -->
