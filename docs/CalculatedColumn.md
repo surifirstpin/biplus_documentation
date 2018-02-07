@@ -291,17 +291,18 @@ bi._Fname(input_param1, input_param2,.......)
 -  Database Value
     - it can be static value
     - it can be reference value
-    - it can be used with providing a user id
+    - it can be used providing a user id
         - #Userid
      
 - Parameter Name
+
 **Example :**
 ```
 #math#
 bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"Calc_ONRAW.value")
 ```
 
-
+----------------------remove----------------------------
  3.  While calculating an expression over a database field value using field reference and login reference.
 
 **Syntax** 
@@ -324,5 +325,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTg5OTk1N119
+eyJoaXN0b3J5IjpbMTc5NDIwMzkxMV19
 -->
