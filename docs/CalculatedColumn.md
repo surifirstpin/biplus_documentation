@@ -274,9 +274,10 @@ bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"
 **Syntax** 
  ```
 DatabaseField in (#{ParameterName.Field,#userid#,ReferenceColumnName})
+```
 
-Example: In Model -> Data Control over a view
-
+**Example:**
+```
 "explore": [
 		{
 			"name": "DatabaseTableName",
@@ -311,5 +312,5 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTAxNjIzNl19
+eyJoaXN0b3J5IjpbNTcxMzk5NzhdfQ==
 -->
