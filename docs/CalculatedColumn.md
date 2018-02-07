@@ -290,7 +290,8 @@ Example: In Model -> Data Control over a view
 
  3.  While calculating an expression over a database field value using field reference and login reference.
 
-```**Syntax**
+```
+**Syntax**
 bi.in_global_keys(["ParameterColumnName","ParameterUserID"],["DatabaseField","bi._globals("#userid#")"],"ParameterName.Field"])
 
 **Example**:
@@ -308,5 +309,5 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjQwNDkzM119
+eyJoaXN0b3J5IjpbMTQ1NTAxMjUzMV19
 -->
