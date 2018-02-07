@@ -257,7 +257,7 @@ You can perform Arithmetic operation to the desired fields in calculated columns
 it will execute a series of actions on a database record and returns a particular value.
  
  **Syntax**
- 
+
  ```
  #math#
 /*START*/
@@ -278,7 +278,7 @@ bi._Fname(input_param1, input_param2,.......)
  
  Global parameter is a flat file used to manipulate,control and organize the data which is not available in database and accessed the data in report.
  
- 1. While calculating an expression over a database field value using field reference.
+ While calculating an expression over a database value using field reference.
   
 **Syntax** 
  ```
@@ -322,5 +322,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODcxMTQ3Nl19
+eyJoaXN0b3J5IjpbLTc3OTEzMzk1XX0=
 -->
