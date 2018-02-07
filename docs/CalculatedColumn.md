@@ -329,10 +329,10 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 
 This function is applied initially before pivot or grouping or else applied later.
 
-## Calculate column with Pivot Option On /Off
+## Calculate column with Pivot Offset
 
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTU2MTAzMF19
+eyJoaXN0b3J5IjpbLTU0OTkzOTgxXX0=
 -->
