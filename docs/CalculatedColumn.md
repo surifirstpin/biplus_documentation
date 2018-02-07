@@ -266,7 +266,21 @@ You can perform Arithmetic operation to the desired fields in calculated columns
 ```
  2. While controlling the visibility of a shared report based on Login.
  ```
+DatabaseField in (#{ParameterName.Field,#userid#,ReferenceColumnName})
 
+Ex: In Model -> Data Control over a view
+
+"explore": [
+		{
+			"name": "DatabaseTableName",
+			"label": "DatabaseTableName",
+			"filters": [
+					{
+					"name": "FilterName",
+					"filter_sql": "DatabaseField in (#{ParameterName.Field,#userid#,ReferenceColumnName})",
+					"apply": "all",
+					"position": "before"
+					}
 ```
 
  3.  While calculating an expression over a database field value using field reference and login reference.
@@ -283,5 +297,5 @@ You can perform Arithmetic operation to the desired fields in calculated columns
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExMTg2NDE0XX0=
+eyJoaXN0b3J5IjpbLTgxNDA5NzYyN119
 -->
