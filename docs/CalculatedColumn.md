@@ -291,6 +291,7 @@ bi._Fname(input_param1, input_param2,.......)
   **a)  Static value**
   
    **b) Reference value**
+    
         **c) Login Name(User Id)**       
         **Example :**
 ```
@@ -322,5 +323,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTYyMjQ1Ml19
+eyJoaXN0b3J5IjpbMTMxNTE1NTg5OF19
 -->
