@@ -10,16 +10,16 @@ Custom made mathematical operations can be added in calculated column section as
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a3a039bae7badccb31d41bbc9c5449943045474/images/calculate.png)
 
 ### Syntax for using math functionality :
-```
-Check the number of working days in each month:
 
+Check the number of working days in each month:
+```
 #math#
 bi.days_in_month
 (${ROOT.BI_ORDERS.date_month_WHENMADE}) 
 ```
-```
-To calculate the cubical value of the field
 
+To calculate the cubical value of the field
+```
 #math#
 bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 ```
@@ -324,5 +324,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MjQxMTc1NF19
+eyJoaXN0b3J5IjpbLTY1OTMyMDc4MF19
 -->
