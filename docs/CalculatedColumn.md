@@ -256,7 +256,7 @@ You can perform Arithmetic operation to the desired fields in calculated columns
 
 it will execute a series of actions on a database record and returns a particular value.
  
- **SYNTAX**
+ **Syntax**
  ```
  #math#
 /*START*/
@@ -267,14 +267,9 @@ Statement 1;
 Stetement 2;
 ......
 .....
-
-
 return Outpur_value;
-
 }
-
 /*END*/
-
 F_Name(input_param1, input_param2,.......)
 ```
 
@@ -283,7 +278,8 @@ F_Name(input_param1, input_param2,.......)
  Global parameter is a flat file used to manipulate,control and organize the data retrieved from database. it can be used in three ways:
  
  1. While calculating an expression over a database field value using field reference.
-  **Syntax** 
+  
+**Syntax** 
  ```
  bi.in_global_keys(["ParameterColumnName"],["DatabaseField"],"ParameterName.Field"])
 ```
@@ -337,5 +333,5 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODYzNDUwNDNdfQ==
+eyJoaXN0b3J5IjpbLTExODE5MTE2MzFdfQ==
 -->
