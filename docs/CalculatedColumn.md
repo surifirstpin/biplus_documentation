@@ -28,7 +28,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  ------ | ------ | ------ |
 |  offset | Return the row value of the column mentioned as before or after based on -Ve or +Ve number given | offset(#{col_name}, row_difference) |
 |  pivot_offset |Returns the value of the  pivot_expression in position  (n + col_offset), where n is the current pivot column position. Returns null for un pivoted results | pivot_offset(reference of given Column ,col_no,row_no) |
-|  contains | Returns true if the Column mentioned contains the followed ‘Sub-String’, else it returns false | contains(if the given reference name is  present in the given col it gives true or else false) |
+|  contains | Returns true if the Column mentioned contains the followed ‘Sub-String’, else it returns false | contains(if the given reference name has matched is  present in the given col it gives true or else false) |
 |  row_total | Returns the total value in the row for the preceeding measures (before the present column) | row_total ( ) |
 |  col_total | Returns the total value of the column given inside () | column_total(#{col_name}) |
 |  number | Returns number value of a string | number("1234567") it returns =1234567 |
@@ -323,5 +323,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxODg0NDM3XX0=
+eyJoaXN0b3J5IjpbODY2NjA4NDAzXX0=
 -->
