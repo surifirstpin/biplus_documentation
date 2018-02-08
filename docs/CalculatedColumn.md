@@ -320,8 +320,6 @@ This function is applied initially before pivot or grouping or else applied late
 
 ## Calculate column with Pivot Offset
 
-            welcome to Biplus
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Nzc0OTgxM119
+eyJoaXN0b3J5IjpbMTE1NTcyMTUxXX0=
 -->
