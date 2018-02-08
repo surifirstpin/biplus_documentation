@@ -307,18 +307,18 @@ bi._Fname(input_param1, input_param2,.......)
 bi.in_global_keys( ["Station_Name"],["Station_1" ],"Calc_ONRAW.value")
 ```
 
-**b) Reference value** Global parameters refers to reference value.
+**2. Reference value** Global parameters refers to reference value.
        
   **Syntax :**
 ```
   bi.in_global_keys( ["Parameter_Column_Name "],["database column" ],"Global_parameter.field")
-
+```
   **Example :**
 ```
 #math#
 bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"Calc_ONRAW.value")
 ```
-**c) Login Name(User Id)** Provide Access based on Login ID.
+** 3. Login Name(User Id)** Provide Access based on Login ID.
    
 **Syntax :** 
 ```
@@ -348,5 +348,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTU5MTA1OF19
+eyJoaXN0b3J5IjpbNDY5MTI3ODcyXX0=
 -->
