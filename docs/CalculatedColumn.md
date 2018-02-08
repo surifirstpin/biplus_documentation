@@ -286,7 +286,7 @@ bi._Fname(input_param1, input_param2,.......)
 ```
 - **Parameter Column Name** Returns the key name from global parameter.
 
--  **Database Value** returns the database val
+-  **Database Value** returns the database value
  can be used in 3 different ways
   
   **a)  Static value**
@@ -326,5 +326,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQwNTczMF19
+eyJoaXN0b3J5IjpbMTc3MDU5NTQwNl19
 -->
