@@ -321,7 +321,8 @@ This function is applied initially before pivot or grouping or else applied late
 ## Calculate column with Pivot Offset
 
 For example we have below query:
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e57486db28c6080f32883e70a70e8348d19ff844/images/pivot_offset.png)
+if we want to check the difference between the quantity sum in each month.
+${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzNjEzMTU1XX0=
+eyJoaXN0b3J5IjpbLTYwODk1Njg0Ml19
 -->
