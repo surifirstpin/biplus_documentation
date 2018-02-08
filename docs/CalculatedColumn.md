@@ -284,7 +284,7 @@ bi._Fname(input_param1, input_param2,.......)
  ```
  bi.in_global_keys(["ParameterColumnName"],["DatabaseValue"],"ParameterName.Field"])
 ```
-- **Parameter Column Name** Returns the key name from global paramete
+- **Parameter Column Name** Returns the key name from global parameter
 
 -  Database Value can be used in 3 different ways
   
@@ -325,5 +325,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDA5OTUwOF19
+eyJoaXN0b3J5IjpbLTY0NTAxMjE2NF19
 -->
