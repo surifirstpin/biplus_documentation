@@ -286,8 +286,8 @@ bi._Fname(input_param1, input_param2,.......)
 ```
 - **Parameter Column Name** Returns the key name from global parameter.
 
--  **Database Value** Returns the database value.
-    - Returns database vale in 
+-  **Database Value** Returns database value.
+    - Returns database value in 
 
 - **Parameter Name Field** Returns the field from global parameter. 
  can be used in 3 different ways
@@ -308,11 +308,6 @@ bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"
 ```
 bi.in_global_keys(["ParameterColumnName","ParameterUserID"],["DatabaseField","bi._globals("#userid#")"],"ParameterName.Field"])
 ```
-    
-
-- Parameter Name
-
-
 **Example:**
 ```
 #math#
@@ -329,5 +324,5 @@ This function is applied initially before pivot or grouping or else applied late
             welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjY3NTk5NV19
+eyJoaXN0b3J5IjpbLTEyMDIzODg0MzhdfQ==
 -->
