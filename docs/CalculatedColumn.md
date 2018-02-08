@@ -324,11 +324,11 @@ Now you want to look at the quantity_sum difference by each month for specific c
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cfd94b0b9fe7b31888a3c426882590bae7914fc4/images/pivot_offset.png)
 
-e can get quantity_sum difference of each month for specific customer using Pivot_Offset() function.
+We can get quantity_sum difference of each month for specific customer using Pivot_Offset() function.
 
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/71c2827318db471bfd36b01ee53157190aacef73/images/pivot_offset2.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzU2NzEwMzZdfQ==
+eyJoaXN0b3J5IjpbMTY2NzkxNzkyN119
 -->
