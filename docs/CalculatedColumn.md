@@ -319,7 +319,7 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 If calculate raw is enabled even after grouping the calculation is applied to each and every record and displays the final result.
 If disabled the calculation will be done after the grouping.
 
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fe0920a5f1e6abcabfab1c22ce5d8a5df08ee789/images/on_ram.png)
 ## Calculate column with Pivot Offset
 
 Now you want to look at the quantity_sum difference by each month for specific customer then select customer_id,add pivot to  month.
@@ -331,5 +331,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzc3MjAwNl19
+eyJoaXN0b3J5IjpbLTE5Mzk1NzIzOTVdfQ==
 -->
