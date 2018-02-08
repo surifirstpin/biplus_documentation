@@ -319,7 +319,8 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 This function is applied initially before pivot or grouping or else applied later.
 
 ## Calculate column with Pivot Offset
-
+bi.pivot_offset(#{ROOT.BI_ORDERS.sum_AMOUNT} ,0,-1)
+For example we have below query
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTcyMTUxXX0=
+eyJoaXN0b3J5IjpbLTE4MTY5Nzk3NzNdfQ==
 -->
