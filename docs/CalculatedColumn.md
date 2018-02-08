@@ -324,8 +324,9 @@ Now you want to look at the quantity_sum difference by each month for specific c
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cfd94b0b9fe7b31888a3c426882590bae7914fc4/images/pivot_offset.png)
 
+
 if we want to check the difference between the quantity sum in each month.
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NjMxMjA3MV19
+eyJoaXN0b3J5IjpbLTk5NzQxNDYwM119
 -->
