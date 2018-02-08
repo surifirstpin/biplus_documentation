@@ -290,7 +290,7 @@ bi._Fname(input_param1, input_param2,.......)
 
 - **Parameter Name Field** Returns the field from global parameter it is applicable in 3 different ways
   
-  **a)  Static value** static value to which a global parameter is referred.
+  **a)  Static value** global parameters refer to a static value.ed.
   
    **b) Reference value**
     
@@ -329,5 +329,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTIxNDk5OF19
+eyJoaXN0b3J5IjpbLTMwNjk5NTQ3Nl19
 -->
