@@ -34,9 +34,11 @@ To upload the parameter select the global parameter key name.
 >
 ## Change Column Name & Type (String / Number)
 
-Select the column name you want to edit and click on edit button.
-
+4. Select the column name you want to edit and click on edit button.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9f487e8bcb13f913640bdce2a7030f7b519167a/images/para1.png)
  
+ 
+ ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9f487e8bcb13f913640bdce2a7030f7b519167a/images/para2.png)
 ## Grid & Code Views
 
              welcome to Biplus
@@ -58,5 +60,5 @@ Select the column name you want to edit and click on edit button.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1NDExODVdfQ==
+eyJoaXN0b3J5IjpbMTc4OTc2MzkxMF19
 -->
