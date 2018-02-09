@@ -46,9 +46,11 @@ To Create a Group Click on settings-->Select Groups-->Click on Add Group.
 
 ## Edit & Delete Group
 
-3. Click on Edit icon to edit the user.
-4. Click on Delete icon to delete the user.
+3. Click on Edit icon to edit the group.
+4. Click on Delete icon to delete the Group.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQ4NjI5MDQsNDY1NzY2ODE2LC05Nz
-Q2NjAxODddfQ==
+eyJoaXN0b3J5IjpbMTM2ODE4OTY5MCw0NjU3NjY4MTYsLTk3ND
+Y2MDE4N119
 -->
