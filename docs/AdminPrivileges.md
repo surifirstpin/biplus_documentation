@@ -44,7 +44,9 @@ To Create a Group Click on settings-->Select Groups-->Click on Add Group.
 -**Users** Select  users for group.
 
 
+## Edit & Delete Group
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODgwMDM0OCw0NjU3NjY4MTYsLTk3ND
+eyJoaXN0b3J5IjpbLTg1Mzc1MjcwNiw0NjU3NjY4MTYsLTk3ND
 Y2MDE4N119
 -->
