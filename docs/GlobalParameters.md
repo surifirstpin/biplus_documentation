@@ -45,7 +45,8 @@ Similarly you can also edit Column cell value by clicking on the specific cell a
 
 ## Grid & Code Views
 
-             welcome to Biplus
+The uploaded file can be viewed in JSON format in Code view options.
+
 
 ## Check Case functionality On / Off
 
@@ -64,5 +65,5 @@ Similarly you can also edit Column cell value by clicking on the specific cell a
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzcxNjE4NjRdfQ==
+eyJoaXN0b3J5IjpbOTE2MjY5ODM1XX0=
 -->
