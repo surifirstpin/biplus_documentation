@@ -28,6 +28,7 @@ To Create a User Click on Settings-->Select users-->Click on Add Users.
 - **Enabled** Control access to users.
 
 ## Edit & Delete User
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fed976f79b3ba765a8bc3b9ca665de4de0fd2681/images/user_edit.png)
 
 1.Click on edit icon to edit the user.
 2.Click on Delete icon to delete the user.
@@ -44,6 +45,6 @@ To Create a Group Click on settings-->Select Groups-->Click on Add Group.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDI0Njg1MSw0NjU3NjY4MTYsLTk3ND
+eyJoaXN0b3J5IjpbMTMwODgwMDM0OCw0NjU3NjY4MTYsLTk3ND
 Y2MDE4N119
 -->
