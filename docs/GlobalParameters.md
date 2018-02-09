@@ -1,8 +1,6 @@
 ## Create  Global Parameters
 
-To Create a Global Parameters Click on settings-->Select Global Parameters-->
-
-Click on Add Key
+To Create a Global Parameters Click on settings-->Select Global ParameterClick on Add Key
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb08bee2614e37797672ab46bd201d2f6211d09b/images/global+para.png)
 
@@ -31,5 +29,5 @@ Click on Add Key
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyMTExMzY2XX0=
+eyJoaXN0b3J5IjpbMTg0ODE3ODUxOV19
 -->
