@@ -52,7 +52,7 @@ The uploaded file can be viewed in JSON format in Code view options.
 
 ## Check Case functionality On / Off
 
-If check case is enabled,global parametrs bec
+If check case is enabled,global parametrs become case se
 ## Edit Global Parameters
 
              welcome to Biplus
@@ -62,5 +62,5 @@ If check case is enabled,global parametrs bec
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzOTk1OTA5XX0=
+eyJoaXN0b3J5IjpbNDU0NDkzNjkyXX0=
 -->
