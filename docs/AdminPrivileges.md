@@ -26,9 +26,11 @@ To Create a User Click on Settings-->Select users-->Click on Add Users.
 |Super Admin|Create profile and Control all the admin settings|
 
 - **Enabled** Control access to users.
-
+## Edit & Delete User
+1.Click on edit icon to edit the user
+2.Click on Delete icon to 
 ## Groups
-You can create ,edit and delete the user.
+
 To Create a Group Click on settings-->Select Groups-->Click on Add Group.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b6af863fbeb6584b8a139d0f303840ab6893da5e/images/groups.png)
 
@@ -39,6 +41,6 @@ To Create a Group Click on settings-->Select Groups-->Click on Add Group.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDY3Mzc0OSw0NjU3NjY4MTYsLTk3ND
+eyJoaXN0b3J5IjpbLTkwMzc1MjM1Miw0NjU3NjY4MTYsLTk3ND
 Y2MDE4N119
 -->
