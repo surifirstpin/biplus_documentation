@@ -4,8 +4,9 @@ Bi+ is provided with many administrative settings that will allow you to customi
 
 ## Users
 
-To Create a user Click on settings and select users
+To Create a user Click on settings and select users.
+1.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjExODgwNTksNDY1NzY2ODE2LC05Nz
+eyJoaXN0b3J5IjpbLTE5MjM4Mjk0ODYsNDY1NzY2ODE2LC05Nz
 Q2NjAxODddfQ==
 -->
