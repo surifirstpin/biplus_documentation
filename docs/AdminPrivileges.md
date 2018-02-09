@@ -17,11 +17,11 @@ Enter Below information to create a new user.
 | User Role |  Access|
 |--|--|
 | Admin | Create,edit,delete users,groups,global parameter,global function |
-|User|view reports and can edit them if provided acces|
+|User|view reports and can edit them if provided access to the |
 |Developer||
 |Manager||
 |Super Admin||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk4MTIxNDMsNDY1NzY2ODE2LC05Nz
-Q2NjAxODddfQ==
+eyJoaXN0b3J5IjpbODA2OTY0NzgwLDQ2NTc2NjgxNiwtOTc0Nj
+YwMTg3XX0=
 -->
