@@ -5,7 +5,7 @@ Bi+ will allow you to organize the data from database using this global paramete
 
 - To control data access based on login.
 - To provide access to predefined list of filter values based on login.
-- To manipulate the data from database with some external parameter
+- To manipulate the data from database with some external parameter based on a common reference.
 ## Create  Global Parameters
 
 To Create a Global Parameters Click on settings-->Select Global Parameters.
@@ -38,5 +38,5 @@ To Create a Global Parameters Click on settings-->Select Global Parameters.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTk0MjQ1N119
+eyJoaXN0b3J5IjpbMTQ4NTczMDU0MF19
 -->
