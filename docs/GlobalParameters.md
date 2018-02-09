@@ -54,7 +54,7 @@ The uploaded file can be viewed in JSON format in Code view options.
 
 If check case is enabled, global parameters become case sensitive for key name.
 Example:
-Global P
+Global is 
 ## Edit Global Parameters
 
              welcome to Biplus
@@ -64,5 +64,5 @@ Global P
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTk4MDM5MzldfQ==
+eyJoaXN0b3J5IjpbNjU3NTQ2MzcxXX0=
 -->
