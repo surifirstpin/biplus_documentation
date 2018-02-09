@@ -6,7 +6,19 @@ Getting Started :
 
 ## Profile
 
+###  Update Name
+
+     welcome to biplus
+
+## Browse Profile Pic
+
+     welcome to Biplus
+
+## Update Password
+
+     welcome to Biplus
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDMzOTA5NSw0NjU3NjY4MTYsLTk3ND
-Y2MDE4N119
+eyJoaXN0b3J5IjpbNzAwNTg2NzEsNDY1NzY2ODE2LC05NzQ2Nj
+AxODddfQ==
 -->
