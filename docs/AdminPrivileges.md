@@ -1,7 +1,7 @@
  # Admin
-Admin has many
-   
+
+Bi+ has many 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjgxNDQ3Myw0NjU3NjY4MTYsLTk3ND
+eyJoaXN0b3J5IjpbLTQ4Njc5MTgzOCw0NjU3NjY4MTYsLTk3ND
 Y2MDE4N119
 -->
