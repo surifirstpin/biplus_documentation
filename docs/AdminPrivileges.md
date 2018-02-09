@@ -49,8 +49,10 @@ To Create a Group Click on settings-->Select Groups-->Click on Add Group.
 3. Click on Edit icon to edit the group.
 4. Click on Delete icon to delete the Group.
 
+You can create, edit and delete global parameter and global function
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODE4OTY5MCw0NjU3NjY4MTYsLTk3ND
+eyJoaXN0b3J5IjpbLTgwNjI5NDMyOSw0NjU3NjY4MTYsLTk3ND
 Y2MDE4N119
 -->
