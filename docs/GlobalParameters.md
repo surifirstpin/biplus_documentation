@@ -32,8 +32,9 @@ To upload the parameter select the global parameter key name.
 
 >Note : By default all the columns in uploaded file will be saved as string type. 
 >
-## Change Column type (String / Number)
+## Change Column Name & Type (String / Number)
 
+Click on dropd
 ## Grid & Code Views
 
              welcome to Biplus
@@ -55,5 +56,5 @@ To upload the parameter select the global parameter key name.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Njc2NTM5OF19
+eyJoaXN0b3J5IjpbMTgxNTI4MDYyOV19
 -->
