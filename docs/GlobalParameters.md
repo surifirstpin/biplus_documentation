@@ -59,10 +59,10 @@ If check case is enabled, global parameters become case sensitive for key name.
 6. To edit global parameters click on edit button.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f62789b75b84744ac187a098b61d4fc8fb752053/images/edit_para.png)
 
-## Delete Global Prameters
+## Delete Global Parameters
 
 7. To Delete the Global parameter Click on **Delete ** Button.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f62789b75b84744ac187a098b61d4fc8fb752053/images/delete_para.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODgxMTI1MF19
+eyJoaXN0b3J5IjpbOTQ3ODgzNzVdfQ==
 -->
