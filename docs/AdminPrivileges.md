@@ -20,8 +20,8 @@ Enter Below information to create a new user.
 |User||
 |Developer||
 |Manager||
-|Su
+|Super Admin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjA5NTQwNCw0NjU3NjY4MTYsLTk3ND
+eyJoaXN0b3J5IjpbLTkxODY0NTgyOCw0NjU3NjY4MTYsLTk3ND
 Y2MDE4N119
 -->
