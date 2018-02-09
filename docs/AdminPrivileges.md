@@ -35,9 +35,10 @@ To Create a Group Click on settings-->Select Groups-->Click on Add Group.
 >Enter all the below information and click on **Save** to create a new Group.
 
 -**GroupName** Enter a gruop name.
--**Users** Select all the users for group
+-**Users** Select all the users for group.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODcyMzY3LDQ2NTc2NjgxNiwtOTc0Nj
-YwMTg3XX0=
+eyJoaXN0b3J5IjpbLTE3NTI2NzIyODcsNDY1NzY2ODE2LC05Nz
+Q2NjAxODddfQ==
 -->
