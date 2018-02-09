@@ -10,9 +10,10 @@ To Create a user Click on settings-->Select users-->Click on Add Users
 Enter Below information to create a new user.
 - **Email** Enter email id.
 - **Password** Enter a password.
-- -**FirstName** Enter fi
+- -**FirstName** Enter firstname.
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQ2MTk2NzIsNDY1NzY2ODE2LC05Nz
+eyJoaXN0b3J5IjpbLTE5MjI1OTAxODksNDY1NzY2ODE2LC05Nz
 Q2NjAxODddfQ==
 -->
