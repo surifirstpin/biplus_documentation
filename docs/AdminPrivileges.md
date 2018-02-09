@@ -6,16 +6,16 @@ Bi+ is provided with many administrative settings that will allow you to customi
 
 To Create a user Click on settings-->Select users-->Click on Add Users
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/658e3210c3cbe8e651e2fca391261b3ecc1be1b7/images/users.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34ae99ea80597fc08c96c787a88d8951979862b1/images/users.png)
 
 >Enter all the below information and click on **Save** to create a new user.
 
 - **Email** Enter email id for the user.
 - **Password** Enter a password to access.
--**FirstName** Enter firstname of the user.
--**LastName** Enter lastname of the user. 
--**Company** Enter name of the company.
--**Role** select the role of the user.
+- **FirstName** Enter firstname of the user.
+- **LastName** Enter lastname of the user. 
+- **Company** Enter name of the company.
+- **Role** select the role of the user.
 
 | User Role |  Access|
 |--|--|
@@ -30,6 +30,6 @@ To Create a user Click on settings-->Select users-->Click on Add Users
 ## Groups
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTQ4MjcxLDQ2NTc2NjgxNiwtOTc0Nj
-YwMTg3XX0=
+eyJoaXN0b3J5IjpbMTY0ODI3MDc4NSw0NjU3NjY4MTYsLTk3ND
+Y2MDE4N119
 -->
