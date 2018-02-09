@@ -23,8 +23,7 @@ function Addition(param1,param2)
 
 ## Edit Function
 
-        welcome to Biplus
-
+4. To Edit the function enable the edit key.
 
 ## Delete Function
 
@@ -38,5 +37,5 @@ function Addition(param1,param2)
         welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTAwNzEwOTNdfQ==
+eyJoaXN0b3J5IjpbLTkxMTIxNTgyMl19
 -->
