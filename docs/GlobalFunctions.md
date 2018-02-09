@@ -26,13 +26,14 @@ function Addition(param1,param2)
 4. To Edit the function enable the edit key.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/733be26f2d58ffc41ec83bc979234243c5417a2e/images/edit_func.png)
 ## Delete Function
+
 5. to delete the function click on Delete button
-6. 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3e9f75a909b59664ffe91af0ad16c2c9859586cf/images/del_func.png)
 ## Developer Privileges
 
 
         welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTk0NTYyNTldfQ==
+eyJoaXN0b3J5IjpbMTExNjU2Nzc1OF19
 -->
