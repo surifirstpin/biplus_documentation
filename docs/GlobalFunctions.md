@@ -8,9 +8,7 @@
 
 derive your own functions to add variables.
 ```
-/* My Custom function*/
 
-/*START*/
 function Addition(param1,param2)
 {
  // Define function body   
@@ -42,5 +40,5 @@ function Addition(param1,param2)
         welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTI1MDgzNV19
+eyJoaXN0b3J5IjpbMjI2NzY4NDI0XX0=
 -->
