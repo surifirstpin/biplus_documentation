@@ -41,7 +41,7 @@ To upload the parameter select the global parameter key name.
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9f487e8bcb13f913640bdce2a7030f7b519167a/images/para2.png)
 
 Similarly you can also edit Column cell value by clicking on the specific cell as shown below.
-5. Click on **Code view** toThe uploaded file can be viewed in JSON format in Code view options
+5. To view the uploaded file in JSON format click on Code view option.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/90ce2c5c848ba57722a38cdfb7623b6037e12058/images/para3.png)
 
 ## Grid & Code Views
@@ -66,5 +66,5 @@ The uploaded file can be viewed in JSON format in Code view options.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTc0MzA0OV19
+eyJoaXN0b3J5IjpbLTI2MTY0MzA1MV19
 -->
