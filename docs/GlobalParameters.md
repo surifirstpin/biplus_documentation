@@ -4,7 +4,7 @@ It is a flat file data in JSON format which can be used to manipulate, control a
 Bi+ will allow you to organize the data from database using this global parameters as per your business requirement. it can be used in the following ways:
 
 - To control data access based on login
-- To provide list of filter expressions based on login
+- To provide a list of filter expressions based on login
 ## Create  Global Parameters
 
 To Create a Global Parameters Click on settings-->Select Global Parameters.
@@ -37,5 +37,5 @@ To Create a Global Parameters Click on settings-->Select Global Parameters.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1Mjc2MzQ5XX0=
+eyJoaXN0b3J5IjpbLTYyNzUzMzY5OF19
 -->
