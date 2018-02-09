@@ -3,7 +3,7 @@
 It is a flat file data in JSON format which can be used to manipulate, control and set predefined values based on login.
 Bi+ will allow you to organize the data from database using this global parameters as per your business requirement. it can be used in the following ways:
 
-- To contrtrol based on login
+- To control data acctrol based on login
 - T
 ## Create  Global Parameters
 
@@ -37,5 +37,5 @@ To Create a Global Parameters Click on settings-->Select Global Parameters.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTYyMzk2OF19
+eyJoaXN0b3J5IjpbNzMzMjQzNzUwXX0=
 -->
