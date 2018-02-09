@@ -55,13 +55,12 @@ The uploaded file can be viewed in JSON format in Code view options.
 If check case is enabled, global parameters become case sensitive for key name.
 
 ## Edit Global Parameters
-
-             welcome to Biplus
+6. To edit global parameters click on edit button.
 
 ## Delete Global Prameters
 
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU1ODM2MF19
+eyJoaXN0b3J5IjpbMTYyNjc4MDI5M119
 -->
