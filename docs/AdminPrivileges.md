@@ -8,7 +8,7 @@ To Create a user Click on settings-->Select users-->Click on Add Users
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/658e3210c3cbe8e651e2fca391261b3ecc1be1b7/images/users.png)
 
->Enter all the below information and click on Save to create a new user.
+>Enter all the below information and click on **Save to create a new user.
 
 - **Email** Enter email id for the user.
 - **Password** Enter a password to access.
@@ -27,6 +27,6 @@ To Create a user Click on settings-->Select users-->Click on Add Users
 
 - **Enabled** Control access to users.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyMDEwNzg3LDQ2NTc2NjgxNiwtOTc0Nj
+eyJoaXN0b3J5IjpbNjg0OTAxNTM5LDQ2NTc2NjgxNiwtOTc0Nj
 YwMTg3XX0=
 -->
