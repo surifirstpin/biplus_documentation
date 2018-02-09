@@ -69,9 +69,9 @@ If check case is enabled, global parameters become case sensitive for key name.
 To reset password Click on Forget password button.
 - **Enter old Password**
 - **Enter New Password**
-- ** 
+- ** Re
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTUwMTI5NDJdfQ==
+eyJoaXN0b3J5IjpbMTg4MDc5NDg4NV19
 -->
