@@ -12,10 +12,7 @@ Click on Setting section and Select Profile.
 
 ###  Update Name
 
-You can edit below details:
-- **FirstName** Provide firstname for the user.
-- **Last name** Provide last name of the user.
-- **Company name** Provide company name.
+Change the name and click on update to save the changes.
     
 
 ## Browse Profile Pic
@@ -27,6 +24,6 @@ You can edit below details:
      welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTIyNDMxMyw0NjU3NjY4MTYsLTk3ND
-Y2MDE4N119
+eyJoaXN0b3J5IjpbLTE0NjAwMDA5OTAsNDY1NzY2ODE2LC05Nz
+Q2NjAxODddfQ==
 -->
