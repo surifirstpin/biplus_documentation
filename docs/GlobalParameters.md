@@ -15,6 +15,7 @@ To Create a Global Parameters Click on settings-->Select Global Parameters.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb08bee2614e37797672ab46bd201d2f6211d09b/images/global+para.png)
 
+- 
 ## Edit Global Parameters
 
              welcome to Biplus
@@ -40,5 +41,5 @@ To Create a Global Parameters Click on settings-->Select Global Parameters.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDkwNzA0MTNdfQ==
+eyJoaXN0b3J5IjpbMTIyODg0Mjk5MF19
 -->
