@@ -22,7 +22,8 @@ Enter Below information to create a new user.
 |Developer|Create,edit,delete reports or dashboards and change global parameters and functions|
 |Manager|view reports and can edit them if provided access to the specific model|
 |Super Admin|Create profile and Control all the admin settings|
+- **Enabled** Control acess to users.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzMzM3MTIsNDY1NzY2ODE2LC05NzQ2Nj
-AxODddfQ==
+eyJoaXN0b3J5IjpbMTk3NTQ5NjIyMSw0NjU3NjY4MTYsLTk3ND
+Y2MDE4N119
 -->
