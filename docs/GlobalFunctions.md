@@ -9,6 +9,14 @@
 
 ## Ability to adopt Javascript
 
+## Edit Function
+
+        welcome to Biplus
+
+
+## Delete Function
+
+        welcome to Biplus
 
         welcome to Biplus
 
@@ -18,5 +26,5 @@
         welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyMTgwMzc0XX0=
+eyJoaXN0b3J5IjpbLTQ0OTAzNzgwNV19
 -->
