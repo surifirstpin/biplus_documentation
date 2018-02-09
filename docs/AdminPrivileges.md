@@ -12,7 +12,9 @@ Click on Setting section and Select Profile.
 
 ###  Update Name
 
-     welcome to biplus
+You can edit below details:
+- FirstName
+    
 
 ## Browse Profile Pic
 
@@ -23,6 +25,6 @@ Click on Setting section and Select Profile.
      welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDA0NTQ5MSw0NjU3NjY4MTYsLTk3ND
-Y2MDE4N119
+eyJoaXN0b3J5IjpbMjUwNjYzMzAzLDQ2NTc2NjgxNiwtOTc0Nj
+YwMTg3XX0=
 -->
