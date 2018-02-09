@@ -26,7 +26,10 @@ To Create a user Click on settings-->Select users-->Click on Add Users
 |Super Admin|Create profile and Control all the admin settings|
 
 - **Enabled** Control access to users.
+
+## Groups
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODc1MzMwOSw0NjU3NjY4MTYsLTk3ND
-Y2MDE4N119
+eyJoaXN0b3J5IjpbMjAwMTQ4MjcxLDQ2NTc2NjgxNiwtOTc0Nj
+YwMTg3XX0=
 -->
