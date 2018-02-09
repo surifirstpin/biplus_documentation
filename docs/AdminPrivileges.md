@@ -15,7 +15,7 @@ Click on Setting section and Select Profile.
 You can edit below details:
 - **FirstName** Provide firstname for the user.
 - **Last name** Provide last name of the user.
-- **Company name*
+- **Company name** Pro
     
 
 ## Browse Profile Pic
@@ -27,6 +27,6 @@ You can edit below details:
      welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODY3NTcwNCw0NjU3NjY4MTYsLTk3ND
+eyJoaXN0b3J5IjpbMjAyMDM1MzY2OSw0NjU3NjY4MTYsLTk3ND
 Y2MDE4N119
 -->
