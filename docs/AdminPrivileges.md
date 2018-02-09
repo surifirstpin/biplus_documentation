@@ -30,8 +30,8 @@ To Create a User Click on Settings-->Select users-->Click on Add Users.
 ## Edit & Delete User
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fed976f79b3ba765a8bc3b9ca665de4de0fd2681/images/user_edit.png)
 
-1.Click on edit icon to edit the user.
-2.Click on Delete icon to delete the user.
+1. Click on edit icon to edit the user.
+2. Click on Delete icon to delete the user.
 
 ## Groups
 
@@ -42,11 +42,13 @@ To Create a Group Click on settings-->Select Groups-->Click on Add Group.
 
 -**GroupName** Enter a gruop name.
 -**Users** Select  users for group.
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fed976f79b3ba765a8bc3b9ca665de4de0fd2681/images/user_edit.png)
 
 ## Edit & Delete Group
 
+3. Click on Edit icon to edit the user.
+4. Click on Delete icon to delete the user.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1Mzc1MjcwNiw0NjU3NjY4MTYsLTk3ND
-Y2MDE4N119
+eyJoaXN0b3J5IjpbLTE4NjQ4NjI5MDQsNDY1NzY2ODE2LC05Nz
+Q2NjAxODddfQ==
 -->
