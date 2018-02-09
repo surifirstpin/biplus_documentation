@@ -7,6 +7,7 @@ Getting Started :
 
 Click on Setting section and Select Profile.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f34b7b1dff5be71cb4bcc7ae10abb8b32e5eedf4/images/setting.png)
 
 
 ###  Update Name
@@ -22,6 +23,6 @@ Click on Setting section and Select Profile.
      welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODg0MTE5NSw0NjU3NjY4MTYsLTk3ND
+eyJoaXN0b3J5IjpbMTU4MDA0NTQ5MSw0NjU3NjY4MTYsLTk3ND
 Y2MDE4N119
 -->
