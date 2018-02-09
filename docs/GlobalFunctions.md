@@ -15,9 +15,10 @@ function Addition(param1,param2)
  
    return add;
 }
-
 ```
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/35983ecc2609e9e98226d1629b92eea45b44f966/images/global_functions.png)
+
+2. Click on **Test** to run the function.
 
 ## Ability to adopt Javascript
 
@@ -38,5 +39,5 @@ function Addition(param1,param2)
         welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTU1Mzc5N119
+eyJoaXN0b3J5IjpbLTM0Mjk4NTM3MV19
 -->
