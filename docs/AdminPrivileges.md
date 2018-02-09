@@ -14,6 +14,7 @@ Enter Below information to create a new user.
 -**LastName** Enter lastname of the user. 
 -**Company** Enter name of the company.
 -**Role** select the role of the user.
+
 | User Role |  Access|
 |--|--|
 | Admin | Create,edit,delete users,groups,global parameter,global function |
@@ -22,6 +23,6 @@ Enter Below information to create a new user.
 |Manager|view reports and can edit them if provided access to the specific model|
 |Super Admin|Create profile and Control all the admin settings|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTc4NjU5NCw0NjU3NjY4MTYsLTk3ND
-Y2MDE4N119
+eyJoaXN0b3J5IjpbMzUzMzM3MTIsNDY1NzY2ODE2LC05NzQ2Nj
+AxODddfQ==
 -->
