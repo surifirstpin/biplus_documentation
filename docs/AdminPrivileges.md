@@ -28,7 +28,7 @@ To Create a User Click on Settings-->Select users-->Click on Add Users.
 - **Enabled** Control access to users.
 ## Edit & Delete User
 1.Click on edit icon to edit the user
-2.Click on Delete icon to 
+2.Click on Delete icon to delete 
 ## Groups
 
 To Create a Group Click on settings-->Select Groups-->Click on Add Group.
@@ -41,6 +41,6 @@ To Create a Group Click on settings-->Select Groups-->Click on Add Group.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzc1MjM1Miw0NjU3NjY4MTYsLTk3ND
+eyJoaXN0b3J5IjpbLTg2NjU3OTc4NSw0NjU3NjY4MTYsLTk3ND
 Y2MDE4N119
 -->
