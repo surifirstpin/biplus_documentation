@@ -19,8 +19,8 @@ Enter Below information to create a new user.
 | Admin |  |
 |User||
 |Developer||
-|Manaher
+|Mana
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTk5NzczMyw0NjU3NjY4MTYsLTk3ND
+eyJoaXN0b3J5IjpbMTI0NTUzODk0OCw0NjU3NjY4MTYsLTk3ND
 Y2MDE4N119
 -->
