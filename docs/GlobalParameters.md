@@ -34,7 +34,7 @@ To upload the parameter select the global parameter key name.
 >
 ## Change Column Name & Type (String / Number)
 
-Click on dropdwon button 
+Click on dropdwon button on colu
 ## Grid & Code Views
 
              welcome to Biplus
@@ -56,5 +56,5 @@ Click on dropdwon button
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxODUyMDI1XX0=
+eyJoaXN0b3J5IjpbLTEyMzg3MzcxNzddfQ==
 -->
