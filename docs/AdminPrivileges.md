@@ -16,12 +16,12 @@ Enter Below information to create a new user.
 -**Role** select the role of the user.
 | User Role |  Access|
 |--|--|
-| Admin | can create,edit users,groups |
+| Admin | Create,edit,delete users,groups,global parameter,global  |
 |User||
 |Developer||
 |Manager||
 |Super Admin||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDIwMjY5NSw0NjU3NjY4MTYsLTk3ND
+eyJoaXN0b3J5IjpbMTMxOTMyMzU5MSw0NjU3NjY4MTYsLTk3ND
 Y2MDE4N119
 -->
