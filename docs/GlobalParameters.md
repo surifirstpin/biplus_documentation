@@ -1,7 +1,7 @@
 ## Global Parameter 
 
 It is a flat file data in JSON format which can be used to manipulate, control and set predefined values based on login.
-Bi+ allows to organize the data from database as per customer requ
+Bi+ allows to organize the data from database as per customer requirement
 
 ## Create  Global Parameters
 
@@ -35,5 +35,5 @@ To Create a Global Parameters Click on settings-->Select Global Parameters.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDYyNDUyMDVdfQ==
+eyJoaXN0b3J5IjpbLTE0NTA0NDgzMV19
 -->
