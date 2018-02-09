@@ -1,6 +1,6 @@
 ## Create function
  
- To Create a Global functions Click on settings-->Select Global fun.
+ To Create a Global functions Click on settings-->Select Global functions.
 
 ## Edit Function
 
@@ -23,5 +23,5 @@
         welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3OTk3ODY4XX0=
+eyJoaXN0b3J5IjpbLTExNjg4NTQxMjhdfQ==
 -->
