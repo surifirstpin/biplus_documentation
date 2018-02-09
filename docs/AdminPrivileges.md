@@ -4,7 +4,7 @@ Bi+ is provided with many administrative settings that will allow you to customi
 
 ## Users
 
-To Create a ser Click on settings-->Select users-->Click on Add Users
+To Create a User Click on settings-->Select users-->Click on Add Users
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34ae99ea80597fc08c96c787a88d8951979862b1/images/users.png)
 
@@ -31,6 +31,6 @@ To Create a ser Click on settings-->Select users-->Click on Add Users
 
 To Create a Group Click on settings-->Select Groups-->Click on Add Group
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTc2ODMzNzgsNDY1NzY2ODE2LC05Nz
-Q2NjAxODddfQ==
+eyJoaXN0b3J5IjpbLTM0Mjk4MzE5OSw0NjU3NjY4MTYsLTk3ND
+Y2MDE4N119
 -->
