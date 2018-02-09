@@ -14,8 +14,13 @@ Enter Below information to create a new user.
 -**LastName** Enter lastname of the user. 
 -**Company** Enter name of the company.
 -**Role** select the role of the user.
---
+|  |  |
+|--|--|
+| Admin |  |
+|User||
+|Developer||
+|Ma
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDE5NjIwMyw0NjU3NjY4MTYsLTk3ND
+eyJoaXN0b3J5IjpbMTczMTUzMzIwNyw0NjU3NjY4MTYsLTk3ND
 Y2MDE4N119
 -->
