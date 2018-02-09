@@ -30,6 +30,7 @@ To upload the parameter select the global parameter key name.
 3. Click on save button to save the global parameter.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0d67f9ee78d4ee5a69d2e8b8ae127088b07972f0/images/save_globar.png) 
 
+## Change Column type (String / Number)
 
 ## Grid & Code Views
 
@@ -39,7 +40,7 @@ To upload the parameter select the global parameter key name.
 
              welcome to Biplus
 
-## Change Column type (String / Number)
+
 
              welcome to Biplus
 
@@ -52,5 +53,5 @@ To upload the parameter select the global parameter key name.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU1MDkyNDFdfQ==
+eyJoaXN0b3J5IjpbLTYyOTc3NzIwMV19
 -->
