@@ -1,5 +1,6 @@
 ## Create  Global Parameters
 
+To Create a Global Parameters Click on settings-->Select Groups-->Click on Add Group
 ## Edit Global Parameters
 
              welcome to Biplus
@@ -25,5 +26,5 @@
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTI3ODAxOV19
+eyJoaXN0b3J5IjpbMTQwMTI0NTk4OV19
 -->
