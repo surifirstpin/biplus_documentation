@@ -6,7 +6,7 @@
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9712e86a6881444e961d60dfc6aab30bf665172/images/func1.png)
 
-derive your own functions to add variables.
+derive your own cus functions to add variables.
 ```
 
 function Addition(param1,param2)
@@ -40,5 +40,5 @@ function Addition(param1,param2)
         welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2NzY4NDI0XX0=
+eyJoaXN0b3J5IjpbLTE2NjQ4NzE0NDldfQ==
 -->
