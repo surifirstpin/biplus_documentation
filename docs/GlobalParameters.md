@@ -41,8 +41,7 @@ To upload the parameter select the global parameter key name.
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9f487e8bcb13f913640bdce2a7030f7b519167a/images/para2.png)
 
 Similarly you can also edit Column cell value by clicking on the specific cell as shown below.
-
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/90ce2c5c848ba57722a38cdfb7623b6037e12058/images/para3.png)
 
 ## Grid & Code Views
 
@@ -65,5 +64,5 @@ Similarly you can also edit Column cell value by clicking on the specific cell a
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTg2MTE4NV19
+eyJoaXN0b3J5IjpbLTE1MzcxNjE4NjRdfQ==
 -->
