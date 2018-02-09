@@ -18,10 +18,10 @@ Enter Below information to create a new user.
 |--|--|
 | Admin | Create,edit,delete users,groups,global parameter,global function |
 |User|view reports and can edit them if provided access to the specific model|
-|Developer|Create,edit and delete reports or dashboards|
-|Manager||
-|Super Admin||
+|Developer|Create,edit,delete reports or dashboards and change global parameters and functions|
+|Manager|view reports and can edit them if provided access to the specific model|
+|Super Admin|Create profile and Control all the admin sett|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTI3MjEzMiw0NjU3NjY4MTYsLTk3ND
+eyJoaXN0b3J5IjpbLTgxMjgyMjQ0Nyw0NjU3NjY4MTYsLTk3ND
 Y2MDE4N119
 -->
