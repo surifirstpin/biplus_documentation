@@ -29,8 +29,15 @@ To Create a User Click on Settings-->Select users-->Click on Add Users.
 
 ## Groups
 
-To Create a Group Click on settings-->Select Groups-->Click on Add Group
+To Create a Group Click on settings-->Select Groups-->Click on Add Group.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b6af863fbeb6584b8a139d0f303840ab6893da5e/images/groups.png)
+
+>Enter all the below information and click on **Save** to create a new Group.
+
+-**GroupName** Enter a gruop name.
+-
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzk0MDAwMzcsNDY1NzY2ODE2LC05Nz
-Q2NjAxODddfQ==
+eyJoaXN0b3J5IjpbNzYzNTAxMzE3LDQ2NTc2NjgxNiwtOTc0Nj
+YwMTg3XX0=
 -->
