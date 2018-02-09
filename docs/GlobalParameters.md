@@ -66,7 +66,7 @@ If check case is enabled, global parameters become case sensitive for key name.
 
 ## Forgot Password
 
-To reset password Click on Forget pass
+To reset password Click on Forget password butto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyOTIxNjc3XX0=
+eyJoaXN0b3J5IjpbLTE4NTU0ODY0MjVdfQ==
 -->
