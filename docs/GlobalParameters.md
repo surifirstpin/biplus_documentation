@@ -1,7 +1,5 @@
 ## Create  Global Parameters
 
-             welcome to Biplus
-
 ## Edit Global Parameters
 
              welcome to Biplus
@@ -27,5 +25,5 @@
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODA5ODE2MV19
+eyJoaXN0b3J5IjpbLTM1MTI3ODAxOV19
 -->
