@@ -53,8 +53,7 @@ The uploaded file can be viewed in JSON format in Code view options.
 ## Check Case functionality On / Off
 
 If check case is enabled, global parameters become case sensitive for key name.
-Example:
-Global is 
+
 ## Edit Global Parameters
 
              welcome to Biplus
@@ -64,5 +63,5 @@ Global is
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3NTQ2MzcxXX0=
+eyJoaXN0b3J5IjpbLTEzMDU1ODM2MF19
 -->
