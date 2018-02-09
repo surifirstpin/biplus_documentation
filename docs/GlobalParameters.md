@@ -1,5 +1,6 @@
 ## Global Parameter 
 
+A flat file data in JSON format which can be used to manipulate, control and 
 
 
 ## Create  Global Parameters
@@ -34,5 +35,5 @@ To Create a Global Parameters Click on settings-->Select Global Parameters.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzI3NzQ3MTFdfQ==
+eyJoaXN0b3J5IjpbLTE3NDg5MzI0MzNdfQ==
 -->
