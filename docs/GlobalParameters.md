@@ -20,7 +20,7 @@ To Create a Global Parameters Click on settings-->Select Global Parameters.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/af27c45cb55b5170d224482c0ac646b1093c8f1a/images/global+para2.png)
 
 ## Upload parameters
-
+To upload the parameter select the keyname and
  
 ## Grid & Code Views
 
@@ -43,5 +43,5 @@ To Create a Global Parameters Click on settings-->Select Global Parameters.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzNzI1NTg1XX0=
+eyJoaXN0b3J5IjpbLTY5MjA4NTMxM119
 -->
