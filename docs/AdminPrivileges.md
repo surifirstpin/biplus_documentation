@@ -3,7 +3,7 @@
 Bi+ is provided with many administrative settings that will allow you to customize Bi+ for your organisation.
 
 ## Users
-
+You can create ,edit and delete the user.
 To Create a User Click on Settings-->Select users-->Click on Add Users.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34ae99ea80597fc08c96c787a88d8951979862b1/images/users.png)
@@ -28,7 +28,7 @@ To Create a User Click on Settings-->Select users-->Click on Add Users.
 - **Enabled** Control access to users.
 
 ## Groups
-
+You can create ,edit and delete the user.
 To Create a Group Click on settings-->Select Groups-->Click on Add Group.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b6af863fbeb6584b8a139d0f303840ab6893da5e/images/groups.png)
 
@@ -39,6 +39,6 @@ To Create a Group Click on settings-->Select Groups-->Click on Add Group.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwMzg3MjEsNDY1NzY2ODE2LC05NzQ2Nj
-AxODddfQ==
+eyJoaXN0b3J5IjpbLTY3MDY3Mzc0OSw0NjU3NjY4MTYsLTk3ND
+Y2MDE4N119
 -->
