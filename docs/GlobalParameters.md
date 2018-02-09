@@ -40,7 +40,7 @@ To upload the parameter select the global parameter key name.
  Change the column type and click on ok.
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9f487e8bcb13f913640bdce2a7030f7b519167a/images/para2.png)
 
-Similarly you can also edit Column cell value by clicking on the specias shown below.
+Similarly you can also edit Column cell value by clicking on the specific as shown below.
 
 
 
@@ -65,5 +65,5 @@ Similarly you can also edit Column cell value by clicking on the specias shown b
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM0ODY3MDldfQ==
+eyJoaXN0b3J5IjpbLTEyOTUzMjQ0MzddfQ==
 -->
