@@ -13,7 +13,7 @@ To Create a User Click on Settings-->Select users-->Click on Add Users.
 - **FirstName** Enter firstname of the user.
 - **LastName** Enter lastname of the user. 
 - **Company** Enter name of the company.
-- **Role** select the role of the user.
+- **Role** Select the role of the user.
 
 | User Role |  Access|
 |--|--|
@@ -52,6 +52,6 @@ You can create, edit and delete global parameter and global function
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE3NjgzMCw0NjU3NjY4MTYsLTk3ND
-Y2MDE4N119
+eyJoaXN0b3J5IjpbLTgxNDU4NTkwLDQ2NTc2NjgxNiwtOTc0Nj
+YwMTg3XX0=
 -->
