@@ -67,11 +67,13 @@ If check case is enabled, global parameters become case sensitive for key name.
 ## Forgot Password
 
 To reset password Click on Forget password button.
-- **Enter old Password**
-- **Enter New Password**
-- ** Re-enter New password**
 
+- **Enter old Password** enter your old password.
+- **Enter New Password** enter the new p[assworf you want to update.
+- **Re-enter New password** re-enter the new password you want to update.
+
+Click on
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTcwMDY4N119
+eyJoaXN0b3J5IjpbMTk1ODU3MTY0Nl19
 -->
