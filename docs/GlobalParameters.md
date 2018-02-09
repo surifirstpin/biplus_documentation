@@ -38,7 +38,7 @@ To upload the parameter select the global parameter key name.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9f487e8bcb13f913640bdce2a7030f7b519167a/images/para1.png)
  
  Change the column type and click on ok.
- ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9f487e8bcb13f913640bdce2a7030f7b519167a/images/para2.png)
+ > Note : Sim![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9f487e8bcb13f913640bdce2a7030f7b519167a/images/para2.png)
 ## Grid & Code Views
 
              welcome to Biplus
@@ -60,5 +60,5 @@ To upload the parameter select the global parameter key name.
              welcome to Biplus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3NzIxODE1XX0=
+eyJoaXN0b3J5IjpbNjIyNzUxODkwXX0=
 -->
