@@ -34,7 +34,7 @@ This functions supports all the native java script supported functions and you c
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3e9f75a909b59664ffe91af0ad16c2c9859586cf/images/del_func.png)
 
 ## Developer Privileges
-
+All the users have privilege to access the global functions in calculated column but Admin and Developer can create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNTQzMzYzNl19
+eyJoaXN0b3J5IjpbLTMwNjc3NTgyOV19
 -->
