@@ -21,7 +21,7 @@ function Addition(param1,param2)
 3. Click on **Save** Button to save the function.
 
 ## Ability to adopt Javascript
-
+This functions supports all the native javascript 
 ## Edit Function
 
 4. To Edit the function enable the edit key.
@@ -33,5 +33,5 @@ function Addition(param1,param2)
 
 ## Developer Privileges
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzI0OF19
+eyJoaXN0b3J5IjpbNzQyMTU3MzE1XX0=
 -->
