@@ -1,4 +1,5 @@
 
+<center><h1>Dashboard</h1></center>
 
 ## Create Dashboard
 
@@ -96,5 +97,5 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwNzkxNDA1XX0=
+eyJoaXN0b3J5IjpbODM5MTY1MjI5XX0=
 -->
