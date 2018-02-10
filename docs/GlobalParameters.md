@@ -1,3 +1,6 @@
+<center><h1>Global Parameter</h1></center>
+
+
 ## Global Parameter 
 
 It is a flat file data in JSON format which can be used to manipulate, control and set predefined values based on login.
@@ -75,5 +78,5 @@ To reset password Click on Forget password button.
 - 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczODg4MDhdfQ==
+eyJoaXN0b3J5IjpbLTYzNTg3MzAxMl19
 -->
