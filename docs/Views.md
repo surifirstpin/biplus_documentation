@@ -1,3 +1,5 @@
+<center><h1>Views</h1></center>
+
 ## Custom Fields
 
 Custom fields are user defined fields for which we apply Arithmetic  and logical operations that are supported by database.
@@ -200,5 +202,5 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzNjg5MjEzXX0=
+eyJoaXN0b3J5IjpbODcxNTUwOTM3XX0=
 -->
