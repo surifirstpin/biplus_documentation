@@ -21,7 +21,9 @@ function Addition(param1,param2)
 3. Click on **Save** Button to save the function.
 
 ## Ability to adopt Javascript
-This functions supports all the native javascript supported functions and you can also refer other global functions using " bi.Function_name"
+
+This functions supports all the native java script supported functions and you can also refer other global functions using " bi.Function_name."
+
 ## Edit Function
 
 4. To Edit the function enable the edit key.
@@ -32,6 +34,7 @@ This functions supports all the native javascript supported functions and you ca
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3e9f75a909b59664ffe91af0ad16c2c9859586cf/images/del_func.png)
 
 ## Developer Privileges
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTIzMDAwMF19
+eyJoaXN0b3J5IjpbMTUzNTQzMzYzNl19
 -->
