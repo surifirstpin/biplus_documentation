@@ -1,3 +1,4 @@
+<center><h1>Database Connection</h1></center>
 
 ## Connection 
 
@@ -81,8 +82,8 @@ Once you have Setup the Database connection you can further take up the process 
   - **Create Project** to control data in model
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDcyMTgxLDE0OTAzMzk3NzYsLTgxND
-czNTY5NywtNDE4MTg4MDk0LDE2NTQ4MzA4NzEsNjk2ODY0OTE1
-LDEzNjQ3NDI3MTMsLTE4NDE0OTkyOSwtNzI0NDQ5NzgsMTYzOD
-ExNzg4MiwtMTI3MTA5OTQzNl19
+eyJoaXN0b3J5IjpbLTE1NTU0NDg5OTgsMTQ5MDMzOTc3NiwtOD
+E0NzM1Njk3LC00MTgxODgwOTQsMTY1NDgzMDg3MSw2OTY4NjQ5
+MTUsMTM2NDc0MjcxMywtMTg0MTQ5OTI5LC03MjQ0NDk3OCwxNj
+M4MTE3ODgyLC0xMjcxMDk5NDM2XX0=
 -->
