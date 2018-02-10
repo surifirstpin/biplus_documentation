@@ -17,7 +17,7 @@ function myfunction_8(param1,param2)
 {
  // Define function body   
  
- 
+
    return 0;
 }
 /*END*/
@@ -58,5 +58,5 @@ This functions supports all the native java script supported functions and you c
 
 All the users have privilege to access global functions in calculated column,  but admin and developer can create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5NDA4MDg1XX0=
+eyJoaXN0b3J5IjpbLTE0MzI3MDkzMDNdfQ==
 -->
