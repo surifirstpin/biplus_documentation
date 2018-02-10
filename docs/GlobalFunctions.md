@@ -27,12 +27,14 @@ function myfunction_8(param1,param2)
 /* My Custom function*/
 
 /*START*/ 
-function Addition(param1,param2)
+function _Addition(param1,param2)
 {
  var add =param1+param2;
  
    return add;
 }
+/*END*/
+
 ```
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2c15dfa03d8ed5eed5cdffdc1335c22ce759300c/images/global_functions.png)
 
@@ -56,5 +58,5 @@ This functions supports all the native java script supported functions and you c
 
 All the users have privilege to access global functions in calculated column,  but admin and developer can create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2MzA1Njk1XX0=
+eyJoaXN0b3J5IjpbMTQ3NDI3NjE4MV19
 -->
