@@ -51,12 +51,12 @@ This functions supports all the native java script supported functions and you c
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/733be26f2d58ffc41ec83bc979234243c5417a2e/images/edit_func.png)
 ## Delete Function
 
-5. to delete the function click on Delete button
+5. To delete the function click on Delete button
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3e9f75a909b59664ffe91af0ad16c2c9859586cf/images/del_func.png)
 
 ## Developer Privileges
 
 All the users have privilege to access global functions in calculated column,  but admin and developer can create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjExNjU5OV19
+eyJoaXN0b3J5IjpbLTk0MDQ3NTIyM119
 -->
