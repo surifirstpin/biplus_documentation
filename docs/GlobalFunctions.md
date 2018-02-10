@@ -8,7 +8,7 @@
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9712e86a6881444e961d60dfc6aab30bf665172/images/func1.png)
 
-Syntax :
+**Syntax :**
 ```
 /* My Custom function*/
 
@@ -58,5 +58,5 @@ This functions supports all the native java script supported functions and you c
 
 All the users have privilege to access global functions in calculated column,  but admin and developer can create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI3MDkzMDNdfQ==
+eyJoaXN0b3J5IjpbMTk4MDUwNTY5XX0=
 -->
