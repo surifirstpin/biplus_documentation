@@ -1,3 +1,5 @@
+<center><h1>Saving Reports</h1></center>
+
 ## Save under specific tag
 
 You can save the visualization under any specific tag as shown below.
@@ -34,5 +36,5 @@ You can save the visualization under any specific tag as shown below.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyODUyMjM1XX0=
+eyJoaXN0b3J5IjpbLTE4Mjk1NjAxMDhdfQ==
 -->
