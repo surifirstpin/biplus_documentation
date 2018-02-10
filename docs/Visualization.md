@@ -1,3 +1,6 @@
+<center><h1>Visualization</h1></center>
+
+
 ## 9 different chart type
 
 Bi+ enables you to visualize the data in  different chart types and provides some standard editing options.
@@ -250,6 +253,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE2NTY3NTksLTExOTYwMTY4MzIsLT
-E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
+eyJoaXN0b3J5IjpbNDI5NTkxODcxLC0xMTk2MDE2ODMyLC0xOT
+Q4MjMyMjU1LDQ2NzkwNjIyNF19
 -->
