@@ -1,6 +1,7 @@
-                                    # 
- ##  Administrative Settings
+                                    # AdminPrivileges
+                                    
 
+ ##  Administrative Settings
 Bi+ is provided with many administrative settings that will allow you to customize Bi+ for your organisation.
 
 ## Users
@@ -53,6 +54,6 @@ You can create, edit and delete global parameter and global function
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTcyMDYxNjAsNDY1NzY2ODE2LC05Nz
-Q2NjAxODddfQ==
+eyJoaXN0b3J5IjpbMjA4MDc4ODE2OSw0NjU3NjY4MTYsLTk3ND
+Y2MDE4N119
 -->
