@@ -22,9 +22,11 @@ function myfunction_8(param1,param2)
 }
 /*END*/
 ```
-Derive your own custom functions to add variables.
-
+**Example :**
 ```
+/* My Custom function*/
+
+/*START*/ 
 function Addition(param1,param2)
 {
  var add =param1+param2;
@@ -54,5 +56,5 @@ This functions supports all the native java script supported functions and you c
 
 All the users have privilege to access global functions in calculated column,  but admin and developer can create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk2NDY0NzldfQ==
+eyJoaXN0b3J5IjpbMjE2MzA1Njk1XX0=
 -->
