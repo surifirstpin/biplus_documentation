@@ -1,4 +1,4 @@
-
+                                    # 
  ##  Administrative Settings
 
 Bi+ is provided with many administrative settings that will allow you to customize Bi+ for your organisation.
@@ -53,6 +53,6 @@ You can create, edit and delete global parameter and global function
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjk5NTExNyw0NjU3NjY4MTYsLTk3ND
-Y2MDE4N119
+eyJoaXN0b3J5IjpbLTE4NTcyMDYxNjAsNDY1NzY2ODE2LC05Nz
+Q2NjAxODddfQ==
 -->
