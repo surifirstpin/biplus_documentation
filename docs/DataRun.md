@@ -193,13 +193,9 @@ Calculated column is statement or expression or a function operator which can be
 
 - **Field name** unique identifier name to refer calculated column
 - **Label** labeling the calculated column.
-
 - **Data type** data type used (string,number).
-
 - **Field type** derives dimension or measure.
-
 - **Calculation** derive Arithmetical & logical expressions.
-
 - **Calculate on the raw data** this function is applied initially before pivot or grouping or else applied later.
  
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c383b6e32c490bd5f0a32eb8cf2dcd4bb1fbfa9d/images/calculate%20column1.png)
@@ -225,5 +221,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDQ2NTE4XX0=
+eyJoaXN0b3J5IjpbLTE3NjgzNDI1NTRdfQ==
 -->
