@@ -67,14 +67,14 @@ Filters defined under the model section are applied globally to all the fields.
   "filter_sql": "ROOT.BI_ORDERS.WHENMADE >= TO_DATE('2016-01-01','YYYY-MM-DD HH24:MI:SS') AND ROOT.BI_ORDERS.WHENMADE < TO_DATE('2017-07-01','YYYY-MM-DD HH24:MI:SS')",
   "apply": "all",
   "position": "before"
-  },
-  {
+},
+{
   "name": "UserAccessibility",
   "filter_sql": " ROOT.BI_ORDERS.AREACODE IN (#{Model_Stage1.Customer_AreaCode,#userid#,UserName}) AND ROOT.BI_PRODUCTS.MODEL IN (#{Model_Stage1.Products_Model,#userid#,UserName})",
   "apply": "all",
   "position": "before"
-  },
-  {
+},
+ {
   "name": "RateRange",
   "filter_sql": " ROOT.BI_ORDERS.RATE >= 200 AND ROOT.BI_ORDERS.RATE < 500",
   "apply": "all",
@@ -144,5 +144,5 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 		},
 		```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU0NDAyNzVdfQ==
+eyJoaXN0b3J5IjpbMjA4MDYzMDg2N119
 -->
