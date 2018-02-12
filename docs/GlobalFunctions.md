@@ -6,7 +6,6 @@ A variable that is defined as global is accessed anywhere in the report.
 **Getting Started :** 
 >Path :  Settings-->click on global functions. 
  1. Click on Add-Functions to create new function.
- 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9712e86a6881444e961d60dfc6aab30bf665172/images/func1.png)
 
 ** Syntax : **
@@ -32,6 +31,7 @@ function _Addition(param1,param2)
   return add;
 }
 /*END*/
+/* Returns value 3, if we provide 1 and 2 in Test*/
 ```
 2. Click on **Test** Button  to run the function.
 3. Click on **Save** Button to save the function.
@@ -54,5 +54,5 @@ This functions supports all the native java script supported functions and you c
 ## Developer Privileges
 All the users have privilege to access global functions in calculated column,  but admin and developer can create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzM1NDY5N119
+eyJoaXN0b3J5IjpbLTc4OTY0MDA3N119
 -->
