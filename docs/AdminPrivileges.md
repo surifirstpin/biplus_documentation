@@ -15,7 +15,7 @@ Administrative setting allows you to control and manipulate the data in Bi+ and 
 - **Company** Enter name of the company.
 - **Role** Select the role of the user.
 
-Click on **Save** button.
+Click on **Save** button to save user.
 
 | User Role |  Access|
 |--|--|
@@ -40,7 +40,7 @@ Click on **Save** button.
 
 - **GroupName** Enter a gruop name.
 - **Users** Select  users for group.
-
+Click on **Save** button to save group.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fed976f79b3ba765a8bc3b9ca665de4de0fd2681/images/user_edit.png)
 
 ## Edit & Delete Group
@@ -52,6 +52,6 @@ You can create, edit and delete global parameter and global function
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyNTYwNjMyLDQ2NTc2NjgxNiwtOTc0Nj
-YwMTg3XX0=
+eyJoaXN0b3J5IjpbLTQ5MzExMzg2MCw0NjU3NjY4MTYsLTk3ND
+Y2MDE4N119
 -->
