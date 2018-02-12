@@ -1,6 +1,5 @@
 <center><h1>Visualization</h1></center>
 
-## Creating Visualizations 
 Bi+ allows you to create different type of charts and graphs depending on the data retrieved.
 
 ## Types of Visualization
@@ -203,6 +202,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjE2OTkwMCwtMTE5NjAxNjgzMiwtMT
+eyJoaXN0b3J5IjpbMTgzODEwODUyMiwtMTE5NjAxNjgzMiwtMT
 k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
