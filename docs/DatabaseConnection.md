@@ -39,19 +39,17 @@
    
 ## SSH 
 
- If  Bi+ is connected to your database without using SSH tunnel,you can go ahead with Database Configuration.
- 
-If you want to connect Bi+ SSH tunnel with same database host,you need to provide the following information to BiPlus analyst:
-- IP address or DNS name of the database server
-- SSH port of the database server
-- Database port number
+- If you want to connect Bi+ SSH tunnel with same database host,you need to provide the following information to BiPlus analyst:
+  - IP address or DNS name of the database server
+  - SSH port of the database server
+  - Database port number
 
-If connecting with separate database host then you need to provide following information to your BI Plus analyst:
-- IP address or DNS name of the database server as seen from the   tunnel server
-- Database port number as seen from the tunnel server
-- IP address or DNS name of the tunnel server as seen from the public internet
-- SSH port of the tunnel server as seen from the public internet
-- Username on the tunnel server for the SSH connection (the standard is looker)
+- If connecting with separate database host then you need to provide following information to your BI Plus analyst:
+  - IP address or DNS name of the database server as seen from the   tunnel server
+  - Database port number as seen from the tunnel server
+  - IP address or DNS name of the tunnel server as seen from the public internet
+  - SSH port of the tunnel server as seen from the public internet
+  - Username on the tunnel server for the SSH connection (the standard is looker)
 
 **3. Dialects** select the accurate dialect from the list using drop down option.
 
@@ -82,7 +80,7 @@ Once you have Setup the Database connection you can further take up the process 
   - **Create Project** to control data in model
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTk5MTkwMCwtMjQ0OTYxNDE2LDE1Mz
-E5NDU2MDEsMjEwNDcwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3
-NjUzXX0=
+eyJoaXN0b3J5IjpbNTQ2MjMwNTI0LC0yNDQ5NjE0MTYsMTUzMT
+k0NTYwMSwyMTA0NzAyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2
+NTNdfQ==
 -->
