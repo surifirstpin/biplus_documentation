@@ -39,9 +39,9 @@
    
 ## SSH 
 
- If you are connecting Bi+ to your database without using SSH tunnel,you can go ahead with Database Configuration.
+ If  Bi+ is connected to your database without using SSH tunnel,you can go ahead with Database Configuration.
  
-In case if you are connecting through SSH tunnel with same database host,you need to provide the following information to BiPlus analyst:
+If you want to connect Bi+ SSH tunnel with same database host,you need to provide the following information to BiPlus analyst:
 - IP address or DNS name of the database server
 - SSH port of the database server
 - Database port number
@@ -82,7 +82,7 @@ Once you have Setup the Database connection you can further take up the process 
   - **Create Project** to control data in model
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTMxNTQyOSwxNDkwMzM5Nzc2LC04MT
+eyJoaXN0b3J5IjpbMjA4MTk5MTkwMCwxNDkwMzM5Nzc2LC04MT
 Q3MzU2OTcsLTQxODE4ODA5NCwxNjU0ODMwODcxLDY5Njg2NDkx
 NSwxMzY0NzQyNzEzLC0xODQxNDk5MjksLTcyNDQ0OTc4LDE2Mz
 gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
