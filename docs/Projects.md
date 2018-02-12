@@ -2,7 +2,7 @@
 
 ## Definition
 
-A Project is collection of files that describes how database tables are connected to each other and how Bi+ will portray those tables.
+A Project is collection of files that describes how database tables are connected to each other and how Bi+ portray those tables.
 Bi+ provides an Integrated Development Environment(IDE) for developing and handling the project files.
 
 **Getting Started**
@@ -69,5 +69,5 @@ You can save the project in public or private sections by selecting the radio bu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4MjU0MTAwXX0=
+eyJoaXN0b3J5IjpbODQ5MTAxMzQyXX0=
 -->
