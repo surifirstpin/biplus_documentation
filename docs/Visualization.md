@@ -190,11 +190,8 @@ Red color indicates the value attained is initial state or low.
 - **Flat Map** enables the "2D" vision of the chart.
 - **Default** set default colour to display countries.
 - **Over Border** apply colour to the border.
-
 - **Data Field** display the data field value on map.	
-
 - **Tip Fields** select numbers of data fields to be displayed on map.
-
 - **Color Field** select the data field you want to colour.
 
 - **Color** choose the color you want to apply on field.
@@ -210,6 +207,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzk3MDQwMiwtMTE5NjAxNjgzMiwtMT
+eyJoaXN0b3J5IjpbMTcyNTU3ODU0NCwtMTE5NjAxNjgzMiwtMT
 k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
