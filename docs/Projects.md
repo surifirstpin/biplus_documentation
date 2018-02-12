@@ -9,7 +9,7 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 
 ## Create Project
 
-> **Path**    Model-->Projects-->New Project
+> Path : Model-->Projects-->New Project
 
  
    **1.** click on **new project** button and specify below fields:
@@ -68,5 +68,5 @@ You can save the project in public or private sections by selecting the radio bu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc2MjA5MzddfQ==
+eyJoaXN0b3J5IjpbLTE3NjE4NjIyMTldfQ==
 -->
