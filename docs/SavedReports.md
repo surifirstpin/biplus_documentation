@@ -51,8 +51,7 @@ it will display the data flow of the dashboard report.
              welcome to Biplus
 
 ## Adding Global Filters
-
-             welcome to Biplus
+Adding glo
 
 ## Lookup Single & Multiple
  
@@ -86,5 +85,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
    To view the filter pane click on **right shift operator** on dashboard report screen.
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/74742e26a25f759329de154c34ffce2a239cd5fb/images/show_filter.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTI5ODI2Ml19
+eyJoaXN0b3J5IjpbMTQ5MjM3MjUxN119
 -->
