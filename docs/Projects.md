@@ -66,7 +66,7 @@ To remove tables from database select the check boxes under **Selected Tables** 
 
 Select the project you want to delete and click on **delete icon**
 
-6. Click on **Delete** button shown in pop up screen.
+**5.** Click on **Delete** button shown in pop up screen to delete the project from database.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_del.png)
     
@@ -80,5 +80,5 @@ You can save the project in public or private sections by selecting the radio bu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyOTMxNTI5XX0=
+eyJoaXN0b3J5IjpbLTExNTYwNzc0ODNdfQ==
 -->
