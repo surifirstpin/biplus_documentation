@@ -54,8 +54,9 @@ Bi+ allows you to add multiple report layouts. depending on the requirement, Sel
 - **Add Listener** allows you to add multiple filters to reports.
 
 ## Privacy & Share Option
-**7. Click on Save Button** the dashboard.
 
+**7. Click on Save Button** to save the dashboard.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3cf90f38c12a100708d63581b06825580e17333a/images/save_dash.png)
 - **Name** name identifier for dashboard created.
 - **Title** title to refer the dashboard.
 - **Info** summary information of the dashboard created.
@@ -99,5 +100,5 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDUwNTkyN119
+eyJoaXN0b3J5IjpbNjEwODIyMjM2XX0=
 -->
