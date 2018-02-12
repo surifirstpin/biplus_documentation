@@ -127,14 +127,14 @@ Converts pie chart to donut.
     - Variance 
     - Custom Line
     - Custom Area
-- **Data Field** select the measure value you want to refer
+- **Data Field** select the measure value you want to refer.
 - **Theme** choose the color for reference lines.
 
 ## Funnel chart :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/funnel_chart.png)
 
-You can view the funnel charts using different formats :
+**You can view the funnel charts using different formats :**
  - Sort 
  - Curved
  - Pinched 
@@ -158,17 +158,11 @@ Red color indicates the value attained is initial state or low.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/671476ecbe2c70dcf89cc72f25b75ba5b4dafe41/images/GUAGE_LOW.png)
 
 - **Value** select the field value to carry out the operations.
-
 - **Min** displays minimum value measure field.
-
 - **Max** displays maximum value of measure field.
-
 - **Donut** displays total measure value.
-
 - **Counter** displays all the values starting from minimum to maximum.
-
 - **Reverse** Displays maximum to minimum value.
-
 - **Hide Minmax**  hides min and maximum value.
 
 ## Table chart :
@@ -224,6 +218,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODA1NTE3OCwtMTE5NjAxNjgzMiwtMT
-k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbLTE2MjE4NDU5OTQsLTExOTYwMTY4MzIsLT
+E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
