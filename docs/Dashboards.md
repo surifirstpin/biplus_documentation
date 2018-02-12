@@ -68,7 +68,7 @@ To Edit the dashboard Select the dashboard created and Click on **Edit** Button.
 It will navigate to dashboard created. 
 
 **9.**   Click on **Apply Filters.**
-**10.** Click on Add Listener to add more filters to dashboard created.
+**10.** Click on **Add Listener** to add more filters to dashboard created.
 **11.** Click on **Save** button to save the changes made.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8ddfd637b9b4be13275803e28d16a23a8fb52666/images/dash_edi3.png)
@@ -99,5 +99,5 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODM3NDg3Ml19
+eyJoaXN0b3J5IjpbMTc5MzIxMzI4OF19
 -->
