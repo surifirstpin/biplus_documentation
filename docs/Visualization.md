@@ -176,15 +176,10 @@ Red color indicates the value attained is initial state or low.
 
 
 - **Value** select the 1st measure value to apply the conditions.
-
 - **Format** select the number format.
-
 - **Previous value** select the 2nd measure value to apply conditions.
-
 - **Change** choose the condition (difference,growth,none).
-
 - **Show growth** displays the growth rate of selected measure fields.
-
 - **Style** set different style formats from the option provided.
 
 ##  World chart :
@@ -218,6 +213,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjE4NDU5OTQsLTExOTYwMTY4MzIsLT
-E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
+eyJoaXN0b3J5IjpbODM4MDg5NTc2LC0xMTk2MDE2ODMyLC0xOT
+Q4MjMyMjU1LDQ2NzkwNjIyNF19
 -->
