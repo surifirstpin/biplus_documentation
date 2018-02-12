@@ -38,7 +38,6 @@ Click on **Save** button.
 >Path : settings-->Select Groups-->Click on Add Group.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b6af863fbeb6584b8a139d0f303840ab6893da5e/images/groups.png)
 
-
 - **GroupName** Enter a gruop name.
 - **Users** Select  users for group.
 
@@ -53,6 +52,6 @@ You can create, edit and delete global parameter and global function
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzk0Mjc4LDQ2NTc2NjgxNiwtOTc0Nj
+eyJoaXN0b3J5IjpbNjUyNTYwNjMyLDQ2NTc2NjgxNiwtOTc0Nj
 YwMTg3XX0=
 -->
