@@ -45,13 +45,13 @@ Click on **Save** button to save group.
 
 ## Edit & Delete Group
 
-3. Click on Edit icon to edit the group.
-4. Click on Delete icon to delete the Group.
+3. Click on **Edit icon** to edit the group.
+4. Click on **Delete icon** to delete the Group.
 
-You can create, edit and delete global parameter and global function
+Admin can create, edit and delete global parameter and global function.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MzExMzg2MCw0NjU3NjY4MTYsLTk3ND
+eyJoaXN0b3J5IjpbMTQzNTMwMDQ2Niw0NjU3NjY4MTYsLTk3ND
 Y2MDE4N119
 -->
