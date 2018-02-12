@@ -109,11 +109,8 @@ A view may join other views and there relationship are defined as part of data a
 ## Lookups
 
 - **lookup** retrieve list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization).
-
 - **Operator** is used to retrieve single or multiple values in the filter section while using lookup.
-
  - **SQL** parameter is used define a valid SQL expression that results in a field value.
-
  - **Summary** is used to retrieve the aggregate field values of the measures using the following options,
    - Sum 
    - count
@@ -188,5 +185,5 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTA1OTA0XX0=
+eyJoaXN0b3J5IjpbMjAwMDQxMjQ4Ml19
 -->
