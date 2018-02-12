@@ -193,9 +193,7 @@ Red color indicates the value attained is initial state or low.
 - **Data Field** display the data field value on map.	
 - **Tip Fields** select numbers of data fields to be displayed on map.
 - **Color Field** select the data field you want to colour.
-
 - **Color** choose the color you want to apply on field.
-
 - **From & To** select the data field range to be colored.
 
 - **Negative Cutoff** enabled when negatives values are applicable.
@@ -207,6 +205,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTU3ODU0NCwtMTE5NjAxNjgzMiwtMT
+eyJoaXN0b3J5IjpbMTE5ODcwNjcwMCwtMTE5NjAxNjgzMiwtMT
 k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
