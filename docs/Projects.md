@@ -32,7 +32,7 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 
 ## Add tables from Database
 
-- Tables select the table fields in the tables section by selecting the check boxes all the selected tables are visible on the right side of the tables section. 
+- Select the table fields in by selecting the check boxes onn Table**selected tables are visible on the right side of the tables section. 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/add_tables.png)
 
 ## Auto Build Joins
@@ -73,5 +73,5 @@ You can save the project in public or private sections by selecting the radio bu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzA5Njk5NjddfQ==
+eyJoaXN0b3J5IjpbMTM2ODQyNDExNF19
 -->
