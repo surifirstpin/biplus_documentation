@@ -86,8 +86,8 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 
 ## Show Filters panel
 
-   To view the filter pane click on **right shift operator** on dashboard report screen.
+ To view the filter panel click on **Right shift operator** on dashboard report screen.
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/74742e26a25f759329de154c34ffce2a239cd5fb/images/show_filter.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY4NjY5MTNdfQ==
+eyJoaXN0b3J5IjpbLTc0MDcwMTA2N119
 -->
