@@ -51,13 +51,10 @@ A view may join other views and there relationship are defined as part of data a
 	    }
 ```
 - **Name** name identifier of custom table derived.
-- **label** label the custom table the way it should appear in model section 
+- **label** label the custom table the way it should appear in model section. 
 - **Info** provides description for custom table.
-
 - **Type** datatype used for deriving a custom table.
-
 - **Database** table is used to retrieve the data fields.
-
 - **Connection** establish the database connection for deriving new fields.
 
 
@@ -74,7 +71,7 @@ A view may join other views and there relationship are defined as part of data a
 			"sql": "SUBSTR(${TABLE}.STATIONCODE,1,4)",
 			"summary": "",
 			"visualise": "true"
-		},
+},
 		{
 			"name": "SC_SUBSTR1",
 			"label": "SC_SUBSTR1",
@@ -100,9 +97,7 @@ A view may join other views and there relationship are defined as part of data a
 ```	
 
 - **Name** Name identifier  of the field in custom table.
-
-- **label** title the way you want the derived field to appear in custom table.
-
+- **label** label the way you want the derived field to appear in custom table.
 - **Data_type** define supporting parameters and string is used as  Default parameter while deriving the fields for custom table.
     - **String** for measures that contain letters or special characters.
    
@@ -198,5 +193,5 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MjA3MzgzNF19
+eyJoaXN0b3J5IjpbLTcyNDg2ODI0Nl19
 -->
