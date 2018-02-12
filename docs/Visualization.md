@@ -15,28 +15,22 @@ Bi+ enables you to visualize the data retrieved in different chart types with so
 - **Axis type** type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column, timeframe refer to the time-format of the data.
 - **Label field** Label the field name in x-axis using grid display.
 - **Axis label** provides label to x-axis.
-- **Reference Line** is used to refer specific values by applying specific colors to it.
+- **Reference Line** is used to refer specific values by applying colors to it.
 
 **03. Y-Axis :**
 
-**Axis type** type of axis used in charts.
-**Label field** Label the field name in Y-axis using grid display, including or excluding zero and aligning left or right position to y-axis.
-**Reference Line**  is used to refer specific values by applying colors to it.
+- **Axis type** type of axis used in charts.
+- **Label field** Label the field name in Y-axis using grid display, including or excluding zero and aligning left or right position to y-axis.
+- **Reference Line**  is used to refer specific values by applying colors to it.
 
-4. Format Section      
-
-## Format     
-
+## Format   
+**4. Format Section :**        
 - **Condition** Select the condition you want to apply on the field.
 - **Format on** Select the measure for which you want to set the format.
 - **Value** Specify a value to which you want to apply condition. 
-
 - **BG (background colour)** Select the background colour for the data which is retrieved using condition.
-
 - **Font** Select the font colour for the data retrieved based on condition.
-
 - **Icon** Select a icon for for the data retrieved based on condition.
-
 - **Before number** Align the icon before or after the data.
 ## Line Chart in visualization menu:
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/line_chart.png)
@@ -248,6 +242,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODc2MTI1OSwtMTE5NjAxNjgzMiwtMT
-k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbLTIxMjc3MTAxNTgsLTExOTYwMTY4MzIsLT
+E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
