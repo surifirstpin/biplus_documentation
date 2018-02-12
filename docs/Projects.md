@@ -42,6 +42,7 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 **2. Auto Build Joins**  automatically adapt or take over the join connection which have been enabled in database .
 > Step 5 : Privacy
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8dcf17faa6e3f50d5f3f79ae269a02c1eb7237c9/images/save_project.png)
 - **Private ()** report saved in private section and accessed by the user itself.
 - **Public ()** the report is saved in public section and accessed by all the users.
 -  **Share ()** the report saved under share section and accessed by specific set of users.
@@ -79,5 +80,5 @@ You can save the project in public or private sections by selecting the radio bu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTcyNjg5OF19
+eyJoaXN0b3J5IjpbLTc4ODYyMTk3XX0=
 -->
