@@ -102,14 +102,14 @@ Sorting can be applied locally to the column field.
 
 ## Row Limitation and Query Time
 
-- **Limit** to limit the  data display. 
-- **Query time** is displayed on top of the analysis section.
+- **Limit** allows row limitation while displaying data. 
+- **Query time** of the report is displayed on top of the analysis section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/row_limit.png)
 
 ## Pivot table
 
--   Pivot  checks each dimension horizontally and reduces the effect of scrolling down the data.
+-  ** Pivot** checks each dimension horizontally and reduces the effect of scrolling down the data.
   
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/78c46d819c716135d45ff60b9a71b15dd9e7a97f/images/pivot.png)
 
@@ -231,5 +231,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMzQ4NjU3OF19
+eyJoaXN0b3J5IjpbOTg3MjA3MDcyXX0=
 -->
