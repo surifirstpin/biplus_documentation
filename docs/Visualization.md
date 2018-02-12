@@ -188,21 +188,21 @@ Red color indicates the value attained is initial state or low.
 
 - **Title** provides name identifier to world chart.
 - **Flat Map** enables the "2D" vision of the chart.
-- **Default** set default colour to display countries.
+- **Default** set default colour to display specific countries.
 - **Over Border** apply colour to the border.
 - **Data Field** display the data field value on map.	
 - **Tip Fields** select numbers of data fields to be displayed on map.
-- **Color Field** select the data field you want to colour.
-- **Color** choose the color you want to apply on field.
+- **Colour Field** select the data field you want to colour.
+- **Colour** choose the color you want to apply on field.
 - **From & To** select the data field range to be colored.
 - **Negative Cutoff** enabled when negatives values are applicable.
-- **Negative color-from & to** Specify colour for negative values.
+- **Negative colour-from & to** Specify colour for negative values.
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0MjQyMjA3LC0xMTk2MDE2ODMyLC0xOT
-Q4MjMyMjU1LDQ2NzkwNjIyNF19
+eyJoaXN0b3J5IjpbMTI2NjE2OTkwMCwtMTE5NjAxNjgzMiwtMT
+k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
