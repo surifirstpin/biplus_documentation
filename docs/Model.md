@@ -121,7 +121,7 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 				"Station_1": "IND",
 				"Station_2": "AUS"
 			               }
-	  },
+	   },
 	{
 			"name": "WHENMADE",
 			"label": "WHENMADE",
@@ -138,5 +138,5 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 		}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzQ5MzM1N119
+eyJoaXN0b3J5IjpbMzU3OTA5NjI1XX0=
 -->
