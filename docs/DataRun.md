@@ -13,18 +13,18 @@ In the list of dimensions and measures select the fields you want access.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/visu_run.png)
 
-Dimensions are list of fields that can be used for applying filter options, for instance:
+**Dimensions** are list of fields that can be used for applying filter options, for instance:
 - An **Attribute**, which has a direct association to a column in an primary table.
 - A **Numerical value**.
 - A **Derived value,** computed based on the values of other fields in a single row.
 
-> For example, Dimensions for "Customer" view includes customer name,customer phone number and customer email etc.
+**Example :** Dimensions for "Customer" view includes customer name,customer phone number and customer email etc.
 
-A **Measure is a list of fields that uses a SQL aggregate function, such as COUNT, SUM, AVG, MIN or MAX. any field that is counted based on the values is refereed as measure. Measures can be used to filter grouped values. 
+ **Measure** is a list of fields that uses a SQL aggregate function, such as COUNT, SUM, AVG, MIN or MAX. any field that is counted based on the values is refereed as measure. Measures can be used to filter grouped values. 
 
->For example, measures for a “Amount” is Amount_sum, Amount_avg, Amount_min, Amount_max etc.
+**Example :** measures for a “Amount” is Amount_sum, Amount_avg, Amount_min, Amount_max etc.
 
-Using the search option provided in the visualization section you can select the fields for which you want to carryout the field values and apply filter options as shown in below image:
+Using the search option provided in the Analy section you can select the fields for which you want to carryout the field values and apply filter options as shown in below image:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/visu_fields.png)
 
@@ -231,5 +231,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5MjA5NTFdfQ==
+eyJoaXN0b3J5IjpbNDE3MTYxNDgxXX0=
 -->
