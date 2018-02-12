@@ -68,9 +68,7 @@ Converts pie chart to donut.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/radar_chart.png)
 
 - **Tooltips** points the first measure value of the column field.
-
 - **Grouped Tooltips** points all the measure values of the column field.
-
 - **Points** enables pointers at the field values using the following point styles ;
   - Circle
   -  Triangle
@@ -82,17 +80,11 @@ Converts pie chart to donut.
   - Line
   - Dash
 - **Show legend** displays the measures values of the chart.
-
 - **Position** Align the legend at top,bottom,left and right side of the chart.
-
 - **Reverse scale** it displays the reversible scale values of the radar chart.
-
 - **Show ticklabels** displays the points in y-axis.
-
 - **Show arc lines** points the dimension fields in radar chart.
-
 - **Arc field** select the dimension field to apply arc lines.
-
 - **Curve** to maximum and minimize the measure values.
 
 ## Bubble chart :
@@ -242,6 +234,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjc3MTAxNTgsLTExOTYwMTY4MzIsLT
-E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
+eyJoaXN0b3J5IjpbMjU1MDAxMjEwLC0xMTk2MDE2ODMyLC0xOT
+Q4MjMyMjU1LDQ2NzkwNjIyNF19
 -->
