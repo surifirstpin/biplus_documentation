@@ -31,7 +31,7 @@ if sales manager need different data then material management then we need to de
 					"join_type": "left",
 					"join_on": "${BI_DELIVERYREPORT.CUSTOMERID} = ${BI_CUSTOMERS.CUSTOMERID}"
 				}
-			]
+			         ]
 		},
 
 ```
@@ -150,5 +150,5 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 		},
 		```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTIzNTQ4OTVdfQ==
+eyJoaXN0b3J5IjpbMTQ2ODA5NjQyM119
 -->
