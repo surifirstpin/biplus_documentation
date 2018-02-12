@@ -36,18 +36,12 @@ if sales manager need different data then material management then we need to de
 
 ```
 - **Name** identifier name to define a model.
-
 - **Label** changes the way that model should appear in the visualization if not by default it uses the name of the model.
-
-- **Filters** is optional list of filter expression derived for calculation of the measures.
-
+- **Filters** optional list of filter expression derived for calculation of the measures.
 - **Join** establishes the relationship between visualization and views,here we use 3 types of join parameter join,join_type,join_on.
-
- - **Join** derive the relationship between 2 views based on the condition.
-  
- - **Join_type** derives type of join condition to apply (Left,Right,inner join).
-  
- - **Join_on** derives the relationship between how to join two tables.
+  - **Join** derive the relationship between 2 views based on the condition.
+   - **Join_type** derives type of join condition to apply (Left,Right,inner join).
+   - **Join_on** derives the relationship between how to join two tables.
  
 ##  Model Filters
 
@@ -150,5 +144,5 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 		},
 		```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4OTkyNjg5XX0=
+eyJoaXN0b3J5IjpbLTE3OTU0NDAyNzVdfQ==
 -->
