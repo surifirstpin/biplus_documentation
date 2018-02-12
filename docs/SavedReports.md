@@ -55,7 +55,7 @@ Adding global filter to dashboard allows you to override the filters you have sa
 **Example **
 Here we applied global filter to **Sum count equals to 4** in Analysis section.
  
- And, we apply global filter sum count equals to 1 in dashboard.
+ And, we apply global filter **sum count equals to 1 in dashboard.
 
 then dashboard global filter override the filter applied in Analysis section resulting in displaying sum count equals to one.
 ## Lookup Single & Multiple
@@ -90,5 +90,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
    To view the filter pane click on **right shift operator** on dashboard report screen.
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/74742e26a25f759329de154c34ffce2a239cd5fb/images/show_filter.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyMjk1OTM0XX0=
+eyJoaXN0b3J5IjpbMTg2NTMzODA0Nl19
 -->
