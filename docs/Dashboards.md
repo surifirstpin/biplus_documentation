@@ -23,11 +23,11 @@ Bi+ allows you to add multiple report layouts. depending on the requirement, Sel
 
 ##  Add Reports for Different Projects
 
-**2.** Click on **Update reports** then select the layout and add the reports for which you want to build dashboard.
+**2.** Click on **Update Reports** then select the layout and add the reports for which you want to build dashboard.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8414a3a116f22024e677cb9e647af84aaa27f6c6/images/dash_2.png)
 
-**3** Click on **Apply filters** to add Global filters and Lookups.
+**3** Click on **Apply Filters** to add Global filters and Lookups.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6132f122dcb8f6567b9b63f0fe51d8fca0de5e01/images/dash_3.png)
 
@@ -100,5 +100,5 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2MDMyOTc3XX0=
+eyJoaXN0b3J5IjpbLTc4ODY3NjIwN119
 -->
