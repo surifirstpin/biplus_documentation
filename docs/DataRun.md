@@ -24,7 +24,7 @@ In the list of dimensions and measures select the fields you want access.
 
 **Example :** measures for a “Amount” is Amount_sum, Amount_avg, Amount_min, Amount_max etc.
 
-Using the search option provided in the Analy section you can select the fields for which you want to carryout the field values and apply filter options as shown in below image:
+Using the search option provided in the Analysis section you can select the fields for which you want to carryout the field values and apply filter options as shown in below image:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/visu_fields.png)
 
@@ -231,5 +231,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3MTYxNDgxXX0=
+eyJoaXN0b3J5IjpbLTE4MDkxNjQ2MzhdfQ==
 -->
