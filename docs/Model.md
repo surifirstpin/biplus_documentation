@@ -79,9 +79,9 @@ Filters defined under the model section are applied globally to all the fields.
   "filter_sql": " ROOT.BI_ORDERS.RATE >= 200 AND ROOT.BI_ORDERS.RATE < 500",
   "apply": "all",
   "position": "after"
-  }
-  ]
-  }
+}
+                      ]
+}
   ``` 
   
 ## Login based Filters
@@ -144,5 +144,5 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 		},
 		```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0OTc1MzQxXX0=
+eyJoaXN0b3J5IjpbMTA3NjgzNzEwMV19
 -->
