@@ -2,11 +2,10 @@
 
 ## Creating Visualizations 
 Bi+ allows you to create different type of charts and graphs depending on the data retrieved.
+
 ## Types of Visualization
-Bi+ enables you to visualize the data retrieved in different chart types and provides some standard editing options.
-
-01. General Section
-
+Bi+ enables you to visualize the data retrieved in different chart types with some standard editing options.
+01. General Section :**
 - **Title** label for chart and align them in top,bottom,left,right position 
 - **Padding** sets the spacing at the top,bottom,left and right side of the charts
 
@@ -253,6 +252,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY5ODEyNDIsLTExOTYwMTY4MzIsLT
-E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
+eyJoaXN0b3J5IjpbNzE0MDAwNDYzLC0xMTk2MDE2ODMyLC0xOT
+Q4MjMyMjU1LDQ2NzkwNjIyNF19
 -->
