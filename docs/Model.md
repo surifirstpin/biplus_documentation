@@ -141,8 +141,8 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 			"visualise": "true"
 			}
 			  ]
-		},
+		}
 		```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjYyMzQ3OTddfQ==
+eyJoaXN0b3J5IjpbMTAzNzg2Mzg4OV19
 -->
