@@ -103,7 +103,7 @@ Sorting can be applied locally to the column field.
 ## Row Limitation and Query Time
 
 - To limit data display set the **Limit** target 
-- To  check the **Query time** as shown in the image below ;
+-  check the **Query time** as shown in the image below ;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/row_limit.png)
 
@@ -231,5 +231,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTAxODM4M119
+eyJoaXN0b3J5IjpbMTc4NzE4MTQ3OF19
 -->
