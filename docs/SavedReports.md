@@ -69,12 +69,12 @@ then dashboard global filter override the filter applied in Analysis section res
 
 ## Save As / Update option for a saved report in Edit
 
-Save the updated report after the changes made to report by clicking on save button on dashboard screen.
+Save the updated report after the changes made to report by clicking on **Save** button on dashboard screen.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8f646429db04aa96c0908e2837ac3e8a52d03450/images/update_report.png)
 ## Save a Shared Report after changes
-Save the 
-(https://raw.githubusercontent.com/sv18042016/fp1/8f646429db04aa96c0908e2837ac3e8a52d03450/images/update_report.png)
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8f646429db04aa96c0908e2837ac3e8a52d03450/images/update_report.png)
 
 ## Home Page Display Option
 Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
@@ -89,5 +89,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
    To view the filter pane click on **right shift operator** on dashboard report screen.
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/74742e26a25f759329de154c34ffce2a239cd5fb/images/show_filter.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDc1NjAyMV19
+eyJoaXN0b3J5IjpbLTIwNzY4NjY5MTNdfQ==
 -->
