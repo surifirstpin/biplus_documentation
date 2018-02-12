@@ -17,13 +17,18 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 > Step 1: Project
 
  - **Project name** enter a project name to identify the model file.
- >Step : 2
+ >Step 2: Connection
 - **Connection** Select the database connection you want to setup from the list provided
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model2.png)
+
+> Step 3: Database
+
 - **Database** Select the database you want configure, by selecting the checkbox in **Database** section. all the selected databases are visible under **Selected Database** section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model3.png)
+
+>Step 4: Tables
 
 ## Add tables from Database
 
@@ -68,5 +73,5 @@ You can save the project in public or private sections by selecting the radio bu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDE5MTc4OF19
+eyJoaXN0b3J5IjpbLTE1NzA5Njk5NjddfQ==
 -->
