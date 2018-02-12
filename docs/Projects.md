@@ -12,7 +12,7 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 > Path : Model-->Projects-->New Project
 
  
-   **1.** click on **new project** button and specify below fields:
+   **1.** Click on **new project** button to create new project.
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model1.png)  
 
 > Step 1
@@ -68,5 +68,5 @@ You can save the project in public or private sections by selecting the radio bu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjE4NjIyMTldfQ==
+eyJoaXN0b3J5IjpbLTE4MDk1OTMwMTldfQ==
 -->
