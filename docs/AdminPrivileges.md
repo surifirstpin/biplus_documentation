@@ -14,9 +14,6 @@ Administrative setting allows you to control and manipulate the data in Bi+ and 
 - **LastName** Enter lastname of the user. 
 - **Company** Enter name of the company.
 - **Role** Select the role of the user.
-
-Click on **Save** button to save user.
-
 | User Role |  Access|
 |--|--|
 | Admin | Create,edit,delete users,groups,global parameter,global function |
@@ -26,6 +23,7 @@ Click on **Save** button to save user.
 |Super Admin|Create profile and Control all the admin settings|
 
 - **Enabled** Control access to users.
+Click on **Save** button to save user.
 
 ## Edit & Delete User
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fed976f79b3ba765a8bc3b9ca665de4de0fd2681/images/user_edit.png)
@@ -52,6 +50,6 @@ Admin can create, edit and delete global parameter and global function.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTMwMDQ2Niw0NjU3NjY4MTYsLTk3ND
-Y2MDE4N119
+eyJoaXN0b3J5IjpbLTgxNDE1NzMwLDQ2NTc2NjgxNiwtOTc0Nj
+YwMTg3XX0=
 -->
