@@ -51,12 +51,12 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 
 ## Edit a Project
 
-**4. Click on Edit** Button to add any additional information to created project then update button to save changes.
+**4. Edit** add any additional information to created project then update button to save changes.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model5.png)
 
 ## Remove tables from Database 
-To remove tables from database select the check boxes of selected tables from right side section or else you can click on **deselect all** option available to remove all tables at a time.
+To remove tables from database select the check boxes under  section or else you can click on **deselect all** option available to remove all tables at a time.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0e5fb234751d7b3cd7f8f40b1ad7d79bca7c22d7/images/remove_tables.png)
 > Once we save the created project the data is reflected in model screen as shown in below image:
 
@@ -80,5 +80,5 @@ You can save the project in public or private sections by selecting the radio bu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODYyMTk3XX0=
+eyJoaXN0b3J5IjpbLTIzNzkzNzk4OV19
 -->
