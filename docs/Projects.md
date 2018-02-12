@@ -40,6 +40,8 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model%204.png)
 
 **2. Auto Build Joins**  automatically adapt or take over the join connection which have been enabled in database .
+
+## Privacy & Share Option to Project
 > Step 5 : Privacy
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8dcf17faa6e3f50d5f3f79ae269a02c1eb7237c9/images/save_project.png)
@@ -70,15 +72,6 @@ Select the project you want to delete and click on **delete icon**
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_del.png)
     
-
-## Privacy & Share Option to Project
-
-You can save the project in public or private sections by selecting the radio button in BiPlus or share them to concerned team members.
-**7.** Click on **Save project**.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/save_proj.png)
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTYwNzc0ODNdfQ==
+eyJoaXN0b3J5IjpbLTQzNzQ4NjAwOV19
 -->
