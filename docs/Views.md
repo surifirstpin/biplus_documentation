@@ -47,8 +47,8 @@ A view may join other views and there relationship are defined as part of data a
 			"summary": "",
 			"visualise": "true"
 		},
-		]
-	}
+		   ]
+	    }
 ```
 - **Name** name identifier of custom table derived.
 
@@ -200,5 +200,5 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTEyMDUzNF19
+eyJoaXN0b3J5IjpbMTk0MDUxNzI3MF19
 -->
