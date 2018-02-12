@@ -9,7 +9,7 @@ if sales manager need different data then material management then we need to de
 > Using BI+ you can maintain multiple models for single project and each of them disclose different data to different users depending on parameters applied in model. 
 
 **Getting Started :**
- Once project is saved you can define your data in model section as shown in below image :
+ Once **project** is saved you can define the data in model section as shown in below image :
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5f41bf1e6bf7e11e52fb03d555ce35e47060280b/images/model_new.png)
  
  
@@ -35,7 +35,6 @@ if sales manager need different data then material management then we need to de
 		},
 
 ```
-
 - **Name** identifier name to define a model.
 
 - **Label** changes the way that model should appear in the visualization if not by default it uses the name of the model.
@@ -151,5 +150,5 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 		},
 		```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjQ5MzE2M119
+eyJoaXN0b3J5IjpbLTE0MTIzNTQ4OTVdfQ==
 -->
