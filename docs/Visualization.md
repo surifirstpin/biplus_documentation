@@ -186,7 +186,7 @@ Red color indicates the value attained is initial state or low.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa5a5ec1ca971ffeed2d834874ab8905fc50bd31/images/world.png)
 
-- **Title** name identifier for the world chart.
+- **Title** provides name identifier to world chart.
 - **Flat Map** enables the "2D" vision of the chart.
 - **Default** set default colour to display countries.
 - **Over Border** apply colour to the border.
@@ -203,6 +203,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NDMzMjA0NCwtMTE5NjAxNjgzMiwtMT
-k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbNzI0MjQyMjA3LC0xMTk2MDE2ODMyLC0xOT
+Q4MjMyMjU1LDQ2NzkwNjIyNF19
 -->
