@@ -51,7 +51,7 @@ A view may join other views and there relationship are defined as part of data a
 	    }
 ```
 - **Name** name identifier of custom table derived.
-- **label** label the custom table the way it should appear in model  
+- **label** label the custom table the way it should appear in model section 
 - **Info** provides description for custom table.
 
 - **Type** datatype used for deriving a custom table.
@@ -198,5 +198,5 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzYxNDExOV19
+eyJoaXN0b3J5IjpbLTY5MjA3MzgzNF19
 -->
