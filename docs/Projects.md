@@ -40,7 +40,7 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model%204.png)
 
 **2. Auto Build Joins**  automatically adapt or take over the join connection which have been enabled in database .
-
+> Step 5 : Privacy
 **3. Click on **Save project** to save the project created.
 
 ## Edit a Project
@@ -74,5 +74,5 @@ You can save the project in public or private sections by selecting the radio bu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTk2NzE1NDJdfQ==
+eyJoaXN0b3J5IjpbLTE4NTE5NDA5N119
 -->
