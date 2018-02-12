@@ -1,7 +1,7 @@
 <center><h1>Tag</h1></center>
 ## Definition
 
-Tag provides the total path of savedfor reports and dashboards.
+Tag provides the total path of savedr reports and dashboards.
 
 **Getting Started :**
 
@@ -53,5 +53,5 @@ To delete the tag click on delete icon on far right of the screen.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e571af6fdf36fb0e58a5248a84669f5f73f5703f/images/delete_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI2MzE3ODRdfQ==
+eyJoaXN0b3J5IjpbMjAyODI1MTQ1N119
 -->
