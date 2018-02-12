@@ -1,6 +1,6 @@
 <center><h1>Database Connection</h1></center>
 
-## Connection 
+## Definition 
 
    **Connection** specifies a database connection from which a model can retrieve the data. Following are the steps to be followed to set up database connection.
     
@@ -11,8 +11,9 @@
   - Using an SSH Tunnel, which provides a secured and encrypted connection with extra authentication
   
 **III.** Set up your database to work with BiPlus. The instructions may vary from dialect to dialect. Typically it includes providing approval to BiPlus to access your database.
+**Getting started: **
+
   ## Create Connection
-  
   To get started with the process you need to Select the database dialects used in your project and below are the steps to be followed:
  
  **1.** Click on **Database Section** to setup a database connection.
@@ -80,7 +81,7 @@ Once you have Setup the Database connection you can further take up the process 
   - **Create Project** to control data in model
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTI0NjQ5OSwtMjQ0OTYxNDE2LDE1Mz
-E5NDU2MDEsMjEwNDcwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3
-NjUzXX0=
+eyJoaXN0b3J5IjpbNjA5MjA0NDI1LC0yNDQ5NjE0MTYsMTUzMT
+k0NTYwMSwyMTA0NzAyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2
+NTNdfQ==
 -->
