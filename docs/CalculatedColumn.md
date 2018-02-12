@@ -2,7 +2,7 @@
 
 ## Calculated Column Definition
 
-Calculation is a statement or expression or a function operator which can be used to derive the column values, lets get deep into calculated column function.
+
 
 ## Usage of #math# 
 
@@ -353,5 +353,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTcwNTA2MzldfQ==
+eyJoaXN0b3J5IjpbMTgxNzM2Mjc5M119
 -->
