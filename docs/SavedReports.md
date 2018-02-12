@@ -47,7 +47,8 @@ it will display the data flow of the dashboard report.
 - **Image format** download the dashboard report in image format.
 
 ## Filters & Customization
-Filters can be added in dashboard section to narrow the dashboard data we are intrested in viewing
+Filters can be added in dashboard section to narrow the dashboard results to the data we are interested in viewing.
+
 ## Adding Global Filters
 Adding global filter to dashboard allows you to override the filters you have save in reports.
 **Example **
@@ -68,7 +69,7 @@ then dashboard global filter override the filter applied in Analysis section res
 
 ## Save As / Update option for a saved report in Edit
 
-save the updated report after the changes made to report by clicking on save button on dashboard screen.
+Save the updated report after the changes made to report by clicking on save button on dashboard screen.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8f646429db04aa96c0908e2837ac3e8a52d03450/images/update_report.png)
 ## Save a Shared Report after changes
@@ -88,5 +89,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
    To view the filter pane click on **right shift operator** on dashboard report screen.
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/74742e26a25f759329de154c34ffce2a239cd5fb/images/show_filter.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDU0MjE0NDZdfQ==
+eyJoaXN0b3J5IjpbLTc4NDc1NjAyMV19
 -->
