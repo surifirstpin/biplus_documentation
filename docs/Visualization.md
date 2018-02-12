@@ -127,9 +127,7 @@ Converts pie chart to donut.
     - Variance 
     - Custom Line
     - Custom Area
-  
-- **Data Field** select the measure value you want to refer.
-
+- **Data Field** select the measure value you want to refer
 - **Theme** choose the color for reference lines.
 
 ## Funnel chart :
@@ -226,6 +224,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjkzMDAyNiwtMTE5NjAxNjgzMiwtMT
+eyJoaXN0b3J5IjpbMTYyODA1NTE3OCwtMTE5NjAxNjgzMiwtMT
 k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
