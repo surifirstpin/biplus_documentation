@@ -1,5 +1,6 @@
 <center><h1>Global Function</h1></center>
 
+## Definition
 
 **Getting Started :** 
 >Path :  Settings-->click on global functions. 
@@ -52,5 +53,5 @@ This functions supports all the native java script supported functions and you c
 ## Developer Privileges
 All the users have privilege to access global functions in calculated column,  but admin and developer can create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzE2NzYyNl19
+eyJoaXN0b3J5IjpbMjA2MzE3MjcwM119
 -->
