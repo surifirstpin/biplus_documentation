@@ -51,7 +51,6 @@ A view may join other views and there relationship are defined as part of data a
 	    }
 ```
 - **Name** name identifier of custom table derived.
-
 - **label** the custom table.
 
 - **Info** provides description for custom table.
@@ -200,5 +199,5 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDUxNzI3MF19
+eyJoaXN0b3J5IjpbLTQ2MjQyMTgyMF19
 -->
