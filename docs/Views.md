@@ -122,8 +122,9 @@ A view may join other views and there relationship are defined as part of data a
 
 **Drill_down_fields** parameter is used to explore the data within the field. it works in query results tables and dashboards. Drilling disclose a new query that is restricted by the value you clicked on.
  **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning the true or false condition to the parameter.
-
+ 
 **Drill has different actions for dimensions and measures:**
+
 - When **drilling on a dimension,** the new query filters on the drilled value. For example, if you click on **COUNTRY NAME** it will show the **STATE NAME** assigned to the country.
 ```
 		{
@@ -152,7 +153,6 @@ A view may join other views and there relationship are defined as part of data a
 		}
 ```
 - When **drilling on a measure,** the new query will show the data set that contributed to the measure. For example,  when drilling on a **REVENUE_AMOUNT** it shows the **BONUS POINTS** assigned to it.
-
 ```
 {
 			"name": "REVENUE_AMOUNT",
@@ -166,8 +166,8 @@ A view may join other views and there relationship are defined as part of data a
 			"drill_down_fields": "BONUSPOINTS",
 			"show_drill_down_measures": "true",
 			"visualise": "true"
-		},
-		{
+},
+{
 			"name": "BONUSPOINTS",
 			"label": "BONUSPOINTS",
 			"data_type": "number",
@@ -185,5 +185,5 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDQxMjQ4Ml19
+eyJoaXN0b3J5IjpbNTY2NTUyNDg0XX0=
 -->
