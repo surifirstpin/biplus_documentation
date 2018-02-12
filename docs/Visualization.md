@@ -5,16 +5,15 @@ Bi+ allows you to create different type of charts and graphs depending on the da
 
 ## Types of Visualization
 Bi+ enables you to visualize the data retrieved in different chart types with some standard editing options.
-01. General Section :**
+
+**01. General Section :**
 - **Title** label for chart and align them in top,bottom,left,right position 
 - **Padding** sets the spacing at the top,bottom,left and right side of the charts
 
-02. X-Axis
+**02.  X-Axis :**
 
-- **Axis type** type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column,timeframe refer to the time-format of the data.
-
-- **Label field** Label the field name in x-axis using grid display
-
+- **Axis type** type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column, timeframe refer to the time-format of the data.
+- **Label field** Label the field name in x-axis using grid display.
 - **Axis label** provides label to x-axis.
 
 - **Reference Line** is used to refer specific values by applying colors to it.
@@ -252,6 +251,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0MDAwNDYzLC0xMTk2MDE2ODMyLC0xOT
-Q4MjMyMjU1LDQ2NzkwNjIyNF19
+eyJoaXN0b3J5IjpbLTE0NjA4MDc0OTEsLTExOTYwMTY4MzIsLT
+E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
