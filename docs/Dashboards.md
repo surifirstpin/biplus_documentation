@@ -48,7 +48,7 @@ Bi+ allows you to add multiple report layouts. depending on the requirement, Sel
 - **Referred** used to refer predefined filter for the following filters. 
 
 **6. Report Listeners** allows you to apply filters to reports.
-- **Dashboard Report** Select the report to which you waadding filters.
+- **Dashboard Report** Select the report to which you want to addadding filters.
 - **Listen Filter** refers to filter option available.
 - **Apply to field** will allows you apply the filter options to available field list in report.
 - **Add Listener** allows you to add multiple filters to reports.
@@ -100,5 +100,5 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODExNzMzNF19
+eyJoaXN0b3J5IjpbLTE1MjA0NTM5OTRdfQ==
 -->
