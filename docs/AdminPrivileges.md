@@ -1,7 +1,7 @@
  <center><h1>AdminPrivileges</h1></center>
  
 ## Definition
-Administrative setting allows you to control and manipulate the data in Bi+ and is provided with many administrative settings optionsthat will allow you to customize Bi+ for your organisation.
+Administrative setting allows you to control and manipulate the data in Bi+ and is provided with many administrative settings options that will allow you to customize Bi+ for your organisation.
 
 ## Users
 To Create a User Click on Settings-->Select users-->Click on Add Users.
@@ -53,6 +53,6 @@ You can create, edit and delete global parameter and global function
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NjQ3NjYyNSw0NjU3NjY4MTYsLTk3ND
+eyJoaXN0b3J5IjpbMTMwMjU5ODQxMSw0NjU3NjY4MTYsLTk3ND
 Y2MDE4N119
 -->
