@@ -188,9 +188,7 @@ Red color indicates the value attained is initial state or low.
 
 - **Title** name identifier for the world chart.
 - **Flat Map** enables the "2D" vision of the chart.
-
 - **Default** set default colour to display countries.
-
 - **Over Border** apply colour to the border.
 
 - **Data Field** display the data field value on map.	
@@ -212,6 +210,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2NjQ4MTg2LC0xMTk2MDE2ODMyLC0xOT
-Q4MjMyMjU1LDQ2NzkwNjIyNF19
+eyJoaXN0b3J5IjpbLTYyNzk3MDQwMiwtMTE5NjAxNjgzMiwtMT
+k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
