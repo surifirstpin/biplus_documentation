@@ -3,8 +3,7 @@
 ## Creating Visualizations 
 Bi+ allows you to create different type of charts and graphs depending on the data retrieved.
 ## Types of Visualization
-
-Bi+ enables you to visualize the data in  different chart types and provides some standard editing options.
+Bi+ enables you to visualize the data retrieved in different chart types and provides some standard editing options.
 
 01. General Section
 
@@ -254,6 +253,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjE0OTMwMCwtMTE5NjAxNjgzMiwtMT
-k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
+eyJoaXN0b3J5IjpbLTEzMDY5ODEyNDIsLTExOTYwMTY4MzIsLT
+E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
