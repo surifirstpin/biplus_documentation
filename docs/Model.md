@@ -74,7 +74,7 @@ Filters defined under the model section are applied globally to all the fields.
   "apply": "all",
   "position": "before"
 },
- {
+{
   "name": "RateRange",
   "filter_sql": " ROOT.BI_ORDERS.RATE >= 200 AND ROOT.BI_ORDERS.RATE < 500",
   "apply": "all",
@@ -144,5 +144,5 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 		},
 		```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDYzMDg2N119
+eyJoaXN0b3J5IjpbNzk0OTc1MzQxXX0=
 -->
