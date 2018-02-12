@@ -1,14 +1,14 @@
 
 <center><h1>Dashboard</h1></center>
 
-## Create Dashboard
+## Definition
 
 Dashboard provides access to view multiple reports or charts on single screen layout, in this way you can get a quick view on related data.
 In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive.
  
  **Getting Started**
- 
-Select Dashboard Section--->click on New Dashboards button.
+Under Dashboard Section--->Click New Dashboards button.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/20367797e10c5eabfec8ab65d23699fb34843101/images/dash.png)
 
 ## Ability for Multiple Layouts
 
@@ -101,5 +101,5 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTEwNzc4NjNdfQ==
+eyJoaXN0b3J5IjpbLTkzOTc5MjMzM119
 -->
