@@ -33,7 +33,7 @@ Bi+ allows you to add multiple report layouts. depending on the requirement, Sel
 
 ## Dashboard Filters Customization
 
-**4.** By adding Dashboard Filters you can allow user to view limited data.
+**4.** By adding *Dashboard Filters you can allow user to view limited data.
 - **Filter Name** identifier name to the filter applicable
 - **Filter Type** type of filter user (eg: string,date,number)
 - **Operator** filter operation that are applicable
@@ -100,5 +100,5 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODY3NjIwN119
+eyJoaXN0b3J5IjpbMTkyNTU2MjM4OV19
 -->
