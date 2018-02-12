@@ -82,6 +82,7 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 
 ## Hide Filters panel
 To hide the filter panel click on **left shift operator** on dashboard report screen.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1d2f5f99ff0adb44cf4f29fad6293c953095b169/images/hide_filter.png) 
 
 ## Show Filters panel
@@ -89,5 +90,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
  To view the filter panel click on **Right shift operator** on dashboard report screen.
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/74742e26a25f759329de154c34ffce2a239cd5fb/images/show_filter.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDcwMTA2N119
+eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
