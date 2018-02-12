@@ -77,7 +77,7 @@ Filters defined under the model section are applied globally to all the fields.
   "apply": "all",
   "position": "after"
 }
-                    ]
+                     ]
 }
   ``` 
   
@@ -140,5 +140,5 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 		}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDE0Mzc2NV19
+eyJoaXN0b3J5IjpbLTE0NTA4NDk3NzldfQ==
 -->
