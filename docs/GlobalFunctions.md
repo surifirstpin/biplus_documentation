@@ -1,9 +1,8 @@
 <center><h1>Global Function</h1></center>
 
-## Create function
- 
- To Create a Global functions Click on settings-->Select Global functions.
- 
+
+**Getting Started :** 
+To Create a Global functions Click on settings-->Select Global functions. 
  1. Click on Add-Functions to create new function.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9712e86a6881444e961d60dfc6aab30bf665172/images/func1.png)
@@ -58,5 +57,5 @@ This functions supports all the native java script supported functions and you c
 
 All the users have privilege to access global functions in calculated column,  but admin and developer can create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyNDQ1MDA3XX0=
+eyJoaXN0b3J5IjpbLTEyOTAwOTQ5MzRdfQ==
 -->
