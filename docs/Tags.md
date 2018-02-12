@@ -2,7 +2,7 @@
 
 ## Definition
 
-Tag has a hirarichal struction that provides a  provides the total path of saved reports and dashboards.
+Tag has a hirarichal struction that provides a several  provides the total path of saved reports and dashboards.
 
 **Getting Started :**
 **1.** Click on **Add Tag** in Dashboard section to create a New Tag.
@@ -48,5 +48,5 @@ To **Delete** the tag click on delete icon on far right of the screen.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e571af6fdf36fb0e58a5248a84669f5f73f5703f/images/delete_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDQwOTc1NF19
+eyJoaXN0b3J5IjpbLTg5ODAyMDIzNF19
 -->
