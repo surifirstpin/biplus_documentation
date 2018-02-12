@@ -53,8 +53,10 @@ it will display the data flow of the dashboard report.
 ## Adding Global Filters
 Adding global filter to dashboard allows you to override the filters you have save in reports.
 **Example **
-here we applied global filter to **S0um count equals to 4 in Analysis section.
+Here we applied global filter to **Sum count equals to 4** in Analysis section.
  
+ And, we apply global filter sum count equals to 1 in dashboard.
+t
 ## Lookup Single & Multiple
  
  By adding lookup to reports you can refer set of query or list of items in filters.you can add single or multiple lookups to a dashboard report by clicking on **Add Lookups** in **Apply filter** section of dashboard.
@@ -87,5 +89,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
    To view the filter pane click on **right shift operator** on dashboard report screen.
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/74742e26a25f759329de154c34ffce2a239cd5fb/images/show_filter.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTU1OTU2Nl19
+eyJoaXN0b3J5IjpbMTc4NDc4MjEyOF19
 -->
