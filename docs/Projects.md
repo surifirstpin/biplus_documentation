@@ -20,7 +20,7 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 - **Connection** Select the database connection you want to setup from the list provided
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model2.png)
-- **Database** Select the database you want configure, by selecting the checkbox on left side database section as shown below the selected databases are visible on right side of the database section.
+- **Database** Select the database you want configure, by selecting the checkbox in database section. all the selected databases are visible under **Selected database** section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model3.png)
 
@@ -67,5 +67,5 @@ You can save the project in public or private sections by selecting the radio bu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NjA3MzEzOV19
+eyJoaXN0b3J5IjpbODA1NDQ5MDddfQ==
 -->
