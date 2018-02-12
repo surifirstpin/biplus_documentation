@@ -195,7 +195,6 @@ Red color indicates the value attained is initial state or low.
 - **Color Field** select the data field you want to colour.
 - **Color** choose the color you want to apply on field.
 - **From & To** select the data field range to be colored.
-
 - **Negative Cutoff** enabled when negatives values are applicable.
 
 - **Negative color-from & to** Specify colour for negative values.
@@ -205,6 +204,6 @@ Red color indicates the value attained is initial state or low.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODcwNjcwMCwtMTE5NjAxNjgzMiwtMT
+eyJoaXN0b3J5IjpbMTI3MDQxNzQ2NiwtMTE5NjAxNjgzMiwtMT
 k0ODIzMjI1NSw0Njc5MDYyMjRdfQ==
 -->
