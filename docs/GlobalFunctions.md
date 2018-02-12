@@ -1,7 +1,7 @@
 <center><h1>Global Function</h1></center>
 
 ## Definition
-
+A variable te is defined as global is accesed from within a function body.
 **Getting Started :** 
 >Path :  Settings-->click on global functions. 
  1. Click on Add-Functions to create new function.
@@ -53,5 +53,5 @@ This functions supports all the native java script supported functions and you c
 ## Developer Privileges
 All the users have privilege to access global functions in calculated column,  but admin and developer can create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzE3MjcwM119
+eyJoaXN0b3J5IjpbODkyMzg5OTQzXX0=
 -->
