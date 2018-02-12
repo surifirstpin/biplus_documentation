@@ -127,7 +127,7 @@ A view may join other views and there relationship are defined as part of data a
 
 - When **drilling on a dimension,** the new query filters on the drilled value. For example, if you click on **COUNTRY NAME** it will show the **STATE NAME** assigned to the country.
 ```
-		{
+{
 			"name": "COUNTRYNAME",
 			"label": "COUNTRYNAME",
 			"data_type": "string",
@@ -139,8 +139,8 @@ A view may join other views and there relationship are defined as part of data a
 			"drill_down_fields": "STATENAME",
 			"show_drill_down_measures": "true",
 			"visualise": "true"
-		},
-		{
+			},
+{
 			"name": "STATENAME",
 			"label": "STATENAME",
 			"data_type": "string",
@@ -150,7 +150,7 @@ A view may join other views and there relationship are defined as part of data a
 			"sql": "${TABLE}.STATENAME",
 			"summary": "",
 			"visualise": "true"
-		}
+}
 ```
 - When **drilling on a measure,** the new query will show the data set that contributed to the measure. For example,  when drilling on a **REVENUE_AMOUNT** it shows the **BONUS POINTS** assigned to it.
 ```
@@ -177,13 +177,13 @@ A view may join other views and there relationship are defined as part of data a
 			"sql": "${TABLE}.BONUSPOINTS",
 			"summary": "sum,avg,max,min,count",
 			"visualise": "true"
-		}
+}
 		
 ``` 
 
-**Visualize** parameter is used as, display on-off option for fields in data analyse section by assigning true or false condition to the parameter.
+- **Visualize** parameter is used as, display on-off option for fields in data analyse section by assigning true or false condition to the parameter.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2NTUyNDg0XX0=
+eyJoaXN0b3J5IjpbNDE0MDc0NDE1XX0=
 -->
