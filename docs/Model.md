@@ -48,14 +48,11 @@ if sales manager need different data then material management then we need to de
 Filters defined under the model section are applied globally to all the fields.
 
 **Name** identifier name to derive a field.
- 
+
 **Label** parameter helps you to change the title and the way they should appear in field picker.
-
 **Filter_sql** enables the filter application to specified fields and to the query derived.
-
 **Apply** filter applied to **all** the fields or any specific field.
-
-**Position** apply filter before or after the data retrieval.
+**Position** Applying filter before or after the data retrieval.
 
 ```
 {
@@ -80,7 +77,7 @@ Filters defined under the model section are applied globally to all the fields.
   "apply": "all",
   "position": "after"
 }
-                      ]
+                    ]
 }
   ``` 
   
@@ -143,5 +140,5 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 		}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyODU3MDI5XX0=
+eyJoaXN0b3J5IjpbLTk3MDE0Mzc2NV19
 -->
