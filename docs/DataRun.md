@@ -10,8 +10,7 @@ Under data analysis section, select the project and model for which you want to 
 In the list of dimensions and measures select the fields you want access.
 1. Select one or more grey fields to group your data(Dimensions).
 2. Click one or more orange fields to add information about those groups, such as totals and counts(Measures). 
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/visu_run.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/92e1e1b322bed3026eedfd1a2dca2bc3c3dfea78/images/visu_run.png)
 
 **Dimensions** are list of fields that can be used for applying filter options, for instance:
 - An **Attribute**, which has a direct association to a column in an primary table.
@@ -231,5 +230,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjExMDY0Nl19
+eyJoaXN0b3J5IjpbNjMxNTY1MjU5XX0=
 -->
