@@ -66,7 +66,7 @@ Bi+ allows you to add multiple report layouts. depending on the requirement, Sel
 
 ## Edit   Dashboard 
 
-To Edit the dashboard Select the dashboard created and Click on **Edit** Button. 
+To Edit the dashboard select the dashboard created and Click on **Edit** Button. 
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/32cd07ab577aaece73d4b9b7f53010680bda5fa0/images/edit_dash2.png)   
 It will navigate to dashboard created. 
 
@@ -102,5 +102,5 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDg4NjYwMF19
+eyJoaXN0b3J5IjpbMTQ5NDkyNjU2OF19
 -->
