@@ -184,7 +184,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  cosh | Returns the hyperbolic cosine of a value, <br/>Defined as cosh(x) = 1/2 * (exp(x) + exp(-x)) | bi.cosh(value)<br/>Ex: bi.cosh(90) = 6.1020164715892E+38 |
 |  sech | Returns the hyperbolic secant of a value, <br/>Defined as sech(x) = 1 / cosh(x). | bi.sech(value)<br/>Ex: sech(65) = 1.1800181083194122e-28 |
 |  csch | Returns the hyperbolic cosecant of a value, <br/>Defined as csch(x) = 1 / sinh(x). | bi.csch(value)<br/>Ex: bi.csch(45) = 5.725037161098787e-20 |
-|  tanh | Returns the hyperbolic tangent of a value, <br/>Defined as tanh(x) = (exp(2 x) - 1) / (exp(2 x) + 1). | bi.tanh(value)<br/>Ex: bi.tanh(90) = 1 |
+|  tanh | Returns the hyperbolic tangent of a value, <br/>Defined as tanh(x) = (exp(2 x) - 1) / (exp(2 x) + 1). | bi.tanh(value)<br/>Ex: bi.tanh(90) = 1 |
 |  coth | Returns the hyperbolic cotangent of a value, <br/>Defined as coth(x) = 1 / tanh(x). | bi.coth(value)<br/>Ex: bi.coth(30) = 1 |
 |  asin | Returns the inverse sine of a value. | bi.asin(value)<br/>Ex: bi.asin(30) = 0.5 |
 |  acos | Returns the inverse cosine of a value. | bi.acos(value)<br/>Ex: bi.acos(0.5) = 1.0471975511965979 &  bi.acos(bi.cos(1.5)) =1.5 |
@@ -207,9 +207,36 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  to | Returns the converted unit value of a given value |  |
 
 ### Utils
+|  to | Change the unit of a value. | to(x, unit)<br/>Ex: to(math.unit('2 inch'), 'cm') = Unit 5.08 cm, <br/>      to(math.unit(16, 'bytes'), 'bits') = Unit 128 bits |
+|  ------ | ------ | ------ |
+|  clone | Clone an object. | Clone(x) <br/>Ex: clone(math.complex('2-4i') = 2 - 4i, clone([[1, 2], [3, 4]]) = [[1, 2], [3, 4]] |
+|  isInteger | Returns true / false after validating the given value is integer<br/>true if the given value is integer or else false | bi.inInteger(value)<br/>Ex: bi.isInteger(2) = true, <br/>       bi.isInteger(2.5) = false |
+|  isNaN | Returns true / false after validating the given value  whether it is NaN (not a number) | bi.isNaN(value)<br/>Ex: bi.isNaN(3) = false, <br/>      bi.isNaN(NaN) = true |
+|  isPositive | Returns true / false after validating the given value is positive<br/>true if the given value is integer or else false | bi.isPositive(value)<br/>Ex: bi.isPositive(3) = true, <br/>      bi.isPositive(-3) = false |
+|  isNegative | Returns true / false after validating the given value is negative<br/>true if the given value is integer or else false | bi.isNegative(value)<br/>Ex: bi.isNegative(3) = false, <br/>      bi.isNegative(-3) = true |
+|  isNumeric | Returns true / flase after validating the given value is numeric or not | bi.isNumeric(value)<br/>Ex: bi.isNumeric(3) = true, <br/>      bi.isNumeric(“string”) = false |
+|  isPrime | Results true / false after validating  the given value is  whether a prime number | bi.isPrime(value)<br/>Ex: bi.isPrime(3) = true, <br/>       bi.isPrime(4) = false |
+|  isZero | Results true / false after validating  the given value is  whether it is zero | bi.isZero(value)<br/>Ex: bi.isZero(1) = false, <br/>       bi.isZero(0) = true |
+|  typeof | Determine the type of a variable. | typeof(3.5) = number, <br/>typeof(math.complex('2-4i')) = complex, <br/>typeof(math.unit('45 deg')) = Unit <br/>Typeof('hello world') = string |
 
-#### Constant
-
+### Constant
+|  **Name** | **Description** | **Example** |
+|  :------: | :------: | :------: |
+|  e, E | Returns the Euler’s number, the base of the natural logarithm | 2.71828182845904 |
+|  i | Returns Imaginary unit, defined as i*i = -1. A complex number is described as a + bi, where a is the real part, and b is the imaginary part. | sqrt(-1) |
+|  Infinity | Returns Infinity, a number which is larger than the maximum number that can be handled by a floating point number. | Infinity |
+|  LN2 | Returns the natural logarithm of 2. | 0.6931471805599451 |
+|  LN10 | Returns the natural logarithm of 10. | 2.30258509299404 |
+|  LOG2E | Returns the base-2 logarithm of E | 1.44269504088896 |
+|  LOG10E | Returns the base-10 logarithm of E. | 0.43429448190325104 |
+|  NaN | Not a number. | NaN |
+|  null | Value null. | null |
+|  phi | Phi is the golden ratio in math this is separately coded has unicode glyph ϕ | 1.61803398874989 |
+|  pi, PI | Returns the value of pi which is a mathematical constant that is the ratio of a circle's circumference to its diameter. | 3.14159265358979 |
+|  SQRT1_2 | Returns the square root of 1/2. | 0.707106781186547 |
+|  SQRT2 | Returns the square root of 2. | 1.41421356237309 |
+|  tau | Returns Tau value which is the ratio constant of a circle's circumference to radius, equal to 2 * pi. | 6.28318530717958 |
+|  uninitialized | Constant used as default value when resizing a matrix to leave new entries uninitialized. |  |
 ## Usage of #math#plugin# for Grid View
 
             welcome to Biplus
@@ -322,5 +349,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTU0MzQzNl19
+eyJoaXN0b3J5IjpbLTE3Njc1NDAxODVdfQ==
 -->
