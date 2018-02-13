@@ -47,8 +47,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |col_total|Returns the total value of the column given inside ()|bi.column_total(#{col_name})|
 |number|Returns the object argument to a number that represents the object's value. The object may be static or a column name|"bi.number(“static”) or bi.number(${col_name})Ex: bi.number(""1234567"") returns  1234567"|
 |int|Returns only integer values of given number or column	|"bi.int(number) or bi.int(${col_name})Ex: bi.int(74845.9898) = 74845"|
-|in_globals|It returns the data from Global parameters based on the common reference. The reference can be static or a column. |"bi.in_globals(Ref ,”GP_Name.R_Val ”, ”Ref_key” )
-Note: Ref can be a column name or static value or userid"|
+|in_globals|It returns the data from Global parameters based on the common reference. The reference can be static or a column. |"bi.in_globals(Ref ,”GP_Name.R_Val ”, ”Ref_key” )Note: Ref can be a column name or static value or userid"|
 |in_global_keys|It returns the data from Global parameters based on the multiple common references. The references can be static or a column |"bi.in_global_keys([“GP_Rkey1”,”GP_Rkey2”,.....],[Ref1, Ref2,.....],”GP_Name.R_Val”) Note: Ref1/ Ref2 can be static strings or column names or userid"|
 |calculate_key_group|Returns an aggregated value of a measure based on a dimension with futher mention of Row grouping column name|"bi.calculate_key_group(#Ag_col,$Ag_col,#RG_col,$RG_col,$M_col,”agg_type”)Where Ag= Aggregated & RG for Row Grouping  & M_Col for measure and agg_type can be sum, avg, min, max, count"|
 |col_running_total|Returns the running total value for a column in each cell|bi.col_running_total(#{col_name})|
@@ -354,5 +353,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzY1NTM2XX0=
+eyJoaXN0b3J5IjpbLTg1NzIyNjc0XX0=
 -->
