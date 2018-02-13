@@ -118,7 +118,7 @@ A view may join other views and there relationship are defined as part of data a
    - maximum
    -  minimum
 
-## Drill-down feature and specs
+## Drill-down features 
 
 **Drill_down_fields** parameter is used to explore the data within the field. it works in query results tables and dashboards. Drilling disclose a new query that is restricted by the value you clicked on.
  **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning the true or false condition to the parameter.
@@ -185,5 +185,5 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0MDc0NDE1XX0=
+eyJoaXN0b3J5IjpbNDE2NzE3MjY1XX0=
 -->
