@@ -39,7 +39,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |--|--|--|
 |Offset  |Return the row value of the column mentioned as before or after based on  -Ve or +Ve number given  | bi.offset(#{col_name}, row_difference) |
 |pivot_offset|Returns the cell value of pivot table based on the Row and Column position given respectively.Row number:  +Ve & -Ve are for below & above positionsColumn number : +Ve and -Ve are for after & before positions|bi.pivot_offset(#{col_name} ,m,n)for Instance: m is row number & n is column number|
-|Contains|Returns true/ false after validating expression given inside
+|Contains|Returns true/ false after validating expression given inside|
 
 ### Statistics
 |  **Name** | **Description** | **Usage & Example** |
@@ -341,5 +341,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3MTg3NzA2XX0=
+eyJoaXN0b3J5IjpbLTE1NDU5NTQ2XX0=
 -->
