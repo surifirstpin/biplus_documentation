@@ -198,7 +198,6 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  isZero | Results true / false after validating  the given value is  whether it is zero | bi.isZero(value)<br/>Ex: bi.isZero(1) = false, <br/>       bi.isZero(0) = true |
 |  typeof | Determine the type of a variable. | typeof(3.5) = number, <br/>typeof(math.complex('2-4i')) = complex, <br/>typeof(math.unit('45 deg')) = Unit <br/>Typeof('hello world') = string |
 |  **Constant :** |  |  |
-||
 |  **Name** | **Description** | **Example** |
 |  e, E | Returns the Euler’s number, the base of the natural logarithm | 2.71828182845904 |
 |  i | Returns Imaginary unit, defined as i*i = -1. A complex number is described as a + bi, where a is the real part, and b is the imaginary part. | sqrt(-1) |
@@ -215,6 +214,19 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  SQRT2 | Returns the square root of 2. | 1.41421356237309 |
 |  tau | Returns Tau value which is the ratio constant of a circle's circumference to radius, equal to 2 * pi. | 6.28318530717958 |
 |  uninitialized | Constant used as default value when resizing a matrix to leave new entries uninitialized. |  |
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 ## Usage of #math#plugin# for Grid View
@@ -329,5 +341,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjQyNjQ2M119
+eyJoaXN0b3J5IjpbLTc0MzQwMTkyMV19
 -->
