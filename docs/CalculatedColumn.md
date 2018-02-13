@@ -124,9 +124,9 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
 |  concat | Returns the array or text after concatenating two or more texts or matrices. | bi.concat(a,b)<br/>Ex: bi.concat(“Hello” ,”  World”) = “Hello  World”<br/>For  A = [[1, 2], [5, 6]] & B = [[3, 4], [7, 8]] <br/>bi.concat(A, B) = [[1, 2, 3, 4], [5, 6, 7, 8]] |
-|  Cross | Returns the cross product for two vectors in three dimensional space. | cross(A, B) = [ a2 b3 - a3 b2, a3 b1 - a1 b3, a1 b2 - a2b1 ]  |
+|  Cross | Returns the cross product for two vectors in three dimensional space. | cross(A, B) = [ a2 b3 - a3 b2, a3 b1 - a1 b3, a1 b2 - a2b1 ]  |
 |  det | Returns the determinant of a matrix. | bi.det([[1, 2], [3, 4]]) = -2 |
-|  dot | Returns the dot product of two vectors. | bi.dot(A, B) = a1 b1 + a2 b2 + a3 b3 + … + an bn, <br/>Ex: bi.dot([2, 4, 1], [2, 2, 3]) = 15 |
+|  dot | Returns the dot product of two vectors. | bi.dot(A, B) = a1 b1 + a2 b2 + a3 b3 + … + an bn, <br/>Ex: bi.dot([2, 4, 1], [2, 2, 3]) = 15 |
 |  eye | Create a 2-dimensional identity matrix with size m x n or n x n. | eye(3) = [[1, 0, 0], [0, 1, 0], [0, 0, 1]], eye(3, 2) = [[1, 0], [0, 1], [0, 0]] |
 |  filter | Filter the items in an array or one dimensional matrix. | filter([6, -2, -1, 4, 3], isPositive) = [6, 4, 3], <br/>Filter(["23", "foo", "100", "55", "bar"], /[0-9]+/) = ["23", "100", "55"] |
 |  flatten | Flatten a multi dimensional matrix into a single dimensional matrix. | flatten([[1,2], [3,4]]) = [1, 2, 3, 4] |
@@ -148,7 +148,9 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  zeros | Create a matrix filled with zeros. | var A = [[1, 2, 3], [4, 5, 6]];<br/>zeros(size(A)); = [[0, 0, 0], [0, 0, 0]] |
 
 ### Geometry
-
+|  **Name** | **Description** | **Example** |
+|  :------: | :------: | :------: |
+|  distance | Results the eucledian distance between two points in 2 and 3 dimensional spaces. | distance([x1, y1], [x2, y2]) = distance([0,0], [4,4]) = 5.6569. |
 
 ### String
 
@@ -282,5 +284,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4ODExMDldfQ==
+eyJoaXN0b3J5IjpbNTYyNjAzMTcyXX0=
 -->
