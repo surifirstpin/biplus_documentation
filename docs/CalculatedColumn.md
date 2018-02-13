@@ -197,8 +197,8 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  isPrime | Results true / false after validating  the given value is  whether a prime number | bi.isPrime(value)<br/>Ex: bi.isPrime(3) = true, <br/>       bi.isPrime(4) = false |
 |  isZero | Results true / false after validating  the given value is  whether it is zero | bi.isZero(value)<br/>Ex: bi.isZero(1) = false, <br/>       bi.isZero(0) = true |
 |  typeof | Determine the type of a variable. | typeof(3.5) = number, <br/>typeof(math.complex('2-4i')) = complex, <br/>typeof(math.unit('45 deg')) = Unit <br/>Typeof('hello world') = string |
-Constant :
-||||
+|  **Constant :** |  |  |
+||
 |  **Name** | **Description** | **Example** |
 |  e, E | Returns the Euler’s number, the base of the natural logarithm | 2.71828182845904 |
 |  i | Returns Imaginary unit, defined as i*i = -1. A complex number is described as a + bi, where a is the real part, and b is the imaginary part. | sqrt(-1) |
@@ -329,5 +329,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTgzNjExNV19
+eyJoaXN0b3J5IjpbLTk3NjQyNjQ2M119
 -->
