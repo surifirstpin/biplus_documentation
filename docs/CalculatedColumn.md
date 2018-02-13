@@ -169,6 +169,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 
 ### Relational
 
+
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
 |  compare | Returns -1, 1, 0 after comparing two given values<br/>Syntax: bi.compare(x,y) <br/>Returns -1 if x<y<br/>Returns 1 if x >y<br/>Returns 0 if x=y | bi.compare(6,2) = 1,<br/>bi.compare(2,6) = -1,<br/>bi.compare(6,6) = 0 |
@@ -356,5 +357,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDc1OTU3N119
+eyJoaXN0b3J5IjpbMTIwODg3Mzk2M119
 -->
