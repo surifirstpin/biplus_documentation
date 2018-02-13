@@ -35,20 +35,10 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 ```
 **Similarly we can use all the below functionality Using Bi+:**
 ### General
-|  **Name** | **Description** | **Usage & Example** |
-|  :------: | ------ | ------ |
-|  offset | e | bi.offset(#{col_name}, row_difference) |
-|  pivot_offset | e | bi.pivot_offset(#{col_name} ,m,n)<br/>for Instance: m is row number & n is column number |
-|  contains | e | bi.contains(expression) |
-|  row_total | e | bi.row_total ( ) |
-|  col_total | e | bi.column_total(#{col_name}) |
-|  number | e | bi.number(“static”) or bi.number(${col_name})<br/>Ex: bi.number("1234567") returns  1234567 |
-|  int | e | bi.int(number) or bi.int(${col_name})<br/>Ex: bi.int(74845.9898) = 74845 |
-|  in_globals | e | bi.in_globals(Ref ,”GP_Name.R_Val ”, ”Ref_key” )<br/>Note: Ref can be a column name or static value or userid |
-|  in_global_keys | e | bi.in_global_keys([“GP_Rkey1”,”GP_Rkey2”,.....],[Ref1, Ref2,.....],”GP_Name.R_Val”)<br/>Note: Ref1/ Ref2 can be static strings or column names or userid |
-|  calculate_key_group | e | bi.calculate_key_group(#Ag_col,$Ag_col,#RG_col,$RG_col,$M_col,”agg_type”)<br/>Where Ag= Aggregated & RG for Row Grouping  & M_Col for measure<br/>and agg_type can be sum, avg, min, max, count |
-|  col_running_total | e | bi.col_running_total(#{col_name}) |
-|  col_running_avg | e | bi.offset(#{col_name}, row_difference) |
+|**Name**|**Descriptio  |
+|--|--|
+|  |  |
+
 ### Statistics
 |  **Name** | **Description** | **Usage & Example** |
 |  :------: | :------: | :------: |
@@ -348,5 +338,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDg4MjkzOV19
+eyJoaXN0b3J5IjpbLTEyNjMxMzMxMzJdfQ==
 -->
