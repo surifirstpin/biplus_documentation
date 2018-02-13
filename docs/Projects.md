@@ -2,7 +2,7 @@
 
 ## Definition
 
-A Project is collection of files that describes how database tables are connected to each other and how Bi+ portray those tables.
+Project is collection of files that describes how database tables are connected to each other and how Bi+ portray those tables.
 Bi+ provides an Integrated Development Environment (IDE) for developing and handling the project files.
 
 **Getting Started :**
@@ -74,5 +74,5 @@ Select the project you want to delete and click on **delete icon**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_del.png)
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDI4NDcxMV19
+eyJoaXN0b3J5IjpbLTE1NzEwMTg0NDBdfQ==
 -->
