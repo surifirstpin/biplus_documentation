@@ -35,11 +35,24 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 ```
 **Similarly we can use all the below functionality Using Bi+:**
 ### General
-|  **Name** | **Description** | **Usage & Example** |
-|  :------: | :------: | :------: |
-|  offset | returns the row value of the column mentioned as before or after based on -ve or +ve number given | bi.offset(#{col_name}, row_difference) |
+
+|  **Name** | **Usage & Example** |  |
+|  :------: | :------: | ------ |
+|  offset | Returns the row value of the column mentioned as before or after based on -ve or +ve number given | bi.offset(#{col_name}, row_difference) |
 |  pivot_offset | Returns the cell value of pivot table based on the Row and Column position given respectively.<br/><br/>Row number:  +Ve & -Ve are for below & above positions<br/><br/>Column number : +Ve and -Ve are for after & before positions | bi.pivot_offset(#{col_name} ,m,n)<br/>for Instance: m is row number & n is column number |
+|  contains | bi.contains(expression) | bi.contains(expression) |
+|  row_total | Returns the total value in the row for the preceeding measures(before the present column) | bi.row_total ( ) |
+|  col_total | Returns the total value of the column given inside () | bi.column_total(#{col_name}) |
+|  number | Returns the object argument to a number that represents the object's value.The object may be static or a column name | bi.number(“static”) or bi.number(${col_name})<br/>Ex: bi.number("1234567") returns  1234567 |
+|  int | Returns only integer values of given number or column | bi.int(number) or bi.int(${col_name})<br/>Ex: bi.int(74845.9898) = 74845 |
+|  in_globals | It returns the data from Global parameters based on the common reference.                                                      The reference can be static or a column.  | bi.in_globals(Ref ,”GP_Name.R_Val ”, ”Ref_key” )<br/>Note: Ref can be a column name or static value or userid |
+|  in_global_keys | It returns the data from Global parameters based on the multiple common references.                                                 The references can be static or a column. | bi.in_global_keys([“GP_Rkey1”,”GP_Rkey2”,.....],[Ref1, Ref2,.....],”GP_Name.R_Val”)<br/>Note: Ref1/ Ref2 can be static strings or column names or userid |
+|  calculate_key_group | Returns an aggregated value of a measure based on a dimension with                                                                        futher mention of Row grouping column name. | bi.calculate_key_group(#Ag_col,$Ag_col,#RG_col,$RG_col,$M_col,”agg_type”)<br/>Where Ag= Aggregated & RG for Row Grouping  & M_Col for measure<br/>and agg_type can be sum, avg, min, max, count |
+|  col_running_total | Returns the running total value for a column in each cell | bi.col_running_total(#{col_name}) |
+|  col_running_avg | Returns the average value upto current cell for a column | bi.offset(#{col_name}, row_difference) |
+
 ### Statistics
+
 |  **Name** | **Description** | **Usage & Example** |
 |  :------: | :------: | :------: |
 |  unequal | Returns true / false if the inputs given are not equal. | bi.unequal(m,n)<br/>Returns true if m=n else false |
@@ -66,7 +79,9 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  date_diff | Returns the number of days between two given dates | bi.date_diff(date1,date2) |
 |  days_in_month | Returns the total number of days in a month for a given date / time stamp | bi.days_in_month (${Col_name})<br/>Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 28 |
 |  days_till_month | Returns the total number of days completed in a month for a given date / time stamp | bi.days_till_month (${Col_name})<br/>Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
+
 ### Bitwise Operator
+
 |  **Name** | **Description** | **Usage & Example** |
 |  :------: | :------: | :------: |
 |  bitAnd | Bitwise AND two values, x & y. Ex. bit And(x, y) | bi.bitAnd(53, 131) = 1 |
@@ -77,6 +92,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  rightArithShift | Bitwise right arithmetic shift of a value x by y number of bits, x >> y. | bi.rightArithShift(4, 2) = 1, <br/>bi.rightArithShift([16, -32, 64], 4) = [1, -2, 3] |
 |  rightLogShift | Bitwise right logical shift of value x by y number of bits, x >>> y. | bi.rightLogShift(4, 2) = 1, <br/>bi.rightLogShift([16, -32, 64], 4) = [1, 2, 3] |
 ### Arithmetic
+
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
 |  abs | Returns the absolute value of a number<br/>It removed the -ve symbol for a negative value and displays the result as positive value | bi.abs(${Col_name})<br/>Ex: bi.abs(-2) = 2 |
@@ -109,7 +125,9 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  subtract | Returns the value ontained after subtracting two given values | bi.substract(a,b)<br/>Ex: bi.subtract (4,3) = 4-3 = 1 |
 |  unaryPlus | Returns the Inverse sign of a value, apply a unary plus operation. | bi.unaryPlus(x)<br/>Ex: bi.unaryPlus(3.44) = 3.44  |
 |  xgcd | Returns the extended greatest common divisor for two values. | bi.xgcd(a,b) <br/>For Array type: Returns an array containing 3 integers [div, m, n] where div = gcd(a, b) and a*m + b*n = div<br/>Ex: For bi.xgcd(8,12) = [4,-1,1] |
+
 ### Matrix
+
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
 |  concat | Returns the array or text after concatenating two or more texts or matrices. | bi.concat(a,b)<br/>Ex: bi.concat(“Hello” ,”  World”) = “Hello  World”<br/>For  A = [[1, 2], [5, 6]] & B = [[3, 4], [7, 8]] <br/>bi.concat(A, B) = [[1, 2, 3, 4], [5, 6, 7, 8]] |
@@ -135,11 +153,15 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  trace | Calculate the trace of a matrix: the sum of the elements on the main diagonal of a square matrix. | trace(x) = trace([[1, 2], [3, 4]]); = 5 |
 |  transpose | Transpose a matrix. | transpose(x)<br/>Ex: For  var A = [[1, 2, 3], [4, 5, 6]] then transpose(A); = [[1, 4], [2, 5], [3, 6]] |
 |  zeros | Create a matrix filled with zeros. | var A = [[1, 2, 3], [4, 5, 6]];<br/>zeros(size(A)); = [[0, 0, 0], [0, 0, 0]] |
+
 ### Geometry
+
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
 |  distance | Results the eucledian distance between two points in 2 and 3 dimensional spaces. | distance([x1, y1], [x2, y2]) = distance([0,0], [4,4]) = 5.6569. |
+
 ### String
+
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
 |  format | Returns string format a value of any type, | bi.format(value) = 'value',<br/>Ex: bi.format(6.4)=’6.4’ & bi.format(21385, 2) = '21000' |
@@ -332,5 +354,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzE0ODM4OV19
+eyJoaXN0b3J5IjpbLTk3MTc0NTkzMV19
 -->
