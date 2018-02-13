@@ -36,7 +36,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 **Similarly we can use all the below functionality Using Bi+:**
 ### General
 |  **Name** | **Description** | **Usage & Example** |
-|  :------: | :----------------: | :------: |
+|  :------: | :------: | :------: |
 |  offset | Return the row value of the column mentioned as before or after based on -Ve or +Ve number given | bi.offset(#{col_name}, row_difference) |
 |  pivot_offset | Returns the cell value of pivot table based on the Row and Column position given respectively.<br/>Row number:  +Ve & -Ve are for below & above positions<br/>Column number : +Ve and -Ve are for after & before positions | bi.pivot_offset(#{col_name} ,m,n)<br/>for Instance: m is row number & n is column number |
 |  contains | Returns true/ false after validating expression given inside | bi.contains(expression) |
@@ -49,7 +49,6 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  calculate_key_group | Returns an aggregated value of a measure based on a dimension with futher mention of Row grouping column name | bi.calculate_key_group(#Ag_col,$Ag_col,#RG_col,$RG_col,$M_col,”agg_type”)<br/>Where Ag= Aggregated & RG for Row Grouping  & M_Col for measure<br/>and agg_type can be sum, avg, min, max, count |
 |  col_running_total | Returns the running total value for a column in each cell | bi.col_running_total(#{col_name}) |
 |  col_running_avg | Returns the average value upto current cell for a column | bi.col_running_avg(#{col_name}) |
-
 ### Statistics
 |  **Name** | **Description** | **Usage & Example** |
 |  :------: | :------: | :------: |
@@ -343,5 +342,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTczODE1MDhdfQ==
+eyJoaXN0b3J5IjpbLTI0NjEyMTUwXX0=
 -->
