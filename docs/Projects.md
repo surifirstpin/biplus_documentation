@@ -13,8 +13,7 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model1.png)  
 
    **1.** Click on **new project** button to create new project.
-
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2e860c3c16b2159e12e2d28276401f043ccc05ac/images/new_project.png)
 > Step 1: Project
 
  - **Project name** enter a project name to identify the model file.
@@ -75,5 +74,5 @@ Select the project you want to delete and click on **delete icon**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_del.png)
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxMTg5ODQ0XX0=
+eyJoaXN0b3J5IjpbLTE0MjcwNTk1MzBdfQ==
 -->
