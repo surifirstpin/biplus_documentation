@@ -117,24 +117,6 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 
 #### Constant
 
-|  **Name** | **Description** | **Example** |
-|  :------: | :------: | :------: |
-|  e, E | Returns the Euler’s number, the base of the natural logarithm | 2.71828182845904 |
-|  i | Returns Imaginary unit, defined as i*i = -1. A complex number is described as a + bi, where a is the real part, and b is the imaginary part. | sqrt(-1) |
-|  Infinity | Returns Infinity, a number which is larger than the maximum number that can be handled by a floating point number. | Infinity |
-|  LN2 | Returns the natural logarithm of 2. | 0.6931471805599451 |
-|  LN10 | Returns the natural logarithm of 10. | 2.30258509299404 |
-|  LOG2E | Returns the base-2 logarithm of E | 1.44269504088896 |
-|  LOG10E | Returns the base-10 logarithm of E. | 0.43429448190325104 |
-|  NaN | Not a number. | NaN |
-|  null | Value null. | null |
-|  phi | Phi is the golden ratio in math this is separately coded has unicode glyph ϕ | 1.61803398874989 |
-|  pi, PI | Returns the value of pi which is a mathematical constant that is the ratio of a circle's circumference to its diameter. | 3.14159265358979 |
-|  SQRT1_2 | Returns the square root of 1/2. | 0.707106781186547 |
-|  SQRT2 | Returns the square root of 2. | 1.41421356237309 |
-|  tau | Returns Tau value which is the ratio constant of a circle's circumference to radius, equal to 2 * pi. | 6.28318530717958 |
-|  uninitialized | Constant used as default value when resizing a matrix to leave new entries uninitialized. |  |
-
 ## Usage of #math#plugin# for Grid View
 
             welcome to Biplus
@@ -247,5 +229,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2MzAyMTg5XX0=
+eyJoaXN0b3J5IjpbLTE0ODU2NzYxMzNdfQ==
 -->
