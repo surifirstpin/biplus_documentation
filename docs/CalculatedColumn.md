@@ -146,7 +146,11 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  trace | Calculate the trace of a matrix: the sum of the elements on the main diagonal of a square matrix. | trace(x) = trace([[1, 2], [3, 4]]); = 5 |
 |  transpose | Transpose a matrix. | transpose(x)<br/>Ex: For  var A = [[1, 2, 3], [4, 5, 6]] then transpose(A); = [[1, 4], [2, 5], [3, 6]] |
 |  zeros | Create a matrix filled with zeros. | var A = [[1, 2, 3], [4, 5, 6]];<br/>zeros(size(A)); = [[0, 0, 0], [0, 0, 0]] |
-###Geometry
+### Geometry
+|  **Name** | **Description** | **Example** |
+|  :------: | :------: | :------: |
+|  distance | Results the eucledian distance between two points in 2 and 3 dimensional spaces. | distance([x1, y1], [x2, y2]) = distance([0,0], [4,4]) = 5.6569. |
+### String
 
 ## Usage of #math#plugin# for Grid View
 
@@ -260,5 +264,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDUwODU3OF19
+eyJoaXN0b3J5IjpbODAyNDIzOTMzXX0=
 -->
