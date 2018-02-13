@@ -42,7 +42,8 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |Contains|Returns true/ false after validating expression given inside|bi.contains(expression)|
 |row_total|Returns the total value in the row for the preceding measures (before the present column) |bi.row_total ( )|
 |col_total|Returns the total value of the column given inside ()|bi.column_total(#{col_name})|
-|
+|number|Returns the object argument to a number that represents the object's value.The object may be static or a column name|bi.number(“static”) or bi.number(${col_name})
+Ex: bi.number("1234567") returns  1234567
 
 ### Statistics
 |  **Name** | **Description** | **Usage & Example** |
@@ -344,5 +345,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjYyNTgxMF19
+eyJoaXN0b3J5IjpbMzgxMjY4NzldfQ==
 -->
