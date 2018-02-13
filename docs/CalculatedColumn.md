@@ -77,8 +77,17 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  date_diff | Returns the number of days between two given dates | bi.date_diff(date1,date2) |
 |  days_in_month | Returns the total number of days in a month for a given date / time stamp | bi.days_in_month (${Col_name})<br/>Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 28 |
 |  days_till_month | Returns the total number of days completed in a month for a given date / time stamp | bi.days_till_month (${Col_name})<br/>Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
-
-Save As Markdown
+### Bitwise Operator
+|  **Name** | **Description** | **Usage & Example** |
+|  :------: | :------: | :------: |
+|  bitAnd | Bitwise AND two values, x & y. Ex. bit And(x, y) | bi.bitAnd(53, 131) = 1 |
+|  bitNot | Bitwise NOT value, ~x. | bi.bitNot(1) = -2, <br/>bi.bitNot([2,-3,4]) = [-3,2,5] |
+|  bitOr | Bitwise OR two values, x | y. | bi.bitOr(1,2) = 3, <br/>bi.bitOr([1,2,3],4) = [5,6,7] |
+|  bitXor | Bitwise XOR two values, x ^ y. | bi.bitXor(1, 2) = 3, <br/>bi.bitXor([2, 3, 4], 4) = [6,7,0] |
+|  leftShift | Bitwise left logical shift of a value x by y number of bits, x << y. | bi.leftShift(1, 2) = 4, <br/>bi.leftShift([1, 2, 3], 4) = [16, 32, 64] |
+|  rightArithShift | Bitwise right arithmetic shift of a value x by y number of bits, x >> y. | bi.rightArithShift(4, 2) = 1, <br/>bi.rightArithShift([16, -32, 64], 4) = [1, -2, 3] |
+|  rightLogShift | Bitwise right logical shift of value x by y number of bits, x >>> y. | bi.rightLogShift(4, 2) = 1, <br/>bi.rightLogShift([16, -32, 64], 4) = [1, 2, 3] |
+###
 
 ## Usage of #math#plugin# for Grid View
 
@@ -192,5 +201,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyODQ5MTMyXX0=
+eyJoaXN0b3J5IjpbLTYyMzE4ODQyMF19
 -->
