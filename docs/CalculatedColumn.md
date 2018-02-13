@@ -166,6 +166,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  :------: | :------: | :------: |
 |  format | Returns string format a value of any type, | bi.format(value) = 'value',<br/>Ex: bi.format(6.4)=’6.4’ & bi.format(21385, 2) = '21000' |
 |  print | Return the results after interpolating a value into a string template | bi.print(“String $Value String”,{Value : number})<br/>Ex: bi.print('Lokes is $age years old', {age: 8}) returns<br/> 'Lokesh is 8 years old
+
 ### Relational
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
@@ -354,5 +355,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTc0NTkzMV19
+eyJoaXN0b3J5IjpbLTEzODIxNjA0NDFdfQ==
 -->
