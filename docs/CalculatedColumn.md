@@ -53,9 +53,28 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 ### Statistics
 |  **Name** | **Description** | **Usage & Example** |
 |  :------: | :------: | :------: |
-|  offset | Return the row value of the column mentioned as before or after based on -Ve or +Ve number given | bi.offset(#{col_name}, row_difference) |
+|  unequal | Returns true / false if the inputs given are not equal. | bi.unequal(m,n)<br/>Returns true if m=n else false |
+|  mad | Retruns the Median Absolute Deviation for the inputs | bi.mad(p1,p2,p3,......)<br/>Ex: bi.mad(100,200) = 50 |
+|  max | Returns the maximum value of a matrix or a list with values. | bi.max(p1,p2,p3,.....)<br/>Ex: bi.max(100,200,300) = 300 |
+|  mean | Returns the mean value of a list of values mentioned | bi.mean(p1,p2,p3)<br/>Ex: bi.mean(100,200,300) = 200 |
+|  median | Returns the median value of a list of values mentioned | bi.median(p1,p2,p3,.....) |
+|  mode | Retruns the values which are repeated in the list mentioned | bi.mode(p1,p2,p3,.....)<br/>Ex: bi.mode(1,2,1)=1 |
+|  prod | Returns the product values of the mentioned values | bi.prod(p1,p2,p3,p4,....)<br/>Ex: bi.prod(p1,p2,p3) = p1 * p2 * p3 |
+|  quantileSeq | Returns prob order quantile of a matrix or a list with values | bi.quantileSeq(A, prob[, sorted]) |
+|  std | Returns the standard deviation of a matrix or a list with values. | bi.std(p1,p2,p3 ...)<br/>bi.std(A)<br/>bi.std(A, normalization) |
+|  sum | Returns the sum of list of values mentioned | bi.sum(p1,p2,p3,.....)<br/>Ex: bi.sum(p1,p2,p3) = p1 + p2 +p3 |
+|  var | Returns the variance of a matrix or a list with values | bi.var(p1,p2,p3)<br/>Ex: bi.var(2, 4, 6) = 4 |
 ### Date
-
+|  **Name** | **Description** | **Usage & Example** |
+|  :------: | :------: | :------: |
+|  date_to_week | Returns the week number in the year for the date given | bi.date_to_week(${col_name})<br/>Ex: bi.date_to_week(“2018-02-11”) = 7 |
+|  date_to_month | Returns the month number in the year for the date given | bi.date_to_month(${col_name})<br/>Ex: bi.date_to_month(“2018-02-11”) = 2 |
+|  date_to_quarter | Returns the quarter number in the year for the date given | bi.date_to_quarter(${col_name})<br/>Ex: bi.date_to_quarter(“2018-02-11”) = 1 |
+|  date_to_year | Returns the year for the date given | bi.date_to_year(${col_name})<br/>Ex: bi.date_to_year(“2018-02-11”) = 2018 |
+|  date_format | Returns the required format (supported by the database) of a date given | bi.date_format(${col_name}, “required_format”)<br/>Ex: bi.date_format(“2018-02-10 23:59:50”, “YYYY-MM”) = 2018-02 |
+|  date_diff | Returns the number of days between two given dates | bi.date_diff(date1,date2) |
+|  days_in_month | Returns the total number of days in a month for a given date / time stamp | bi.days_in_month (${Col_name})<br/>Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 28 |
+|  days_till_month | Returns the total number of days completed in a month for a given date / time stamp | bi.days_till_month (${Col_name})<br/>Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 
 ### Bitwise Operator
 
@@ -200,5 +219,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzQwMzgxN119
+eyJoaXN0b3J5IjpbMTQwNzI5MzA4N119
 -->
