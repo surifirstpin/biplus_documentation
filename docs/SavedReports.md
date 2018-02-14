@@ -59,7 +59,7 @@ Here we applied global filter to **Sum count equals to 4** in Analysis section.
 then dashboard global filter override the filter applied in Analysis section resulting in displaying sum count equals to one.
 ## Lookup Single & Multiple
  
- By adding lookup to reports you can refer set of query or list of items in filters.you can add single or multiple lookups to a dashboard report by clicking on **Add Lookups** in **Apply filter** section of dashboard.
+ By adding lookup to reports you can refer set of query or list of items in filters.You can add single or multiple lookups to a dashboard report by clicking on **Add Lookups** in **Apply filter** section of dashboard.
  
 - **Lookup name** name of the lookup field.
 - **Lookup Type**  refers to item or query type.
