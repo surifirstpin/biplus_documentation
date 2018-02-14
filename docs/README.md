@@ -30,8 +30,8 @@ When it comes to business establishment and success, **BI+** software is an inno
 
 
 ### Embedded analytics
-Get a powerful BI tool installed within your own product, application, portal, or website.
+Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software systems and technologies
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTM4NTkwOTJdfQ==
+eyJoaXN0b3J5IjpbOTU2NjMyMDJdfQ==
 -->
