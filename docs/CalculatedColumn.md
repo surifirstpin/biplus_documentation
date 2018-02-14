@@ -52,11 +52,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |calculate_key_group|Returns an aggregated value of a measure based on a dimension with further mention of row grouping column name|bi.calculate_key_group(#Ag_col,$Ag_col,#RG_col,$RG_col,$M_col,”agg_type”Where Ag= Aggregated & RG for Row Grouping  & M_Col for measure and agg_type can be sum, avg, min, max, count"|
 |col_running_total|Returns the running total value for a column in each cell|Bi-col_running_total(#{col_name})|
 |col_running_avg|returns the average value upto current cell for a column|bi.offset(#{col_name},row_difference)|
-bsdhajdadak
 
-
-|col_running_total|Returns the running total value for a column in each cell|bi.col_running_total(#{col_name})|
-|col_running_avg|Returns the average value upto current cell for a column|bi.offset(#{col_name}, row_difference)|
 ### Statistics
 |  **Name** | **Description** | **Usage & Example** |
 |  :------: | :------: | :------: |
@@ -357,5 +353,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTUxNTM2MV19
+eyJoaXN0b3J5IjpbNjczMjU1NjNdfQ==
 -->
