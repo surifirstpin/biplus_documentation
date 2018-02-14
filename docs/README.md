@@ -14,7 +14,7 @@ Import data from files,databases, cloud drives, popular business applications an
 
 ### Smarter visualization
 
-It delivers fine tuned and easy-to-read reports and publish them throughout the organisation to access them on web and mobile devices.  Visualization delivers an innovative pictorial representation of your data in right context. Use advanced analytic integration and geographic calculation to broaden insight. It is fully interactive,easily adjustable and Zoom for better understanding. provides beautiful dashboard layouts to explore data more efficiently.
+It delivers fine tuned and easy-to-read reports and publish them throughout the organisation and can access them easily on web and mobile devices.  Visualization delivers an innovative pictorial representation of your data in right context. Use advanced analytic integration and geographic calculation to broaden insight. It is fully interactive,easily adjustable and Zoom for better understanding. provides beautiful dashboard layouts to explore data more efficiently.
 
 ### Explore from any device
 
@@ -33,5 +33,5 @@ When it comes to business establishment and success, **BI+** software is an inno
 Get a powerful BI tool installed within your own product, application, portal, or website.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODE5NDMyOV19
+eyJoaXN0b3J5IjpbLTEyOTM4NTkwOTJdfQ==
 -->
