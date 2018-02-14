@@ -4,7 +4,7 @@
 ## Define Global Parameter 
 
 It is a flat file data in JSON format which can be used to manipulate, control and set predefined values based on login.
-Bi+ will allow you to organize the data from database using this global parameters as per your business requirement. it can be used in the following ways:
+Bi+ will allow you to organize the data from database using this global parameters as per your business requirement. It can be used in the following ways:
 
 - Control data access based on login.
 - Povide access to predefined list of filter values based on login.
