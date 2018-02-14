@@ -29,7 +29,7 @@ Bi+ enables you to visualize the data retrieved in 9 different chart types with 
 - **Value** Specify a value to which you want to apply condition. 
 - **BG (background colour)** Select the background colour for the data which is retrieved using condition.
 - **Font** Select the font colour for the data retrieved based on condition.
-- **Icon** Select a icon for for the data retrieved based on condition.
+- **Icon** Select a icon for the data retrieved based on condition.
 - **Before number** Align the icon before or after the data.
 ## Line Chart in visualization menu:
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/line_chart.png)
