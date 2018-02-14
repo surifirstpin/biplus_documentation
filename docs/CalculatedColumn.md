@@ -76,8 +76,8 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  date_to_year | Returns the year for the date given | bi.date_to_year(${col_name})<br/>Ex: bi.date_to_year(“2018-02-11”) = 2018 |
 |  date_format | Returns the required format (supported by the database) of a date given |bi.date_format(${col_name}, “required_format”) Ex: bi.date_format(“2018-02-10 235950”, “YYYY-MM”) = 2018-02 |
 | date_diff | Returns the number of days between two given dates | bi.date_diff(date1,date2) |
-|  days_in_month | Returns the total number of days in a month for a given date / time stamp | bi.days_in_month (${Col_name})<br/>Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 28 |
-|  days_till_month | Returns the total number of days completed in a month for a given date / time stamp | bi.days_till_month (${Col_name})<br/>Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
+| days_in_month | Returns the total number of days in a month for a given date / time stamp | bi.days_in_month (${Col_name})<br/>Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 28 |
+| days_till_month | Returns the total number of days completed in a month for a given date / time stamp | bi.days_till_month (${Col_name})<br/>Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 
 ### Bitwise Operator
 |  **Name** | **Description** | **Usage & Example** |
@@ -351,5 +351,5 @@ We can get quantity_sum difference of each month for specific customer using Piv
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODkzNjAxNF19
+eyJoaXN0b3J5IjpbLTcxMzQ3Njk3MF19
 -->
