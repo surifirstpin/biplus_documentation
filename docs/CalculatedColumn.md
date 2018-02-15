@@ -231,14 +231,9 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 ### Utils :		
 |Name|Description|Example|
 |--|--|--|
-|to|Returns the converted unit value of a given value|"bi.unit(""x unit1"").to(""unit2"")
-Ex: bi.number(bi.unit(""2 inch"").to(""cm""),""cm"") = 5.08 bi.number(bi.unit(""16 bytes"").to(""bits""),""bits"") = 128"|
-|clone|Clone an object|"bi.clone(x) 
-Ex: bi.clone(“3.5”) = 3.5"|
-|isInteger|"Returns true / false after validating the given value is integer
-true if the given value is integer or else false"|"bi.inInteger(value)
-Ex: bi.isInteger(2) = true, 
-       bi.isInteger(2.5) = false"|isNaN|Returns true / false after validating the given value  whether it is NaN (not a number)	"bi.isNaN(value)
+|to|Returns the converted unit value of a given value|"bi.unit(""x unit1"").to(""unit2"")Ex: bi.number(bi.unit(""2 inch"").to(""cm""),""cm"") = 5.08 bi.number(bi.unit(""16 bytes"").to(""bits""),""bits"") = 128"|
+|clone|Clone an object|"bi.clone(x) Ex: bi.clone(“3.5”) = 3.5"|
+|isInteger|"Returns true / false after validating the given value is integertrue if the given value is integer or else false"|"bi.inInteger(value)Ex: bi.isInteger(2) = true, bi.isInteger(2.5) = false"|isNaN|Returns true / false after validating the given value  whether it is NaN (not a number)	"bi.isNaN(value)
 Ex: bi.isNaN(3) = false, 
       bi.isNaN(NaN) = true"
 |isPositive|"Returns true / false after validating the given value is positive
@@ -395,5 +390,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIyOTMxMjRdfQ==
+eyJoaXN0b3J5IjpbLTE4MTczMzYyMjJdfQ==
 -->
