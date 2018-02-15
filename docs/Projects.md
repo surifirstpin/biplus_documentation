@@ -33,6 +33,7 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 ## Add tables from Database
 
 - Select the table fields in by selecting the check boxes in **Table** section, All the selected tables are visible under **Selected Tables** section.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/add_tables.png)
 
 ## Auto Build Joins
@@ -60,6 +61,7 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 
 ## Remove tables from Database 
 To remove tables from database select the check boxes under **Selected Tables** section or else you can click on **deselect all** to remove all tables at a time.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0e5fb234751d7b3cd7f8f40b1ad7d79bca7c22d7/images/remove_tables.png)
 > Once we save the created project the data is reflected in model screen as shown in below image:
 
@@ -74,5 +76,5 @@ Select the project you want to delete and click on **delete icon**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_del.png)
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTgwMjQ1MjNdfQ==
+eyJoaXN0b3J5IjpbMjI2NTc5NTM3XX0=
 -->
