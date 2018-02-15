@@ -47,7 +47,8 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |in_globals|Returns the data from Global parameters based on the common reference. The reference can be static or a column|bi.in_globals(Ref ,”GP_Name.R_Val ”, ”Ref_key” ) **Note:** Ref can be a column name or static value or userid|
 |in_global_key|it returns the data from global parameters based on the multiple common references.this references can be static or column|bi.in_global_keys ([“GP_Rkey1”,”GP_Rkey2”,.....],[Ref1, Ref2,.....],”GP_Name.R_Val”)
 Note: Ref1/Ref2 can be static strings or column names or userid|
-|calculate_key_group|Returns an aggregated value of a measure based on a dimension with further mention of row grouping column name|bi.calculate_key_group(#Ag_col,$Ag_col, #RG_col,$RG_col, $M_col,”agg_type” Where Ag=aggregated & RG for row Grouping & M_Col for measure and agg_type can be sum, avg, min, max, count"|
+|calculate_key_group|Returns an aggregated value of a measure based on a dimension with further mention of row grouping column name|bi.calculate_key_group(#Ag_col,$Ag_col,#RG_col,$RG_col,$M_col,”agg_type”)
+Where Ag= Aggregated & RG for Row Grouping  & M_Col for measure and agg_type can be sum, avg, min, max, count|
 |col_running_total|Returns the running total value for a column in each cell|Bi-col_running_total(#{col_name})|
 |col_running_avg|Returns the average value upto current cell for a column|bi.offset (#{col_name},row_difference)|
 
@@ -377,5 +378,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjQ4MjU5OF19
+eyJoaXN0b3J5IjpbLTgzMzk5NzkxXX0=
 -->
