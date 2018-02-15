@@ -360,7 +360,7 @@ It will easeup the process of calculations When a series of statements or action
 
 function fname(param1, param2, param3 ...){
 
-/ FunctSTART*/
+/ Function bodSTART*/
 statement 1;
 statement 2;
 statement 3;
@@ -375,5 +375,5 @@ return `;
 
 fname(value1, value2, value3, .....)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDg5MzgzOV19
+eyJoaXN0b3J5IjpbLTY0MDk2MzU1MF19
 -->
