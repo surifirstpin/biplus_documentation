@@ -127,7 +127,7 @@ Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
 |  concat | Returns the array or text after concatenating two or more texts or matrices. | bi.concat(a,b)<br/>Ex: bi.concat(“Hello” ,”  World”) = “Hello  World”<br/>For  A = [[1, 2], [5, 6]] & B = [[3, 4], [7, 8]] <br/>bi.concat(A, B) = [[1, 2, 3, 4], [5, 6, 7, 8]] |
-|  Cross | Returns the cross product for two vectors in three dimensional space. | cross(A, B) = [ a2 b3 - a3 b2, a3 b1 - a1 b3, a1 b2 - a2b1 ]  |
+|  Cross | Returns the cross product for two vectors in three dimensional space. |Ex:bi.cross(A, B) = [ a2 b3 - a3 b2, a3 b1 - a1 b3, a1 b2 - a2b1 ] |
 |  det | Returns the determinant of a matrix. | bi.det([[1, 2], [3, 4]]) = -2 |
 |  dot | Returns the dot product of two vectors. | bi.dot(A, B) = a1 b1 + a2 b2 + a3 b3 + … + an bn, <br/>Ex: bi.dot([2, 4, 1], [2, 2, 3]) = 15 |
 |  eye | Create a 2-dimensional identity matrix with size m x n or n x n. | eye(3) = [[1, 0, 0], [0, 1, 0], [0, 0, 1]], eye(3, 2) = [[1, 0], [0, 1], [0, 0]] |
@@ -379,5 +379,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyNDY2NjkyXX0=
+eyJoaXN0b3J5IjpbOTkxOTgzMDY4XX0=
 -->
