@@ -361,6 +361,7 @@ It will easeup the process of calculations When a series of statements or action
 function fname(param1, param2, param3 ...){
 
 / Function body*/
+
 statement 1;
 statement 2;
 statement 3;
@@ -370,10 +371,11 @@ statement 3;
 return `;   
 
 }
-
 /*END*/
 
+
+/*Call Function*/
 fname(value1, value2, value3, .....)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTQ3NTg1MV19
+eyJoaXN0b3J5IjpbOTk5MjQ4NTUxXX0=
 -->
