@@ -4,7 +4,7 @@
 
 A functionality which allows to manipulate the retrieved data using arithmetical, logical, text-based and date-based functions and then displays it in the required format. Calculated columns will show up as green in the data table, rather than as blue (dimensions), or orange (measures). Just like regular dimensions and measures, calculated columns are controlled from display in visualizations.
 
-**Usage:**
+**Usage :**
 
 1. Supports a wide variety of arithmetical and logical functions to be applied on the data.
 2. Calculates using the data from external parameters (through "Global parameters") by making reference to the database field(s). 
@@ -379,5 +379,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwNzQwMjQ5XX0=
+eyJoaXN0b3J5IjpbMTA2MjUzMzE1NV19
 -->
