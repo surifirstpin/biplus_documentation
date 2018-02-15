@@ -3,6 +3,7 @@
 Bi+ allows you to create different type of charts and graphs depending on the data retrieved.
 
 ## Types of Visualization
+
 Bi+ enables you to visualize the data retrieved in 9 different chart types with some standard editing options.
 
 **01. General Section :**
@@ -10,14 +11,12 @@ Bi+ enables you to visualize the data retrieved in 9 different chart types with 
 - **Padding** sets the spacing at the top,bottom,left and right side of the charts
 
 **02.  X-Axis :**
-
 - **Axis type** type of axis used in the charts for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column, timeframe refer to the time-format of the data.
 - **Label field** Label the field name in x-axis using grid display.
 - **Axis label** provides label to x-axis.
 - **Reference Line** is used to refer specific values by applying colors to it.
 
 **03. Y-Axis :**
-
 - **Axis type** type of axis used in charts.
 - **Label field** Label the field name in Y-axis using grid display, including or excluding zero and aligning left or right position to y-axis.
 - **Reference Line**  is used to refer specific values by applying colors to it.
@@ -31,6 +30,7 @@ Bi+ enables you to visualize the data retrieved in 9 different chart types with 
 - **Font** Select the font colour for the data retrieved based on condition.
 - **Icon** Select a icon for the data retrieved based on condition.
 - **Before number** Align the icon before or after the data.
+
 ## Line Chart in visualization menu:
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/line_chart.png)
  
@@ -55,11 +55,15 @@ Below are the list of markers used in Bi+,
 
 
 ## Polar Area
+
 Displays polar area of the dimensions
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/polar_area.png)
 
 ## Donut 
+
 Converts pie chart to donut.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/donut.png)
 
 ## Radar chart 
@@ -204,4 +208,7 @@ Red color indicates the value attained is initial state or low.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU5MDI4Mzk2OF19
 -->
