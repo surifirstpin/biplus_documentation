@@ -6,6 +6,7 @@ A variable that is defined as global is accessed anywhere in the report.
 **Getting Started :** 
 >Path :  Settings-->click on global functions. 
  1. Click on Add-Functions to create new function.
+ 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9712e86a6881444e961d60dfc6aab30bf665172/images/func1.png)
 
 ** Syntax : **
@@ -45,14 +46,18 @@ This functions supports all the native java script supported functions and you c
 ## Edit Function
 
 4. To **Edit** the function enable edit key.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/733be26f2d58ffc41ec83bc979234243c5417a2e/images/edit_func.png)
 
 ## Delete Function
-5. To **Delete** the function click on delete button
+
+5. To **Delete** the function click on delete button.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3e9f75a909b59664ffe91af0ad16c2c9859586cf/images/del_func.png)
 
 ## Developer Privileges
+
 All the users have privilege to access global functions in calculated column,  but admin and developer can create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTY0MDA3N119
+eyJoaXN0b3J5IjpbLTQ3NjA0NjQ3XX0=
 -->
