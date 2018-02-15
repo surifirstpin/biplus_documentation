@@ -221,7 +221,9 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  isPrime | Results true / false after validating  the given value is  whether a prime number | bi.isPrime(value)<br/>Ex: bi.isPrime(3) = true, <br/>       bi.isPrime(4) = false |
 |  isZero | Results true / false after validating  the given value is  whether it is zero | bi.isZero(value)<br/>Ex: bi.isZero(1) = false, <br/>       bi.isZero(0) = true |
 |  typeof | Determine the type of a variable. | typeof(3.5) = number, <br/>typeof(math.complex('2-4i')) = complex, <br/>typeof(math.unit('45 deg')) = Unit <br/>Typeof('hello world') = string |
+
 ### Constant
+
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
 |  e, E | Returns the Euler’s number, the base of the natural logarithm | 2.71828182845904 |
@@ -239,6 +241,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  SQRT2 | Returns the square root of 2. | 1.41421356237309 |
 |  tau | Returns Tau value which is the ratio constant of a circle's circumference to radius, equal to 2 * pi. | 6.28318530717958 |
 |  uninitialized | Constant used as default value when resizing a matrix to leave new entries uninitialized | - |
+
 ## Usage of #math#plugin# for Grid View
 
             welcome to Biplus
@@ -376,5 +379,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjUwMTY5NDhdfQ==
+eyJoaXN0b3J5IjpbNzU4MzU1MTU4XX0=
 -->
