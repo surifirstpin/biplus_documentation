@@ -127,9 +127,9 @@ Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
 |  concat | Returns the array or text after concatenating two or more texts or matrices. | bi.concat(a,b)<br/>Ex: bi.concat(“Hello” ,”  World”) = “Hello  World”<br/>For  A = [[1, 2], [5, 6]] & B = [[3, 4], [7, 8]] <br/>bi.concat(A, B) = [[1, 2, 3, 4], [5, 6, 7, 8]] |
-|  Cross | Returns the cross product for two vectors in three dimensional space. | Ex:bi.cross(A, B) = [ a2 b3 - a3 b2, a3 b1 - a1 b3, a1 b2 - a2b1 ]  |
+|  Cross | Returns the cross product for two vectors in three dimensional space. | Ex:bi.cross(A, B) = [ a2 b3 - a3 b2, a3 b1 - a1 b3, a1 b2 - a2b1 ]  |
 |  det | Returns the determinant of a matrix. | bi.det([[1, 2], [3, 4]]) = -2 |
-|  dot | Returns the dot product of two vectors. | bi.dot(A, B) = a1 b1 + a2 b2 + a3 b3 + … + an bn, <br/>Ex: bi.dot([2, 4, 1], [2, 2, 3]) = 15 |
+|  dot | Returns the dot product of two vectors. | bi.dot(A, B) = a1 b1 + a2 b2 + a3 b3 + … + an bn, <br/>Ex: bi.dot([2, 4, 1], [2, 2, 3]) = 15 |
 |  eye | Create a 2-dimensional identity matrix with size m x n or n x n. | Ex: bi.eye(3) = [[1, 0, 0], [0, 1, 0], [0, 0, 1]], <br/>       bi.eye(3, 2) = [[1, 0], [0, 1], [0, 0]] |
 |  filter | Filter the items in an array or one dimensional matrix. | Ex: bi.filter([6, -2, -1, 4, 3], isPositive) = [6, 4, 3], <br/>       bi.Filter(["23", "foo", "100", "55", "bar"], /[0-9]+/) = ["23", "100", "55"] |
 |  flatten | Flatten a multi dimensional matrix into a single dimensional matrix. | Ex: bi.flatten([[1,2], [3,4]]) = [1, 2, 3, 4] |
@@ -229,18 +229,18 @@ Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 |to|Returns the converted unit value of a given value|Ex: bi.unit("2 inch").to("cm") |
 
 ### Utils :		
-|Name|Description|Example|
-|--|--|--|
-|to|Returns the converted unit value of a given value|"bi.unit(""x unit1"").to(""unit2"")Ex: bi.number(bi.unit(""2 inch"").to(""cm""),""cm"") = 5.08 bi.number(bi.unit(""16 bytes"").to(""bits""),""bits"") = 128"|
-|clone|Clone an object|"bi.clone(x) Ex: bi.clone(“3.5”) = 3.5"|
-|isInteger|"Returns true / false after validating the given value is integer true if the given value is integer or else false"|"bi.inInteger(value)    Ex: bi.isInteger(2) = true, bi.isInteger(2.5)false"
-|isNaN|Returns true / false after validating the given value  whether it is NaN (not a number)|"bi.isNaN(value) Ex: bi.isNaN(3) = false,  bi.isNaN(NaN) = true"
-|isPositive|"Returns true / false after validating the given value is positive true if the given value is integer or else false"|"bi.isPositive(value) Ex: bi.isPositive(3) = true, bi.isPositive(-3) = false"
-|isNegative|"Returns true / false after validating the given value is negative true if the given value is integer or else false"|"bi.isNegative(value) Ex: bi.isNegative(3) = false, bi.isNegative(-3) = true"
-|isNumeric|Returns true / flase after validating the given value is numeric or not|"bi.isNumeric(value)Ex: bi.isNumeric(3) = true,bi.isNumeric(“string”) =false"|
-|isPrime|Results true / false after validating  the given value is  whether a primenumber|"bi.isPrime(value)Ex: bi.isPrime(3) = true,bi.isPrime(4) = false"|
-|isZero|Results true / false after validating  the given value is  whether it is zero|"bi.isZero(value)Ex: bi.isZero(1) = false,bi.isZero(0) = true"|
-|typeof|Determine the type of a variable.|"bi.typeof(3.5) = number, bi.typeof(math.complex('2-4i')) = complex,bi.typeof('hello world') = string"|
+|  **Name** | **Description** | **Example** |
+|  :------: | :------: | :------: |
+|  to | Returns the converted unit value of a given value | bi.unit("x unit1").to("unit2")<br/>Ex: bi.number(bi.unit("2 inch").to("cm"),"cm") = 5.08 <br/>       bi.number(bi.unit("16 bytes").to("bits"),"bits") = 128 |
+|  clone | Clone an object. | bi.clone(x) <br/>Ex: bi.clone(“3.5”) = 3.5 |
+|  isInteger | Returns true / false after validating the given value is integer<br/>true if the given value is integer or else false | bi.inInteger(value)<br/>Ex: bi.isInteger(2) = true, <br/>       bi.isInteger(2.5) = false |
+|  isNaN | Returns true / false after validating the given value  whether it is NaN (not a number) | bi.isNaN(value)<br/>Ex: bi.isNaN(3) = false, <br/>      bi.isNaN(NaN) = true |
+|  isPositive | Returns true / false after validating the given value is positive<br/>true if the given value is integer or else false | bi.isPositive(value)<br/>Ex: bi.isPositive(3) = true, <br/>      bi.isPositive(-3) = false |
+|  isNegative | Returns true / false after validating the given value is negative<br/>true if the given value is integer or else false | bi.isNegative(value)<br/>Ex: bi.isNegative(3) = false, <br/>      bi.isNegative(-3) = true |
+|  isNumeric | Returns true / flase after validating the given value is numeric or not | bi.isNumeric(value)<br/>Ex: bi.isNumeric(3) = true, <br/>      bi.isNumeric(“string”) = false |
+|  isPrime | Results true / false after validating  the given value is  whether a prime number | bi.isPrime(value)<br/>Ex: bi.isPrime(3) = true, <br/>       bi.isPrime(4) = false |
+|  isZero | Results true / false after validating  the given value is  whether it is zero | bi.isZero(value)<br/>Ex: bi.isZero(1) = false, <br/>       bi.isZero(0) = true |
+|  typeof | Determine the type of a variable. | bi.typeof(3.5) = number, <br/>bi.typeof(math.complex('2-4i')) = complex,<br/>bi.typeof('hello world') = string |
 
 ## Usage of #math#plugin# for Grid View
 
@@ -379,5 +379,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3MDcxMTc4XX0=
+eyJoaXN0b3J5IjpbNDAyMzU5NTFdfQ==
 -->
