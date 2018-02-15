@@ -24,20 +24,14 @@
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/demo%20image.png)
 
  **Name** Specify a name to define connection
-  
  **Database(dialect)** choose a appropriate dialect that matches your connection. 
-   
 >Note: As per your requirement we can include the dialects needed to run the business.
 
-**Host**  database host path
- 
-**Database** name of the database
-
-**Username and Password** to connect the database
-
-**Maximum connection** concurrent connection used by  database
- 
-**Additional Parameters** include any additional JDBC parameter in this section
+**Host**  database host path.
+**Database** name of the database.
+**Username and Password** to connect the database.
+**Maximum connection** concurrent connection used by  database.
+**Additional Parameters** include any additional JDBC parameter in this section.
 
    
 ## SSH 
@@ -83,7 +77,7 @@ Once you have Setup the Database connection you can further take up the process 
   - **Create Project** to control data in model
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTY2NDkxMiwxNDkwMzM5Nzc2LC04MT
+eyJoaXN0b3J5IjpbMTc4NTI2MjY4NiwxNDkwMzM5Nzc2LC04MT
 Q3MzU2OTcsLTQxODE4ODA5NCwxNjU0ODMwODcxLDY5Njg2NDkx
 NSwxMzY0NzQyNzEzLC0xODQxNDk5MjksLTcyNDQ0OTc4LDE2Mz
 gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
