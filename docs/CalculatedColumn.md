@@ -360,8 +360,6 @@ It will easeup the process of calculations When a series of statements or action
 
 function fname(param1, param2, param3 ...){
 
-/ Function body*/
-
 statement 1;
 statement 2;
 statement 3;
@@ -377,5 +375,5 @@ fname(value1, value2, value3, .....)  //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDE2NTg4NF19
+eyJoaXN0b3J5IjpbLTE3OTkyOTA1ODBdfQ==
 -->
