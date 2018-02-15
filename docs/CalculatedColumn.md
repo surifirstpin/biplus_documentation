@@ -237,15 +237,11 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |isNaN|Returns true / false after validating the given value  whether it is NaN (not a number)|"bi.isNaN(value) Ex: bi.isNaN(3) = false,  bi.isNaN(NaN) = true"
 |isPositive|"Returns true / false after validating the given value is positive true if the given value is integer or else false"|"bi.isPositive(value) Ex: bi.isPositive(3) = true, bi.isPositive(-3) = false"
 |isNegative|"Returns true / false after validating the given value is negative true if the given value is integer or else false"|"bi.isNegative(value) Ex: bi.isNegative(3) = false, bi.isNegative(-3) = true"
-|isNumeric|Returns true / flase after validating the given value is numeric or not|"bi.isNumeric(value)
-Ex: bi.isNumeric(3) = true,bi.isNumeric(“string”) = false"|
-|isPrime|Results true / false after validating  the given value is  whether a prime number|"bi.isPrime(value)
-Ex: bi.isPrime(3) = true,bi.isPrime(4) = false"|
-|isZero|Results true / false after validating  the given value is  whether it is zero|"bi.isZero(value)
-Ex: bi.isZero(1) = false,bi.isZero(0) = true"|
-|typeof|Determine the type of a variable.|"bi.typeof(3.5) = number, 
-bi.typeof(math.complex('2-4i')) = complex,
-bi.typeof('hello world') = string"|
+|isNumeric|Returns true / flase after validating the given value is numeric or not|"bi.isNumeric(value)Ex: bi.isNumeric(3) = true,bi.isNumeric(“string”) =false"|
+|isPrime|Results true / false after validating  the given value is  whether a primenumber|"bi.isPrime(value)Ex: bi.isPrime(3) = true,bi.isPrime(4) = false"|
+|isZero|Results true / false after validating  the given value is  whether it is zero|"bi.isZero(value)Ex: bi.isZero(1) = false,bi.isZero(0) = true"|
+|typeof|Determine the type of a variable.|"bi.typeof(3.5) = number, bi.typeof(math.complex('2-4i')) = complex,bi.typeof('hello world') = string"|
+
 ## Usage of #math#plugin# for Grid View
 
             welcome to Biplus
@@ -383,5 +379,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU4NDU5NDFdfQ==
+eyJoaXN0b3J5IjpbLTE4MTg0OTQ3NTFdfQ==
 -->
