@@ -48,13 +48,11 @@
   - IP address or DNS name of the tunnel server as seen from the public internet
   - SSH port of the tunnel server as seen from the public internet
   - Username on the tunnel server for the SSH connection (the standard is looker)
-
 **3. Dialects** select the accurate dialect from the list using drop down option.
 
 ## Test and Save Connection
 
 **4. Test Connection** Checks if the entered information is running accurately.
-
 **5. Add Connection** Establish and save the connection.
 
 >After establishing the connection you can see the list of connections names on left side toolbar
@@ -62,10 +60,12 @@
 ## Edit a connection
 
    **6.** click on **Edit** option available on right side of your connection name to make changes.
+   
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eae5d23007893f45fcaab8db33c5a707e1a7911a/images/edit_conn.png)
 ## Delete a connection
 
 **7.** click on **Delete** option available on far right of your connection name to delete the connection from database.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eae5d23007893f45fcaab8db33c5a707e1a7911a/images/del_conn.png)
 
 ##  Dialects supported
@@ -78,8 +78,8 @@ Once you have Setup the Database connection you can further take up the process 
   - **Create Project** to control data in model
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODE4MjIwMCwxNDkwMzM5Nzc2LC04MT
-Q3MzU2OTcsLTQxODE4ODA5NCwxNjU0ODMwODcxLDY5Njg2NDkx
-NSwxMzY0NzQyNzEzLC0xODQxNDk5MjksLTcyNDQ0OTc4LDE2Mz
-gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
+eyJoaXN0b3J5IjpbLTE3NDMzNTE5NzgsMTQ5MDMzOTc3NiwtOD
+E0NzM1Njk3LC00MTgxODgwOTQsMTY1NDgzMDg3MSw2OTY4NjQ5
+MTUsMTM2NDc0MjcxMywtMTg0MTQ5OTI5LC03MjQ0NDk3OCwxNj
+M4MTE3ODgyLC0xMjcxMDk5NDM2XX0=
 -->
