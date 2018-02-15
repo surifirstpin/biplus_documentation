@@ -127,28 +127,28 @@ Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
 |  concat | Returns the array or text after concatenating two or more texts or matrices. | bi.concat(a,b)<br/>Ex: bi.concat(“Hello” ,”  World”) = “Hello  World”<br/>For  A = [[1, 2], [5, 6]] & B = [[3, 4], [7, 8]] <br/>bi.concat(A, B) = [[1, 2, 3, 4], [5, 6, 7, 8]] |
-|  Cross | Returns the cross product for two vectors in three dimensional space. |Ex:bi.cross(A, B) = [ a2 b3 - a3 b2, a3 b1 - a1 b3, a1 b2 - a2b1 ] |
+|  Cross | Returns the cross product for two vectors in three dimensional space. | Ex:bi.cross(A, B) = [ a2 b3 - a3 b2, a3 b1 - a1 b3, a1 b2 - a2b1 ]  |
 |  det | Returns the determinant of a matrix. | bi.det([[1, 2], [3, 4]]) = -2 |
-|  dot | Returns the dot product of two vectors. | bi.dot(A, B) = a1 b1 + a2 b2 + a3 b3 + … + an bn, <br/>Ex: bi.dot([2, 4, 1], [2, 2, 3]) = 15 |
-|  eye | Create a 2-dimensional identity matrix with size m x n or n x n. | eye(3) = [[1, 0, 0], [0, 1, 0], [0, 0, 1]], eye(3, 2) = [[1, 0], [0, 1], [0, 0]] |
-|  filter | Filter the items in an array or one dimensional matrix. | filter([6, -2, -1, 4, 3], isPositive) = [6, 4, 3], <br/>Filter(["23", "foo", "100", "55", "bar"], /[0-9]+/) = ["23", "100", "55"] |
-|  flatten | Flatten a multi dimensional matrix into a single dimensional matrix. | flatten([[1,2], [3,4]]) = [1, 2, 3, 4] |
-|  forEach | Iterate over all elements of a matrix/array, and executes the given callback function. | forEach([1, 2, 3], function(value) { console.log(value);}); = 1,2,3 |
-|  inv | Calculate the inverse of a square matrix. | inv(x) = inv(4); 1/4 = 0.25 |
-|  kron | Calculates the kronecker product of 2 matrices or vectors. | kron([1,1], [2,3,4]) = [ [ 2, 3, 4, 2, 3, 4 ] ] |
-|  map | Create a new matrix or array with the results of the callback function executed on each entry of the matrix/array. | map([1, 2, 3], function(value) { return value * value;}); = [1,4,9] |
-|  ones | Create a matrix filled with ones. | ones(3) = [1, 1, 1], ones(3, 2) = [[1, 1], [1, 1], [1, 1]] |
-|  partitionSelect | Partition-based selection of an array or 1D matrix. | function sortByLength (a, b) { return a.length - b.length;} partitionSelect(['Langdon', 'Tom', 'Sara'], 2, sortByLength); = 'Langdon' |
-|  range | Create an array from a range. | range(2, 6) = [2, 3, 4, 5], <br/>range(2, -3, -1) = [2, 1, 0, -1, -2], <br/>range(2, 6, true) = [2, 3, 4, 5, 6] |
-|  reshape | Reshape a multi dimensional array to fit the specified dimensions. | reshape(x, sizes) = var x = matrix([1, 2, 3, 4, 5, 6, 7, 8]);<br/>reshape(x, [2, 2, 2]); = [[[1, 2], [3, 4]], [[5, 6], [7, 8]]] |
-|  resize | Resize a matrix | resize(x, size, defaultValue) <br/>Ex: resize([1, 2, 3, 4, 5], [3]) = [1,2,3], <br/>       resize("hello", [8], "!") = 'hello!!!' |
-|  size | Calculate the size of a matrix or scalar. | size(x) <br/>Ex: size('hello world') = [11], <br/>For var A = [[1, 2, 3], [4, 5, 6]] then size(A) = [2, 3] |
-|  sort | Sort the items in a matrix. | sort(x, compare) = function sortByLength (a, b) {<br/>return a.length - b.length;<br/>} sort(['Langdon', 'Tom', 'Sara'], sortByLength); = ['Tom', 'Sara', 'Langdon'] |
-|  squeeze | Squeeze a matrix, remove inner and outer singleton dimensions from a matrix. | squeeze(x) <br/>Ex: For var A = zeros(3, 1); = [[0], [0], [0]] (size 3x1)<br/>squeeze(A); = [0, 0, 0] (size 3) |
-|  subset | Get or set a subset of a matrix or string. | subset(value, index, replacement [, defaultValue])<br/>Ex: For var e = [];<br/>var f = subset(e, index(0, [0, 2]), [5, 6]) then  f = [[5, 6]]<br/>var g = subset(f, index(1, 1), 7, 0) then g = [[5, 6], [0, 7]] |
-|  trace | Calculate the trace of a matrix: the sum of the elements on the main diagonal of a square matrix. | trace(x) = trace([[1, 2], [3, 4]]); = 5 |
-|  transpose | Transpose a matrix. | transpose(x)<br/>Ex: For  var A = [[1, 2, 3], [4, 5, 6]] then transpose(A); = [[1, 4], [2, 5], [3, 6]] |
-|  zeros | Create a matrix filled with zeros. | var A = [[1, 2, 3], [4, 5, 6]];<br/>zeros(size(A)); = [[0, 0, 0], [0, 0, 0]] |
+|  dot | Returns the dot product of two vectors. | bi.dot(A, B) = a1 b1 + a2 b2 + a3 b3 + … + an bn, <br/>Ex: bi.dot([2, 4, 1], [2, 2, 3]) = 15 |
+|  eye | Create a 2-dimensional identity matrix with size m x n or n x n. | Ex: bi.eye(3) = [[1, 0, 0], [0, 1, 0], [0, 0, 1]], <br/>       bi.eye(3, 2) = [[1, 0], [0, 1], [0, 0]] |
+|  filter | Filter the items in an array or one dimensional matrix. | Ex: bi.filter([6, -2, -1, 4, 3], isPositive) = [6, 4, 3], <br/>       bi.Filter(["23", "foo", "100", "55", "bar"], /[0-9]+/) = ["23", "100", "55"] |
+|  flatten | Flatten a multi dimensional matrix into a single dimensional matrix. | Ex: bi.flatten([[1,2], [3,4]]) = [1, 2, 3, 4] |
+|  forEach | Iterate over all elements of a matrix/array, and executes the given callback function. | Ex: bi.forEach([1, 2, 3],  function(value) { console.log(value);})<br/>Return 1,2,3 |
+|  inv | Calculate the inverse of a square matrix. | bi.inv(value)<br/>Ex: inv(x) = inv(4) = 1/4 = 0.25 |
+|  kron | Calculates the kronecker product of 2 matrices or vectors. | bi.kron([1,1], [2,3,4]) = [ [ 2, 3, 4, 2, 3, 4 ] ] |
+|  map | Create a new matrix or array with the results of the callback function executed on each entry of the matrix/array. | Ex: bi.map([1, 2, 3], function(value) { return value * value;})<br/>      Returns [1,4,9] |
+|  ones | Create a matrix filled with ones. | Ex: ones(3) = [1, 1, 1], <br/>       Ones(3, 2) = [[1, 1], [1, 1], [1, 1]] |
+|  partitionSelect | Partition-based selection of an array or 1D matrix. | Ex: function sortByLength (a, b) { <br/>       return a.length – b.length;<br/>       } <br/>bi.partitionSelect(['Langdon', 'Tom', 'Sara'], 2, sortByLength); <br/>returns 'Langdon' |
+|  range | Create an array from a range. | bi.range(m,n)<br/>Ex: bi.range(2, 6) = [2, 3, 4, 5], <br/>      bi.range(2, -3, -1) = [2, 1, 0, -1, -2] |
+|  reshape | Reshape a multi dimensional array to fit the specified dimensions. | bi.reshape(x, sizes)<br/>Ex: For var x = matrix([1, 2, 3, 4, 5, 6, 7, 8]);<br/>       bi.reshape(x, [2, 2, 2])  = [[[1, 2], [3, 4]], [[5, 6], [7, 8]]] |
+|  resize | Resize a matrix | bi.resize(x, size, defaultValue) <br/>Ex: bi.resize([1, 2, 3, 4, 5], [3]) = [1,2,3], <br/>       bi.resize("hello", [8], "!") = 'hello!!!' |
+|  size | Calculate the size of a matrix or scalar. | bi.size(x) <br/>Ex: size('hello world') = [11], <br/>For var A = [[1, 2, 3], [4, 5, 6]] then size(A) = [2, 3] |
+|  sort | Sort the items in a matrix. | bi.sort(x, compare) <br/>Ex:  function sortByLength (a, b) {<br/>        return a.length – b.length;<br/>        } <br/>bi.sort(['Langdon', 'Tom', 'Sara'], sortByLength);<br/>Returns  ['Tom', 'Sara', 'Langdon'] |
+|  squeeze | Squeeze a matrix, remove inner and outer singleton dimensions from a matrix. | bi.squeeze(x) <br/>Ex: For var A = zeros(3, 1); = [[0], [0], [0]] (size 3x1)<br/>       bi.squeeze(A);  returns  [0, 0, 0] (size 3) |
+|  subset | Get or set a subset of a matrix or string. | bi.subset(value, index, replacement [, defaultValue])<br/>Ex: For var e = [];<br/>var f = subset(e, index(0, [0, 2]), [5, 6]) then  f = [[5, 6]]<br/>var g = subset(f, index(1, 1), 7, 0) then g = [[5, 6], [0, 7]] |
+|  trace | Calculate the trace of a matrix: the sum of the elements on the main diagonal of a square matrix. | bi.trace(x)<br/>Ex: bi.trace([[1, 2], [3, 4]]) returns 5 |
+|  transpose | Transpose a matrix. | bi.transpose(x)<br/>Ex: For  var A = [[1, 2, 3], [4, 5, 6]] then <br/>       bi.transpose(A); = [[1, 4], [2, 5], [3, 6]] |
+|  zeros | Create a matrix filled with zeros. | Ex:var A = [[1, 2, 3], [4, 5, 6]];<br/>      bi.zeros(size(A)) returns  [[0, 0, 0], [0, 0, 0]] |
 
 ### Geometry
 |  **Name** | **Description** | **Example** |
@@ -379,5 +379,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxOTgzMDY4XX0=
+eyJoaXN0b3J5IjpbNTY3MDcxMTc4XX0=
 -->
