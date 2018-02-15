@@ -16,7 +16,7 @@ You can save the visualization under any specific tag as shown below.
 ## Defining Global Filter fields
 
 - **Filter** global filters added in this section is automatically reflected in the filter section of  dashboard.
-- 
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9b8eb3887fb798f871e12f13dddc254b0e845cc2/images/global_filter.png)
 
 ## Cache option with specific duration
@@ -27,5 +27,5 @@ You can save the visualization under any specific tag as shown below.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTU2ODEzNF19
+eyJoaXN0b3J5IjpbLTc0MTI1MTAxNV19
 -->
