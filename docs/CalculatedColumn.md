@@ -202,25 +202,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  atanh | Returns the hyperbolic arctangent of a value, <br/>Defined as atanh(x) = ln((1 + x)/(1 - x)) / 2. | bi.atanh(value)<br/>Ex: bi.atanh(0.5) = 0.5493061443340549 |
 |  acoth | Returns  the hyperbolic arccotangent of a value, <br/>Defined as acoth(x) = atanh(1/x) = (ln((x+1)/x) + ln(x/(x-1))) / 2. | bi.acoth(value)<br/>Ex: bi.acoth(0.5) = 0.8047189562170503 |
 
-### Unit
 
-|  **Name** | **Description** | **Example** |
-|  :------: | :------: | :------: |
-|  to | Returns the converted unit value of a given value |  |
-
-### Utils
-|  **Name** | **Description** | **Example** |
-|  :------: | :------: | :------: |
-|  to | Change the unit of a value. | to(x, unit)<br/>Ex: to(math.unit('2 inch'), 'cm') = Unit 5.08 cm, <br/>      to(math.unit(16, 'bytes'), 'bits') = Unit 128 bits |
-|  clone | Clone an object. | Clone(x) <br/>Ex: clone(math.complex('2-4i') = 2 - 4i, clone([[1, 2], [3, 4]]) = [[1, 2], [3, 4]] |
-|  isInteger | Returns true / false after validating the given value is integer<br/>true if the given value is integer or else false | bi.inInteger(value)<br/>Ex: bi.isInteger(2) = true, <br/>       bi.isInteger(2.5) = false |
-|  isNaN | Returns true / false after validating the given value  whether it is NaN (not a number) | bi.isNaN(value)<br/>Ex: bi.isNaN(3) = false, <br/>      bi.isNaN(NaN) = true |
-|  isPositive | Returns true / false after validating the given value is positive<br/>true if the given value is integer or else false | bi.isPositive(value)<br/>Ex: bi.isPositive(3) = true, <br/>      bi.isPositive(-3) = false |
-|  isNegative | Returns true / false after validating the given value is negative<br/>true if the given value is integer or else false | bi.isNegative(value)<br/>Ex: bi.isNegative(3) = false, <br/>      bi.isNegative(-3) = true |
-|  isNumeric | Returns true / flase after validating the given value is numeric or not | bi.isNumeric(value)<br/>Ex: bi.isNumeric(3) = true, <br/>      bi.isNumeric(“string”) = false |
-|  isPrime | Results true / false after validating  the given value is  whether a prime number | bi.isPrime(value)<br/>Ex: bi.isPrime(3) = true, <br/>       bi.isPrime(4) = false |
-|  isZero | Results true / false after validating  the given value is  whether it is zero | bi.isZero(value)<br/>Ex: bi.isZero(1) = false, <br/>       bi.isZero(0) = true |
-|  typeof | Determine the type of a variable. | typeof(3.5) = number, <br/>typeof(math.complex('2-4i')) = complex, <br/>typeof(math.unit('45 deg')) = Unit <br/>Typeof('hello world') = string |
 
 ### Constant
 
@@ -379,5 +361,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4MzU1MTU4XX0=
+eyJoaXN0b3J5IjpbLTgxNTgyMjM5N119
 -->
