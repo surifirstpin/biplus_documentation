@@ -1,7 +1,7 @@
 <center><h1>Global Parameter</h1></center>
 
 
-## Define Global Parameter 
+## Define eition 
 
 It is a flat file data in JSON format which can be used to manipulate, control and set predefined values based on login.
 Bi+ will allow you to organize the data from database using this global parameters as per your business requirement. It can be used in the following ways:
@@ -31,6 +31,7 @@ To upload the parameter select the global parameter key name.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f71f9b749c89e85f559f47a1db84bdb638fbc9a4/images/global+para3.png)
 
 3. Click on save button to save the global parameter.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0d67f9ee78d4ee5a69d2e8b8ae127088b07972f0/images/save_globar.png) 
 
 >Note : By default all the columns in uploaded file will be saved as string type. 
@@ -46,6 +47,7 @@ To upload the parameter select the global parameter key name.
 Similarly you can also edit Column cell value by clicking on the specific cell as shown below.
 
 5.  To view the uploaded file in JSON format click on Code view option.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/90ce2c5c848ba57722a38cdfb7623b6037e12058/images/para3.png)
 
 ## Grid & Code Views
@@ -60,11 +62,13 @@ If check case is enabled, global parameters become case sensitive for key name.
 ## Edit Global Parameters
 
 6. To edit global parameters click on edit button.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f62789b75b84744ac187a098b61d4fc8fb752053/images/edit_para.png)
 
 ## Delete Global Parameters
 
 7. To Delete the Global parameter Click on **Delete ** Button.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f62789b75b84744ac187a098b61d4fc8fb752053/images/delete_para.png)
 
 ## Forgot Password
@@ -79,4 +83,7 @@ To reset password Click on Forget password button.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ1NjA5NDYyNV19
 -->
