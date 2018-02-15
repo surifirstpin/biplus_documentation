@@ -6,6 +6,7 @@ Custom fields are user defined fields for which we apply Arithmetic  and logical
 A view may join other views and there relationship are defined as part of data analysis section of model file.
 
 **Getting Started :**
+
 **1.** Click on **New Empty view** button to create or derive a new custom view table.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3b50165c4cf02e474b87d097aa2f8b0897fae1ae/images/custom_table.png)
@@ -185,5 +186,5 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2NzE3MjY1XX0=
+eyJoaXN0b3J5IjpbLTQ0MzkwMjM2NV19
 -->
