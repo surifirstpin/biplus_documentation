@@ -350,6 +350,30 @@ We can get quantity_sum difference of each month for specific customer using Piv
 
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
+
+## Defining Local Function
+
+Custom function is a block of code (series of statements which intended to a particular task) with submitted inputs and derivable output.
+It will easeup the process of calculations When a series of statements or actions to be repeated on a set of values and output to be derived.Bi+ supports local function which can be written inside the dialog box as follows:
+
+/*START*/
+
+function fname(param1, param2, param3 ...){
+
+/*START*/
+statement 1;
+statement 2;
+statement 3;
+...........
+...........
+
+return `;   
+
+}
+
+/*END*/
+
+fname(value1, value2, value3, .....)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzQ3Njk3MF19
+eyJoaXN0b3J5IjpbLTkwNzU1NTE3MV19
 -->
