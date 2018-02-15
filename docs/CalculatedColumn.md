@@ -226,7 +226,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 ### Unit	:
 |Name|Description|Example|
 |--|--|--|
-|to|Returns the converted unit value of a given value|Ex: bi.unit("2 inch").to("cm")|
+|to|Returns the converted unit value of a given value|Ex: bi.unit("2 inch").to("cm") |
 
 ### Utils :		
 |Name|Description|Example|
@@ -379,5 +379,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTg0OTQ3NTFdfQ==
+eyJoaXN0b3J5IjpbNzUwMjMwMDAxXX0=
 -->
