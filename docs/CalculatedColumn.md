@@ -223,7 +223,38 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  SQRT2 | Returns the square root of 2. | 1.41421356237309 |
 |  tau | Returns Tau value which is the ratio constant of a circle's circumference to radius, equal to 2 * pi. | 6.28318530717958 |
 |  uninitialized | Constant used as default value when resizing a matrix to leave new entries uninitialized | - |
-
+Unit	
+|Name|Description|Example|
+|to|Returns the converted unit value of a given value|Ex: bi.unit("2 inch").to("cm")|
+Utils:		
+|Name|Description|Example|
+|to|Returns the converted unit value of a given value|"bi.unit(""x unit1"").to(""unit2"")
+Ex: bi.number(bi.unit(""2 inch"").to(""cm""),""cm"") = 5.08 bi.number(bi.unit(""16 bytes"").to(""bits""),""bits"") = 128"|
+|clone|Clone an object|"bi.clone(x) 
+Ex: bi.clone(“3.5”) = 3.5"|
+|isInteger|"Returns true / false after validating the given value is integer
+true if the given value is integer or else false"|"bi.inInteger(value)
+Ex: bi.isInteger(2) = true, 
+       bi.isInteger(2.5) = false"|isNaN|Returns true / false after validating the given value  whether it is NaN (not a number)	"bi.isNaN(value)
+Ex: bi.isNaN(3) = false, 
+      bi.isNaN(NaN) = true"
+|isPositive|"Returns true / false after validating the given value is positive
+true if the given value is integer or else false"|"bi.isPositive(value)
+Ex: bi.isPositive(3) = true, 
+      bi.isPositive(-3) = false"
+|isNegative|"Returns true / false after validating the given value is negative
+true if the given value is integer or else false"|"bi.isNegative(value)
+Ex: bi.isNegative(3) = false, 
+      bi.isNegative(-3) = true"
+|isNumeric|Returns true / flase after validating the given value is numeric or not|"bi.isNumeric(value)
+Ex: bi.isNumeric(3) = true,bi.isNumeric(“string”) = false"|
+|isPrime|Results true / false after validating  the given value is  whether a prime number|"bi.isPrime(value)
+Ex: bi.isPrime(3) = true,bi.isPrime(4) = false"|
+|isZero|Results true / false after validating  the given value is  whether it is zero|"bi.isZero(value)
+Ex: bi.isZero(1) = false,bi.isZero(0) = true"|
+|typeof|Determine the type of a variable.|"bi.typeof(3.5) = number, 
+bi.typeof(math.complex('2-4i')) = complex,
+bi.typeof('hello world') = string"|
 ## Usage of #math#plugin# for Grid View
 
             welcome to Biplus
@@ -361,5 +392,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTgyMjM5N119
+eyJoaXN0b3J5IjpbLTg1MjcxNjUzNl19
 -->
