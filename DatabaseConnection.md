@@ -53,6 +53,7 @@
 ## Test and Save Connection
 
 **4. Test Connection** Checks if the entered information is running accurately.
+
 **5. Add Connection** Establish and save the connection.
 
 >After establishing the connection you can see the list of connections names on left side toolbar
@@ -78,7 +79,7 @@ Once you have Setup the Database connection you can further take up the process 
   - **Create Project** to control data in model
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDMzNTE5NzgsMTQ5MDMzOTc3NiwtOD
+eyJoaXN0b3J5IjpbLTE4MDg3NDg3NjAsMTQ5MDMzOTc3NiwtOD
 E0NzM1Njk3LC00MTgxODgwOTQsMTY1NDgzMDg3MSw2OTY4NjQ5
 MTUsMTM2NDc0MjcxMywtMTg0MTQ5OTI5LC03MjQ0NDk3OCwxNj
 M4MTE3ODgyLC0xMjcxMDk5NDM2XX0=
