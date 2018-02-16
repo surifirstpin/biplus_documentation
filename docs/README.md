@@ -28,7 +28,7 @@ Get a powerful BI tool installed within your own product, application, portal, o
 
 When it comes to business establishment and success, **BI+** software is an innovation that has ability to share and collaborate ideas efficiently.
 
-
+Vreity of 
 <h2>  <font color="orange">BI+ Advantages</font></h2> 
 
 ### Explore from any device
@@ -39,5 +39,5 @@ Create, explore and operate on any device, directly at the point of decision. **
 
  Share and collaborate reports with team members more securely and  get the consent quickly.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTYxMjg3MF19
+eyJoaXN0b3J5IjpbMzYxODUwOTUyXX0=
 -->
