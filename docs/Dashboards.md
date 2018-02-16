@@ -30,21 +30,22 @@ Bi+ allows you to add multiple report layouts. Depending on the requirement, Sel
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8414a3a116f22024e677cb9e647af84aaa27f6c6/images/dash_2.png)
 
-**3. Apply Filters** to add global filters and lookups.
+3. **Apply Filters** to add global filters and lookups.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6132f122dcb8f6567b9b63f0fe51d8fca0de5e01/images/dash_3.png)
 
 ## Dashboard Filters Customization
 
-**4. Dashboard Filters** allow user to view limited data.
-- **Filter Name** identifier name to the filter applicable.
-- **Filter Type** type of filter user (eg: string,date,number).
-- **Operator** filter operation that are applicable.
+4.  **Dashboard Filters** allow user to view limited data.
+
+    - **Filter Name** identifier name to the filter applicable.
+    - **Filter Type** type of filter user (eg: string,date,number).
+    - **Operator** filter operation that are applicable.
 
 ## Dashboard Lookup Filters
 
 **5. Lookup** allows you to refer set of query or list of items in filters.
-- **Lookup name** name of the lookup field.
+            - **Lookup name** name of the lookup field.
 - **Lookup Type**  refers to item or query type.
 - **Test Lookup** to test the lookup.
 - **Multiple Selections** refers to selection of list of multiple data.
@@ -109,5 +110,5 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3Nzk1MzcyXX0=
+eyJoaXN0b3J5IjpbLTEyNDM4MjE4MDZdfQ==
 -->
