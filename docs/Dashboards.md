@@ -44,18 +44,18 @@ Bi+ allows you to add multiple report layouts. Depending on the requirement, Sel
 
 ## Dashboard Lookup Filters
 
-**5. Lookup** allows you to refer set of query or list of items in filters.
-            - **Lookup name** name of the lookup field.
-- **Lookup Type**  refers to item or query type.
-- **Test Lookup** to test the lookup.
-- **Multiple Selections** refers to selection of list of multiple data.
-- **Referred** used to refer predefined filter for the following filters. 
+5. **Lookup** allows you to refer set of query or list of items in filters.
+    - **Lookup name** name of the lookup field.
+   - **Lookup Type**  refers to item or query type.
+   - **Test Lookup** to test the lookup.
+   - **Multiple Selections** refers to selection of list of multiple data.
+   - **Referred** used to refer predefined filter for the following filters. 
 
-**6. Report Listeners** allows you to apply filters to reports.
-- **Dashboard Report** Select the report to which you want to add filters.
-- **Listen Filter** refers to filter option available.
-- **Apply to field** will allows you apply the filter options to available field list in report.
-- **Add Listener** allows you to add multiple filters to reports.
+6. **Report Listeners** allows you to apply filters to reports.
+    - **Dashboard Report** Select the report to which you want to add filters.
+     - **Listen Filter** refers to filter option available.
+   - **Apply to field** will allows you apply the filter options to available field list in report.
+   - **Add Listener** allows you to add multiple filters to reports.
 
 ## Privacy & Share Option
 
@@ -110,5 +110,5 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDM4MjE4MDZdfQ==
+eyJoaXN0b3J5IjpbMTE3NDIxNjg2XX0=
 -->
