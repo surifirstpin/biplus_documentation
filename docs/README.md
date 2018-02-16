@@ -18,7 +18,7 @@ Bi+ delivers fine tuned, easy-to-read reports and publish them throughout the or
 
 ### Beautiful Dashboards
 
-Join multiple report layouts into single dashboard, 
+Join multiple report layouts into single admirable dashboard, by cust  
 Combine multiple reports into a single beautiful dashboard, using a drag-and-drop designer. Insert images, formatted text, widgets and web components in a flexible designer layout. Make it easier for your executives and users to track KPIs (Key Performance Indicators) effectively.
 ### Explore from any device
 
@@ -39,5 +39,5 @@ Get a powerful BI tool installed within your own product, application, portal, o
 
 <h2>  <font color="orange">BI+ Advantages</font></h2> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI3MTQ0MjhdfQ==
+eyJoaXN0b3J5IjpbMjQzNTM0NjQzXX0=
 -->
