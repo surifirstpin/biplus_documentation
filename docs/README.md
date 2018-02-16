@@ -16,6 +16,10 @@ Import data from files,databases, cloud drives, popular business applications an
 
 Bi+ delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.  Visualization delivers an innovative pictorial representation of your data in right context. Use advanced analytic integration and geographic calculation to broaden insight. It is fully interactive,easily adjustable and Zoom for better understanding.
 
+### Beautiful Dashboards
+
+
+Combine multiple reports into a single beautiful dashboard, using a drag-and-drop designer. Insert images, formatted text, widgets and web components in a flexible designer layout. Make it easier for your executives and users to track KPIs (Key Performance Indicators) effectively.
 ### Explore from any device
 
 Create, explore and operate on any device, directly at the point of decision. **BI+** is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices.
@@ -35,5 +39,5 @@ Get a powerful BI tool installed within your own product, application, portal, o
 
 <h2>  <font color="orange">BI+ Advantages</font></h2> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjgwMjI5MV19
+eyJoaXN0b3J5IjpbNDU4MzE4OTQxXX0=
 -->
