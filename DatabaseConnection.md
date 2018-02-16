@@ -64,6 +64,7 @@
    **6.** click on **Edit** option available on right side of your connection name to make changes.
    
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eae5d23007893f45fcaab8db33c5a707e1a7911a/images/edit_conn.png)
+
 ## Delete a connection
 
 **7.** click on **Delete** option available on far right of your connection name to delete the connection from database.
@@ -80,7 +81,7 @@ Once you have Setup the Database connection you can further take up the process 
   - **Create Project** to control data in model
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTg4OTg3OCwxNDkwMzM5Nzc2LC04MT
+eyJoaXN0b3J5IjpbMTc5MjI0NTkyOCwxNDkwMzM5Nzc2LC04MT
 Q3MzU2OTcsLTQxODE4ODA5NCwxNjU0ODMwODcxLDY5Njg2NDkx
 NSwxMzY0NzQyNzEzLC0xODQxNDk5MjksLTcyNDQ0OTc4LDE2Mz
 gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
