@@ -2,7 +2,7 @@
 <center><h1> <font color="orange"> Biplus </font> </h1></center>
 <center><h2> <font color="orange">Turn Your Insights into Actions </font> </h2></center>
 
-###  Why Bi+
+<center><h2> <font color="orange">Why Bi+</font> </h2></center>
  
 BI+ is a Collection of business analytics tools that provides a standard insights throughout your organization. it streamline your process by giving you an ability to use live data by predicting needs of the Business.
 
@@ -35,5 +35,5 @@ Get a powerful BI tool installed within your own product, application, portal, o
 
 <h2>  <font color="orange">BI+ Advantages</font></h2> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2NzI3NjQzXX0=
+eyJoaXN0b3J5IjpbMTUxOTI2ODg5NV19
 -->
