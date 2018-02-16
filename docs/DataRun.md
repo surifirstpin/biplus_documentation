@@ -1,12 +1,15 @@
 <center><h1>Analysis</h1></center>
 
 ## Definition
+
 Using data analysis user can retrieve the data and build the query by applying data exploration with slice and dice of report information.
 
 ## Build Query
+
 Under data analysis section, select the project and model for which you want to explore the data.data analysis sections comprised of dimension and measures which acts as fundamental building blocks for a query.
 
 **Getting Started :**
+
 In the list of dimensions and measures select the fields you want access.
 1. Select one or more grey fields to group your data(Dimensions).
 2. Click one or more orange fields to add information about those groups, such as totals and counts(Measures). 
@@ -223,5 +226,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzY2NDk5NF19
+eyJoaXN0b3J5IjpbMTc4Nzc1MjY1Nl19
 -->
