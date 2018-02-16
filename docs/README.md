@@ -20,6 +20,17 @@ Bi+ delivers fine tuned, easy-to-read reports and publish them throughout the or
 
 Join multiple report layouts into single good-looking dashboard, by customizing it as per your business needs. It is Provided with flexible layout options for your report by making it more easier to track the performance of each report at a time efficiently.
 
+### Embedded analytics
+
+Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
+
+### Customer Success
+
+When it comes to business establishment and success, **BI+** software is an innovation that has ability to share and collaborate ideas efficiently.
+
+
+<h2>  <font color="orange">BI+ Advantages</font></h2> 
+
 ### Explore from any device
 
 Create, explore and operate on any device, directly at the point of decision. **BI+** is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices.
@@ -27,17 +38,6 @@ Create, explore and operate on any device, directly at the point of decision. **
 ### Secure Accessibility
 
  Share and collaborate reports with team members more securely and  get the consent quickly.
-
-### Customer Success
-
-When it comes to business establishment and success, **BI+** software is an innovation that has ability to share and collaborate ideas efficiently.
-
-
-### Embedded analytics
-
-Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
-
-<h2>  <font color="orange">BI+ Advantages</font></h2> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTA2OTAxNl19
+eyJoaXN0b3J5IjpbLTMyOTYxMjg3MF19
 -->
