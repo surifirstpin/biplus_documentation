@@ -3,10 +3,11 @@
 
 ## Definition
 
-Dashboard provides access to view multiple reports or charts on single screen layout, in this way you can get a quick view on related data.
+Dashboard provides access to view multiple reports in single dashboard layout, in this way you can get a quick view on related data.
 In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive.
- 
+ #
  **Getting Started**
+ 
  >Path : Dashboard-->New Dashboard
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/20367797e10c5eabfec8ab65d23699fb34843101/images/dash.png)
@@ -107,5 +108,5 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzEzNzE0MF19
+eyJoaXN0b3J5IjpbNjQ2NjcyMTM5XX0=
 -->
