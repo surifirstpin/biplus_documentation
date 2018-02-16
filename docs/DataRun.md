@@ -143,8 +143,9 @@ individually, which are grouped under the column field.
 ### Number Format & Currency option for fields
 
 You can apply different number formats and currency options to measures.
-a.  Select the required number format from the list
-b.  Select the currency you would like to view
+**a.**  Select the required number format from the list.
+
+**b.**  Select the currency you would like to view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a289a74e21b8055ac795aa2bb25d4cb945bc02b0/images/number_format.png)
 
@@ -228,5 +229,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc4MzM2MDhdfQ==
+eyJoaXN0b3J5IjpbMTkxMjA5ODQ4XX0=
 -->
