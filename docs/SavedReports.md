@@ -48,9 +48,11 @@ it will display the data flow of the dashboard report.
 - **Image format** download the dashboard report in image format.
 
 ## Filters & Customization
+
 Filters can be added in dashboard section to narrow the dashboard results to the data we are interested in viewing.
 
 ## Adding Global Filters
+
 Adding global filter to dashboard allows you to override the filters you have save in reports.
 **Example **
 Here we applied global filter to **Sum count equals to 4** in Analysis section.
@@ -96,5 +98,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjAzMDQyMF19
+eyJoaXN0b3J5IjpbNDE0MTY1MTY0XX0=
 -->
