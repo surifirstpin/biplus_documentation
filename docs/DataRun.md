@@ -132,7 +132,7 @@ Depending on your field selection data section is enabled.
 
 ### Group aggregate
   it helps you in displaying consolidated values grouped fields.
-  **a.** enable row grouping by selecting the checkbox.
+  **a.**  enable row grouping by selecting the checkbox.
   **b.** you can explore the primary column fields data individually, which are grouped under the column field. 
   **c.** Select the field for which you want to perform row grouping.
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/657b29d2f18b269f2964e8150a3670df8db7869c/images/group_aggregate.png)
@@ -141,7 +141,7 @@ Depending on your field selection data section is enabled.
 ### Number Format & Currency option for fields
 
 You can apply different number formats and currency options to measures.
-a. Select the required number format from the list
+a.  Select the required number format from the list
 b.  Select the currency you would like to view
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a289a74e21b8055ac795aa2bb25d4cb945bc02b0/images/number_format.png)
@@ -226,5 +226,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDA4NDAyMF19
+eyJoaXN0b3J5IjpbLTQzMjYwMzMwMF19
 -->
