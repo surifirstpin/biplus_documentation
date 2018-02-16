@@ -33,7 +33,7 @@ When it comes to business establishment and success, **BI+** software is an inno
 
 Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
 
-# BI+ Advantages
+<h2>  <font color="orange">BI+ Advantages</font></h2> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzYxNTEzNDBdfQ==
+eyJoaXN0b3J5IjpbOTU2NzI3NjQzXX0=
 -->
