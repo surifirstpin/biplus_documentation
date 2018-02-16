@@ -11,9 +11,9 @@ You can save the visualization under any specific tag as shown below.
 - **Report Name** name identifier for saving the report ( Bi+ allows you to use special character but does not  support any spaces )
 - **Title** label for the report the way you want it to appear.
 - **Info** displays any specific information about the report
-- **Private()** report saved in private section is accessed by the user itself.
-- **Public()** the report is saved in public section is accessed by all the users.
--  **Share()** the report saved under share section is accessed by specific set of users as shown below.
+- **Private ()** report saved in private section is accessed by the user itself.
+- **Public ()** the report is saved in public section is accessed by all the users.
+-  **Share ()** the report saved under share section is accessed by specific set of users as shown below.
 
 ## Defining Global Filter fields
 
@@ -29,5 +29,5 @@ You can save the visualization under any specific tag as shown below.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1Mjk5ODQwXX0=
+eyJoaXN0b3J5IjpbMTEwMjQ1MzUxMl19
 -->
