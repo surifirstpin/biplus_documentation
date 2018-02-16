@@ -41,8 +41,8 @@ if sales manager need different data then material management then we need to de
 - **Filters** optional list of filter expression derived for calculation of the measures.
 - **Join** establishes the relationship between visualization and views,here we use 3 types of join parameter join,join_type,join_on.
   - **Join** derive the relationship between 2 views based on the condition.
-   - **Join_type** derives type of join condition to apply (Left,Right,inner join).
-   - **Join_on** derives the relationship between how to join two tables.
+  - **Join_type** derives type of join condition to apply (Left,Right,inner join).
+  - **Join_on** derives the relationship between how to join two tables.
  
 ##  Model Filters
 
@@ -90,7 +90,7 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 ```
 ## Derived Table
 
-Derived tables enables you to refine your data analysis more precisely. it creates a new temporary table that doesn't exist in your database already, they either be built at your query time or they can be stored in your database. These can be defined by writing a SQL query and results as derived table.
+Derived tables enables you to refine your data analysis more precisely. It creates a new temporary table that doesn't exist in your database already, they either be built at your query time or they can be stored in your database. These can be defined by writing a SQL query and results as derived table.
 ```
 {
 	"name": "derivedtable",
@@ -138,5 +138,5 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4Mzg5MjM1XX0=
+eyJoaXN0b3J5IjpbLTE0NTMxNjE5NjddfQ==
 -->
