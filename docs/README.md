@@ -30,7 +30,7 @@ When it comes to business establishment and success, **BI+** software is an inno
 
  
 #### Variety of reporting components
-
+Usage of different type of charts, widgets, pivot tables
 Make use of a variety of charts, widgets, pivot tables and tabular view components to create insightful reports and dashboards. More new types are frequently getting added too.
 
 <h2>  <font color="orange">BI+ Advantages</font></h2> 
@@ -43,5 +43,5 @@ Create, explore and operate on any device, directly at the point of decision. **
 
  Share and collaborate reports with team members more securely and  get the consent quickly.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzIzNTk2OTFdfQ==
+eyJoaXN0b3J5IjpbMTQ2OTc1NTE4XX0=
 -->
