@@ -6,9 +6,8 @@
  
 BI+ is a Collection of business analytics tools that provides a standard insights throughout your organization. it streamline your process by giving you an ability to use live data by predicting needs of the Business.
 
- <font color="orange">**Case Study :**</font>
- ## See BI+ in Action
- 
+ <font color="orange"> **See BI+ in Action :**</font>
+  
  ### Connect to any data source
  
 Import data from files,databases, cloud drives, popular business applications and in-house apps. It has a rapid setup which connects people to data quickly and can retrieve massive amount of data with an ease as **BI+** is directly connected to your database. There is no limitation to what you can explore and need not download any software. It has proven to be totally user friendly tool for your Business requirements.
@@ -36,5 +35,5 @@ Get a powerful BI tool installed within your own product, application, portal, o
 
 # BI+ Advantages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk1NTEyODZdfQ==
+eyJoaXN0b3J5IjpbLTExMzI2ODg2NTFdfQ==
 -->
