@@ -5,7 +5,7 @@
 
 Dashboard provides access to view multiple reports in single dashboard layout, in this way you can get a quick view on related data.
 In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive.
- ## Create Dash
+ ## Create Dashboard
  **Getting Started**
  
  >Path : Dashboard-->New Dashboard
@@ -108,5 +108,5 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzI2Njk4Nl19
+eyJoaXN0b3J5IjpbLTU1NDg2NjY1OF19
 -->
