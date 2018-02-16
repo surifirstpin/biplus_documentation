@@ -18,7 +18,7 @@ Bi+ delivers fine tuned, easy-to-read reports and publish them throughout the or
 
 ### Beautiful Dashboards
 
-Join multiple report layouts into single good-looking dashboard, by customizing it as per your business needs. It is bProvides flexible layout options for your report by making it more easier to track the performance of each report at a time. effectively.
+Join multiple report layouts into single good-looking dashboard, by customizing it as per your business needs. It is Provides flexible layout options for your report by making it more easier to track the performance of each report at a time. effectively.
 ### Explore from any device
 
 Create, explore and operate on any device, directly at the point of decision. **BI+** is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices.
@@ -38,5 +38,5 @@ Get a powerful BI tool installed within your own product, application, portal, o
 
 <h2>  <font color="orange">BI+ Advantages</font></h2> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc4ODQ0NzhdfQ==
+eyJoaXN0b3J5IjpbLTIyMjQ2ODM5NF19
 -->
