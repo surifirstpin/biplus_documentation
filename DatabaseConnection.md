@@ -12,11 +12,11 @@
   
 **III.** Set up your database to work with BiPlus. The instructions may vary from dialect to dialect. Typically it includes providing approval to BiPlus to access your database.
 
+ ## Create Connection
+ 
 **Getting started :**
 >Path : Database-->New connection
- 
- ## Create Connection
-  
+
   To get started with the process you need to Select the database dialects used in your project and below are the steps to be followed:
  
  **1.** Click on **Database Section** to setup a database connection.
@@ -82,8 +82,8 @@ Once you have Setup the Database connection you can further take up the process 
   - **Create Project** to control data in model
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzQ1MDkwNiwxNDkwMzM5Nzc2LC04MT
-Q3MzU2OTcsLTQxODE4ODA5NCwxNjU0ODMwODcxLDY5Njg2NDkx
-NSwxMzY0NzQyNzEzLC0xODQxNDk5MjksLTcyNDQ0OTc4LDE2Mz
-gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
+eyJoaXN0b3J5IjpbLTE4MTQ4NjcxNzgsMTQ5MDMzOTc3NiwtOD
+E0NzM1Njk3LC00MTgxODgwOTQsMTY1NDgzMDg3MSw2OTY4NjQ5
+MTUsMTM2NDc0MjcxMywtMTg0MTQ5OTI5LC03MjQ0NDk3OCwxNj
+M4MTE3ODgyLC0xMjcxMDk5NDM2XX0=
 -->
