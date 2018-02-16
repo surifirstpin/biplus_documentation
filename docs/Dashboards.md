@@ -59,7 +59,7 @@ Bi+ allows you to add multiple report layouts. Depending on the requirement, Sel
 
 ## Privacy & Share Option
 
-**7. Click on Save Button** to save the dashboard.
+7. Click on Save Button** to save the dashboard.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3cf90f38c12a100708d63581b06825580e17333a/images/save_dash.png)
 
@@ -75,10 +75,9 @@ Bi+ allows you to add multiple report layouts. Depending on the requirement, Sel
 To edit the dashboard select the dashboard created and click on **Edit** Button, It will navigate to dashboard created. 
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/32cd07ab577aaece73d4b9b7f53010680bda5fa0/images/edit_dash2.png)   
 
-9.     Click on **Apply Filters** to add filters.
+9.   Click on **Apply Filters** to add filters.
 10. Click on **Add Listener** to add more filters to dashboard created.
-11. 
-**11.** Click on **Save** button to save the changes made.
+11. Click on **Save** button to save the changes made.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8ddfd637b9b4be13275803e28d16a23a8fb52666/images/dash_edi3.png)
 
@@ -97,7 +96,7 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 
 ## Maximize a contained Report
 
-**12.** To maximize a specific report click on the maximize icon in the tool bar of the report layout.
+12.  To maximize a specific report click on the maximize icon in the tool bar of the report layout.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/078a756c7f5ed60ca10511acdbae528ea7f7cc16/images/repo_max.png)
 
@@ -110,5 +109,5 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDE4NjIwOV19
+eyJoaXN0b3J5IjpbLTUzMjYyMjI1OV19
 -->
