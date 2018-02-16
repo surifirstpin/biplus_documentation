@@ -5,9 +5,9 @@
 Project is collection of files that describes how database tables are connected to each other and how Bi+ portray those tables.
 Bi+ provides an Integrated Development Environment (IDE) for developing and handling the project files.
 
-**Getting Started :**
-
 ## Create Project
+
+**Getting Started :**
 
 > Path : Model-->Projects-->New Project
    
@@ -60,6 +60,7 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model5.png)
 
 ## Remove tables from Database 
+
 To remove tables from database select the check boxes under **Selected Tables** section or else you can click on **deselect all** to remove all tables at a time.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0e5fb234751d7b3cd7f8f40b1ad7d79bca7c22d7/images/remove_tables.png)
@@ -76,5 +77,5 @@ Select the project you want to delete and click on **delete icon**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_del.png)
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2NTc5NTM3XX0=
+eyJoaXN0b3J5IjpbLTQ0OTE0MTc2OV19
 -->
