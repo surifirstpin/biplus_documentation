@@ -1,5 +1,5 @@
                           
-<center><h1> <font color="orange"> B </font> </h1></center>
+<center><h1> <font color="orange"> BI+ </font> </h1></center>
 <center><h2> <font color="orange">Turn Your Insights into Actions </font> </h2></center>
 
 <center><h2> <font color="orange">Why Bi+</font> </h2></center>
@@ -39,5 +39,5 @@ Get a powerful BI tool installed within your own product, application, portal, o
 
 <h2>  <font color="orange">BI+ Advantages</font></h2> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDYwOTIyM119
+eyJoaXN0b3J5IjpbMTMyOTEzODY5N119
 -->
