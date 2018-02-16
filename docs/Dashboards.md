@@ -76,7 +76,7 @@ To edit the dashboard select the dashboard created and click on **Edit** Button,
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/32cd07ab577aaece73d4b9b7f53010680bda5fa0/images/edit_dash2.png)   
 
 
-**9.**   Click on **Apply Filters.**
+**9.**   Click on **Apply Filters** to add filters.
 **10.** Click on **Add Listener** to add more filters to dashboard created.
 **11.** Click on **Save** button to save the changes made.
 
@@ -110,5 +110,5 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk3MzM2Nl19
+eyJoaXN0b3J5IjpbLTc3NzA2NjkyNV19
 -->
