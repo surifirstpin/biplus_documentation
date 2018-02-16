@@ -21,7 +21,7 @@ Tag has a hierarchical structure that provides a several layers of nesting like 
 
 ## Create Child Tag 
 
-To create a Child Tag click on **Add Tag** button in dashboard section and select the parent tag under which you want to create a child tag.You can add multiple child tags in parent tag.
+To create a child Tag click on **Add Tag** button in dashboard section and select the parent tag under which you want to create a child tag.You can add multiple child tags in parent tag.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c1b8fc9522826986d90afc6df61df3f988227475/images/child_tag.png)
 
@@ -57,5 +57,5 @@ To **Delete** the tag click on delete icon on far right of the screen.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e571af6fdf36fb0e58a5248a84669f5f73f5703f/images/delete_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwNTc2NDY1XX0=
+eyJoaXN0b3J5IjpbMTAwMTc4MDAxN119
 -->
