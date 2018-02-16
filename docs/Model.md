@@ -52,7 +52,7 @@ Filters defined under the model section are applied globally to all the fields.
 **Label** parameter helps you to change the title and the way they should appear in field picker.
 **Filter_sql** enables the filter application to specified fields and to the query derived.
 **Apply** filter applied to **all** the fields or any specific field.
-**Position** Applying filter before or after the data retrieval.
+**Position** applying filter before or after the data retrieval.
 
 ```
 {
@@ -138,5 +138,5 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjM3MDExXX0=
+eyJoaXN0b3J5IjpbOTI4Mzg5MjM1XX0=
 -->
