@@ -1,6 +1,6 @@
                           
 <center><h1>Biplus</h1></center>
-<center><h2>Turn Your Insights into Actions</h2></center>
+<center><h2> <font color="orange">Turn Your Insights into Actions </font> </h2></center>
 
 ###  Why Bi+
  
@@ -35,5 +35,5 @@ Get a powerful BI tool installed within your own product, application, portal, o
 
 # BI+ Advantages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTY0MTc0MTZdfQ==
+eyJoaXN0b3J5IjpbMTgzMjQzNTEzM119
 -->
