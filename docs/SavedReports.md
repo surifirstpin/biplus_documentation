@@ -2,7 +2,7 @@
 
 ## Privacy & Share Option
 
-You can securely save aned share the dashboard 
+You can securely save the dashboard and share them for team collaboration  
 
 - **Report Name** name identifier for saving the report ( BiPlus allows you to use special character but does not  support any spaces )
 - **Title**  label for the report the way you want it to appear
@@ -95,5 +95,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxNDkxNzYwXX0=
+eyJoaXN0b3J5IjpbOTc3MTcyODA4XX0=
 -->
