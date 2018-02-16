@@ -1,6 +1,6 @@
                           
 <center><h1>Biplus</h1></center>
-<center><h2>Turn our Insights into Actions</h2></center>
+<center><h2>Turn Your Insights into Actions</h2></center>
 
 ###  Why Bi+
  
@@ -34,5 +34,5 @@ When it comes to business establishment and success, **BI+** software is an inno
 Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4NDg0MjY4XX0=
+eyJoaXN0b3J5IjpbLTE4NTYyNjM0MjldfQ==
 -->
