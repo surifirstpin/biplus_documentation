@@ -131,7 +131,7 @@ Depending on your field selection data section is enabled.
 - **Calculate on Raw data** Calculates the field values before applying grouping ,pivot or other parameters.
 
 ### Group aggregate
-  it helps you to display the consolidated values to the fields which are grouped.
+  it helps you in displaying consolidated values grouped fields.
   **a.** enable row grouping by selecting the checkbox.
   **b.** you can explore the primary column fields data individually, which are grouped under the column field. 
   **c.** Select the field for which you want to perform row grouping.
@@ -226,5 +226,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI3OTk0MDhdfQ==
+eyJoaXN0b3J5IjpbNTE2MDM0MDA4XX0=
 -->
