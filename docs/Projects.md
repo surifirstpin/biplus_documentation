@@ -14,7 +14,6 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
    **1.** Click on **+ New Project** button to create new project.
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c9ed66676e23e0ae62ebdd2103760238d0a1b0f3/images/new_project.png)
 > Step 1: Project
-
  - **Project name** Name identifier for the project created.
  
  >Step 2: Connection
@@ -23,15 +22,13 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model2.png)
 
 > Step 3: Database
-
 - **Database** Select the database you want configure, by selecting the checkbox in **Databases** section. all the selected databases are visible under **Selected Databases** section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model3.png)
 
->Step 4: Tables
-
 ## Add tables from Database
 
+>Step 4: Tables
 - Select the table fields in by selecting the check boxes in **Table** section, All the selected tables are visible under **Selected Tables** section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/add_tables.png)
@@ -43,6 +40,7 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 **2. Auto Build Joins**  automatically adapt or take over the join connection which have been enabled in database .
 
 ## Privacy & Share Option to Project
+
 > Step 5 : Privacy
 
 - **Private ()** report saved in private section and accessed by the user itself.
@@ -77,5 +75,5 @@ Select the project you want to delete and click on **delete icon**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_del.png)
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTE0MTc2OV19
+eyJoaXN0b3J5IjpbODk1NzM4ODY3XX0=
 -->
