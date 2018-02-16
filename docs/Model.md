@@ -1,6 +1,7 @@
 <center><h1>Model</h1></center>
 
 ## Definition
+
 A model is a customized gateway into the database, it is designed in such a way that it provides a spontaneous data analysis to specific business users.model derives the relation between two views , you can apply model based filter globally to restricted data at user level, so each model displays different data to different users.
 **Example :** 
 if sales manager need different data then material management then we need to develop two models to offer views of database appropriate for each user. 
@@ -8,6 +9,7 @@ if sales manager need different data then material management then we need to de
 > Using BI+ you can maintain multiple models for single project and each of them disclose different data to different users depending on parameters applied in model. 
 
 **Getting Started :**
+
  Once **project** is saved you can define the data in model section as shown in below image :
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5f41bf1e6bf7e11e52fb03d555ce35e47060280b/images/model_new.png)
  
@@ -137,5 +139,5 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI2OTA2MjNdfQ==
+eyJoaXN0b3J5IjpbMjExMjAzNDU5N119
 -->
