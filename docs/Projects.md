@@ -42,7 +42,6 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 ## Privacy & Share Option to Project
 
 > Step 5 : Privacy
-
 - **Private ()** report saved in private section and accessed by the user itself.
 - **Public ()** the report is saved in public section and accessed by all the users.
 -  **Share ()** the report saved under share section and accessed by specific set of users.
@@ -75,5 +74,5 @@ Select the project you want to delete and click on **delete icon**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_del.png)
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1NzM4ODY3XX0=
+eyJoaXN0b3J5IjpbMjQ5MzYzMDQxXX0=
 -->
