@@ -1,7 +1,7 @@
 <center><h1>Global Parameter</h1></center>
 
 
-## Define eition 
+## Definition 
 
 It is a flat file data in JSON format which can be used to manipulate, control and set predefined values based on login.
 Bi+ will allow you to organize the data from database using this global parameters as per your business requirement. It can be used in the following ways:
@@ -13,6 +13,7 @@ Bi+ will allow you to organize the data from database using this global paramete
  
 ## Create  Global Parameters
 
+**Getting Started :**
 To Create a Global Parameters Click on settings-->Select Global Parameters.
 1. Click on Add Key.
 
@@ -85,5 +86,5 @@ To reset password Click on Forget password button.
 eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjA5NDYyNV19
+eyJoaXN0b3J5IjpbMTU2MDg0NDg0OF19
 -->
