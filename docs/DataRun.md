@@ -18,7 +18,7 @@ In the list of dimensions and measures select the fields you want access.
 
 **Dimensions** are list of fields that can be used for applying filter options, for instance:
 - An **Attribute,** which has a direct association to a column in an primary table.
-- A **fact or aNumerical value**.
+- A **fact or a umerical value**.
 - A **Derived value,** computed based on the values of other fields in a single row.
 
 > **Example :** Dimensions for "Customer" view includes customer name,customer phone number and customer email etc.
@@ -229,5 +229,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc1NzYwMDZdfQ==
+eyJoaXN0b3J5IjpbLTE3NzE5Nzk4NjRdfQ==
 -->
