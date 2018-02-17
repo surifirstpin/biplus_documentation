@@ -4,7 +4,7 @@
  
 A common set of statements or operations can be defined globally as a function and it can be retrieved and used in any project.
 
-one global func shall be refered from another global frunction but shopuld nnot be cicular.
+One global function shall be refereed from another global function but should not be circular.
 
 **Getting Started :** 
 >Path :  Settings-->click on global functions. 
@@ -62,5 +62,5 @@ This functions supports all the native java script supported functions and you c
 
 All the users have privilege to access global functions in calculated column,  but admin and developer can create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjczMTg0NV19
+eyJoaXN0b3J5IjpbMTYzOTcxMjA1Ml19
 -->
