@@ -14,7 +14,9 @@ Bi+ will allow you to organize the data from database using this global paramete
 ## Create  Global Parameters
 
 **Getting Started :**
-To Create a Global Parameters Click on settings-->Select Global Parameters.
+
+>Path : Settings-->Select Global Parameters.
+
 1. Click on Add Key.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb08bee2614e37797672ab46bd201d2f6211d09b/images/global+para.png)
@@ -25,7 +27,7 @@ To Create a Global Parameters Click on settings-->Select Global Parameters.
 
 ## Upload parameters
 
-To upload the parameter select the global parameter key name.
+Upload the parameter select the global parameter key name.
 
 2. Click on Browse button to upload the file.
 
@@ -86,5 +88,5 @@ To reset password Click on Forget password button.
 eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjM2NTQxMV19
+eyJoaXN0b3J5IjpbLTE1ODc4NzIzMTVdfQ==
 -->
