@@ -71,7 +71,7 @@ If check case is enabled, global parameters become case sensitive for key name.
 
 ## Delete Global Parameters
 
-7. To delete global parameterlick on **Delete ** Button.
+7. To delete global parameter click on **Delete ** Button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f62789b75b84744ac187a098b61d4fc8fb752053/images/delete_para.png)
 
@@ -89,5 +89,5 @@ To reset password Click on Forget password button.
 eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjIyMTAzNThdfQ==
+eyJoaXN0b3J5IjpbLTEwOTc1MDQ4NTddfQ==
 -->
