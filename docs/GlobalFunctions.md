@@ -2,7 +2,7 @@
 
 ## Definition
  
-A common set of statements or operations can be defined as a global function and allowed to use in different projects by par
+A common set of statements or operations can be defined as a globally as a function and it can be retrived 
 one global func shall be refered from another global frunction but shopuld nnot be cicular.
 **Getting Started :** 
 >Path :  Settings-->click on global functions. 
@@ -60,5 +60,5 @@ This functions supports all the native java script supported functions and you c
 
 All the users have privilege to access global functions in calculated column,  but admin and developer can create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTA5MDk4NzBdfQ==
+eyJoaXN0b3J5IjpbMTg2MzI0NzU1N119
 -->
