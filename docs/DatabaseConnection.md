@@ -23,12 +23,12 @@
  **2.** Click on **+New connection**  button to start setting up the connection to database. In general,  specify the below mentioned fields:
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/demo%20image.png)
 
- **Name** specify a name to define connection
- **Database(dialect)** choose appropriate dialect based on  connection . 
+ **Name** specify a name to define connection.
+ **Database(dialect)** choose appropriate dialect based on  connection. 
 >Note: As per your requirement we can include the dialects needed to run the business.
 
-**Host**  database host path.
-**Database** name of the database.
+- **Host**  database host path.
+- **Database** name of the database.
 **Username and Password** to connect the database.
 **Maximum connection** concurrent connection used by  database.
 **Additional Parameters** include any additional JDBC parameter in this section.
@@ -82,7 +82,7 @@ Once you have Setup the Database connection you can further take up the process 
   - **Create Project** to control data in model.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwNjczOTEzLC0yNDQ5NjE0MTYsMTUzMT
-k0NTYwMSwyMTA0NzAyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2
-NTNdfQ==
+eyJoaXN0b3J5IjpbMTg1MTU2NzQyMywtMjQ0OTYxNDE2LDE1Mz
+E5NDU2MDEsMjEwNDcwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3
+NjUzXX0=
 -->
