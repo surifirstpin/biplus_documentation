@@ -45,8 +45,8 @@
   
   - IP address or DNS name of the database server as seen from the tunnel server.
   - Database port number as seen from the tunnel server.
-  - IP address or DNS name of the tunnel server as seen from the public internet
-  - SSH port of the tunnel server as seen from the public internet
+  - IP address or DNS name of the tunnel server as seen from the public internet.
+  - SSH port of the tunnel server as seen from the public internet.
   - Username on the tunnel server for the SSH connection (the standard is looker)
   
 **3. Dialects** select the accurate dialect from the list using drop down option.
@@ -82,7 +82,7 @@ Once you have Setup the Database connection you can further take up the process 
   - **Create Project** to control data in model.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2MjU1MDE1LC0yNDQ5NjE0MTYsMTUzMT
-k0NTYwMSwyMTA0NzAyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2
-NTNdfQ==
+eyJoaXN0b3J5IjpbLTE1MzkxMzc2NjcsLTI0NDk2MTQxNiwxNT
+MxOTQ1NjAxLDIxMDQ3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4
+NzY1M119
 -->
