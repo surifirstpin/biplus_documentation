@@ -18,16 +18,15 @@ In the list of dimensions and measures select the fields you want access.
 
 **Dimensions** are list of fields that can be used for applying filter options, for instance:
 - An **Attribute,** which has a direct association to a column in an primary table.
-- A **fact or a umerical value**.
+- A **Fact or a numerical value**.
 - A **Derived value,** computed based on the values of other fields in a single row.
 
 > **Example :** Dimensions for "Customer" view includes customer name,customer phone number and customer email etc.
 
-**Measure** is a list of fields that uses a SQL aggregate function, such as COUNT, SUM, AVG, MIN or MAX. any field that is counted based on the values is refereed as measure. Measures can be used to filter grouped values. 
+**Measure** is a list of fields that uses a SQL aggregate function, such as COUNT, SUM, AVG, MIN or MAX. any field that is counted based on the values is referred as measure. Measures can be used to filter grouped values. 
 
 > **Example :** measures for a “Amount” is Amount_sum, Amount_avg, Amount_min, Amount_max etc.
-
-Using the search option provided in the Analysis section you can select the fields for which you want to carryout the field values and apply filter options as shown in below image:
+based onsearch option provided in the Analysis section you can select the fields for which you want to carryout the field values and apply filter options as shown in below image:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/visu_fields.png)
 
@@ -229,5 +228,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzE5Nzk4NjRdfQ==
+eyJoaXN0b3J5IjpbLTc4NTkyNjY4MF19
 -->
