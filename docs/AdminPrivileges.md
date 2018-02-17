@@ -10,7 +10,7 @@ Administrative setting allows you to control and manipulate the data in Bi+ and 
 
 - **Email** Enter email id for the user.
 - **Password** Enter a password to access.
-- **FirstName** Enter firstname of the user.
+- **FirstName** Enter first-name of the user.
 - **LastName** Enter lastname of the user. 
 - **Company** Enter name of the company.
 - **Role** Select the role of the user.
@@ -51,6 +51,6 @@ Admin can create, edit and delete global parameter and global function.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzQxNTA5LDQ2NTc2NjgxNiwtOTc0Nj
-YwMTg3XX0=
+eyJoaXN0b3J5IjpbLTEwNzQ2MjI2MjYsNDY1NzY2ODE2LC05Nz
+Q2NjAxODddfQ==
 -->
