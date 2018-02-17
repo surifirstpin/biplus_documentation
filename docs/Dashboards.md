@@ -90,7 +90,7 @@ To delete the Dashboard, Select the dashboard created and click on **Delete icon
 
 ## Dependency Filters
 
-Dependency filters are used to retrieve a set of filter values based on previous filter selection. the dependency should be mensioned in the filter query with reference key from the pri
+Dependency filters are used to retrieve a set of filter values based on previous filter selection. the dependency should be mensioned in the filter query with reference key from the previous 
 
 
 
@@ -113,5 +113,5 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzMyODY2MThdfQ==
+eyJoaXN0b3J5IjpbOTYxOTk5NzUyXX0=
 -->
