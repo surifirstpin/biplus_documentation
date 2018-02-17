@@ -27,13 +27,13 @@ Bi+ will allow you to organize the data from database using this global paramete
 
 ## Upload parameters
 
-Upload the parameter select the global parameter key name.
+To Upload the parameter select the global parameter key name.
 
 2. Click on Browse button to upload the file.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f71f9b749c89e85f559f47a1db84bdb638fbc9a4/images/global+para3.png)
 
-3. Click on save button to save the global parameter.
+3. Click on **save** button to save the global parameter.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0d67f9ee78d4ee5a69d2e8b8ae127088b07972f0/images/save_globar.png) 
 
@@ -88,5 +88,5 @@ To reset password Click on Forget password button.
 eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODc4NzIzMTVdfQ==
+eyJoaXN0b3J5IjpbLTE4MTE1MTIyMDJdfQ==
 -->
