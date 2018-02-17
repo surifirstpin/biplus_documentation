@@ -45,7 +45,7 @@ Create, explore and operate on any device, directly at the point of decision. **
  
  ### Customize data
 
-Bi+ will provide the ability to control the data obtained from ser
+Bi+ will provide the ability to control the data obtained from server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTcwNjgzMDFdfQ==
+eyJoaXN0b3J5IjpbMjAwMDg5MDQzMF19
 -->
