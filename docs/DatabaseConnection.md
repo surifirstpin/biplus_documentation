@@ -78,12 +78,12 @@
 
 ### Next Steps
 
-Once you have Setup the Database connection you can further take up the process by following below steps:
+Once you have Setup the Database connection you can further take up the process by following below steps :
 
   - **Create Project** to control data in model.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTIxMDEyOCwtMjQ0OTYxNDE2LDE1Mz
-E5NDU2MDEsMjEwNDcwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3
-NjUzXX0=
+eyJoaXN0b3J5IjpbMTc2Njk4NDU2LC0yNDQ5NjE0MTYsMTUzMT
+k0NTYwMSwyMTA0NzAyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2
+NTNdfQ==
 -->
