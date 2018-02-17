@@ -42,9 +42,10 @@ Create, explore and operate on any device, directly at the point of decision. **
 ### Secure Accessibility
 
  Share and collaborate reports with team members more securely and  get the consent quickly.
+ 
+ ### Customize data
 
-
-you can customize the data based 
+Bi+ will provide the ability to control the data obtained 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzk0MDEyMF19
+eyJoaXN0b3J5IjpbMjEyNjIwNDA2MV19
 -->
