@@ -29,9 +29,9 @@
 
 - **Host**  database host path.
 - **Database** name of the database.
-**Username and Password** to connect the database.
-**Maximum connection** concurrent connection used by  database.
-**Additional Parameters** include any additional JDBC parameter in this section.
+- **Username and Password** to connect the database.
+- **Maximum connection** concurrent connection used by  database.
+- **Additional Parameters** include any additional JDBC parameter in this section.
 
 ## SSH 
 
@@ -82,8 +82,8 @@ Once you have Setup the Database connection you can further take up the process 
   - **Create Project** to control data in model.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTU2NzQyMywxNDkwMzM5Nzc2LC04MT
-Q3MzU2OTcsLTQxODE4ODA5NCwxNjU0ODMwODcxLDY5Njg2NDkx
-NSwxMzY0NzQyNzEzLC0xODQxNDk5MjksLTcyNDQ0OTc4LDE2Mz
-gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
+eyJoaXN0b3J5IjpbMTI2OTQ0NTYyLDE0OTAzMzk3NzYsLTgxND
+czNTY5NywtNDE4MTg4MDk0LDE2NTQ4MzA4NzEsNjk2ODY0OTE1
+LDEzNjQ3NDI3MTMsLTE4NDE0OTkyOSwtNzI0NDQ5NzgsMTYzOD
+ExNzg4MiwtMTI3MTA5OTQzNl19
 -->
