@@ -15,10 +15,9 @@
  ## Create Connection
  
 **Getting started :**
+
 >Path : Database-->New connection
 
-  To get started with the process you need to Select the database dialects used in your project and below are the steps to be followed:
- 
  **1.** Click on **Database Section** to setup a database connection.
 
  **2.** Click on **+New connection**  button to start setting up the connection to database. In general, you specify the below mentioned fields:
@@ -83,7 +82,7 @@ Once you have Setup the Database connection you can further take up the process 
   - **Create Project** to control data in model.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzY5Nzk5NSwxNDkwMzM5Nzc2LC04MT
+eyJoaXN0b3J5IjpbLTc2MDAwMDE2NCwxNDkwMzM5Nzc2LC04MT
 Q3MzU2OTcsLTQxODE4ODA5NCwxNjU0ODMwODcxLDY5Njg2NDkx
 NSwxMzY0NzQyNzEzLC0xODQxNDk5MjksLTcyNDQ0OTc4LDE2Mz
 gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
