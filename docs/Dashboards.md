@@ -26,7 +26,7 @@ Depending on the requirement, Bi+ allows multiple report layouts. Select the sui
 
 ##  Add Reports for Different Projects
 
-2. **Update Reports** allows you to select the layout and add the reports to which you want to build dashboard.
+2. **Update Reports** is used to select the layout and add the reports to build dashboard.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8414a3a116f22024e677cb9e647af84aaa27f6c6/images/dash_2.png)
 
@@ -114,5 +114,5 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTk4MjMwNDddfQ==
+eyJoaXN0b3J5IjpbLTkwODQ3OTA2MF19
 -->
