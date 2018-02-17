@@ -4,9 +4,7 @@
 
    **Connection** specifies a database connection from which a model can retrieve the data. Following are the steps to be followed to set up database connection.
     
-**I.**  Get the connection details for database such as Host name, port, username and password etc.           
-
-  **Database Administrator**.
+**I.**  Get the connection details for database such as Host name, port, username and password etc from **Database Administrator.
 
 **II.** Enable secure access to your database. You have several choices:
   -  Using an IP Address Whitelist, optionally adding SSL Encryption.
@@ -85,7 +83,7 @@ Once you have Setup the Database connection you can further take up the process 
   - **Create Project** to control data in model.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjM4MzA3OSwtMjQ0OTYxNDE2LDE1Mz
+eyJoaXN0b3J5IjpbLTM1NjMxODc1OSwtMjQ0OTYxNDE2LDE1Mz
 E5NDU2MDEsMjEwNDcwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3
 NjUzXX0=
 -->
