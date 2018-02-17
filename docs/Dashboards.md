@@ -54,12 +54,12 @@ Depending on the requirement, Bi+ allows multiple report layouts. Select the sui
 6. **Report Listeners** is used to apply filters to reports.
     - **Dashboard Report** Select reports to add filters.
     - **Listen Filter** refers to filter option available.
-   - **Apply to field** will allows you apply the filter options to available field list in report.
-   - **Add Listener** allows you to add multiple filters to reports.
+   - **Apply to field**  applies filter options to available field list in report.
+   - **Add Listener** adds multiple filters to reports.
 
 ## Privacy & Share Option
 
-7. Click on Save Button** to save the dashboard.
+7. Click on **Save Button** to save the dashboard.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3cf90f38c12a100708d63581b06825580e17333a/images/save_dash.png)
 
@@ -72,7 +72,7 @@ Depending on the requirement, Bi+ allows multiple report layouts. Select the sui
 
 ## Edit   Dashboard 
 
-To edit the dashboard select the dashboard created and click on **Edit** Button, It will navigate to dashboard created. 
+Click on **Edit** Button, It will navigate to dashboard created. 
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/32cd07ab577aaece73d4b9b7f53010680bda5fa0/images/edit_dash2.png)   
 
 9.   Click on **Apply Filters** to add filters.
@@ -114,5 +114,5 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzMDQzNjk0XX0=
+eyJoaXN0b3J5IjpbLTIwMzY0OTM5OV19
 -->
