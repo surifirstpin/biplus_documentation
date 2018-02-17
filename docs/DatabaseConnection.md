@@ -6,7 +6,7 @@
     
 **I.**  Get the connection details for database such as Host name, port, username and password etc from **Database Administrator**.
 
-**II.** Enable secure access to database, such as :
+**II.** Enable secure access to database :
   -  Using an IP Address Whitelist, optionally adding SSL Encryption.
   - Using an SSH Tunnel, which provides a secured and encrypted connection with extra authentication
   
@@ -83,7 +83,7 @@ Once you have Setup the Database connection you can further take up the process 
   - **Create Project** to control data in model.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDM4NjIzNzAsLTI0NDk2MTQxNiwxNT
-MxOTQ1NjAxLDIxMDQ3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4
-NzY1M119
+eyJoaXN0b3J5IjpbMjA1MDU5NDE0OSwtMjQ0OTYxNDE2LDE1Mz
+E5NDU2MDEsMjEwNDcwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3
+NjUzXX0=
 -->
