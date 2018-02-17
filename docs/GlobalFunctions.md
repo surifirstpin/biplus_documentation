@@ -45,7 +45,7 @@ function _Addition(param1,param2)
 
 ## Ability to adopt Javascript
 
-This functions supports all the native java script supported functions and also refer other global functions using   " bi.Function_name."
+This functions supports all the native java script supported functions and also refer other global functions using " bi.Function_name."
 
 ## Edit Function
 
@@ -63,5 +63,5 @@ This functions supports all the native java script supported functions and also 
 
 All the users have privilege to access global functions in calculated column,  but admin and developer can create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTI3ODU1Nl19
+eyJoaXN0b3J5IjpbLTIxMzc3OTQ4NTJdfQ==
 -->
