@@ -3,7 +3,7 @@
 ## Definition
 A variable that is defined as global is accessed anywhere in the report.
 it is et of statementstheta can be used ion set of 
-A common set of statements or operations can be defined as a glovbal function 
+A common set of statements or operations can be defined as a glovbal function and
 one global func shall be refered from another global frunction but shopuld nnot be cicular.
 **Getting Started :** 
 >Path :  Settings-->click on global functions. 
@@ -61,5 +61,5 @@ This functions supports all the native java script supported functions and you c
 
 All the users have privilege to access global functions in calculated column,  but admin and developer can create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQyMDM4ODddfQ==
+eyJoaXN0b3J5IjpbLTk2OTY0NTM1Nl19
 -->
