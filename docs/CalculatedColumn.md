@@ -354,7 +354,7 @@ ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} 
 ## Defining Local Function
 
 Custom function is a block of code (series of statements which intended to a particular task) with submitted inputs and derivable output.
-It will easeup the process of calculations When a series of statements or actions to be repeated on a set of values and output to be derived.Bi+ supports local function which can be written inside the dialog box as follows:
+It will easeup the process of calculations When a series of statements or actions to be repeated on a set of values and output to be derived. Bi+ supports local function which can be written inside the dialog box as follows:
 ```
 /*START*/
 
@@ -376,5 +376,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNDA0NTEyXX0=
+eyJoaXN0b3J5IjpbOTk2NzM2MjUwXX0=
 -->
