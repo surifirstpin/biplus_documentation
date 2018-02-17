@@ -72,7 +72,7 @@ Depending on the requirement, Bi+ allows multiple report layouts. Select the sui
 
 ## Edit   Dashboard 
 
-Click on **Edit** Button, It will navigate to dashboard created. 
+Click  **Edit** Button to make any changes to dashboard created. 
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/32cd07ab577aaece73d4b9b7f53010680bda5fa0/images/edit_dash2.png)   
 
 9.   Click on **Apply Filters** to add filters.
@@ -83,7 +83,7 @@ Click on **Edit** Button, It will navigate to dashboard created.
 
 ## Delete Dashboard
 
-To delete the Dashboard, Select the dashboard created and click on **Delete icon** as shown in below image:
+Click on **Delete icon** to delete the as shown in below image:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/666070bb576904871a67ced2eb5388f9bcd1e142/images/dash_del.png)
 
@@ -114,5 +114,5 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY0OTM5OV19
+eyJoaXN0b3J5IjpbLTE1MDYyNDEzODJdfQ==
 -->
