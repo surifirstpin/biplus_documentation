@@ -83,7 +83,7 @@ Click  **Edit** Button to make any changes to dashboard created.
 
 ## Delete Dashboard
 
-Click on **Delete icon** to delete the dasas shown in below image:
+Click **Delete icon** to delete the dashboard created :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/666070bb576904871a67ced2eb5388f9bcd1e142/images/dash_del.png)
 
@@ -97,7 +97,7 @@ Dependency filters are used to retrieve a set of filter values based on previous
 
 ## Listeners On / Off
 
-If the listener is **ON** filter is applied and if it is **OFF** filters are not applicable. You can carry out this function using **Add Listener** Parameter.
+If the listener is **ON** filter is applied and if it is **OFF** filters are not applicable. to carry out this function use **Add Listener** Parameter.
 
 ## Maximize a Contained Report
 
@@ -114,5 +114,5 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTI5ODAwMF19
+eyJoaXN0b3J5IjpbMTQ3ODQyODQ2OF19
 -->
