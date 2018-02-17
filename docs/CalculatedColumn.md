@@ -357,7 +357,6 @@ Custom function is a block of code (series of statements which intended to a par
 It will ease-up the process of calculations When a series of statements or actions to be repeated on a set of values and output to be derived. Bi+ supports local function which can be written inside the dialog box as follows:
 ```
 /*START*/
-
 function fname(param1, param2, param3 ...){
 
 statement 1;
@@ -367,7 +366,6 @@ statement 3;
 ...........
 
 return `;   
-
 }
 /*END*/
 fname(value1, value2, value3, .....)    //Call Function
@@ -376,5 +374,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2MDM4Mjc5XX0=
+eyJoaXN0b3J5IjpbLTkxNzA1NDMwMV19
 -->
