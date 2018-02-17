@@ -2,7 +2,7 @@
 <center><h1> <font color="orange"> BI+ </font> </h1></center>
 <center><h2> <font color="orange">Turn Your Insights into Actions </font> </h2></center>
 
-<h2> <font color="orange">Why Bi+</font> </h2>
+<h2> <font color="orange">Why Bi+ ? </font> </h2>
  
 BI+ is a Collection of business analytics tools that provides a standard insights throughout your organization. it streamline your process by giving you an ability to use live data by predicting needs of the Business.
 
@@ -43,5 +43,5 @@ Create, explore and operate on any device, directly at the point of decision. **
 
  Share and collaborate reports with team members more securely and  get the consent quickly.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NzI2NjA3Ml19
+eyJoaXN0b3J5IjpbNjk2OTAxMTQ1XX0=
 -->
