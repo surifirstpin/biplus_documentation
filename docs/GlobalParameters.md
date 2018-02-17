@@ -45,10 +45,10 @@ To Upload the parameter select the global parameter key name.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9f487e8bcb13f913640bdce2a7030f7b519167a/images/para1.png)
  
- Change the column type
+ Change the column type :
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9f487e8bcb13f913640bdce2a7030f7b519167a/images/para2.png)
 
-Similarly you can also edit Column cell value by clicking on the specific cell as shown below.
+
 
 5.  To view the uploaded file in JSON format click on Code view option.
 
@@ -89,5 +89,5 @@ To reset password Click on Forget password button.
 eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1Nzc0MzcyXX0=
+eyJoaXN0b3J5IjpbMTg3MTcwNTk2Nl19
 -->
