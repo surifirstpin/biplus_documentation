@@ -101,7 +101,7 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 
 ## Maximize a Contained Report
 
-12. Click on **Maximize icon in the tool bar of the report layout.
+12. Click on **Maximize icon** in the tool bar of the report layout.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/078a756c7f5ed60ca10511acdbae528ea7f7cc16/images/repo_max.png)
 
@@ -114,5 +114,5 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDIwMDgyNTVdfQ==
+eyJoaXN0b3J5IjpbMjgxNDk1NjldfQ==
 -->
