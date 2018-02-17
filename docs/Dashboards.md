@@ -19,7 +19,7 @@ Depending on the requirement, Bi+ allows multiple report layouts. Select the sui
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c9d6b6e9be883a4df0c62c47c8623392dc4e9e10/images/multiple_layout.png)
 
-1. **Select  Layout** choose a layout that matches your requirement. 
+1. **Select  Layout** choose a layout that matches requirement. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c5df381a6fdd5127a3590acfc32d28528ae62449/images/dash_1.png)
 
@@ -114,5 +114,5 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDQ5OTA1N119
+eyJoaXN0b3J5IjpbLTEyNDcxOTYwNTRdfQ==
 -->
