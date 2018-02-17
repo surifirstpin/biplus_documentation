@@ -41,9 +41,9 @@
   - SSH port of the database server
   - Database port number
   
-**If connecting with separate database host then you need to provide following information to your BI Plus analyst:**
+**If connecting with separate database host, provide following information to BI+ analyst:**
   
-  - IP address or DNS name of the database server as seen from the   tunnel server
+  - IP address or DNS name of the database server as seen from the tunnel server
   - Database port number as seen from the tunnel server
   - IP address or DNS name of the tunnel server as seen from the public internet
   - SSH port of the tunnel server as seen from the public internet
@@ -82,7 +82,7 @@ Once you have Setup the Database connection you can further take up the process 
   - **Create Project** to control data in model.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTEyMTQ1ODIsLTI0NDk2MTQxNiwxNT
-MxOTQ1NjAxLDIxMDQ3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4
-NzY1M119
+eyJoaXN0b3J5IjpbMjgxOTc2MjQ1LC0yNDQ5NjE0MTYsMTUzMT
+k0NTYwMSwyMTA0NzAyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2
+NTNdfQ==
 -->
