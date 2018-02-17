@@ -145,8 +145,8 @@ individually, which are grouped under the column field.
 ### Number Format & Currency option for fields
 
 Apply different number formats and currency options to measures.
-**a.**  Select the required number format from the list.
-**b.**  Select the currency you would like to view.
+**a.**  Select required number format from list.
+**b.**  Select currency you would like to view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a289a74e21b8055ac795aa2bb25d4cb945bc02b0/images/number_format.png)
 
@@ -192,7 +192,7 @@ Apply different number formats and currency options to measures.
 
 ## Group / Un-Group
 
-To group the row fields select **Group** options from the drop down.select **Un-Group** to release the same.
+ select **Group** options to group fi from the drop down.select **Un-Group** to release the same.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/12c2bc69fcf082dc620f2819ae901ae9c7a962a7/images/group.png)
 
@@ -230,5 +230,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0NTkwOTA0XX0=
+eyJoaXN0b3J5IjpbLTQ4NTg5OTg3Ml19
 -->
