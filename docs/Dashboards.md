@@ -94,7 +94,7 @@ To delete the Dashboard, Select the dashboard created and click on **Delete icon
 
 If the listener is **ON** filter is applied and if it is **OFF** filters are not applicable. you can carry out this function using **Add Listener** Parameter.
 
-## Maximize a contained Report
+## Maximize a Contained Report
 
 12.  To maximize a specific report click on the maximize icon in the tool bar of the report layout.
 
@@ -109,5 +109,5 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjYyMjI1OV19
+eyJoaXN0b3J5IjpbLTEyMjQ0OTgxMzFdfQ==
 -->
