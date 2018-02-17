@@ -77,12 +77,13 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 ### Next Steps
+
 Once you have Setup the Database connection you can further take up the process by following below steps:
 
-  - **Create Project** to control data in model
+  - **Create Project** to control data in model.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxMzk4MzcyLC0yNDQ5NjE0MTYsMTUzMT
-k0NTYwMSwyMTA0NzAyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2
-NTNdfQ==
+eyJoaXN0b3J5IjpbLTMwOTIxMDEyOCwtMjQ0OTYxNDE2LDE1Mz
+E5NDU2MDEsMjEwNDcwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3
+NjUzXX0=
 -->
