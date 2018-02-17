@@ -37,7 +37,7 @@ Administrative setting allows you to control and manipulate the data in Bi+ and 
 >Path : settings-->Select Groups-->Click on Add Group.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b6af863fbeb6584b8a139d0f303840ab6893da5e/images/groups.png)
 
-- **GroupName** Enter a gruop name.
+- **Group Name** enter a group name.
 - **Users** Select  users for group.
 Click on **Save** button to save group.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fed976f79b3ba765a8bc3b9ca665de4de0fd2681/images/user_edit.png)
@@ -51,6 +51,6 @@ Admin can create, edit and delete global parameter and global function.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE3MTU2NjEsNDY1NzY2ODE2LC05Nz
-Q2NjAxODddfQ==
+eyJoaXN0b3J5IjpbLTg5MzQxNTA5LDQ2NTc2NjgxNiwtOTc0Nj
+YwMTg3XX0=
 -->
