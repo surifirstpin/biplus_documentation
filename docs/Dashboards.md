@@ -83,7 +83,7 @@ Click  **Edit** Button to make any changes to dashboard created.
 
 ## Delete Dashboard
 
-Click on **Delete icon** to delete the as shown in below image:
+Click on **Delete icon** to delete the dasas shown in below image:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/666070bb576904871a67ced2eb5388f9bcd1e142/images/dash_del.png)
 
@@ -114,5 +114,5 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDYyNDEzODJdfQ==
+eyJoaXN0b3J5IjpbMTM2MTI5ODAwMF19
 -->
