@@ -3,7 +3,9 @@
 ## Definition
  
 A common set of statements or operations can be defined globally as a function and it can be retrieved and used in any project.
+
 one global func shall be refered from another global frunction but shopuld nnot be cicular.
+
 **Getting Started :** 
 >Path :  Settings-->click on global functions. 
  1. Click on Add-Functions to create new function.
@@ -60,5 +62,5 @@ This functions supports all the native java script supported functions and you c
 
 All the users have privilege to access global functions in calculated column,  but admin and developer can create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzNzA1OTc5XX0=
+eyJoaXN0b3J5IjpbLTE1NjczMTg0NV19
 -->
