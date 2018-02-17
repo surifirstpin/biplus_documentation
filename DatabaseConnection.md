@@ -10,7 +10,7 @@
   -  Using  IP Address Whitelist, optionally adding SSL Encryption.
   - Using SSH Tunnel, which provides a secured and encrypted connection with extra authentication
   
-**III.** Set up database to work with BiPlus. The instructions may vary from dialect to dialect. Typically it includes providing approval to Bi+ to access database.
+**III.** Set up database to work with Bi+. The instructions may vary from dialect to dialect. Typically it includes providing approval to Bi+ to access database.
 
  ## Create Connection
  
@@ -76,7 +76,7 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjM5MDkxMywxNDkwMzM5Nzc2LC04MT
+eyJoaXN0b3J5IjpbLTEwNDEzNzkxMiwxNDkwMzM5Nzc2LC04MT
 Q3MzU2OTcsLTQxODE4ODA5NCwxNjU0ODMwODcxLDY5Njg2NDkx
 NSwxMzY0NzQyNzEzLC0xODQxNDk5MjksLTcyNDQ0OTc4LDE2Mz
 gxMTc4ODIsLTEyNzEwOTk0MzZdfQ==
