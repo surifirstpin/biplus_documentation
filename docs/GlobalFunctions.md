@@ -4,7 +4,7 @@
 A variable that is defined as global is accessed anywhere in the report.
 it is et of statementstheta can be used ion set of 
 
-one global func shall be refered from another global frunction but shopuld nnot be cicul
+one global func shall be refered from another global frunction but shopuld nnot be cicular.
 **Getting Started :** 
 >Path :  Settings-->click on global functions. 
  1. Click on Add-Functions to create new function.
@@ -61,5 +61,5 @@ This functions supports all the native java script supported functions and you c
 
 All the users have privilege to access global functions in calculated column,  but admin and developer can create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyNzg2ODY2XX0=
+eyJoaXN0b3J5IjpbLTI1NTM1Mzk2NV19
 -->
