@@ -45,8 +45,8 @@ Create, explore and operate on any device, directly at the point of decision. **
  
  ### Customize data
 
-Bi+ will provide the ability to control the data obtained from server and optimize it with required operations and display the content. Through JavaScript API
-Through **#math#plugin#**
+Bi+ will provide the ability to control the data obtained from server and optimize it with JavaScript API Plugin operations and display the content. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0OTI0NjMyXX0=
+eyJoaXN0b3J5IjpbLTUzODk0MzQ2NF19
 -->
