@@ -90,7 +90,7 @@ To delete the Dashboard, Select the dashboard created and click on **Delete icon
 
 ## Dependency Filters
 
-Dependency filters are used to reteive the data 
+Dependency filters are used to retrieve the data 
 
 
 
@@ -115,5 +115,5 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1MDM4ODYwXX0=
+eyJoaXN0b3J5IjpbLTE2OTQ5ODQ0OTJdfQ==
 -->
