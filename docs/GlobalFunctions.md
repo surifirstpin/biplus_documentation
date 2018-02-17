@@ -49,13 +49,13 @@ This functions supports all the native java script supported functions and also 
 
 ## Edit Function
 
-4. To **Edit** the function enable edit key.
+4.  Enable edit key to **Edit** the function.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/733be26f2d58ffc41ec83bc979234243c5417a2e/images/edit_func.png)
 
 ## Delete Function
 
-5. To **Delete** the function click on delete button.
+5. Click on delete button to **Delete** the function.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3e9f75a909b59664ffe91af0ad16c2c9859586cf/images/del_func.png)
 
@@ -63,5 +63,5 @@ This functions supports all the native java script supported functions and also 
 
 All the users have privilege to access global functions in calculated column,  but admin and developer can create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc3OTQ4NTJdfQ==
+eyJoaXN0b3J5IjpbLTk1OTQxMTQyNF19
 -->
