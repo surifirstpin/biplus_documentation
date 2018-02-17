@@ -15,7 +15,7 @@ In order to make it more feasible to users, it is provided with set of global fi
 
 ## Ability for Multiple Layouts
 
-Bi+ allows you to add multiple report layouts. Depending on the requirement, Select the suitable Layout from given options available, it is also provided with ability to add,edit and delete the reports layout. 
+Bi+ allows multiple report layouts. Depending on the requirement, Select the suitable layout from given options available, it is also provided with ability to add,edit and delete the reports layout. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c9d6b6e9be883a4df0c62c47c8623392dc4e9e10/images/multiple_layout.png)
 
@@ -114,5 +114,5 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDA2NDc2NF19
+eyJoaXN0b3J5IjpbLTE4Nzc3NTExMTldfQ==
 -->
