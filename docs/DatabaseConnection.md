@@ -20,11 +20,11 @@
 
  **1.** Click on **Database Section** to setup a database connection.
 
- **2.** Click on **+New connection**  button to start setting up the connection to database. In general, you specify the below mentioned fields:
+ **2.** Click on **+New connection**  button to start setting up the connection to database. In general,  specify the below mentioned fields:
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/demo%20image.png)
 
  **Name** specify a name to define connection
- **Database(dialect)** choose a appropriate dialect that matches your connection. 
+ **Database(dialect)** choose appropriate dialect that matches based on the connection. 
 >Note: As per your requirement we can include the dialects needed to run the business.
 
 **Host**  database host path.
@@ -82,7 +82,7 @@ Once you have Setup the Database connection you can further take up the process 
   - **Create Project** to control data in model.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDAwMDE2NCwtMjQ0OTYxNDE2LDE1Mz
+eyJoaXN0b3J5IjpbLTc3OTg2Mzc1OCwtMjQ0OTYxNDE2LDE1Mz
 E5NDU2MDEsMjEwNDcwMjA0LC0xMzk3NjkzNDI2LC0xNzUwMjg3
 NjUzXX0=
 -->
