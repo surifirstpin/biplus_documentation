@@ -3,7 +3,7 @@
 
 ## Definition
 
-Dashboard provides access to view multiple reports in single dashboard layout, in this way you can get a quick view on related data.
+Dashboard provides access to view multiple reports in single dashboard layout, in this way it provides a quick view on related data.
 In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive.
 
  ## Create Dashboard
@@ -91,7 +91,8 @@ To delete the Dashboard, Select the dashboard created and click on **Delete icon
 ## Dependency Filters
 
 Dependency filters are used to retrieve a set of filter values based on previous filter selection. the dependency should be mentioned in the filter query with a reference key from the previous filter.
->  
+``` 
+```
 
 
 ## Listeners On / Off
@@ -113,5 +114,5 @@ Select the dashboard and click on **Set Home page** Icon, to set the dashboard t
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU0MzU5MjZdfQ==
+eyJoaXN0b3J5IjpbMTcxNDA2NDc2NF19
 -->
