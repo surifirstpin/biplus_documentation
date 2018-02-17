@@ -14,6 +14,7 @@ Administrative setting allows you to control and manipulate the data in Bi+ and 
 - **LastName** Enter lastname of the user. 
 - **Company** Enter name of the company.
 - **Role** Select the role of the user.
+
 | User Role |  Access|
 |--|--|
 | Admin | Create,edit,delete users,groups,global parameter,global function |
@@ -50,6 +51,6 @@ Admin can create, edit and delete global parameter and global function.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDE1NzMwLDQ2NTc2NjgxNiwtOTc0Nj
-YwMTg3XX0=
+eyJoaXN0b3J5IjpbLTMyNzczNjA5Niw0NjU3NjY4MTYsLTk3ND
+Y2MDE4N119
 -->
