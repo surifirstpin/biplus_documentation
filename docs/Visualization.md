@@ -108,10 +108,11 @@ Converts pie chart to donut.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ca6272443bb686c3c41aa07bbd28a407c2238688/images/bubble_chart3.png)
 
-- **Axis** select the measures values in y-axis  to which you would like to apply the editing options in bubble chart.
+- **Axis** select the measures values in y-axis  to enable
+editing options in bubble chart.
 - **Format** enables number format for measure values.
 - **Currency** enables the currency format for measures values in y-axis.
-- **Y-Axis** enables you to display measure values in Y-axis. 
+- **Y-Axis** display measure values in Y-axis. 
 - **Show Grid** enables the grid display for measures in y-axis.
 - **Include Zero** displays values in y-axis starting from zero.
 
@@ -119,7 +120,7 @@ Converts pie chart to donut.
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ca6272443bb686c3c41aa07bbd28a407c2238688/images/bubble_chart4.png)
 
   - **Name** Provide a reference name.
-  - **Type** specifies how y-axis scale is calculated and displayed,Below are the options available to enable the scale type.
+  - **Type** specifies how y-axis scale is calculated and displayed,below are the options available to enable the scale type.
     - Linear
     - Polynomial
     - Exponential
@@ -212,5 +213,5 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjI0MjgyNl19
+eyJoaXN0b3J5IjpbMTQ4MTc5MTE1M119
 -->
