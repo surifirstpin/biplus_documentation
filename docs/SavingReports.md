@@ -8,7 +8,7 @@ Data retrieved in analysis section can be saved in any specific tag as shown bel
 
 ## Save with info message
 
-- **Report Name** name identifier for saving the report ( Bi+ allows you to use special character but does not  support any spaces )
+- **Report Name** name identifier for saving the report ( Bi+ allows  special character but does not  support any spaces )
 - **Title** label for the report the way you want it to appear.
 - **Info** displays any specific information about the report
 - **Private ()** report saved in private section is accessed by the user itself.
@@ -29,5 +29,5 @@ Data retrieved in analysis section can be saved in any specific tag as shown bel
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTE2MTg2MTRdfQ==
+eyJoaXN0b3J5IjpbMTg0ODk3MzgwNV19
 -->
