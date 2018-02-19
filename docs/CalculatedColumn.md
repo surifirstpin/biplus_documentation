@@ -245,7 +245,7 @@ Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 ## Usage of #math#plugin# for Grid View
 
 Plugin operators provides complete authority on creation,edition and deletion of raw data. It allows customization of data using JavaScript API language  as per the business requirement.
-_biCalculation.pluginData.raw  holds the Raw JSON data and can be transformed as per the reqithe data 
+_biCalculation.pluginData.raw  holds the Raw JSON data and can be transformed as per the requithe data 
 
 
 ## Arithmetic & Logical operations on Data Fields
@@ -375,5 +375,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzU5ODU3NTZdfQ==
+eyJoaXN0b3J5IjpbMTQ2MjQ1MjUyMV19
 -->
