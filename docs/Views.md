@@ -120,7 +120,7 @@ A view may join other views and there relationship are defined as part of data a
 
 ## Drill-down features 
 
-**Drill_down_fields** parameter is used to explore the data within the field. it should be enabled in model for a particular field.  Drilling disclose a new query that is restricted by the value you clicked on.
+**Drill_down_fields** parameter is used to explore the data within the field. it should be enabled in model for a particular field. 
  **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning the true or false condition to the parameter.
  
 **Drill has different actions for dimensions and measures:**
@@ -128,16 +128,9 @@ A view may join other views and there relationship are defined as part of data a
 - When **drilling on a dimension,** the new query filters on the drilled value. For example, if you click on **COUNTRY NAME** it will show the **STATE NAME** assigned to the country.
 ```
 {
-			"name": "COUNTRYNAME",
-			"label": "COUNTRYNAME",
-			"data_type": "string",
-			"type": "dimension",
-			"lookup": "",
-			"operators": "",
-			"sql": "${TABLE}.COUNTRYNAME",
-			"summary": "",
+			
 			"drill_down_fields": "STATENAME",
-			"show_drill_down_measures": "true",
+			"show_drill_down_measures": "true",*
 			"visualise": "true"
 			},
 {
@@ -184,5 +177,5 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODA2MDE2NV19
+eyJoaXN0b3J5IjpbMjE5MDQzNjQ2XX0=
 -->
