@@ -25,7 +25,7 @@ Bi+ has an ability to show the data in 9 different chart types with some standar
 
 ## Format   
 **4. Format Section :**        
-- **Condition** Select the condition you want to apply on the field.
+- **Condition** Select the condition to apply on specific field.
 - **Format on** Select the measure for which you want to set the format.
 - **Value** Specify a value to which you want to apply condition. 
 - **BG (background colour)** Select the background colour for the data which is retrieved using condition.
@@ -212,5 +212,5 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzA5MDM2NjNdfQ==
+eyJoaXN0b3J5IjpbLTIwMDU0MzY5NzFdfQ==
 -->
