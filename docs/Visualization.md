@@ -1,11 +1,12 @@
 <center><h1>Visualization</h1></center>
 
 ### Definition 
-Visualisation provides different type of pictorial representation in the frm of charts and Bi+ allows you to create different type of charts and graphs depending on the data retrieved.
+
+Visualization displays different type of pictorial representation in the from of charts and graphs based on data retrieved.
 
 ## Types of Visualization
 
-Bi+ enables you to visualize the data retrieved in 9 different chart types with some standard editing options.
+Bi+ has an ab in 9 different chart types with some standard editing options.
 
 **01. General Section :**
 - **Title** label for chart and align them in top,bottom,left,right position 
@@ -211,5 +212,5 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzU0ODU4MV19
+eyJoaXN0b3J5IjpbLTEzNDMwMzEzNjFdfQ==
 -->
