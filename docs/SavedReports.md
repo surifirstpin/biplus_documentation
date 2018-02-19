@@ -4,12 +4,12 @@
 
 To securely save and share the dashboard for better team collaboration.
 
-- **Report Name** identifier to save the report ( BiPlus allows all the special character but does not  support any spaces ).
+- **Report Name** identifier to save the report ( BiPlus allows all the special character, but does not  support any spaces ).
 - **Title**  label for the report the way you want it to appear.
 - **Info** any specific information about the report.
 - **Private ()** report saved in private section is accessed by the user itself.
 - **Public ()** the report is saved in public section is accessed by all the users.
--  **share ()** the report saved under share section is accessed by specific set of users.
+-  **Share ()** the report saved under share section is accessed by specific set of users.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/73ed5f5e02b1219a0de22fe51ec38b5c11bfd9ed/images/saved_report.png)
 
@@ -98,5 +98,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzIyMTQ1NV19
+eyJoaXN0b3J5IjpbMTc1NDI3ODddfQ==
 -->
