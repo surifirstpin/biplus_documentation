@@ -83,7 +83,7 @@ Filters defined under the model section are applied globally to all the fields.
   
 ## Login based Filters
 
-Login based filter enables you to apply user-specific restrictions. To carry out this you need to be associated with global parameter under settings section in BI+ to work efficiently.
+Login based filter enables, user-specific restrictions. To carry out this feature it should be associated with global parameter under settings section in BI+ to work efficiently.
 ```
 bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661} 
 ,bi._globals("#userid#")],"CalcCol_Stage2.SeizeLimit
@@ -138,5 +138,5 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjY5Nzg5MzJdfQ==
+eyJoaXN0b3J5IjpbLTE4MjM3Mjk2NDhdfQ==
 -->
