@@ -113,10 +113,10 @@ A view may join other views and there relationship are defined as part of data a
  - **SQL** parameter is used define a valid SQL expression that results in a field value.
  - **Summary** is used to retrieve the aggregate field values of the measures using the following options,
    - Sum 
-   - count
+   - Count
    - Average 
-   - maximum
-   -  minimum
+   - Maximum
+   - Minimum
 
 ## Drill-down features 
 
@@ -184,5 +184,5 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjIyNzgxODddfQ==
+eyJoaXN0b3J5IjpbMjc5ODEzNTE1XX0=
 -->
