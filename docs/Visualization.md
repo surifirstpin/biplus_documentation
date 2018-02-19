@@ -198,8 +198,8 @@ Red color indicates the value attained is initial state or low.
 - **Over Border** apply colour to the border.
 - **Data Field** display the data field value on map.	
 - **Tip Fields** select numbers of data fields to be displayed on map.
-- **Colour Field** enable colour.
-- **Colour** choose the color you want to apply on field.
+- **Colour Field** enable colouring to data field.
+- **Colour** select the colour to be applied.
 - **From & To** select the data field range to be colored.
 - **Negative Cutoff** enabled when negatives values are applicable.
 - **Negative colour-from & to** Specify colour for negative values.
@@ -213,5 +213,5 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODc4NzM4NDFdfQ==
+eyJoaXN0b3J5IjpbMTUwNzUxNzM0XX0=
 -->
