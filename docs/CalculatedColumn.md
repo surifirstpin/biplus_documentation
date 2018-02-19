@@ -243,8 +243,7 @@ Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 |  typeof | Determine the type of a variable. | bi.typeof(3.5) = number, <br/>bi.typeof(math.complex('2-4i')) = complex,<br/>bi.typeof('hello world') = string |
 
 ## Usage of #math#plugin# for Grid View
-
-            welcome to Biplus
+Plugin operators provides complete
 
 
 ## Arithmetic & Logical operations on Data Fields
@@ -374,5 +373,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzA1NDMwMV19
+eyJoaXN0b3J5IjpbLTE1MjA3MjYzNzZdfQ==
 -->
