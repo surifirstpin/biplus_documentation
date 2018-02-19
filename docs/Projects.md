@@ -17,7 +17,7 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
  - **Project name** identifier for the project created.
  
  >Step 2: Connection
-- **Connection** Select the database connection you want to setup from the list provided
+- **Connection** Select the database connection from the list provided.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model2.png)
 
@@ -75,5 +75,5 @@ Select the project you want to delete and click on **delete icon**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_del.png)
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDg1ODc0OF19
+eyJoaXN0b3J5IjpbLTY3MjA3OTM4N119
 -->
