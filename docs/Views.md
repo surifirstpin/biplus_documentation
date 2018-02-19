@@ -121,7 +121,7 @@ A view may join other views and there relationship are defined as part of data a
 ## Drill-down features 
 
 **Drill_down_fields** parameter is used to explore the data within the field. it should be enabled in model for a particular field. 
- **Show_drill_down_measure** parameter is used to retrieve the data from multiple levels by assigning the true or false condition to the parameter.
+ **Show_drill_down_measure** parameter is used to carryout the measure data from multiple levels by assigning the true or false condition to the parameter.
  
 **Drill has different actions for dimensions and measures:**
 
@@ -168,5 +168,5 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzk1MzMzMV19
+eyJoaXN0b3J5IjpbLTEyMjEyNDk3OTRdfQ==
 -->
