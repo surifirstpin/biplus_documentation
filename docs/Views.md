@@ -48,8 +48,8 @@ A view may join other views and there relationship are defined as part of data a
 			"summary": "",
 			"visualise": "true"
 		},
-		   ]
-	    }
+		]
+}
 ```
 - **Name** name identifier of custom table derived.
 - **label** label the custom table the way it should appear in model section. 
@@ -96,7 +96,7 @@ A view may join other views and there relationship are defined as part of data a
 		},
 ```	
 
-- **Name** Name identifier  of the field in custom table.
+- **Name** identifier for the field in custom table.
 - **label** label the way you want the derived field to appear in custom table.
 - **Data_type** define supporting parameters and string is used as  Default parameter while deriving the fields for custom table.
    - **String** for measures that contain letters or special characters.
@@ -184,5 +184,5 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDQ3MTM2MF19
+eyJoaXN0b3J5IjpbLTEzMTIwNTAwODVdfQ==
 -->
