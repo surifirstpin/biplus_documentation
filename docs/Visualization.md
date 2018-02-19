@@ -1,7 +1,7 @@
 <center><h1>Visualization</h1></center>
 
 ### Definition 
-Visualisation provides dBi+ allows you to create different type of charts and graphs depending on the data retrieved.
+Visualisation provides diffeBi+ allows you to create different type of charts and graphs depending on the data retrieved.
 
 ## Types of Visualization
 
@@ -211,5 +211,5 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODU2MDUwNjldfQ==
+eyJoaXN0b3J5IjpbLTM4NTYxODIyNV19
 -->
