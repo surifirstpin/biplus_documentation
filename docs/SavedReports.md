@@ -15,7 +15,7 @@ To securely save and share the dashboard for better team collaboration.
 
 ## Edit Saved Report
 
-Select the dashboard report you want to edit and click on edit icon.
+ Click on edit icon to edit the dashboard report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/57a42a8d038698acf71f644dde9c012b191c2e75/images/edit_dash_rep.png)
 
@@ -98,5 +98,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDI3ODddfQ==
+eyJoaXN0b3J5IjpbMjY5MTQ4MDI1XX0=
 -->
