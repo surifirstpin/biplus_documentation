@@ -126,24 +126,15 @@ A view may join other views and there relationship are defined as part of data a
 **Drill has different actions for dimensions and measures:**
 
 - When **drilling on a dimension,** the new query filters on the drilled value. For example, if you click on **COUNTRY NAME** it will show the **STATE NAME** assigned to the country.
+> drill down should be specified in field properties with the following syntax
 ```
 {
 			
-			"drill_down_fields": "STATENAME",
+			"drill_down_fields": "DrilTATENAME",
 			"show_drill_down_measures": "true",
 			"visualise": "true"
 			},
-{
-			"name": "STATENAME",
-			"label": "STATENAME",
-			"data_type": "string",
-			"type": "dimension",
-			"lookup": "",
-			"operators": "",
-			"sql": "${TABLE}.STATENAME",
-			"summary": "",
-			"visualise": "true"
-}
+
 ```
 - When **drilling on a measure,** the new query will show the data set that contributed to the measure. For example,  when drilling on a **REVENUE_AMOUNT** it shows the **BONUS POINTS** assigned to it.
 ```
@@ -177,5 +168,5 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQ0NzEwODRdfQ==
+eyJoaXN0b3J5IjpbLTY0MDI2MTNdfQ==
 -->
