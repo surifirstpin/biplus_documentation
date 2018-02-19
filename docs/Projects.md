@@ -58,7 +58,7 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 
 ## Remove tables from Database 
 
-To remove tables from database select the check boxes under **Selected Tables** section or else you can click on **deselect all** to remove all tables at a time.
+To remove tables from database select the check boxes under selected tables section or else you can click on **deselect all** to remove all tables at a time.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0e5fb234751d7b3cd7f8f40b1ad7d79bca7c22d7/images/remove_tables.png)
 
@@ -75,5 +75,5 @@ Select the project you want to delete and click on **delete icon**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_del.png)
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzEwMTU2MDBdfQ==
+eyJoaXN0b3J5IjpbLTE1NjM0OTY4ODBdfQ==
 -->
