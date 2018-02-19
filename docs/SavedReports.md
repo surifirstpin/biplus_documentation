@@ -79,12 +79,14 @@ Here we applied global filter to **Sum count equals to 4** in Analysis section.
 Save the updated report after the changes made to report by clicking on **Save** button on dashboard screen.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8f646429db04aa96c0908e2837ac3e8a52d03450/images/update_report.png)
+
 ## Save a Shared Report after changes
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8f646429db04aa96c0908e2837ac3e8a52d03450/images/update_report.png)
 
 ## Home Page Display Option
-Select the dashboard and click on **Set Home page** Icon, to set the dashboard to your Home page.
+
+Use **Set Home page** Icon, to set the dashboard on home page.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 
 ## Hide Filters panel
@@ -100,5 +102,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTc4ODIyNF19
+eyJoaXN0b3J5IjpbMTM0ODQ5MjgxNV19
 -->
