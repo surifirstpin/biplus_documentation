@@ -6,7 +6,7 @@ Visualization displays different type of pictorial representation in the from of
 
 ## Types of Visualization
 
-Bi+ has an ab in 9 different chart types with some standard editing options.
+Bi+ has an ability to  in 9 different chart types with some standard editing options.
 
 **01. General Section :**
 - **Title** label for chart and align them in top,bottom,left,right position 
@@ -212,5 +212,5 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDMwMzEzNjFdfQ==
+eyJoaXN0b3J5IjpbMjQwODcwOTExXX0=
 -->
