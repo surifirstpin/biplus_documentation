@@ -133,7 +133,7 @@ editing options in bubble chart.
     - Variance 
     - Custom Line
     - Custom Area
-- **Data Field** select the measure value you want to refer.
+- **Data Field** select the measure value which is to be referred.
 - **Theme** choose the color for reference lines.
 
 ## Funnel chart :
@@ -168,7 +168,7 @@ Red color indicates the value attained is initial state or low.
 - **Max** displays maximum value of measure field.
 - **Donut** displays total measure value.
 - **Counter** displays all the values starting from minimum to maximum.
-- **Reverse** Displays maximum to minimum value.
+- **Reverse** displays maximum to minimum value.
 - **Hide Minmax**  hides min and maximum value.
 
 ## Table chart :
@@ -198,7 +198,7 @@ Red color indicates the value attained is initial state or low.
 - **Over Border** apply colour to the border.
 - **Data Field** display the data field value on map.	
 - **Tip Fields** select numbers of data fields to be displayed on map.
-- **Colour Field** select the data field you want to colour.
+- **Colour Field** enable colour.
 - **Colour** choose the color you want to apply on field.
 - **From & To** select the data field range to be colored.
 - **Negative Cutoff** enabled when negatives values are applicable.
@@ -213,5 +213,5 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTc5MTE1M119
+eyJoaXN0b3J5IjpbLTEyODc4NzM4NDFdfQ==
 -->
