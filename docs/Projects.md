@@ -22,14 +22,14 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model2.png)
 
 > Step 3: Database
-- **Database** Select the database you want to configure, by selecting the checkbox in **Databases** section. all the selected databases are visible under **Selected Databases** section.
+- **Database** Select the database for configuration, by selecting the checkbox in **Databases** section. All the selected databases are visible under **Selected Databases** section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model3.png)
 
 ## Add tables from Database
 
 >Step 4: Tables
-- Select the table fields in by selecting the check boxes in **Table** section, All the selected tables are visible under **Selected Tables** section.
+- Select the desired table fields from  in by selecting the check boxes in **Table** section, All the selected tables are visible under **Selected Tables** section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/add_tables.png)
 
@@ -75,5 +75,5 @@ Select the project you want to delete and click on **delete icon**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_del.png)
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDk1NjM3NF19
+eyJoaXN0b3J5IjpbLTIxMjQ2Njk1M119
 -->
