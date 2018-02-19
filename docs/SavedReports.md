@@ -53,7 +53,7 @@ Filters can be added in dashboard section for narrowing the dashboard results to
 
 ## Adding Global Filters
 
-Adding global filter to dashboard allows to override the filters you have saved in reports.
+ Global filter derived in dashboard allows to override the filters you have saved in reports.
 **Example **
 Here we applied global filter to **Sum count equals to 4** in Analysis section.
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b852b51ab2d28891914aab1c0a1efd355c252a19/images/globalfil_overide_report.png)
@@ -98,5 +98,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3NDU2NDI1XX0=
+eyJoaXN0b3J5IjpbLTIxMTAzNjMyMzddfQ==
 -->
