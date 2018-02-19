@@ -49,7 +49,7 @@ it will display the data flow of the dashboard report.
 
 ## Filters & Customization
 
-Filters can be added in dashboard section for narrow the dashboard results to the data we are interested in viewing.
+Filters can be added in dashboard section for narrowing the dashboard results  to the data we are interested in viewing.
 
 ## Adding Global Filters
 
@@ -98,5 +98,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwNzUzOTkzXX0=
+eyJoaXN0b3J5IjpbMjA1MTY0MDY1XX0=
 -->
