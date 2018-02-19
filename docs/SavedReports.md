@@ -28,8 +28,8 @@ To delete the dashboard from database, click on delete icon .
 
 To view data or visualization of the report saved click on the setting icon on far right of the dashboard report and choose  from the given options provided. 
 
-- select **Show data** to display data report.
--  select **Show visualization** to view visualization of the report.
+- Select **Show data** to display data report.
+-  Select **Show visualization** to view visualization of the report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b669cba912831971eb357451a6076136dca8d1bb/images/show_data.png)
 
@@ -98,5 +98,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5MTQ4MDI1XX0=
+eyJoaXN0b3J5IjpbLTg5NTYwNTg5NV19
 -->
