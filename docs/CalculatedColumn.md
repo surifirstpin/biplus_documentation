@@ -246,7 +246,7 @@ Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 
 Plugin operators provides complete authority on creation,edition and deletion of raw data. It allows customization of data using JavaScript API language  as per the business requirement.
 
-_biCalculation.pluginData.raw hols
+_biCalculation.pluginData.raw hol
 
 
 ## Arithmetic & Logical operations on Data Fields
@@ -376,5 +376,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTI3MzUwMDhdfQ==
+eyJoaXN0b3J5IjpbMTc4NTMwNDE0M119
 -->
