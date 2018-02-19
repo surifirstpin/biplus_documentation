@@ -11,10 +11,10 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 
 > Path : Model-->Projects-->New Project
    
-   **1.** Click on **+ New Project** button to create new project.
+   **1.** Click on **+ New Project** to create new project.
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c9ed66676e23e0ae62ebdd2103760238d0a1b0f3/images/new_project.png)
 > Step 1: Project
- - **Project name** Name identifier for the project created.
+ - **Project name** identifier for the project created.
  
  >Step 2: Connection
 - **Connection** Select the database connection you want to setup from the list provided
@@ -75,5 +75,5 @@ Select the project you want to delete and click on **delete icon**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_del.png)
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTYzNTUzM119
+eyJoaXN0b3J5IjpbMTk0NDg1ODc0OF19
 -->
