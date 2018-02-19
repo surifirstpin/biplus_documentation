@@ -10,7 +10,7 @@ if a sales manager needs to retrieve different data then material manager then w
 
 **Getting Started :**
 
- The **Project** is saved you can define the data in model section as shown in below image :
+ Once the **Project** is saved, data is defined in model section as shown in below image :
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5f41bf1e6bf7e11e52fb03d555ce35e47060280b/images/model_new.png)
  
  
@@ -138,5 +138,5 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjk1ODE2NF19
+eyJoaXN0b3J5IjpbLTM5NTQxNzM2OV19
 -->
