@@ -52,7 +52,7 @@ Bi+ provides an Integrated Development Environment (IDE) for developing and hand
 
 ## Edit a Project
 
-**4. Edit** to add any additional features to the project created and update to save changes.
+**4. Edit** to add any additional features to the project created and update to save the changes.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model5.png)
 
@@ -75,5 +75,5 @@ Select the project you want to delete and click on **delete icon**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_del.png)
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDUzMDE3N119
+eyJoaXN0b3J5IjpbLTIwNzEwMTU2MDBdfQ==
 -->
