@@ -66,7 +66,7 @@ Here we applied global filter to **Sum count equals to 4** in Analysis section.
 
 ## Lookup Single & Multiple
  
- Adding lookup to reports will refer set of query or list of items in filters.You can add single or multiple lookups to a dashboard report by clicking on **Add Lookups** in **Apply filter** section of dashboard.
+ Adding lookup to reports will refer set of query or list of items in filters. add single or multiple lookups to a dashboard report by using **Add Lookups** in **Apply filter** section of dashboard.
  
 - **Lookup name** name of the lookup field.
 - **Lookup Type**  refers to item or query type.
@@ -100,5 +100,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjAwNjIyNF19
+eyJoaXN0b3J5IjpbMTAzNTc4ODIyNF19
 -->
