@@ -78,6 +78,7 @@ Here we applied global filter to **Sum count equals to 4** in Analysis section.
 1. To update the changes made to report use **Update option** provided.
 2. To save the updated report with different name use **Save as** option.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1ca68fee0e0c76193fb8e0de7377b0598d771246/images/update_report2.png)
 ## Home Page Display Option
 
 Use **Set Home page** Icon, to set the dashboard on home page.
@@ -96,5 +97,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTgzMjc0ODJdfQ==
+eyJoaXN0b3J5IjpbNDk5OTI2NTY2XX0=
 -->
