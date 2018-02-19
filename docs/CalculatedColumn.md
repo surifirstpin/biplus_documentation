@@ -243,7 +243,7 @@ Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 |  typeof | Determine the type of a variable. | bi.typeof(3.5) = number, <br/>bi.typeof(math.complex('2-4i')) = complex,<br/>bi.typeof('hello world') = string |
 
 ## Usage of #math#plugin# for Grid View
-Plugin operators provides complete authority on creation,edition and deletion of raw data. It can be customised as per the busine
+Plugin operators provides complete authority on creation,edition and deletion of raw data. It can be customised as per the business requi
 
 
 ## Arithmetic & Logical operations on Data Fields
@@ -373,5 +373,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3OTc0MjYxXX0=
+eyJoaXN0b3J5IjpbLTc3MzMyNDk1M119
 -->
