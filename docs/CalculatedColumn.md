@@ -248,7 +248,29 @@ Plugin operators provides complete authority on creation,edition and deletion of
 
 - **_biCalculation.pluginData.raw**  holds the Raw JSON data and can be transformed as per the requirement.
 
-## Arithmetic & Logical operations on Data Fields
+```
+#math#plugin#
+
+/*START*/
+function localFunction(param1,param2,...)
+{ 
+ // update raw data 
+for(var i =0 ; i < _biCalculation.pluginData.raw.length; i++)
+    {
+         var item = biCalculation.pluginData.raw[i];
+         
+    }
+
+.................................
+................................
+
+return x;
+}
+/*END*/
+```
+
+## Arithmetic &
+ Logical operations on Data Fields
 
 Perform Arithmetic operation on desired fields in calculated columns.
 
@@ -375,5 +397,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTA5OTEyOF19
+eyJoaXN0b3J5IjpbLTE1ODUyNTAyMjVdfQ==
 -->
