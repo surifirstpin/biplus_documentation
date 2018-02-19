@@ -54,7 +54,7 @@ Filters can be added in dashboard section for narrowing the dashboard results to
 ## Adding Global Filters
 
  Global filter  allows to specify the filter value in saved report.
- if in data analysis we derive a filter but if the data of the report should be retrieved with a different filter value
+ if in data analysis we derive a filter but if the data of the report should be retrieved with a different filter value dashboard global filters 
 **Example **
 Here we applied global filter to **Sum count equals to 4** in Analysis section.
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b852b51ab2d28891914aab1c0a1efd355c252a19/images/globalfil_overide_report.png)
@@ -99,5 +99,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5MDgwNTQ0XX0=
+eyJoaXN0b3J5IjpbLTI1NTU1MDI5NF19
 -->
