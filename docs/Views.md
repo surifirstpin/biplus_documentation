@@ -130,7 +130,7 @@ A view may join other views and there relationship are defined as part of data a
 ```
 {
 			
-			"drill_down_fields": "LeTATENAME",
+			"drill_down_fields": "LevelTATENAME",
 			"show_drill_down_measures": "true",
 			"visualise": "true"
 			},
@@ -168,5 +168,5 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA0MDk0MV19
+eyJoaXN0b3J5IjpbMTA4MjQzODk1MF19
 -->
