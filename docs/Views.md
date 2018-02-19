@@ -98,7 +98,7 @@ A view may join other views and there relationship are defined as part of data a
 
 - **Name** identifier for the field in custom table.
 - **label**  the way derived field should appear in custom table.
-- **Data_type** define supporting parameters and string is used as  Default parameter while deriving the fields for custom table.
+- **Data_type** define supporting parameters and string is used as  default parameter while deriving the fields for custom table.
    - **String** for measures that contain letters or special characters.
   - **Date** measures that contain dates.
   - **Time_frame** is a derived list of formats from time stamps for instance the following are the available formats hour, day, week,month,quarter, year,date,week_day, date_month , date_quarter, date_hour, year_week.
@@ -184,5 +184,5 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM1NDQ0NDA1XX0=
+eyJoaXN0b3J5IjpbLTIxMjIyNzgxODddfQ==
 -->
