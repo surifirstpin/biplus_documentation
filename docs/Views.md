@@ -97,7 +97,7 @@ A view may join other views and there relationship are defined as part of data a
 ```	
 
 - **Name** identifier for the field in custom table.
-- **label**  the way derived field should in appear in custom table.
+- **label**  the way derived field should appear in custom table.
 - **Data_type** define supporting parameters and string is used as  Default parameter while deriving the fields for custom table.
    - **String** for measures that contain letters or special characters.
   - **Date** measures that contain dates.
@@ -184,5 +184,5 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY5MDM4OThdfQ==
+eyJoaXN0b3J5IjpbNDM1NDQ0NDA1XX0=
 -->
