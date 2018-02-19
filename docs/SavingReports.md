@@ -22,12 +22,13 @@ Data retrieved in analysis section can be saved in any specific tag as shown bel
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9b8eb3887fb798f871e12f13dddc254b0e845cc2/images/global_filter.png)
 
 ## Cache option with specific duration
-Cache saves the data
+
+Cache saves the data, so the future request for the data is provided faster.
 - **Enable cache** multiple users can pull the report from the cache in given time frame.
 - **Time frame** Enables a time limit.
 - **Repeat every** Enables automatic repeat in specified time range.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzU3MTgyMl19
+eyJoaXN0b3J5IjpbODgwNTU2NDEzXX0=
 -->
