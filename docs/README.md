@@ -48,6 +48,8 @@ In general, white label branding (sometimes called “white labeling”) is a ma
 Zoho Reports offers white label solutions to completely re-brand Zoho Reports and serve from your custom domain or portal, under your own brand.
 
 Bi+ offers white label solutions to completely  re-brand bi+ reports and serve from 
+
+Bi+ friendly whi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTI5OTEzOThdfQ==
+eyJoaXN0b3J5IjpbLTY2NDQ1MzE2MV19
 -->
