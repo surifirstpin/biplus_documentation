@@ -64,9 +64,10 @@ Bringing together all your people with all your data to explore ideas and making
 
 # dialects
 
-Connect to number of data sources. it doesn't matters what type of data you want to explore or where it stays, you can connects to hundreds of data sources with Bi+. More sources are yet to be added. 
+Connect to number of data sources. it doesn't matters what type of data you want to explore or where it 
+stays, you can connects to hundreds of data sources with Bi+. More sources are yet to be added. 
 
-
+Single solution that needs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Nzg1NTY2N119
+eyJoaXN0b3J5IjpbNzY3NDg3MTE4XX0=
 -->
