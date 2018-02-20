@@ -14,7 +14,7 @@ BI+ is Collection of business analytics tools that provides a standard insights 
   Bi+ delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices. 
   
  ### Beautiful Dashboards 
-Join multiple report layouts into single good-looking dashboard, by customizing it as per your business needs. I
+Join multiple report layouts into single good-looking dashboard, by customizing it as per your business needs.
 
 ### Embedded analytics
 
@@ -58,5 +58,5 @@ From 1 users to many, Bi+ range seamlessly to meet your growing BI needs.
 ### Self-Serve
  Anyone can use Bi+ to analyze and visualize their data, and get entrusted with the right insights.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2NTM0MzU2XX0=
+eyJoaXN0b3J5IjpbLTU0NDAxNTQ1OV19
 -->
