@@ -49,7 +49,7 @@ Simple
 Bi+ has an ability to transform the complex data into meaningful insights.
 
 Secure
-Bi+ security is built to ensurWith a 3 star security certification from Fortify, Intellicus ensures 100% data protection on all devices.
+Bi+ security is built to ensure that youWith a 3 star security certification from Fortify, Intellicus ensures 100% data protection on all devices.
 
 Scalable
 From 2 users to 2000, Intellicus scales seamlessly to meet your growing BI needs.
@@ -57,5 +57,5 @@ From 2 users to 2000, Intellicus scales seamlessly to meet your growing BI needs
 Self-Serve
  Anyone can use Intellicus to analyze and visualize their data, and get empowered with the right insights.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY4NTYyOTVdfQ==
+eyJoaXN0b3J5IjpbLTg4MDQ2MDM5MF19
 -->
