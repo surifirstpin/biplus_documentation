@@ -55,7 +55,7 @@ Scalable
 From 1 users to many, Bi+ range seamlessly to meet your growing BI needs.
 
 User-friendly
- Anyone can use Intellicus to analyze and visualize their data, and get empowered with the right insights.
+ Anyone can use Bi+ to analyze and visualize their data, and get empowered with the right insights.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1NTk4NDddfQ==
+eyJoaXN0b3J5IjpbLTE4MTE1MDYyNDNdfQ==
 -->
