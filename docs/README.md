@@ -8,7 +8,8 @@ BI+ is Collection of business analytics tools that provides a standard insights 
 
  ### Connect to any data source
 
- Import data from files,databases, cloud drives, popular business applications and in-house apps. It has a rapid setup which connects people to data quickly and can retrieve massive amount of data with an ease as **BI+** is directly connected to your database. There is no limitation to what you can explore and need not download any software. It has proven to be totally user friendly tool for your Business requirements. 
+ Import data from files,databases, cloud drives, popular business applications and in-house apps. Its rapid setup connects people to data quickly and can retrieve massive amount of data with an ease as **BI+** is directly connected to your database. 
+ 
  ###  Smarter visualization
   Bi+ delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices. Visualization delivers an innovative pictorial representation of your data in right context. Use advanced analytic integration and geographic calculation to broaden insight. It is fully interactive,easily adjustable and Zoom for better understanding.
  ### Beautiful Dashboards 
@@ -36,5 +37,5 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
  Bi+ will provide the ability to control the data obtained from server and optimize it with JavaScript API Plugin operations and display the content.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njc3MzQ1MTNdfQ==
+eyJoaXN0b3J5IjpbOTIzMjM0NTc3XX0=
 -->
