@@ -45,17 +45,17 @@ BI+ is developed with responsive mobile design and touch interaction and they’
 
  Bi+ application is integrated into current software very easily and allows you to re-brand there dashboards reports as desired.
 
-Simple
+### Simple
 Bi+ has an ability to transform the complex data into meaningful insights.
 
-Secure
+### Secure
 Bi+ security is built to ensure that your data is safe and secure, by providing 100% data protection on all devices.
 
-Scalable
+### Scalable
 From 1 users to many, Bi+ range seamlessly to meet your growing BI needs.
 
-User-friendly
- Anyone can use Bi+ to analyze and visualize their data, and get empowered with the right insights.
+### User-friendly
+ Anyone can use Bi+ to analyze and visualize their data, and get entrusted with the right insights.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTE1MDYyNDNdfQ==
+eyJoaXN0b3J5IjpbNTk3MTcyNzQ1XX0=
 -->
