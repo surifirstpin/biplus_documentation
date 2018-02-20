@@ -69,7 +69,7 @@ Controls to protect data whether you’re creating one report for many or many a
 Scheduling and alerts
 
 
-Bringin
+Bringing 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzOTkzOTcwXX0=
+eyJoaXN0b3J5IjpbMjM3MDYzNjFdfQ==
 -->
