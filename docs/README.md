@@ -41,10 +41,10 @@ BI+ is developed with responsive mobile design and touch interaction and they’
  Bi+ has an ability to control the data obtained from server and optimize it.
 
 
-## White Labelling
+## White Labeling
 
 In general, white label branding (sometimes called “white labeling”) is a manufacturing and marketing practice in which a product or service is produced by one company and then rebranded by another company to make it appear to be their own.
-
+Bi+ offers white labeling 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDMzMjExMjZdfQ==
+eyJoaXN0b3J5IjpbLTUxMjM4Nzg3NF19
 -->
