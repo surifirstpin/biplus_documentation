@@ -32,7 +32,7 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
  
  ### Explore from any device
  
-  **BI+** is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices.Create, explore and operate on any device, directly at the point of decision.
+BI+ is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices. it create, explore and operate on any device, directly at the point of decision.
  
  ### Secure Accessibility
   Share and collaborate reports with team members more securely and get the consent quickly.
@@ -41,5 +41,5 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
  Bi+ will provide the ability to control the data obtained from server and optimize it with JavaScript API Plugin operations and display the content.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDY0NjQ5OV19
+eyJoaXN0b3J5IjpbNDU4MjE4MzYwXX0=
 -->
