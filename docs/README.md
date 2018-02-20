@@ -67,6 +67,9 @@ Data protected with layers of permissions, authentication, and history
 Report integrity maintained regardless of range of inputs across business
 Controls to protect data whether you’re creating one report for many or many are creating one report
 Scheduling and alerts
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTk4MDQxN119
+eyJoaXN0b3J5IjpbMTkwNDIwNjgzXX0=
 -->
