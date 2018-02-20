@@ -1,6 +1,8 @@
                           
 
-<center><h1> <font color="orange"> BI+ </font> </h1></center> <center><h2> <font color="orange">Turn Your Insights into Actions </font> </h2></center> <h2> <font color="orange">Why Bi+ ? </font> </h2>                                   BI+ is Collection of business analytics tools that provides a standard insights throughout your organization. It streamline your process by giving you an ability to use live data by predicting needs of the Business. 
+<center><h1> <font color="orange"> BI+ </font> </h1></center> <center><h2> <font color="orange">Turn Your Insights into Actions </font> </h2></center> <h2> <font color="orange">Why Bi+ ? </font> </h2>                                   
+
+BI+ is Collection of business analytics tools that provides a standard insights throughout yur organization. It streamline the  process by giving you an ability to use live data by predicting needs of the Business. 
 <h2> <font color="orange">See BI+ In Action :</font></h2>
 
  ### Connect to any data source
@@ -23,10 +25,15 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
  
  Usage of different type of charts, widgets, pivot tables and tabular view components to create smart and insightful reports and dashboards. 
  <h2> <font color="orange">BI+ Advantages</font></h2> 
+ 
  ### Explore from any device
  Create, explore and operate on any device, directly at the point of decision. **BI+** is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices.
- ### Secure Accessibility Share and collaborate reports with team members more securely and get the consent quickly. ### Customize data Bi+ will provide the ability to control the data obtained from server and optimize it with JavaScript API Plugin operations and display the content.
+ ### Secure Accessibility
+  Share and collaborate reports with team members more securely and get the consent quickly.
+
+ ### Customize data
+ Bi+ will provide the ability to control the data obtained from server and optimize it with JavaScript API Plugin operations and display the content.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjUxOTM0MF19
+eyJoaXN0b3J5IjpbMTA2Nzg0MjcxOV19
 -->
