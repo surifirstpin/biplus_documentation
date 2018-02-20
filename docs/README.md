@@ -52,10 +52,10 @@ Secure
 Bi+ security is built to ensure that your data is safe and secure, by providing 100% data protection on all devices.
 
 Scalable
-From 2 users to 2000, Intellicus scales seamlessly to meet your growing BI needs.
+From 1 users to many, Bi+ scales seamlessly to meet your growing BI needs.
 
 Self-Serve
  Anyone can use Intellicus to analyze and visualize their data, and get empowered with the right insights.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3NTQyOTcyXX0=
+eyJoaXN0b3J5IjpbLTE3NDgzNjc4MDhdfQ==
 -->
