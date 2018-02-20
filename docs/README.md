@@ -22,15 +22,17 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
  
  ### Customer Success 
  
- When it comes to business establishment and success, **BI+** software is an innovation that has ability to share and collaborate ideas efficiently. 
+ When it comes to business establishment and success, Bi+ software is an innovation that has ability to share and collaborate ideas efficiently. 
  
  #### Variety of reporting components 
  
  Usage of different type of charts, widgets, pivot tables and tabular view components to create smart and insightful reports and dashboards. 
+ 
  <h2> <font color="orange">BI+ Advantages</font></h2> 
  
  ### Explore from any device
  Create, explore and operate on any device, directly at the point of decision. **BI+** is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices.
+ 
  ### Secure Accessibility
   Share and collaborate reports with team members more securely and get the consent quickly.
 
@@ -38,5 +40,5 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
  Bi+ will provide the ability to control the data obtained from server and optimize it with JavaScript API Plugin operations and display the content.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTk5NTEzOV19
+eyJoaXN0b3J5IjpbMTY3MTQ2MzM4N119
 -->
