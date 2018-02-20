@@ -40,6 +40,9 @@ BI+ is developed with responsive mobile design and touch interaction and they’
  ### Customize data
  Bi+ has an ability to control the data obtained from server and optimize it.
 
+
+## White La belling
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjE0MTc3Ml19
+eyJoaXN0b3J5IjpbMTQwNDY0NDE3NV19
 -->
