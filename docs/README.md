@@ -14,7 +14,8 @@ BI+ is Collection of business analytics tools that provides a standard insights 
   Bi+ delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices. 
   
  ### Beautiful Dashboards 
-Join multiple report layouts into single good-looking dashboard, by customizing it as per your business needs. It is Provided with flexible layout options for your report by making it more easier to track the performance of each report at a time efficiently. 
+Join multiple report layouts into single good-looking dashboard, by customizing it as per your business needs. I
+
 ### Embedded analytics
 
  Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
@@ -37,5 +38,5 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
  Bi+ will provide the ability to control the data obtained from server and optimize it with JavaScript API Plugin operations and display the content.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODc2Mzc2OF19
+eyJoaXN0b3J5IjpbMTU0NTk5NTEzOV19
 -->
