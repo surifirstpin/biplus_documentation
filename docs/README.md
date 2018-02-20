@@ -64,7 +64,7 @@ Bringing together all your people with all your data to explore ideas and making
 
 # dialects
 
-Connect to number of data sources. it doeasnt matters what t
+Connect to number of data sources. it doesn't matters what type of data you want to explore or where it 
 
 Connect to what matters to you.it doesn't matter what type of data you want or where it lives, connect to hundreds of data sources with Power BI. More sources added monthly.
 
@@ -72,5 +72,5 @@ Connect to what matters to you.it doesn't matter what type of data you want or w
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE0NTM2NDJdfQ==
+eyJoaXN0b3J5IjpbNDkzNDQ2NjMxXX0=
 -->
