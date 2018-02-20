@@ -38,8 +38,8 @@ BI+ is developed with responsive mobile design and touch interaction and they’
   Share and collaborate reports with team members more securely and get the consent quickly.
 
  ### Customize data
- Bi+ has an ability to control the data obtained from server and optimize it with JavaScript API Plugin operations and display the content.
+ Bi+ has an ability to control the data obtained from server and optimize it.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzM5MTEzNTFdfQ==
+eyJoaXN0b3J5IjpbMTIzNjE0MTc3Ml19
 -->
