@@ -75,6 +75,10 @@ Connect to number of data sources. it doesn't matters what type of data you want
 stays, you can connects to hundreds of data sources with Bi+. More sources are yet to be added. 
 
 Single solution that meets all your business intelligent needs
+
+
+
+https://www.sisense.com/product/mash-up/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU0Mzg2NDNdfQ==
+eyJoaXN0b3J5IjpbMjA1MTAzMDc2M119
 -->
