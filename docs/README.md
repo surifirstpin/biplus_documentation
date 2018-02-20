@@ -67,7 +67,7 @@ Bringing together all your people with all your data to explore ideas and making
 Connect to number of data sources. it doesn't matters what type of data you want to explore or where it 
 stays, you can connects to hundreds of data sources with Bi+. More sources are yet to be added. 
 
-Single solution that needs
+Single solution that meets all your business intelligent needs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3NDg3MTE4XX0=
+eyJoaXN0b3J5IjpbOTYxOTY5MDIxXX0=
 -->
