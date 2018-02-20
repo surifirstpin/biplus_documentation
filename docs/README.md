@@ -43,7 +43,7 @@ BI+ is developed with responsive mobile design and touch interaction and they’
 
 ## White Labeling
 
-Bi+ friendly white label solutions gives you an ability to add the interactive reports into your own brand. Bi+ application is integrated into current software very easily and allows you to re-brand the dashboards as desired.
+ Bi+ application is integrated into current software very easily and allows you to re-brand there dashboards reports as desired.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5OTI2OTddfQ==
+eyJoaXN0b3J5IjpbLTUxMzE2MTU3N119
 -->
