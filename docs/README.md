@@ -62,9 +62,15 @@ From 1 users to many, Bi+ range seamlessly to meet your growing BI needs.
 
 Bringing together all your people with all your data to explore ideas and making decision , the possibilities are limitless. But agile functionality without control can create a turmoil. Our business intelligent tool and cloud ready platform is well secured, scalable and performance-driven that even the most demanding industries are in desire, all within a governed framework everyone can trust. The data protected with layers of permissions,authentication and history.
 
+# dialects
+
+You can connect to
+
+Connect to what matters to you.it doesn't matter what type of data you want or where it lives, connect to hundreds of data sources with Power BI. More sources added monthly.
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzQ2NTI4OF19
+eyJoaXN0b3J5IjpbLTk2Mzg0MjM5Nl19
 -->
