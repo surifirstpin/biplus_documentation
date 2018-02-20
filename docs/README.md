@@ -45,9 +45,8 @@ BI+ is developed with responsive mobile design and touch interaction and they’
 
  Bi+ application is integrated into current software very easily and allows you to re-brand there dashboards reports as desired.
 
-
-
 Simple
+Bi+ has an ability to change the comple
  Intellicus takes away the complexity of your data and transforms it into meaningful insights for you to act on.
 
 Secure
@@ -59,5 +58,5 @@ From 2 users to 2000, Intellicus scales seamlessly to meet your growing BI needs
 Self-Serve
  Anyone can use Intellicus to analyze and visualize their data, and get empowered with the right insights.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzQ1Mjk5MF19
+eyJoaXN0b3J5IjpbMTM1NjU2MjExNV19
 -->
