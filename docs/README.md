@@ -58,7 +58,7 @@ From 1 users to many, Bi+ range seamlessly to meet your growing BI needs.
 ### Self-Serve
  Anyone can use Bi+ to analyze and visualize their data, and get entrusted with the right insights.
 
-Analytics Culture you can trust for confident action 
+Analytics Culture you can trust for confident action in your 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3OTU3MzQ1XX0=
+eyJoaXN0b3J5IjpbMTczNTYyNzUzNV19
 -->
