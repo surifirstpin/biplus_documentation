@@ -58,14 +58,17 @@ From 1 users to many, Bi+ range seamlessly to meet your growing BI needs.
 ### Self-Serve
  Anyone can use Bi+ to analyze and visualize their data, and get entrusted with the right insights.
 
-### Trusted Analytic
+### Trusted Analytics Culture
 
 Bringing together all your people with all your data to explore ideas and making decision , the possibilities are limitless. But agile functionality without control can create a turmoil. Our business intelligent tool and cloud ready platform is well secured, scalable and performance-driven that even the most demanding industries are in desire, all within a governed framework everyone can trust. The data protected with layers of permissions,authentication and history.
 
-### Bring your data to life
+### Adding Life to Data
 
 Allows Contextualized smart search and Intuitive interface helps all users to quickly author content.
-Dashboards can be created using drag and drop on mobile device or desktop
+Dashboards can be created using drag and drop on mobile device or desktop.
+
+
+
 Automatic recommendation of the best visualizations for particular data Templates and styles let you format reports instantly
 On-demand menus for access to full capabilities over a clean workspace
 
@@ -77,5 +80,5 @@ stays, you can connects to hundreds of data sources with Bi+. More sources are y
 
 Single solution that meets all your business intelligent needs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjkzMzYwM119
+eyJoaXN0b3J5IjpbLTEzNzI4NzY4MDJdfQ==
 -->
