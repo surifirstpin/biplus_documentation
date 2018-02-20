@@ -64,9 +64,8 @@ Bringing together all your people with all your data to explore ideas and making
 
 ### Adding Life to Data
 
-Allows Contextualized smart search and Intuitive interface helps all users to quickly author the content.
-Dashboards can be created using drag and drop on mobile device or desktop.
-Convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis.
+
+Convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis. Allows Contextualized smart search and Intuitive interface helps all users to quickly author the data .Dashboards can be created using drag and drop on mobile device or desktop.
 
 
 
@@ -77,5 +76,5 @@ stays, you can connects to hundreds of data sources with Bi+. More sources are y
 
 Single solution that meets all your business intelligent needs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyOTkxMDk2XX0=
+eyJoaXN0b3J5IjpbLTE2MTA3MDk2MzNdfQ==
 -->
