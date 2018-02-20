@@ -41,8 +41,8 @@ BI+ is developed with responsive mobile design and touch interaction and they’
  Bi+ has an ability to control the data obtained from server and optimize it.
 
 
-## White Labelling
+## White La-belling
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzNzkzODU5XX0=
+eyJoaXN0b3J5IjpbMTY3MDA3NjA2MF19
 -->
