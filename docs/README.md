@@ -43,13 +43,7 @@ BI+ is developed with responsive mobile design and touch interaction and they’
 
 ## White Labeling
 
-In general, white label branding (sometimes called “white labeling”) is a manufacturing and marketing practice in which a product or service is produced by one company and then rebranded by another company to make it appear to be their own.
-
-Zoho Reports offers white label solutions to completely re-brand Zoho Reports and serve from your custom domain or portal, under your own brand.
-
-Bi+ offers white label solutions to completely  re-brand bi+ reports and serve from 
-
-Bi+ friendly whitelabel solutions gives you an ability to add the interactive reports into your own brand. Bi+ apllication is integrated into cureenrt software very easily
+Bi+ friendly white label solutions gives you an ability to add the interactive reports into your own brand. Bi+ application is integrated into current software very easily and allows you to re-brand the dashboards as desired.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxMjIwNDYzXX0=
+eyJoaXN0b3J5IjpbNjg5OTI2OTddfQ==
 -->
