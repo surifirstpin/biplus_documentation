@@ -49,7 +49,7 @@ Zoho Reports offers white label solutions to completely re-brand Zoho Reports an
 
 Bi+ offers white label solutions to completely  re-brand bi+ reports and serve from 
 
-Bi+ friendly whitelabel solutions gives you an ability to add the interactive reports into your own brand.
+Bi+ friendly whitelabel solutions gives you an ability to add the interactive reports into your own brand. Bi+ apllication is integrated into cureenrt software very easily
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODg4OTE4Ml19
+eyJoaXN0b3J5IjpbNzYxMjIwNDYzXX0=
 -->
