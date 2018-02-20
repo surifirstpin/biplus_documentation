@@ -49,7 +49,7 @@ Zoho Reports offers white label solutions to completely re-brand Zoho Reports an
 
 Bi+ offers white label solutions to completely  re-brand bi+ reports and serve from 
 
-Bi+ friendly whitelabel solutions give
+Bi+ friendly whitelabel solutions gives
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg4MTY5M119
+eyJoaXN0b3J5IjpbOTE4NjMwMjcwXX0=
 -->
