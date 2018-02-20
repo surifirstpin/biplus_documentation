@@ -63,7 +63,7 @@ From 1 users to many, Bi+ range seamlessly to meet your growing BI needs.
 
 When you bring together all your people with all your data to explore ideas and make decisions, the possibilities are nearly limitless. But agility without control can create chaos. Our enterprise-class, cloud-ready platform offers the security, scalability and performance that even the most demanding industries require, all within a governed framework everyone can trust.
 
-Bringing all your data to explore ideas and making decision to your people the possibilities are limitless. But agile functionality without control can create a turmoil. Our business intelligent tool and cloud ready platform is secured, scalable and performance-driven
+Bringing all your data to explore ideas and making decision to your people the possibilities are limitless. But agile functionality without control can create a turmoil. Our business intelligent tool and cloud ready platform is secured, scalable and performance-driven that even the most 
 
 Data protected with layers of permissions, authentication, and history
 Report integrity maintained regardless of range of inputs across business
@@ -71,5 +71,5 @@ Controls to protect data whether you’re creating one report for many or many a
 Scheduling and alerts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTY1MTU5NDNdfQ==
+eyJoaXN0b3J5IjpbMTIwOTE2OTMzNl19
 -->
