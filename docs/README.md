@@ -64,7 +64,7 @@ Bringing together all your people with all your data to explore ideas and making
 
 ### Bring your data to life
 
-AllowsContextualized smart search
+Allows Contextualized smart search
 Intuitive interface helps all users quickly author content
 Dashboards can be created using drag and drop on mobile device or desktop
 Automatic recommendation of the best visualizations for particular data Templates and styles let you format reports instantly
@@ -78,5 +78,5 @@ stays, you can connects to hundreds of data sources with Bi+. More sources are y
 
 Single solution that meets all your business intelligent needs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjk4NjI0MV19
+eyJoaXN0b3J5IjpbLTE5NjI5OTYxNDNdfQ==
 -->
