@@ -68,7 +68,7 @@ Allows Contextualized smart search and Intuitive interface helps all users to qu
 Dashboards can be created using drag and drop on mobile device or desktop
 Automatic recommendation of the best visualizations for particular data Templates and styles let you format reports instantly
 On-demand menus for access to full capabilities over a clean workspace
-Single interface to create ad hoc or pixel perfect reports, frees up IT
+
 
 # dialects
 
@@ -77,5 +77,5 @@ stays, you can connects to hundreds of data sources with Bi+. More sources are y
 
 Single solution that meets all your business intelligent needs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTUzNzM2MV19
+eyJoaXN0b3J5IjpbLTE1MDg0MDI0NDZdfQ==
 -->
