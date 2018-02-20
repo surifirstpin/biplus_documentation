@@ -61,7 +61,9 @@ From 1 users to many, Bi+ range seamlessly to meet your growing BI needs.
 ### Analytics Culture you can Trust for Confident Action in your Organisation
 
 
-Bringing all your data to explore ideas and making decision to your people the possibilities are limitless. But agile functionality without control can create a turmoil. Our business intelligent tool and cloud ready platform is secured, scalable and performance-driven that even the most demanding industries are in desire, all within a governed framework everyone can trust.
+When you bring together all your people with all your data to explore ideas and make decisions, the possibilities are nearly limitless. But agility without control can create chaos. Our enterprise-class, cloud-ready platform offers the security, scalability and performance that even the most demanding industries require, all within a governed framework everyone can trust.
+
+Bringing together all your people with all your data to explore ideas and making decision to your people the possibilities are limitless. But agile functionality without control can create a turmoil. Our business intelligent tool and cloud ready platform is secured, scalable and performance-driven that even the most demanding industries are in desire, all within a governed framework everyone can trust.
 
 Data protected with layers of permissions, authentication, and history
 Report integrity maintained regardless of range of inputs across business
@@ -69,5 +71,5 @@ Controls to protect data whether you’re creating one report for many or many a
 Scheduling and alerts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzcyODY0NV19
+eyJoaXN0b3J5IjpbLTg5Nzk1NzAxMV19
 -->
