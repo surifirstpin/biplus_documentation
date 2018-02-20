@@ -54,8 +54,8 @@ Bi+ security is built to ensure that your data is safe and secure, by providing 
 ### Scalable
 From 1 users to many, Bi+ range seamlessly to meet your growing BI needs.
 
-### User-friendly
+### Self-Serve
  Anyone can use Bi+ to analyze and visualize their data, and get entrusted with the right insights.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3MTcyNzQ1XX0=
+eyJoaXN0b3J5IjpbMTk4ODE2MTI1NF19
 -->
