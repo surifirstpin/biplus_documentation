@@ -103,6 +103,13 @@ Empower every user to explore and discover insights in your data with highly int
 ### Create beautiful dashboards and visualizations in minutes
 
 Start transforming your data into live dashboards and reports in fraction of minutes, by helping you to find answers to your company's most important query.
+
+
+
+key advantages:
+
+Mashup
+Easily cleance and clear all the unwanted data coming from different sources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTY1ODIzMjJdfQ==
+eyJoaXN0b3J5IjpbLTE3NDM4NjUxNTNdfQ==
 -->
