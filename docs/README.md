@@ -77,10 +77,9 @@ stays, you can connects to hundreds of data sources with Bi+. More sources are y
 
 Single solution that meets all your business intelligent needs
 
-
-
-
 https://www.sisense.com/product/mash-up/
+Simple :
+A self-service data-discovery environment enables users to easily search for information, interact intuitively with their data, and perform in-depth analyses with the utmost simplicity.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzM3MDYzMzRdfQ==
+eyJoaXN0b3J5IjpbMTM3NTM2NDk2N119
 -->
