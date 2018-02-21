@@ -98,13 +98,12 @@ The programming-free approach empowers business users to rapidly develop and mai
 
 
 All-in-One
-Bi+ is one of the best software platform that seamlessly Join Business intelligence,Perfoemance Mana
-BOARD is the only software platform that seamlessly unifies Business Intelligence, Performance Management, Analytics and Data Discovery in a single product.
+Bi+ has an ability to provide the miis one of the best software platform that seamlessly Join Business intelligence,Performance Management,Analytics and Data Discovery in a single product.
 
 
 Cost-effective
 Bi+ is a best cost effective tool that delivers best agility in application building, customization and maintenance, by attaining customer satisfaction.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjAxODg5NF19
+eyJoaXN0b3J5IjpbMTM0MTA5ODk0OF19
 -->
