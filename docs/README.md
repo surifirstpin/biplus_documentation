@@ -108,8 +108,8 @@ Start transforming your data into live dashboards and reports in fraction of min
 
 key advantages:
 
-Mashup
-Easily collect all the data coming from different sources.
+Analyse
+interactive visual analytics allows you to explore your data 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxMzcwMTEwXX0=
+eyJoaXN0b3J5IjpbLTE3NTk1MDEwXX0=
 -->
