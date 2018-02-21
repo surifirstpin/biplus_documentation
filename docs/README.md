@@ -101,8 +101,8 @@ BOARD is the only software platform that seamlessly unifies Business Intelligenc
 
 Cost-effective
 
-Bi+ is a best cost effective tool that delivers best agility in application building, customization and maintenance, by attaining customer
+Bi+ is a best cost effective tool that delivers best agility in application building, customization and maintenance, by attaining customer satisc
  approach delivers unrivalled agility in application building, customization and maintenance, offering a “Total Cost of Ownership” that is unachievable with traditional solutions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDk0Mzc4OTFdfQ==
+eyJoaXN0b3J5IjpbMTAyODk4MTYwOF19
 -->
