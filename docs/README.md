@@ -65,10 +65,11 @@ Anyone can use Bi+ to analyze, search, visualize, interact intuitively and get e
 Bringing together all your people with all your data to explore ideas and making decision , the possibilities are limitless. But agile functionality without control can create a turmoil. Our business intelligent tool and cloud ready platform is well secured, scalable and performance-driven that even the most demanding industries are in desire, all within a governed framework everyone can trust. The data protected with layers of permissions,authentication and history.
 
 
-### Do the unimaginable with your data
+### Rule Your Data
 Qlik Sense gives you data superpowers. Easily combine all your data sources, no matter how large, into a single view. Qlik’s Associative engine indexes every possible relationship in your data so you can gain immediate insights and explore in any direction your intuition takes you. Unlike query-based tools, there’s no pre-aggregated data and predefined queries to hold you back. That means you can ask new questions and create analytics without having to build new queries or wait for the experts.
 
-multilevel acccessability
+
+>multilevel acccessability
 You have the flexibility of getting connected to business intelligence from where ever you are.
 
 # dialects
@@ -93,5 +94,5 @@ Cost-effective
 Bi+ is a best cost effective tool that delivers best agility in application building, customization and maintenance, by attaining customer satisfaction.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE4MDIzNTZdfQ==
+eyJoaXN0b3J5IjpbMTY0OTM5MDE2MF19
 -->
