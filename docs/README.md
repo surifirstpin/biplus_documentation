@@ -80,6 +80,28 @@ Single solution that meets all your business intelligent needs
 https://www.sisense.com/product/mash-up/
 Simple :
 A self-service data-discovery environment enables users to easily search for information, interact intuitively with their data, and perform in-depth analyses with the utmost simplicity.
+
+BOARD key advantages
+
+Speed
+HBMP in-memory technology, toolkit, data-fast track, dynamic data models: every BOARD component has been designed to ensure maximum speed of development and high performance.
+
+
+Ease of use
+A self-service data-discovery environment enables users to easily search for information, interact intuitively with their data, and perform in-depth analyses with the utmost simplicity.
+
+
+User Self-sufficiency
+The programming-free approach empowers business users to rapidly develop and maintain sophisticated analytical and planning applications with minimal IT Support.
+
+
+All-in-One
+BOARD is the only software platform that seamlessly unifies Business Intelligence, Performance Management, Analytics and Data Discovery in a single product.
+
+
+Cost-effective
+
+ approach delivers unrivalled agility in application building, customization and maintenance, offering a “Total Cost of Ownership” that is unachievable with traditional solutions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTM2NDk2N119
+eyJoaXN0b3J5IjpbLTE2MjEzNzE5MDZdfQ==
 -->
