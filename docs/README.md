@@ -110,6 +110,9 @@ key advantages:
 
 Analyse
 Interactive visual analytics allows you to explore your data and instinctively get the answers you need.
+
+Cloud-Connected
+it is multi-tenant cloud architecture allows users, teams, departments and IT to instantly share findings and data.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDUyOTEzMjVdfQ==
+eyJoaXN0b3J5IjpbMTY0NzI4ODQ5NV19
 -->
