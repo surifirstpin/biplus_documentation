@@ -98,13 +98,13 @@ The programming-free approach empowers business users to rapidly develop and mai
 
 
 All-in-One
+Bi+ is one of the best software platform that seamlessly Join
 BOARD is the only software platform that seamlessly unifies Business Intelligence, Performance Management, Analytics and Data Discovery in a single product.
 
 
 Cost-effective
-
 Bi+ is a best cost effective tool that delivers best agility in application building, customization and maintenance, by attaining customer satisfaction.
- approach delivers unrivalled agility in application building, customization and maintenance, offering a “Total Cost of Ownership” that is unachievable with traditional solutions.
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODczOTA1NV19
+eyJoaXN0b3J5IjpbLTE5NDY3ODMwOTddfQ==
 -->
