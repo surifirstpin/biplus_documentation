@@ -102,8 +102,8 @@ Empower every user to explore and discover insights in your data with highly int
 
 Create data dashboards and visualizations in minutes
 
-Start transforming your data into live dashboards and reports within
+Start transforming your data into live dashboards and reports 
 Less than five minutes. That’s all it takes to start transforming your data into live dashboards and reports that’ll help you find answers to your company’s most important questions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyNDg2MTQwXX0=
+eyJoaXN0b3J5IjpbLTE0NDU0NDk1MjldfQ==
 -->
