@@ -98,12 +98,11 @@ The programming-free approach empowers business users to rapidly develop and mai
 
 
 All-in-One
-Bi+  is one of the best software platform that consistently Join Business intelligence,Performance Management,Analytics and Data Discovery in a single product.
-
+Bi+ is one of the best software platform that consistently Join Business intelligence,Performance Management,Analytics and Data Discovery in a single product.
 
 Cost-effective
 Bi+ is a best cost effective tool that delivers best agility in application building, customization and maintenance, by attaining customer satisfaction.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3MTU2MzA5XX0=
+eyJoaXN0b3J5IjpbLTQwMTYyNDE5MV19
 -->
