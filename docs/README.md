@@ -97,7 +97,7 @@ Cost-effective
 Bi+ is a best cost effective tool that delivers best agility in application building, customization and maintenance, by attaining customer satisfaction.
  
  Guided
-Empower every user to explore and discover insights in your data with highly interactive and intuitive dashboards and securely share the
+Empower every user to explore and discover insights in your data with highly interactive and intuitive dashboards and securely share the trusted data information with collegues to drive business innovation together.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1NjIyMDExXX0=
+eyJoaXN0b3J5IjpbMjU2NzI1OTc1XX0=
 -->
