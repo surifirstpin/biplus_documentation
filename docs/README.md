@@ -57,7 +57,7 @@ Bi+ security is built to ensure that your data is safe and secure, by providing 
 From 1 users to many, Bi+ range seamlessly to meet your growing BI needs.
 
 ### Self-Serve
-Anyone can use Bi+ to analyze, search,visualize their data,interact intuitively with their data and get entrusted with the right insights.
+Anyone can use Bi+ to analyze, search, visualize, interact intuitively and get entrusted with the right insights.
  
 
 ### Trusted Data Analytics Culture
@@ -106,5 +106,5 @@ Cost-effective
 Bi+ is a best cost effective tool that delivers best agility in application building, customization and maintenance, by attaining customer satisfaction.
  approach delivers unrivalled agility in application building, customization and maintenance, offering a “Total Cost of Ownership” that is unachievable with traditional solutions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzM1NDgzM119
+eyJoaXN0b3J5IjpbLTk1ODczOTA1NV19
 -->
