@@ -109,7 +109,7 @@ Start transforming your data into live dashboards and reports in fraction of min
 key advantages:
 
 Analyse
-interactive visual analytics allows you to explore your data 
+Interactive visual analytics allows you to explore your data and instinctively get the answers you need.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTk1MDEwXX0=
+eyJoaXN0b3J5IjpbLTExNDUyOTEzMjVdfQ==
 -->
