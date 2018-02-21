@@ -68,7 +68,7 @@ Bringing together all your people with all your data to explore ideas and making
 ### Rule Your Data
 Qlik Sense gives you data superpowers. Easily combine all your data sources, no matter how large, into a single view. Qlik’s Associative engine indexes every possible relationship in your data so you can gain immediate insights and explore in any direction your intuition takes you. Unlike query-based tools, there’s no pre-aggregated data and predefined queries to hold you back. That means you can ask new questions and create analytics without having to build new queries or wait for the experts.
 
-Convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis.  Easily combine all your data sources, no matter how large it is, into a single view. Bi+ Associative engines indexes every possible relationship in your data by gaining immediate insights and explore in any direction. it also allows contextualized smart search and Intuitive interface helps all users to quickly author the data. Unlike query-based tools, there is no pre-aggregated data and predefined queries that hold you back.
+Convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis.  Easily combine all your data sources, no matter how large it is, into a single view. Bi+ Associative engines guide every possible relationship in your data by gaining immediate insights and explore in any direction. it also allows contextualized smart search and Intuitive interface helps all users to quickly author the data. Unlike query-based tools, there is no pre-aggregated data and predefined queries that hold you back.
 
 
 
@@ -97,5 +97,5 @@ Cost-effective
 Bi+ is a best cost effective tool that delivers best agility in application building, customization and maintenance, by attaining customer satisfaction.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzODE0MDE4XX0=
+eyJoaXN0b3J5IjpbMTg3MDA3MTc0Ml19
 -->
