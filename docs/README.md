@@ -94,10 +94,10 @@ Compact
 Bi+ is one of the best software platform that consistently Join Business intelligence,Performance Management,Analytics and Data Discovery in a single product.
 
 Cost-effective
-it provides Application building, Customization , Maintenance, Productive by attaining customer satisfaction.
+it provides Application building, Customization , Maintenance and Productive in cost by attaining customer satisfaction.
  
  Guided
 Empower every user to explore and discover insights in your data with highly interactive and intuitive dashboards and securely share the trusted data information with colleagues to drive business innovation together.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTczMTMzMzFdfQ==
+eyJoaXN0b3J5IjpbMTU0MjY4ODk2NF19
 -->
