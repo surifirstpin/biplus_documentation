@@ -86,7 +86,7 @@ A self-service data-discovery environment enables users to easily search for inf
 BOARD key advantages
 
 Speed
-HBMP in-memory technology, toolkit, data-fast track, dynamic data models: every BOARD component has been designed to ensure maximum speed of development and high performance.
+Bi + component has been designed to ensure maximum speed of development and high performance.
 
 
 Ease of use
@@ -104,5 +104,5 @@ Cost-effective
 Bi+ is a best cost effective tool that delivers best agility in application building, customization and maintenance, by attaining customer satisfaction.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2MDk5OTQ4XX0=
+eyJoaXN0b3J5IjpbLTU2Njg3MDc5NF19
 -->
