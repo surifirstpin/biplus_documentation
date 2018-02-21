@@ -80,14 +80,9 @@ stays, you can connects to hundreds of data sources with Bi+. More sources are y
 Single solution that meets all your business intelligent needs
 
 https://www.sisense.com/product/mash-up/
-
+###“What we have is a data glut.
 Speed
 Bi +  component has been designed to ensure maximum speed of development and high performance.  using a powerfull math engine through which it provides the data at earliest.
-
-
-User Self-sufficiency
-The programming-free approach empowers business users to rapidly develop and maintain sophisticated analytical and planning applications with minimal IT Support.
-
 
 Compact
 Bi+ is one of the best software platform that consistently Join Business intelligence,Performance Management,Analytics and Data Discovery in a single product.
@@ -96,5 +91,5 @@ Cost-effective
 Bi+ is a best cost effective tool that delivers best agility in application building, customization and maintenance, by attaining customer satisfaction.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODQ4NTYyNF19
+eyJoaXN0b3J5IjpbMTQ2NTY1ODU0OF19
 -->
