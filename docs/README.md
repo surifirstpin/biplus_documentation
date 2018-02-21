@@ -68,7 +68,7 @@ Bringing together all your people with all your data to explore ideas and making
 Convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis. Allows Contextualized smart search and Intuitive interface helps all users to quickly author the data.
 
 multilevel acccessability
-You have the flexib
+You have the flexibi;
 
 # dialects
 
@@ -82,5 +82,5 @@ Single solution that meets all your business intelligent needs
 
 https://www.sisense.com/product/mash-up/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg0NDU4NzNdfQ==
+eyJoaXN0b3J5IjpbMTgzOTQxMjEyNV19
 -->
