@@ -58,7 +58,7 @@ From 1 users to many, Bi+ range seamlessly to meet your growing BI needs.
 
 ### Self-Serve
 A self-servive Anyone can use Bi+ to analyze and visualize their data, and get entrusted with the right insights.
- A self-service data-discovery environment enables users to easily Analyse search for information, interact intuitively with their data
+ A self-service data-discovery environment enables users to easily Analyse, search for information, interact intuitively with their data
 
 ### Trusted Data Analytics Culture
 
@@ -106,5 +106,5 @@ Cost-effective
 Bi+ is a best cost effective tool that delivers best agility in application building, customization and maintenance, by attaining customer satisfaction.
  approach delivers unrivalled agility in application building, customization and maintenance, offering a “Total Cost of Ownership” that is unachievable with traditional solutions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDE5ODMzM119
+eyJoaXN0b3J5IjpbLTIzNDgwNTA1N119
 -->
