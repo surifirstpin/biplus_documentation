@@ -82,6 +82,7 @@ Single solution that meets all your business intelligent needs
 https://www.sisense.com/product/mash-up/
 ### “What we have is a data glut.
 ### A Random walk down Data Street
+### Abundant data and one right insight
 Speed
 Bi +  component has been designed to ensure maximum speed of development and high performance.  using a powerfull math engine through which it provides the data at earliest.
 
@@ -92,5 +93,5 @@ Cost-effective
 Bi+ is a best cost effective tool that delivers best agility in application building, customization and maintenance, by attaining customer satisfaction.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0Mzc3NTE3N119
+eyJoaXN0b3J5IjpbOTgyNDA5MTAyXX0=
 -->
