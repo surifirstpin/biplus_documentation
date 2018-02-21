@@ -98,6 +98,10 @@ It ensure Application building, Customization ,Maintenance and Cost-efficient by
  
  Guided
 Empower every user to explore and discover insights in your data with highly interactive and intuitive dashboards and securely share the trusted data information with colleagues to drive business innovation together.
+
+
+Create data dashboards and visualizations in minutes
+Less than five minutes. That’s all it takes to start transforming your data into live dashboards and reports that’ll help you find answers to your company’s most important questions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTU5NzM0OF19
+eyJoaXN0b3J5IjpbLTU2MzI0NTgxMV19
 -->
