@@ -109,7 +109,7 @@ Start transforming your data into live dashboards and reports in fraction of min
 key advantages:
 
 Mashup
-Easily cleance and clear all the unwanted data coming from different sources.
+Easily collect all the data coming from different sources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM4NjUxNTNdfQ==
+eyJoaXN0b3J5IjpbNjIxMzcwMTEwXX0=
 -->
