@@ -86,7 +86,7 @@ A self-service data-discovery environment enables users to easily search for inf
 BOARD key advantages
 
 Speed
-Bi +  component has been designed to ensure maximum speed of development and high performance.  using a powerfull math engine calcul;a
+Bi +  component has been designed to ensure maximum speed of development and high performance.  using a powerfull math engine calculations
 
 
 Ease of use
@@ -104,5 +104,5 @@ Cost-effective
 Bi+ is a best cost effective tool that delivers best agility in application building, customization and maintenance, by attaining customer satisfaction.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzMTMwNjE3XX0=
+eyJoaXN0b3J5IjpbMTI4NzgyNTM3N119
 -->
