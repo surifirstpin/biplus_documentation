@@ -46,7 +46,8 @@ BI+ is developed with responsive mobile design and touch interaction and they’
  Bi+ application is integrated into current software very easily and allows you to re-brand there dashboards reports as desired.
 
 ### Simple
-Bi+ has an ability to transform the complex data into meaningful insights.
+Bi+ has an ability to transform the complex data into meaningful insights  and perform in-depth analyses with the utmost simplicity.
+
 
 ### Secure
 Bi+ security is built to ensure that your data is safe and secure, by providing 100% data protection on all devices.
@@ -57,6 +58,7 @@ From 1 users to many, Bi+ range seamlessly to meet your growing BI needs.
 
 ### Self-Serve
  Anyone can use Bi+ to analyze and visualize their data, and get entrusted with the right insights.
+ A self-service data-discovery environment enables users to easily search for information, interact intuitively with their data
 
 ### Trusted Data Analytics Culture
 
@@ -104,5 +106,5 @@ Cost-effective
 Bi+ is a best cost effective tool that delivers best agility in application building, customization and maintenance, by attaining customer satisfaction.
  approach delivers unrivalled agility in application building, customization and maintenance, offering a “Total Cost of Ownership” that is unachievable with traditional solutions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTYxNzI3XX0=
+eyJoaXN0b3J5IjpbMTUzNzE2MDkxOF19
 -->
