@@ -97,12 +97,12 @@ User Self-sufficiency
 The programming-free approach empowers business users to rapidly develop and maintain sophisticated analytical and planning applications with minimal IT Support.
 
 
-All-in-One
+Compact
 Bi+ is one of the best software platform that consistently Join Business intelligence,Performance Management,Analytics and Data Discovery in a single product.
 
 Cost-effective
 Bi+ is a best cost effective tool that delivers best agility in application building, customization and maintenance, by attaining customer satisfaction.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTYyNDE5MV19
+eyJoaXN0b3J5IjpbNjQ2MDk5OTQ4XX0=
 -->
