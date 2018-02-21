@@ -85,10 +85,10 @@ https://www.sisense.com/product/mash-up/
 ### “What we have is a data glut.
 ### A Random walk down Data Street
 ### Abundant data and one right insight
-##3 Turn your data into information and, Information into insight
+### Turn your data into information and, Information into insight
 
 Speed
-Bi +  component has been designed to ensure maximum speed of development and high performance.  using a powerfull math engine through which it provides the data at earliest.
+Bi +  component has been designed to ensure maximum speed of development and high performance.  using a powerful math engine through which it provides the data at earliest.
 
 Compact
 Bi+ is one of the best software platform that consistently Join Business intelligence,Performance Management,Analytics and Data Discovery in a single product.
@@ -97,8 +97,7 @@ Cost-effective
 Bi+ is a best cost effective tool that delivers best agility in application building, customization and maintenance, by attaining customer satisfaction.
  
  Guided
-
 Empower every user to explore and discover insights in your data with highly interactive and intuitive dashboards.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjk2ODI4NV19
+eyJoaXN0b3J5IjpbMTI5MTE5MDc0M119
 -->
