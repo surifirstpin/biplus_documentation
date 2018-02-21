@@ -93,11 +93,11 @@ Bi +  component has been designed to ensure maximum speed of development and hig
 Compact
 Bi+ is one of the best software platform that consistently Join Business intelligence,Performance Management,Analytics and Data Discovery in a single product.
 
-Cost-effective
-it provides Application building, Customization , Maintenance and Productive in cost by attaining customer satisfaction.
+Productive
+it has an ability to provide Application building, Customization , Maintenance and Cost-efficient by attaining customer satisfaction.
  
  Guided
 Empower every user to explore and discover insights in your data with highly interactive and intuitive dashboards and securely share the trusted data information with colleagues to drive business innovation together.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjY4ODk2NF19
+eyJoaXN0b3J5IjpbMTgyNTMwNDcxMV19
 -->
