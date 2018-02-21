@@ -101,7 +101,8 @@ BOARD is the only software platform that seamlessly unifies Business Intelligenc
 
 Cost-effective
 
+
  approach delivers unrivalled agility in application building, customization and maintenance, offering a “Total Cost of Ownership” that is unachievable with traditional solutions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjEzNzE5MDZdfQ==
+eyJoaXN0b3J5IjpbLTIzNTMxODMyMF19
 -->
