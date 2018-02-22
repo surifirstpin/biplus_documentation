@@ -113,6 +113,10 @@ Interactive visual analytics allows you to explore your data and instinctively g
 
 Cloud-Connected
 its cloud architecture allows users, teams, departments and IT to instantly share findings and data.
+
+
+
+A complete Business analytic Platform
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTgzMTkxMl19
+eyJoaXN0b3J5IjpbMTYyMzkzNDQ3MF19
 -->
