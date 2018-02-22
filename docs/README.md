@@ -116,7 +116,9 @@ its cloud architecture allows users, teams, departments and IT to instantly shar
 
 
 
-A complete Business analytic Platform
+A complete Business analytic Platform.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzkzNDQ3MF19
+eyJoaXN0b3J5IjpbMjAxNzk3Njk1Nl19
 -->
