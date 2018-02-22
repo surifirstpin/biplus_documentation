@@ -119,7 +119,7 @@ its cloud architecture allows users, teams, departments and IT to instantly shar
 
 Business Analytics
 
-Turn your information into data, and data into Insights with Embedded Analytics. Empower your business by putting analytics where your employees, customers, partners, and suppliers need them.
+Turn your information into data, and data into Insights with Embedded Analytics also empower your business by putting analytics where your employees, customers, partners, and suppliers need them.
 
 Data Blend
 Access, Manipulate and join data from different sources easily to create reports and get more insights into your business.
@@ -130,5 +130,5 @@ Set up Data with Hadoop and other big data.
 Deployment :
 With Bi+ you have flexibility to integrate into your existing data infrastructure, No matter where it is either on-premise or in the cloud.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI0ODM3MTVdfQ==
+eyJoaXN0b3J5IjpbLTg2MTU4Njg1OF19
 -->
