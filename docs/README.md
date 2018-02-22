@@ -118,7 +118,8 @@ its cloud architecture allows users, teams, departments and IT to instantly shar
 ### A Complete Business analytic Platform.
 
 Business Analytics
-Turn your information into data, And Data into Insights with Embedded Analytics.
+Empower your business by putting analytics where your employees, customers, partners, and suppliers need them.
+Read more at https://www.tableau.com/products/server#QZzLkQmHo7rKODx5.99Turn your information into data, And Data into Insights with Embedded Analytics.
 
 Data Blend
 Access, Manipulate and join any data from any source.
@@ -134,5 +135,5 @@ Deployment
 
 While some providers see deployment as a necessary hurdle, we see it as keys to the ignition. At Sisense, we deploy on your terms, to the cloud, on-premise or hybrid, then follow it up with security, availability, and optional managed services.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1ODIzMjU2XX0=
+eyJoaXN0b3J5IjpbLTEwODc4OTQ5MDFdfQ==
 -->
