@@ -54,7 +54,7 @@ Bi+ security is built to ensure that your data is safe and secure, by providing 
 
 ### Scalable
 
-From one users to many, Bi+ scv range seamlessly to meet your growing BI needs and Progressed to newer hardware easily or add more connection for increased redundancy and scope.
+From one users to many, Bi+ scva range seamlessly to meet your growing BI needs and Progressed to newer hardware easily or add more connection for increased redundancy and scope.
 ### Self-Serve
 Anyone can use Bi+ to analyze, search, visualize, interact intuitively and get entrusted with the right insights.
  
@@ -134,5 +134,5 @@ Deployment
 
 While some providers see deployment as a necessary hurdle, we see it as keys to the ignition. At Sisense, we deploy on your terms, to the cloud, on-premise or hybrid, then follow it up with security, availability, and optional managed services.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0MDkwMDUyXX0=
+eyJoaXN0b3J5IjpbLTI2NTg1MTIyM119
 -->
