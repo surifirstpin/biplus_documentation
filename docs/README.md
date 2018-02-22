@@ -144,9 +144,9 @@ Performance Management
 Easily implement planning solutions and efficient applications to effectively carryout performance with corporate strategic objective. 
 
 Build Lasting Relationships
-We aspire to keep our customers for life by proactively leading them through their toughest challenges, by focusing on innovation, support, customer satisfaction.
+We aspire to keep our customers for life by proactively leading them through their toughest challenges, by focusing on innovation, support and business satisfaction.
 
 https://www.columbusglobal.com/en-us/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTI5OTUzNF19
+eyJoaXN0b3J5IjpbLTE3MjQ3OTYzOTFdfQ==
 -->
