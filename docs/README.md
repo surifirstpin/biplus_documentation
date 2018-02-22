@@ -127,6 +127,13 @@ Access, Manipulate and join any data from any source.
 Big Data
 Set up Data with Hadoop and other big data.
 
+Deployment
+
+
+
+
+
+While some providers see deployment as a necessary hurdle, we see it as keys to the ignition. At Sisense, we deploy on your terms, to the cloud, on-premise or hybrid, then follow it up with security, availability, and optional managed services.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjAzOTIzM119
+eyJoaXN0b3J5IjpbLTk1NTAxMzUyN119
 -->
