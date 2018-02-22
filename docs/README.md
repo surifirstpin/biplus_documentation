@@ -70,8 +70,8 @@ Convert, cleanse, or enrich data with multiple transformation functions for more
 
 
 
->multilevel acccessability
-You have the flexibility of getting connected to business intelligence from where ever you are.
+# multilevel accessibility
+You have the flexibility of getting connected to business intelligence from Desktop,table where ever you are.
 
 # dialects
 
@@ -149,5 +149,5 @@ We aspire to keep our customers for life by proactively leading them through the
 
 https://www.columbusglobal.com/en-us/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTcwMTE5OV19
+eyJoaXN0b3J5IjpbOTY4NjY4ODExXX0=
 -->
