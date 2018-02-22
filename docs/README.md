@@ -119,7 +119,9 @@ its cloud architecture allows users, teams, departments and IT to instantly shar
 A complete Business analytic Platform.
 
 Business Analytics
+Turn your information into data, And Data into Insights with Embedded Analytics.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTIxOTc4MF19
+eyJoaXN0b3J5IjpbLTQ3ODMzOTkyNl19
 -->
