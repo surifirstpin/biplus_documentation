@@ -120,7 +120,7 @@ its cloud architecture allows users, teams, departments and IT to instantly shar
 Business Analytics
 Empower your business by putting analytics where your employees, customers, partners, and suppliers need them.
 
-Turn your information into data, and data into Insights with Embedded Analytics. Empower your businessby putting analytics 
+Turn your information into data, and data into Insights with Embedded Analytics. Empower your businessby putting analytics where 
 
 Data Blend
 Access, Manipulate and join any data from any source.
@@ -136,5 +136,5 @@ Deployment
 
 While some providers see deployment as a necessary hurdle, we see it as keys to the ignition. At Sisense, we deploy on your terms, to the cloud, on-premise or hybrid, then follow it up with security, availability, and optional managed services.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQ3NTcxOTldfQ==
+eyJoaXN0b3J5IjpbLTcxNzc1NDI0OF19
 -->
