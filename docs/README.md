@@ -122,7 +122,7 @@ Business Analytics
 Turn your information into data, and data into Insights with Embedded Analytics. Empower your business by putting analytics where your employees, customers, partners, and suppliers need them.
 
 Data Blend
-Access, Manipulate and join data from any source easily to create cross functional reports and get more insights into your business.
+Access, Manipulate and join data from different sources easily to create reports and get more insights into your business.
 
 Big Data
 Set up Data with Hadoop and other big data.
@@ -130,5 +130,5 @@ Set up Data with Hadoop and other big data.
 Deployment :
 With Bi+ you have flexibility to integrate into your existing data infrastructure, No matter where it is either on-premise or in the cloud.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTQxOTY3NF19
+eyJoaXN0b3J5IjpbLTEyMzI0ODM3MTVdfQ==
 -->
