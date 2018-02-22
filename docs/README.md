@@ -116,7 +116,7 @@ its cloud architecture allows users, teams, departments and IT to instantly shar
 
 
 
-A complete Business analytic Platform.
+### A Complete Business analytic Platform.
 
 Business Analytics
 Turn your information into data, And Data into Insights with Embedded Analytics.
@@ -127,5 +127,5 @@ Access, Manipulate and join any data from any source.
 Big Data
 Set up Data with Hadoop and other big data.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODgzNzczMzBdfQ==
+eyJoaXN0b3J5IjpbLTUxNjM2NTEwM119
 -->
