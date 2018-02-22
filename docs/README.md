@@ -122,7 +122,7 @@ Business Analytics
 Turn your information into data, And Data into Insights with Embedded Analytics.
 
 Data Blend
-Acess
+Acess, Manupulate and join any data from any source.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTY0MTY1Ml19
+eyJoaXN0b3J5IjpbNTIyMDU1MzJdfQ==
 -->
