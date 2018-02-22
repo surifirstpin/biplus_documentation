@@ -132,7 +132,7 @@ With Bi+ you have flexibility to integrate into your existing data infrastructur
 
 ### Our Business Analytics Platform is all about Customer Retention
 
-Our Organisation helps you to enable a clear vision of the performance in a simple and effective manner. We are focused more on redefining each aspect of business analytics by making it more easy to explore your business insight. Coming to your success, No other Business intelligence provider can meet Bi+ focus and commitment.
+Our Organisation helps you to enable a clear vision of the performance in a simple and effective manner. We are focused more on redefining each aspect of business analytics by making it more easy to explore your business insight. Coming to your success Bi+ focus and commitment.
                         We Provide service in 3 impressive ways:
 > https://www.board.com/en
 
@@ -148,5 +148,5 @@ We aspire to keep our customers for life by proactively leading them through the
 
 https://www.columbusglobal.com/en-us/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQ3OTYzOTFdfQ==
+eyJoaXN0b3J5IjpbLTYwNzQ4NDY2OV19
 -->
