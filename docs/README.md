@@ -122,7 +122,10 @@ Business Analytics
 Turn your information into data, And Data into Insights with Embedded Analytics.
 
 Data Blend
-Acess, Manupulate and join any data from any source.
+Access, Manupulate and join any data from any source.
+
+Big Data
+Set up Data with Hadoop and other big data.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyMDU1MzJdfQ==
+eyJoaXN0b3J5IjpbODQ1NzQ2MDUwXX0=
 -->
