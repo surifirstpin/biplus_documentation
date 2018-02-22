@@ -54,8 +54,7 @@ Bi+ security is built to ensure that your data is safe and secure, by providing 
 
 ### Scalable
 
-From 1 users to many, Bi+ range seamlessly to meet your growing BI needs.
-
+From 1 users to many, Bi+ range seamlessly to meet your growing BI needs.Transition to newer hardware easily or add more nodes for increased redundancy and capacity.
 ### Self-Serve
 Anyone can use Bi+ to analyze, search, visualize, interact intuitively and get entrusted with the right insights.
  
@@ -135,5 +134,5 @@ Deployment
 
 While some providers see deployment as a necessary hurdle, we see it as keys to the ignition. At Sisense, we deploy on your terms, to the cloud, on-premise or hybrid, then follow it up with security, availability, and optional managed services.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTAxMzUyN119
+eyJoaXN0b3J5IjpbMzg3MTAzMDE4XX0=
 -->
