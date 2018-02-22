@@ -118,7 +118,6 @@ its cloud architecture allows users, teams, departments and IT to instantly shar
 ### A Complete Business analytic Platform.
 
 Business Analytics
-Empower your business by putting analytics where your employees, customers, partners, and suppliers need them.
 
 Turn your information into data, and data into Insights with Embedded Analytics. Empower your business by putting analytics where your employees, customers, partners, and suppliers need them.
 
@@ -128,13 +127,8 @@ Access, Manipulate and join any data from any source.
 Big Data
 Set up Data with Hadoop and other big data.
 
-Deployment
-
-
-
-
-
-While some providers see deployment as a necessary hurdle, we see it as keys to the ignition. At Sisense, we deploy on your terms, to the cloud, on-premise or hybrid, then follow it up with security, availability, and optional managed services.
+Deployment :
+With Bi+ you have flexibility to integrate into your existing data infrastructure, No matter where it is either on-premise or in the cloud.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU2OTY5NDRdfQ==
+eyJoaXN0b3J5IjpbNDc1NTc0ODI5XX0=
 -->
