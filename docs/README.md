@@ -129,6 +129,24 @@ Set up Data with Hadoop and other big data.
 
 Deployment :
 With Bi+ you have flexibility to integrate into your existing data infrastructure, No matter where it is either on-premise or in the cloud.
+
+### Our Business Analytics Platform is all about Customer Retention
+
+Our Organisation helps you to enable a clear vision of the performance in a simple and effective manner. We are focused more on redefining each aspect of business analytics by making it more easy to explore your business insight. Coming to your success, No other Business intelligence provider can meet Bi+ focus and commitment.
+                        We Provide service in 3 impressive ways:
+> https://www.board.com/en
+
+Unified Business Intelligence Software
+
+Explore and run your data with effective analysis, build interactive dashboard and create beautiful reports.Combine all business user self-service, with enterprise wide data control.
+
+Performance Management
+Easily implement planning solutions and efficient applications to effectively carryout performance with corporate strategic objective. 
+
+Build Lasting Relationships
+We proactively lead our customers through their toughest challenges. We focus on innovation, support and customer satisfaction. We aspire to keep our customers for life.
+
+https://www.columbusglobal.com/en-us/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTU4Njg1OF19
+eyJoaXN0b3J5IjpbLTY4NzI0NzI0NF19
 -->
