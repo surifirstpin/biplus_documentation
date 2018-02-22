@@ -115,7 +115,7 @@ its cloud architecture allows users, teams, departments and IT to instantly shar
 
 
 
-### A Complete Business analytic Platform.
+### A Complete Business analytic Platform. ( pentaho website)
 
 Business Analytics
 
@@ -130,5 +130,5 @@ Set up Data with Hadoop and other big data.
 Deployment :
 With Bi+ you have flexibility to integrate into your existing data infrastructure, No matter where it is either on-premise or in the cloud.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1NTc0ODI5XX0=
+eyJoaXN0b3J5IjpbNTQ5MjMwNjYwXX0=
 -->
