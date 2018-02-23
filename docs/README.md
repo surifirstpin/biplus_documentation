@@ -184,7 +184,7 @@ Finance
 Automate financial planning and analyze business performance down to operations.
 
 Gaming
-To make decision that are right for y
+To make decision that are right for your futu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU3NjMwMDVdfQ==
+eyJoaXN0b3J5IjpbLTE4NjE1NTE2OV19
 -->
