@@ -156,7 +156,7 @@ ClicData connects to all your business data sources and retrieves the latest inf
 Save Valuable Time on Data Management, Focus on what matters.
 
 ### Benefits of Live Data
-Bi+ retrieves the latest information and assist your financial advisor to focus on analyzing and controlling rather than wasting ti
+Bi+ retrieves the latest information and assist your financial advisor to focus on analyzing and controlling rather than wasting time o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NjM5NDU3MV19
+eyJoaXN0b3J5IjpbLTU1MTYyOTExNl19
 -->
