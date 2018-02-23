@@ -177,14 +177,15 @@ Track, analyze and plan your “lead to revenue” process.
 Supply Chain
 Break functional silos: plan and analyze across the entire SCM.
 
+Gaming
+To make decision that are right for the future of your business, You need business intelligence.
 HR
 Streamline workforce planning and get better insights into human capital performance.
 
 Finance
 Automate financial planning and analyze business performance down to operations.
 
-Gaming
-To make decision that are right for your future
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTc3OTY2MF19
+eyJoaXN0b3J5IjpbMTA4MTYzODk5Nl19
 -->
