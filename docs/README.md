@@ -156,7 +156,7 @@ ClicData connects to all your business data sources and retrieves the latest inf
 Save Valuable Time on Data Management, Focus on what matters.
 
 ### Benefits of Live Data
-
+Bi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDUxNjY3MDhdfQ==
+eyJoaXN0b3J5IjpbLTczMzEzMzgxOV19
 -->
