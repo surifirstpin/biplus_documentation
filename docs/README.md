@@ -148,6 +148,13 @@ Build Lasting Relationships
 We aspire to keep our customers for life by proactively leading them through their toughest challenges, by focusing on innovation, support and business satisfaction.
 
 https://www.columbusglobal.com/en-us/
+
+
+
+### The Benefits of Automation
+ClicData connects to all your business data sources and retrieves the latest information automatically so that your financial adviser can focus on analyzing and controlling rather than wasting time retrieving the data.
+Save Valuable Time on Data Management, Focus on what matters.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2NjE3ODY1XX0=
+eyJoaXN0b3J5IjpbLTE2MDY2NDg3MTJdfQ==
 -->
