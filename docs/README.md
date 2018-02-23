@@ -154,7 +154,13 @@ https://www.columbusglobal.com/en-us/
 
 
 ### Benefits of Live Data
-Bi+ retrieves the latest information and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time for data management, 
+Bi+ retrieves the latest information and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time for data management.
+
+
+COMBINE ANY SOURCE
+Relational databases like access and MySQL but also MongoDB, Redis and Redshift are supported among many more. Any structured data source can be combined with any of your own sources, for better analysis.
+
+icCube even supports custom sources so you are guaranteed you will never be blocked. This means that if you want to add different sources in the future, you are guaranteed you can.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjgxNDI0NzBdfQ==
+eyJoaXN0b3J5IjpbMTgxOTk1MTY3OV19
 -->
