@@ -158,8 +158,8 @@ Bi+ retrieves the latest information and assist your financial advisor to focus 
 
 
 Disclose Data
-Sometimes, Direct dashboard reports are not enough to further explore your data. Bi+ is provided with drill-down facility
+Sometimes, Direct dashboard reports are not enough to further explore your data. Bi+ is provided with filter option to drill-down facility
 Sometimes, dashboards are not enough. You need to explore your data. You are able to configure every click event yourself and make widgets interact between each other. Apply filters by clicking on data points or drill down into your data as deep as you like.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjYyNjE5OF19
+eyJoaXN0b3J5IjpbLTE1MDc4NDQ0NTBdfQ==
 -->
