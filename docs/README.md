@@ -152,6 +152,7 @@ https://www.columbusglobal.com/en-us/
 
 
 
+### Data Creativity
 
 ### Benefits of Live Data
 Bi+ retrieves the latest information and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time for data management.
@@ -161,5 +162,5 @@ Bi+ retrieves the latest information and assist your financial advisor to focus 
 Sometimes, Direct dashboard reports are not enough to further explore your data. Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODk3MjIxODBdfQ==
+eyJoaXN0b3J5IjpbMzQ4OTc5NDA3XX0=
 -->
