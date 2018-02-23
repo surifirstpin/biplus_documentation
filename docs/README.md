@@ -193,8 +193,8 @@ Automate financial planning and analyze business performance down to operations.
 ## Flexible and interactive Solutions
 ## Advanced and Predictive Analysis
 ## Drive Data Analytics with Actionable Insights
-
+## Data Acc
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjgwNzc5MTddfQ==
+eyJoaXN0b3J5IjpbMTM5MDk1ODY1OF19
 -->
