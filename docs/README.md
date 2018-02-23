@@ -71,7 +71,8 @@ Bringing all your team and data together for data exploration and easy decision 
 ### Rule Your Data
 
 Convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis.  Easily combine all your data sources, no matter how large it is, into a single view. Bi+ Associative engines guide every possible relationship in your data by gaining immediate insights and explore in any direction. it also allows contextualized smart search and Intuitive interface helps all users to quickly author the data. Unlike query-based tools, there is no pre-aggregated data and predefined queries that hold you back.
-
+## new ( Combine your data)
+Convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis.  Easily combine all your data sources, no matter how large it is, into a single view. Bi+ Associative engines guide every possible relationship in your data by gaining immediate insights and explore in any direction. it also allows contextualized smart search and Intuitive interface helps all users to quickly author the data. Unlike query-based tools, there is no pre-aggregated data and predefined queries that hold you back.
 
 
 # multi device accessibility
@@ -166,5 +167,5 @@ Bi+ retrieves the latest information and assist your financial advisor to focus 
 Sometimes, Direct dashboard reports are not enough to further explore your data. Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTEyMDk2XX0=
+eyJoaXN0b3J5IjpbLTEzMjczNTE2MDddfQ==
 -->
