@@ -157,8 +157,9 @@ https://www.columbusglobal.com/en-us/
 Bi+ retrieves the latest information and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time for data management.
 
 
-Discover Data
+Disclose Data
+
 Sometimes, dashboards are not enough. You need to explore your data. You are able to configure every click event yourself and make widgets interact between each other. Apply filters by clicking on data points or drill down into your data as deep as you like.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDA2NTkxOV19
+eyJoaXN0b3J5IjpbMzc1MzMxMTE4XX0=
 -->
