@@ -66,7 +66,7 @@ Bringing all your team and information together for data exploration and easy de
 ## new
 
 
-Bringing all your team and data together for data exploration and easy decision making endless. Our business intelligent tool and cloud ready platform is well secured, scalable and performance-driven that even the most demanding industries catrust. The data protected with layers of permissions,authentication and history.
+Bringing all your team and data together for data exploration and easy decision making endless. Our business intelligent tool and cloud ready platform is well secured, scalable and performance-driven that even the most demanding industries can trust. The data protected with layers of permissions,authentication and history.
 
 ### Rule Your Data
 
@@ -166,5 +166,5 @@ Bi+ retrieves the latest information and assist your financial advisor to focus 
 Sometimes, Direct dashboard reports are not enough to further explore your data. Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzUzMTAxMjZdfQ==
+eyJoaXN0b3J5IjpbMTgxNTEyMDk2XX0=
 -->
