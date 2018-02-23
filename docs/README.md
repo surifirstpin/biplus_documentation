@@ -187,6 +187,9 @@ Finance
 Automate financial planning and analyze business performance down to operations.
 
 
+## Analyse, Plan and Predict using Single Platform
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0NzI4MDY2XX0=
+eyJoaXN0b3J5IjpbLTEyNzU2NjQ4OTldfQ==
 -->
