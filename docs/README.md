@@ -179,6 +179,7 @@ Break functional silos: plan and analyze across the entire SCM.
 
 Gaming
 To make decision that are right for the future of your business, You need business intelligence.
+
 HR
 Streamline workforce planning and get better insights into human capital performance.
 
@@ -187,5 +188,5 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTYzODk5Nl19
+eyJoaXN0b3J5IjpbNzA0NzI4MDY2XX0=
 -->
