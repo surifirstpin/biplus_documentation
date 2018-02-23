@@ -157,10 +157,8 @@ https://www.columbusglobal.com/en-us/
 Bi+ retrieves the latest information and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time for data management.
 
 
-COMBINE ANY SOURCE
-Relational databases like access and MySQL but also MongoDB, Redis and Redshift are supported among many more. Any structured data source can be combined with any of your own sources, for better analysis.
-
-icCube even supports custom sources so you are guaranteed you will never be blocked. This means that if you want to add different sources in the future, you are guaranteed you can.
+Discover Data
+Sometimes, dashboards are not enough. You need to explore your data. You are able to configure every click event yourself and make widgets interact between each other. Apply filters by clicking on data points or drill down into your data as deep as you like.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTk1MTY3OV19
+eyJoaXN0b3J5IjpbMTIxMDA2NTkxOV19
 -->
