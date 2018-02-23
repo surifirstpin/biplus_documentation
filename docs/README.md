@@ -151,12 +151,10 @@ https://www.columbusglobal.com/en-us/
 
 
 
-###  The Benefits of Automation
-ClicData connects to all your business data sources and retrieves the latest information automatically so that your financial adviser can focus on analyzing and controlling rather than wasting time retrieving the data.
-Save Valuable Time on Data Management, Focus on what matters.
+
 
 ### Benefits of Live Data
 Bi+ retrieves the latest information and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time for data management, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTcyNTY3M119
+eyJoaXN0b3J5IjpbLTE3MjgxNDI0NzBdfQ==
 -->
