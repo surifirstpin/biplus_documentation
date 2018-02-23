@@ -61,7 +61,7 @@ Anyone can use Bi+ to analyze, search, visualize, interact intuitively and get e
 
 ### Trusted Data Analytics Culture
 
-Bringing together all your people with all your data to explore ideas and making decision , the possibilities are limitless. But agile functionality without control can create a turmoil. Our business intelligent tool and cloud ready platform is well secured, scalable and performance-driven that even the most demanding industries are in desire, all within a governed framework everyone can trust. The data protected with layers of permissions,authentication and history.
+Bringing all your team and information together for data exploration and easy decision making, the possibilities are limitless. But agile functionality without control can create a turmoil. Our business intelligent tool and cloud ready platform is well secured, scalable and performance-driven that even the most demanding industries are in desire, all within a governed framework everyone can trust. The data protected with layers of permissions,authentication and history.
 
 
 ### Rule Your Data
@@ -162,5 +162,5 @@ Bi+ retrieves the latest information and assist your financial advisor to focus 
 Sometimes, Direct dashboard reports are not enough to further explore your data. Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4OTc5NDA3XX0=
+eyJoaXN0b3J5IjpbLTcyNDAzNTA2OF19
 -->
