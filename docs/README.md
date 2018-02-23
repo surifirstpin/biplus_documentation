@@ -196,7 +196,7 @@ Automate financial planning and analyze business performance down to operations.
 ## Data Access to all
 ## Interactive data Integration and Analytics Platform
 ## Unified Decision Making Platform
-## Analytic Solution for Evryone
+## Data Analytical Solution for Everyone`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA0MTk3NjRdfQ==
+eyJoaXN0b3J5IjpbNTkzMjQxODg0XX0=
 -->
