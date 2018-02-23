@@ -157,9 +157,9 @@ https://www.columbusglobal.com/en-us/
 Bi+ retrieves the latest information and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time for data management.
 
 
-Disclose Data
-Sometimes, Direct dashboard reports are not enough to further explore your data. Bi+ is provided with filter option to drill-down facility
-Sometimes, dashboards are not enough. You need to explore your data. You are able to configure every click event yourself and make widgets interact between each other. Apply filters by clicking on data points or drill down into your data as deep as you like.
+### Disclose Data
+Sometimes, Direct dashboard reports are not enough to further explore your data. Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDc4NDQ0NTBdfQ==
+eyJoaXN0b3J5IjpbLTE1ODk3MjIxODBdfQ==
 -->
