@@ -186,7 +186,7 @@ Streamline workforce planning and get better insights into human capital perform
 Finance
 Automate financial planning and analyze business performance down to operations.
 
-
+## Unified Decision Making Platform
 ## Analyse, Plan and Predict using Single Platform
 ## Customize Analytical and planning Solution
 ## Faster, Smarter and collective decision making
@@ -195,7 +195,8 @@ Automate financial planning and analyze business performance down to operations.
 ## Drive Data Analytics with Actionable Insights
 ## Data Access to all
 ## Interactive data Integration and Analytics Platform
+## Unified Decision Making Platform
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjU4NzA0MV19
+eyJoaXN0b3J5IjpbLTMwODg5NzgwOV19
 -->
