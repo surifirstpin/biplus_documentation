@@ -189,8 +189,9 @@ Automate financial planning and analyze business performance down to operations.
 
 ## Analyse, Plan and Predict using Single Platform
 ## Customize Analytical and planning Solution
+## Faster, Smarter and collective decision making
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTI1OTg5N119
+eyJoaXN0b3J5IjpbMTkzODc1MTgzMl19
 -->
