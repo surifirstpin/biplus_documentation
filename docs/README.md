@@ -222,7 +222,7 @@ Access to All
 Incorporate powerful self-service BI , Without any manual data  by making everyone a powerful analyst.
 
 Secure Collaboration
-Create and share trusted data models, analytics and visualisations with team to drive your business innovation efficiently togethe
+Create and share trusted data models, analytics and visualisations with team to drive your business innovation efficiently together.
 Create and share trusted data models, analytics and visualizations with colleagues to drive business innovation together.
 
 
@@ -230,5 +230,5 @@ Create and share trusted data models, analytics and visualizations with colleagu
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTQ2Mzc1NF19
+eyJoaXN0b3J5IjpbMTUwNDQ1NDU5OF19
 -->
