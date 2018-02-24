@@ -205,7 +205,7 @@ Automate financial planning and analyze business performance down to operations.
 ## Business Intelligence (or) Data Analytics that turns data into opportunity for everyone
 
 ## Accelerated Data to All.
-## oppuetun
+## oppuetunity to ta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTI5ODM5Ml19
+eyJoaXN0b3J5IjpbLTg5MzExMjc3Ml19
 -->
