@@ -204,8 +204,8 @@ Automate financial planning and analyze business performance down to operations.
 ## Advanced Analytics Tool for All.
 ## Easy, Affordable, Self-Serve Analytics Tool for All
 ## Experience Rapid Insights
-## High Quality Data Analytics and Reporting for 
+## High Quality Data Analytics and Reporting for All.
 ## Opportunity to take data into your hands
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY0NjY3MzddfQ==
+eyJoaXN0b3J5IjpbMjAyNDYxNzQzNl19
 -->
