@@ -225,12 +225,12 @@ Secure Collaboration
 Create and share trusted data models, analytics and visualizations with team to drive your business innovation efficiently together.
 
 Advanced Analytics
-Drive your business with better decision-making 
+Drive your business with better decision-making
 Drive better decision-making through more meaningful and forward-looking insights from your data.
 
 
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyNzYyOTU3XX0=
+eyJoaXN0b3J5IjpbLTY0MTc0NTEzMV19
 -->
