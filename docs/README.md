@@ -200,7 +200,7 @@ Automate financial planning and analyze business performance down to operations.
 
 ## High Quality Data Analytics and Reporting, Where you matter.
 
-
+## Data Analytics Solution for every need.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTU4NTQ1XX0=
+eyJoaXN0b3J5IjpbLTExNzkyMzg1NDhdfQ==
 -->
