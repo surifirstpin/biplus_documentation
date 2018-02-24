@@ -209,7 +209,7 @@ Automate financial planning and analyze business performance down to operations.
 ## Opportunity to take data into your hands
 
 
-Bi T
+Bi Tools 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDQwMTIxMV19
+eyJoaXN0b3J5IjpbLTQ5NjIxOTEzNl19
 -->
