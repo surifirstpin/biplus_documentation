@@ -207,6 +207,7 @@ Automate financial planning and analyze business performance down to operations.
 ## Experience Rapid Insights
 ## High Quality Data Analytics and Reporting for All.
 ## Opportunity to take data into your hands
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTg2MzU0NzZdfQ==
+eyJoaXN0b3J5IjpbLTg0NDg1NjIzMF19
 -->
