@@ -196,7 +196,11 @@ Automate financial planning and analyze business performance down to operations.
 ## Data Access to all
 ## Interactive data Integration and Analytics Platform
 ## Unified Decision Making Platform
-## Data Analytical Solution for Everyone`
+## Data Analytical Solution for Everyone
+
+## High Quality Data Analytics and Reporting, Where you matter.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzMjQxODg0XX0=
+eyJoaXN0b3J5IjpbMTQ1OTU4NTQ1XX0=
 -->
