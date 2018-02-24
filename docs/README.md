@@ -210,6 +210,7 @@ Automate financial planning and analyze business performance down to operations.
 
 
 Bi Tools 
+http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjIxOTEzNl19
+eyJoaXN0b3J5IjpbMTY2NzIzOTM1Ml19
 -->
