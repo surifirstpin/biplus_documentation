@@ -215,11 +215,11 @@ Bi+ Streamline workforce Planning, performance tracking, Analysis and improves t
 Rapid insight of 
 Enable users to turn their raw data into actionable information by simplifying the extraction and analysis of data.
 
-Cost-ef
+Cost-effective
  keep an eye on every revenue generating event and cost saving opportunity while improving customer satisfaction and retention
 
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3MDk4NDg1XX0=
+eyJoaXN0b3J5IjpbLTU3NzY0OTk3M119
 -->
