@@ -198,14 +198,14 @@ Automate financial planning and analyze business performance down to operations.
 ## Unified Decision Making Platform
 ## Data Analytical Solution for Everyone
 2.
-## Single Solution Platform for All your needs.
+
 ## Business Intelligence (or) Data Analytics Platform that turns data into opportunity for everyone
 ## Accelerated Data to All.
 ## Advanced Analytics Tool for All.
-## Easy, Affordable, Self-Serve Analytics
+## Easy, Affordable, Self-Serve Analytics Tool for All
 ## Experience Rapid Insights
-## High Quality Data Analytics and Reporting, Where you matter.
+## High Quality Data Analytics and Reporting for 
 ## Opportunity to take data into your hands
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU1MjczMzVdfQ==
+eyJoaXN0b3J5IjpbLTE1MzY0NjY3MzddfQ==
 -->
