@@ -197,12 +197,12 @@ Automate financial planning and analyze business performance down to operations.
 ## Interactive data Integration and Analytics Platform
 ## Unified Decision Making Platform
 ## Data Analytical Solution for Everyone
-
+2.
 ## High Quality Data Analytics and Reporting, Where you matter.
 
 ## Single Solution for All your needs.
 
-Business Intelligence (or) Data Analytics That turns data into opurtunity for everyone
+## Business Intelligence (or) Data Analytics that turns data into opportunity for everyone
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODgyMTQ1N119
+eyJoaXN0b3J5IjpbMTkwMTI4MTgyN119
 -->
