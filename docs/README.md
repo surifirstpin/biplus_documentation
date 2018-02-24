@@ -203,6 +203,8 @@ Automate financial planning and analyze business performance down to operations.
 ## Single Solution for All your needs.
 
 ## Business Intelligence (or) Data Analytics that turns data into opportunity for everyone
+
+## Accelerated Data to All.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTI4MTgyN119
+eyJoaXN0b3J5IjpbMTk3ODY0OTMxMl19
 -->
