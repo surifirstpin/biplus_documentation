@@ -226,11 +226,11 @@ Create and share trusted data models, analytics and visualizations with team to 
 
 Advanced Analytics
 Drive your business with better decision-making with more meaningful and forward-looking insights from your data.
-Drive better decision-making through more meaningful and forward-looking insights from your data.
+
 
 
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDczMTg4ODZdfQ==
+eyJoaXN0b3J5IjpbLTEwODgxODQ4OF19
 -->
