@@ -212,9 +212,10 @@ Bi+ Streamline workforce Planning, performance tracking, Analysis and improves t
 ## High Quality Data Analytics and Reporting for All.
 ## Opportunity to take data into your hands
 
+enable users to turn their raw data into actionable information.simplifies the extraction and analysis of data
 
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzE5ODY0M119
+eyJoaXN0b3J5IjpbMTA3NDM4NjA3NV19
 -->
