@@ -187,7 +187,7 @@ Finance
 Automate financial planning and analyze business performance down to operations.
 
 Business insights across all organisations
-Bi+ works well with all the departments in performan 
+Bi+ works well with all the departments in performance tracking 
 
 ## Unified Decision Making Platform
 ## Analyse, Plan and Predict using Single Platform
@@ -215,5 +215,5 @@ Bi+ works well with all the departments in performan
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDMyMTM2M119
+eyJoaXN0b3J5IjpbMTQ2NTYxNjQ2OF19
 -->
