@@ -186,6 +186,8 @@ Streamline workforce planning and get better insights into human capital perform
 Finance
 Automate financial planning and analyze business performance down to operations.
 
+Business insights across all organisations
+
 ## Unified Decision Making Platform
 ## Analyse, Plan and Predict using Single Platform
 ## Customize Analytical and planning Solution
@@ -212,5 +214,5 @@ Automate financial planning and analyze business performance down to operations.
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODgyNTA0NV19
+eyJoaXN0b3J5IjpbLTEzMTQ2NzQwOTNdfQ==
 -->
