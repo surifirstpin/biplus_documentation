@@ -219,11 +219,11 @@ Cost-effective
 we keep an eye on revenue generating event and cost saving opportunity while improving customer satisfaction and retention
 
 Access to All
-incorporate powwerful self-service BI , Withouit any manual data  by making everyone in the 
+incorporate powwerful self-service BI , Withouit any manual data  by making everyone 
  embodies powerful self-service BI, making everyone in the organization a power analyst— no manual needed!
 
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTA5MTM2MV19
+eyJoaXN0b3J5IjpbLTE2MjU0MDg4MTldfQ==
 -->
