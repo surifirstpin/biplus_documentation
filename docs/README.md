@@ -218,9 +218,12 @@ Enable users to turn their raw data into actionable information by simplifying t
 Cost-effective
 we keep an eye on revenue generating event and cost saving opportunity while improving customer satisfaction and retention
 
+Access to All
+
+ embodies powerful self-service BI, making everyone in the organization a power analyst— no manual needed!
 
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTkxODU3Nl19
+eyJoaXN0b3J5IjpbMTE4OTYwOTc1M119
 -->
