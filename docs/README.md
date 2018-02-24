@@ -224,9 +224,13 @@ Incorporate powerful self-service BI , Without any manual data  by making everyo
 Secure Collaboration
 Create and share trusted data models, analytics and visualizations with team to drive your business innovation efficiently together.
 
+Advanced Analytics
+Drive your business with better decisio
+Drive better decision-making through more meaningful and forward-looking insights from your data.
+
 
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTE1ODMyOF19
+eyJoaXN0b3J5IjpbLTE5ODE1NTU0MTNdfQ==
 -->
