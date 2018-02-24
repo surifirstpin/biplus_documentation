@@ -187,7 +187,7 @@ Finance
 Automate financial planning and analyze business performance down to operations.
 
 ### Better Insights across all organisations
-Bi+ Streamline workforce Pl in performance tracking, Analysis and improve quality and business performance in a dynamic regulatory environment. 
+Bi+ Streamline workforce Planning in performance tracking, Analysis and improve quality and business performance in a dynamic regulatory environment. 
 
 ## Unified Decision Making Platform
 ## Analyse, Plan and Predict using Single Platform
@@ -215,5 +215,5 @@ Bi+ Streamline workforce Pl in performance tracking, Analysis and improve qualit
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTA3MTQ5ODddfQ==
+eyJoaXN0b3J5IjpbNDM1OTM1NDE0XX0=
 -->
