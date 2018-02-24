@@ -221,8 +221,12 @@ we keep an eye on revenue generating event and cost saving opportunity while imp
 Access to All
 Incorporate powerful self-service BI , Without any manual data  by making everyone a powerful analyst.
 
+Create and share trusted data models, analytics and visualizations with colleagues to drive business innovation together.
+
+
+
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjM4ODc5M119
+eyJoaXN0b3J5IjpbLTEyNzMxODgyNzBdfQ==
 -->
