@@ -201,6 +201,8 @@ Automate financial planning and analyze business performance down to operations.
 ## High Quality Data Analytics and Reporting, Where you matter.
 
 ## Single Solution for All your needs.
+
+Business Intelligence (or) Data Analytics That turns data into opurtunity for everyone
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzU1NTA1MzZdfQ==
+eyJoaXN0b3J5IjpbLTIxODgyMTQ1N119
 -->
