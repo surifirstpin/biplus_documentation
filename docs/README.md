@@ -208,6 +208,8 @@ Automate financial planning and analyze business performance down to operations.
 ## High Quality Data Analytics and Reporting for All.
 ## Opportunity to take data into your hands
 
+
+Bi T
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDg1NjIzMF19
+eyJoaXN0b3J5IjpbMTkwMDQwMTIxMV19
 -->
