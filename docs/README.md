@@ -155,7 +155,8 @@ We aspire to keep our customers for life by proactively leading them through the
 https://www.columbusglobal.com/en-us/
 
 
-
+### Build Lasting Relationships
+We aspire to keep our customers for life by proactively leading them through their toughest challenges, by focusing on innovation, support and business satisfaction.
 
 ### Data Creativity
 
@@ -167,7 +168,7 @@ Bi+ retrieves the latest information and assist your financial advisor to focus 
 Sometimes, Direct dashboard reports are not enough to further explore your data. Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like.
 
 
-
+## solutions
 Sales
 Plan, monitor and get insight into your sales processes
 
@@ -215,5 +216,5 @@ Bi+ Streamline workforce Planning, performance tracking, Analysis and improves t
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzIyMDE4M119
+eyJoaXN0b3J5IjpbLTg0MzE5ODY0M119
 -->
