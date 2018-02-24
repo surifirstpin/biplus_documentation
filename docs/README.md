@@ -207,6 +207,7 @@ Automate financial planning and analyze business performance down to operations.
 ## Accelerated Data to All.
 ## opportunity to take data into your hands
 ## Advanced Analytics Tool for All.
+## Easy, Affordable, Self-Serve Analytics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDU3NzUwMjZdfQ==
+eyJoaXN0b3J5IjpbLTk5ODM0ODQ4XX0=
 -->
