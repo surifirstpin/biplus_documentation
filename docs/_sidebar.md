@@ -19,9 +19,6 @@
 
 - Settings
   -[Admin Privileges](AdminPrivileges.md)
-  - [Profile & Forgot Passwords](ProfileForgotPasswords.md)  
-  - [Users](Users.md)
-  - [Groups](Groups.md)
   - [Global Parameters](GlobalParameters.md)  
   - [Global Functions](GlobalFunctions.md)
   
