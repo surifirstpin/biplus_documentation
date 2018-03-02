@@ -4,7 +4,7 @@
 
 It controls and manipulate the data in Bi+ and is provided with many administrative settings options that will allow you to customize Bi+ for your organisation.
 
-It controls and manipulate the data in Bi+ at the same time, customize bi+ for your organisation with available admin settings options.
+It controls and manipulate the data at the same time, customize bi+ for your organisation with available admin settings options.
 
 **Getting Started :**
 ## Users
@@ -54,6 +54,6 @@ Admin can create, edit and delete global parameter and global function.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1MzYyNDQ3LDQ2NTc2NjgxNiwtOTc0Nj
+eyJoaXN0b3J5IjpbMzU0MTA1MzMwLDQ2NTc2NjgxNiwtOTc0Nj
 YwMTg3XX0=
 -->
