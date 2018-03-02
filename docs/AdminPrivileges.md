@@ -6,17 +6,17 @@ It controls and manipulate the data at the same time, customize bi+ for your org
 
 **Getting Started :**
 ## Users
-A user can create, Edit or delete the reports depending on access provided to them.
+A user can create, edit and view the reports depending on access provided.
 
 > Path : Settings-->Select users-->Click on Add Users.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34ae99ea80597fc08c96c787a88d8951979862b1/images/users.png)
 
-- **Email** Enter email id for the user.
-- **Password** Enter a password to access.
-- **FirstName** Enter first-name of the user.
-- **LastName** Enter lastname of the user. 
-- **Company** Enter name of the company.
-- **Role** Select the role of the user.
+- **Email** enter email id for the user.
+- **Password** enter a password to access.
+- **FirstName** enter first-name of the user.
+- **LastName** enter lastname of the user. 
+- **Company** enter name of the company.
+- **Role** select the role of the user.
 
 | User Role |  Access|
 |--|--|
@@ -54,6 +54,6 @@ Admin can create, edit and delete global parameter and global function.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU3NzQ3NjcsNDY1NzY2ODE2LC05Nz
+eyJoaXN0b3J5IjpbLTE2Mjk3Njk4MzIsNDY1NzY2ODE2LC05Nz
 Q2NjAxODddfQ==
 -->
