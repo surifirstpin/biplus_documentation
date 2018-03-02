@@ -51,10 +51,7 @@ Click on **Save** button to save group.
 3. Click on **Edit icon** to edit the group.
 4. Click on **Delete icon** to delete the Group.
 
-Admin can create, edit and delete global parameter and global function.
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDM4MDEzMCw0NjU3NjY4MTYsLTk3ND
+eyJoaXN0b3J5IjpbMTkwODAxMDM4NSw0NjU3NjY4MTYsLTk3ND
 Y2MDE4N119
 -->
