@@ -13,7 +13,7 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/20367797e10c5eabfec8ab65d23699fb34843101/images/dash.png)
 
 ## Ability for Multiple Layouts
-Bi+ allows multiple report layouts format. Depending on the requirement select suitable layout from given optionsavailable, at the same time Bi add,edit and delete the reports layout. 
+Bi+ allows multiple report layouts format. Depending on the requirement select suitable layout from given options available, at the same time Bi+ allows to add, edit and delete the reports layout. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c9d6b6e9be883a4df0c62c47c8623392dc4e9e10/images/multiple_layout.png)
 
@@ -112,5 +112,5 @@ Click on **Set Home page** Icon, to set the dashboard on Home page.
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5NDgzNDY0XX0=
+eyJoaXN0b3J5IjpbLTc3NDMzMTk0XX0=
 -->
