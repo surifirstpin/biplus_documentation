@@ -36,7 +36,7 @@ A user can create, edit and view the reports depending on access provided.
 2. Click on **Delete icon** to delete the user.
 
 ## Groups
-Provides access to users by defining a group.
+Provides access to set of users by defining different groups.
 
 >Path : settings-->Select Groups-->Click on Add Group.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b6af863fbeb6584b8a139d0f303840ab6893da5e/images/groups.png)
@@ -55,6 +55,6 @@ Admin can create, edit and delete global parameter and global function.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ0ODMwODIsNDY1NzY2ODE2LC05Nz
-Q2NjAxODddfQ==
+eyJoaXN0b3J5IjpbMTY5MDM4MDEzMCw0NjU3NjY4MTYsLTk3ND
+Y2MDE4N119
 -->
