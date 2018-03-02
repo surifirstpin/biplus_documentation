@@ -3,8 +3,7 @@
 
 ## Definition
 
-Dashboard provides access to view multiple reports in single dashboard layout, in this way it provides a quick view on related data.
-In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive.
+Dashboard provides access to view multiple reports in single dashboard layout, in this way it provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive.
 
  ## Create Dashboard
  **Getting Started**
@@ -114,5 +113,5 @@ Click on **Set Home page** Icon, to set the dashboard on Home page.
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2NDcwMjM4XX0=
+eyJoaXN0b3J5IjpbLTU3MzY3NTgxNF19
 -->
