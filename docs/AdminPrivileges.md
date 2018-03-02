@@ -23,10 +23,10 @@ A user can create, edit and view the reports depending on access provided.
 | Admin | Create,edit,delete users,groups,global parameter,global function |
 |User|view reports and can edit them if provided access to the specific model|
 |Developer|Create,edit,delete reports or dashboards and change global parameters and functions|
-|Manager|view reports and can edit them if provided access to the specific model|
+|Manager|view reports and edit them if provided access to the specific model|
 |Super Admin|Create profile and Control all the admin settings|
 
-- **Enabled** Control access to users.
+- **Enabled** control access to users.
 - Click on **Save** button to save user.
 
 ## Edit & Delete User
@@ -54,6 +54,6 @@ Admin can create, edit and delete global parameter and global function.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk3Njk4MzIsNDY1NzY2ODE2LC05Nz
-Q2NjAxODddfQ==
+eyJoaXN0b3J5IjpbMTA0NjM5MjQwLDQ2NTc2NjgxNiwtOTc0Nj
+YwMTg3XX0=
 -->
