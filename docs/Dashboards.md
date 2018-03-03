@@ -35,7 +35,6 @@ Bi+ allows multiple report layouts format. Depending on the requirement, select 
 ## Dashboard Filters Customization
 
 4.  **Dashboard Filters** allow user to view limited data.
-
     - **Filter Name** identifier name to the filter applicable.
     - **Filter Type** type of filter user (eg: string,date,number).
     - **Operator** filter operation that are applicable.
@@ -112,5 +111,5 @@ Click on **Set Home page** Icon, to set the dashboard on Home page.
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODk1OTMyOF19
+eyJoaXN0b3J5IjpbLTEwNTE0OTg2MTBdfQ==
 -->
