@@ -35,7 +35,7 @@ Select the fields from the list to retrieve field values and apply filter option
 
 3. Click on **Filter** to add filter to your report. 
 
-Filters is a optional list of filter expression applied to measure calculation,below are the available operations that can be applied for String , Integer and Date.
+Filters is a optional list of filter expression applied to measure calculation, below are the available operations that can be applied for String , Integer and Date.
 
 ### String :
 |			Example            |						Description                        |                                                                                 
@@ -230,5 +230,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTY4OTk1M119
+eyJoaXN0b3J5IjpbLTExODY5ODEyMzFdfQ==
 -->
