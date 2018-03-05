@@ -1,6 +1,5 @@
 <center><h1>Global Parameter</h1></center>
 
-
 ## Definition 
 
 It is a flat file data in JSON format which can be used to manipulate, control and set predefined values based on login.
@@ -89,5 +88,5 @@ To reset password Click on Forget password button.
 eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTc1MDQ4NTddfQ==
+eyJoaXN0b3J5IjpbMTkzMzY0MDA1N119
 -->
