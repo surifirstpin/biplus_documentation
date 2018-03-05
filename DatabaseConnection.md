@@ -61,7 +61,7 @@ b) If connecting with separate database host, provide following information to B
 
 ## Edit a connection
 
-   **6.** click on **Edit** option to make changes.
+   **6.** Click on **Edit** option to make changes.
    
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eae5d23007893f45fcaab8db33c5a707e1a7911a/images/edit_conn.png)
 
@@ -76,7 +76,7 @@ b) If connecting with separate database host, provide following information to B
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5OTY0NjE4LDE0OTAzMzk3NzYsLTgxND
+eyJoaXN0b3J5IjpbNDA3MjQyOTIyLDE0OTAzMzk3NzYsLTgxND
 czNTY5NywtNDE4MTg4MDk0LDE2NTQ4MzA4NzEsNjk2ODY0OTE1
 LDEzNjQ3NDI3MTMsLTE4NDE0OTkyOSwtNzI0NDQ5NzgsMTYzOD
 ExNzg4MiwtMTI3MTA5OTQzNl19
