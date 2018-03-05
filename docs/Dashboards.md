@@ -88,8 +88,6 @@ Click on **Delete icon** to delete the dashboard created.
 ## Dependency Filters
 
 Dependency filters are used to retrieve  set of filter values based on previous filter selection. the dependency should be mentioned in the filter query with a reference key from the previous filter.
-``` 
-```
 
 
 ## Listeners On / Off
@@ -98,9 +96,7 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 
 ## Maximize a Contained Report
 
-12. Click on **Maximize icon** in the tool bar of the report layout.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/078a756c7f5ed60ca10511acdbae528ea7f7cc16/images/repo_max.png)
+12. Click on **Maximize icon** in report tool bar.![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/078a756c7f5ed60ca10511acdbae528ea7f7cc16/images/repo_max.png)
 
 ## Home Page Display Option
 
@@ -111,5 +107,5 @@ Click on **Set Home page** Icon, to set the dashboard on Home page.
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwMjQxNzE3XX0=
+eyJoaXN0b3J5IjpbLTg3Nzc2Mzc3Nl19
 -->
