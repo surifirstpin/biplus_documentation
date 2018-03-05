@@ -209,7 +209,7 @@ Calculated column is statement or expression or a function operator which can be
  
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c383b6e32c490bd5f0a32eb8cf2dcd4bb1fbfa9d/images/calculate%20column1.png)
 
-**Run** the report after deriving calculated column, The values obtained by applying calculation column applied is visible in green colour.
+**Run** the report after deriving calculated column, all the values obtained by applying calculation column is visible in green colour.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c383b6e32c490bd5f0a32eb8cf2dcd4bb1fbfa9d/images/calculate%20column2.png)
 
@@ -222,7 +222,7 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 
 ## Field Visualization On / Off
 
- To hide field values click on **Hide Visualization** option in the drop down option.
+ To hide field values click  **Hide Visualization** option in the drop down option.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bee13bc200cda9988be61a3c7b58de502a4915fa/images/hide_visu.png)
 
 ## SQL Query 
@@ -230,5 +230,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjEyODk0MV19
+eyJoaXN0b3J5IjpbNjAyMjAxMjM0XX0=
 -->
