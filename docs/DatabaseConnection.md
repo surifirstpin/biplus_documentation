@@ -35,13 +35,13 @@
 
 ## SSH 
 
- **To connect Bi+ SSH tunnel with same database host, provide following information to BiPlus analyst :**
+a)  To connect Bi+ SSH tunnel with same database host, provide following information to BiPlus analyst :
  
   - IP address or DNS name of the database server
   - SSH port of the database server
   - Database port number
   
-**If connecting with separate database host, provide following information to BI+ analyst:**
+b) If connecting with separate database host, provide following information to BI+ analyst:
   
   - IP address or DNS name of the database server as seen from the tunnel server.
   - Database port number as seen from the tunnel server.
@@ -76,7 +76,7 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODEzNTgyMzUsLTI0NDk2MTQxNiwxNT
-MxOTQ1NjAxLDIxMDQ3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4
-NzY1M119
+eyJoaXN0b3J5IjpbMjk5OTY0NjE4LC0yNDQ5NjE0MTYsMTUzMT
+k0NTYwMSwyMTA0NzAyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2
+NTNdfQ==
 -->
