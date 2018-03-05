@@ -39,7 +39,7 @@ To Upload the parameter select the global parameter key name.
 
 ## Change Column Name & Type (String / Number)
 
-4. Select the column name and click on edit button to change column name.
+4. Select the column name and click on **Edit** button to change column name.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9f487e8bcb13f913640bdce2a7030f7b519167a/images/para1.png)
  
@@ -78,7 +78,7 @@ If check case is enabled, global parameters become case sensitive for key name.
 To reset password Click on Forget password button.
 
 - **Enter old Password** enter your old password.
-- **Enter New Password** enter the new p[assworf you want to update.
+- **Enter New Password** enter the new passwor you want to update.
 - **Re-enter New password** re-enter the new password you want to update.
 - Click on **Update** button to save changes.
 
@@ -87,5 +87,5 @@ To reset password Click on Forget password button.
 eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODA5NzY3NV19
+eyJoaXN0b3J5IjpbLTIxNDQwODMyNDZdfQ==
 -->
