@@ -80,14 +80,14 @@ Click  **Edit** Button to make any changes to dashboard created.
 
 ## Delete Dashboard
 
-Click **Delete icon** to delete the dashboard created :
+Click on **Delete icon** to delete the dashboard created.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/666070bb576904871a67ced2eb5388f9bcd1e142/images/dash_del.png)
 
 
 ## Dependency Filters
 
-Dependency filters are used to retrieve a set of filter values based on previous filter selection. the dependency should be mentioned in the filter query with a reference key from the previous filter.
+Dependency filters are used to retrieve  set of filter values based on previous filter selection. the dependency should be mentioned in the filter query with a reference key from the previous filter.
 ``` 
 ```
 
@@ -111,5 +111,5 @@ Click on **Set Home page** Icon, to set the dashboard on Home page.
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODcyMzg1MjddfQ==
+eyJoaXN0b3J5IjpbOTEwMjQxNzE3XX0=
 -->
