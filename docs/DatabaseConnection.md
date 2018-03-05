@@ -29,7 +29,7 @@
 
 - **Host**  database host path.
 - **Database** name of the database.
-- **Username and Password** are the credentials useto connect the database.
+- **Username and Password** are the credentials used to connect the database.
 - **Maximum connection** concurrent connection used by  database.
 - **Additional Parameters** includes any additional JDBC parameter.
 
@@ -76,7 +76,7 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODI1NDc2NzEsLTI0NDk2MTQxNiwxNT
+eyJoaXN0b3J5IjpbLTEzODEzNTgyMzUsLTI0NDk2MTQxNiwxNT
 MxOTQ1NjAxLDIxMDQ3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4
 NzY1M119
 -->
