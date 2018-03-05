@@ -11,8 +11,8 @@ Under data analysis section, select the project and model for which you want to 
 **Getting Started :**
 
 From the list of dimensions and measures, select set of fields to access the information.
-1. Select one or more grey fields to group your data(Dimensions).
-2. Click one or more orange fields to add information about those groups, such as totals and counts(Measures). 
+1. Select one or more grey fields(Dimensions) to group your data.
+2. Click one or more orange fields(Measures) to add information about those groups, such as totals and counts. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/92e1e1b322bed3026eedfd1a2dca2bc3c3dfea78/images/visu_run.png)
 
@@ -230,5 +230,5 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE1MjU1MDNdfQ==
+eyJoaXN0b3J5IjpbMTk0MjU5NDA0OV19
 -->
