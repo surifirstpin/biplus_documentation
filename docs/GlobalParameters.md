@@ -78,7 +78,7 @@ If check case is enabled, global parameters become case sensitive for key name.
 To reset password Click on Forget password button.
 
 - **Enter old Password** enter your old password.
-- **Enter New Password** enter the new passwor you want to update.
+- **Enter New Password** enter the new password you want to update.
 - **Re-enter New password** re-enter the new password you want to update.
 - Click on **Update** button to save changes.
 
@@ -87,5 +87,5 @@ To reset password Click on Forget password button.
 eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQwODMyNDZdfQ==
+eyJoaXN0b3J5IjpbNjU3NjM4NzA0XX0=
 -->
