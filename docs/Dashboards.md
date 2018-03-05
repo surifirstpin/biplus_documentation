@@ -42,7 +42,7 @@ Bi+ allows multiple report layouts format. Depending on the requirement, select 
 ## Dashboard Lookup Filters
 
 5. **Lookup**  refer to set of query or list of items in filters.
-    - **Lookup name** name of the lookup field.
+   - **Lookup name** name of the lookup field.
    - **Lookup Type**  refers to item or query type.
    - **Test Lookup** to test the lookup.
    - **Multiple Selections** refers to selection of list of multiple data.
@@ -111,5 +111,5 @@ Click on **Set Home page** Icon, to set the dashboard on Home page.
 eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTE0OTg2MTBdfQ==
+eyJoaXN0b3J5IjpbMTIxNzQwMTI5OF19
 -->
