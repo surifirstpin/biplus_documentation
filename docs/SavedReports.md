@@ -25,8 +25,9 @@ To delete the dashboard from database, click on **delete icon**.
 
 ## Chart to Grid Change over ( Show Data / Show Visualization)
 
-To view data or visualization of dashboard report, saved click on the setting icon on far right of the dashboard report and choose  from the given options provided. 
+To view data or visualization of dashboard report, click on the setting icon on far right of the dashboard report.
 
+Choose from the given options provided. 
 -  Select **Show data** to display data report.
 -  Select **Show visualization** to view visualization of the report.
 
@@ -96,5 +97,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQwMTcyNjZdfQ==
+eyJoaXN0b3J5IjpbLTExODIyNzg3MjRdfQ==
 -->
