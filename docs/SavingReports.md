@@ -11,9 +11,10 @@ All the data retrieved in analysis section can be saved in any specific tag as s
 - **Report Name** name identifier for saving the report ( Bi+ allows  special character but does not  support any spaces )
 - **Title** label for the report the way you want it to appear.
 - **Info** displays any specific information about the report
-- **Private ()** report saved in private section is accessed by the user itself.
-- **Public ()** the report is saved in public section is accessed by all the users.
--  **Share ()** the report saved under share section is accessed by specific set of users as shown below.
+- **Privacy** Select one of the three options “Public”, “Private”, “Share” as per the requirement. 
+  - **Private ()** report saved in private section and accessed by the user itself.
+  - **Public ()** the report is saved in public section and accessed by all the users.
+  -  **Share ()** the report saved under share section and accessed by specific set of users.
 
 ## Defining Global Filter fields
 
@@ -30,5 +31,5 @@ Cache saves the data, so the future request for the data is provided faster.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzMDg5MjMxXX0=
+eyJoaXN0b3J5IjpbLTE5Mjc3NTk1NjRdfQ==
 -->
