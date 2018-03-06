@@ -39,8 +39,8 @@ Bi+ has an ability to show the data in 9 different chart types with some standar
  - Line type displays the information as a series of data points called markers.
 Below are the list of markers used in Bi+, 
    - Spline 
-    - Step
-- Area
+   - Step
+   - Area
 - Area-Spline
 - Area-Step
 - Scatter and uses spline as default line type
@@ -213,5 +213,5 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzE1MjA2OV19
+eyJoaXN0b3J5IjpbMzkxMzU1NzgzXX0=
 -->
