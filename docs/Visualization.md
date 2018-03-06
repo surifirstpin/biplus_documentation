@@ -140,7 +140,7 @@ editing options for y-axis in bubble chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/funnel_chart.png)
 
-Bi+ provides an oppurtunity You can view the funnel charts using different formats :**
+Bi+ provides an oppurtunity tp can view the funnel charts using different formats :**
  - Sort 
  - Curved
  - Pinched 
@@ -213,5 +213,5 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ2MTk4MDhdfQ==
+eyJoaXN0b3J5IjpbMTY0OTYyMjI2N119
 -->
