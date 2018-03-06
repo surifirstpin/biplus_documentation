@@ -75,7 +75,7 @@ Bi+ has an ability to view the data of a pie chart into donut.
 - **Tooltips** points the first measure value of the column field.
 - **Grouped Tooltips** points all the measure values of the column field.
 - **Points** enables pointers at the field values using the following point styles ;
-  - Circle
+    - Circle
   -  Triangle
   - Reet
   - RectRot
@@ -90,7 +90,7 @@ Bi+ has an ability to view the data of a pie chart into donut.
 - **Show ticklabels** displays the points in y-axis.
 - **Show arc lines** points the dimension fields in radar chart.
 - **Arc field** select the dimension field to apply arc lines.
-- **Curve** to maximum and minimize the measure values.
+- **Curve** it maximum and minimize the measure values.
 
 ## Bubble chart :
 
@@ -213,5 +213,5 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk0MzU2MzRdfQ==
+eyJoaXN0b3J5IjpbMTUyNTQzODAxNF19
 -->
