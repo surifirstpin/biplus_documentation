@@ -3,7 +3,7 @@
 ## Privacy & Share Option
 
 Bi+ securely save and share the dashboard for better team collaboration.
-- **Report Name** identifier to save the report ( Bi+ allows all the special character, but does not  support any spaces ).
+- **Report Name** identifier to save the report ( Bi+ allows all special character, but does not  support any spaces ).
 - **Title**  label for the report the way you want it to appear.
 - **Info** any specific information about the report.
 - **Private ()** report saved in private section is accessed by the user itself.
@@ -96,5 +96,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTY2NTk0OF19
+eyJoaXN0b3J5IjpbMjA2OTcxODQ3N119
 -->
