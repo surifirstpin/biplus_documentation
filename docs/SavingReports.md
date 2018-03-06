@@ -25,11 +25,12 @@ All the data retrieved in analysis section can be saved in any specific tag as s
 ## Cache option with specific duration
 
 Cache saves the data, so the future request for the data is provided faster.
+
 - **Enable cache** multiple users can pull the report from the cache in given time frame.
 - **Time frame** Enables a time limit.
 - **Repeat every** Enables automatic repeat in specified time range.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjc3NTk1NjRdfQ==
+eyJoaXN0b3J5IjpbLTMzNzI2MjAyXX0=
 -->
