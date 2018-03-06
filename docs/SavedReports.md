@@ -3,7 +3,7 @@
 ## Privacy & Share Option
 
 Bi+ securely save and share the dashboard for better team collaboration.
-- **Report Name** identifier to save the report ( BiPlus allows all the special character, but does not  support any spaces ).
+- **Report Name** identifier to save the report ( Bi+ allows all the special character, but does not  support any spaces ).
 - **Title**  label for the report the way you want it to appear.
 - **Info** any specific information about the report.
 - **Private ()** report saved in private section is accessed by the user itself.
@@ -23,7 +23,7 @@ Bi+ securely save and share the dashboard for better team collaboration.
 To delete the dashboard from database, click on delete icon .
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/68d855529345a5d0240aeb2d690ba98c80f0ade3/images/del_dash.png)
 
-## Chart to Grid Change over (Show Data / Show Visualization)
+## Chart to Grid Change over ( Show Data / Show Visualization)
 
 To view data or visualization of the report saved click on the setting icon on far right of the dashboard report and choose  from the given options provided. 
 
@@ -96,5 +96,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTUyMjE3XX0=
+eyJoaXN0b3J5IjpbMTUyMTY2NTk0OF19
 -->
