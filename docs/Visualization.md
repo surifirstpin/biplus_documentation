@@ -64,7 +64,7 @@ Displays polar area of the dimensions
 
 ## Donut 
 
-Converts pie chart to donut.
+Bi+ has an ability to view the data of a pie chart into donut.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/donut.png)
 
@@ -213,5 +213,5 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzQ4NjgwMV19
+eyJoaXN0b3J5IjpbLTE1MDk0MzU2MzRdfQ==
 -->
