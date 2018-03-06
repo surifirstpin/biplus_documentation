@@ -109,7 +109,7 @@ Bi+ has an ability to view the data of a pie chart into donut.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ca6272443bb686c3c41aa07bbd28a407c2238688/images/bubble_chart3.png)
 
 - **Axis** select the measures values in y-axis  to enable
-editing options in bubble chart.
+editing options for y-axis in bubble chart.
 - **Format** enables number format for measure values.
 - **Currency** enables the currency format for measures values in y-axis.
 - **Y-Axis** display measure values in Y-axis. 
@@ -120,7 +120,7 @@ editing options in bubble chart.
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ca6272443bb686c3c41aa07bbd28a407c2238688/images/bubble_chart4.png)
 
   - **Name** Provide a reference name.
-  - **Type** specifies how y-axis scale is calculated and displayed,below are the options available to enable the scale type.
+  - **Type** specifies how y-axis scale is calculated and displayed, below are the options available to enable the scale type.
     - Linear
     - Polynomial
     - Exponential
@@ -140,7 +140,7 @@ editing options in bubble chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/funnel_chart.png)
 
-**You can view the funnel charts using different formats :**
+Bi+ You can view the funnel charts using different formats :**
  - Sort 
  - Curved
  - Pinched 
@@ -213,5 +213,5 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNTQzODAxNF19
+eyJoaXN0b3J5IjpbLTY5NTY0NjM5Ml19
 -->
