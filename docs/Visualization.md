@@ -133,6 +133,7 @@ editing options for y-axis in bubble chart.
     - Variance 
     - Custom Line
     - Custom Area
+    
 - **Data Field** select the measure value which is to be referred.
 - **Theme** choose the color for reference lines.
 
@@ -140,7 +141,7 @@ editing options for y-axis in bubble chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/funnel_chart.png)
 
-Bi+ provides an oppurtunity to can view the funnel charts using different formats :**
+Bi+ provides an opportunity to view the funnel charts in different formats :**
  - Sort 
  - Curved
  - Pinched 
@@ -213,5 +214,5 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA5NDYxNDhdfQ==
+eyJoaXN0b3J5IjpbMTc3NjU3OTcyNV19
 -->
