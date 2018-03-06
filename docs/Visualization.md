@@ -42,7 +42,7 @@ Below are the list of markers used in Bi+,
    - Step
    - Area
    - Area-Spline
- - Area-Step
+   - Area-Step
 - Scatter and uses spline as default line type
 
 ## Bar Chart 
@@ -213,5 +213,5 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDE2NjgwOV19
+eyJoaXN0b3J5IjpbLTE1OTA3NzIxMjFdfQ==
 -->
