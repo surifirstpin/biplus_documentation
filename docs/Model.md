@@ -43,7 +43,7 @@ if a sales manager needs to retrieve different data then material manager then w
 - **Join** establishes the relationship between visualization and views,here we use 3 types of join parameter join,join_type,join_on.
   - **Join** derive the relationship between 2 views based on the condition.
   - **Join_type** derives type of join condition to be applied (Left,Right,inner join).
-  - **Join_on** defines the relationship between views by how to join two tables.
+  - **Join_on** defines the relationship between views by associa how to join two tables.
  
 ##  Model Filters
 
@@ -139,5 +139,5 @@ LEFT JOIN ROOT.BI_CUSTOMERS "BI_CUSTOMERS" ON (BI_ORDERS.CUSTOMERID = BI_CUSTOME
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzIyNjYzMF19
+eyJoaXN0b3J5IjpbLTQ0ODczMTk0M119
 -->
