@@ -5,6 +5,7 @@
 It controls and manipulate the data at the same time, customize bi+ for your organisation with available administrative settings options.
 
 **Getting Started :**
+
 ## Users
 A user can create, edit and view the reports depending on access provided.
 
@@ -52,6 +53,6 @@ Click on **Save** button to save group.
 4. Click on **Delete icon** to delete the Group.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODAxMDM4NSw0NjU3NjY4MTYsLTk3ND
-Y2MDE4N119
+eyJoaXN0b3J5IjpbLTE2ODQzNDI3ODUsNDY1NzY2ODE2LC05Nz
+Q2NjAxODddfQ==
 -->
