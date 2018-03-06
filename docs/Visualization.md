@@ -205,14 +205,10 @@ Red color indicates the value attained is initial state or low.
 - **Negative Cutoff** enabled when negatives values are applicable.
 - **Negative colour-from & to** Specify colour for negative values.
 
-
-
-
-
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjU3OTcyNV19
+eyJoaXN0b3J5IjpbLTE4NzM0OTIwMTFdfQ==
 -->
