@@ -9,11 +9,11 @@ Visualization displays different type of pictorial representation in the from of
 Bi+ has an ability to show the data in 9 different chart types with some standard editing options.
 
 **01. General Section :**
-- **Title** label for chart and align them in top,bottom,left,right position 
-- **Padding** sets the spacing at the top,bottom,left and right side of the charts
+- **Title** label for chart and align them in top,bottom,left,right position.
+- **Padding** sets the spacing at the top,bottom,left and right side of the charts.
 
 **02.  X-Axis :**
-- **Axis type** type of axis used in the charts, for instance Indexed is used to refer the numeric values starting from zero,category refer to the field values of the column, timeframe refer to the time-format of the data.
+- **Axis type** type of axis used in the charts, for instance Indexed is used to refer the numeric values starting from zero, category refer to the field values of the column and timeframe refer to the time-format of the data.
 - **Label field** label the field name in x-axis using grid display.
 - **Axis label** provides label to x-axis.
 - **Reference Line** is used to refer specific values by applying colors to it.
@@ -213,5 +213,5 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzUxNzM0XX0=
+eyJoaXN0b3J5IjpbMTE4MDA3NDA3MV19
 -->
