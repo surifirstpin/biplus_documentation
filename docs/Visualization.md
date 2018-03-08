@@ -1,6 +1,5 @@
 <center><h1>Visualization</h1></center>
 
-### Definition 
 
 Visualization displays different type of pictorial representation in the from of charts and graphs based on data retrieved.
 
@@ -210,5 +209,5 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzM0OTIwMTFdfQ==
+eyJoaXN0b3J5IjpbMTI1MjkwNDEyNV19
 -->
