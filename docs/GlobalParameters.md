@@ -20,6 +20,7 @@ acuBi allows you to provide additional key values to manipulate the data in calc
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/af27c45cb55b5170d224482c0ac646b1093c8f1a/images/global+para2.png)
 
+- Click on **ok**
 ## Upload parameters
 
 To Upload the parameter select the global parameter key name.
@@ -84,5 +85,5 @@ To reset password Click on Forget password button.
 eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTAzNjE2Ml19
+eyJoaXN0b3J5IjpbLTE2MjA0NDYyNzJdfQ==
 -->
