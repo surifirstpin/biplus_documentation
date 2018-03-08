@@ -1,6 +1,5 @@
 <center><h1>Database Connection</h1></center>
 
-## Definition 
 
    **Connection** specifies a database connection from which a model can retrieve the data. Following are the steps to be followed to set up database connection.
     
@@ -13,10 +12,8 @@
 **III.** Set up database to work with Bi+. Instructions may vary from dialect to dialect. Typically it includes providing approval to Bi+ to access database.
 
  ## Create Connection
- 
-**Getting started :**
 
->Path : Database-->New connection
+>Navigation: Database→New connection
 
  **1.** Click on **Database Section** to setup a database connection.
 
@@ -25,6 +22,7 @@
 
  **Name** specify a name to define connection.
  **Database(dialect)** choose appropriate dialect based on  connection. 
+ 
 >Note: As per your requirement we can include the dialects needed to run the business.
 
 - **Host**  database host path.
@@ -76,7 +74,7 @@ b) If connecting with separate database host, provide following information to B
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3MjQyOTIyLC0yNDQ5NjE0MTYsMTUzMT
-k0NTYwMSwyMTA0NzAyMDQsLTEzOTc2OTM0MjYsLTE3NTAyODc2
-NTNdfQ==
+eyJoaXN0b3J5IjpbLTE4NzE4MTQxMDUsLTI0NDk2MTQxNiwxNT
+MxOTQ1NjAxLDIxMDQ3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4
+NzY1M119
 -->
