@@ -2,7 +2,7 @@
   - [Database Connection](DatabaseConnection.md)
   
 - Model New
-  -[Model new](ModelNew.md)
+  - [Model New](ModelNew.md)
   
 - Model
   - [Projects](Projects.md)
