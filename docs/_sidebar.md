@@ -5,6 +5,7 @@
   - [Projects](Projects.md)
   - [Model](Model.md)
   - [Views](Views.md)
+  - [Model New](ModelNew.md)
 
 - Visualize
   - [Data Analysis](DataRun.md)  
