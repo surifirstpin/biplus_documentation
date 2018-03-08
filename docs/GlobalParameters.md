@@ -58,7 +58,7 @@ Similarly edit column cell value by clicking on specific cell as shown below.
 
 ## Check Case functionality On / Off
 
-If check case is enabled, global parameters become case sensitive for key name.
+If check case is enabled, global parameters become case sensitive for key mapping in calculated column.
 
 ## Edit Global Parameters
 
@@ -86,5 +86,5 @@ To reset password Click on Forget password button.
 eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzODEwNDEyXX0=
+eyJoaXN0b3J5IjpbLTEyMDM4MzQzMjhdfQ==
 -->
