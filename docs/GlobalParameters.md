@@ -1,8 +1,7 @@
 <center><h1>Global Parameter</h1></center>
 
-## Definition 
-
-It is a flat file data in JSON format which can be used to manipulate, control and set predefined values based on login.
+It is a flat file data in JSON format which can be used to manipulate, control and set predefined values.
+acuBi allow
 Bi+ will allow you to organize the data from database using this global parameters as per your business requirement. It can be used in the following ways:
 - Control data access based on login.
 - Povide access to predefined list of filter values based on login.
@@ -10,8 +9,6 @@ Bi+ will allow you to organize the data from database using this global paramete
 - View and manipulate data based on login.
  
 ## Create  Global Parameters
-
-**Getting Started :**
 
 >Path : Settings-->Select Global Parameters.
 
@@ -87,5 +84,5 @@ To reset password Click on Forget password button.
 eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQ0NzIxMjldfQ==
+eyJoaXN0b3J5IjpbLTE3MjIxNjYxM119
 -->
