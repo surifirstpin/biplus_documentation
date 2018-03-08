@@ -2,12 +2,10 @@
  
 Admin has an ability to manage users,Groups, Global parameters and global functions.
 
-**Getting Started :**
-
 ## Users
 A user can create, edit and view the reports depending on access provided.
 
-> Path : Settings-->Select users-->Click on Add Users.
+> Navigation : Settings-->Select users-->Click on Add Users.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34ae99ea80597fc08c96c787a88d8951979862b1/images/users.png)
 
 - **Email** enter email id for the user.
@@ -51,6 +49,6 @@ Click on **Save** button to save group.
 4. Click on **Delete icon** to delete the Group.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzgzOTc4NTcsNDY1NzY2ODE2LC05Nz
+eyJoaXN0b3J5IjpbLTE4NDMxMzM3NzcsNDY1NzY2ODE2LC05Nz
 Q2NjAxODddfQ==
 -->
