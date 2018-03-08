@@ -227,10 +227,10 @@ Create and share trusted data models, analytics and visualizations with team to 
 Advanced Analytics
 Drive your business with better decision-making with more meaningful and forward-looking insights from your data.
 
-acuBi provides a single, integrated enterprise analytics platform by delivering  faster and better insights for the whole business, regardless any 
+acuBi provides a single, integrated enterprise analytics platform by delivering  faster and better insights for the whole business, regardless any actio
 
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxODcyNzI2XX0=
+eyJoaXN0b3J5IjpbLTEzNDMxNTEwOF19
 -->
