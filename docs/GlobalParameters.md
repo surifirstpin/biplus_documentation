@@ -1,7 +1,7 @@
 <center><h1>Global Parameter</h1></center>
 
 It is a flat file data in JSON format which can be used to manipulate, control and set predefined values.
-acuBi allows you to provide additional key values to
+acuBi allows you to provide additional key values to manu
 Bi+ will allow you to organize the data from database using this global parameters as per your business requirement. It can be used in the following ways:
 - Control data access based on login.
 - Povide access to predefined list of filter values based on login.
@@ -84,5 +84,5 @@ To reset password Click on Forget password button.
 eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTM4OTE5MF19
+eyJoaXN0b3J5IjpbMzY4MTA4Mjc3XX0=
 -->
