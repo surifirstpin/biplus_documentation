@@ -1,11 +1,13 @@
 - Getting started
   - [Database Connection](DatabaseConnection.md)
-
+  
+- Model New
+  -[Model new](ModelNew.md)
+  
 - Model
   - [Projects](Projects.md)
   - [Model](Model.md)
   - [Views](Views.md)
-  - [Model New](ModelNew.md)
 
 - Visualize
   - [Data Analysis](DataRun.md)  
