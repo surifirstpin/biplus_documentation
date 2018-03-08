@@ -52,10 +52,11 @@ Similarly edit column cell value by clicking on specific cell as shown below.
 
 ## Grid & Code Views
 
-5. The uploaded file can be viewed in JSON format in** Code view**.
+5. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/90776aed8960274aaa61da1fdae760d4210c27ea/images/global_parameter.png)
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/81d718b1b8f8fb86a5e9e622a08de17b9fde36a9/images/codeview.png)
 ## Check Case functionality On / Off
 
 If check case is enabled, global parameters become case sensitive for key mapping in calculated column.
@@ -86,5 +87,5 @@ To reset password Click on Forget password button.
 eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTk0MTMyMDZdfQ==
+eyJoaXN0b3J5IjpbMTA5NjYyNzc0MV19
 -->
