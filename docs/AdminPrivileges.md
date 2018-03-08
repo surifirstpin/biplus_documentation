@@ -1,6 +1,6 @@
  <center><h1>Admin Privileges</h1></center>
+ 
 Admin has an ability to manage users,Groups, Global parameters and global functions.
-It controls and manipulate the data at the same time, customize bi+ for your organisation with available administrative settings options.
 
 **Getting Started :**
 
@@ -51,6 +51,6 @@ Click on **Save** button to save group.
 4. Click on **Delete icon** to delete the Group.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0NzQxOTMyLDQ2NTc2NjgxNiwtOTc0Nj
-YwMTg3XX0=
+eyJoaXN0b3J5IjpbLTE4MzgzOTc4NTcsNDY1NzY2ODE2LC05Nz
+Q2NjAxODddfQ==
 -->
