@@ -6,7 +6,7 @@ acuBi allows you to provide additional key values to manipulate the data in calc
 - Povide access to predefined list of filter values based on login.
 - Manipulate data with external parameter based on a common reference.
 - View and manipulate data based on login.
-- Use glo
+- Use global parame
  
 ## Create  Global Parameters
 
@@ -84,5 +84,5 @@ To reset password Click on Forget password button.
 eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4MjE3NzVdfQ==
+eyJoaXN0b3J5IjpbMTk4MTgzOTMwMF19
 -->
