@@ -1,6 +1,6 @@
  <center><h1>Admin Privileges</h1></center>
  
-Admin has an ability to manage users,Groups, Global parameters and global functions.
+Admin has an ability to manage Users,User Groups, Global parameters and global functions.
 
 ## Users
 
@@ -52,6 +52,6 @@ Click on **Save** button to save group.
 4. Click on **Delete icon** to delete the Group.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwMTUwODU5LDQ2NTc2NjgxNiwtOTc0Nj
-YwMTg3XX0=
+eyJoaXN0b3J5IjpbLTE1MjM1Nzc3MTIsNDY1NzY2ODE2LC05Nz
+Q2NjAxODddfQ==
 -->
