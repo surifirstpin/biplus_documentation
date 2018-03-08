@@ -20,12 +20,13 @@ Admin can create, edit and delete the users.
 | User Role |  Access|
 |--|--|
 | Admin | Create,edit,delete users,groups,global parameter,global function |
-|User|view reports and can edit them if provided access to the specific model|
 |Developer|Create,edit,delete reports or dashboards and change global parameters and functions|
+|User|view reports and can edit them if provided access to the specific model|
+|groups|view reports and can edit them if provided access to the specific model|
 |Manager|view reports and edit them if provided access to the specific model|
-|Super Admin|Create profile and Control all the admin settings|
 
-- **Enabled** if we select the checkbox it will enable the user login .
+
+- **Enabled** if we select the checkbox, it will enable the user login or it will disable.
 - Click on **Save** button to save user.
 
 ## Edit & Delete User
@@ -51,6 +52,6 @@ Click on **Save** button to save group.
 4. Click on **Delete icon** to delete the Group.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0Mjk1NTA1LDQ2NTc2NjgxNiwtOTc0Nj
-YwMTg3XX0=
+eyJoaXN0b3J5IjpbLTk0ODA0MDE4NCw0NjU3NjY4MTYsLTk3ND
+Y2MDE4N119
 -->
