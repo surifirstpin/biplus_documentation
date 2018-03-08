@@ -21,7 +21,7 @@
   - [Tags](Tags.md)
 
 - Settings
-  -[Admin Privileges](AdminPrivileges.md)
+  - [Admin Privileges](AdminPrivileges.md)
   - [Global Parameters](GlobalParameters.md)  
   - [Global Functions](GlobalFunctions.md)
   
