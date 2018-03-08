@@ -36,9 +36,9 @@ Admin can create, edit and delete the users.
 
 ## Groups
 
-Provides access to set of users by defining different groups.
+Creates user groups and later these 
 
->Path : settings-->Select Groups-->Click on Add Group.
+>Navigation : settings→Select Groups→Click on Add Group.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b6af863fbeb6584b8a139d0f303840ab6893da5e/images/groups.png)
 
 - **Group Name** enter a group name.
@@ -52,6 +52,6 @@ Click on **Save** button to save group.
 4. Click on **Delete icon** to delete the Group.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzU0MjQ5MCw0NjU3NjY4MTYsLTk3ND
+eyJoaXN0b3J5IjpbMTc2MzU3MDQ3Nyw0NjU3NjY4MTYsLTk3ND
 Y2MDE4N119
 -->
