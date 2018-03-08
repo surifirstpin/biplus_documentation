@@ -20,6 +20,8 @@ function myfunction_8(param1,param2)
 }
 /*END*/
 ```
+> Note : You can add function parameter in function body only.
+
 **Example :**
 ```
 /* My Custom function*/
@@ -58,5 +60,5 @@ This functions supports all the native java script supported functions and also 
 
 All the users have privilege to access global functions in calculated column,  but admin and developer has an ability to create, edit and delete a global function.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDkyNzAzMV19
+eyJoaXN0b3J5IjpbMTQ1NjcxMTc4MV19
 -->
