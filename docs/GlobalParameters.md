@@ -52,7 +52,7 @@ Similarly edit column cell value by clicking on specific cell as shown below.
 
 ## Grid & Code Views
 
-5. The uploaded file can be viewed in JSON format in Code view options.
+5. The uploaded file can be viewed in JSON format in** Code view**.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/90776aed8960274aaa61da1fdae760d4210c27ea/images/global_parameter.png)
 
@@ -86,5 +86,5 @@ To reset password Click on Forget password button.
 eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDM4MzQzMjhdfQ==
+eyJoaXN0b3J5IjpbLTE4MTk0MTMyMDZdfQ==
 -->
