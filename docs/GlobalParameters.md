@@ -23,10 +23,8 @@ acuBi allows you to provide additional key values to manipulate the data in calc
 - Click on **ok** button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a0355c0670a5270bd78cc76161b7c49b3598d57f/images/gp1.png)
-- You can add custom coulum and data to the g
-## Upload parameters
-
-To Upload the parameter select the global parameter key name.
+-  Add custom column and data to global parameter created.
+- 
 
 2. Click on Browse button to upload the file.
 
@@ -88,5 +86,5 @@ To reset password Click on Forget password button.
 eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTYzMTgyMF19
+eyJoaXN0b3J5IjpbLTE1ODkzNjY4ODddfQ==
 -->
