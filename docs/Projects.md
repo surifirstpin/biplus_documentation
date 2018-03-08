@@ -1,15 +1,11 @@
 <center><h1>Project</h1></center>
 
-## Definition
-
 Project is collection of files that describes how database tables are connected to each other and how Bi+ portray those tables.
 Bi+ provides an Integrated Development Environment (IDE) for developing and handling the project files.
 
 ## Create Project
 
-**Getting Started :**
-
-> Path : Model-->Projects-->New Project
+> Navigation : Model-->Projects-->New Project
    
    **1.** Click on **+ New Project** to create new project.
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c9ed66676e23e0ae62ebdd2103760238d0a1b0f3/images/new_project.png)
@@ -75,5 +71,5 @@ Select the project you want to delete and click on **delete icon**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/project_del.png)
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM0OTY4ODBdfQ==
+eyJoaXN0b3J5IjpbMTE3NzgyODE2N119
 -->
