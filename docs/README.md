@@ -229,8 +229,10 @@ Drive your business with better decision-making with more meaningful and forward
 
 acuBi provides a single, integrated enterprise analytics platform by delivering faster and better insights for the whole business, regardless any action or industry.
 
+C out how our BI products and applications can help you improve decision making at every level of your organization.
+
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQ2ODYxMTFdfQ==
+eyJoaXN0b3J5IjpbLTE3ODAxODUxMTFdfQ==
 -->
