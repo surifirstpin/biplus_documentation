@@ -26,7 +26,7 @@ acuBi allows you to provide additional key values to manipulate the data in calc
 -  Add custom column and data to global parameter created.
 - Import external data using a excel sheet.
 
-2. Click on Browse button to upload the file.
+2. Click on Browse button to import the file.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f71f9b749c89e85f559f47a1db84bdb638fbc9a4/images/global+para3.png)
 
@@ -86,5 +86,5 @@ To reset password Click on Forget password button.
 eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDEzNDY3Ml19
+eyJoaXN0b3J5IjpbNzUzODEwNDEyXX0=
 -->
