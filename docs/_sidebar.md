@@ -16,7 +16,7 @@
   - [Saving Reports](SavingReports.md)
 
 - Dashboards
-  - orginzer
+  - [orginzer](.md)
   - [Organizer](Tags.md) 
   - [Saved Reports](SavedReports.md)  
   - [Dashboards](Dashboards.md)
