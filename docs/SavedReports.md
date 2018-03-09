@@ -41,7 +41,7 @@ And, we apply global filter **Sum count equals to 1** in dashboard. The dashboar
 
 4. To add more filters click on **Add Filters.** 
 5. To save the added filters click on **Save** Button.
-6. To refersh the report after adding the filters clic
+6. To refersh the report after adding the filters click on 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fd894359eff6fd19d2d9d7d8a210c0e2c7c515e8/images/filter_reports.png)
 ## Explore Report
 
@@ -104,5 +104,5 @@ Select the tag in which you want to save the **Report**  and click on **Save.**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/48df1ea04c2a595b12cbc950174ccae53a3669e2/images/report_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE4MDQzNDFdfQ==
+eyJoaXN0b3J5IjpbLTExOTI2NTgxMzFdfQ==
 -->
