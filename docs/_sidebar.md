@@ -19,7 +19,7 @@
   - [Organize](Organize.md)
   - [Tags](Tags.md)
   - [Reports](SavedReports.md)  
-  - [Dashboard](Dashboards.md)
+  - [Dashboard](Dashboard.md)
   
 
 - Settings
