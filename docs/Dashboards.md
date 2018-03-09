@@ -1,12 +1,5 @@
 
 <center><h1>Dashboard</h1></center>
-## View Dashboard
-
-To view the report click on specific report in dashboard section and it will navigate to the report created.
-
-1. Set the report to home page by clicking on **Set on homepage** icon.
-2. Edit the report by clicking on **Edit** icon.
-3. Delete the report by clicking on **Delete** icon.
 
 <p>Dashboard provides access to view multiple reports in single dashboard layout, in this way it provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive.</p>
 <h2 id="create-dashboard">Create Dashboard</h2>
@@ -98,5 +91,5 @@ To view the report click on specific report in dashboard section and it will nav
 </ol>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjI4NzYzOV19
+eyJoaXN0b3J5IjpbLTk5NzM5MDg5M119
 -->
