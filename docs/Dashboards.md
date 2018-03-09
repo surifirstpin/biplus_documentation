@@ -59,7 +59,7 @@ Bi+ allows multiple report layouts format. Depending on the requirement, select 
 
 Select the tag in which you want to save **Dashboard Reports**  and click on **Save.**
 
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0fb2c0fe9fbc99b6ac2cd3d818fe7533a74872b8/images/2018-02-06_16-09-56.png)
 
 - **Name** name identifier for dashboard created.
 - **Title** title to refer the dashboard.
@@ -101,5 +101,5 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDc0NDEwMV19
+eyJoaXN0b3J5IjpbNjk0MjE2MDQ3XX0=
 -->
