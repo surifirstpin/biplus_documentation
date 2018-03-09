@@ -1,6 +1,7 @@
 
 <center><h1>Dashboard</h1></center>
-View 
+##  View Dashboard
+
 <p>Dashboard provides access to view multiple reports in single dashboard layout, in this way it provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive.</p>
 <h2 id="create-dashboard">Create Dashboard</h2>
 <blockquote>
@@ -91,5 +92,5 @@ View
 </ol>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyNjIyOTA2XX0=
+eyJoaXN0b3J5IjpbLTUyMjE5ODMwNl19
 -->
