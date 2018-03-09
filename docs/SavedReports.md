@@ -15,7 +15,17 @@ Click on specific report in dashboard section and it will navigate to the report
 2. Edit the report by clicking on ** Edit** icon.
 3. Delete the report by clicking on **Delete** icon.
 
-## Global filters in visualization
+## Report filters
+## Filters & Customization
+
+Filters can be added in dashboard section for narrowing the dashboard results to view specific data.
+
+## Adding Global Filters
+
+ Global filter specify a filter value in saved report. The report data is retrieved based on filter applied in analysis section, but in case if the data retrieved must be based on different filter value, then it is possible only if we declare it in  global filters option while saving the report.
+ Hidden filters are applied on a saved report, if the fields are specified in global filter section. 
+>**Example **
+Here we applied global filter to **Sum count equals to 4** in Analysis section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/03479cac2e0411bc202c5ada788c0134cf3e46fb/images/global_filter_visu.png)
 
@@ -23,7 +33,7 @@ Click on specific report in dashboard section and it will navigate to the report
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b9f18fe2520ef49c2774bf818662ee8ae68e9d39/images/filter_reports.png)
 
-## Chart to Grid Change over ( Show Data / Show Visualization)
+## Explore Report
 
 To view data or visualization of dashboard report, click on the setting icon on far right of the dashboard report.
 
@@ -47,16 +57,8 @@ it will display the data flow of the dashboard report.
 - **Download CSV** download the dashboard repot in CSV format.
 - **Image format** download the dashboard report in image format.
 
-## Filters & Customization
 
-Filters can be added in dashboard section for narrowing the dashboard results to view specific data.
 
-## Adding Global Filters
-
- Global filter specify a filter value in saved report. The report data is retrieved based on filter applied in analysis section, but in case if the data retrieved must be based on different filter value, then it is possible only if we declare it in  global filters option while saving the report.
- Hidden filters are applied on a saved report, if the fields are specified in global filter section. 
->**Example **
-Here we applied global filter to **Sum count equals to 4** in Analysis section.
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b852b51ab2d28891914aab1c0a1efd355c252a19/images/globalfil_overide_report.png)
 And, we apply global filter **Sum count equals to 1** in dashboard. The dashboard global filter override the filter applied in Analysis section resulting in **Sum count equals to 1**. 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b852b51ab2d28891914aab1c0a1efd355c252a19/images/glob_fil_2.png)
@@ -98,5 +100,5 @@ Select the tag in which you want to save the **Report**  and click on **Save.**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/48df1ea04c2a595b12cbc950174ccae53a3669e2/images/report_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1OTUwNTcwXX0=
+eyJoaXN0b3J5IjpbLTk5NjkxMjI0OF19
 -->
