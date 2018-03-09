@@ -24,20 +24,21 @@ Filters can be added in dashboard section for narrowing the dashboard results to
 
  Global filter specify a filter value in saved report. The report data is retrieved based on filter applied in analysis section, but in case if the data retrieved must be based on different filter value, then it is possible only if we declare it in  global filters option while saving the report.
  Hidden filters are applied on a saved report, if the fields are specified in global filter section. 
+ 
 >**Example **
 Here we applied global filter to **Sum count equals to 4** in Analysis section.
 
+And, we apply global filter **Sum count equals to 1** in dashboard. The dashboard global filter override the filter applied in Analysis section resulting in **Sum count equals to 1**. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b852b51ab2d28891914aab1c0a1efd355c252a19/images/globalfil_overide_report.png)
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b852b51ab2d28891914aab1c0a1efd355c252a19/images/glob_fil_2.png)
+
+
+- Filters added while saving the reports in analyse section are viewed in filter section of the reports.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/03479cac2e0411bc202c5ada788c0134cf3e46fb/images/global_filter_visu.png)
 
-And, we apply global filter **Sum count equals to 1** in dashboard. The dashboard global filter override the filter applied in Analysis section resulting in **Sum count equals to 1**. 
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b852b51ab2d28891914aab1c0a1efd355c252a19/images/glob_fil_2.png)
-
-- Filters added while saving the reports in analyse section are viewed in filter section of the reports.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cf173a8e3f4a66782883aa2c35b8582f37655d61/images/filter_reports.png)
 ## Explore Report
@@ -101,5 +102,5 @@ Select the tag in which you want to save the **Report**  and click on **Save.**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/48df1ea04c2a595b12cbc950174ccae53a3669e2/images/report_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQ0NjkxNzVdfQ==
+eyJoaXN0b3J5IjpbLTExMTUwOTc4N119
 -->
