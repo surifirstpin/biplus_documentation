@@ -53,7 +53,17 @@ Click on **Save** button to save group.
 3. Click on **Edit icon** to edit the group.
 4. Click on **Delete icon** to delete the Group.
 
+## Forgot Password
+
+To reset password Click on Forget password button.
+
+- **Enter old Password** enter old password.
+- **Enter New Password** enter new password to be update.
+- **Re-enter New password** re-enter the new password.
+- Click on **Update** button to save changes.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNjkwNTI4MCw0NjU3NjY4MTYsLTk3ND
+eyJoaXN0b3J5IjpbMTY5ODU1MTI2Niw0NjU3NjY4MTYsLTk3ND
 Y2MDE4N119
 -->
