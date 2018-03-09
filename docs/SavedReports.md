@@ -48,7 +48,7 @@ sv18042016
 
 ## Explore Report
 
-To view data or visualization of dashboard report, click on the **setting icon** on far right of the dashboard report.
+To view data or visualization of dashboard report, click on the **setting icon** on far right of the dashboard report. it will display the data flow of the dashboard report.
 
 Choose from the given options provided. 
 -  Select **Show data** to display data report.
@@ -58,7 +58,7 @@ Choose from the given options provided.
 
 
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/75dc8e17122b93eba5d8cb82ae8a5c8fa0b4f72f/images/show_visu.png)
+![enter image description here](h
 
 ## Refresh & Hard Refresh
 
@@ -107,5 +107,5 @@ Select the tag in which you want to save the **Report**  and click on **Save.**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/48df1ea04c2a595b12cbc950174ccae53a3669e2/images/report_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjIwNTY5Ml19
+eyJoaXN0b3J5IjpbNzA4ODgxMDFdfQ==
 -->
