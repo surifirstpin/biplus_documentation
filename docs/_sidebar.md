@@ -16,7 +16,7 @@
   - [Saving Reports](SavingReports.md)
 
 - Dashboards
-  - [Organizer][Tags](Tags.md) 
+  - [Organizer](Tags.md) 
   - [Saved Reports](SavedReports.md)  
   - [Dashboards](Dashboards.md)
   - [Tags](Tags.md)
