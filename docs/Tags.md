@@ -25,15 +25,9 @@ To create a child Tag use **Add Tag** in dashboard section and save it under the
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c1b8fc9522826986d90afc6df61df3f988227475/images/child_tag.png)
 
 
-## Privacy & Share for a Cluster of Reports
 
-Select the tag in which you want to save the **Report**  and click on **Save.**
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/48df1ea04c2a595b12cbc950174ccae53a3669e2/images/report_tag.png)
 
-## Privacy & Share for a Cluster of Reports Dashboards
-
-Select the tag in which you want to save **Dashboard Reports**  and click on **Save.**
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0fb2c0fe9fbc99b6ac2cd3d818fe7533a74872b8/images/2018-02-06_16-09-56.png)
 
@@ -56,5 +50,5 @@ To **Delete** the tag click on delete icon.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e571af6fdf36fb0e58a5248a84669f5f73f5703f/images/delete_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODUzOTY3MF19
+eyJoaXN0b3J5IjpbLTExMjQ5NDUwMDNdfQ==
 -->
