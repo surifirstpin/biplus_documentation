@@ -52,9 +52,8 @@ Bi+ allows multiple report layouts format. Depending on the requirement, select 
    - **Apply to field**  applies filter options to available field list in report.
    - **Add Listener** adds multiple filters to reports.
 
-## Privacy & Share Option
-
 7. Click on **Save Button** to save the dashboard.
+
 ## Privacy & Share option for Dashboards
 
 Select the tag in which you want to save **Dashboard Reports**  and click on **Save.**
@@ -101,5 +100,5 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0MjE2MDQ3XX0=
+eyJoaXN0b3J5IjpbLTQ5MTkwNDI3MV19
 -->
