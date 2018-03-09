@@ -23,7 +23,7 @@ acuBi allows you to provide additional key values to manipulate the data in calc
 - Click on **ok** button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a0355c0670a5270bd78cc76161b7c49b3598d57f/images/gp1.png)
--  Add custom column and data to global parameter created.
+-  Add column and update the data to global parameter created.
 - Import external data using a excel sheet.
 
 2. Click on Browse button to import the file.
@@ -75,19 +75,7 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f62789b75b84744ac187a098b61d4fc8fb752053/images/delete_para.png)
 
-## Forgot Password
 
-To reset password Click on Forget password button.
-
-- **Enter old Password** enter old password.
-- **Enter New Password** enter new password to be update.
-- **Re-enter New password** re-enter the new password.
-- Click on **Update** button to save changes.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTM5MTg2NV19
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzYwMTI4NDBdfQ==
+eyJoaXN0b3J5IjpbLTkwMDUwMTY2MV19
 -->
