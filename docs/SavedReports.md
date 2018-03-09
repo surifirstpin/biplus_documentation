@@ -5,7 +5,7 @@
 To view the report click on specific report in dashboard section and it will navigate to the report created.
 
 1. Set the report to home page by clicking on **Set on homepage** icon.
-2. Edit the report by clicking on ** Edit** icon.
+2. Edit the report by clicking on **Edit** icon.
 3. Delete the report by clicking on **Delete** icon.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a617b3ae958c069a99a9a91df6097bda5762d6aa/images/savwe.png)
@@ -87,5 +87,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecc3454dfca83ec1a68e4fe46c0476a8db61154/images/display%20filter%20panel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTc4Nzg3Ml19
+eyJoaXN0b3J5IjpbOTAwNjQyODMwXX0=
 -->
