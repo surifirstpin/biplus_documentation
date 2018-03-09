@@ -6,17 +6,9 @@ Click on specific report in dashboard section and it will navigate to the report
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bf198c5d217b14094b6788fb0877137b38d505c7/images/view_report.png)
 
-## Edit Report in dashboard
+## DisplayEdit & Delete Report 
 
- Click on **edit icon** to edit the dashboard report.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/57a42a8d038698acf71f644dde9c012b191c2e75/images/edit_dash_rep.png)
-
-## Delete Report in dashboard
-
-To delete the dashboard from database, click on **delete icon**.
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/68d855529345a5d0240aeb2d690ba98c80f0ade3/images/del_dash.png)
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/90dff6a1bb3b0616d0feb6df6c6aec1a0bec443f/images/edit_rep.png)
 ## Chart to Grid Change over ( Show Data / Show Visualization)
 
 To view data or visualization of dashboard report, click on the setting icon on far right of the dashboard report.
@@ -95,5 +87,5 @@ Select the tag in which you want to save the **Report**  and click on **Save.**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/48df1ea04c2a595b12cbc950174ccae53a3669e2/images/report_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODAzMzM1MF19
+eyJoaXN0b3J5IjpbMTA0NTA5MzUzN119
 -->
