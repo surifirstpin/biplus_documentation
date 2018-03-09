@@ -6,13 +6,13 @@ AcuBi has an ability to drag and drop the reports into specific dashboards.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/08540b2a5a571ee35105e667147cdd1073f8412f/images/drag&drop_rep.png)
 
-## Edit Report
+## Edit Report in dashboard
 
  Click on **edit icon** to edit the dashboard report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/57a42a8d038698acf71f644dde9c012b191c2e75/images/edit_dash_rep.png)
 
-## Delete  Report
+## Delete Report in dashboard
 
 To delete the dashboard from database, click on **delete icon**.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/68d855529345a5d0240aeb2d690ba98c80f0ade3/images/del_dash.png)
@@ -88,5 +88,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTU1NDA4N119
+eyJoaXN0b3J5IjpbMjEwNDIyNzA3OV19
 -->
