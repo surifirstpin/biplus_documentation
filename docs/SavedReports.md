@@ -7,8 +7,6 @@ To view the report click on specific report in dashboard section and it will nav
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bf198c5d217b14094b6788fb0877137b38d505c7/images/view_report.png)
 
 
-## Display on Home page, Edit & Delete Report 
-
 1. Set the report to home page by clicking on **Set on homepage** icon.
 2. Edit the report by clicking on ** Edit** icon.
 3. Delete the report by clicking on **Delete** icon.
@@ -92,5 +90,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecc3454dfca83ec1a68e4fe46c0476a8db61154/images/display%20filter%20panel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODA1MzQ1OV19
+eyJoaXN0b3J5IjpbLTEzNDk0MzMwMjFdfQ==
 -->
