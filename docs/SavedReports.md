@@ -72,6 +72,7 @@ And, we apply global filter **Sum count equals to 1** in dashboard. The dashboar
 - **Referred** to refer predefined filter for the following filters.
 
 ## Save As / Update option for a saved report in Edit
+
 1. To update the changes made to report use **Update option** provided.
 2. To save the updated report with different name use **Save as** option.
 
@@ -97,5 +98,5 @@ Select the tag in which you want to save the **Report**  and click on **Save.**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/48df1ea04c2a595b12cbc950174ccae53a3669e2/images/report_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQ2MzQ5ODRdfQ==
+eyJoaXN0b3J5IjpbNzQ1OTUwNTcwXX0=
 -->
