@@ -16,10 +16,11 @@
   - [Saving Reports](SavingReports.md)
 
 - Dashboards
-  - [Organizer](Tags.md) 
-  - [Saved Reports](SavedReports.md)  
-  - [Dashboards](Dashboards.md)
+  - [Organize](Tags.md)
   - [Tags](Tags.md)
+  - [Reports](SavedReports.md)  
+  - [Dashboards](Dashboards.md)
+  
 
 - Settings
   - [Admin Privileges](AdminPrivileges.md)
