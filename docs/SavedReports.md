@@ -74,10 +74,7 @@ And, we apply global filter **Sum count equals to 1** in dashboard. The dashboar
 2. To save the updated report with different name use **Save as** option.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1ca68fee0e0c76193fb8e0de7377b0598d771246/images/update_report2.png)
-## Home Page Display Option
 
-Use **Set Home page** Icon, to set the dashboard on home page.
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 
 ## Hide Filters panel
 To hide the filter panel click on **left shift operator** on dashboard report screen.
@@ -99,5 +96,5 @@ Select the tag in which you want to save the **Report**  and click on **Save.**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/48df1ea04c2a595b12cbc950174ccae53a3669e2/images/report_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjMxOTUwN119
+eyJoaXN0b3J5IjpbMTgyMTU2NzAwXX0=
 -->
