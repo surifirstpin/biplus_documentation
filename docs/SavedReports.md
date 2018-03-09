@@ -1,6 +1,8 @@
 <center><h1> Reports</h1></center>
 
+## Drag and Drop the reports
 
+AcuBi has an ability to drag and drop the reports into specific dashboards.
 
 ## Edit Report
 
@@ -84,5 +86,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTY0ODY2M119
+eyJoaXN0b3J5IjpbMTYxMDM4Mjg2XX0=
 -->
