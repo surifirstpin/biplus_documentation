@@ -55,8 +55,11 @@ Bi+ allows multiple report layouts format. Depending on the requirement, select 
 ## Privacy & Share Option
 
 7. Click on **Save Button** to save the dashboard.
+## Privacy & Share option for Dashboards
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3cf90f38c12a100708d63581b06825580e17333a/images/save_dash.png)
+Select the tag in which you want to save **Dashboard Reports**  and click on **Save.**
+
+
 
 - **Name** name identifier for dashboard created.
 - **Title** title to refer the dashboard.
@@ -96,14 +99,7 @@ If the listener is **ON** filter is applied and if it is **OFF** filters are not
 
 12. Click on **Maximize icon** in report tool bar.![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/078a756c7f5ed60ca10511acdbae528ea7f7cc16/images/repo_max.png)
 
-## Home Page Display Option
 
-Click on **Set Home page** Icon, to set the dashboard on Home page.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/319f0be4611343c3f7cc7ed6d86e60cede6c0e1a/images/dash_home.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDI0NTk2MTZdfQ==
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDE2MjU0NzFdfQ==
+eyJoaXN0b3J5IjpbMTYwMDc0NDEwMV19
 -->
