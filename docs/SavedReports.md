@@ -86,15 +86,13 @@ Choose from the given options provided.
 
 To hide the filter panel click on **left shift operator** on dashboard report screen.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1d2f5f99ff0adb44cf4f29fad6293c953095b169/images/hide_filter.png) 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4379d0e2c52695f2ccdd41e99e118daeb6237113/images/hide_filter.png)
 
 ## Show Filters panel
 
  To view the filter panel use **Right shift operator** on dashboard report screen.
-   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/74742e26a25f759329de154c34ffce2a239cd5fb/images/show_filter.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDQyOTE3NV19
+eyJoaXN0b3J5IjpbLTE0OTM2MjE4ODNdfQ==
 -->
