@@ -49,11 +49,11 @@ sv18042016
 ## Explore Report
 
 7. To view the data flow of the report click on the **setting icon** .
-8. Click on 
-
+8. Click on ** show data** to view the data.
 Choose from the given options provided. 
 -  Select **Show data** to display data report.
 -  Select **Show visualization** to view visualization of the report.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d52bc64c5ef2973d8b81e9a4f8925e0e50686102/images/show_data.png)
 
 ## Refresh & Hard Refresh
@@ -85,6 +85,7 @@ Choose from the given options provided.
 
 
 ## Hide Filters panel
+
 To hide the filter panel click on **left shift operator** on dashboard report screen.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1d2f5f99ff0adb44cf4f29fad6293c953095b169/images/hide_filter.png) 
@@ -96,12 +97,6 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
-## Privacy & Share for a Cluster of Reports
-
-Select the tag in which you want to save the **Report**  and click on **Save.**
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/48df1ea04c2a595b12cbc950174ccae53a3669e2/images/report_tag.png)
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwMjAzNjgzXX0=
+eyJoaXN0b3J5IjpbLTc4NzAwNjQxNl19
 -->
