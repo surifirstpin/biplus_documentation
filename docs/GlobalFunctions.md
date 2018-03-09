@@ -14,14 +14,14 @@ All the users have privilege to access global functions in calculated column,  b
 /* My Custom function*/
 
 /*START*/ 
-function myfunction_8(param1,param2)
+function myfunction(param1,param2)
 {
  // Define function body   
    return 0;
 }
 /*END*/
 ```
-> Note : You can add function parameter in function body only.
+> Note : You can add your code in function body only.
 
 **Example :**
 ```
@@ -59,5 +59,5 @@ This functions supports all the native java script supported functions and also 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODIxNzUxOTddfQ==
+eyJoaXN0b3J5IjpbMTY1MDUzMjc2MV19
 -->
