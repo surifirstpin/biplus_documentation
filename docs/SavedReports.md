@@ -18,9 +18,7 @@ To view the report click on specific report in dashboard section and it will nav
 
 ## Report filters
 
-Filters can be added in dashboard section for narrowing the dashboard results to view specific data.
-
-## Adding Global Filters
+Using Filters will narrow the reports results while allowing you to view the specific r data.
 
  Global filter specify a filter value in saved report. The report data is retrieved based on filter applied in analysis section, but in case if the data retrieved must be based on different filter value, then it is possible only if we declare it in  global filters option while saving the report.
  Hidden filters are applied on a saved report, if the fields are specified in global filter section. 
@@ -94,5 +92,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecc3454dfca83ec1a68e4fe46c0476a8db61154/images/display%20filter%20panel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDgyMTAzOV19
+eyJoaXN0b3J5IjpbMjA2NTgzNjgyNV19
 -->
