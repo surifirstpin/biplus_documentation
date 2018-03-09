@@ -14,7 +14,7 @@ Click on specific report in dashboard section and it will navigate to the report
 1. Set the report to home page by clicking on **Set on homepage** icon.
 2. Edit the report by clicking on ** Edit** icon.
 3. Delete the report by clicking on **Delete** icon.
-4. 
+
 ## Chart to Grid Change over ( Show Data / Show Visualization)
 
 To view data or visualization of dashboard report, click on the setting icon on far right of the dashboard report.
@@ -93,5 +93,5 @@ Select the tag in which you want to save the **Report**  and click on **Save.**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/48df1ea04c2a595b12cbc950174ccae53a3669e2/images/report_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTUyNjUxNTZdfQ==
+eyJoaXN0b3J5IjpbLTIwNTIyNTg3NzhdfQ==
 -->
