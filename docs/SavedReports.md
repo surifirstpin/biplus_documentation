@@ -16,7 +16,6 @@ Click on specific report in dashboard section and it will navigate to the report
 3. Delete the report by clicking on **Delete** icon.
 
 ## Report filters
-## Filters & Customization
 
 Filters can be added in dashboard section for narrowing the dashboard results to view specific data.
 
@@ -34,6 +33,8 @@ Here we applied global filter to **Sum count equals to 4** in Analysis section.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/03479cac2e0411bc202c5ada788c0134cf3e46fb/images/global_filter_visu.png)
 
 And, we apply global filter **Sum count equals to 1** in dashboard. The dashboard global filter override the filter applied in Analysis section resulting in **Sum count equals to 1**. 
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b852b51ab2d28891914aab1c0a1efd355c252a19/images/glob_fil_2.png)
 
 - All the filters added while saving the reports in analyse section are viewed in filter section while viewing the of reports in dashboard section.
 
@@ -62,8 +63,6 @@ it will display the data flow of the dashboard report.
 
 - **Download CSV** download the dashboard repot in CSV format.
 - **Image format** download the dashboard report in image format.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b852b51ab2d28891914aab1c0a1efd355c252a19/images/glob_fil_2.png)
 
 ## Lookup Single & Multiple
  
@@ -102,5 +101,5 @@ Select the tag in which you want to save the **Report**  and click on **Save.**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/48df1ea04c2a595b12cbc950174ccae53a3669e2/images/report_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDI2MzcyXX0=
+eyJoaXN0b3J5IjpbMTEwMjIxMDMxNF19
 -->
