@@ -1,10 +1,8 @@
 <center><h1> Reports</h1></center>
 
-## Drag and Drop the reports
+## View Report
+Click on report created to view it.
 
-AcuBi has an ability to drag and drop the reports into specific dashboards.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/08540b2a5a571ee35105e667147cdd1073f8412f/images/drag&drop_rep.png)
 
 ## Edit Report in dashboard
 
@@ -95,5 +93,5 @@ Select the tag in which you want to save the **Report**  and click on **Save.**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/48df1ea04c2a595b12cbc950174ccae53a3669e2/images/report_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDM3MDQ4Nl19
+eyJoaXN0b3J5IjpbMTk2Mzg2Mzc3OV19
 -->
