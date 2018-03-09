@@ -53,10 +53,10 @@ To view data or visualization of dashboard report, click on the **setting icon**
 Choose from the given options provided. 
 -  Select **Show data** to display data report.
 -  Select **Show visualization** to view visualization of the report.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d52bc64c5ef2973d8b81e9a4f8925e0e50686102/images/show_data.png)
+ image description here](https://raw.githubusercontent.com/sv18042016/fp1/89bbb5761712e82e76a0f70e91ab7513131fc13d/images/show_data.png)
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/89bbb5761712e82e76a0f70e91ab7513131fc13d/images/show_data.png)
 
-it will display the data flow of the dashboard report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/75dc8e17122b93eba5d8cb82ae8a5c8fa0b4f72f/images/show_visu.png)
 
@@ -107,5 +107,5 @@ Select the tag in which you want to save the **Report**  and click on **Save.**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/48df1ea04c2a595b12cbc950174ccae53a3669e2/images/report_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3NDk3ODcyXX0=
+eyJoaXN0b3J5IjpbMjEwMjIwNTY5Ml19
 -->
