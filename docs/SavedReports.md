@@ -19,7 +19,7 @@ Click on specific report in dashboard section and it will navigate to the report
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/03479cac2e0411bc202c5ada788c0134cf3e46fb/images/global_filter_visu.png)
 
-- All the filters added while saving the reports in analyse section are viewed in filter section while viewing the of reports in dashboard
+- All the filters added while saving the reports in analyse section are viewed in filter section while viewing the of reports in dashboard section
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b9f18fe2520ef49c2774bf818662ee8ae68e9d39/images/filter_reports.png)
@@ -99,5 +99,5 @@ Select the tag in which you want to save the **Report**  and click on **Save.**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/48df1ea04c2a595b12cbc950174ccae53a3669e2/images/report_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDMzOTM5MDFdfQ==
+eyJoaXN0b3J5IjpbMjA0MjQzOTY0MF19
 -->
