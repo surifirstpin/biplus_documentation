@@ -93,3 +93,6 @@
 <li>Click on <strong>Maximize icon</strong> in report tool bar.<img src="https://raw.githubusercontent.com/sv18042016/fp1/078a756c7f5ed60ca10511acdbae528ea7f7cc16/images/repo_max.png" alt="enter image description here"></li>
 </ol>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4NzAyMDY0NTldfQ==
+-->
