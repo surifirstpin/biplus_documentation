@@ -37,9 +37,8 @@ And, we apply global filter **Sum count equals to 1** in dashboard. The dashboar
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b852b51ab2d28891914aab1c0a1efd355c252a19/images/glob_fil_2.png)
 
 - All the filters added while saving the reports in analyse section are viewed in filter section while viewing the of reports in dashboard section.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b9f18fe2520ef49c2774bf818662ee8ae68e9d39/images/filter_reports.png)
-
+- 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cf173a8e3f4a66782883aa2c35b8582f37655d61/images/filter_reports.png)
 ## Explore Report
 
 To view data or visualization of dashboard report, click on the setting icon on far right of the dashboard report.
@@ -101,5 +100,5 @@ Select the tag in which you want to save the **Report**  and click on **Save.**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/48df1ea04c2a595b12cbc950174ccae53a3669e2/images/report_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMjIxMDMxNF19
+eyJoaXN0b3J5IjpbMzUxMzI1MjUyXX0=
 -->
