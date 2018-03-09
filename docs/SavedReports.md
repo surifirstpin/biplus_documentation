@@ -87,6 +87,13 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTE2ODY2NDI5MV19
 -->
+
+## Privacy & Share for a Cluster of Reports
+
+Select the tag in which you want to save the **Report**  and click on **Save.**
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/48df1ea04c2a595b12cbc950174ccae53a3669e2/images/report_tag.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDIyNzA3OV19
+eyJoaXN0b3J5IjpbLTI3MDM3MDQ4Nl19
 -->
