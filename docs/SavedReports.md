@@ -17,7 +17,7 @@ Using Filters will narrow the reports results while allowing you to view the spe
  
  > For Example :
 
-Lets apply report filter **Sum count equals to 4** in Analysis section.
+Lets apply report filter **Sum count equals to 1** in Analysis section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b852b51ab2d28891914aab1c0a1efd355c252a19/images/globalfil_overide_report.png)
 
@@ -82,5 +82,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecc3454dfca83ec1a68e4fe46c0476a8db61154/images/display%20filter%20panel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTM3NDg5MSw5MDA2NDI4MzBdfQ==
+eyJoaXN0b3J5IjpbLTE3MzA3ODQ1NjIsOTAwNjQyODMwXX0=
 -->
