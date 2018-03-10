@@ -37,7 +37,7 @@ The data is retrieved on based on the filters applied.
 ## Explore Report
 
 7. To view the data flow of the report click on the **setting icon** .
-8. Click on **show data** to view the data.
+8. Click on **Show data** to view the data.
 Choose from the given options provided. 
 -  Select **Show data** to display data report.
 -  Select **Show visualization** to view visualization of the report.
@@ -82,5 +82,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecc3454dfca83ec1a68e4fe46c0476a8db61154/images/display%20filter%20panel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTk2MjM1LDkwMDY0MjgzMF19
+eyJoaXN0b3J5IjpbMTc2NTM3NDg5MSw5MDA2NDI4MzBdfQ==
 -->
