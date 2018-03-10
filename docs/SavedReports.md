@@ -13,8 +13,7 @@ To view the report click on specific report in dashboard section and it will nav
 
 ## Report filters
 
-Using Filters will narrow the reports results while allowing you to view the specific range of data.
- Global filter specify a filter value in saved report. The report data is retrieved based on filter applied in analysis section.
+Using Filters will narrow the reports results while allowing you to view the specific range of data.Report filter specify a filter value in saved report. The report data is retrieved based on filter applied in analysis section.
  
 >**Example **
 Here we applied global filter to **Sum count equals to 4** in Analysis section.
@@ -85,5 +84,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecc3454dfca83ec1a68e4fe46c0476a8db61154/images/display%20filter%20panel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDcyOTU5MSw5MDA2NDI4MzBdfQ==
+eyJoaXN0b3J5IjpbLTEyODYxNzg5NTIsOTAwNjQyODMwXX0=
 -->
