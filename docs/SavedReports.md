@@ -21,7 +21,7 @@ Here we applied report filter to **Sum count equals to 4** in Analysis section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b852b51ab2d28891914aab1c0a1efd355c252a19/images/globalfil_overide_report.png)
 
-The data is retrieved is retrieved based on the filters applied.
+The data is retrieved on based on the filters applied.
 
 
 - Filters added while saving the reports in analyse section are viewed in filter section of the reports.
@@ -82,5 +82,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecc3454dfca83ec1a68e4fe46c0476a8db61154/images/display%20filter%20panel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzU2NTI3NCw5MDA2NDI4MzBdfQ==
+eyJoaXN0b3J5IjpbLTE2MjI4MTE0NDMsOTAwNjQyODMwXX0=
 -->
