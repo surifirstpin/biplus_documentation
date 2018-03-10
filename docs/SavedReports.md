@@ -13,7 +13,7 @@ To view the report click on specific report in dashboard section and it will nav
 
 ## Report filters
 
-Using Fi will narrow the reports results while allowing you to view the specific range of data.Report filter specify a filter value in saved report. The report data is retrieved based on filter applied in analysis section.
+ will narrow the reports results while allowing you to view the specific range of data.Report filter specify a filter value in saved report. The report data is retrieved based on filter applied in analysis section.
  
  > For Example :
 
@@ -82,5 +82,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecc3454dfca83ec1a68e4fe46c0476a8db61154/images/display%20filter%20panel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDY0NDgyMiw5MDA2NDI4MzBdfQ==
+eyJoaXN0b3J5IjpbLTE5MTEyMjQ5NDksOTAwNjQyODMwXX0=
 -->
