@@ -48,8 +48,7 @@ You can add different reports to the layout selected, depending on the requireme
  to add global dashboard filters and lookups.
  
  **6.** **Dashboard global Filters** ( Refer image 5)
- allow user to view limited data.
-This Filters are applicable on dashboard reports and it supports the following filter types string, number, date and lookup.
+ allow user to view limited data by applying filters on dashboard reports and it supports following filter types string, number, date and lookup.
 
 - **String** For fields that contain letters or special characters.
 
@@ -130,7 +129,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 **11.** Click on  **Delete icon**  to delete the dashboard created. (Refer image 7)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA0MjU4MzgsMTc5ODE4MTg4NCwxNz
+eyJoaXN0b3J5IjpbLTE4MzY3OTkxNDEsMTc5ODE4MTg4NCwxNz
 k4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2Njcx
 Mjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
 -->
