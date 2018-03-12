@@ -64,6 +64,6 @@ To reset password Click on Forget password button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODU1MTI2Niw0NjU3NjY4MTYsLTk3ND
-Y2MDE4N119
+eyJoaXN0b3J5IjpbLTE1Mjc1MDQ3NywxNjk4NTUxMjY2LDQ2NT
+c2NjgxNiwtOTc0NjYwMTg3XX0=
 -->
