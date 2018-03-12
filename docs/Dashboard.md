@@ -69,6 +69,7 @@ This Filters are applicable on dashboard reports and it supports the following f
 
   ## Report Listeners    
  **8.**  **Report Listeners**  Acubi has an ability to map global filters to report fields. on applying the global filters ,the filters will be reflected in the mapped fields in reports. at the same time you can apply multiple global filters on same fields or multiple fields.
+ 
    -  **Dashboard Report**  selects reports to add filters.
    -   **Listen Filter**  refers to filter option available.
    -   **Apply to field**  applies filter options to available field list in report.
@@ -110,7 +111,7 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 eyJoaXN0b3J5IjpbLTI5MzA3NjIyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTIwMTYwMSwtMTg1MTY3MzcwMCwtMT
+eyJoaXN0b3J5IjpbLTI2NjczMjg4NSwtMTg1MTY3MzcwMCwtMT
 k2NzY2OTU0MCwtNzY2NzEyOTQ5LDMzODkzNDUwLDE1NDkxODgx
 NTMsMzM4OTM0NTBdfQ==
 -->
