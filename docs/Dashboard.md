@@ -117,23 +117,8 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 ![](https://raw.githubusercontent.com/sv18042016/fp1/a739889b994c72f53a035bdab7b5641d6107687d/images/dash_edi3.png)
 
-## Dependency Filters
-
-Dependency filters are used to retrieve set of filter values based on previous filter selection. the dependency should be mentioned in the filter query with a reference key from the previous filter.
-
-## Listeners On / Off
-
-If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are not applicable. to carry out this function use  **Add Listener** Parameter.
-
-## Maximize a Contained Report
-
-**12.**  Click on  **Maximize icon**  in report tool bar.
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzA3NjIyXX0=
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5MjMzMjQ5LDE3OTgxODE4ODQsMTc5OD
-E4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC03NjY3MTI5
-NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1MF19
+eyJoaXN0b3J5IjpbLTEzMTk5Mzg0NTMsMTc5ODE4MTg4NCwxNz
+k4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2Njcx
+Mjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
 -->
