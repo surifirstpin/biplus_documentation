@@ -43,7 +43,8 @@ You can add different reports to the layout selected, depending on the requireme
 ![image 4](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/add_rep%5Borts.png)
 
 ## Step 3: Dashboard Global Filters
->(Refer the above image)
+
+> Refer image 4
 
 **5.**  Click on **Apply Filters**  to add global dashboard filters and lookups.
 This Filters are applicable on dashboard reports and it supports the following filter types string, number, date and lookup.
@@ -58,6 +59,7 @@ This Filters are applicable on dashboard reports and it supports the following f
 
 > Image 5
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
+
 
 **6.**  **Dashboard Filters** allow user to view limited data.
 
@@ -123,7 +125,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 ![](https://raw.githubusercontent.com/sv18042016/fp1/a739889b994c72f53a035bdab7b5641d6107687d/images/dash_edi3.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzMzgzMjExLDE3OTgxODE4ODQsMTc5OD
-E4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC03NjY3MTI5
-NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1MF19
+eyJoaXN0b3J5IjpbMTI2MTE1MzcwMCwxNzk4MTgxODg0LDE3OT
+gxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEy
+OTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
 -->
