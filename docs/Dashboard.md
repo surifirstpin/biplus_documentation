@@ -111,14 +111,14 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 ## Edit / Delete Dashboard
 
-**10.** Click  **Edit**  Button to make any changes to dashboard created.
+**10.** Click  **Edit**  Button to make changes to the dashboard created.
 
 **11.** Click on  **Delete icon**  to delete the dashboard created.
 
 ![](https://raw.githubusercontent.com/sv18042016/fp1/a739889b994c72f53a035bdab7b5641d6107687d/images/dash_edi3.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk5Mzg0NTMsMTc5ODE4MTg4NCwxNz
+eyJoaXN0b3J5IjpbLTE2NDYxNDI3MTIsMTc5ODE4MTg4NCwxNz
 k4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2Njcx
 Mjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
 -->
