@@ -59,7 +59,7 @@ This Filters are applicable on dashboard reports and it supports the following f
 
 ## Lookup   
 
-  **7.**   **Lookup** is a set of keys defined to filter the reports.they can be defined manually from a query or global parameters. Lookup can also be refereed based on the data provided.
+ **7.**   **Lookup** is a set of keys defined to filter the reports.they can be defined manually from a query or global parameters. Lookup can also be refereed based on the data provided.
    -   **Lookup name**  name of the lookup field.
    -   **Lookup Type**  refers to item or query type.
    -   **Test Lookup**  to test the lookup.
@@ -112,7 +112,7 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 eyJoaXN0b3J5IjpbLTI5MzA3NjIyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzUwNDE5NywxNzk4MTgxODg0LDE3OT
+eyJoaXN0b3J5IjpbLTc2MTcxMTEyOSwxNzk4MTgxODg0LDE3OT
 gxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEy
 OTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
 -->
