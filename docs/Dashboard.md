@@ -1,4 +1,4 @@
-<center><h1>Dashboard</h1></center>
+<center><h1>Dashboard123</h1></center>
 
 Dashboard provides access to view multiple reports in single dashboard layout, in this way it provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive.
 
