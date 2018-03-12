@@ -91,7 +91,8 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 ## Edit / Delete Dashboard
 
 10. Click  **Edit**  Button to make any changes to dashboard created.
-11. Click on  **Delete icon**  to delete the dashboard created.
+11. 
+12. Click on  **Delete icon**  to delete the dashboard created.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dashboard.png)
 ## Dependency Filters
@@ -109,6 +110,6 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 eyJoaXN0b3J5IjpbLTI5MzA3NjIyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDkwMDI3NywtMTAzNTgzNTUxMCwzMz
-g5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
+eyJoaXN0b3J5IjpbLTExNTU4NzU3MjgsLTEwMzU4MzU1MTAsMz
+M4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1MF19
 -->
