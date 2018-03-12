@@ -33,25 +33,24 @@ You can add different reports to the layout selected, depending on the requireme
 
 **4.** Click on **Update report** to add reports to layout. there are multiple ways to add the reports to layout.
 - Click on report layout section and select the report you want to add.
-- Click on **add** to add the reports to layout. 
+- Click on **add**  to add the reports to layout. 
 
-**5.**  Click on **Apply Filters**  to add global filters and lookups.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/add_rep%5Borts.png)
 
 ## Step 3: Dashboard Global Filters
 
-Global filters are applicable on fields , which are applicable on reports.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
-
-## Dashboard filters
-
+>(Refer the above image)
+**5.**  Click on **Apply Filters**  to add global filters and lookups.
 This Filters are applicable on dashboard reports and it supports the following filter types string, number, date, lookup.
+
 **String** For fields that contain letters or special characters.
 **Number** For fields that contain numbers.
 **Date** For fields that contain dates.
 **Lookup** to view the lookup in dashboard filters it should be defined in lookup section.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
+
 
 **6.**  **Dashboard Filters** allow user to view limited data.
 
@@ -114,7 +113,7 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 eyJoaXN0b3J5IjpbLTI5MzA3NjIyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDgzNzc5MjksMTc5ODE4MTg4NCwxNz
-k4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2Njcx
-Mjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
+eyJoaXN0b3J5IjpbMTY1NDA4MTM2MywxNzk4MTgxODg0LDE3OT
+gxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEy
+OTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
 -->
