@@ -108,6 +108,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 -   **Share ()**  the report saved under share section and accessed by specific set of users.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0fb2c0fe9fbc99b6ac2cd3d818fe7533a74872b8/images/2018-02-06_16-09-56.png)
+
 ## Edit / Delete Dashboard
 
 **10.** Click  **Edit**  Button to make any changes to dashboard created.
@@ -115,6 +116,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 **11.** Click on  **Delete icon**  to delete the dashboard created.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dashboard.png)
+
 ## Dependency Filters
 
 Dependency filters are used to retrieve set of filter values based on previous filter selection. the dependency should be mentioned in the filter query with a reference key from the previous filter.
@@ -131,7 +133,7 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 eyJoaXN0b3J5IjpbLTI5MzA3NjIyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTYwNDUzMiwxNzk4MTgxODg0LDE3OT
+eyJoaXN0b3J5IjpbLTg4NjcwOTgxMiwxNzk4MTgxODg0LDE3OT
 gxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEy
 OTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
 -->
