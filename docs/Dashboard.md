@@ -64,13 +64,13 @@ This Filters are applicable on dashboard reports and it supports the following f
    -   **Lookup Type**  refers to item or query type.
    -   **Test Lookup**  to test the lookup.
    -   **Multiple Selections**  refers to selection of list of multiple data.
-    -   **Referred** The changes made on single lookup will be reflected on all the following reports based on it.
+    -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the reffered data.
   >  For Example if we want to refer to country A then all states falling under that country will be updated based on the selection made.
 
   ## Report Listeners  
     
 **8.**  **Report Listeners**  Acubi has an ability to map global filters to report fields. on applying the global filters ,the filters will be reflected in the mapped fields in reports. at the same time you can apply multiple global filters on same fields or multiple fields.
- 
+
    -  **Dashboard Report**  selects reports to add filters.
    -   **Listen Filter**  refers to filter option available.
    -   **Apply to field**  applies filter options to available field list in report.
@@ -112,7 +112,7 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 eyJoaXN0b3J5IjpbLTI5MzA3NjIyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2NjM0OTczLDE3OTgxODE4ODQsMTc5OD
-E4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC03NjY3MTI5
-NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1MF19
+eyJoaXN0b3J5IjpbLTExMzAwODkxNTAsMTc5ODE4MTg4NCwxNz
+k4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2Njcx
+Mjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
 -->
