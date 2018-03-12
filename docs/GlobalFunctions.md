@@ -58,10 +58,10 @@ This functions supports all the native java script supported functions and also 
 
 5. Click on delete button to **Delete** the function.
 
->Image 3
+>Image 2
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3e9f75a909b59664ffe91af0ad16c2c9859586cf/images/del_func.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTI0MjI4MCwxNjUwNTMyNzYxXX0=
+eyJoaXN0b3J5IjpbLTIxMzIxNzU4NjMsMTY1MDUzMjc2MV19
 -->
