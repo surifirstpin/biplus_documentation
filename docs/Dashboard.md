@@ -33,7 +33,7 @@ AcuBi has ability to create multiple report layouts, depending on the requiremen
 You can add different reports to the layout selected, depending on the requirement.
 
 **4.** Click on **Update report** to add reports to layout. there are multiple ways to add the reports to layout.
-- Click on report layout section and select the report you want to include into the la.
+- Click on report layout section and select the report you want to include into the layout.
 - Click on **add**  to add the reports to layout. 
 
 
@@ -119,7 +119,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 ![](https://raw.githubusercontent.com/sv18042016/fp1/a739889b994c72f53a035bdab7b5641d6107687d/images/dash_edi3.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDc5OTU5NSwxNzk4MTgxODg0LDE3OT
+eyJoaXN0b3J5IjpbLTUyOTU5MzA1NiwxNzk4MTgxODg0LDE3OT
 gxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEy
 OTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
 -->
