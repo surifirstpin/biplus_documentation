@@ -222,13 +222,15 @@ To freeze the field values click on ** Pin** options in drop down and click on *
 ## Field Visualization On / Off
 
  To hide field values click  **Hide Visualization** option in the drop down option.
+ 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bee13bc200cda9988be61a3c7b58de502a4915fa/images/hide_visu.png)
 
 ## SQL Query 
 
 Selected fields will build a SQL query in data analysis :
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI5MTczODgsNDI5NjQ0NDAxLDIxMz
+eyJoaXN0b3J5IjpbLTE5MTI4ODQ0NzgsNDI5NjQ0NDAxLDIxMz
 gzODU3MDBdfQ==
 -->
