@@ -67,8 +67,9 @@ This Filters are applicable on dashboard reports and it supports the following f
     -   **Referred** The changes made on single lookup will be reflected on all the following reports based on it.
   >  For Example if we want to refer to country A then all states falling under that country will be updated based on the selection made.
 
-  ## Report Listeners    
- **8.**  **Report Listeners**  Acubi has an ability to map global filters to report fields. on applying the global filters ,the filters will be reflected in the mapped fields in reports. at the same time you can apply multiple global filters on same fields or multiple fields.
+  ## Report Listeners  
+    
+**8.**  **Report Listeners**  Acubi has an ability to map global filters to report fields. on applying the global filters ,the filters will be reflected in the mapped fields in reports. at the same time you can apply multiple global filters on same fields or multiple fields.
  
    -  **Dashboard Report**  selects reports to add filters.
    -   **Listen Filter**  refers to filter option available.
@@ -111,7 +112,7 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 eyJoaXN0b3J5IjpbLTI5MzA3NjIyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODE4MTg4NCwtMTAzODgxNDQzNiwxNz
-k4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2Njcx
-Mjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
+eyJoaXN0b3J5IjpbLTU0OTA4ODE4MCwxNzk4MTgxODg0LDE3OT
+gxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEy
+OTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
 -->
