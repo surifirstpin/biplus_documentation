@@ -7,6 +7,7 @@ All the users have privilege to access global functions in calculated column,  b
 
  1. Click on Add-Functions to create new function.
  
+ > Image 1
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9712e86a6881444e961d60dfc6aab30bf665172/images/func1.png)
 
 ** Syntax : **
@@ -39,6 +40,7 @@ function _Addition(param1,param2)
 2. Click on **Test** Button  to run the function.
 3. Click on **Save** Button to save the function.
 
+>Image 2
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2c15dfa03d8ed5eed5cdffdc1335c22ce759300c/images/global_functions.png)
 
 ## Ability to adopt Javascript
@@ -49,15 +51,17 @@ This functions supports all the native java script supported functions and also 
 
 4.  Enable edit key to **Edit** the function.
 
+>Image 3
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/733be26f2d58ffc41ec83bc979234243c5417a2e/images/edit_func.png)
 
 ## Delete Function
 
 5. Click on delete button to **Delete** the function.
 
+>Image 3
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3e9f75a909b59664ffe91af0ad16c2c9859586cf/images/del_func.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzc1NDQ3OSwxNjUwNTMyNzYxXX0=
+eyJoaXN0b3J5IjpbMTQxMTI0MjI4MCwxNjUwNTMyNzYxXX0=
 -->
