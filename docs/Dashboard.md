@@ -42,9 +42,10 @@ You can add different reports to the layout selected, depending on the requireme
 > Image 4
 ![image 4](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/add_rep%5Borts.png)
 
-## Step 3: Dashboard Global Filters( Refer image 4)
+## Step 3: Dashboard Global Filters
 
-**5.**  Click on **Apply Filters**  to add global dashboard filters and lookups.
+**5.**  Click on **Apply Filters** ( Refer image 4)
+ to add global dashboard filters and lookups.
 This Filters are applicable on dashboard reports and it supports the following filter types string, number, date and lookup.
 
 - **String** For fields that contain letters or special characters.
@@ -59,7 +60,8 @@ This Filters are applicable on dashboard reports and it supports the following f
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
 
 
-**6.**  **Dashboard Filters** allow user to view limited data.
+**6.**  **Dashboard Filters** ( Refer image 4)
+ allow user to view limited data.
 
 -   **Filter Name**  identifier name to the filter applicable.
 
@@ -67,9 +69,9 @@ This Filters are applicable on dashboard reports and it supports the following f
 
 -   **Operator**  filter operation that are applicable.
 
-## Lookup   ( Refer image 5)
+## Lookup   
 
-**7.**   **Lookup** is a set of keys defined to filter the reports.they can be defined manually from a query or global parameters. Lookup can also be refereed based on the data provided.
+**7.**   **Lookup** ( Refer image 5) is a set of keys defined to filter the reports.they can be defined manually from a query or global parameters. Lookup can also be refereed based on the data provided.
    -   **Lookup name**  name of the lookup field.
    
    -   **Lookup Type**  refers to item or query type.
@@ -81,9 +83,10 @@ This Filters are applicable on dashboard reports and it supports the following f
    -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the refereed data.
   >  For Example if we want to refer to country A then all states falling under that country will be updated based on the selection made.
 
-  ## Report Listeners  ( Refer image 5)
+  ## Report Listeners 
 
-**8.**   **Report Listeners**  Acubi has an ability to map global filters to report fields. on applying the global filters ,the filters will be reflected in the mapped fields in reports. at the same time you can apply multiple global filters on same fields or multiple fields.
+**8.**   **Report Listeners** ( Refer image 5)
+  Acubi has an ability to map global filters to report fields. on applying the global filters ,the filters will be reflected in the mapped fields in reports. at the same time you can apply multiple global filters on same fields or multiple fields.
 
    -  **Dashboard Report**  selects reports to add filters.
    
@@ -125,7 +128,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 **11.** Click on  **Delete icon**  to delete the dashboard created. (Refer image 7)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2Nzc2OTc0LDE3OTgxODE4ODQsMTc5OD
-E4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC03NjY3MTI5
-NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1MF19
+eyJoaXN0b3J5IjpbMTMzMjA3MTQzMiwxNzk4MTgxODg0LDE3OT
+gxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEy
+OTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
 -->
