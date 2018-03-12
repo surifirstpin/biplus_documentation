@@ -104,6 +104,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 -   **Private ()**  report saved in private section and accessed by the user itself.
 
 -   **Public ()**  the report is saved in public section and accessed by all the users.
+
 -   **Share ()**  the report saved under share section and accessed by specific set of users.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0fb2c0fe9fbc99b6ac2cd3d818fe7533a74872b8/images/2018-02-06_16-09-56.png)
@@ -130,7 +131,7 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 eyJoaXN0b3J5IjpbLTI5MzA3NjIyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTA1NTE2NTAsMTc5ODE4MTg4NCwxNz
-k4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2Njcx
-Mjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
+eyJoaXN0b3J5IjpbLTI5NTYwNDUzMiwxNzk4MTgxODg0LDE3OT
+gxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEy
+OTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
 -->
