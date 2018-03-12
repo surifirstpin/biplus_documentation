@@ -22,6 +22,7 @@ Lets apply report filter **Sum count equals to 1** in Analysis section.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b852b51ab2d28891914aab1c0a1efd355c252a19/images/globalfil_overide_report.png)
 
 The data is retrieved, based on the filters applied.
+
 ![enter image description here](https://raw.githubusercontent.com/surifirstpin/biplus_documentation/master/docs/filter%20data.png)
 
 - Filters added while saving the reports in analyse section are viewed in filter section of the reports.
@@ -82,5 +83,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecc3454dfca83ec1a68e4fe46c0476a8db61154/images/display%20filter%20panel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDU3OTg2OSwtMTE2ODM3OTUxNV19
+eyJoaXN0b3J5IjpbNzc2OTA0ODIxLC0xMTY4Mzc5NTE1XX0=
 -->
