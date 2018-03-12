@@ -28,9 +28,9 @@ The data is retrieved on based on the filters applied.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/15dfd1a4df8f469f6e02424c1f2e25d399f3f979/images/global_filter_visu.png)
 
-4. To add more filters click on **Add Filters.** 
-5. To save the added filters click on **Save** Button.
-6. To refresh the report after adding the filters click on **Apply** Button.
+1. To add more filters click on **Add Filters.** 
+2. To save the added filters click on **Save** Button.
+3. To refresh the report after adding the filters click on **Apply** Button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fd894359eff6fd19d2d9d7d8a210c0e2c7c515e8/images/filter_reports.png)
 
