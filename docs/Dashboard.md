@@ -31,8 +31,8 @@ AcuBi has ability to create multiple report layouts, depending on the requiremen
 
 You can add different reports to the layout selected, depending on the requirement.
 
-**4.** Click on **Update report** to add reports to layout.
- - You can add report by selecting the 
+**4.** Click on **Update report** to add reports to layout. there are multiple ways to add the reports to layout.
+- Click on  
 
 **5.**  Click on **Apply Filters**  to add global filters and lookups.
 
@@ -113,7 +113,7 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 eyJoaXN0b3J5IjpbLTI5MzA3NjIyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI4ODY5MSwxNzk4MTgxODg0LDE3OT
+eyJoaXN0b3J5IjpbMTYwNjYxMTYxMywxNzk4MTgxODg0LDE3OT
 gxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEy
 OTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
 -->
