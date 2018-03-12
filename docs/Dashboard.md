@@ -51,7 +51,6 @@ This Filters are applicable on dashboard reports and it supports the following f
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
 
-
 **6.**  **Dashboard Filters** allow user to view limited data.
 -   **Filter Name**  identifier name to the filter applicable.
 -   **Filter Type**  type of filter user (eg: string,date,number).
@@ -64,7 +63,7 @@ This Filters are applicable on dashboard reports and it supports the following f
    -   **Lookup Type**  refers to item or query type.
    -   **Test Lookup**  to test the lookup.
    -   **Multiple Selections**  refers to selection of list of multiple data.
-    -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the reffered data.
+    -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the refereed data.
   >  For Example if we want to refer to country A then all states falling under that country will be updated based on the selection made.
 
   ## Report Listeners  
@@ -112,7 +111,7 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 eyJoaXN0b3J5IjpbLTI5MzA3NjIyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTYwMzYxNjUsMTc5ODE4MTg4NCwxNz
-k4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2Njcx
-Mjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
+eyJoaXN0b3J5IjpbLTQ5NTE1Njg4MiwxNzk4MTgxODg0LDE3OT
+gxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEy
+OTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
 -->
