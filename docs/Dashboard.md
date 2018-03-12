@@ -42,9 +42,7 @@ You can add different reports to the layout selected, depending on the requireme
 > Image 4
 ![image 4](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/add_rep%5Borts.png)
 
-## Step 3: Dashboard Global Filters
-
-> Refer image 4
+## Step 3: Dashboard Global Filters( Refer image 4
 
 **5.**  Click on **Apply Filters**  to add global dashboard filters and lookups.
 This Filters are applicable on dashboard reports and it supports the following filter types string, number, date and lookup.
@@ -84,7 +82,7 @@ This Filters are applicable on dashboard reports and it supports the following f
    
    -   **Multiple Selections**  refers to selection of list of multiple data.
    
-    -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the refereed data.
+   -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the refereed data.
   >  For Example if we want to refer to country A then all states falling under that country will be updated based on the selection made.
 
   ## Report Listeners  
@@ -135,7 +133,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 **11.** Click on  **Delete icon**  to delete the dashboard created. (Refer image 7)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTAyMTgzNTIsMTc5ODE4MTg4NCwxNz
+eyJoaXN0b3J5IjpbLTEwOTA2NTU2MDAsMTc5ODE4MTg4NCwxNz
 k4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2Njcx
 Mjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
 -->
