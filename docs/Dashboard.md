@@ -59,8 +59,6 @@ This Filters are applicable on dashboard reports and it supports the following f
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
 
 
-> Refer image 5
-
 **6.**  **Dashboard Filters** allow user to view limited data.
 
 -   **Filter Name**  identifier name to the filter applicable.
@@ -69,9 +67,7 @@ This Filters are applicable on dashboard reports and it supports the following f
 
 -   **Operator**  filter operation that are applicable.
 
-## Lookup   
-
-> Refer image 5
+## Lookup   ( Refer image 5)
 
 **7.**   **Lookup** is a set of keys defined to filter the reports.they can be defined manually from a query or global parameters. Lookup can also be refereed based on the data provided.
    -   **Lookup name**  name of the lookup field.
@@ -85,9 +81,7 @@ This Filters are applicable on dashboard reports and it supports the following f
    -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the refereed data.
   >  For Example if we want to refer to country A then all states falling under that country will be updated based on the selection made.
 
-  ## Report Listeners  
-    
-> Refer image 5
+  ## Report Listeners  ( Refer image 5)
 
 **8.**   **Report Listeners**  Acubi has an ability to map global filters to report fields. on applying the global filters ,the filters will be reflected in the mapped fields in reports. at the same time you can apply multiple global filters on same fields or multiple fields.
 
@@ -102,9 +96,7 @@ This Filters are applicable on dashboard reports and it supports the following f
 **9.**  Click on  **Save Button**  to save the dashboard.
  ( Refer image 4)
 
-## Step 4: Privacy & Share option for Dashboards
-
-> Refer image 6
+## Step 4: Privacy & Share option for Dashboards ( Refer image 6
 
 Select the tag in which you want to save  **Dashboard Reports**  and click on  **Save.**.
 
@@ -133,7 +125,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 **11.** Click on  **Delete icon**  to delete the dashboard created. (Refer image 7)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxLDE3OTgxODE4ODQsMTc5ODE4MTg4NC
-wtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC03NjY3MTI5NDksMzM4
-OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1MF19
+eyJoaXN0b3J5IjpbLTE0NjU0NDk5ODMsMTc5ODE4MTg4NCwxNz
+k4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2Njcx
+Mjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
 -->
