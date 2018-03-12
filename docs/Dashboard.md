@@ -5,7 +5,7 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 ## View Dashboard
 
  To view the dashboard report created click on specific dashboard in dashboard section and it will navigate to the dashboard created.  
-     1.  Set the dashboard to home page by clicking on **Set on homepage** icon.
+1.  Set the dashboard to home page by clicking on **Set on homepage** icon.
 2. Edit the dashboard by clicking on **Edit** icon.
 3. Delete the dashboard by clicking on **Delete** icon.
 
@@ -28,6 +28,7 @@ AcuBi has ability to create multiple report layouts, depending on the requiremen
 ## Step 2: Add Reports
 
 You can add different reports to the layout selected, depending on the requirement.
+
 4. Click on **Update report** to add reports to layout.
 5.  Click on **Apply Filters**  to add global filters and lookups.
 
@@ -46,6 +47,7 @@ This Filters are applicable on dashboard reports and it supports the following f
 **Number** For fields that contain numbers.
 **Date** For fields that contain dates.
 **Lookup** to view the lookup in dashboard filters it should be defined in lookup section.
+
 6.  **Dashboard Filters** allow user to view limited data.
 
 -   **Filter Name**  identifier name to the filter applicable.
@@ -101,5 +103,5 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 
 12.  Click on  **Maximize icon**  in report tool bar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTYxNjgyMzJdfQ==
+eyJoaXN0b3J5IjpbLTI5MzA3NjIyXX0=
 -->
