@@ -43,7 +43,9 @@ You can add different reports to the layout selected, depending on the requireme
 
 **5.**  Click on **Apply Filters**  to add global dashboard filters and lookups.
 This Filters are applicable on dashboard reports and it supports the following filter types string, number, date and lookup.
+
 - **String** For fields that contain letters or special characters.
+- 
 - **Number** For fields that contain numbers.
 - **Date** For fields that contain dates.
 - **Lookup** to view the lookup in dashboard filters it should be defined in lookup section.
@@ -112,7 +114,7 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 eyJoaXN0b3J5IjpbLTI5MzA3NjIyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjI2MDU0NCwxNzk4MTgxODg0LDE3OT
-gxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEy
-OTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
+eyJoaXN0b3J5IjpbNjcwODc3MTM5LDE3OTgxODE4ODQsMTc5OD
+E4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC03NjY3MTI5
+NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1MF19
 -->
