@@ -51,7 +51,7 @@ Click on **Save** button to save group.
 
 ## Edit & Delete Group
 
-**3.** Click on **Edit icon** to edit the group.
+**3.* Click on **Edit icon** to edit the group.
 4. Click on **Delete icon** to delete the Group.
 
 ## Forgot Password
@@ -65,6 +65,6 @@ To reset password Click on Forget password button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjk1ODI0MSwxNjk4NTUxMjY2LDQ2NT
+eyJoaXN0b3J5IjpbMTE3MTU2NDg1NywxNjk4NTUxMjY2LDQ2NT
 c2NjgxNiwtOTc0NjYwMTg3XX0=
 -->
