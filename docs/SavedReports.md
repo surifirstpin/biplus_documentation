@@ -82,5 +82,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecc3454dfca83ec1a68e4fe46c0476a8db61154/images/display%20filter%20panel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjgzNzk1MTVdfQ==
+eyJoaXN0b3J5IjpbMTE2NzkwODE1MCwtMTE2ODM3OTUxNV19
 -->
