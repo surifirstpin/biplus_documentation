@@ -61,6 +61,8 @@ This Filters are applicable on dashboard reports and it supports the following f
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
 
 
+> Refer image 5
+
 **6.**  **Dashboard Filters** allow user to view limited data.
 
 -   **Filter Name**  identifier name to the filter applicable.
@@ -70,6 +72,8 @@ This Filters are applicable on dashboard reports and it supports the following f
 -   **Operator**  filter operation that are applicable.
 
 ## Lookup   
+
+> Refer image 5
 
 **7.**   **Lookup** is a set of keys defined to filter the reports.they can be defined manually from a query or global parameters. Lookup can also be refereed based on the data provided.
    -   **Lookup name**  name of the lookup field.
@@ -85,6 +89,8 @@ This Filters are applicable on dashboard reports and it supports the following f
 
   ## Report Listeners  
     
+> Refer image 5
+
 **8.**   **Report Listeners**  Acubi has an ability to map global filters to report fields. on applying the global filters ,the filters will be reflected in the mapped fields in reports. at the same time you can apply multiple global filters on same fields or multiple fields.
 
    -  **Dashboard Report**  selects reports to add filters.
@@ -125,7 +131,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 ![](https://raw.githubusercontent.com/sv18042016/fp1/a739889b994c72f53a035bdab7b5641d6107687d/images/dash_edi3.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTE1MzcwMCwxNzk4MTgxODg0LDE3OT
+eyJoaXN0b3J5IjpbLTUzMTgwMDY2NiwxNzk4MTgxODg0LDE3OT
 gxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEy
 OTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
 -->
