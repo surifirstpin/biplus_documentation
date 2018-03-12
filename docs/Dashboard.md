@@ -11,7 +11,7 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 
 **3.** Delete the dashboard by clicking on **Delete** icon.
 
-![enter ima](https://raw.githubusercontent.com/sv18042016/fp1/b56b16b1de0a7088433221a92efcb565b3baae2e/images/view%20-dash.png)
+!](https://raw.githubusercontent.com/sv18042016/fp1/b56b16b1de0a7088433221a92efcb565b3baae2e/images/view%20-dash.png)
 
 ## Create Dashboard
 
@@ -118,7 +118,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 ![](https://raw.githubusercontent.com/sv18042016/fp1/a739889b994c72f53a035bdab7b5641d6107687d/images/dash_edi3.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTk5MjE1MCwxNzk4MTgxODg0LDE3OT
+eyJoaXN0b3J5IjpbMTcxNzg4NDk1NiwxNzk4MTgxODg0LDE3OT
 gxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEy
 OTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
 -->
