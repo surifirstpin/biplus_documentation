@@ -1,6 +1,7 @@
 
 
 <center><h1>Model</h1></center>
+
 <p>A model is a customized gateway into the database for accessing data as per business logic. Bi+ provides an IDE, which allows mappings between views (database tables) and apply several filters on the data as per business requirement. It is designed in such a way that it provides a spontaneous data analysis to specific business users.</p>
 <blockquote>
 <p><strong>Example :</strong> If a sales manager wants to retrieve different data then material manager, we need to define login based filters on the model with specific assignments to the users.</p>
@@ -1382,5 +1383,5 @@ String  → “sql”  : “CONCAT('Date : ',${TABLE}.OrderDate)”</p>
 </tbody>
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjkzNjAwMF19
+eyJoaXN0b3J5IjpbNzUxMTQ5OTk4XX0=
 -->
