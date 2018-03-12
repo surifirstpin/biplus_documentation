@@ -37,7 +37,7 @@ You can add different reports to the layout selected, depending on the requireme
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/add_rep%5Borts.png)
 
-## Step 3: Global Filters
+## Step 3: Dashboard Global Filters
 
 Global filters are applicable on fields , which are applicable on reports.
 
@@ -112,7 +112,7 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 eyJoaXN0b3J5IjpbLTI5MzA3NjIyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTA4ODE4MCwxNzk4MTgxODg0LDE3OT
-gxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEy
-OTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
+eyJoaXN0b3J5IjpbNTk3MDI5NiwxNzk4MTgxODg0LDE3OTgxOD
+E4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEyOTQ5
+LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
 -->
