@@ -102,7 +102,7 @@ This Filters are applicable on dashboard reports and it supports the following f
    - **Add Listener**  adds multiple filters to reports.
    
 **9.**  Click on  **Save Button**  to save the dashboard.
- > Refer image 4
+ ( Refer image 4)
 
 ## Step 4: Privacy & Share option for Dashboards
 
@@ -129,13 +129,13 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 **10.** Click  **Edit**  Button to make changes to the dashboard created.
 
-**11.** Click on  **Delete icon**  to delete the dashboard created.
-
 >Image 7
 ![](https://raw.githubusercontent.com/sv18042016/fp1/a739889b994c72f53a035bdab7b5641d6107687d/images/dash_edi3.png)
 
+**11.** Click on  **Delete icon**  to delete the dashboard created. (Refer image 7)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Nzc0MzIwLDE3OTgxODE4ODQsMTc5OD
-E4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC03NjY3MTI5
-NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1MF19
+eyJoaXN0b3J5IjpbLTIwMTAyMTgzNTIsMTc5ODE4MTg4NCwxNz
+k4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2Njcx
+Mjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
 -->
