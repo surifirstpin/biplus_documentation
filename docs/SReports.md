@@ -71,8 +71,10 @@ Choose from the given options provided.
 
 ## Save As / Update option for a saved report in Edit
 
-9. To update the changes made to report use **Update option** provided.
-10. To save the updated report with different name use **Save as** option.
+**9.**  To update the changes made to report use **Update option** provided.
+
+**10.**  To save the updated report with different name use **Save as** option.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ec5304fcf5a159a2da18bfa3ac9681b06328b291/images/update_report2.png)
 
 ## Hide Filters panel
@@ -90,5 +92,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQ1MzQyMTNdfQ==
+eyJoaXN0b3J5IjpbLTEyNTY5NzQ0MTFdfQ==
 -->
