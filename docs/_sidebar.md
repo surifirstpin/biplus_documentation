@@ -18,7 +18,7 @@
 - Dashboards
   - [Organize](Organize.md)
   - [Tags](Tags.md)
-  - [Reports](SavedReports.md)  
+  - [Reports](SReports.md)  
   - [Dashboard](Dashboard.md)
   
 
