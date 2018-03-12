@@ -1,7 +1,7 @@
 <center><h1>Visualization</h1></center>
 
 
-AcuBi has an ability to create graphics and charts based on result Visualization displays different type of pictorial representation in the from of charts and graphs based on data retrieved.
+AcuBi has an ability to create graphics and charts based on rVisualization displays different type of pictorial representation in the from of charts and graphs based on data retrieved.
 
 ## Types of Visualization
 
@@ -214,5 +214,5 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwMjAxNzU2LDEyNTI5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTI0MDE2NjYxMSwxMjUyOTA0MTI1XX0=
 -->
