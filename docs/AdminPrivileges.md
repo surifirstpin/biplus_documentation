@@ -31,8 +31,9 @@ Admin can create, edit and delete the users.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fed976f79b3ba765a8bc3b9ca665de4de0fd2681/images/user_edit.png)
 
-1. Click on **Edit icon** to edit the user.
-2. Click on **Delete icon** to delete the user.
+**1.** Click on **Edit icon** to edit the user.
+
+**2.** Click on **Delete icon** to delete the user.
 
 ## Groups
 
@@ -50,7 +51,7 @@ Click on **Save** button to save group.
 
 ## Edit & Delete Group
 
-3. Click on **Edit icon** to edit the group.
+**3. Click on **Edit icon** to edit the group.
 4. Click on **Delete icon** to delete the Group.
 
 ## Forgot Password
@@ -64,6 +65,6 @@ To reset password Click on Forget password button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjc1MDQ3NywxNjk4NTUxMjY2LDQ2NT
+eyJoaXN0b3J5IjpbMjE0MjgzNTEwNSwxNjk4NTUxMjY2LDQ2NT
 c2NjgxNiwtOTc0NjYwMTg3XX0=
 -->
