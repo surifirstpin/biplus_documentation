@@ -4,9 +4,9 @@
 
 To view the report click on specific report in dashboard section and it will navigate to the report created.
 
-1. Set the report to home page by clicking on **Set on homepage** icon.
-2. Edit the report by clicking on **Edit** icon.
-3. Delete the report by clicking on **Delete** icon.
+**1.** Set the report to home page by clicking on **Set on homepage** icon.
+**2.** Edit the report by clicking on **Edit** icon.
+**3.** Delete the report by clicking on **Delete** icon.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a617b3ae958c069a99a9a91df6097bda5762d6aa/images/savwe.png)
 
@@ -16,7 +16,6 @@ To view the report click on specific report in dashboard section and it will nav
 Report filters will narrow the reports results while allowing you to view the specific range of data.The report data is retrieved based on filter applied in analysis section.
  
  > For Example :
-
 Lets apply report filter **Sum count equals to 1** in Analysis section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b852b51ab2d28891914aab1c0a1efd355c252a19/images/globalfil_overide_report.png)
@@ -29,9 +28,9 @@ The data is retrieved, based on the filters applied.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/15dfd1a4df8f469f6e02424c1f2e25d399f3f979/images/global_filter_visu.png)
 
-4. To add more filters click on **Add Filters.** 
-5. To save the added filters click on **Save** Button.
-6. To refresh the report after adding the filters click on **Apply** Button.
+**4.** To add more filters click on **Add Filters.** 
+**5.** To save the added filters click on **Save** Button.
+**6.** To refresh the report after adding the filters click on **Apply** Button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fd894359eff6fd19d2d9d7d8a210c0e2c7c515e8/images/filter_reports.png)
 
@@ -83,5 +82,6 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecc3454dfca83ec1a68e4fe46c0476a8db61154/images/display%20filter%20panel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2OTA0ODIxLC0xMTY4Mzc5NTE1XX0=
+eyJoaXN0b3J5IjpbLTE0ODA0Mzk0MTcsLTExNjgzNzk1MTVdfQ
+==
 -->
