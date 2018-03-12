@@ -52,6 +52,7 @@ This Filters are applicable on dashboard reports and it supports the following f
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
 
 **6.**  **Dashboard Filters** allow user to view limited data.
+
 -   **Filter Name**  identifier name to the filter applicable.
 -   **Filter Type**  type of filter user (eg: string,date,number).
 -   **Operator**  filter operation that are applicable.
@@ -111,7 +112,7 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 eyJoaXN0b3J5IjpbLTI5MzA3NjIyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTE1Njg4MiwxNzk4MTgxODg0LDE3OT
+eyJoaXN0b3J5IjpbMTU5MjI2MDU0NCwxNzk4MTgxODg0LDE3OT
 gxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEy
 OTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
 -->
