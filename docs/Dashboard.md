@@ -5,9 +5,11 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 ## View Dashboard
 
  To view the dashboard report created click on specific dashboard in dashboard section and it will navigate to the dashboard created.  
-1.  Set the dashboard to home page by clicking on **Set on homepage** icon.
-2. Edit the dashboard by clicking on **Edit** icon.
-3. Delete the dashboard by clicking on **Delete** icon.
+**1.**  Set the dashboard to home page by clicking on **Set on homepage** icon.
+
+**2.** Edit the dashboard by clicking on **Edit** icon.
+
+**3.** Delete the dashboard by clicking on **Delete** icon.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b56b16b1de0a7088433221a92efcb565b3baae2e/images/view%20-dash.png)
 
@@ -30,6 +32,7 @@ AcuBi has ability to create multiple report layouts, depending on the requiremen
 You can add different reports to the layout selected, depending on the requirement.
 
 **4.** Click on **Update report** to add reports to layout.
+
 **5.**  Click on **Apply Filters**  to add global filters and lookups.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/add_rep%5Borts.png)
@@ -48,7 +51,7 @@ This Filters are applicable on dashboard reports and it supports the following f
 **Date** For fields that contain dates.
 **Lookup** to view the lookup in dashboard filters it should be defined in lookup section.
 
-6.  **Dashboard Filters** allow user to view limited data.
+**6.**  **Dashboard Filters** allow user to view limited data.
 
 -   **Filter Name**  identifier name to the filter applicable.
 -   **Filter Type**  type of filter user (eg: string,date,number).
@@ -56,7 +59,7 @@ This Filters are applicable on dashboard reports and it supports the following f
 
 ## Lookup   
 
-  7.   **Lookup** is a set of keys defined to filter the reports.they can be defined manually from a query or global parameters. Lookup can also be refereed based on the data provided.
+  **7.**   **Lookup** is a set of keys defined to filter the reports.they can be defined manually from a query or global parameters. Lookup can also be refereed based on the data provided.
    -   **Lookup name**  name of the lookup field.
    -   **Lookup Type**  refers to item or query type.
    -   **Test Lookup**  to test the lookup.
@@ -106,6 +109,6 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 eyJoaXN0b3J5IjpbLTI5MzA3NjIyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjE5MDM0MywtMTAzNTgzNTUxMCwzMz
+eyJoaXN0b3J5IjpbLTkwMDkwMDI3NywtMTAzNTgzNTUxMCwzMz
 g5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
 -->
