@@ -5,7 +5,9 @@
 To view the report click on specific report in dashboard section and it will navigate to the report created.
 
 **1.** Set the report to home page by clicking on **Set on homepage** icon.
+
 **2.** Edit the report by clicking on **Edit** icon.
+
 **3.** Delete the report by clicking on **Delete** icon.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a617b3ae958c069a99a9a91df6097bda5762d6aa/images/savwe.png)
@@ -29,7 +31,9 @@ The data is retrieved, based on the filters applied.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/15dfd1a4df8f469f6e02424c1f2e25d399f3f979/images/global_filter_visu.png)
 
 **4.** To add more filters click on **Add Filters.** 
+
 **5.** To save the added filters click on **Save** Button.
+
 **6.** To refresh the report after adding the filters click on **Apply** Button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fd894359eff6fd19d2d9d7d8a210c0e2c7c515e8/images/filter_reports.png)
@@ -37,7 +41,9 @@ The data is retrieved, based on the filters applied.
 ## Explore Report
 
 **7.** To view the data flow of the report click on the **setting icon** .
+
 **8.** Click on **Show data** to view the data.
+
 Choose from the given options provided. 
 -  Select **Show data** to display data report.
 -  Select **Show visualization** to view visualization of the report.
@@ -67,6 +73,7 @@ Choose from the given options provided.
 ## Save As / Update option for a saved report in Edit
 
 **9.** To update the changes made to report use **Update option** provided.
+
 **10.** To save the updated report with different name use **Save as** option.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ec5304fcf5a159a2da18bfa3ac9681b06328b291/images/update_report2.png)
 
@@ -82,5 +89,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecc3454dfca83ec1a68e4fe46c0476a8db61154/images/display%20filter%20panel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzUzMzM4MywtMTE2ODM3OTUxNV19
+eyJoaXN0b3J5IjpbNTk2NzI4NjI5LC0xMTY4Mzc5NTE1XX0=
 -->
