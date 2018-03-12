@@ -46,16 +46,15 @@ This Filters are applicable on dashboard reports and it supports the following f
 **Number** For fields that contain numbers.
 **Date** For fields that contain dates.
 **Lookup** to view the lookup in dashboard filters it should be defined in lookup section.
-
 6.  **Dashboard Filters** allow user to view limited data.
 
 -   **Filter Name**  identifier name to the filter applicable.
 -   **Filter Type**  type of filter user (eg: string,date,number).
 -   **Operator**  filter operation that are applicable.
 
-## Lookup
+## Lookup   
 
-7.  **Lookup** is a set of keys defined to filter the reports.they can be defined manually from a query or global parameters. Lookup can also be refereed based on the data provided.
+  7.   **Lookup** is a set of keys defined to filter the reports.they can be defined manually from a query or global parameters. Lookup can also be refereed based on the data provided.
    -   **Lookup name**  name of the lookup field.
    -   **Lookup Type**  refers to item or query type.
    -   **Test Lookup**  to test the lookup.
@@ -101,5 +100,5 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 
 12.  Click on  **Maximize icon**  in report tool bar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0ODIxNzE0XX0=
+eyJoaXN0b3J5IjpbLTE4NDQ4NzI0MDZdfQ==
 -->
