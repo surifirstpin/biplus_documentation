@@ -45,9 +45,11 @@ You can add different reports to the layout selected, depending on the requireme
 This Filters are applicable on dashboard reports and it supports the following filter types string, number, date and lookup.
 
 - **String** For fields that contain letters or special characters.
-- 
+
 - **Number** For fields that contain numbers.
+
 - **Date** For fields that contain dates.
+
 - **Lookup** to view the lookup in dashboard filters it should be defined in lookup section.
 
 
@@ -56,16 +58,22 @@ This Filters are applicable on dashboard reports and it supports the following f
 **6.**  **Dashboard Filters** allow user to view limited data.
 
 -   **Filter Name**  identifier name to the filter applicable.
+
 -   **Filter Type**  type of filter user (eg: string,date,number).
+
 -   **Operator**  filter operation that are applicable.
 
 ## Lookup   
 
 **7.**   **Lookup** is a set of keys defined to filter the reports.they can be defined manually from a query or global parameters. Lookup can also be refereed based on the data provided.
    -   **Lookup name**  name of the lookup field.
+   
    -   **Lookup Type**  refers to item or query type.
+   
    -   **Test Lookup**  to test the lookup.
+   
    -   **Multiple Selections**  refers to selection of list of multiple data.
+   
     -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the refereed data.
   >  For Example if we want to refer to country A then all states falling under that country will be updated based on the selection made.
 
@@ -74,19 +82,27 @@ This Filters are applicable on dashboard reports and it supports the following f
 **8.**  **Report Listeners**  Acubi has an ability to map global filters to report fields. on applying the global filters ,the filters will be reflected in the mapped fields in reports. at the same time you can apply multiple global filters on same fields or multiple fields.
 
    -  **Dashboard Report**  selects reports to add filters.
+   
    -   **Listen Filter**  refers to filter option available.
+   
    -   **Apply to field**  applies filter options to available field list in report.
+   
    - **Add Listener**  adds multiple filters to reports.
      
 **9.**  Click on  **Save Button**  to save the dashboard.
  
 ## Step 4: Privacy & Share option for Dashboards
 
-Select the tag in which you want to save  **Dashboard Reports**  and click on  **Save.**
+Select the tag in which you want to save  **Dashboard Reports**  and click on  **Save.**.
+
 -   **Name**  name identifier for dashboard created.
+
 -   **Title**  title to refer the dashboard.
+
 -   **Info**  summary information of the dashboard created.
+
 -   **Private ()**  report saved in private section and accessed by the user itself.
+
 -   **Public ()**  the report is saved in public section and accessed by all the users.
 -   **Share ()**  the report saved under share section and accessed by specific set of users.
 
@@ -114,7 +130,7 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 eyJoaXN0b3J5IjpbLTI5MzA3NjIyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwODc3MTM5LDE3OTgxODE4ODQsMTc5OD
-E4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC03NjY3MTI5
-NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1MF19
+eyJoaXN0b3J5IjpbLTEzMTA1NTE2NTAsMTc5ODE4MTg4NCwxNz
+k4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2Njcx
+Mjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
 -->
