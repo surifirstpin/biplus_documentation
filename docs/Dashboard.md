@@ -26,7 +26,7 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 AcuBi has ability to create multiple report layouts, depending on the requirement. There layout formats are categorized in 2 ways.
 - **Flow Layout** in this layout it is provided with a scroll bar option to define your layout appropriately.
 - **Fixed Layout** in this layout all the reports will fit into single screen.
-
+>Image 3
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4c3c6dabd96221095d0b54d5b2df37c49a919276/images/layout.png)
 
 ## Step 2: Add Reports
@@ -39,7 +39,7 @@ You can add different reports to the layout selected, depending on the requireme
 
 - Click on **add**  to add the reports to layout. 
 
-
+> Image 4
 ![image 4](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/add_rep%5Borts.png)
 
 ## Step 3: Dashboard Global Filters
@@ -56,7 +56,7 @@ This Filters are applicable on dashboard reports and it supports the following f
 
 - **Lookup** to view the lookup in dashboard filters it should be defined in lookup section.
 
-
+> Image 5
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
 
 **6.**  **Dashboard Filters** allow user to view limited data.
@@ -111,6 +111,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 -   **Share ()**  the report saved under share section and accessed by specific set of users.
 
+> Image 6
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0fb2c0fe9fbc99b6ac2cd3d818fe7533a74872b8/images/2018-02-06_16-09-56.png)
 
 ## Edit / Delete Dashboard
@@ -118,11 +119,11 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 **10.** Click  **Edit**  Button to make changes to the dashboard created.
 
 **11.** Click on  **Delete icon**  to delete the dashboard created.
-
+>Image 7
 ![](https://raw.githubusercontent.com/sv18042016/fp1/a739889b994c72f53a035bdab7b5641d6107687d/images/dash_edi3.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2NjQ4NzQ3LDE3OTgxODE4ODQsMTc5OD
+eyJoaXN0b3J5IjpbOTYzMzgzMjExLDE3OTgxODE4ODQsMTc5OD
 E4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC03NjY3MTI5
 NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1MF19
 -->
