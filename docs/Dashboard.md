@@ -90,9 +90,9 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0fb2c0fe9fbc99b6ac2cd3d818fe7533a74872b8/images/2018-02-06_16-09-56.png)
 ## Edit / Delete Dashboard
 
-10. Click  **Edit**  Button to make any changes to dashboard created.
+**10.** Click  **Edit**  Button to make any changes to dashboard created.
 
-11. Click on  **Delete icon**  to delete the dashboard created.
+**11.** Click on  **Delete icon**  to delete the dashboard created.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dashboard.png)
 ## Dependency Filters
@@ -105,13 +105,13 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 
 ## Maximize a Contained Report
 
-12.  Click on  **Maximize icon**  in report tool bar.
+**12.**  Click on  **Maximize icon**  in report tool bar.
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTI5MzA3NjIyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njc2Njk1NDAsLTc2NjcxMjk0OSwtMT
-k2NzY2OTU0MCwtNzY2NzEyOTQ5LDMzODkzNDUwLDE1NDkxODgx
-NTMsMzM4OTM0NTBdfQ==
+eyJoaXN0b3J5IjpbLTE4NjYwOTMwNDUsLTE5Njc2Njk1NDAsLT
+E5Njc2Njk1NDAsLTc2NjcxMjk0OSwzMzg5MzQ1MCwxNTQ5MTg4
+MTUzLDMzODkzNDUwXX0=
 -->
