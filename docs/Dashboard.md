@@ -61,9 +61,6 @@ You can add different reports to the layout selected, depending on the requireme
 > Image 5
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
 
-
-**6.**  **
-
 -   **Filter Name**  identifier name to the filter applicable.
 
 -   **Filter Type**  type of filter user (eg: string,date,number).
@@ -129,7 +126,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 **11.** Click on  **Delete icon**  to delete the dashboard created (Refer image 7).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3NzA0ODAsMTc5ODE4MTg4NCwxNzk4MT
-gxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2NjcxMjk0
-OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
+eyJoaXN0b3J5IjpbLTgwMDA5Njk4LDE3OTgxODE4ODQsMTc5OD
+E4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC03NjY3MTI5
+NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1MF19
 -->
