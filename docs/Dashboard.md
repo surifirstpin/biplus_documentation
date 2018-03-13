@@ -107,7 +107,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 -   **Title**  title to refer the dashboard.
 
 -   **Info**  summary information of the dashboard created.
-   
+ 
 -   **Private ()**  report saved in private section and accessed by the user itself.
 
 -   **Public ()**  the report is saved in public section and accessed by all the users.
@@ -127,7 +127,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 **11.** Click on  **Delete icon**  to delete the dashboard created (Refer image 7).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2OTM0OTM3LDE3OTgxODE4ODQsMTc5OD
+eyJoaXN0b3J5IjpbNDE5MDA0NTA1LDE3OTgxODE4ODQsMTc5OD
 E4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC03NjY3MTI5
 NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1MF19
 -->
