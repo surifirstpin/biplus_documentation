@@ -25,17 +25,10 @@ Acubi provides governed and secure access to your approved data from where ever 
 
 #### Better Insights across all Domains
 
- The BOARD offering is enriched by a suite of pre-built applications, which cover a set of key decision-making processes that are standardized across different industries and organization. This will allow you to quickly implement "out of the box" solutions, that are fully integrated with your BOARD environment.
-
-Imagine a flexible business intelligence solution that delivers insights any user can understand – and use. From healthcare and finance to marketing, retail, and more, Sisense is a next-generation BI solution for every industry.
-
-At Domo, we recognize that a Business Management Platform needs to be as flexible as its customers are unique. And that’s a challenge we readily embrace. 
-
-From marketing mavens to IT pros, making an informed decision takes the right information. Instead of wasting your time pushing and pulling reports, Domo delivers everything you need, neatly in the cloud—ready when you are.
-
+Acubi delivers a flexible business intelligence solution that delivers insights that any user can understand and use it. from Marketing mavens to It pros, making a right decision takes the right information. instead of wasting your time on pushing and pulling the reports, it delivers everything you need on time, precisely in the cloud. Acubi is enriched with a suite of our pre-built applications, which covers a set of key decision-making processes that are consistent across different industries and organisation, By allowing you to quickly implement "out of box" solutions, that are fully integrated with our Acubi environment. 
 
 solutions:
 https://www.sisense.com/solutions/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQ0Njg2NSwtMjgwMDc1MjQ0XX0=
+eyJoaXN0b3J5IjpbOTQ4NTc4OTE1LC0yODAwNzUyNDRdfQ==
 -->
