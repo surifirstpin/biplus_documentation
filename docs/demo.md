@@ -15,10 +15,6 @@ If the listener is  **ON**  filter is applied and if it is  **OFF**  filters are
 
 Our fully integrated, user friendly and visual-data preparation tools will let you deliver governed data ready for analysis in fraction of seconds. Connect directly to all your data sources and plug in your data science models, then transform, blend and enrich the data to produce meaningful insights or perform the data transformations required by your business by building the connectivity yourself.
  
- Video :
-data analysis section
-
-
 #### Easy, Affordable, Secure
 
 Acubi provides governed and secure access to your approved data from where ever it is stored, it provides total collaboration and sharing so that you can easily share insights with the right people. You can also see all the relevant information through the personalized and secure timeline and share those insights across the business. its not moved or copied for any individual analysis but spreads all over the place. At the same time we also manage the data access centrally, so your data should be consistently safer without any ambiguity.
@@ -30,5 +26,5 @@ Acubi delivers a flexible business intelligence solution that delivers insights 
 solutions:
 https://www.sisense.com/solutions/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4NTc4OTE1LC0yODAwNzUyNDRdfQ==
+eyJoaXN0b3J5IjpbLTk1NzE1MzY4NywtMjgwMDc1MjQ0XX0=
 -->
