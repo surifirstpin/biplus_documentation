@@ -78,7 +78,7 @@ You can add different reports to the layout selected, depending on the requireme
    
    -   **Multiple Selections**  refers to selection of list of multiple data.
    
-   -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the refereed data.
+   -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the referred data.
   >  For Example if we want to refer to country A then all states falling under that country will be updated based on the selection made.
 
   ## Report Listeners 
@@ -126,7 +126,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 **11.** Click on  **Delete icon**  to delete the dashboard created (Refer image 7).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDA5Njk4LDE3OTgxODE4ODQsMTc5OD
-E4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC03NjY3MTI5
-NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1MF19
+eyJoaXN0b3J5IjpbLTIxMDk4NDY5OTEsMTc5ODE4MTg4NCwxNz
+k4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2Njcx
+Mjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
 -->
