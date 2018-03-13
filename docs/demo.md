@@ -37,5 +37,5 @@ From marketing mavens to IT pros, making an informed decision takes the right in
 solutions:
 https://www.sisense.com/solutions/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDA3NTI0NF19
+eyJoaXN0b3J5IjpbLTEzOTQ0Njg2NSwtMjgwMDc1MjQ0XX0=
 -->
