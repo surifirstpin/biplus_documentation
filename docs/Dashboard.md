@@ -83,7 +83,8 @@ You can add different reports to the layout selected, depending on the requireme
 
   ## Report Listeners 
 
-**8.**   **Report Listeners** ( Refer image 5)
+**8.**     **Report Listeners** ( Refer image 5)
+
   Acubi has an ability to map global filters to report fields. on applying the global filters ,the filters will be reflected in the mapped fields in reports. at the same time you can apply multiple global filters on same fields or multiple fields.
 
    -  **Dashboard Report**  selects reports to add filters.
@@ -94,7 +95,7 @@ You can add different reports to the layout selected, depending on the requireme
    
    - **Add Listener**  adds multiple filters to reports.
    
-**9.**  Click on  **Save Button**  to save the dashboard
+**9.**    Click on  **Save Button**  to save the dashboard
  ( Refer image 5).
 
 ## Step 4: Privacy & Share option for Dashboards 
@@ -106,7 +107,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 -   **Title**  title to refer the dashboard.
 
 -   **Info**  summary information of the dashboard created.
-
+   
 -   **Private ()**  report saved in private section and accessed by the user itself.
 
 -   **Public ()**  the report is saved in public section and accessed by all the users.
@@ -126,7 +127,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 **11.** Click on  **Delete icon**  to delete the dashboard created (Refer image 7).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk4NDY5OTEsMTc5ODE4MTg4NCwxNz
-k4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2Njcx
-Mjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
+eyJoaXN0b3J5IjpbNzI2OTM0OTM3LDE3OTgxODE4ODQsMTc5OD
+E4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC03NjY3MTI5
+NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1MF19
 -->
