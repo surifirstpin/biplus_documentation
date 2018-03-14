@@ -14,20 +14,7 @@ Select set of fields, from dimension ( Grey fields) or measure (Orange fields) t
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/92e1e1b322bed3026eedfd1a2dca2bc3c3dfea78/images/visu_run.png)
                                                                                                                                                                                                                         
-- In dimensions we can  apply filter options, for instance:
-Dimension is list of filed values that uses a direct value from a database column or a manipulated value on the database column.
-- To an **Attribute,** which has a direct association to a column in an primary table.
-- A **Derived value,** Manipulate on the values of other fields in a single row.
 
-> **Example :** Dimensions for "Customer" view includes customer name,customer phone number and customer email etc.
-
-**Measure** is a list of fields that uses a SQL aggregate function, such as COUNT, SUM, AVG, MIN or MAX. Any field that is counted based on the values is referred as measure. Measures can be used to filter grouped values. 
-
-> **Example :** measures for a “Amount” is Amount_sum, Amount_avg, Amount_min, Amount_max etc.
-
-Select the fields from the list to retrieve field values and apply filter options :
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/visu_fields.png)
 
 ## Filters /Hidden Filters
 
@@ -231,6 +218,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxMjU3MTE5LC0xOTEyODg0NDc4LDQyOT
-Y0NDQwMSwyMTM4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbLTY3OTY4NjI5NSwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
