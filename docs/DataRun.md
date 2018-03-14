@@ -140,6 +140,7 @@ For **Measures,**
 
 ## Pivot table
 
+**Pivot Tables** can help make your data retrieving is more manageable by **summarizing** data and allowing you to **manipulate** it in different ways.
 -  **Pivot** checks each dimension horizontally and reduces the effect of scrolling down the data.
   
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/78c46d819c716135d45ff60b9a71b15dd9e7a97f/images/pivot.png)
@@ -245,6 +246,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4NjA1Mzk0LC0xOTEyODg0NDc4LDQyOT
-Y0NDQwMSwyMTM4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbLTUxMzU4MjA0MiwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
