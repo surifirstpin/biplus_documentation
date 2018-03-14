@@ -168,7 +168,8 @@ For **Measures,**
  
 **b.** Apply pivot while selecting the fields to retrieve the data.
  
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/78c46d819c716135d45ff60b9a71b15dd9e7a97f/images/pivot.png)
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/0bc648227810e628f97baa8e8ade9bdeb782ca04/images/pivot.png)
 
 > Note : You can directly apply pivot option in data output field by selecting **pivot** option from drop down.
 
@@ -271,6 +272,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTA4MTY0MiwtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbMTEwMjA0NDAzNCwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
