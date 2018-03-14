@@ -228,9 +228,9 @@ Apply different number formats and currency options to measures.
 |   ###,###.000         |  #M |
 |   ###.###,o           |  |
 
-####  list of currency applicable on measures :
+####  Currency applicable on measures :
 
-The following are the currency formats supported by AcuBi, $,   ₹  ,   €  ,  £   
+The following are the currency formats supported by AcuBi  $,   ₹  ,   €  ,  £.
 
 
 ## SQL Query 
@@ -239,6 +239,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODI3ODI2LC0xOTEyODg0NDc4LDQyOT
-Y0NDQwMSwyMTM4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbLTEyNzQ5NDEzNzEsLTE5MTI4ODQ0NzgsND
+I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
