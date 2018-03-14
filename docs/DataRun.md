@@ -162,7 +162,7 @@ On Applying pivot on month it displays,
 > **Pivot** checks each dimension horizontally and displays group of data based on the field to which pivot is applied.
   
  You can apply pivot to fields in 2 ways;
- a. Apply pivot after retreiving the data directly by clicking on
+ a. Apply pivot after retreiving the data directly by clicking on down arro
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/78c46d819c716135d45ff60b9a71b15dd9e7a97f/images/pivot.png)
 
 > Note : You can directly apply pivot option in data output field by selecting **pivot** option from drop down.
@@ -266,6 +266,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDg1NTczLC0xOTEyODg0NDc4LDQyOT
+eyJoaXN0b3J5IjpbLTc4OTkxMjE1LC0xOTEyODg0NDc4LDQyOT
 Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
