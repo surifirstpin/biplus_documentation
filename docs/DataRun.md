@@ -14,7 +14,8 @@ Select set of fields, from dimension ( Grey fields) or measure (Orange fields) t
 
 **2.** Select one or more measure fields to access numeric values, such as totals and counts. 
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/92e1e1b322bed3026eedfd1a2dca2bc3c3dfea78/images/visu_run.png)
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/2747be6cc024840c73a089a67c7f9f9be6419617/images/analysis_img1.png)
                                                                                                                                                                                                                         
 ## Filters 
 
@@ -248,6 +249,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjEwNzkxMiwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbLTE0MzIzNTM1NjMsLTE5MTI4ODQ0NzgsND
+I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
