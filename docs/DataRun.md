@@ -125,7 +125,7 @@ To perform mathematical calculations Click on Calculate column
 
 **Run** the report after deriving calculated column, all the values obtained by applying calculation column is visible in green colour.
 
-> the re
+> the retreived 
 ## Order  (Ascending / Descending)
 
 Perform sorting on data retrieved, to view the data in ascending and descending orders.
@@ -279,6 +279,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTM2Mjk1NCwtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbMTQyMTk4NzY3MSwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
