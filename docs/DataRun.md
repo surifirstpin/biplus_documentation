@@ -18,8 +18,7 @@ Select set of fields, from dimension ( Grey fields) or measure (Orange fields) t
                                                                                                                                                                                                                         
 ## Filters 
 
-Filters removes all the data except the one you want to retrieve. Filter expressions are the advanced way to limit the data and it is a optional list of filter expression applied to measure calculation, the following are the  various types that can be assigned to the fields.
-
+Filters removes all the data except the one you want to retrieve. Filter expressions are the advanced way to limit the data and it is a optional list of filter expression applied to measure calculation, the following are the  various types thar are applied.
 | Type | Description |
 |--|--|
 | String | For fields that contain letters or special characters |
@@ -248,6 +247,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODA4ODU1MzIsLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbMTQ4NTM0NjIzNywtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
