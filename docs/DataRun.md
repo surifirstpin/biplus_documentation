@@ -1,6 +1,6 @@
 <center><h1>Analysis</h1></center>
 
-USiAnalysis section helps in retrieving the data in the desired combinations by allowing slice and dice of the data information, AcuBi provides you an ability to explore the data by applying following functions Filters, Order, Sorting, Mathematical Calculations etc.
+UsAnalysis section helps in retrieving the data in the desired combinations by allowing slice and dice of the data information, AcuBi provides you an ability to explore the data by applying following functions Filters, Order, Sorting, Mathematical Calculations etc.
  
 **Let see in detail how Acubi helps you in retrieving data as per your business needs ;**
  
@@ -245,6 +245,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjU5MTg3MywtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbLTIwMTI3NTAxNTQsLTE5MTI4ODQ0NzgsND
+I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
