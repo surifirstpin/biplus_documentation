@@ -19,18 +19,15 @@ Select set of fields, from dimension ( Grey fields) or measure (Orange fields) t
 ## Filters 
 
 Filters removes all the data except the one you want to retrieve. Filter expressions are the advanced way to limit the data and it is a optional list of filter expression applied to measure calculation, the following are the  various types on which filters are applied.
+
 | Type | Description |
 |--|--|
 | String | For fields that contain letters or special characters |
 |Numbers|For fields that contain numbers|
 |Date|For fields that contain dates|
 |Lookup| To view the lookup in Report filters it should be derived under lookup field in model section|
-    
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/c07023b25efd621ec0d7af513f4231d71cbfd0a3/images/analysis_filters.png)
 
 Following are the different types of filters characteristics applicable using **AcuBi;**
-
 
 ### String :
 |			Example            |						Description                        |                                                                                 
@@ -85,6 +82,8 @@ Following are the different types of filters characteristics applicable using **
 
 **3.**  Click on **Filter** to extract the data based on filter application.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/c07023b25efd621ec0d7af513f4231d71cbfd0a3/images/analysis_filters.png)
 ## Hidden Filters
 
 The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are not visible while retrieving the data in data section. To carry out this function you can follow the following steps,
@@ -249,6 +248,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjM2NDEyNTQsLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbMTI0NjM1NjcwOCwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
