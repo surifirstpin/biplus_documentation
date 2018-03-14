@@ -24,7 +24,7 @@ Filters removes all the data except the one you want to retrieve. Filter express
 | String | For fields that contain letters or special characters |
 |Numbers|For fields that contain numbers|
 |Date|For fields that contain dates|
-|Lookup| To view the lookup in Report filters it should be derived  lookup field in model|
+|Lookup| To view the lookup in Report filters it should be derived under lookup field in model|
     
 
 **3.**  Click on **Filter** to add filter to your report. 
@@ -243,6 +243,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjI5OTcyNywtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbLTU2OTExMDM2NSwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
