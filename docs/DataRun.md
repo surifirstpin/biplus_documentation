@@ -148,15 +148,15 @@ For instance, if you want to view the number of order received  based on the mon
 |--|--|--|--|--|
 | 100 |2000  |January|north|john|
 |200|2001|February|south|Steve|
-|200|2002 |march|east|Bob|
-|200|2003|April|west|Mecker|
+|300|2002 |march|east|Bob|
+|400|2003|April|west|Mecker|
 
 On Applying pivot on month it displays,
   |January|
   |--|--|--|--|
-|100|200|
-|2000|2001|
-|North|south|
+|100|200|300
+|2000|2001|2002|
+|North|south|east|
 |john|steve|
 -  **Pivot** checks each dimension horizontally and reduces the effect of scrolling down the data.
   
@@ -263,6 +263,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODI0NDYxNSwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbLTE2NDkyMTM3MjIsLTE5MTI4ODQ0NzgsND
+I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
