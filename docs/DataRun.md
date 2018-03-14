@@ -95,7 +95,7 @@ Perform sorting on data retrieved, to view the data in ascending and descending 
 
 ## Local Sorting
 
-Local Sorting can be applied directly in the column field header. Click on the desired field header to enable sorting.
+Local Sorting can be applied directly to the data obtained for dimension and measure fields in the data section. Click on the desired field header to enable sorting.
 
 - Click on upper arrow to  
 
@@ -227,6 +227,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzIxMDE4NSwtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbLTYyODU3ODk5MiwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
