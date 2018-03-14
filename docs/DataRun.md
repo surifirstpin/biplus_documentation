@@ -159,7 +159,7 @@ On Applying pivot on month it displays,
 |North|south|east|west|
 |john|steve|bob|Mecker|
 
-> Pivot** checks each dimension horizontally and reduces the effect of scrolling down the data.
+> Pivot checks each dimension horizontally and reduces the effect of scrolling down the data.
   
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/78c46d819c716135d45ff60b9a71b15dd9e7a97f/images/pivot.png)
 
@@ -264,6 +264,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzEwMzk3NiwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbNzcyODc2NTY4LC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
