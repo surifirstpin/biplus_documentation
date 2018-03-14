@@ -229,7 +229,7 @@ Apply different number formats and currency options to measures.
 |   ###.###,o           |  |
 
 ####  list of currency applicable on measures :
-The following are the currency formats supported by Ac
+The following are the currency formats supported by AcuBi
 |    Currency      |
 |------------------|
 |         $        |
@@ -243,6 +243,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODc2MDk5ODEsLTE5MTI4ODQ0NzgsND
+eyJoaXN0b3J5IjpbLTE3NDg3NzQ2OTMsLTE5MTI4ODQ0NzgsND
 I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
