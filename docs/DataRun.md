@@ -104,7 +104,7 @@ The data can also be retrieved based on the applied hidden filters, this hidden 
 
 Calculated column is statement or expression or a function operator which can be used to derive the column values.
 
-To perform mathematical calculatiom
+To perform mathematical calculations 
 
 - **Field name** unique identifier name to refer calculated column.
 
@@ -273,6 +273,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0OTE1NTU4LC0xOTEyODg0NDc4LDQyOT
-Y0NDQwMSwyMTM4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbMjQ2NTc4MTYsLTE5MTI4ODQ0NzgsNDI5Nj
+Q0NDAxLDIxMzgzODU3MDBdfQ==
 -->
