@@ -154,10 +154,10 @@ For instance, if you want to view the number of order received  based on the mon
 On Applying pivot on month it displays,
 |January|February|March|April|
 |--|--|--|--|
-|100
-2000
-north
-john
+|100|200|
+|2000|2001|
+|north|
+|john|
 
 -  **Pivot** checks each dimension horizontally and reduces the effect of scrolling down the data.
   
@@ -264,6 +264,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODM0ODI5MSwtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbMTI1Nzc3NzA5NiwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
