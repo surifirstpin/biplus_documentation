@@ -24,7 +24,10 @@ Filters removes all the data except the one you want to retrieve. Filter express
 | String | For fields that contain letters or special characters |
 |Numbers|For fields that contain numbers|
 |Date|For fields that contain dates|
+|Lookup to view the lookup in dashboard filters it should be defined in lookup section.
+    
 
+> Image 5
 
 For fields that contain numbers
 **3.**  Click on **Filter** to add filter to your report. 
@@ -243,6 +246,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTQ2MTY5MSwtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbMTEzNTk3ODU1OCwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
