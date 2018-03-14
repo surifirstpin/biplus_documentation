@@ -140,7 +140,7 @@ For **Measures,**
 
 ## Pivot table
 
-**Pivot Tables** can help make your data retrieving is more manageable by summarizing data and allowing you to manipulate it in different ways.it can instantly calculate and summarize the data in a way that it is both easy to read and manipulate.
+**Pivot Tables** can help make your data retrieving is more manageable by summarizing data and allowing you to manipulate it in different ways. it can instantly calculate and summarize the data in a way that it is both easy to read and manipulate.
 
 For instance, if you want to view the number of order received  based on the month  it displays in following way:
 
@@ -264,6 +264,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDY5NjU3LC0xOTEyODg0NDc4LDQyOT
-Y0NDQwMSwyMTM4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbMTU1MzE1MzYzMSwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
