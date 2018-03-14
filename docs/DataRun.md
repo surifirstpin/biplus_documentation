@@ -214,7 +214,7 @@ Apply different number formats and currency options to measures.
 
 | 
 |  ------ | ------ |
- #                 |  ###,###.00          |
+| #                 |  ###,###.00          |
 |  #.00               |  ####,####.000       |
 |  #.000              |  ###.###,0           |
 |  #,##0              |  ###.###,00          |
@@ -242,6 +242,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg0MDcyNjksLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbLTQxODQ3MDA4OSwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
