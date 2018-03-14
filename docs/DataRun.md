@@ -89,13 +89,13 @@ On applying hidden filters to the dimensions, the column fields are visible in t
 
 ## Order  (Ascending / Descending)
 
-Perform sorting on data retrieved by applying ascending and descending orders.
+Perform sorting on data retrieved, to view the data in ascending and descending orders.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3a66bec34562013987acc9ca17385d78b2741ac4/images/sorting.png)
 
 ## Local Sorting
 
-Local Sorting can be applied directly in the column field.
+Local Sorting can be applied directly in the column field. Where 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c6f7269afe640dd6c16f4fd1d4423aa394bdf2b4/images/local_sorting.png)
 
@@ -225,6 +225,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQ3NDg4MTIsLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbLTQ5NTE1MDUxMiwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
