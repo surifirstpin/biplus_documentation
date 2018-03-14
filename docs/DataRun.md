@@ -163,9 +163,9 @@ On Applying pivot on month it displays,
   
  You can apply pivot to fields in 2 ways;
  
- a. Apply pivot after retrieving the data directly by clicking on down arrow beside the field header.
+**a.** Apply pivot after retrieving the data directly by clicking on down arrow beside the field header.
  
- b. Apply pivot while selecting the fields to retrieve the data.
+**b.** Apply pivot while selecting the fields to retrieve the data.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/78c46d819c716135d45ff60b9a71b15dd9e7a97f/images/pivot.png)
 
@@ -270,6 +270,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQ1OTk0MTYsLTE5MTI4ODQ0NzgsND
+eyJoaXN0b3J5IjpbLTE0MTMzMzcxOTYsLTE5MTI4ODQ0NzgsND
 I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
