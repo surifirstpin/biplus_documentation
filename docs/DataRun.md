@@ -81,7 +81,7 @@ Following are the different types of filters characteristics applicable using **
 
 ## Hidden Filters
 
-
+The data is received based on the applied hidden filters but are not visible in the r
 On applying hidden filters to the dimensions, the column fields are visible in the list of filter expression and displays the data depending on the filters applied. This can be done by following steps,
 
 **a.** Apply hidden filters to data fields in dimensions.
@@ -244,6 +244,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTY1ODI0MCwtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbLTY5NzcxMjc5OSwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
