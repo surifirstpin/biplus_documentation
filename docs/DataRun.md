@@ -22,7 +22,8 @@ Filters removes all the data except the one you want to retrieve. Filter express
 | Type | Description |
 |--|--|
 | String | For fields that contain letters or special characters |
-|Numbers
+|Numbers|For fields that contain numbers|
+|Date|For fields that contain dates|
 
 For fields that contain numbers
 **3.**  Click on **Filter** to add filter to your report. 
@@ -241,6 +242,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjk5NzMyNDgsLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbNzY2MDM1OTE3LC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
