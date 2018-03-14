@@ -28,6 +28,8 @@ Filters removes all the data except the one you want to retrieve. Filter express
     
 
 Following are the different types of filters characteristics applicable using **AcuBi;**
+
+
 ### String :
 |			Example            |						Description                        |                                                                                 
 |------------------------------|-----------------------------------------------------------|
@@ -78,6 +80,8 @@ Following are the different types of filters characteristics applicable using **
 |greater or equal              |data from the specified date 
 |is not null                   |data which is not equal to null
 |is null                       |data which is equal to null
+
+**3.**  Click on **Filter** to extract the data based
 
 ## Hidden Filters
 
@@ -243,6 +247,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjYyODQxOTcsLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbMTk0MzQwMjEzMSwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
