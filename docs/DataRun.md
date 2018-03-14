@@ -81,7 +81,7 @@ Following are the different types of filters characteristics applicable using **
 |is not null                   |data which is not equal to null
 |is null                       |data which is equal to null
 
-**3.**  Click on **Filter** to extract the data based on filter applicatio
+**3.**  Click on **Filter** to extract the data based on filter application
 
 ## Hidden Filters
 
@@ -247,6 +247,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTQ1MzEzOCwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbNzk3MzEwNzgwLC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
