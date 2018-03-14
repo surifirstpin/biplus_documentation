@@ -26,9 +26,8 @@ Filters removes all the data except the one you want to retrieve. Filter express
 |Date|For fields that contain dates|
 |Lookup| To view the lookup in Report filters it should be derived under lookup field in model section|
     
-Following are the types of filters applicable in using acubi,
+Following are the different types of filters charaterstics applicable using **AcuBi,**
 
-**3.**  Click on **Filter** to add filter to your report. 
 ### String :
 |			Example            |						Description                        |                                                                                 
 |------------------------------|-----------------------------------------------------------|
@@ -244,6 +243,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzUzNzUxMywtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbMjA5MzQ4MTM4OSwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
