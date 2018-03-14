@@ -5,7 +5,7 @@ Using data analysis user can retrieve the data and build the query applying data
 
 Under data analysis section, select the project and model for which you want to explore the data. Data analysis section contains list of dimension and measures which acts as fundamental building blocks for a query.
 
-Select the set of fields, from dimension ( grey fields) or measure(O
+Select the set of fields, from dimension ( grey fields) or measure(Orange f
 From the list of dimensions and measures, select set of fields to access the information.
 
 **1.**  Select one or more grey fields(Dimensions) to group your data.
@@ -231,6 +231,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzU5OTQzNzQsLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbMTk0MzU3ODAwNywtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
