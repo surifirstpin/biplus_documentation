@@ -144,46 +144,6 @@ For **Measures,**
 
 
 
-####  list of number formats applicable on measures :
-
-|   Number formats | 
-|------------------|
-|#                 |        
-|#.00              |
-|#.000             |
-|#,##0             |
-|#,##0.0           |
-|#,##0.00          |
-|#,##0.00          |
-|#,##0.000         |
-|###,###           |
-|###,###.0         |
-|###,#»#.00        |
-|###,###.000       |
-|###.###,o         |
-|###,###.00        |
-|####,####.000     |
-|###.###,0         |
-|###.###,00        |
-|###.###,000       |
-|### ###           |
-|#%                |
-|#.0%              |  
-|#.00%             |
-|#.000%            |
-|#K                |
-|#M                |
-
-####  list of currency applicable on measures :
-
-|    Currency      |
-|------------------|
-|         $        |
-|         ₹        |
-|         €        |
-|         £        |
-
-
 ## Group / Un-Group
 
  Select **Group** options to group fields and select **Un-Group** to release the same.
@@ -248,12 +208,52 @@ Apply different number formats and currency options to measures.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a289a74e21b8055ac795aa2bb25d4cb945bc02b0/images/number_format.png)
+
+####  list of number formats applicable on measures :
+
+|   Number formats | 
+|------------------|
+|#                 |        
+|#.00              |
+|#.000             |
+|#,##0             |
+|#,##0.0           |
+|#,##0.00          |
+|#,##0.00          |
+|#,##0.000         |
+|###,###           |
+|###,###.0         |
+|###,#»#.00        |
+|###,###.000       |
+|###.###,o         |
+|###,###.00        |
+|####,####.000     |
+|###.###,0         |
+|###.###,00        |
+|###.###,000       |
+|### ###           |
+|#%                |
+|#.0%              |  
+|#.00%             |
+|#.000%            |
+|#K                |
+|#M                |
+
+####  list of currency applicable on measures :
+
+|    Currency      |
+|------------------|
+|         $        |
+|         ₹        |
+|         €        |
+|         £        |
+
 ## SQL Query 
 
 Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTAyNjM2OCwtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbMTcwODI4NDc1NCwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
