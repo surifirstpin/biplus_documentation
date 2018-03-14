@@ -129,7 +129,8 @@ For **Measures,**
 
 - **Query time** display the total time taken to build the query of a report.
 
-- **Rows
+- **Rows**
+- 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/38e6202832d95449080cc72b7361b8ca5cf22b8a/images/query_time.png)
@@ -241,6 +242,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTAyNzI1MiwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbNjE2NjEyOTUzLC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
