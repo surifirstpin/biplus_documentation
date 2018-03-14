@@ -100,6 +100,22 @@ The data can also be retrieved based on the applied hidden filters, this hidden 
 
 **4.**  Click on **Run** to display the data retrieved ( refer image 1).
 
+## Calculated column 
+
+Calculated column is statement or expression or a function operator which can be used to derive the column values.
+
+- **Field name** unique identifier name to refer calculated column.
+
+- **Label** labeling the calculated column.
+
+- **Data type** data type used (string,number).
+
+- **Field type** derives dimension or measure.
+
+- **Calculation** derive arithmetical & logical expressions.
+
+- **Calculate on the raw data** this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
+
 ## Order  (Ascending / Descending)
 
 Perform sorting on data retrieved, to view the data in ascending and descending orders.
@@ -177,16 +193,8 @@ For **Measures,**
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/12c2bc69fcf082dc620f2819ae901ae9c7a962a7/images/group.png)
 
-## Calculated column 
 
-Calculated column is statement or expression or a function operator which can be used to derive the column values.
 
-- **Field name** unique identifier name to refer calculated column.
-- **Label** labeling the calculated column.
-- **Data type** data type used (string,number).
-- **Field type** derives dimension or measure.
-- **Calculation** derive arithmetical & logical expressions.
-- **Calculate on the raw data** this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
  
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c383b6e32c490bd5f0a32eb8cf2dcd4bb1fbfa9d/images/calculate%20column1.png)
 
@@ -266,6 +274,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyMzI4NDgwLC0xOTEyODg0NDc4LDQyOT
-Y0NDQwMSwyMTM4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbLTE3ODg2ODI3MzAsLTE5MTI4ODQ0NzgsND
+I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
