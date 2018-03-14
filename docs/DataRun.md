@@ -142,33 +142,7 @@ For **Measures,**
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1bae129344332eabae71b594bd320f0f5c5b4a68/images/pivot2.png)
 
-## Data 
-Depending on selection of fields, data section is enabled.
-- **Row Grouping** enables grouping for column fields and it is applied for first column field only.
-- **Explore Enabled** to explore data which are grouped.
-- **Stacked** are used whether to stack the values at y-axis.
-- **Datasets** specifies the alignment, formats, currency, number of y-axis and grouping of aggregates for the legends used in the visualization menu.
-- **Calculate on Raw data** Calculates the field values before applying grouping, pivot or other parameters.
 
-### Group aggregate
-  It displays consolidated values of grouped fields.
-  
-**a.** Enable row grouping by selecting the checkbox.
-
-**b.** Explore the primary column fields data individually, which are grouped under the column field. 
-
-**c.** Select the field to perform row grouping.
-
-  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/657b29d2f18b269f2964e8150a3670df8db7869c/images/group_aggregate.png)
-
-
-### Number Format & Currency option for fields
-
-Apply different number formats and currency options to measures.
-**a.**  Select required number format from list.
-**b.**  Select currency you would like to view.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a289a74e21b8055ac795aa2bb25d4cb945bc02b0/images/number_format.png)
 
 ####  list of number formats applicable on measures :
 
@@ -246,12 +220,40 @@ To freeze the field values click on ** Pin** options in drop down and click on *
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bee13bc200cda9988be61a3c7b58de502a4915fa/images/hide_visu.png)
 
+## Data 
+Depending on selection of fields, data section is enabled.
+- **Row Grouping** enables grouping for column fields and it is applied for first column field only.
+- **Explore Enabled** to explore data which are grouped.
+- **Stacked** are used whether to stack the values at y-axis.
+- **Datasets** specifies the alignment, formats, currency, number of y-axis and grouping of aggregates for the legends used in the visualization menu.
+- **Calculate on Raw data** Calculates the field values before applying grouping, pivot or other parameters.
+
+### Group aggregate
+  It displays consolidated values of grouped fields.
+  
+**a.** Enable row grouping by selecting the checkbox.
+
+**b.** Explore the primary column fields data individually, which are grouped under the column field. 
+
+**c.** Select the field to perform row grouping.
+
+  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/657b29d2f18b269f2964e8150a3670df8db7869c/images/group_aggregate.png)
+
+
+### Number Format & Currency option for fields
+
+Apply different number formats and currency options to measures.
+**a.**  Select required number format from list.
+**b.**  Select currency you would like to view.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/a289a74e21b8055ac795aa2bb25d4cb945bc02b0/images/number_format.png)
 ## SQL Query 
 
 Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5Nzg3MjMxLC0xOTEyODg0NDc4LDQyOT
-Y0NDQwMSwyMTM4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbLTc2OTAyNjM2OCwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
