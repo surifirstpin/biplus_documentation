@@ -139,9 +139,11 @@ Depending on selection of fields, data section is enabled.
   It displays consolidated values of grouped fields.
   
 **a.** Enable row grouping by selecting the checkbox.
-**b.** Explore the primary column fields data 
-individually, which are grouped under the column field. 
+
+**b.** Explore the primary column fields data individually, which are grouped under the column field. 
+
 **c.** Select the field to perform row grouping.
+
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/657b29d2f18b269f2964e8150a3670df8db7869c/images/group_aggregate.png)
 
 
@@ -235,6 +237,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzY1NTU4NSwtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbLTI4MDY3NTc4MSwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
