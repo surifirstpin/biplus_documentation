@@ -81,13 +81,13 @@ Following are the different types of filters characteristics applicable using **
 
 ## Hidden Filters
 
-The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are not visible while retrieving the data in data section. to carry out this function you can follow the following steps,
+The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are not visible while retrieving the data in data section. To carry out this function you can follow the following steps,
 
 **a.** Apply hidden filters to data fields in dimensions.
 
 **b.** Fields to which hidden filters applied are visible in filter expression of filter section.
 
-**c.** The data is retrieved is based on the filters applied on dimension fields.
+**c.** The data is retrieved is based on applied hidden filters.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e777906f8a8aafdb323a64c65c2a1c9e69cb01b1/images/hidden_filter.png)
 
@@ -243,6 +243,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5MDAxMjUzLC0xOTEyODg0NDc4LDQyOT
+eyJoaXN0b3J5IjpbMzcxODUxNzI0LC0xOTEyODg0NDc4LDQyOT
 Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
