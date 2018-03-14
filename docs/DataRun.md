@@ -3,7 +3,7 @@
 This section explains how to explore the data by slice and dice of report information in order to build a query.
 
 Under data analysis section, select the project and model for which you want to explore the data. Data analysis section contains list of dimension and measures which acts as fundamental building blocks for a query.
-## Adding dimension and measure for mor
+## Adding dimension and measure fo
 Select the set of fields, from dimension ( Grey fields) or measure (Orange fields) to build a query.
 
 **1.**  Select one or more dimension fields to access the data.
@@ -229,6 +229,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjA2ODUsLTE5MTI4ODQ0NzgsNDI5Nj
-Q0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbNDEzNzQwMDUxLC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
