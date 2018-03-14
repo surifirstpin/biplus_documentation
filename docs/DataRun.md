@@ -8,9 +8,9 @@ Select the set of fields, from dimension ( Grey fields) or measure (Orange field
 
 From the list of dimensions and measures, select set of fields to access the information.
 
-**1.**  Select one or more fields from dimensions to group your data.
+**1.**  Select one or more dimension fields to access the data.
 
-**2.** Select one or more measure fields to add numeric values, such as totals and counts. 
+**2.** Select one or more measure fields to access numeric values, such as totals and counts. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/92e1e1b322bed3026eedfd1a2dca2bc3c3dfea78/images/visu_run.png)
 
@@ -231,6 +231,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTIzNjEzMjgsLTE5MTI4ODQ0NzgsND
+eyJoaXN0b3J5IjpbLTE3MjI0ODY2NTksLTE5MTI4ODQ0NzgsND
 I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
