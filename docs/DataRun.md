@@ -143,6 +143,9 @@ For **Measures,**
 **Pivot Tables** can help make your data retrieving is more manageable by summarizing data and allowing you to manipulate it in different ways.it can instantly calculate and summarize the data in a way that it is both easy to read and manipulate.
 
 For instance, if you want to view the sales made based on the month and year it displays in following way:
+|Sales  |year  |month|
+|--|--|
+|  |  |
 
 -  **Pivot** checks each dimension horizontally and reduces the effect of scrolling down the data.
   
@@ -249,6 +252,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM4MzAwNjgsLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbNTQ4NDU5MjQ1LC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
