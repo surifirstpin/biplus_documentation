@@ -2,7 +2,7 @@
 
 This section explains how to explore the data by slice and dice of report information in order to build a query.
 
-Under data analysis section, select the project and model for which you want to explore the data. Data analysis section contains list of dimension and measures which acts as fundamental building blocks for a query.
+Under data analysis section, select the desired **project** and **model** ( refer image 1) for which you want to explore the data. Data analysis section contains list of dimension and measures which acts as fundamental building blocks for a query.
 
 ## Adding Dimension and Measure
 
@@ -13,7 +13,7 @@ Select set of fields, from dimension ( Grey fields) or measure (Orange fields) t
 **2.** Select one or more measure fields to access numeric values, such as totals and counts. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/92e1e1b322bed3026eedfd1a2dca2bc3c3dfea78/images/visu_run.png)
-
+                                                                                                              Image 
 **Dimensions** are list of fields that can be used for applying filter options, for instance:
 - An **Attribute,** which has a direct association to a column in an primary table.
 - A **Fact or a numerical value**.
@@ -231,6 +231,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2MDYxNjcsLTE5MTI4ODQ0NzgsNDI5Nj
-Q0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbNTQxNzMxOTU1LC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
