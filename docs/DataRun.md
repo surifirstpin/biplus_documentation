@@ -152,7 +152,7 @@ For instance, if you want to view the number of order received  based on the mon
 |200|2003|April|west|Mecker|
 
 On Applying pivot on month it displays,
-|January|Febrauary|March|
+|January|Febrauary|March|Apr
 100
 2000
 north
@@ -263,6 +263,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTQyMTE1MCwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbLTE0NjgyMTUzMjksLTE5MTI4ODQ0NzgsND
+I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
