@@ -145,10 +145,10 @@ For **Measures,**
 For instance, if you want to view the number of order received  based on the month and year it displays in following way:
 | Order Received  |year  |month|Region|
 |--|--|--|--|
-| 100 |2000  |January|north|
-|200|2001|February|south|
-|200|2002 |march|east|
-|200|2003|April|west|
+| 100 |2000  |January|north|john|
+|200|2001|February|south|Steve|
+|200|2002 |march|east|Bob|
+|200|2003|April|west|Mecker|
 
 -  **Pivot** checks each dimension horizontally and reduces the effect of scrolling down the data.
   
@@ -255,6 +255,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc5NDUxMDgsLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbNDQ5MzMwNjMwLC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
