@@ -2,6 +2,7 @@
 
 Using data analysis user can retrieve the data and build the query applying data exploration by slice and dice of report information.
 
+This Sectiond
 
 Under data analysis section, select the project and model for which you want to explore the data. Data analysis section contains list of dimension and measures which acts as fundamental building blocks for a query.
 
@@ -232,6 +233,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzcxOTMzMDUsLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbMzQ3NzUyNjE4LC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
