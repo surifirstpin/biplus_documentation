@@ -113,7 +113,7 @@ For **Measures,**
 
 - **Limit** allows row limitation while displaying data. 
 
-- **Query time**display the to of the report is displayed on top of the analysis section.
+- **Query time**display the total  of the report is displayed on top of the analysis section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/row_limit.png)
 
@@ -235,6 +235,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjU0OTQ4NCwtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbLTY5MjEyMjY5OSwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
