@@ -10,7 +10,7 @@ From the list of dimensions and measures, select set of fields to access the inf
 
 **1.**  Select one or more fields from dimensions to group your data.
 
-**2.** Select lick one or more orange fields(Measures) to add information about those groups, such as totals and counts. 
+**2.** Select one or more orange fields(Measures) to add information about those groups, such as totals and counts. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/92e1e1b322bed3026eedfd1a2dca2bc3c3dfea78/images/visu_run.png)
 
@@ -231,6 +231,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODIxNDYxOCwtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbLTczNDQ1MDE2MywtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
