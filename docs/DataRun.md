@@ -212,7 +212,7 @@ Apply different number formats and currency options to measures.
 ####  list of number formats applicable on measures :
 
 
-| 
+| A|B
 |  ------ | ------ |
 | #                 |  ###,###.00          |
 |  #.00               |  ####,####.000       |
@@ -227,8 +227,9 @@ Apply different number formats and currency options to measures.
 |   ###,#»#.00          |  #K                  |
 |   ###,###.000         |  #M |
 |   ###.###,o           |  |
-####  list of currency applicable on measures :
 
+####  list of currency applicable on measures :
+The following are the currency f
 |    Currency      |
 |------------------|
 |         $        |
@@ -242,6 +243,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODQ3MDA4OSwtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbMTEyNzg4MTAxMiwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
