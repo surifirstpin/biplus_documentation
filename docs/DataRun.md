@@ -16,7 +16,7 @@ Select set of fields, from dimension ( Grey fields) or measure (Orange fields) t
                                                                                                                                                                                                                         
 
 
-## Filters /Hidden Filters
+## Filters 
 
 **3.**  Click on **Filter** to add filter to your report. 
 
@@ -73,9 +73,9 @@ Filters is a optional list of filter expression applied to measure calculation, 
 |is not null                   |data which is not equal to null
 |is null                       |data which is equal to null
 
-**Hidden Filters :**
+## Hidden Filters
 
-On applying hidden filters, the column fields are visible in the list of filter expression specified and displays the data depending on the filters applied.
+On applying hidden filters to the dime, the column fields are visible in the list of filter expression specified and displays the data depending on the filters applied.
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e777906f8a8aafdb323a64c65c2a1c9e69cb01b1/images/hidden_filter.png)
 
 **4.**  Click on **Run.**
@@ -218,6 +218,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTY4NjI5NSwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbMzk0MjQ5Mzk4LC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
