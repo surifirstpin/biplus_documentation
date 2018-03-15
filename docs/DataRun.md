@@ -223,7 +223,7 @@ The below image shows , the consolidated values after grouping is applied on fie
 ## Multi-Level grouping
 
 Using AcuBi you can view the Multi-leveled grouped values. 
-For Instance in below example we have selected Country Name and  State Name and City Name,Total_Employees Sum and Average and apply grouping on Country Name and 
+For Instance in below example we have selected Country Name and  State Name and City Name,Total_Employees Sum and Average and apply grouping on Country Name and Stae
 
 
 
@@ -296,6 +296,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODkyMDg4MzcsLTE5MTI4ODQ0NzgsND
+eyJoaXN0b3J5IjpbLTE1ODA4MTU1NjIsLTE5MTI4ODQ0NzgsND
 I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
