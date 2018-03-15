@@ -109,8 +109,7 @@ The data can also be retrieved based on the applied hidden filters, this hidden 
 ## Calculated column 
 
 
-Table calculations enable you to easily create on-the-fly metrics, which are similar to formulas found in Excel sheets. These extracted columns will show up as green in the data table
-Using calculated column you can perform mathematical, logical (true/false), lexical (text-based), and date-based calculations on the dimensions, measures, and other table calculations in your query.
+Table calculations enable you to easily create on-the-fly metrics, which are similar to formulas found in Excel sheets. These extracted columns will show up as green in the data table. Using calculated column you can perform mathematical, logical (true/false), lexical (text-based), and date-based calculations on the dimensions, measures, and other table calculations in your query.
 
 Click on Calculated column button to enable table calculations as shown in below image,
 
@@ -310,6 +309,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzg5Nzc0MiwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbLTEwMDk0NTEyMTgsLTE5MTI4ODQ0NzgsND
+I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
