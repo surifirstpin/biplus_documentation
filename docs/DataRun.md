@@ -180,7 +180,7 @@ For **Measures,**
 ## Pivot table
 
 Multiple dimensions in the report data are often easier to look at when you pivot one of the dimensions horizontally. Each value in the dimension will become a column in your report data by making your information more clear to consume visually, and reduces the need to scroll down to find data.
-To **Pivot** a dimension click on pivot for dimension before running the query and you can add more pivots to other dimension but make sure you have atleast one unpo
+To **Pivot** a dimension click on pivot for dimension before running the query and you can add more pivots to other dimension but make sure you have atleast one un
 
 >For instance, if you want to view the number of order received  based on the month  it displays in following way:
 
@@ -312,6 +312,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzA1MDExMSwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbLTIwOTQ3MTM5ODIsLTE5MTI4ODQ0NzgsND
+I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
