@@ -7,7 +7,7 @@ Using **Analysis section** you can retrieve the data in the desired combinations
 **1.** Click on Analysis section and select the desired **project** and **model** depending on which you can explore and retrieve the data.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/a6e565f23ad0965cf20d0511d5e7e9873157c8a1/images/analysis.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/d2a240b7943427822dbd1280f1555acc64d6800e/images/analysis.png)
 
 It contains list of dimension and measures which acts as fundamental building blocks for a query.
 
@@ -307,6 +307,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5OTMzNTUzLC0xOTEyODg0NDc4LDQyOT
-Y0NDQwMSwyMTM4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbMTQ1MTA0NjU2OCwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
