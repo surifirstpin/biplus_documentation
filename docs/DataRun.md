@@ -1,6 +1,6 @@
 <center><h1>Analysis</h1></center>
 
-Analysis is the starting point of the query, it is designed in such a way that it explores the particular subject area and where to pull the data and how to modify the report and drill down deeper into the report for more insight.
+Analysis is the starting point of the query, it is designed in such a way that it retrieves the data in the desired combinations as per your business needs it explores the particular subject area and where to pull the data and how to modify the report and drill down deeper into the report for more insight.
 
 Using **Analysis section** you can retrieve the data in the desired combinations as per your business needs, AcuBi provides you an ability to explore and extract the data by applying following functions Filters, Order, Sorting, Mathematical Calculations etc.
  
@@ -310,6 +310,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzMxOTM5NiwtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbLTEyNDkwNzI5NiwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
