@@ -245,6 +245,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - **Stacked** Series values are added on the y-axis, so each consecutive series appears above the last. Be sure that the units of all series match.
 
+
 - **Datasets** enables you to perform alignment, set currency formats for measure values and calculation column value and perform group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
 
 ![
@@ -276,7 +277,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 |   ###,###.000         |  #M |
 |   ###.###,o           |  |
 
-- **Currency** you can check the field valuyes of the measure by applying different currency formats supported by AcuBi  $,   ₹  ,   €  ,  £.
+- **Currency** you can check the field values of the measure by applying different types of currency formats, AcuBi supports $,   ₹  ,   €  ,  £.
 
 
 ## SQL Query 
@@ -285,6 +286,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Njg3OTgwMiwtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbLTQ2NzE2MDI4NiwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
