@@ -245,13 +245,13 @@ We have selected Country Name and  State Name and City Name,Total_Employees Sum 
 
 ## Find
 
-To find the specific field value in the retrieved list select **Find** in the down arrow list of the specific field header.
+To find the specific field value in the retrieved list click on **Find** on specific field header.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0c61b3a711f6de1821fa63350eaa8f2e11e84486/images/find.png)
 
 ## Field Visualization On / Off
 
-You can hide the field values in  the visualization charts by selecting **Hide Visualization** for the specific field by clicking on the down arrow in the field header. To display the same in visualization chart select **Show visualization**
+You can hide the field values in  the visualization charts by selecting **Hide Visualization** for the  field by clicking on the down arrow in the field header. To display the same in visualization chart select **Show visualization**
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/75f9c50ef12a1aa2ff5c43aaafefa2fd1140597d/images/hide_visualisation.png)
@@ -313,6 +313,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODY1OTYyNDEsLTE5MTI4ODQ0NzgsND
+eyJoaXN0b3J5IjpbLTEyNjIyMTAxOTIsLTE5MTI4ODQ0NzgsND
 I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
