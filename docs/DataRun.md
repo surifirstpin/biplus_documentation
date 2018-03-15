@@ -166,7 +166,7 @@ For **Measures,**
 
 ## Row Limitation and Query Time
 
-**5.** **Totals** you can add the column totals in the report by click the checkbox **T.
+**5.** **Totals** you can add the column totals in the report by click the checkbox **Tota.
  
 **6.** **Limit** displays data, based on row limitation.
 
@@ -313,6 +313,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDU5MTE5MiwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbMjA1NjE2NDI0LC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
