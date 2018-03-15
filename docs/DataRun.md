@@ -15,12 +15,12 @@ It contains list of dimension and measures which acts as fundamental building bl
 
 Select set of fields, from dimension ( Grey fields) or measure (Orange fields) to build a query.
 
-**1.**  Select one or more dimension fields to access the data.
+**2.**  Select one or more dimension fields to access the data.
 
-**2.** Select one or more measure fields to access numeric values, such as totals and counts. 
+**3.** Select one or more measure fields to access numeric values, such as totals and counts. 
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/2747be6cc024840c73a089a67c7f9f9be6419617/images/analysis_img1.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/a6e565f23ad0965cf20d0511d5e7e9873157c8a1/images/analysis2.png)
                                                                                                                                                                                                                         
 ## Filters 
 
@@ -88,8 +88,7 @@ Following are the different types of filters characteristics applicable using **
 
 **3.**  Click on **Filter** to apply the filters and extract the data based on filter applied.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/c07023b25efd621ec0d7af513f4231d71cbfd0a3/images/analysis_filters.png)
+
 
 ## Hidden Filters
 
@@ -307,6 +306,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQwNzA1ODEsLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbMjExODEzNDY2NSwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
