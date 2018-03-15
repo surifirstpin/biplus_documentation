@@ -222,8 +222,8 @@ The below image shows , the consolidated values after grouping is applied on fie
 
 ## Multi-Level grouping
 
-Using AcuBi you can view the Multi-leveled grouped values. For Instance,
-if you apply grouping on Country name and  StateName
+Using AcuBi you can view the Multi-leveled grouped values. 
+For Instance in below example we have selected Country Name and  State Name. It displays the states which fall und
 
 
 
@@ -296,6 +296,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxMTU1OTM5LC0xOTEyODg0NDc4LDQyOT
+eyJoaXN0b3J5IjpbODc2MzkwNzU4LC0xOTEyODg0NDc4LDQyOT
 Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
