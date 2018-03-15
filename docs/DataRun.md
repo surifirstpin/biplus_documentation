@@ -179,7 +179,7 @@ For **Measures,**
 
 ## Pivot table
 
-Multiple dimensions in the report data are often easier to look at when you pivot one of the dimensions horizontally. Each value in the dimension will become a column in your Look. This makes the information easier to consume visually, and reduces the need to scroll down to find data.
+Multiple dimensions in the report data are often easier to look at when you pivot one of the dimensions horizontally. Each value in the dimension will become a column in your report data by making your information more clear to consume visually, and reduces the need to scroll down to find data.
 
 **Pivot Tables** can help make your data retrieving more manageable by summarizing the data and allowing you to manipulate it in different ways. it can instantly calculate and summarize the data in a way that it is both easy to read and manipulate.
 
@@ -313,6 +313,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjc2MjY2MywtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbNzQwNDUzNTc2LC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
