@@ -227,7 +227,7 @@ To find the specific field value in the retrieved list select **Find** in the do
 
 ## Field Visualization On / Off
 
-You can Hide the field values in  the visualization charts by selecting **Hide Visualization** for the specific field by clicking on the down arrow in the field header. To display the same in visulisation chart click 
+You can Hide the field values in  the visualization charts by selecting **Hide Visualization** for the specific field by clicking on the down arrow in the field header. To display the same in visulisation chart cl
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/75f9c50ef12a1aa2ff5c43aaafefa2fd1140597d/images/hide_visualisation.png)
@@ -293,6 +293,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzMTUwOTk0LC0xOTEyODg0NDc4LDQyOT
-Y0NDQwMSwyMTM4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbMTg2MTMzNTkwNywtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
