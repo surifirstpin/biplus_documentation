@@ -214,7 +214,7 @@ To **Pivot** a dimension click on pivot for dimension before running the query, 
 
 ## Pin or Remove Pin
 
-To Freeze the column field values while scrolling the data to right or left click **Pin** for option by clicking on down arrow of the field header  to release the same click on **Remove Pin.**
+To Freeze the column field values while scrolling the data to right or left click **Pin** for the  option by clicking on down arrow of the field header  to release the same click on **Remove Pin.**
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/83983da3cd4f0b19f0ed84550fc2151b0619fc36/images/pin.png)
@@ -313,6 +313,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTg3NDQ3NTMsLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbMTE2OTUyMjc5NCwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
