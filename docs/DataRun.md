@@ -276,7 +276,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 |   ###,###.000         |  #M |
 |   ###.###,o           |  |
 
-- **Currency** you can The following are the currency formats supported by AcuBi  $,   ₹  ,   €  ,  £.
+- **Currency** you can check the field valuyes of the measure by applying different currency formats supported by AcuBi  $,   ₹  ,   €  ,  £.
 
 
 ## SQL Query 
@@ -285,6 +285,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTExNDQyMzMsLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbMTU0Njg3OTgwMiwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
