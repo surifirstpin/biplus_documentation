@@ -226,8 +226,7 @@ Using AcuBi you can view the Multi-level grouped values.
 
 **Consider the below example for more details description on multi level grouping.**
 
-We have selected Country Name and  State Name and City Name,Total_Employees Sum and Average and apply grouping on Country Name and State Name.
-In retrieved data on expanding Country Name it displays State Name and on Further Expansion it displays City Name that falls under the states as shown in below image.
+We have selected Country Name and  State Name and City Name,Total_Employees Sum and Average and apply grouping on Country Name and State Name. In retrieved data on expanding Country Name it displays State Name and on Further Expansion it displays City Name that falls under the states as shown in below image.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a07734d0424a3c19e040fdd95a93464d057df5f3/images/multi_level_grouping.png) 
@@ -303,6 +302,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODIyODYzMiwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbLTE5MTg1OTExNDQsLTE5MTI4ODQ0NzgsND
+I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
