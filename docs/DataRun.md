@@ -171,8 +171,10 @@ For **Measures,**
 
  ## Display  Row Limitation
 
-**6.**  You can limit the rows in the data extracted by selectin the limit value to your desired number from the given list.
- and Query Time
+**6.**  You can limit the rows in the data extracted by selecting the limit value to your desired number from the given list.( 100,500,1000,5000,10000,100000)
+
+ ## Display Query Time
+ 
 - **Query time** display the total time taken to build the query of a report.
 
 - **Rows** displays number of rows fetched while retrieving data.
@@ -316,6 +318,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDI3MTA2OTQsLTE5MTI4ODQ0NzgsND
+eyJoaXN0b3J5IjpbLTEzNzYxMzUxNjEsLTE5MTI4ODQ0NzgsND
 I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
