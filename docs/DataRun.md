@@ -88,8 +88,9 @@ Following are the different types of filters characteristics applicable using **
 
 **4.**  Click on **Filter** to apply the filters and extract the data based on filter applied.
 
+
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/ece58e6c0bcc57fc563e4e33e80b345e249cbe73/images/filter_analysis.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/451979e37dcbf9fc459308e68773450b4452ed0f/images/filter_analysis.png)
 
 ## Hidden Filters
 
@@ -104,7 +105,7 @@ The data can also be retrieved based on the applied hidden filters, this hidden 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/hidden_filter.png)
 
-**4.**  Click on **Run** to display the data retrieved ( refer image 1).
+**5.**  Click on **Run** to display the data retrieved ( refer image 3).
 
 ## Calculated column 
 
@@ -306,7 +307,8 @@ Data section under visualization is enabled based on the data retrieved for fiel
 Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODcxODYwODUsLTE5MTI4ODQ0NzgsND
+eyJoaXN0b3J5IjpbLTIwMTg2MDMzODksLTE5MTI4ODQ0NzgsND
 I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
