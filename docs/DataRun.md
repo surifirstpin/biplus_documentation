@@ -9,11 +9,10 @@ Analysis is the starting point for building the query, it is designed in such a 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d2a240b7943427822dbd1280f1555acc64d6800e/images/analysis.png)
 
-It contains list of dimension and measures which acts as fundamental building blocks for a query.
 
 ## Adding Dimension and Measure
 
-A **Dimension** is a set of group of data and **Measure** is a information of group of data and they 
+A **Dimension** is a set of group of data and **Measure** is a information of group of data and they combinedly acts as fundamental building blocks for a query.
 
 Select set of fields, from dimension ( Grey fields) or measure (Orange fields) to build a query.
 
@@ -310,6 +309,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjgzODIyNTksLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbMTk1NjYxMTgzOSwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
