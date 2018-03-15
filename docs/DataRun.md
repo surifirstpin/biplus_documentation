@@ -179,7 +179,7 @@ Total time taken to build the query of a report is displayed on the top right of
 
 ## Display number of rows
 
--the number of rowsdisplays number of rows fetched while retrieving data.
+-the number of rows displays number of rows fetched while retrieving data.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/38e6202832d95449080cc72b7361b8ca5cf22b8a/images/query_time.png)
@@ -320,6 +320,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDI5NDkwOCwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbNjA4MzkzMTYyLC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
