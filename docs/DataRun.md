@@ -258,7 +258,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/657b29d2f18b269f2964e8150a3670df8db7869c/images/group_aggregate.png)
 
-- **Format** using format option you can ap
+- **Format** using format option you can apply 
 
 Apply different number formats and currency options to measures.
 **a.**  Select required number format from list.
@@ -297,6 +297,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjIwNDQ1NTMsLTE5MTI4ODQ0NzgsND
+eyJoaXN0b3J5IjpbLTExODUwOTE2MjgsLTE5MTI4ODQ0NzgsND
 I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
