@@ -113,6 +113,7 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 Using calculated column you can perform mathematical, logical (true/false), lexical (text-based), and date-based calculations on the dimensions, measures, and other table calculations in your query.
 
 Click on Calculated column button to enable table calculations as shown in below image,
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9dd01207f083d272ba2269a4c999dfa8976f1914/images/calculate%20column1.png)
 
@@ -309,6 +310,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Njk5NTc0NCwtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbMTIxNzg5Nzc0MiwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
