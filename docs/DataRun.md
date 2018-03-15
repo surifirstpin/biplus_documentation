@@ -4,7 +4,9 @@ Using **Analysis section** you can retrieve the data in the desired combinations
  
 **Let see in detail how Acubi helps you in retrieving data as per your business needs ;**
  
-Click on Analysis section to extract the data and select the desired **project** and **model**    ( refer image 1) depending on which you can explore and retrieve the data. Analysis section contains list of dimension and measures which acts as fundamental building blocks for a query.
+**1.** Click on Analysis section and select the desired **project** and **model**    ( refer image 1) depending on which you can explore and retrieve the data. 
+
+It contains list of dimension and measures which acts as fundamental building blocks for a query.
 
 ## Adding Dimension and Measure
 
@@ -302,6 +304,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjY5MDEyMDksLTE5MTI4ODQ0NzgsND
+eyJoaXN0b3J5IjpbLTEwNDIzMDU5MjUsLTE5MTI4ODQ0NzgsND
 I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
