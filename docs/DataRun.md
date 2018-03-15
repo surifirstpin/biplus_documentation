@@ -17,7 +17,7 @@ A **Dimension** is a group of data and **Measure** is a information of group of 
 
 Select set of fields, from dimension ( Grey fields) or measure (Orange fields) to build a query.
 
-**2.**  Select one or more dimension fields to access the data.
+**2.**  Select one or more dimension fields ( Grey fields) to access the data.
 
 **3.** Select one or more measure fields to access numeric values, such as totals and counts. 
 
@@ -310,6 +310,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMzg0NTgwLC0xOTEyODg0NDc4LDQyOT
+eyJoaXN0b3J5IjpbNTUzOTY1MTIxLC0xOTEyODg0NDc4LDQyOT
 Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
