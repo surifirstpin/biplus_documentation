@@ -109,7 +109,7 @@ The data can also be retrieved based on the applied hidden filters, this hidden 
 ## Calculated column 
 
 Calculated column is statement or expression or a function operator which can be used to derive the column values.
-
+Table calculations can perform mathematical, logical (true/false), lexical (text-based), and date-based calculations on the dimensions, measures, and other table calculations in your query.
 To perform mathematical calculations Click on Calculate column
 
 ![
@@ -308,6 +308,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjE3MzQ0OSwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbLTIwMjYzMjIwNDYsLTE5MTI4ODQ0NzgsND
+I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
