@@ -1,6 +1,6 @@
 <center><h1>Analysis</h1></center>
 
-Analysis is the starting point for building the query, it is designed in such a way that it retrieves the data in the desired combinations as per your business needs and explores particular subject area it self. provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight.
+Analysis is the starting point for building the query, it is designed in such a way that it retrieves the data in the desired combinations as per your business needs and explores particular subject area it self. It provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight.
  
 **Let see in detail how Acubi helps you in retrieving data as per your business needs ;**
  
@@ -12,7 +12,7 @@ Analysis is the starting point for building the query, it is designed in such a 
 It contains list of dimension and measures which acts as fundamental building blocks for a query.
 
 ## Adding Dimension and Measure
-
+A **Dimension** is a set of group of data 
 Select set of fields, from dimension ( Grey fields) or measure (Orange fields) to build a query.
 
 **2.**  Select one or more dimension fields to access the data.
@@ -308,6 +308,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjU3NjM2NywtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbLTU3ODc4NDc3OSwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
