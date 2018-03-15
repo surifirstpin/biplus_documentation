@@ -204,12 +204,10 @@ For **Measures,**
 
 Group will display the consolidated or a grouped value of the field. To carry out this function Click on the down arrow of the field header and select **Group** to group fields and to release the same Click on **Un-Group** option. 
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/12c2bc69fcf082dc620f2819ae901ae9c7a962a7/images/group.png)
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/93c8d204507e325aea691be5e8a6e7662975fd3c/images/group.png)
 
-
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c383b6e32c490bd5f0a32eb8cf2dcd4bb1fbfa9d/images/calculate%20column2.png)
-
+The below image shows , the consolidated values after grouping is applied to fie
 ## Pin or Remove Pin
 
 To freeze the field values click on ** Pin** options in drop down and click on **Remove Pin** to release it.
@@ -282,6 +280,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTYyMjkxOCwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbLTE3NjUwNDUzMDcsLTE5MTI4ODQ0NzgsND
+I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
