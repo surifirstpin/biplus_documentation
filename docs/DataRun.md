@@ -234,7 +234,9 @@ You can Hide the field values in  the visualization charts by selecting **Hide V
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/75f9c50ef12a1aa2ff5c43aaafefa2fd1140597d/images/hide_visualisation1.png)
+
 ## Data 
+
 Depending on selection of fields, data section is enabled.
 - **Row Grouping** enables grouping for column fields and it is applied for first column field only.
 - **Explore Enabled** to explore data which are grouped.
@@ -293,6 +295,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTEyNTY3NDksLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbODg4MDY3MDMsLTE5MTI4ODQ0NzgsNDI5Nj
+Q0NDAxLDIxMzgzODU3MDBdfQ==
 -->
