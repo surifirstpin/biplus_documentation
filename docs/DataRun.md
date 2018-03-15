@@ -278,7 +278,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 - **Stacked** Series values are added on the y-axis, so each consecutive series appears above the last. Be sure that the units of all series match.
 
 
-- **Datasets** enables you to perform alignment, set currency formats for measure values and calculation column value and perform group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
+- **Datasets** section enables you to perform alignment, set currency formats for measure values and calculation column value and perform group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/8e769a4f2914fa97d5f4672fd4e542ed2f88a246/images/row_grouping.png)
@@ -321,6 +321,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTU5NDg3NjksLTE5MTI4ODQ0NzgsND
+eyJoaXN0b3J5IjpbLTExMzgyMzQ0MzgsLTE5MTI4ODQ0NzgsND
 I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
