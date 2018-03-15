@@ -275,21 +275,8 @@ Data section under visualization is enabled based on the data retrieved for fiel
 |   ###,#»#.00          |  #K                  |
 |   ###,###.000         |  #M |
 |   ###.###,o           |  |
-Apply different number formats and currency options to measures.
-**a.**  Select required number format from list.
-**b.**  Select currency you would like to view.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/a289a74e21b8055ac795aa2bb25d4cb945bc02b0/images/number_format.png)
-
-####  list of number formats applicable on measures :
-
-
-
-
-####  Currency applicable on measures :
-
-The following are the currency formats supported by AcuBi  $,   ₹  ,   €  ,  £.
+- **Currency** you can The following are the currency formats supported by AcuBi  $,   ₹  ,   €  ,  £.
 
 
 ## SQL Query 
@@ -298,6 +285,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2OTY4MjUsLTE5MTI4ODQ0NzgsNDI5Nj
-Q0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbLTEyOTExNDQyMzMsLTE5MTI4ODQ0NzgsND
+I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
