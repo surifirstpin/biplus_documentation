@@ -117,7 +117,6 @@ Click on Calculated column button to enable table calculations as shown in below
 ](https://raw.githubusercontent.com/sv18042016/fp1/9dd01207f083d272ba2269a4c999dfa8976f1914/images/calculate%20column1.png)
 
 - **Field name** unique identifier name to refer calculated column.
-
 - **Label** labeling the calculated column.
 
 - **Data type** data type used (string,number).
@@ -309,6 +308,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDk0NTEyMTgsLTE5MTI4ODQ0NzgsND
+eyJoaXN0b3J5IjpbLTIwNTc5NjA1MTIsLTE5MTI4ODQ0NzgsND
 I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
