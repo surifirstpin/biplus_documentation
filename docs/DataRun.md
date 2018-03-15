@@ -221,6 +221,8 @@ The below image shows , the consolidated values after grouping is applied to fie
 ## Find
 
 To find the specific field value in the retrieved list select **Find** in the down arrow list of the specific field header.
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/0c61b3a711f6de1821fa63350eaa8f2e11e84486/images/find.png)
 
 ## Field Visualization On / Off
 
@@ -287,6 +289,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjM2NTg2MywtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbLTE5MTg4MDI1OCwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
