@@ -213,7 +213,7 @@ The below image shows , the consolidated values after grouping is applied to fie
 
 ## Pin or Remove Pin
 
-To Freeze the column field values in the data retre
+To Freeze the column field values in the data retreived 
 To freeze the field values click on ** Pin** options in drop down and click on **Remove Pin** to release it.
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b001b2f2f386a9730f3be339c38c54b73c69c5b9/images/pin.png)
 
@@ -284,6 +284,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODU2MzM2MCwtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbLTQ3MzkzODM4NCwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
