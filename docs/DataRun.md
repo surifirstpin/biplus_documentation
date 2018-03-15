@@ -239,9 +239,9 @@ You can Hide the field values in  the visualization charts by selecting **Hide V
 
 Data section under visualization is enabled based on the data retrieved for fields. Below are the parameters applicable on the data retrieved.
 
-- **Row Grouping** enables grouping for column fields based on the field selection.
+- **Row Grouping** enables grouping for column fields based on the field selected.
 
-- **Explore Enabled** to explore data which are grouped.
+- **Explore Enabled** to explore the data which are grouped.
 
 - **Stacked** are used whether to stack the values at y-axis.
 
@@ -301,6 +301,6 @@ Selected fields will build a SQL query in data analysis :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5NjI1MTMsLTE5MTI4ODQ0NzgsNDI5Nj
-Q0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbMzkyMDczNjY5LC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
