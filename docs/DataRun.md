@@ -221,7 +221,7 @@ To Freeze the column field values while scrolling the data to right or left clic
 
 ## Group / Un-Group
 
-Group will display the consolidated or a grouped value of the field. To carry out this function Click on the down arrow of the field header and select **Group** to group fields and to release the same Click on **Un-Group** option. 
+Group will display the consolidated or a grouped value of the field. To carry out this function Click on **Group** for the field and to release the same Click on **Un-Group**. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/93c8d204507e325aea691be5e8a6e7662975fd3c/images/group.png)
@@ -313,6 +313,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjAwOTYzNCwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbNzE4NDg5NjU4LC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
