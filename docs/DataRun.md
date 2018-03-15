@@ -171,7 +171,7 @@ For **Measures,**
 
  ## Display  Row Limitation
 
-**6.** * displays data, based on row limitation.
+**6.**  You can displays data, based on row limitation.
  and Query Time
 - **Query time** display the total time taken to build the query of a report.
 
@@ -316,6 +316,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1MzcxNTM5LC0xOTEyODg0NDc4LDQyOT
-Y0NDQwMSwyMTM4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbMTM1NzA0MDY3OCwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
