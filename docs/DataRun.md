@@ -15,11 +15,9 @@ Analysis is the starting point for building the query, it is designed in such a 
 A **Dimension** is a group of data and **Measure** is a information of group of data and they collectively acts as fundamental building blocks for a query.
 > For Example **Name of the Employee** is defined as dimension and **Salary of the Employee** is defined as Measure. 
 
-Select set of fields, from dimension ( Grey fields) or measure (Orange fields) to build a query.
-
 **2.**  Select one or more dimension fields ( Grey fields) to access the data.
 
-**3.** Select one or more measure fields to access numeric values, such as totals and counts. 
+**3.** Select one or more measure fields (Orange fields) to access numeric values, such as Sum, Counts, Max, Avg etc. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/fc61997d3a6999b632b7b6e9dfdfdcd3f93b5507/images/analysis1.png)
@@ -310,6 +308,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzOTY1MTIxLC0xOTEyODg0NDc4LDQyOT
-Y0NDQwMSwyMTM4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbLTIxNDExNTM4NDYsLTE5MTI4ODQ0NzgsND
+I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
