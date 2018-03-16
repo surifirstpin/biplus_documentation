@@ -83,8 +83,8 @@ This section describes the editing option for Pie chart in visualization.
  
 - **Show percentage**  displays percentage for each measure value in pie chart. To enable it select the **Check Box** show percentage as shown below;
 
-
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/6921e2105eb29674d2f727201df80f5be58983d5/images/show_percentage.png)
 
 
 - 
@@ -274,6 +274,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTMyNzQ3MSwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbMTM3NTIzMTQ3NSwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
