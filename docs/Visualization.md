@@ -136,20 +136,6 @@ This section describes the editing option for bubble chart in visualization.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d07e80177a8a6fe04619cfb40058e9789b142e88/images/bubble_chart.png)
 
-
-
-### Y-axis for bubble chart :
-
-
-
-- **Axis** select the measures values in y-axis  to enable
-editing options for y-axis in bubble chart.
-- **Format** enables number format for measure values.
-- **Currency** enables the currency format for measures values in y-axis.
-- **Y-Axis** display measure values in Y-axis. 
-- **Show Grid** enables the grid display for measures in y-axis.
-- **Include Zero** displays values in y-axis starting from zero.
-
 ### Reference lines in bubble chart :
 
   - **Name** Provide a reference name.
@@ -265,16 +251,11 @@ Red color indicates the value attained is initial state or low.
 - **Label field** label the field name in x-axis using grid display.
 
 - **Axis label** provides label to x-axis.
-- 
+
 - **Reference Line** is used to refer specific values by applying colors to it.
 
-- **Axis type** enables x-axis with indexed values or categorized dimension value and in time series format.
-
-- **X-Axis** enables you to display dimensions values in x-axis.
- 
 - **Show Grid** enables the grid display in bubble chart.
 
-![enter image description here](
 
 **03. Y-Axis :**
 
@@ -298,6 +279,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3ODkxMzA1LC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbLTQxNzEzMzQ0MywtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
