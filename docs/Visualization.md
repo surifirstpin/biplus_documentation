@@ -138,7 +138,7 @@ This section describes the editing option for bubble chart in visualization.
 
 ## Funnel chart :
 
-A funnel chart is composed from a single set of numbers and a single set of labels. In AcuBi, this information can be oriented vertically (one column with labels, and one column with numbers) or horizontally (a single row with numbers, and the column headers are the labels). The chart can work with both pivoted and non-pivoted data.
+A funnel chart is composed from a single set of numbers and a single set of labels. In AcuBi, this information can be aligned vertically (one column with labels, and one column with numbers) or horizontally (a single row with numbers, and the column headers are the labels). The chart can work with both pivoted and non-pivoted data.
 
 This section describes the editing option for bubble chart in visualization. 
  
@@ -293,6 +293,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzMyNjQxLC00NjI3NjYyMzUsMTI1Mj
+eyJoaXN0b3J5IjpbOTY2MTU0MjQzLC00NjI3NjYyMzUsMTI1Mj
 kwNDEyNV19
 -->
