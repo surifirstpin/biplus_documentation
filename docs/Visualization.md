@@ -104,17 +104,19 @@ This section describes the editing option for Pie chart in visualization.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/34c8d8bc129b2e32ded89f8d3f9816b6a8fd1624/images/radar_chart.png)
 
+- **Points** it will display the the data with points on the chart.
 
-- **Points** enables pointers at the field values using the following point styles ;
-   - Circle
-  -  Triangle
-  - Reet
+- **Point style** will specify how the data points will appear on chart. below are the following options are available. 
+  - Circle
+  - Triangle
+  - Rectangle
   - RectRot
   - Cross
-  - Cross Rot
+  - CrossRot
   - Star
   - Line
   - Dash
+
 - **Show legend** displays the measures values of the chart.
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 - **Reverse scale** it displays the reversible scale values of the radar chart.
@@ -245,7 +247,9 @@ Red color indicates the value attained is initial state or low.
 - **Padding** sets the spacing at the top,bottom,left and right side of the charts.
 
 - **Tooltips** points the first measure value of the column field.
+
 - **Grouped Tooltips** points all the measure values of the column field.
+
 **02.  X-Axis :**
 
 - **Axis type** type of axis used in the charts, for instance Indexed is used to refer the numeric values starting from zero, category refer to the field values of the column and timeframe refer to the time-format of the data.
@@ -275,6 +279,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjA5NTI0MywtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbNTA0MTE0OTY4LC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
