@@ -41,8 +41,9 @@ Let us see in detail how this charts works.
    - Area
    - Area-Spline
    - Area-Step
-   - Scatter 
-- Points
+   - Scatter
+    
+- Points it will display the the data with pints 
 ## Bar Chart 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/bar_chart.png)
@@ -239,6 +240,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjU4MTg1NzAsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbMjA2NzEzODUsLTQ2Mjc2NjIzNSwxMjUyOT
+A0MTI1XX0=
 -->
