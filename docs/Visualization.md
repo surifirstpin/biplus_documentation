@@ -147,7 +147,7 @@ The following section describes the editing option for bubble chart in visualiza
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caca3ad67049c43bc60a5fccae26182c81762732/images/funnel_chart.png)
 
-Using AcuBi you can view the funnel charts in different formats :
+Using AcuBi you can view the funnel charts in different formats using the below check boxes:
 
  - Sort 
  - Curved
@@ -294,6 +294,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzMyODkxNywtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTE3Mjg4MzA3ODgsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
