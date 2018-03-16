@@ -86,7 +86,7 @@ This section describes the editing option for Pie chart in visualization.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6921e2105eb29674d2f727201df80f5be58983d5/images/show_percentage.png)
 
--  On selecting the **check box** it enables the polar view for dimensions values in pie chart
+-  On selecting the **check box** it enables the polar view for dimensions values for the pie chart.
 
 Displays polar area of the dimensions
 
@@ -272,6 +272,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyOTQ0Njk0LC00NjI3NjYyMzUsMTI1Mj
+eyJoaXN0b3J5IjpbNDUzNzg3MDY3LC00NjI3NjYyMzUsMTI1Mj
 kwNDEyNV19
 -->
