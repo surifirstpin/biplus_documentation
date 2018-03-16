@@ -117,7 +117,7 @@ This section describes the editing option for Pie chart in visualization.
   - Line
   - Dash
   
-- **Reverse scale** on selecting the checkbox for reversible scale it displays the reversible values of the radar chart.
+- **Reverse scale** on selecting the checkbox the values shown in the chart will be reversed, i.e. if the 10 highest values are shown and the box is checked, then chart will  show the 10 lowest values.
 
 - **Show ticklabels** on selecting the checkbox for show ticklabels  it enabled measure values on y-axis.
 
@@ -284,6 +284,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzQ1NTEyOSwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTExNTQzNTc4OTAsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
