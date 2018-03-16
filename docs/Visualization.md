@@ -136,19 +136,11 @@ This section describes the editing option for bubble chart in visualization.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d07e80177a8a6fe04619cfb40058e9789b142e88/images/bubble_chart.png)
 
-### X-axis for bubble chart :
 
-- **Axis type** enables x-axis with indexed values or categorized dimension value and in time series format.
-
-- **X-Axis** enables you to display dimensions values in x-axis.
- 
-- **Show Grid** enables the grid display in bubble chart.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6ea6b74b687735d18f0b1009219c5a3de903411a/images/bubble_chart2.png)
 
 ### Y-axis for bubble chart :
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ca6272443bb686c3c41aa07bbd28a407c2238688/images/bubble_chart3.png)
+
 
 - **Axis** select the measures values in y-axis  to enable
 editing options for y-axis in bubble chart.
@@ -159,7 +151,6 @@ editing options for y-axis in bubble chart.
 - **Include Zero** displays values in y-axis starting from zero.
 
 ### Reference lines in bubble chart :
-  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ca6272443bb686c3c41aa07bbd28a407c2238688/images/bubble_chart4.png)
 
   - **Name** Provide a reference name.
   - **Type** specifies how y-axis scale is calculated and displayed, below are the options available to enable the scale type.
@@ -181,6 +172,11 @@ editing options for y-axis in bubble chart.
 
 ## Funnel chart :
 
+This section describes the editing option for bubble chart in visualization. 
+ 
+ **5.** To access the bubble chart click on **Bubble** tab under **general** section.
+ 
+ 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/funnel_chart.png)
 
 Bi+ provides an opportunity to view the funnel charts in different formats :**
@@ -265,9 +261,20 @@ Red color indicates the value attained is initial state or low.
 **02.  X-Axis :**
 
 - **Axis type** type of axis used in the charts, for instance Indexed is used to refer the numeric values starting from zero, category refer to the field values of the column and timeframe refer to the time-format of the data.
+
 - **Label field** label the field name in x-axis using grid display.
+
 - **Axis label** provides label to x-axis.
+- 
 - **Reference Line** is used to refer specific values by applying colors to it.
+
+- **Axis type** enables x-axis with indexed values or categorized dimension value and in time series format.
+
+- **X-Axis** enables you to display dimensions values in x-axis.
+ 
+- **Show Grid** enables the grid display in bubble chart.
+
+![enter image description here](
 
 **03. Y-Axis :**
 
@@ -291,6 +298,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODE2NjY5LC00NjI3NjYyMzUsMTI1Mj
+eyJoaXN0b3J5IjpbNzU3ODkxMzA1LC00NjI3NjYyMzUsMTI1Mj
 kwNDEyNV19
 -->
