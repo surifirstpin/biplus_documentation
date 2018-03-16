@@ -30,9 +30,9 @@ Let us see in detail how this charts works.
  
  **1.** To access the line chart click on **line** tab under **general** section.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/6904440c50633ac92f461d7b7f2fd2c2d0e9b7dc/images/line_chart.png)
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/line_chart.png)
- 
  ## Editing Options for Line Chart
  
  - **Line type** displays the information as a series of data points called markers. Below are the list of markers used in line chart ( spline acts as  default line type), 
@@ -239,6 +239,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDg5NjY4NiwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbOTI5Njk4NjU2LC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
