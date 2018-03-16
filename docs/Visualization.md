@@ -104,7 +104,7 @@ This section describes the editing option for Pie chart in visualization.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/34c8d8bc129b2e32ded89f8d3f9816b6a8fd1624/images/radar_chart.png)
 
-- **Points** it will display the the data with points on the chart.
+- **Points** on selecting the checkbox it displays the data with points on the chart.
 
 - **Point style** will specify how the data points will appear on chart. below are the following options are available. 
   - Circle
@@ -284,6 +284,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQzNTc4OTAsLTQ2Mjc2NjIzNSwxMj
+eyJoaXN0b3J5IjpbLTE1NjIxMzY3OTUsLTQ2Mjc2NjIzNSwxMj
 UyOTA0MTI1XX0=
 -->
