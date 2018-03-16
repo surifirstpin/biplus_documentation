@@ -119,9 +119,9 @@ This section describes the editing option for Pie chart in visualization.
   
 - **Reverse scale** on selecting the checkbox the values shown in the chart will be reversed, i.e. if the 10 highest values are shown and the box is checked, then chart will  show the 10 lowest values.
 
-- **Show ticklabels** on selecting the checkbox for show ticklabels  it enabled measure values on y-axis.
+- **Show ticklabels** on selecting the checkbox  it enables measure values on y-axis.
 
-- **Show arc lines** points the dimension fields in radar chart.
+- **Show arc lines** on selecting the checkbox it points the dimension fields in radar chart.
 
 - **Arc field** select the dimension field to apply arc lines.
 
@@ -284,6 +284,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQ5NDUwNDUsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbLTMzODUwOTc4MiwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
