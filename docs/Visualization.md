@@ -136,26 +136,6 @@ This section describes the editing option for bubble chart in visualization.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d07e80177a8a6fe04619cfb40058e9789b142e88/images/bubble_chart.png)
 
-### Reference lines in bubble chart :
-
-  - **Name** Provide a reference name.
-  - **Type** specifies how y-axis scale is calculated and displayed, below are the options available to enable the scale type.
-    - Linear
-    - Polynomial
-    - Exponential
-    - Logarithmic
-    - Average
-    - Median
-    - Min
-    - Max
-    - Deviation
-    - Variance 
-    - Custom Line
-    - Custom Area
-    
-- **Data Field** select the measure value which is to be referred.
-- **Theme** choose the color for reference lines.
-
 ## Funnel chart :
 
 This section describes the editing option for bubble chart in visualization. 
@@ -289,6 +269,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjcxNDU0MTcsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbMTg0NTA4MzUxNiwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
