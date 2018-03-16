@@ -125,7 +125,7 @@ This section describes the editing option for Pie chart in visualization.
 
 - **Arc field** select the dimension field to apply arc lines.
 
-- **Curve** it maximum and minimize the measure values.
+- **Curve** it maximum and minimize the radar chart.
 
 ## Bubble chart :
 
@@ -284,6 +284,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY4NjQ2MDYsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbLTk1Njg3OTg0LC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
