@@ -165,10 +165,14 @@ Using AcuBi you can view the funnel charts in different formats using the below 
 
  - **Load Animation** on selecting the check box the column values in funnel chart will appear as moving image.
 
+
+
+
+##  Gauge Chart :
+
 This section describes the editing option for bubble chart in visualization. 
  
- **7.** To access the bubble chart click on **Bubble** tab under **general** section.##  Gauge Chart :
-
+ **7.** To access the guage chart click on **guage** tab under **general** section.
 
 Green color indicates the value attained is closer to target.
 ![
@@ -303,6 +307,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODc1MzMzMiwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbMTg3MDAzMTQxMCwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
