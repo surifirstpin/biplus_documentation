@@ -149,9 +149,11 @@ The following section describes the editing option for bubble chart in visualiza
 
 Using AcuBi you can view the funnel charts in different formats using the below check boxes:
 
- - **Sort** on selecting the check box it enables data in the sorted order in funnel chart. 
- - **Curved** 
- - Pinched 
+ - **Sort** on selecting the check box it enables data in the sorted order in funnel chart.
+  
+ - **Curved** on selecting the check boxes it will display the funnel chart in curved view.
+ 
+ - **Pinched**  
  - Inverted
  - Highlight on Hover 
  - Dynamic Height   
@@ -294,6 +296,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjEwMDI4OCwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTE1NDgzNzA4MDgsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
