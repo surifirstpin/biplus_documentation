@@ -11,6 +11,7 @@ On Analysis page click on visualization **(Replace with charts)**  tab to config
 ## Types of Visualization
 
 AcuBi has different type of visualization charts, which are used based on the priority on what specific information you want to view about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. AcuBI right now has an ability to visualize the data in 10 different types with some standard editing options.
+
  - Line
  - Bar
  - Pie
@@ -22,35 +23,8 @@ AcuBi has different type of visualization charts, which are used based on the pr
  - Widget
  - World
  
-**01. General Section :**
 
-- **Title** label for chart and align them in top,bottom,left,right position.
-- **Padding** sets the spacing at the top,bottom,left and right side of the charts.
 
-**02.  X-Axis :**
-
-- **Axis type** type of axis used in the charts, for instance Indexed is used to refer the numeric values starting from zero, category refer to the field values of the column and timeframe refer to the time-format of the data.
-- **Label field** label the field name in x-axis using grid display.
-- **Axis label** provides label to x-axis.
-- **Reference Line** is used to refer specific values by applying colors to it.
-
-**03. Y-Axis :**
-
-- **Axis type** type of axis used in charts.
-- **Label field** label the field name in Y-axis using grid display, including or excluding zero and aligning left or right position to y-axis.
-- **Reference Line**  is used to refer specific values by applying colors to it.
-
-## Format   
-
-**4. Format Section :**        
-
-- **Condition** Select the condition to apply on specific field.
-- **Format on** enables the format on specific measure.
-- **Value** Specify a value to which condition should be applied. 
-- **BG (background colour)** Select the background colour for the data which is retrieved using condition.
-- **Font** Select the font colour for the data retrieved based on condition.
-- **Icon** Select a icon for the data retrieved based on condition.
-- **Before number** Align the icon before or after the data.
 
 ## Line Chart in visualization menu:
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/line_chart.png)
@@ -224,11 +198,12 @@ Red color indicates the value attained is initial state or low.
 - **Negative Cutoff** enabled when negatives values are applicable.
 - **Negative colour-from & to** Specify colour for negative values.
 
+##
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTczMjM2ODIsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbMzkzNzUxNDMzLC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
