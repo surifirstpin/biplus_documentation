@@ -131,7 +131,8 @@ This section describes the editing option for Pie chart in visualization.
 
 This section describes the editing option for bubble chart in visualization. 
  
- **5.** To access the bubble chart click on **Radar** tab under **general** section.
+ **5.** To access the bubble chart click on **Bubble** tab under **general** section.
+ 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d07e80177a8a6fe04619cfb40058e9789b142e88/images/bubble_chart.png)
 
@@ -290,6 +291,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzMwNzIzNywtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTI4ODE2NjY5LC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
