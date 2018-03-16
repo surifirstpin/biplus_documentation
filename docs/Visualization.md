@@ -161,7 +161,7 @@ Using AcuBi you can view the funnel charts in different formats using the below 
  
  - **Dynamic Height** on selecting the check box it will display the height as per the values in funnel chart. For example higher value is referred with more height and lower value is referred with low height.
  
- -**Dynamic Slope** on selecting the checkbox it will display the potential covered based on the value.For example higher value is referred with more height and lower value is referred with low height.
+ -**Dynamic Slope** on selecting the checkbox it will display the potential covered based on the value.For example higher value is referred with bigger slope and lower value is referred with smaller slope.
     
  - Dynamic Slop 
  - Load Animation
@@ -302,6 +302,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTEyNTk1MjQsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbMTA5NTU4MTAyNywtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
