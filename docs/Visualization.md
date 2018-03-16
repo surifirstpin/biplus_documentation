@@ -149,7 +149,7 @@ The following section describes the editing option for bubble chart in visualiza
 
 Using AcuBi you can view the funnel charts in different formats using the below check boxes:
 
- - Sort 
+ - **Sort** on selecting the check box it enables the sorted order for the val 
  - Curved
  - Pinched 
  - Inverted
@@ -294,6 +294,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjg4MzA3ODgsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbLTUzNDA2OTQ0MSwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
