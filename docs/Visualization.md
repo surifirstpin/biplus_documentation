@@ -66,6 +66,8 @@ Let us see in detail how this charts works.
  
  **2.** To access the bar chart click on **Bar** tab under **general** section.
  
+ ![
+](https://raw.githubusercontent.com/sv18042016/fp1/c21c91b0c8f9e243362fbefc44279936c6021d12/images/bar_chart.png)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/bar_chart.png)
 
 ## Pie Chart :
@@ -261,6 +263,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2OTk5NDc0LC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbMjEzNDU5OTk4NCwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
