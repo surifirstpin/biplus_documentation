@@ -119,7 +119,7 @@ This section describes the editing option for Pie chart in visualization.
   
 - **Reverse scale** it displays the reversible scale values of the radar chart.
 
-- **Show ticklabels** displays the points in y-axis.
+- **Show ticklabels** displays the values of measures in y-axis.
 
 - **Show arc lines** points the dimension fields in radar chart.
 
@@ -284,6 +284,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzNTgyODM4LC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbLTczMTEyMzk0OSwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
