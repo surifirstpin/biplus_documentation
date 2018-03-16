@@ -153,7 +153,8 @@ Using AcuBi you can view the funnel charts in different formats using the below 
   
  - **Curved** on selecting the check boxes it will display the funnel chart in curved view.
  
- - **Pinched**  
+ - **Pinched** on selecting this check box it will display the compressed view of the funnel chart.
+ -  
  - Inverted
  - Highlight on Hover 
  - Dynamic Height   
@@ -296,6 +297,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDgzNzA4MDgsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbMTAwMzU3MzE2MSwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
