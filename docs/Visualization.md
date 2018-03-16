@@ -168,9 +168,8 @@ Using AcuBi you can view the funnel charts in different formats using the below 
 ##  Gauge Chart :
 
 Green color indicates the value attained is closer to target.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3ab8a101cb46871444f60f0e5b10e81a6785a826/images/guage.png)
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/d48b5330b04434d91eb267dac601af036d2ccb8a/images/guage.png)
 Orange color indicates the value attained is half the way to target.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/671476ecbe2c70dcf89cc72f25b75ba5b4dafe41/images/guage_mediN.png)
 
@@ -301,6 +300,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzAwMzE3MCwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTE4NTQ5MjU5OTYsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
