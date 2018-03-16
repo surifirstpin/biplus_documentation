@@ -10,8 +10,7 @@ On Analysis page click on Charts   tab to configure visualization option for the
 
 ## Types of Visualization
 
-AcuBi has different type of visualization charts, which are used based on the priority of what specific information you want to view about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. AcuBI right now has an ability to visualize the data in 10 different types with some standard editing options.
-
+AcuBi has different type of visualization charts, which are used based on the priority of what specific information you want to view about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. AcuBI right now has an ability to visualize the data in 10 different types of charts with some standard editing options.
  - Line
  - Bar
  - Pie
@@ -23,6 +22,7 @@ AcuBi has different type of visualization charts, which are used based on the pr
  - Widget
  - World
 
+Let us see in detail how this charts works.
 
 ## Line Chart
  
@@ -239,6 +239,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTk1OTE5NDUsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbLTkxMTQ5NDIyNiwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
