@@ -79,12 +79,11 @@ This section describes the editing option for Pie chart in visualization.
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f52c167aa93a715736ed2800ae5ca56675c54e42/images/pie_chart.png)
 
-- **Show percentage**  displays measure percentage in pie chart
-
-
-
-
-## Polar Area
+ ## Editing Options for Line Chart
+ 
+- **Show percentage**  displays measure percentage in pie chart.
+- 
+### Polar Area
 
 Displays polar area of the dimensions
 
@@ -270,6 +269,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODI3MTYwNjQsLTQ2Mjc2NjIzNSwxMj
+eyJoaXN0b3J5IjpbLTE1MDI4ODQwMDMsLTQ2Mjc2NjIzNSwxMj
 UyOTA0MTI1XX0=
 -->
