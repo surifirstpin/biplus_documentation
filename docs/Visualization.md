@@ -159,7 +159,10 @@ Using AcuBi you can view the funnel charts in different formats using the below 
  
  - **Highlight on Hover**  on selecting the check box it will highlight each section by placing a cursor on it.
  
- - **Dynamic Height** on selecting the check box it will display the height as per the values in funnel chart. For example higher value is referred with more height and lower va   
+ - **Dynamic Height** on selecting the check box it will display the height as per the values in funnel chart. For example higher value is referred with more height and lower value is referred with low height.
+ 
+ -** 
+    
  - Dynamic Slop 
  - Load Animation
 
@@ -299,6 +302,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTAwNjAyOSwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbMTQ3Mzg0NzQwNiwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
