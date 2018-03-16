@@ -263,6 +263,16 @@ Red color indicates the value attained is initial state or low.
 - **Label field** label the field name in Y-axis using grid display, including or excluding zero and aligning left or right position to y-axis.
 - **Reference Line**  is used to refer specific values by applying colors to it.
 
+
+- **Axis** select the measures values in y-axis  to enable
+editing options for y-axis in bubble chart.
+- **Format** enables number format for measure values.
+- **Currency** enables the currency format for measures values in y-axis.
+- **Y-Axis** display measure values in Y-axis. 
+- **Show Grid** enables the grid display for measures in y-axis.
+- **Include Zero** displays values in y-axis starting from zero.
+
+
 ## Format   
 
 **04. Format Section :**        
@@ -279,6 +289,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzEzMzQ0MywtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTEzMjcxNDU0MTcsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
