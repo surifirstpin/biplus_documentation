@@ -22,6 +22,7 @@ AcuBi has different type of visualization charts, which are used based on the pr
  - Widget
  - World
 
+> **Note :** Some of the options in editing list might be hidden or grayed in situations where they would conflict with other settings you have chosen.
 Let us see in detail how this charts works.
 
 ## Line Chart
@@ -57,8 +58,6 @@ Let us see in detail how this charts works.
   - Star
   - Line
   - Dash
-
-
 
 ## Bar Chart 
 
@@ -269,6 +268,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjU1NDEyMjUsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbLTYyODE4ODk5NywtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
