@@ -225,6 +225,7 @@ Red color indicates the value attained is initial state or low.
 **01. General Section :**
 
 - **Title** label for chart and align them in top,bottom,left,right position.
+
 - **Padding** sets the spacing at the top,bottom,left and right side of the charts.
 
 **02.  X-Axis :**
@@ -256,6 +257,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzQwMzA3LC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbMTYxMDI3MDQ2NSwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
