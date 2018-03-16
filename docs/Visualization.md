@@ -5,7 +5,8 @@ AcuBi has an ability to create graphics and charts based on the result obtained.
 
 
 ## Add Life to Data
-The Analysis section in 
+
+The Analysis section in Acubi will make you immedietly add and 
 In Acubi the query result and visualization configuration seen together when you run the query, So that users can see the data and picture together for better understanding.
 
 ## Types of Visualization
@@ -219,6 +220,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzNDczNTYwLC00NjI3NjYyMzUsMTI1Mj
+eyJoaXN0b3J5IjpbMzkyNzM5NzE4LC00NjI3NjYyMzUsMTI1Mj
 kwNDEyNV19
 -->
