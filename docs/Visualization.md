@@ -86,12 +86,12 @@ This section describes the editing option for Pie chart in visualization.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6921e2105eb29674d2f727201df80f5be58983d5/images/show_percentage.png)
 
-- **Polar Area** On selecting the polar area **Check Box** it enables the polar view for dimensions of the pie chart.
+- **Polar Area** On selecting the polar area **Check Box** it enables the polar view for each dimensions in pie chart.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ca8620aee571293baafa06532397667001086ceb/images/polar_area.png)
 
--  **Donut** On selecting the donut **Check Box** it enables the donut view for each dimensions in the pie chart.
+-  **Donut** On selecting the donut **Check Box** it enables the donut view for each dimensions in pie chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/donut.png)
 
@@ -269,6 +269,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTU5MTA3OCwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTIwNjU1NDEyMjUsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
