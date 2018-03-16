@@ -28,7 +28,7 @@ Let us see in detail how this charts works.
  
  This section describes the editing option for line chart in visualization. 
  
- **1.** To access the **line** chart click on **line** tab under general section.
+ **1.** To access the line chart click on **line** tab under **general** section.
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/line_chart.png)
@@ -239,6 +239,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5MzAxOTM0LC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbMTI1MDg5NjY4NiwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
