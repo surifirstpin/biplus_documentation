@@ -33,10 +33,9 @@ AcuBi has different type of visualization charts, which are used based on the pr
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/line_chart.png)
  
- ## 
- - **Line type** displays the information as a series of data points called markers.
+ ## Editing Options for Line Chart
  
-Below are the list of markers used in Bi+ (uses spline as default line type), 
+ - **Line type** displays the information as a series of data points called markers. Below are the list of markers used in line chart ( spline acts as  default line type), 
    - Spline 
    - Step
    - Area
@@ -240,6 +239,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk5NTg1MywtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbNTkwOTAyNDk3LC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
