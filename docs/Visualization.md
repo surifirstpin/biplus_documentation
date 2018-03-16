@@ -81,7 +81,9 @@ This section describes the editing option for Pie chart in visualization.
 
  ## Editing Options for Line Chart
  
-- **Show percentage**  displays measure percentage in pie chart.
+- **Show percentage**  displays percentage for each measure value in pie chart, as shown below
+
+
 - 
 ### Polar Area
 
@@ -269,6 +271,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDI4ODQwMDMsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbMTc0MTU0MTgwMiwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
