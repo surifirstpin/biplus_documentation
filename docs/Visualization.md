@@ -157,7 +157,7 @@ Using AcuBi you can view the funnel charts in different formats using the below 
   
  - **Inverted** on selecting the check box it will display the funnel chart in reversed or bottom up position.
  
- - **Highlight on Hover 
+ - **Highlight on Hover**  
  - Dynamic Height   
  - Dynamic Slop 
  - Load Animation
@@ -298,6 +298,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzEyNDUzLC00NjI3NjYyMzUsMTI1Mj
+eyJoaXN0b3J5IjpbNDA4NTYxNzc3LC00NjI3NjYyMzUsMTI1Mj
 kwNDEyNV19
 -->
