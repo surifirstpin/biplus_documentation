@@ -155,7 +155,7 @@ Using AcuBi you can view the funnel charts in different formats using the below 
  
  - **Pinched** on selecting this check box it will display the compressed view of the funnel chart.
   
- - Inverted
+ - **Inverted**
  - Highlight on Hover 
  - Dynamic Height   
  - Dynamic Slop 
@@ -297,6 +297,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTEyMzE0NSwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTEzMzkzMDk1NTksLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
