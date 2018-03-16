@@ -97,7 +97,12 @@ This section describes the editing option for Pie chart in visualization.
 
 ## Radar chart 
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/radar_chart.png)
+This section describes the editing option for Pie chart in visualization. 
+ 
+ **4.** To access the Radar chart click on **Radar** tab under **general** section.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/34c8d8bc129b2e32ded89f8d3f9816b6a8fd1624/images/radar_chart.png)
 
 - **Tooltips** points the first measure value of the column field.
 - **Grouped Tooltips** points all the measure values of the column field.
@@ -269,6 +274,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTE1MzYxMywtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbLTgwNjkwMDAyNywtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
