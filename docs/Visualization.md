@@ -3,6 +3,8 @@
 
 AcuBi has an ability to create graphics and charts based on the result obtained. Visualization sections displays different type of pictorial representation of the data. In Acubi the query result and visualization configuration seen together when you run the query, So that users can see the data and picture together for better understanding.
 
+## Add Life to Data
+
 ## Types of Visualization
 
 Bi+ has an ability to show the data in 9 different chart types with some standard editing options.
@@ -214,6 +216,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwMTAxMTI4LC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbMTEyNTg4ODQxMiwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
