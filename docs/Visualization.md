@@ -142,7 +142,7 @@ A funnel chart is composed from a single set of numbers and a single set of labe
 
 The following section describes the editing option for bubble chart in visualization. 
  
- **5.** To access the bubble chart click on **Bubble** tab under **general** section.
+ **6.** To access the bubble chart click on **Bubble** tab under **general** section.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caca3ad67049c43bc60a5fccae26182c81762732/images/funnel_chart.png)
@@ -165,7 +165,10 @@ Using AcuBi you can view the funnel charts in different formats using the below 
 
  - **Load Animation** on selecting the check box the column values in funnel chart will appear as moving image.
 
-##  Gauge Chart :
+This section describes the editing option for bubble chart in visualization. 
+ 
+ **7.** To access the bubble chart click on **Bubble** tab under **general** section.##  Gauge Chart :
+
 
 Green color indicates the value attained is closer to target.
 ![
@@ -300,6 +303,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQ5MjU5OTYsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbLTczODc1MzMzMiwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
