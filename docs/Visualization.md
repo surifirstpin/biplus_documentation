@@ -10,7 +10,7 @@ On Analysis page click on visualization **(Replace with charts)**  tab to config
 
 ## Types of Visualization
 
-AcuBi has different type of visualization charts, which are used based on the priority on what specific information you want to view.
+AcuBi has different type of visualization charts, which are used based on the priority on what specific information you want to view about the data retrieved. Each type of visualisation have different setting which can be customised 
 Looker has many different visualizations you can use to make sense of your data. Each type of visualization has different settings you can use to customize its appearance. Use the links below to get information about each visualization and its settings.
 
 Bi+ has an ability to show the data in 9 different chart types with some standard editing options.
@@ -222,6 +222,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDAxODMxMSwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbMTA2NzU2OTEyNSwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
