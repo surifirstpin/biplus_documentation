@@ -253,6 +253,28 @@ editing options for y-axis in bubble chart.
 - **Include Zero** displays values in y-axis starting from zero.
 
 
+
+### Reference lines in bubble chart :
+
+  - **Name** Provide a reference name.
+  - **Type** specifies how y-axis scale is calculated and displayed, below are the options available to enable the scale type.
+    - Linear
+    - Polynomial
+    - Exponential
+    - Logarithmic
+    - Average
+    - Median
+    - Min
+    - Max
+    - Deviation
+    - Variance 
+    - Custom Line
+    - Custom Area
+    
+- **Data Field** select the measure value which is to be referred.
+- **Theme** choose the color for reference lines.
+
+
 ## Format   
 
 **04. Format Section :**        
@@ -269,6 +291,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTA4MzUxNiwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbMTI1Mzc5MzUzMywtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
