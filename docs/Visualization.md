@@ -10,6 +10,9 @@ On Analysis page click on visualization **(Replace with charts)**  tab to config
 
 ## Types of Visualization
 
+AcuBi has different type of 
+Looker has many different visualizations you can use to make sense of your data. Each type of visualization has different settings you can use to customize its appearance. Use the links below to get information about each visualization and its settings.
+
 Bi+ has an ability to show the data in 9 different chart types with some standard editing options.
 
 **01. General Section :**
@@ -219,6 +222,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTUzNjgyMCwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbMTEyODQ0NjM2MywtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
