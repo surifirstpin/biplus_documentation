@@ -75,10 +75,12 @@ Let us see in detail how this charts works.
 This section describes the editing option for Pie chart in visualization. 
  
  **3.** To access the Pie chart click on **Pie** tab under **general** section.
- 
+ ![
+](https://raw.githubusercontent.com/sv18042016/fp1/f52c167aa93a715736ed2800ae5ca56675c54e42/images/pie_chart.png)
+
 - **Show percentage**  displays measure percentage in pie chart
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/pie_chart.png)
+
 
 
 ## Polar Area
@@ -267,6 +269,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjMyMDg3NCwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbLTI3NjEzNDM5MiwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
