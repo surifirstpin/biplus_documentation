@@ -10,8 +10,8 @@ On Analysis page click on visualization **(Replace with charts)**  tab to config
 
 ## Types of Visualization
 
-AcuBi has different type of visualization charts, which are used based on the priority on what specific information you want to view about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. AcuBI right now has an ability to visualize the data in 9 different chart types with some standard editing options.
- - 
+AcuBi has different type of visualization charts, which are used based on the priority on what specific information you want to view about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. AcuBI right now has an ability to visualize the data in 10 different types with some standard editing options.
+ - Li
 **01. General Section :**
 
 - **Title** label for chart and align them in top,bottom,left,right position.
@@ -219,6 +219,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTc4NjA3NSwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbLTYxMzY5ODM5MCwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
