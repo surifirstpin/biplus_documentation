@@ -47,9 +47,14 @@ Let us see in detail how this charts works.
 
 - **Point style** will specify how the data points will appear on chart. the following options are available. 
   - Circle
-  - traingle
-  - rectangle
-  - 
+  - Triangle
+  - Rectangle
+  - RectRot
+  - Cross
+  - CrossRot
+  - Star
+  - Line
+  - Dash
 
 
 
@@ -249,6 +254,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjMyNjM2NywtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTE4NTg4NTYyMzAsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
