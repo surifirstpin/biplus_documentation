@@ -142,8 +142,8 @@ This section describes the editing option for bubble chart in visualization.
  
  **5.** To access the bubble chart click on **Bubble** tab under **general** section.
  
- 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/funnel_chart.png)
+ ![
+](https://raw.githubusercontent.com/sv18042016/fp1/caca3ad67049c43bc60a5fccae26182c81762732/images/funnel_chart.png)
 
 Bi+ provides an opportunity to view the funnel charts in different formats :**
  - Sort 
@@ -291,6 +291,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Mzc5MzUzMywtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTE5OTcyMDA2MzAsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
