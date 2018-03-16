@@ -116,13 +116,15 @@ This section describes the editing option for Pie chart in visualization.
   - Star
   - Line
   - Dash
-
-- **Show legend** displays the measures values of the chart.
-- **Position** Align the legend at top,bottom,left and right side of the chart.
+  
 - **Reverse scale** it displays the reversible scale values of the radar chart.
+
 - **Show ticklabels** displays the points in y-axis.
+
 - **Show arc lines** points the dimension fields in radar chart.
+
 - **Arc field** select the dimension field to apply arc lines.
+
 - **Curve** it maximum and minimize the measure values.
 
 ## Bubble chart :
@@ -250,6 +252,9 @@ Red color indicates the value attained is initial state or low.
 
 - **Grouped Tooltips** points all the measure values of the column field.
 
+- **Show legend** displays the measures values of the chart.
+- **Position** Align the legend at top,bottom,left and right side of the chart.
+
 **02.  X-Axis :**
 
 - **Axis type** type of axis used in the charts, for instance Indexed is used to refer the numeric values starting from zero, category refer to the field values of the column and timeframe refer to the time-format of the data.
@@ -279,6 +284,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0MTE0OTY4LC00NjI3NjYyMzUsMTI1Mj
+eyJoaXN0b3J5IjpbNDYzNTgyODM4LC00NjI3NjYyMzUsMTI1Mj
 kwNDEyNV19
 -->
