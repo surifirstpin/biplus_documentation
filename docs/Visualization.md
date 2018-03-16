@@ -129,7 +129,11 @@ This section describes the editing option for Pie chart in visualization.
 
 ## Bubble chart :
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/bubble_chart.png)
+This section describes the editing option for bubble chart in visualization. 
+ 
+ **5.** To access the bubble chart click on **Radar** tab under **general** section.
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/d07e80177a8a6fe04619cfb40058e9789b142e88/images/bubble_chart.png)
 
 ### X-axis for bubble chart :
 
@@ -286,6 +290,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzczODA1OTQsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbLTc3MzMwNzIzNywtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
