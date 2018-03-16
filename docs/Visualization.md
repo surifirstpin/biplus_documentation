@@ -43,8 +43,9 @@ Let us see in detail how this charts works.
    - Area-Step
    - Scatter
     
-- Points it will display the the data with points on the chart.
-- **Point style 
+- **Points** it will display the the data with points on the chart.
+
+- **Point style** will specify how the data points will appear on chart. the following options are available. 
 ## Bar Chart 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/bar_chart.png)
@@ -241,6 +242,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTM4MDU1NiwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbNDgyNDE3NTkwLC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
