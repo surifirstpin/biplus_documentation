@@ -33,6 +33,7 @@ Let us see in detail how this charts works.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6904440c50633ac92f461d7b7f2fd2c2d0e9b7dc/images/line_chart.png)
 
+Som of the fields for editing might dissappers or turn disabled and grayed this i
  ## Editing Options for Line Chart
  
  - **Line type** displays the information as a series of data points called markers. Below are the list of markers used in line chart ( spline acts as  default line type), 
@@ -254,6 +255,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTg4NTYyMzAsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbMTEzNjExOTE0LC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
