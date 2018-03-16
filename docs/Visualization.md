@@ -1,7 +1,7 @@
 <center><h1>Visualization</h1></center>
 
 
-AcuBi has an ability to create graphics and charts based on the result obtained from a query. Visualization sections displays different type of pictorial representation of the data with better understanding.
+AcuBi has an ability to create graphics and charts based on the result obtained from a query. Visualization sections displays different type of pictorial representation of the data with better understanding. In Acubi the query result and 
 
 ## Types of Visualization
 
@@ -214,6 +214,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0NTg0MDAwLC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbLTE1NjczNzA5MTAsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
