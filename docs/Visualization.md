@@ -47,7 +47,7 @@ Let us see in detail how this charts works.
     
 - **Points** it will display the the data with points on the chart.
 
-- **Point style** will specify how the data points will appear on chart. the following options are available. 
+- **Point style** will specify how the data points will appear on chart. below are the following options are available. 
   - Circle
   - Triangle
   - Rectangle
@@ -256,6 +256,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTE3NTY4OCwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbMTUxNzQwMzA3LC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
