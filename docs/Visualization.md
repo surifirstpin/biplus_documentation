@@ -134,7 +134,9 @@ This section describes the editing option for Pie chart in visualization.
 ### X-axis for bubble chart :
 
 - **Axis type** enables x-axis with indexed values or categorized dimension value and in time series format.
-- **X-Axis** enables you to display dimensions values in x-axis. 
+
+- **X-Axis** enables you to display dimensions values in x-axis.
+ 
 - **Show Grid** enables the grid display in bubble chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6ea6b74b687735d18f0b1009219c5a3de903411a/images/bubble_chart2.png)
@@ -284,6 +286,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODUwOTc4MiwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTE0NzczODA1OTQsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
