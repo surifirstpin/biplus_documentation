@@ -81,7 +81,10 @@ This section describes the editing option for Pie chart in visualization.
 
  ## Editing Options for Line Chart
  
-- **Show percentage**  displays percentage for each measure value in pie chart. To enable it select as shown below
+- **Show percentage**  displays percentage for each measure value in pie chart. To enable it select the **Check Box** show percentage as shown below;
+
+
+
 
 
 - 
@@ -271,6 +274,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzQ5NDUwMSwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbMTEzMTMyNzQ3MSwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
