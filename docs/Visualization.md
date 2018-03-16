@@ -174,7 +174,7 @@ Green color indicates the value attained is closer to target.
 Orange color indicates the value attained is half the way to target.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/671476ecbe2c70dcf89cc72f25b75ba5b4dafe41/images/guage_mediN.png)
 
-Red color indicates the value attained is initial state or low. 
+Red color indicates the value attained is initial state or lower side to reach the target. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/671476ecbe2c70dcf89cc72f25b75ba5b4dafe41/images/GUAGE_LOW.png)
 
@@ -301,6 +301,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjA1NjYsLTQ2Mjc2NjIzNSwxMjUyOT
-A0MTI1XX0=
+eyJoaXN0b3J5IjpbMTExMzAwMzE3MCwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
