@@ -62,8 +62,8 @@ Let us see in detail how this charts works.
 
 ## Bar Chart 
 
- This section describes the editing option for Bar chart in visualization. 
- 
+Bar charts are the standard for looking at a specific value across different categories.
+
  **2.** To access the bar chart click on **Bar** tab under **general** section.
  
  ![
@@ -332,6 +332,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MzUxOTY4MCwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTEzNzcwOTk1MTcsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
