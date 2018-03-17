@@ -203,6 +203,8 @@ Gauge chart displays current status in the context of goal.
 
 ## Table chart :
  
+Tables work well with quantitative comparisons where you are looking at many values for a single category. For example, this table displays 2 different measures for **y**.
+ 
  **8.** To access the table  click on **Table** tab under **general** section.
 
 ![
@@ -332,6 +334,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzcwOTk1MTcsLTQ2Mjc2NjIzNSwxMj
+eyJoaXN0b3J5IjpbLTE4OTA4NzI5MDcsLTQ2Mjc2NjIzNSwxMj
 UyOTA0MTI1XX0=
 -->
