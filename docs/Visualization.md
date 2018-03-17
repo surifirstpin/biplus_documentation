@@ -298,13 +298,14 @@ his section describes the editing option for Gauge chart in visualization.
 
 - **Axis label** Text label for x-axis.
 
-- **Reference Line** is used to refer specific values in the x-axis.
+###bReference Lines
+- **Reference Line** is used to refer specific values in the Y-axis.
 
   - **Reference** specify a indicator name. 
   
   - **Type** specify reference type as line or  area.
   
-  -  **From & to** specify the reference line for specific range of measure values.
+  -  **From & to** specify the reference line for specific range of dimensions.
 
   - **Theme** enables colour for reference line.
  
@@ -333,7 +334,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Name** specify a reference name for specific information on y-axis.
   
-  - **Type** specify minimum, maximum, deviation, variance, custom line, custom area on Y-ax
+  - **Type** specify minimum, maximum, deviation, variance, custom line, custom area on Y-axis.
   
   -  **From & to** specify the reference line for specific range of measure values.
 
@@ -379,6 +380,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzY3OTA2OSwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbLTUwNDQ0NzI4OCwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
