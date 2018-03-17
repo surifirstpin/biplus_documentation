@@ -312,7 +312,7 @@ his section describes the editing option for Gauge chart in visualization.
  
  > **Note:**  X-Axis is enabled only for Line, Bar and Bubble chart only.
 
-### Y-Axis
+## Y-Axis
 
 - **Axis** select the measures values on y-axis  to enable
 editing options for y-axis in Line, Bar and bubble chart.
@@ -360,6 +360,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzI5NTIzNCwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbLTM0MTgwNTkwNywtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
