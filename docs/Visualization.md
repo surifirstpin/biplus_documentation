@@ -312,12 +312,8 @@ his section describes the editing option for Gauge chart in visualization.
 
 ### Y-Axis
 
-- **Axis type** type of axis used in charts.
-- **Label field** label the field name in Y-axis using grid display, including or excluding zero and aligning left or right position to y-axis.
-- **Reference Line**  is used to refer specific values by applying colors to it.
-
-- **Axis** select the measures values in y-axis  to enable
-editing options for y-axis in bubble chart.
+- **Axis** select the measures values on y-axis  to enable
+editing options for y-axis in Line, Bar and bubble c.
 - **Format** enables number format for measure values.
 - **Currency** enables the currency format for measures values in y-axis.
 - **Y-Axis** display measure values in Y-axis. 
@@ -364,6 +360,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjAwODEwMSwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbMTMzNDE0ODQ1LC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
