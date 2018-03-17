@@ -358,10 +358,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Icon** Select a icon for the data retrieved based on condition.
 
-- **Before number** Align the icon before or after the data.
+- **Before number** align the icon before or after the data.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjExNDU4MDQsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbMTYyNDc0Nzg2MCwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
