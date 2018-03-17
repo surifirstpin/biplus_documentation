@@ -298,7 +298,8 @@ his section describes the editing option for Gauge chart in visualization.
 
 - **Axis label**  specify a text label for x-axis 
 
-- **Reference Line** is used to refer specific values by applying colors to it.
+- **Reference Line** is used to refer specific values in the x-axis.
+  - **Refrence**
 
 
 **03. Y-Axis :**
@@ -356,6 +357,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjUzOTg5NSwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbNTY3ODU1MDk1LC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
