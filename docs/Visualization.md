@@ -254,7 +254,8 @@ his section describes the editing option for Gauge chart in visualization.
 
 - **Tip Fields** select numbers of data fields to be displayed on map.
 
-- **Colour Field** specifies which field to be co loured.
+- **Colour Field** specifies which field to be coloured.
+
 - **Colour** defines the colors that will be used to indicate each region.
 
 - **From & To** select the data field range to be colored.
@@ -345,6 +346,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTM4NzM5NiwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTU4NjM4MzgyLC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
