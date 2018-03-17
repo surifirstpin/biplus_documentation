@@ -327,9 +327,19 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Include Zero** displays measure values starting from zero.
 
-- **Position** you can 
+- **Position** you can can align the y-axis to left or right side of the chart.
 
+- **Reference Line** is used to refer specific values on Y-axis.
 
+  - **Reference** specify a indicator name. 
+  
+  - **Type** specify reference type as line or  area.
+  
+  -  **From & to** specify the reference line for specific range of measure values.
+
+  - **Theme** enables colour for reference line.
+ 
+ > **Note:**  X-Axis is enabled only for Line, Bar and Bubble chart only.
 ### Reference lines in bubble chart :
 
   - **Name** Provide a reference name.
@@ -369,6 +379,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDA1MDQ3NCwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTE1MTM2Mzk4MDAsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
