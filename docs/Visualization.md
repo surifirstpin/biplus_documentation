@@ -288,9 +288,10 @@ his section describes the editing option for Gauge chart in visualization.
 
   - **Indexed** is used to refer the numeric values starting from zero.
    
-  - **Category** refer to the field values of the column.
+  - **Category** specifies the data to be plotted.
   
   - **Timeseries** specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
+ 
 - **Label field** label the field name in x-axis using grid display.
 
 - **Axis label** provides label to x-axis.
@@ -355,6 +356,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4ODA3NzQ0LC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbMTIxOTk1Mzk2OCwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
