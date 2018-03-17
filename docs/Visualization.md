@@ -189,7 +189,7 @@ This section describes the editing option for Gauge chart in visualization.
 
 - **Title** specify a title.
 
-- **
+- **Label** specify a identifier name the way 
 - **Donut** displays total measure value.
 - **Counter** displays all the values starting from minimum to maximum.
 - **Reverse** displays maximum to minimum value.
@@ -310,6 +310,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzUzMzg2NTIsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbMjAzNzQ2NTU2LC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
