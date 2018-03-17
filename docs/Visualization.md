@@ -5,7 +5,7 @@ AcuBi has an ability to create graphics and charts based on the result obtained.
 
 ## Adding Life to Data
 
-Analysis section in Acubi will immediately create an impressive and good looking charts for the data obtained from a query, in fraction of seconds. The query result and visualization configuration are seen together when you run the query, So that users can see the data and picture together for better understanding.
+Analysis section in Acubi will create an impressive and good looking charts simultaneously with the data obtained from a query, in fraction of seconds. The query result and visualization configuration are seen together when you run the query, So that users can see the data and picture together for better understanding.
 
 On Analysis page click on Charts   tab to configure visualization option for the result obtained. Under general section click on the type of visualization chart you want to view.
 
@@ -362,6 +362,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxNDUzNzE2LC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbLTg1MjcwMzg2NSwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
