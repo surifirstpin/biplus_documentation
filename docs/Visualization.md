@@ -266,7 +266,8 @@ his section describes the editing option for Gauge chart in visualization.
 
 **01. General Section :**
 
-- **Title** label for chart and align them in top,bottom,left,right position.
+- **Title**specify title for the chart selectesd.
+-top,bottom,left,right position.
 
 - **Padding** sets the spacing at the top,bottom,left and right side of the charts.
 
@@ -345,6 +346,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1NTkxMDUzLC00NjI3NjYyMzUsMTI1Mj
+eyJoaXN0b3J5IjpbNzE4NjAxNDYxLC00NjI3NjYyMzUsMTI1Mj
 kwNDEyNV19
 -->
