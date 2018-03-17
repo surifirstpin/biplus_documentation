@@ -292,13 +292,13 @@ his section describes the editing option for Gauge chart in visualization.
   
   - **Timeseries** specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
  
-- **Label field** 
+- **Label field** Specify a dimension field to be displayed on x-axis.
+
+- **Show Grid** enables the grid display in bubble chart.
 
 - **Axis label** provides label to x-axis.
 
 - **Reference Line** is used to refer specific values by applying colors to it.
-
-- **Show Grid** enables the grid display in bubble chart.
 
 
 **03. Y-Axis :**
@@ -356,6 +356,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA4OTc4MTQsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbNjAxMDU3MjUwLC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
