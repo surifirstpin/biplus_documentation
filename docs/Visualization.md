@@ -333,7 +333,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Name** specify a reference name for specific information on y-axis.
   
-  - **Type** specify reference type as line or  area.
+  - **Type** specify minimum, maximum, deviation, variance, custom line, custom area on Y-ax
   
   -  **From & to** specify the reference line for specific range of measure values.
 
@@ -379,6 +379,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3MTU0MTc3LC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbLTg2NzY3OTA2OSwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
