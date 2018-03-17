@@ -226,6 +226,10 @@ his section describes the editing option for Gauge chart in visualization.
 
 - **Show growth** displays the growth rate of selected measures.
 
+- **Title** specify widget title.
+
+- **Label** specify the widget label.
+
 - **Style** specify a status indicator for measure value such as default, primary, success, warning, info, danger.
 
 ##  World chart :
@@ -326,6 +330,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQyNzE1MDMsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbMTAwMDMxODAxNiwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
