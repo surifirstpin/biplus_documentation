@@ -298,8 +298,9 @@ his section describes the editing option for Gauge chart in visualization.
 
 - **Axis label** Text label for x-axis.
 
-###bReference Lines
-- **Reference Line** is used to refer specific values in the Y-axis.
+### Reference Lines
+
+- **Reference Line** is used to refer specific values in the x-axis.
 
   - **Reference** specify a indicator name. 
   
@@ -329,6 +330,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 - **Include Zero** displays measure values starting from zero.
 
 - **Position** you can can align the y-axis to left or right side of the chart.
+
+### Reference Lines
 
 - **Reference Line** is used to refer specific values on Y-axis.
 
@@ -380,6 +383,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDQ0NzI4OCwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbLTIzNzYyNDEwOCwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
