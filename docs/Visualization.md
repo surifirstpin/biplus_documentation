@@ -200,9 +200,11 @@ This section describes the editing option for Gauge chart in visualization.
 - **Hide Minmax**  hides min and maximum value.
 
 ## Table chart :
+ 
+ **7.** To access the gauge chart click on **gauge** tab under **general** section.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/table_chart.png)
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/1fd7fbe79375bd93492276a4692368d2dbfc16ac/images/table_chart.png)
 
 ## Widget chart :
 
@@ -314,6 +316,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Mjc5MTA1NSwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbLTU3MjgxNTY0OCwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
