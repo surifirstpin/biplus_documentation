@@ -27,8 +27,8 @@ AcuBi has different type of visualization charts, which are used based on the pr
 Let us see in detail how this charts works.
 
 ## Line Chart
+
  Emphasize the overall shape of an entire series of values, usually over time.
- This section describes the editing option for line chart in visualization. 
  
  **1.** To access the line chart click on **line** tab under **general** section.
 
@@ -332,6 +332,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQwNzc2NzcsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbLTM4MzUxOTY4MCwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
