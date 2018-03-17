@@ -292,7 +292,7 @@ his section describes the editing option for Gauge chart in visualization.
   
   - **Timeseries** specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
  
-- **Label field** label the field name in x-axis using grid display.
+- **Label field** 
 
 - **Axis label** provides label to x-axis.
 
@@ -356,6 +356,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTc1MDczNSwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTEyODA4OTc4MTQsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
