@@ -169,15 +169,16 @@ Using AcuBi you can view the funnel charts in different formats using the below 
 
 This section describes the editing option for Gauge chart in visualization. 
  
- **7.** To access the guage chart click on **guage** tab under **general** section.
+ **7.** To access the gauge chart click on **gauge** tab under **general** section.
 
 Green color indicates the value attained is closer to target.
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d48b5330b04434d91eb267dac601af036d2ccb8a/images/guage.png)
-Orange color indicates the value attained is half the way to target.
+Orange color indicates the maximum value attained is half the way to target.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/671476ecbe2c70dcf89cc72f25b75ba5b4dafe41/images/guage_mediN.png)
 
-Red color indicates the value attained is initial state or lower side to reach the target. 
+Red color indicates the maximum value attained is at initial state or lower side to reach the target. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/671476ecbe2c70dcf89cc72f25b75ba5b4dafe41/images/GUAGE_LOW.png)
 
@@ -304,6 +305,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Nzk0NTgxMiwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTE2MzkwOTMzMjMsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
