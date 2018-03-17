@@ -304,11 +304,11 @@ his section describes the editing option for Gauge chart in visualization.
 
   - **Reference** specify a indicator name. 
   
-  - **Type** specify reference type as line or  area.
+ - **Type** specify reference type as line or  area.
   
-  -  **From & to** specify the reference line for specific range of dimensions.
+ -  **From & to** specify the reference line for specific range of dimensions.
 
-  - **Theme** enables colour for reference line.
+ - **Theme** enables colour for reference line.
  
  > **Note:**  X-Axis is enabled only for Line, Bar and Bubble chart only.
 
@@ -362,6 +362,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzEzNTE3NSwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbLTc5MDgxMjcwOSwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
