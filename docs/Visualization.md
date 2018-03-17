@@ -317,14 +317,15 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Axis label** Text label for x-axis.
 
-- **Format** enables different type of number format **(Link)**
+- **Format** enables different type of number format **(Link from analysis)**
 
 - **Currency** select currency format for measure value on Y-axis. AcuBi supports $,   ₹  ,   €  ,  £.
 
-- **Y-Axis** display measure values in Y-axis. 
+- **Y-Axis** display measure values on Y-axis. 
 
-- **Show Grid** enables the grid display for measures in y-axis.
-- **Include Zero** displays values in y-axis starting from zero.
+- **Show Grid** enables the grid display for measures on y-axis.
+
+- **Include Zero** displays measure values starting from zero.
 
 
 
@@ -367,6 +368,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTM3ODUyOSwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbMjgxODEzODc3LC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
