@@ -128,8 +128,7 @@ This section describes the editing option for Pie chart in visualization.
 - **Curve** it maximum and minimize the surface area in radar chart.
 
 ## Bubble chart :
-
-This section describes the editing option for bubble chart in visualization. 
+ 
  
  **5.** To access the bubble chart click on **Bubble** tab under **general** section.
  
@@ -166,11 +165,9 @@ Using AcuBi you can view the funnel charts in different formats using the below 
  - **Load Animation** on selecting the check box the column values in funnel chart will appear as moving image.
 
 
-
-
 ##  Gauge Chart :
 
-This section describes the editing option for bubble chart in visualization. 
+This section describes the editing option for Gauge chart in visualization. 
  
  **7.** To access the guage chart click on **guage** tab under **general** section.
 
@@ -307,6 +304,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDAzMTQxMCwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbMTg1Nzk0NTgxMiwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
