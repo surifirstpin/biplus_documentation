@@ -187,6 +187,9 @@ This section describes the editing option for Gauge chart in visualization.
 
 - **Max**  specifies the maximum value of the gauge this corresponds to top position of the gauge.
 
+- **Title** specify a title.
+
+- **
 - **Donut** displays total measure value.
 - **Counter** displays all the values starting from minimum to maximum.
 - **Reverse** displays maximum to minimum value.
@@ -307,6 +310,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTY4NjE0NDQsLTQ2Mjc2NjIzNSwxMj
+eyJoaXN0b3J5IjpbLTE2NzUzMzg2NTIsLTQ2Mjc2NjIzNSwxMj
 UyOTA0MTI1XX0=
 -->
