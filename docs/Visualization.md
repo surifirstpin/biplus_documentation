@@ -222,11 +222,11 @@ his section describes the editing option for Gauge chart in visualization.
 
 - **Previous value** select the second measure value for widget.
 
-- **Change** specify the conditions for selected measures from the following difference, growth, none.
+- **Change** specify the conditions for selected measures such as difference, growth, none.
 
 - **Show growth** displays the growth rate of selected measures.
 
-- **Style** specify a indicator for measure value w
+- **Style** specify a status indicator for measure value such as default, primary, success, warning, info, danger.
 
 ##  World chart :
 
@@ -326,6 +326,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTQyMTA4NSwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTE0NzQyNzE1MDMsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
