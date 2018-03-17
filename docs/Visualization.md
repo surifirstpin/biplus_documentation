@@ -264,7 +264,7 @@ his section describes the editing option for Gauge chart in visualization.
 
 ## Standard Editing Option in Charts
 
-**01. General Section :**
+###  General Section :**
 
 - **Title** specify title for the chart selected.
 
@@ -282,7 +282,7 @@ his section describes the editing option for Gauge chart in visualization.
 
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
-**02.  X-Axis :**
+### X-Axis Menu Options
 
 - **Axis type** specifies the how x-axis scale for Line, Bar,Bubble is calculated and displayed.
 
@@ -356,6 +356,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjY3NzUzOTcsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbLTQxOTc1MDczNSwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
