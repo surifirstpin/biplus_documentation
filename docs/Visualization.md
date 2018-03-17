@@ -264,7 +264,7 @@ his section describes the editing option for Gauge chart in visualization.
 
 ## Standard Editing Option in Charts
 
-##  General Section :**
+##  General Section :
 
 - **Title** specify title for the chart selected.
 
@@ -362,6 +362,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjcwMzg2NSwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbMjA3MzEzNTE3NSwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
