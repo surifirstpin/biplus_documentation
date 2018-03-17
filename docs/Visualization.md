@@ -237,7 +237,7 @@ his section describes the editing option for Gauge chart in visualization.
 
 ##  World chart :
 
- It used data grouped by specific country and the 
+ It used data grouped by specific country and  for th regions in the world map are highlighted fo rs
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa5a5ec1ca971ffeed2d834874ab8905fc50bd31/images/world.png)
 
 - **Title** provides name identifier to world chart.
@@ -334,6 +334,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5MzE1MjY2LC00NjI3NjYyMzUsMTI1Mj
+eyJoaXN0b3J5IjpbMjY2MDA5Njc2LC00NjI3NjYyMzUsMTI1Mj
 kwNDEyNV19
 -->
