@@ -207,7 +207,7 @@ Tables work well with quantitative comparisons where you are looking at many val
  
  **8.** To access the table  click on **Table** tab under **general** section.
 
-https://raw.githubusercontent.com/sv18042016/fp1/b6e598ee67160c266bb9d4d30a423f520880bf63/images/table_chart.png
+
 
 ## Widget chart :
 
@@ -333,6 +333,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1MTQ0MDMzLC00NjI3NjYyMzUsMTI1Mj
+eyJoaXN0b3J5IjpbODcyMDgxODg3LC00NjI3NjYyMzUsMTI1Mj
 kwNDEyNV19
 -->
