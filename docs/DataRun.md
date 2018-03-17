@@ -293,7 +293,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - **Legend** displays the measure value to which format, currency, group aggregated are applied.
 
-- **Format** using format option you can apply different type of number format to the measure field value.
+- **Format** enables different type of number format to the measure field value.
 
 | A|B|
 |  ------ | ------ |
@@ -321,6 +321,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTYxNDYzNywtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbMTUwMzAzNzgyOCwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
