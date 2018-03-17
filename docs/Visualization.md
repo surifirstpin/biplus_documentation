@@ -248,11 +248,15 @@ his section describes the editing option for Gauge chart in visualization.
 - **Default** set default colour to display specific countries.
 
 - **Over Border** colour the border of map region.
-- 
+
 - **Data Field** display the data field value on map.	
+
 - **Tip Fields** select numbers of data fields to be displayed on map.
+
 - **Colour Field** enable colouring to data field.
+
 - **Colour** defines the colors that will be used to indicate each region.
+
 - **From & To** select the data field range to be colored.
 - **Negative Cutoff** enabled when negatives values are applicable.
 - **Negative colour-from & to** Specify colour for negative values.
@@ -339,6 +343,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDY0NjY4NSwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTExNTU5NzM2MjQsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
