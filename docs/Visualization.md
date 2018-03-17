@@ -175,13 +175,9 @@ Green color indicates the value attained is closer to target.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d48b5330b04434d91eb267dac601af036d2ccb8a/images/guage.png)
-Orange color indicates the maximum value attained is half the way to target.
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/671476ecbe2c70dcf89cc72f25b75ba5b4dafe41/images/guage_mediN.png)
-
-Red color indicates the maximum value attained is at initial state or lower side to reach the target. 
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/671476ecbe2c70dcf89cc72f25b75ba5b4dafe41/images/GUAGE_LOW.png)
-
+Orange color indicates the maximum value attained is half the way to target.Red color indicates the maximum value attained is at initial state or lower side to reach the target. 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/274ea8e6aa7a779c79c78d56c4722a5dbdf2a26c/images/guage2.jpg)
 - **Value** select the field value to carry out the operations.
 - **Min** displays minimum value measure field.
 - **Max** displays maximum value of measure field.
@@ -305,6 +301,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzkwOTMzMjMsLTQ2Mjc2NjIzNSwxMj
+eyJoaXN0b3J5IjpbLTEwNTk2Njc1MDMsLTQ2Mjc2NjIzNSwxMj
 UyOTA0MTI1XX0=
 -->
