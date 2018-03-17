@@ -350,7 +350,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Format on** specify a measure field on which you want to apply format.
 
-- **Value** Specify a value on which you want to apply the condition.
+- **Value** Specify a value to measure the condition.
 
 - **BG (background colour)** Select the background colour for the data which is retrieved using condition.
 
@@ -362,6 +362,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MjgzODc3NywtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTE0NjExNDU4MDQsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
