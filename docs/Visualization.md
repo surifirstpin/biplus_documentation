@@ -226,7 +226,7 @@ his section describes the editing option for Gauge chart in visualization.
 
 - **Show growth** displays the growth rate of selected measures.
 
-- **Style** set different style formats from the option provided.
+- **Style** specify a indicator for measure value w
 
 ##  World chart :
 
@@ -326,6 +326,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTk3MjM1OTQsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbLTU5MTQyMTA4NSwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
