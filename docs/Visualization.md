@@ -216,9 +216,10 @@ his section describes the editing option for Gauge chart in visualization.
 ](https://raw.githubusercontent.com/sv18042016/fp1/0fffbbc444991a973205bc030a0485bfc9ef592a/images/widget_chart.png)
 
 
-- **Value** select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined.
+- **Value** select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step.
 
-- **Format** select the number format.
+- **Format** select the number format for the measure field.
+
 - **Previous value** select the 2nd measure value to apply conditions.
 - **Change** choose the condition (difference,growth,none).
 - **Show growth** displays the growth rate of selected measure fields.
@@ -322,6 +323,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDgwMjkwMiwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbNjI2OTM1ODAxLC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
