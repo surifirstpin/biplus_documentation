@@ -333,17 +333,24 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 ### Reference Lines
 
-- **Reference Line** is used to refer specific values on Y-axis.
 
 - **Name** specify a reference name for specific information on y-axis.
   
-  - **Type** specify minimum, maximum, deviation, variance, custom line, custom area on Y-axis.
+  - **Type** specify  - Linear
+    - Polynomial
+    - Exponential
+    - Logarithmic
+    - Average
+    - Median
+    - minimum, maximum, deviation, variance, custom line, custom area on Y-axis.
   
   -  **From & to** specify the reference line for specific range of measure values.
 
   - **Theme** enables colour for reference line.
  
- > **Note:**  X-Axis is enabled only for Line, Bar and Bubble chart only.
+ > **Note:**  Y-Axis is enabled only for Line, Bar and Bubble chart only.
+ 
+ 
 ### Reference lines in bubble chart :
 
   - **Name** Provide a reference name.
@@ -383,6 +390,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzYyNDEwOCwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbMTc1ODQyNTYzNCwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
