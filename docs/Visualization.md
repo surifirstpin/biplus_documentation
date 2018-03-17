@@ -284,7 +284,7 @@ his section describes the editing option for Gauge chart in visualization.
 
 **02.  X-Axis :**
 
-- **Axis type** type of axis used in the charts, for instance 
+- **Axis type** specifies the 
 
   - **Indexed** is used to refer the numeric values starting from zero.
    
@@ -356,6 +356,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTQ4ODQ2NiwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbOTc0OTA2MjMwLC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
