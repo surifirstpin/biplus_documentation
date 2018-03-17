@@ -201,7 +201,7 @@ This section describes the editing option for Gauge chart in visualization.
 
 ## Table chart :
  
- **7.** To access the gauge chart click on **gauge** tab under **general** section.
+ **8.** To access the gauge chart click on **gauge** tab under **general** section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1fd7fbe79375bd93492276a4692368d2dbfc16ac/images/table_chart.png)
@@ -316,6 +316,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MjgxNTY0OCwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTkzMTg5NzcsLTQ2Mjc2NjIzNSwxMjUyOT
+A0MTI1XX0=
 -->
