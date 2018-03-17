@@ -288,7 +288,7 @@ his section describes the editing option for Gauge chart in visualization.
 
   - **Indexed** is used to refer the numeric values starting from zero.
    
-  - **Category** specifies the data to be plotted.
+  - **Category** specifies the data to be plotted as category group on x-axis.
   
   - **Timeseries** specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
  
@@ -356,6 +356,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTk1Mzk2OCwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbLTc0NTQ4ODQ2NiwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
