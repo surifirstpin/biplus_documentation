@@ -286,7 +286,7 @@ his section describes the editing option for Gauge chart in visualization.
 
 - **Axis type** specifies the how x-axis scale for Line, Bar,Bubble is calculated and displayed.
 
-  - **Indexed** from zero.
+  - **Indexed** specifies the data to be plotted in numeric values starting from zero on x-axis.
    
   - **Category** specifies the data to be plotted as category group on x-axis.
   
@@ -356,6 +356,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNTE4MTIyNCwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTIxMjY3NzUzOTcsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
