@@ -319,7 +319,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Format** enables different type of number format **(Link)**
 
-- **Currency** select currency format for measure valuby applying different types of currency formats, AcuBi supports $,   ₹  ,   €  ,  £.
+- **Currency** select currency format for measure value on Y-axis. AcuBi supports $,   ₹  ,   €  ,  £.
 
 - **Y-Axis** display measure values in Y-axis. 
 
@@ -367,6 +367,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzNTM3MzksLTQ2Mjc2NjIzNSwxMjUyOT
-A0MTI1XX0=
+eyJoaXN0b3J5IjpbLTkzMTM3ODUyOSwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
