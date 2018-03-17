@@ -325,6 +325,7 @@ editing options for y-axis in bubble chart.
     - Custom Area
     
 - **Data Field** select the measure value which is to be referred.
+
 - **Theme** choose the color for reference lines.
 
 
@@ -344,6 +345,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDMyNTMzODEsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbMzA1NTkxMDUzLC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
