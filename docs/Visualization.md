@@ -258,7 +258,9 @@ his section describes the editing option for Gauge chart in visualization.
 - **Colour** defines the colors that will be used to indicate each region.
 
 - **From & To** select the data field range to be colored.
+
 - **Negative Cutoff** enabled when negatives values are applicable.
+
 - **Negative colour-from & to** Specify colour for negative values.
 
 ## Standard Editing Option For All the Charts
@@ -343,6 +345,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTU5NzM2MjQsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbMTQ4OTc3NDA4OCwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
