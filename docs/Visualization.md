@@ -346,7 +346,7 @@ editing options for y-axis in Line, Bar and bubble chart.
  
 ## Format   
       
-- **Condition** Specify any of the following condition types 
+- **Condition** Specify any of the following condition types Greater than, Less than, Between, Not Between, equal to, duplicates values, Top 10 
 
 - **Format on** enables the format on specific measure.
 
@@ -362,6 +362,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjUyNjg5OSwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbMTI3Mzk1ODY4NiwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
