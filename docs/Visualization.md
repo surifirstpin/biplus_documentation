@@ -285,9 +285,12 @@ his section describes the editing option for Gauge chart in visualization.
 **02.  X-Axis :**
 
 - **Axis type** type of axis used in the charts, for instance 
-  - **Indexed** is used to refer the numeric values starting from zero, 
-  - category refer to the field values of the column and 
-  - timeframe refer to the time-format of the data.
+
+  - **Indexed** is used to refer the numeric values starting from zero.
+   
+  - **Category** refer to the field values of the column.
+  
+  - **timeseries** refer to the time-format of the data.
 
 - **Label field** label the field name in x-axis using grid display.
 
@@ -353,6 +356,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzc2ODEyMTcsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbLTY1MTg2MDA2LC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
