@@ -302,10 +302,13 @@ his section describes the editing option for Gauge chart in visualization.
 
   - **Reference** specify a indicator name. 
   
-  - **Type** specify the reference type as line or  area.
+  - **Type** specify reference type as line or  area.
   
   -  **From & to** specify the reference for specific range of measure values.
-  - 
+
+  - **Theme** Specify the colour for reference line.
+ 
+ 
 
 
 **03. Y-Axis :**
@@ -363,6 +366,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1NjQzMywtNDYyNzY2MjM1LDEyNTI5MD
-QxMjVdfQ==
+eyJoaXN0b3J5IjpbMjA0NDk5NjMzOSwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
