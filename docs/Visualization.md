@@ -301,7 +301,10 @@ his section describes the editing option for Gauge chart in visualization.
 - **Reference Line** is used to refer specific values in the x-axis.
 
   - **Reference** specify a indicator name. 
+  
   - **Type** specify the reference type as line or  area.
+  
+  -  **From & to** specify the reference for specific range of measure values.
   - 
 
 
@@ -360,6 +363,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDc2MjAzOSwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbMjc1NjQzMywtNDYyNzY2MjM1LDEyNTI5MD
+QxMjVdfQ==
 -->
