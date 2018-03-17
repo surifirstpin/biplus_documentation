@@ -181,7 +181,7 @@ This section describes the editing option for Gauge chart in visualization.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/274ea8e6aa7a779c79c78d56c4722a5dbdf2a26c/images/guage2.jpg)
 
-- **Value** select the measure value on which you want to check .
+- **Value** select one of the available measure values from the drop do to perform operations.
 
 - **Min** displays minimum value measure field.
 - **Max** displays maximum value of measure field.
@@ -305,6 +305,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDA4MjA5MCwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbMTg2MjE3MDA3NCwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
