@@ -310,8 +310,7 @@ his section describes the editing option for Gauge chart in visualization.
  
  > **Note:**  X-Axis is enabled only for Line, Bar and Bubble chart only.
 
-
-**03. Y-Axis :**
+### Y-Axis
 
 - **Axis type** type of axis used in charts.
 - **Label field** label the field name in Y-axis using grid display, including or excluding zero and aligning left or right position to y-axis.
@@ -366,6 +365,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzc1NjA3LC00NjI3NjYyMzUsMTI1Mj
+eyJoaXN0b3J5IjpbNjcxNDAyNjQzLC00NjI3NjYyMzUsMTI1Mj
 kwNDEyNV19
 -->
