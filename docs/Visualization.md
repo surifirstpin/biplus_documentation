@@ -327,6 +327,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Include Zero** displays measure values starting from zero.
 
+- **Position** you can 
 
 
 ### Reference lines in bubble chart :
@@ -368,6 +369,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxODEzODc3LC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbMTQwNDA1MDQ3NCwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
