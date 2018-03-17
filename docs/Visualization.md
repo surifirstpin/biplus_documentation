@@ -183,9 +183,10 @@ This section describes the editing option for Gauge chart in visualization.
 
 - **Value** select one of the available measure values from the drop down.
 
-- **Min** specifies the minimum value of the guage this corresponds to bottom position of the guage.
+- **Min** specifies the minimum value of the gauge this corresponds to bottom position of the gauge.
 
-- **Max** 
+- **Max**  specifies the maximum value of the gauge this corresponds to top position of the gauge.
+
 - **Donut** displays total measure value.
 - **Counter** displays all the values starting from minimum to maximum.
 - **Reverse** displays maximum to minimum value.
@@ -306,6 +307,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA5MjIzNDYsLTQ2Mjc2NjIzNSwxMj
+eyJoaXN0b3J5IjpbLTEyNTY4NjE0NDQsLTQ2Mjc2NjIzNSwxMj
 UyOTA0MTI1XX0=
 -->
