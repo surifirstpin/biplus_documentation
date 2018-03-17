@@ -208,7 +208,8 @@ This section describes the editing option for Gauge chart in visualization.
 
 ## Widget chart :
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/widget_chart.png)
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/0fffbbc444991a973205bc030a0485bfc9ef592a/images/widget_chart.png)
 
 
 - **Value** select the 1st measure value to apply the conditions.
@@ -316,6 +317,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTg5NzcsLTQ2Mjc2NjIzNSwxMjUyOT
-A0MTI1XX0=
+eyJoaXN0b3J5IjpbLTE3MDY2Njc3MzIsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
