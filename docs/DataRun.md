@@ -269,7 +269,7 @@ You can hide the field values in the visualization charts by selecting **Hide Vi
 
 ## Remove
 
-To remove the field column from the data extra
+To remove the field column from the data extracted click on the drop down button and select **Remove.**
 
 ## Data 
 
@@ -325,6 +325,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODQ4ODE2NywtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbLTEwODM3OTYxNjUsLTE5MTI4ODQ0NzgsND
+I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
