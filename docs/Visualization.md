@@ -216,7 +216,8 @@ his section describes the editing option for Gauge chart in visualization.
 ](https://raw.githubusercontent.com/sv18042016/fp1/0fffbbc444991a973205bc030a0485bfc9ef592a/images/widget_chart.png)
 
 
-- **Value** select the 1st measure value to apply the conditions.
+- **Value** select the measure value to apply the conditions.
+
 - **Format** select the number format.
 - **Previous value** select the 2nd measure value to apply conditions.
 - **Change** choose the condition (difference,growth,none).
@@ -321,6 +322,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4NTk2NzA2LC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbMjA2ODk4MzU4MiwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
