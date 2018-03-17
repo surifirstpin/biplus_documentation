@@ -331,7 +331,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Reference Line** is used to refer specific values on Y-axis.
 
-  - **Reference** specify a indicator name. 
+- **Name** specify a reference name for spe y-axis.
   
   - **Type** specify reference type as line or  area.
   
@@ -379,6 +379,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTM2Mzk4MDAsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbMTg5MDY4ODc0NCwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
