@@ -337,9 +337,9 @@ editing options for y-axis in Line, Bar and bubble chart.
   
  - **Type** specify  Linear, Polynomial, Exponential, Logarithmic, Average, Median, Minimum, Maximum, Deviation, Variance, Custom Line, Custom Area on Y-axis.
   
-  -  **From & to** specify the reference line for specific range of measure values.
+ -  **From & to** specify the reference line for specific range of measure values.
 
-  - **Theme** enables colour for reference line.
+ - **Theme** enables colour for reference line.
  
  > **Note:**  Y-Axis is enabled only for Line, Bar and Bubble chart only.
  
@@ -361,6 +361,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3NjQwMTYzLC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbMTU5Mzg1Njg4MywtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
