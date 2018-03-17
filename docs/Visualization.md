@@ -262,12 +262,13 @@ his section describes the editing option for Gauge chart in visualization.
 
 - **Negative colour-from & to** Specify colour for specific range of negative values.
 
-## Standard Editing Option For All the Charts
+## Standard Editing Option in Charts
 
 **01. General Section :**
 
 - **Title**specify title for the chart selectesd.
--top,bottom,left,right position.
+
+- **Position** align title to top,bottom,left,right position.
 
 - **Padding** sets the spacing at the top,bottom,left and right side of the charts.
 
@@ -346,6 +347,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4NjAxNDYxLC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbMTczODgyMTQ2OCwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
