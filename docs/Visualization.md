@@ -344,29 +344,6 @@ editing options for y-axis in Line, Bar and bubble chart.
  
  > **Note:**  Y-Axis is enabled only for Line, Bar and Bubble chart only.
  
- 
-### Reference lines in bubble chart :
-
-  - **Name** Provide a reference name.
-  
-  - **Type** specifies how y-axis scale is calculated and displayed, below are the options available to enable the scale type.
-    - Linear
-    - Polynomial
-    - Exponential
-    - Logarithmic
-    - Average
-    - Median
-    - Min
-    - Max
-    - Deviation
-    - Variance 
-    - Custom Line
-    - Custom Area
-    
-- **Data Field** select the measure value which is to be referred.
-
-- **Theme** choose the color for reference lines.
-
 
 ## Format   
 
@@ -384,6 +361,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE4NDIwOSwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTE5OTMxMTY5OTAsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
