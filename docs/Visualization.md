@@ -27,7 +27,7 @@ AcuBi has different type of visualization charts, which are used based on the pr
 Let us see in detail how this charts works.
 
 ## Line Chart
- 
+ Emphasize the overall shape of an entire series of values, usually over time.
  This section describes the editing option for line chart in visualization. 
  
  **1.** To access the line chart click on **line** tab under **general** section.
@@ -139,7 +139,6 @@ This section describes the editing option for Pie chart in visualization.
 
 Funnels helps to visualize a process that has stages and items flow sequentially from one stage to the next. Use a funnel when there is a sequential flow between stages, such as a sales process that starts with inquiry and ends with billing.
 
-A funnel chart is composed from a single set of numbers and a single set of labels. In AcuBi, this information can be aligned vertically (one column with labels, and one column with numbers) or horizontally (a single row with numbers, and the column headers are the labels). The chart can work with both pivoted and non-pivoted data.
 
 The following section describes the editing option for bubble chart in visualization. 
  
@@ -169,7 +168,8 @@ Using AcuBi you can view the funnel charts in different formats using the below 
 
 ##  Gauge Chart :
 
-This section describes the editing option for Gauge chart in visualization. 
+Gauge chart displays current status in the context of goal.
+
  
  **7.** To access the gauge chart click on **gauge** tab under **general** section.
 
@@ -332,6 +332,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNzA0MjY3NCwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTEyODQwNzc2NzcsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
