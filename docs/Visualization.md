@@ -318,6 +318,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 - **Axis label** Text label for x-axis.
 
 - **Format** enables number format for measure values.
+
 - **Currency** enables the currency format for measures values in y-axis.
 - **Y-Axis** display measure values in Y-axis. 
 - **Show Grid** enables the grid display for measures in y-axis.
@@ -363,6 +364,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDU4ODIxOCwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTEwMjM1NTQ0NzIsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
