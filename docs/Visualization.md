@@ -346,7 +346,7 @@ editing options for y-axis in Line, Bar and bubble chart.
  
 ## Format   
       
-- **Condition** Select the condition type to apply on specific field.
+- **Condition** Specify the folition type to apply on specific field.
 
 - **Format on** enables the format on specific measure.
 
@@ -362,6 +362,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1NDM1MjA5LC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbMTA2MzUzNzkyOSwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
