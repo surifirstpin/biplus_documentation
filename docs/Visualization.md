@@ -293,9 +293,10 @@ his section describes the editing option for Gauge chart in visualization.
   - **Timeseries** specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
  
 - **Label field**  specify a dimension field to be displayed on X-axis.
+
 - **Show Grid** enables the grid display for dimension fields on x-axis.
 
-- **Axis label** provides label to x-axis.
+- **Axis label**  specify a text label for x-axis 
 
 - **Reference Line** is used to refer specific values by applying colors to it.
 
@@ -355,6 +356,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNjA0MTQ4NiwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbMTIxNjUzOTg5NSwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
