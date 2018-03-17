@@ -296,7 +296,7 @@ his section describes the editing option for Gauge chart in visualization.
 
 - **Show Grid** enables the grid display for dimension fields on x-axis.
 
-- **Axis label** Text label for x-axis 
+- **Axis label** Text label for x-axis.
 
 - **Reference Line** is used to refer specific values in the x-axis.
 
@@ -313,7 +313,10 @@ his section describes the editing option for Gauge chart in visualization.
 ### Y-Axis
 
 - **Axis** select the measures values on y-axis  to enable
-editing options for y-axis in Line, Bar and bubble c.
+editing options for y-axis in Line, Bar and bubble chart.
+
+- **Axis label** Text label for x-axis.
+
 - **Format** enables number format for measure values.
 - **Currency** enables the currency format for measures values in y-axis.
 - **Y-Axis** display measure values in Y-axis. 
@@ -360,6 +363,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDE0ODQ1LC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbLTI1NDU4ODIxOCwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
