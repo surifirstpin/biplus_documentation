@@ -336,7 +336,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Name** specify a reference name for specific information on y-axis.
   
-  - **Type** specify  Linear, Polynomial, Exponential, Logarithmic, Average, Median, minimum, maximum, deviation, variance, custom line, custom area on Y-axis.
+  - **Type** specify  Linear, Polynomial, Exponential, Logarithmic, Average, Median, Minimum, Maximum, Deviation, Variance, Custom line, Custom area on Y-axis.
   
   -  **From & to** specify the reference line for specific range of measure values.
 
@@ -384,6 +384,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU0OTAzMjE1LC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbNTE3NTc3NDMsLTQ2Mjc2NjIzNSwxMjUyOT
+A0MTI1XX0=
 -->
