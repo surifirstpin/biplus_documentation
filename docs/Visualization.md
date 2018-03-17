@@ -248,7 +248,7 @@ his section describes the editing option for Gauge chart in visualization.
 
 - **Default** set default colour to display specific countries.
 
-- **Over Border** colour the border of map region.
+- **Over Border** colour the border of a map region.
 
 - **Data Field** display the data field value on map.	
 
@@ -346,6 +346,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxMTk1OTcyLC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbLTEyMTkwOTE4MzUsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
