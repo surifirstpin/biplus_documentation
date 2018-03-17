@@ -345,8 +345,7 @@ editing options for y-axis in Line, Bar and bubble chart.
  > **Note:**  Y-Axis is enabled only for Line, Bar and Bubble chart only.
  
 ## Format   
-
-**04. Format Section :**        
+      
 
 - **Condition** Select the condition to apply on specific field.
 - **Format on** enables the format on specific measure.
@@ -360,6 +359,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzI5ODYwOTEsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbMTIzMTM1ODgzNSwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
