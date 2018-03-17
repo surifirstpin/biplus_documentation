@@ -308,7 +308,7 @@ his section describes the editing option for Gauge chart in visualization.
 
   - **Theme** enables colour for reference line.
  
- > **Note:**  X-Axis is enables only for Line, Bar and Bubble chart only.
+ > **Note:**  X-Axis is enabled only for Line, Bar and Bubble chart only.
 
 
 **03. Y-Axis :**
@@ -366,6 +366,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDc2MzQ2MiwtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbMTMzMzc1NjA3LC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
