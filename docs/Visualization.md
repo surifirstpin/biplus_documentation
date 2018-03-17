@@ -136,6 +136,7 @@ This section describes the editing option for Pie chart in visualization.
 ](https://raw.githubusercontent.com/sv18042016/fp1/d07e80177a8a6fe04619cfb40058e9789b142e88/images/bubble_chart.png)
 
 ## Funnel chart :
+Funnels helps to visualise the Funnels help visualize a process that has stages and items flow sequentially from one stage to the next. Use a funnel when there is a sequential flow between stages, such as a sales process that starts with leads and ends with purchase fulfillment.
 
 A funnel chart is composed from a single set of numbers and a single set of labels. In AcuBi, this information can be aligned vertically (one column with labels, and one column with numbers) or horizontally (a single row with numbers, and the column headers are the labels). The chart can work with both pivoted and non-pivoted data.
 
@@ -330,6 +331,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI2Mzg3MDcsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbMTMzNjQyMzM2MCwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
