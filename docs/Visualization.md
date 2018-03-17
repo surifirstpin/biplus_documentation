@@ -216,7 +216,7 @@ his section describes the editing option for Gauge chart in visualization.
 ](https://raw.githubusercontent.com/sv18042016/fp1/0fffbbc444991a973205bc030a0485bfc9ef592a/images/widget_chart.png)
 
 
-- **Value** select the measure to show in the widget.
+- **Value** select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined.
 
 - **Format** select the number format.
 - **Previous value** select the 2nd measure value to apply conditions.
@@ -322,6 +322,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTU2NDQ1NzcsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbLTg4NDgwMjkwMiwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
