@@ -260,7 +260,7 @@ his section describes the editing option for Gauge chart in visualization.
 
 - **Negative Cutoff** enabled when negatives values are applicable.
 
-- **Negative colour-from & to** Specify colour for negative values.
+- **Negative colour-from & to** Specify colour for specific range of negative values.
 
 ## Standard Editing Option For All the Charts
 
@@ -344,6 +344,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5NzI1MjAzLC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbLTE0NDMyNTMzODEsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
 -->
