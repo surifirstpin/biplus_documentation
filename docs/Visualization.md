@@ -220,7 +220,8 @@ his section describes the editing option for Gauge chart in visualization.
 
 - **Format** select the number format for the measure field.
 
-- **Previous value** select the 2nd measure value to apply conditions.
+- **Previous value** select the second measure value for widget.
+
 - **Change** choose the condition (difference,growth,none).
 - **Show growth** displays the growth rate of selected measure fields.
 - **Style** set different style formats from the option provided.
@@ -323,6 +324,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2OTM1ODAxLC00NjI3NjYyMzUsMTI1Mj
-kwNDEyNV19
+eyJoaXN0b3J5IjpbMTkwNTc5MDQyNSwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
