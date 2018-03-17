@@ -278,7 +278,8 @@ his section describes the editing option for Gauge chart in visualization.
 
 - **Grouped Tooltips** points all the measure values of the column field.
 
-- **Show legend** displays the measures fields used in the of the chart, you can 
+- **Show legend** displays the measures fields used in the of the chart, you can display or hide specific measure field values on chart by clicking on the me.
+
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
 **02.  X-Axis :**
@@ -349,6 +350,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQ4Nzc0ODAsLTQ2Mjc2NjIzNSwxMj
-UyOTA0MTI1XX0=
+eyJoaXN0b3J5IjpbMTA3NDQ4ODIzMSwtNDYyNzY2MjM1LDEyNT
+I5MDQxMjVdfQ==
 -->
