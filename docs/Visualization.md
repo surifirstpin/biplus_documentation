@@ -348,8 +348,9 @@ editing options for y-axis in Line, Bar and bubble chart.
       
 - **Condition** Specify any of the following condition types Greater than, Less than, Between, Not Between, equal to, duplicates values, Top 10 Items, Bottom 10 Items, Above Average, Below Average for the fields.
 
-- **Format on**specify a measure field on whi
-- **Value** Specify a value to which condition should be applied. 
+- **Format on** specify a measure field on which you want to apply format.
+
+- **Value** Specify a value 
 
 - **BG (background colour)** Select the background colour for the data which is retrieved using condition.
 
@@ -361,6 +362,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjM2Njc2MTcsLTQ2Mjc2NjIzNSwxMj
+eyJoaXN0b3J5IjpbLTE0NjczODcxOTcsLTQ2Mjc2NjIzNSwxMj
 UyOTA0MTI1XX0=
 -->
