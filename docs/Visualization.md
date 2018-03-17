@@ -241,14 +241,14 @@ his section describes the editing option for Gauge chart in visualization.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa5a5ec1ca971ffeed2d834874ab8905fc50bd31/images/world.png)
 
-- **Title** provides name identifier to world chart.
+- **Title** specigy wt.
 - **Flat Map** enables the "2D" vision of the chart.
 - **Default** set default colour to display specific countries.
 - **Over Border** apply colour to the border.
 - **Data Field** display the data field value on map.	
 - **Tip Fields** select numbers of data fields to be displayed on map.
 - **Colour Field** enable colouring to data field.
-- **Colour** select the colour to be applied.
+- **Colour** defines the colors that will be used to indicate each region.
 - **From & To** select the data field range to be colored.
 - **Negative Cutoff** enabled when negatives values are applicable.
 - **Negative colour-from & to** Specify colour for negative values.
@@ -335,6 +335,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDEzMTEzOCwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbLTcwMzk3ODQzOSwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
