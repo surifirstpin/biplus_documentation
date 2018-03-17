@@ -351,15 +351,17 @@ editing options for y-axis in Line, Bar and bubble chart.
 - **Format on** enables the format on specific measure.
 
 - **Value** Specify a value to which condition should be applied. 
+
 - **BG (background colour)** Select the background colour for the data which is retrieved using condition.
+
 - **Font** Select the font colour for the data retrieved based on condition.
+
 - **Icon** Select a icon for the data retrieved based on condition.
+
 - **Before number** Align the icon before or after the data.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
-E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTY2Mzg0NywtNDYyNzY2MjM1LDEyNT
-I5MDQxMjVdfQ==
+eyJoaXN0b3J5IjpbOTc1NDM1MjA5LC00NjI3NjYyMzUsMTI1Mj
+kwNDEyNV19
 -->
