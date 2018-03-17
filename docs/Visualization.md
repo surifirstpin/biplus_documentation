@@ -296,7 +296,7 @@ his section describes the editing option for Gauge chart in visualization.
 
 - **Show Grid** enables the grid display for dimension fields on x-axis.
 
-- **Axis label**  specify a text label for x-axis 
+- **Axis label** Text label for x-axis 
 
 - **Reference Line** is used to refer specific values in the x-axis.
 
@@ -304,9 +304,9 @@ his section describes the editing option for Gauge chart in visualization.
   
   - **Type** specify reference type as line or  area.
   
-  -  **From & to** specify the reference for specific range of measure values.
+  -  **From & to** specify the reference line for specific range of measure values.
 
-  - **Theme** Specify the colour for reference line.
+  - **Theme** enables colour for reference line.
  
  
 
@@ -366,6 +366,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDk5NjMzOSwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbLTk3NjI3MTU5NywtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
