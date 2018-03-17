@@ -195,7 +195,7 @@ This section describes the editing option for Gauge chart in visualization.
 
 - **Counter** displays minimum and maximum values of the measure.
 
-- **Reverse** displays maximum to minimum value.
+- **Reverse** displays the measure values in reversal direction maximum to minimum.
 
 - **Hide Minmax**  hides min and maximum value.
 
@@ -314,6 +314,6 @@ eyJoaXN0b3J5IjpbLTE1OTEwNDY5MDksLTExOTYwMTY4MzIsLT
 E5NDgyMzIyNTUsNDY3OTA2MjI0XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTYxMzIzOSwtNDYyNzY2MjM1LDEyNT
+eyJoaXN0b3J5IjpbMjA1Mjc5MTA1NSwtNDYyNzY2MjM1LDEyNT
 I5MDQxMjVdfQ==
 -->
