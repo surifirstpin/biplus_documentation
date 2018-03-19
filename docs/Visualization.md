@@ -71,7 +71,7 @@ Let us see in detail how this charts works.
 
 ## Bar Chart 
 
-Bar charts are used to compare data across for looking at a specific value across different categories.
+Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the Rows and a measure on the Columns shelf
 
  **2.** To access the bar chart click on **Bar** tab under **general** section.
  
@@ -381,5 +381,5 @@ eyJoaXN0b3J5IjpbMjA2NjEzOTY0OF19
 eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjE5OTkwODJdfQ==
+eyJoaXN0b3J5IjpbMTc1NzUxMTA4M119
 -->
