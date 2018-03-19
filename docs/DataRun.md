@@ -173,7 +173,8 @@ For **Measures**
 
 ## Display Totals
 
-**8.**  By selection the **che
+**8.**  By selection the **check box** it displays the total values of the measure fields.
+
  ## Display  Row Limit
 
 **9.**  You can limit the rows in the data extracted by selecting the limit value to your desired number from the given list.( 100,500,1000,5000,10000,100000)
@@ -322,6 +323,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODMwNTI3ODksLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbMzY4MjY2OTk0LC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
