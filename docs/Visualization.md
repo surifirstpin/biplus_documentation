@@ -1,7 +1,7 @@
 <center><h1>Visualization</h1></center>
 
 
-AcuBi has an ability to create graphics and charts based on the result obtained. Charts sections displays different type of pictorial representation of the data. Let us see in details how to configure visualization in Acubi.
+AcuBi has an ability to create graphics and charts based on the result obtained. Charts sections in AcuBi displays different type of pictorial representation of the data. Let us see in details how to configure visualization in Acubi.
 
 ## Adding Life to Data
 
@@ -368,5 +368,5 @@ eyJoaXN0b3J5IjpbLTE3OTk4ODY0MDYsLTQ2Mjc2NjIzNSwxMj
 UyOTA0MTI1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjYyOTIxNF19
+eyJoaXN0b3J5IjpbLTEyODE3OTM5NjNdfQ==
 -->
