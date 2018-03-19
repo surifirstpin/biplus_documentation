@@ -71,7 +71,7 @@ Let us see in detail how this charts works.
 
 ## Bar Chart 
 
-Bar charts are the standard for looking at a specific value across different categories.
+Bar charts are used to compare data across for looking at a specific value across different categories.
 
  **2.** To access the bar chart click on **Bar** tab under **general** section.
  
@@ -381,5 +381,5 @@ eyJoaXN0b3J5IjpbMjA2NjEzOTY0OF19
 eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTY3MDk5Ml19
+eyJoaXN0b3J5IjpbLTE0MjE5OTkwODJdfQ==
 -->
