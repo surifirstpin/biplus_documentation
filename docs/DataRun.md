@@ -279,6 +279,9 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - **Legend** it will enable you to change the label for measure value in visualization charts as shown below.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/49bb2a07efd42d5b6f9a7f648e8f705e5f63bc4d/images/legend_label.png)
+
 - **Format** enables different type of number format to the measure field value.
 
 | A|B|
@@ -310,6 +313,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY0NzY0MjQsLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbLTY1OTA1NTI0LC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
