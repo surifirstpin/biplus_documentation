@@ -20,8 +20,8 @@ Analysis section creates an impressive and good looking charts simultaneously wi
 
 AcuBi visualization charts are used based on the priority of what specific information you want to view about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. It Provides an ability to visualize the data in 10 different types of charts with some standard editing options. Let us see them in detail,
 
- - [Line](Visualization.md#Line Chart)
- - [Bar](Visualization.md#bar Chart)
+ - [Line](#Line Chart)
+ - [Bar](#bar Chart)
  - Pie
  - Radar
  - Bubble
