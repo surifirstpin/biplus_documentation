@@ -9,7 +9,9 @@ Analysis section creates an impressive and good looking charts simultaneously wi
 
 ## Getting started with Visualization.
 
-Click on Charts tab to configure visualization option for the result obtained. Under general section click on the type of visualization chart you want to view.
+- Click on Charts tab to configure visualization option for the result obtained.
+
+- Under general section click on the type of visualization chart you want to view.
 
 ## Types of Visualization
 
@@ -370,5 +372,5 @@ eyJoaXN0b3J5IjpbLTE3OTk4ODY0MDYsLTQ2Mjc2NjIzNSwxMj
 UyOTA0MTI1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODUxNDczOV19
+eyJoaXN0b3J5IjpbLTE3OTg1NzYyMjddfQ==
 -->
