@@ -153,7 +153,7 @@ For **Dimensions**,
 - Click on upper arrow to enable  ascending order.
 - Click on down arrow to enable descending order.  
 
-For **Measures,**
+For **Measures , **
 
 - Click on upper arrow to enable  descending order.
 - Click on down arrow to enable ascending order.
@@ -322,6 +322,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzNTc0MTA1LC0xOTEyODg0NDc4LDQyOT
-Y0NDQwMSwyMTM4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbMjExNzc2NTQ0MSwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
