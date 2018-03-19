@@ -173,11 +173,11 @@ For **Measures**
 
 ## Display Totals
 
-**8.**  By selection the **check box** it displays the total values of the measure fields.
+**8.**  By selecting the **check box** it displays the total values of the measure fields obtained.
 
  ## Display  Row Limit
 
-**9.**  You can limit the rows in the data extracted by selecting the limit value to your desired number from the given list.( 100,500,1000,5000,10000,100000)
+**9.**  You can limit the rows in the data extracted by selecting the limit value to your desired number from the given list.                                                          ( 100,500,1000,5000,10000,100000)
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/61de99f8d763cf180029d192cc9b991ed454a35a/images/query_time.png)
@@ -323,6 +323,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4MjY2OTk0LC0xOTEyODg0NDc4LDQyOT
+eyJoaXN0b3J5IjpbOTEyNzkxOTEwLC0xOTEyODg0NDc4LDQyOT
 Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
