@@ -131,9 +131,8 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
 
-- **Run** the report after deriving the calculation all the values based on calculation is 
+- **Run** the report after deriving the calculation all the values based on calculation is shown up in green colour as shown in below image,
 
-> the retrieved data based on mathematical calculation appears in green colour as shown in below image,
 > 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)
@@ -323,6 +322,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzEyMzA4ODksLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbNzMzNTc0MTA1LC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
