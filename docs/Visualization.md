@@ -44,7 +44,6 @@ Let us see in detail how this charts works.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6904440c50633ac92f461d7b7f2fd2c2d0e9b7dc/images/line_chart.png)
 
-> **Note :** Some of the options in editing list might be hidden or grayed in situations where they would conflict with other settings you have chosen.
 
  ## Editing Options for Line Chart
  
@@ -376,4 +375,7 @@ UyOTA0MTI1XX0=
 -->
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjA2NjEzOTY0OF19
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExNjYwODY1OTBdfQ==
 -->
