@@ -259,12 +259,15 @@ To hide the specific field in the visualization charts click on **Hide Visualiza
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/75f9c50ef12a1aa2ff5c43aaafefa2fd1140597d/images/hide_visualisation.png)
 
+## Remove
+
+To remove a specific field column from the extracted listclick on the drop down button and select **Remove.**
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/75f9c50ef12a1aa2ff5c43aaafefa2fd1140597d/images/hide_visualisation1.png)
 
-## Remove
 
-To remove the field column from the data extracted click on the drop down button and select **Remove.**
+
 
 ## Data 
 
@@ -320,6 +323,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI2MDQyNDEsLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbODc3OTg5MDE1LC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
