@@ -277,7 +277,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - **Datasets** section enables you to perform alignment, set currency formats for measure values and calculate column value and perform group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
 
-- **Legend** displays the measure value to which format, currency, group aggregated are applied.
+- **Legend** displays the measure value to which format, currency, group aggregates are applied.
 
 - **Format** enables different type of number format to the measure field value.
 
@@ -310,6 +310,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzcyOTgzMCwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbLTE0MDQ1NjE5OTUsLTE5MTI4ODQ0NzgsND
+I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
