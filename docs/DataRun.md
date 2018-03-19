@@ -277,11 +277,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - **Datasets** section enables you to perform alignment, set currency formats for measure values and calculation column value and perform group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
 
-
 - **Legend** displays the measure value to which format, currency, group aggregated are applied.
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/e1bd201419a03bfb1375b64b9e74fb8e06830061/images/data_section_analysis.png)
 
 - **Format** enables different type of number format to the measure field value.
 
@@ -301,8 +297,11 @@ Data section under visualization is enabled based on the data retrieved for fiel
 |   ###,###.000         |  #M |
 |   ###.###,o           |  |
 
+
 - **Currency** you can check the field values of the measure by applying different types of currency formats, AcuBi supports $,   ₹  ,   €  ,  £.
 
+![
+](!%5B%20%5D%28https://raw.githubusercontent.com/sv18042016/fp1/e1bd201419a03bfb1375b64b9e74fb8e06830061/images/data_section_analysis.png%29)
 
 ## SQL Query 
 
@@ -311,6 +310,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MzIzMjcwOCwtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbLTk4NDg4NjUxOSwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
