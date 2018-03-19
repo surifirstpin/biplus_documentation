@@ -319,7 +319,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Axis label** Text label for x-axis.
 
-- **Format** (Link from analysis) Using this field, you can specify the formatting for numeric values.
+- **Format** ([Number Formate](DataRun.md#Data)) Using this field, you can specify the formatting for numeric values.
 
 - **Currency** Using this field, you can specify the formatting for currency as of now AcuBi supports $,   ₹  ,   €  ,  £.
 
