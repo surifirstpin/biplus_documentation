@@ -277,17 +277,6 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - **Datasets** section enables you to perform alignment, set currency formats for measure values and calculation column value and perform group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/8e769a4f2914fa97d5f4672fd4e542ed2f88a246/images/row_grouping.png)
-
-**a.** Enable row grouping by selecting the checkbox.
-
-**b.** Explore the primary column fields data individually, which are grouped under the column field. 
-
-**c.** Select the field on which you want to perform row grouping.
-
-  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/657b29d2f18b269f2964e8150a3670df8db7869c/images/group_aggregate.png)
-
 - **Legend** displays the measure value to which format, currency, group aggregated are applied.
 
 - **Format** enables different type of number format to the measure field value.
@@ -318,6 +307,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTE2NTAwMCwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbLTE1MjkwOTUxOTcsLTE5MTI4ODQ0NzgsND
+I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
