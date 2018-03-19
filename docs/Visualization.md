@@ -39,7 +39,7 @@ Let us see in detail how this charts works.
 
  Emphasize the overall shape of an entire series of values, usually over time.
  
- **1.** To access the line chart click on **line** tab under **General** section.
+ **1.** To access the line chart click on **line** tab under **general** section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6904440c50633ac92f461d7b7f2fd2c2d0e9b7dc/images/line_chart.png)
@@ -327,7 +327,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Axis label** Text label for x-axis.
 
-- **Format** [Number Format](DataRun.md#Data) Using this field, you can specify the formatting for numeric values.
+- **Format** [Number Format](DataRun.md#Format) Using this field, you can specify the formatting for numeric values.
 
 - **Currency** Using this field, you can specify the formatting for currency as of now AcuBi supports $,   ₹  ,   €  ,  £.
 
@@ -375,5 +375,5 @@ eyJoaXN0b3J5IjpbLTE3OTk4ODY0MDYsLTQ2Mjc2NjIzNSwxMj
 UyOTA0MTI1XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzODkzNDRdfQ==
+eyJoaXN0b3J5IjpbMjA2NjEzOTY0OF19
 -->
