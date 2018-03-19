@@ -16,7 +16,7 @@ A **Dimension** is a group of data and **Measure** is a information about group 
 
 > For Example **Name of the Employee** is defined as dimension and **Salary of the Employee** is defined as Measure.
  
- To retrieve the data in analysis section.
+ To retrieve the data in analysis section follow the below steps,
  
 **2.**  Select one or more dimension fields ( Grey fields) to access the data. It supports strings and date types.
 
@@ -325,6 +325,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwMjExMzk5LC0xOTEyODg0NDc4LDQyOT
+eyJoaXN0b3J5IjpbMjI3MDM1NjcxLC0xOTEyODg0NDc4LDQyOT
 Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
