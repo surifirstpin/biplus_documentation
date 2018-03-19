@@ -206,13 +206,11 @@ To **Pivot** a dimension click on pivot for dimension before or after running th
 |North|south|east|west|
 |john|steve|bob|Mecker|
 
->In AcuBi **Pivot** checks each dimension horizontally and displays group based data for the field to which pivot is applied.
-  
- You can apply pivot to fields in 2 ways;
+ You can apply pivot to fields in 2 ways ;
  
-**a.** Apply pivot after retrieving the data directly by clicking on down arrow beside the field header.
+**a.** Apply pivot **After Retrieving the data directly by clicking on down arrow beside the field header.
  
-**b.** Apply pivot while selecting the fields to retrieve the data.
+**b.** Apply pivot **Before Retrieving** the data while selecting the fields.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0bc648227810e628f97baa8e8ade9bdeb782ca04/images/pivot.png)
@@ -323,6 +321,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjUzMDA1MDAsLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbMTkwNDMyNTgwMCwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
