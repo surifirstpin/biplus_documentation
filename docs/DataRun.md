@@ -280,6 +280,9 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - **Legend** displays the measure value to which format, currency, group aggregated are applied.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/e1bd201419a03bfb1375b64b9e74fb8e06830061/images/data_section_analysis.png)
+
 - **Format** enables different type of number format to the measure field value.
 
 | A|B|
@@ -308,6 +311,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTI5NzQxNTUsLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbMTU4MzIzMjcwOCwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
