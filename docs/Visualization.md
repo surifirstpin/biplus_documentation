@@ -48,6 +48,7 @@ Let us see in detail how this charts works.
  ## Editing Options for Line Chart
  
  - **Line type** displays the information as a series of data points called markers. Below are the list of markers used in line chart ( spline acts as  default line type), 
+   - Line
    - Spline 
    - Step
    - Area
@@ -55,7 +56,7 @@ Let us see in detail how this charts works.
    - Area-Step
    - Scatter
     
-- **Points** it will display the the data with points on the chart.
+- **Points**  will display the the data with points on the chart.
 
 - **Point style** will specify how the data points will appear on chart. below are the following options are available. 
   - Circle
@@ -377,5 +378,5 @@ UyOTA0MTI1XX0=
 eyJoaXN0b3J5IjpbMjA2NjEzOTY0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjYwODY1OTBdfQ==
+eyJoaXN0b3J5IjpbLTYyNDUzODM0XX0=
 -->
