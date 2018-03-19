@@ -56,7 +56,7 @@ Let us see in detail how this charts works.
    - Area-Step
    - Scatter
     
-- **Points**  will display the the data with points on the chart.
+- **Points**  will display the the data by specifying the points on the chart.
 
 - **Point style** will specify how the data points will appear on chart. below are the following options are available. 
   - Circle
@@ -378,5 +378,5 @@ UyOTA0MTI1XX0=
 eyJoaXN0b3J5IjpbMjA2NjEzOTY0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDUzODM0XX0=
+eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 -->
