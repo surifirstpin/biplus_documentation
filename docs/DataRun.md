@@ -266,9 +266,6 @@ To remove a specific field column from the extracted list click on **Remove** in
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/75f9c50ef12a1aa2ff5c43aaafefa2fd1140597d/images/hide_visualisation1.png)
 
-
-
-
 ## Data 
 
 Data section under visualization is enabled based on the data retrieved for fields. Below are the parameters applicable on the data retrieved.
@@ -323,6 +320,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyNzQxMTY4LC0xOTEyODg0NDc4LDQyOT
-Y0NDQwMSwyMTM4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbMTEwNTUwNjg3NCwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
