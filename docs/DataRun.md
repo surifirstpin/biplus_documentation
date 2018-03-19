@@ -162,19 +162,22 @@ For **Measures**
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/local_sorting.png)
 
 
-## Display Totals
-
-**5.**   You can add the column totals in the report by click **Totals Checkbox**.
-
- ## Display  Row Limit
-
-**6.**  You can limit the rows in the data extracted by selecting the limit value to your desired number from the given list.( 100,500,1000,5000,10000,100000)
+## Query Time
 
 **6.** Total time taken to build the query of a report is displayed on the top right of the report as shown in the image below
 
 ## Display number of rows
 
 **7.** Number of rows fetched while retrieving data is displayed on top of the report below the query time.
+
+
+## Display Totals
+
+**8.**   You can add the column totals in the report by click **Totals Checkbox**.
+
+ ## Display  Row Limit
+
+**9.**  You can limit the rows in the data extracted by selecting the limit value to your desired number from the given list.( 100,500,1000,5000,10000,100000)
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/61de99f8d763cf180029d192cc9b991ed454a35a/images/query_time.png)
@@ -320,6 +323,6 @@ Selected fields will build a SQL query in data analysis :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxMDk3NzYsLTE5MTI4ODQ0NzgsNDI5Nj
-Q0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbLTg1Mjk1Njc5MywtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
