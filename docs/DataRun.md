@@ -277,12 +277,9 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - **Datasets** this section enables you to perform alignment, set currency formats, group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
 
-- **Legend** it will enable you to change the label for measure value in visualization charts as shown below.
+  - **Legend** it will enable you to change the label for measure value in visualization charts as shown below.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/49bb2a07efd42d5b6f9a7f648e8f705e5f63bc4d/images/legend_label.png)
-
-- **Format** enables different type of number format to the measure field value.
+  - **Format** enables different type of number format to the measure field value.
 
 | A|B|
 |  ------ | ------ |
@@ -313,6 +310,6 @@ To view the SQL query built  in analysis section click on **SQL**.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTY3Mjc0MiwtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbLTk3NzM4ODAzOCwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
