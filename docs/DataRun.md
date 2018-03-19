@@ -308,11 +308,11 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 ## SQL Query 
 
-To view the SQL query built from the data extracted in data analysis click on **Q
+To view the SQL query built  in analysis section click on **SQL**.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4NDcyODk5LC0xOTEyODg0NDc4LDQyOT
-Y0NDQwMSwyMTM4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbMTMwOTY3Mjc0MiwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
