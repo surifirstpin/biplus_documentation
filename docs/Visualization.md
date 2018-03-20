@@ -223,6 +223,8 @@ Table chart displays the data in series making it more feasible for comparing di
 
 ## Widget chart :
 
+It displays one or more data series as a data **graph**. Use a **Chart Widget** to display the: Number of records created today. Number of Incidents by status or department.
+
 this section describes the editing option for Gauge chart in visualization. 
  
  **9.** Click on **widget** tab under **general** section to compare data in widget chart.
@@ -387,5 +389,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzU3NzUxM119
+eyJoaXN0b3J5IjpbMTcxNjEyMDcxXX0=
 -->
