@@ -106,8 +106,8 @@ This section describes the editing option for Pie chart in visualization.
 
 ## Radar chart 
 
-It is a graphical representation of multivariate data in the form of a 
- 
+ Radar charts are a great way to compare members of a dimension in a function of several metrics.  
+
  
  **4.** To access the Radar chart click on **Radar** tab under **general** section.
 
@@ -385,5 +385,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjg2MDYwOV19
+eyJoaXN0b3J5IjpbLTY1OTcwMTA5NF19
 -->
