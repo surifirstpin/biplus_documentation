@@ -222,7 +222,7 @@ Table chart displays the data in series making it more feasible for comparing di
 
 his section describes the editing option for Gauge chart in visualization. 
  
- **9.** To access the widget click on **widget** tab under **general** section to compare data in table chart..
+ **9.** Click on **widget** tab under **general** section to compare data in widget chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0fffbbc444991a973205bc030a0485bfc9ef592a/images/widget_chart.png)
@@ -384,5 +384,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4OTc2NTQ3XX0=
+eyJoaXN0b3J5IjpbLTM0MjA1NzA1XX0=
 -->
