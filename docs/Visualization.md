@@ -138,7 +138,8 @@ For example, when you want to buy a Laptop, you can use a radar chart to compare
 - **Curve** it maximum and minimize the surface area in radar chart.
 
 ## Bubble chart :
- 
+
+It is used to display the data in circles. We can define each bubble using any of our Dimension value and size by Measure value.
  
  **5.** Click on **Bubble** tab under **general** section  to compare the data in Bubble chart.
  
@@ -385,5 +386,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc1MDA5NjZdfQ==
+eyJoaXN0b3J5IjpbNTE5ODUxNDg2XX0=
 -->
