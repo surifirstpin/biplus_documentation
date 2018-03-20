@@ -223,7 +223,7 @@ Table chart displays the data in series making it more feasible for comparing di
 
 ## Widget chart :
 
-It displays one or more data series as a data graph. Use Widget chart to day. Number of Incidents by status or department.
+It displays one or more data series as a data graph. Widget chart is used to display the number of records created today. Number of Incidents by status or department.
 
 this section describes the editing option for Gauge chart in visualization. 
  
@@ -389,5 +389,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTQ3MzY5Ml19
+eyJoaXN0b3J5IjpbLTEzMTY4MzgyMl19
 -->
