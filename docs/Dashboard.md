@@ -87,7 +87,7 @@ They can be defined manually or from a query or global parameters. Lookup can al
 
 **8.**     **Report Listeners** ( Refer image 5)
 
-  Acubi has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined in a dashboard containing 2 reports and listener is added on particular field for report1 it results in filter applied on report1 it self and report2 will remain uneffected.
+  Acubi has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report1 it results in filter applied on report1, it self and report2 will remain unaffected.
 
    -  **Dashboard Report**  selects reports to add filters.
    
@@ -131,8 +131,8 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 **11.** Click on  **Delete icon**  to delete the dashboard created (Refer image 7).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTcyODY3MywtMjA2NjgzNDY3OSwxNz
-k4MTgxODg0LDE3OTgxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2
-OTU0MCwtNzY2NzEyOTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMz
-M4OTM0NTBdfQ==
+eyJoaXN0b3J5IjpbLTE2MDYzOTUyNjgsLTIwNjY4MzQ2NzksMT
+c5ODE4MTg4NCwxNzk4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2
+Njk1NDAsLTc2NjcxMjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLD
+MzODkzNDUwXX0=
 -->
