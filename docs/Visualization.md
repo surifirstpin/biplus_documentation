@@ -39,7 +39,7 @@ Let us see in detail how this charts works.
 
  Emphasize the overall shape of an entire series of values, usually over time.
  
- **1.** To access the line chart click on **line** tab under **general** section.
+ **1.** Click on **line** tab under **general** section  to compare the data in line chart.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6904440c50633ac92f461d7b7f2fd2c2d0e9b7dc/images/line_chart.png)
@@ -73,7 +73,7 @@ Let us see in detail how this charts works.
 
 Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the Rows and a measure on the Columns area.
 
- **2.** Click on **Bar** tab under **general** section  to compare the data in pie chart..
+ **2.** Click on **Bar** tab under **general** section  to compare the data in Bar chart.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c21c91b0c8f9e243362fbefc44279936c6021d12/images/bar_chart.png)
@@ -109,7 +109,7 @@ This section describes the editing option for Pie chart in visualization.
  Radar charts are a great way to compare members of a dimension in a function of several metrics.  
 For example, when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
 
- **4.** To access the Radar chart click on **Radar** tab under **general** section.
+ **4.** Click on **Radar** tab under **general** section  to compare the data in  Radar chart.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/34c8d8bc129b2e32ded89f8d3f9816b6a8fd1624/images/radar_chart.png)
@@ -140,7 +140,7 @@ For example, when you want to buy a Laptop, you can use a radar chart to compare
 ## Bubble chart :
  
  
- **5.** To access the bubble chart click on **Bubble** tab under **general** section.
+ **5.** Click on **Bubble** tab under **general** section  to compare the data in pie chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d07e80177a8a6fe04619cfb40058e9789b142e88/images/bubble_chart.png)
@@ -385,5 +385,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwODg0MzQ1XX0=
+eyJoaXN0b3J5IjpbLTE0MjM4MDE0MDBdfQ==
 -->
