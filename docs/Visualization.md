@@ -217,10 +217,13 @@ Gauge chart displays current status in the context of goal.
 Table chart displays the data in series making it more feasible for comparing dimensions and measure values.
  
  **8.** Click on **Table** tab under **general** section to compare data in table chart.
+ 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/b6e598ee67160c266bb9d4d30a423f520880bf63/images/table_chart.png)
 
 ## Widget chart :
 
-his section describes the editing option for Gauge chart in visualization. 
+this section describes the editing option for Gauge chart in visualization. 
  
  **9.** Click on **widget** tab under **general** section to compare data in widget chart.
  
@@ -384,5 +387,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjA1NzA1XX0=
+eyJoaXN0b3J5IjpbLTY5NzU3NzUxM119
 -->
