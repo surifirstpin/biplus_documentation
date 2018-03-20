@@ -17,14 +17,12 @@ To view a saved report click on specific report in dashboard section and it will
 
 ## Report filters
 
-Report filters will narrow the reports results while allowing you to view the specific range of data.The report data is retrieved based on filter applied in analysis section.
+Report filters will narrow the reports results while allowing you to view the specific range of data.The report data is retrieved based on filter applied.
  
  > For Example :
-Lets apply report filter **Sum count equals to 1** in Analysis section.
+Lets apply report filter **Sum count equals to 1** in Analysis section and The data is retrieved on based on the filters applied.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b852b51ab2d28891914aab1c0a1efd355c252a19/images/globalfil_overide_report.png)
-
-The data is retrieved on based on the filters applied.
 
 
 - Filters added while saving the reports in analyse section are viewed in filter section of the reports.
@@ -94,5 +92,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODczMzE3NywtMTI1Njk3NDQxMV19
+eyJoaXN0b3J5IjpbLTQzNTQ5MjU4MiwtMTI1Njk3NDQxMV19
 -->
