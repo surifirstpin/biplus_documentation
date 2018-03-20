@@ -214,15 +214,15 @@ Gauge chart displays current status in the context of goal.
 
 ## Table chart :
  
-Tables work well with quantitative comparisons where you are looking at many values for a single category. For example, this table displays 2 different measures for **Amount**.
+Table chart displays the data in series making it more feasible for comparing dimensions and measure values.
  
- **8.** To access the table  click on **Table** tab under **general** section.
+ **8.** Click on **Table** tab under **general** section to compare data in table chart.
 
 ## Widget chart :
 
 his section describes the editing option for Gauge chart in visualization. 
  
- **9.** To access the widget click on **widget** tab under **general** section.
+ **9.** To access the widget click on **widget** tab under **general** section to compare data in table chart..
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0fffbbc444991a973205bc030a0485bfc9ef592a/images/widget_chart.png)
@@ -384,5 +384,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjgzNzgxNjddfQ==
+eyJoaXN0b3J5IjpbMjQ4OTc2NTQ3XX0=
 -->
