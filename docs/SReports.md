@@ -57,7 +57,8 @@ Lets apply report filter **Sum count equals to 1** in Analysis section and The d
 
 ## Download CSV & Image formats
 
-- **Download CSV** download the dashboard repot in CSV format.
+- **Download CSV** download the dashboard report in CSV format.
+
 - **Image format** download the dashboard report in image format.
 
 ## Lookup Single & Multiple
@@ -93,5 +94,6 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MzUxMzc4MywtMTI1Njk3NDQxMV19
+eyJoaXN0b3J5IjpbLTEwOTkyOTg1MDEsLTEyNTY5NzQ0MTFdfQ
+==
 -->
