@@ -107,9 +107,8 @@ This section describes the editing option for Pie chart in visualization.
 ## Radar chart 
 
  Radar charts are a great way to compare members of a dimension in a function of several metrics.  
-For example, when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, .  
+For example, when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
 
- 
  **4.** To access the Radar chart click on **Radar** tab under **general** section.
 
 ![
@@ -386,5 +385,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDUzNzgxM119
+eyJoaXN0b3J5IjpbLTE2MzUxODE4NjhdfQ==
 -->
