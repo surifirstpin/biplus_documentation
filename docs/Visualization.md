@@ -153,7 +153,7 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 
 The following section describes the editing option for bubble chart in visualization. 
  
- **6.** To access the bubble chart click on **Bubble** tab under **general** section.
+ **6.** Click on **Funnel** tab under **general** section  to compare the data in Funnel chart.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caca3ad67049c43bc60a5fccae26182c81762732/images/funnel_chart.png)
@@ -386,5 +386,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5ODUxNDg2XX0=
+eyJoaXN0b3J5IjpbLTE5NjY3MDc2NjZdfQ==
 -->
