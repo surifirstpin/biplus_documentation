@@ -77,9 +77,9 @@ Lets apply report filter **Sum count equals to 1** in Analysis section and The d
 
 ## Save As / Update option for a saved report in Edit
 
-**9.**  To update the changes made to report Click on **Update** button.
+**9.**  To update the changes made to report click on **Update** button.
 
-**10.**  To save the updated report with Click on **Save as** butt option.
+**10.**  To save the updated report with click on **Save as** button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ec5304fcf5a159a2da18bfa3ac9681b06328b291/images/update_report2.png)
 
@@ -98,5 +98,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyMTY5MzEwLC0xMjU2OTc0NDExXX0=
+eyJoaXN0b3J5IjpbLTQ5MzMxNDc3MCwtMTI1Njk3NDQxMV19
 -->
