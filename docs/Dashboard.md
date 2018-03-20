@@ -102,7 +102,7 @@ They can be defined manually or from a query or global parameters. Lookup can al
 
 ## Step 4: Privacy & Share option for Dashboards 
 
-Select the tag in which you want to save  **Dashboard Reports**  and click on  **Save** (Refer image 6).
+Select the tag in which you want to save  **Dashboard Reports**  and click on  **Save.** (Refer image 6)
 
 -   **Name**  name identifier for dashboard created.
 
@@ -118,21 +118,21 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
   -   **Share ()**  Dashboard saved under share section and accessed by specific set of users.
 
-> Image 6
+> **Image 6**
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0fb2c0fe9fbc99b6ac2cd3d818fe7533a74872b8/images/2018-02-06_16-09-56.png)
 
 ## Edit / Delete Dashboard
 
 **10.** Click  **Edit**  Button to make changes to the dashboard created.
 
->Image 7
+>**Image 7**
 ![](https://raw.githubusercontent.com/sv18042016/fp1/a739889b994c72f53a035bdab7b5641d6107687d/images/dash_edi3.png)
 
 **11.** Click on  **Delete icon**  to delete the dashboard created (Refer image 7).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDYzOTUyNjgsLTIwNjY4MzQ2NzksMT
-c5ODE4MTg4NCwxNzk4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2
-Njk1NDAsLTc2NjcxMjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLD
-MzODkzNDUwXX0=
+eyJoaXN0b3J5IjpbNzk5MjcwNTI0LC0yMDY2ODM0Njc5LDE3OT
+gxODE4ODQsMTc5ODE4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5
+NTQwLC03NjY3MTI5NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMz
+g5MzQ1MF19
 -->
