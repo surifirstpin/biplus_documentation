@@ -66,9 +66,13 @@ Lets apply report filter **Sum count equals to 1** in Analysis section and The d
  Adding lookup to reports will refer set of query or list of items in filters. Add single or multiple lookups to a dashboard report by using **Add Lookups** in **Apply filter** section of dashboard.
  
 - **Lookup name** name of the lookup field.
+
 - **Lookup Type**  refers to item or query type.
+
 - **Test Lookup** to test the lookup. 
+
 - **Multiple Selections** refers to selection of list of multiple data.
+
 - **Referred** to refer predefined filter for the following filters.
 
 ## Save As / Update option for a saved report in Edit
@@ -94,6 +98,6 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTkyOTg1MDEsLTEyNTY5NzQ0MTFdfQ
+eyJoaXN0b3J5IjpbLTEzNDk0MDc1MjEsLTEyNTY5NzQ0MTFdfQ
 ==
 -->
