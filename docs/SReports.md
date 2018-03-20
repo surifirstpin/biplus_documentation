@@ -1,8 +1,7 @@
 <center><h1> Reports</h1></center>
 
-Building **reports in Tableau** allows you to communicate more efficiently and partner more effectively. In a matter of seconds, your data can tell the story of the difference your organization is making in the world.
+By Building the reports in AcuBi you can communicate more efficiently and collaborate more effectively. Just in matters of seconds, you can confess a story in what way your organisation is making a difference in the world.
 
-BY Building the reports in AcuBi you can communicate more efficiently and collaborate more effectively. Just in matters of seconds, you can confess a story of what difference your organisation is making in the   
 ## View Report
 
 To view the report click on specific report in dashboard section and it will navigate to the report created.
@@ -95,5 +94,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDcxNjkxMywtMTI1Njk3NDQxMV19
+eyJoaXN0b3J5IjpbMTE4MTY3OTQ0MCwtMTI1Njk3NDQxMV19
 -->
