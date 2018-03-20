@@ -129,7 +129,8 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 **11.** Click on  **Delete icon**  to delete the dashboard created (Refer image 7).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjY4MzQ2NzksMTc5ODE4MTg4NCwxNz
-k4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2Njcx
-Mjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
+eyJoaXN0b3J5IjpbLTExNDcyNTcwMjIsLTIwNjY4MzQ2NzksMT
+c5ODE4MTg4NCwxNzk4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2
+Njk1NDAsLTc2NjcxMjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLD
+MzODkzNDUwXX0=
 -->
