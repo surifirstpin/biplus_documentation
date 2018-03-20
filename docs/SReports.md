@@ -43,9 +43,9 @@ Lets apply report filter **Sum count equals to 1** in Analysis section and The d
 
 **8.** To view the data in a graph Click on **Show data** in the drop down.
 
-Choose from the given options provided. 
--  Select **Show data** to display data report.
--  Select **Show visualization** to view visualization of the report.
+   -  Select **Show data** to display data report.
+   
+   -  Select **Show visualization** to view visualization of the report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d52bc64c5ef2973d8b81e9a4f8925e0e50686102/images/show_data.png)
 
@@ -92,6 +92,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDg4NjYwODcsLTEyNTY5NzQ0MTFdfQ
-==
+eyJoaXN0b3J5IjpbNjE3NTI0MTY5LC0xMjU2OTc0NDExXX0=
 -->
