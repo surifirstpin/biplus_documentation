@@ -218,8 +218,6 @@ Tables work well with quantitative comparisons where you are looking at many val
  
  **8.** To access the table  click on **Table** tab under **general** section.
 
-
-
 ## Widget chart :
 
 his section describes the editing option for Gauge chart in visualization. 
@@ -386,5 +384,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Mjc3MTQxOV19
+eyJoaXN0b3J5IjpbLTE0NjgzNzgxNjddfQ==
 -->
