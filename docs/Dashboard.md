@@ -46,11 +46,9 @@ b. Click on **add** link available at right side of the saved report.
 
 ## Step 3: Dashboard Global Filters
 
-**5.**  Click on **Apply Filters** ( Refer image 4)
- to add global dashboard filters and lookups.
+**5.**  Click on **Apply Filters** to add global dashboard filters and lookups.( Refer image 4)
  
- **6.** **Dashboard global Filters** ( Refer image 5)
- allow user to view limited data by applying filters on dashboard reports and it supports following filter types string, number, date and lookup.
+ **6.** **Dashboard global Filters** allows user to view limited data by applying filters on dashboard reports and it supports following filter types string, number, date and lookup.( Refer image 5)
 
 - **String** For fields that contain letters or special characters.
 
@@ -131,8 +129,8 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 **11.** Click on  **Delete icon**  to delete the dashboard created (Refer image 7).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzI2NzYxMywtMjA2NjgzNDY3OSwxNz
-k4MTgxODg0LDE3OTgxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2
-OTU0MCwtNzY2NzEyOTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMz
-M4OTM0NTBdfQ==
+eyJoaXN0b3J5IjpbMTc4NjM5NDk0LC0yMDY2ODM0Njc5LDE3OT
+gxODE4ODQsMTc5ODE4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5
+NTQwLC03NjY3MTI5NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMz
+g5MzQ1MF19
 -->
