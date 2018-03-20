@@ -140,7 +140,7 @@ For example, when you want to buy a Laptop, you can use a radar chart to compare
 ## Bubble chart :
  
  
- **5.** Click on **Bubble** tab under **general** section  to compare the data in pie chart.
+ **5.** Click on **Bubble** tab under **general** section  to compare the data in Bubble chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d07e80177a8a6fe04619cfb40058e9789b142e88/images/bubble_chart.png)
@@ -385,5 +385,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjM4MDE0MDBdfQ==
+eyJoaXN0b3J5IjpbLTE4Mzc1MDA5NjZdfQ==
 -->
