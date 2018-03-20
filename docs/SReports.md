@@ -8,9 +8,9 @@ To view a saved report click on specific report in dashboard section and it will
 
 **1.**  To Set a report to home page  click on **Set on homepage** icon.
 
-**2.** To edit a report clicking on **Edit** icon.
+**2.** To edit a report click on **Edit** icon.
 
-**3.**  Delete the report by clicking on **Delete** icon.
+**3.**  To delete a report click on **Delete** icon.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a617b3ae958c069a99a9a91df6097bda5762d6aa/images/savwe.png)
 
@@ -94,5 +94,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDczNzMyMSwtMTI1Njk3NDQxMV19
+eyJoaXN0b3J5IjpbLTc0ODczMzE3NywtMTI1Njk3NDQxMV19
 -->
