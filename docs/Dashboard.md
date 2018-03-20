@@ -69,8 +69,7 @@ b. Click on **add** link available at right side of the saved report.
 
 ## Lookup   
 
-**7.**   **Lookup**  is a set of keys defined to filter the reports.
-They can be defined manually or from a query or global parameters. Lookup can also be refereed based on the data provided.( Refer image 5)
+**7.**   **Lookup**  Adding lookup to reports will refer set of query or list of items in filters. Add single or multiple lookups to a dashboard report by using **Add Lookups** in **Apply filter** section of dashboard..( Refer image 5)
 
    -   **Lookup name**  name of the lookup field.
    
@@ -133,8 +132,8 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3NjE1NTA5LC0yMDY2ODM0Njc5LDE3OT
-gxODE4ODQsMTc5ODE4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5
-NTQwLC03NjY3MTI5NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMz
-g5MzQ1MF19
+eyJoaXN0b3J5IjpbLTIwMzQzMzMxMTEsLTIwNjY4MzQ2NzksMT
+c5ODE4MTg4NCwxNzk4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2
+Njk1NDAsLTc2NjcxMjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLD
+MzODkzNDUwXX0=
 -->
