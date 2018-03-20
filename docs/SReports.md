@@ -6,9 +6,9 @@ By building the reports in AcuBi you can communicate more efficiently and collab
 
 To view a saved report click on specific report in dashboard section and it will navigate to the report created.
 
-**1.**  Set the report to home page by clicking on **Set on homepage** icon.
+**1.**  To Set a report to home page  click on **Set on homepage** icon.
 
-**2.**  Edit the report by clicking on **Edit** icon.
+**2.** To edit a report clicking on **Edit** icon.
 
 **3.**  Delete the report by clicking on **Delete** icon.
 
@@ -94,5 +94,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODU0Njk0MywtMTI1Njk3NDQxMV19
+eyJoaXN0b3J5IjpbLTEwNDczNzMyMSwtMTI1Njk3NDQxMV19
 -->
