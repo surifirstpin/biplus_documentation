@@ -2,6 +2,7 @@
 
 Building **reports in Tableau** allows you to communicate more efficiently and partner more effectively. In a matter of seconds, your data can tell the story of the difference your organization is making in the world.
 
+BY Building the repor
 ## View Report
 
 To view the report click on specific report in dashboard section and it will navigate to the report created.
@@ -94,6 +95,6 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjI4ODY4MzEsLTEyNTY5NzQ0MTFdfQ
+eyJoaXN0b3J5IjpbLTE3ODg4NDIwMTMsLTEyNTY5NzQ0MTFdfQ
 ==
 -->
