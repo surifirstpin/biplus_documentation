@@ -189,7 +189,7 @@ Gauge chart displays current status in the context of goal.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d48b5330b04434d91eb267dac601af036d2ccb8a/images/guage.png)
 
-- **Orange** colour indicates the maximum value attained is half the way to target and Red color indicates the maximum value attained is at initial state or lower side of the target. 
+- **Orange** colour indicates the maximum value attained is half the way to target and **Red** colour indicates the maximum value attained is at initial state or lower side of the target. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/274ea8e6aa7a779c79c78d56c4722a5dbdf2a26c/images/guage2.jpg)
@@ -210,7 +210,7 @@ Gauge chart displays current status in the context of goal.
 
 - **Reverse** displays the measure values in reversal direction maximum to minimum.
 
-- **Hide Minmax**  hides min and maximum value.
+- **Hide Minmax**  hides min and maximum values in gauge target.
 
 ## Table chart :
  
@@ -386,5 +386,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyNjkwNzI4XX0=
+eyJoaXN0b3J5IjpbLTg2Mjc3MTQxOV19
 -->
