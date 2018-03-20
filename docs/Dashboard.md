@@ -4,11 +4,11 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 
 ## View Dashboard
 
- To view the dashboard report created click on specific dashboard in dashboard section and it will navigate to the dashboard created.
+ To view the dashboard report created click on specific dashboard report in **Dashboard section** and it will navigate to the dashboard created.
    
 **1.**  To set the dashboard on home page click on **Set on homepage** icon.
 
-**2.** To edit the dashboard  clicking on **Edit** icon.
+**2.** To edit the dashboard click on **Edit** icon.
 
 **3.** Delete the dashboard by clicking on **Delete** icon.
 
@@ -130,8 +130,8 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 **11.** Click on  **Delete icon**  to delete the dashboard created (Refer image 7).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDExOTI1MiwtMjA2NjgzNDY3OSwxNz
-k4MTgxODg0LDE3OTgxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2
-OTU0MCwtNzY2NzEyOTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMz
-M4OTM0NTBdfQ==
+eyJoaXN0b3J5IjpbLTEwODAwOTE0MTgsLTIwNjY4MzQ2NzksMT
+c5ODE4MTg4NCwxNzk4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2
+Njk1NDAsLTc2NjcxMjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLD
+MzODkzNDUwXX0=
 -->
