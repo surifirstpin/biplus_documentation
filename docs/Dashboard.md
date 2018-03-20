@@ -56,7 +56,7 @@ b. Click on **add** link available at right side of the saved report.
 
 - **Date** For fields that contain dates.
 
-- **Lookup** to view the lookup in dashboard filters it should be defined in lookup section.( Refer image 5 and point 7)
+- **Lookup** to view the lookup in dashboard filters it should be defined in lookup section.( Refer point 7)
 
 > Image 5
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
@@ -69,7 +69,9 @@ b. Click on **add** link available at right side of the saved report.
 
 ## Lookup   
 
-**7.**   **Lookup** ( Refer image 5) is a set of keys defined to filter the reports.they can be defined manually from a query or global parameters. Lookup can also be refereed based on the data provided.
+**7.**   **Lookup** ( Refer image 5) is a set of keys defined to filter the reports.
+They can be defined manually from a query or global parameters. Lookup can also be refereed based on the data provided.
+
    -   **Lookup name**  name of the lookup field.
    
    -   **Lookup Type**  refers to item or query type.
@@ -129,8 +131,8 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 **11.** Click on  **Delete icon**  to delete the dashboard created (Refer image 7).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA0MTYwNzEsLTIwNjY4MzQ2NzksMT
-c5ODE4MTg4NCwxNzk4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2
-Njk1NDAsLTc2NjcxMjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLD
-MzODkzNDUwXX0=
+eyJoaXN0b3J5IjpbMzAwODY2ODE2LC0yMDY2ODM0Njc5LDE3OT
+gxODE4ODQsMTc5ODE4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5
+NTQwLC03NjY3MTI5NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMz
+g5MzQ1MF19
 -->
