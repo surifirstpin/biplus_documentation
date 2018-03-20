@@ -106,7 +106,8 @@ This section describes the editing option for Pie chart in visualization.
 
 ## Radar chart 
 
-This section describes the editing option for Pie chart in visualization. 
+It is a graphical method of displaying multivariate data in the form of a two-dimensional**chart** of three or more quantitative variables represented on axes starting from the same point.
+ 
  
  **4.** To access the Radar chart click on **Radar** tab under **general** section.
 
@@ -384,5 +385,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTI3OTM2MDBdfQ==
+eyJoaXN0b3J5IjpbMTE3MDk0ODM3MF19
 -->
