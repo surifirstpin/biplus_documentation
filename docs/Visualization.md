@@ -230,7 +230,6 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0fffbbc444991a973205bc030a0485bfc9ef592a/images/widget_chart.png)
 
-
 - **Value** select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step.
 
 - **Format** select the number format for the measure field.
@@ -387,5 +386,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDAwMjM5M119
+eyJoaXN0b3J5IjpbODU3OTU1NzgzXX0=
 -->
