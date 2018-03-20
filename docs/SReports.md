@@ -51,7 +51,7 @@ Lets apply report filter **Sum count equals to 1** in Analysis section and The d
 
 ## Refresh & Hard Refresh
 
-- **Refresh** displays the most recent data information of the report.
+- **Refresh** To displays the most recent data information of the report Click on **Refresh** i.
 
 - **Hard Refresh**  displays the most recent data information by clearing the cache for specific dashboard or report.
 
@@ -93,5 +93,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MzUxMzc4MywtMTI1Njk3NDQxMV19
+eyJoaXN0b3J5IjpbNjMyNzUxNjU1LC0xMjU2OTc0NDExXX0=
 -->
