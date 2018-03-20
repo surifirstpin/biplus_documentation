@@ -182,7 +182,7 @@ Using AcuBi you can view the funnel charts in different formats using the below 
 Gauge chart displays current status in the context of goal.
 
  
- **7.** To access the gauge chart click on **gauge** tab under **general** section.
+ **7.** Click on **gauge** tab under **general** section  to compare the data in Gauge chart.
 
 - Green color indicates the value attained is closer to target.
 
@@ -386,5 +386,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjY3MDc2NjZdfQ==
+eyJoaXN0b3J5IjpbLTE1Mzc5MTYwMzBdfQ==
 -->
