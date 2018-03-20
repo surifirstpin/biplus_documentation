@@ -371,6 +371,20 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Before number** Align the icon before or after the data.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjQ0MzI3XX0=
+eyJoaXN0b3J5IjpbLTE3OTk4ODY0MDYsLTQ2Mjc2NjIzNSwxMj
+UyOTA0MTI1XX0=
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA2NjEzOTY0OF19
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTc4NDMxMTI5XX0=
 -->
