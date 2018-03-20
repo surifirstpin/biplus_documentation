@@ -39,9 +39,9 @@ You can add different reports to the layout selected, depending on the requireme
 
 a. Click on report layout section and select the report you want to add to the layout.
 
-b. Click on **add** at right side of the saved report you want add. 
+b. Click on **add** link available at right side of the saved report. 
 
-> Image 4
+>**Image 4**
 ![image 4](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/add_rep%5Borts.png)
 
 ## Step 3: Dashboard Global Filters
@@ -131,8 +131,8 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 **11.** Click on  **Delete icon**  to delete the dashboard created (Refer image 7).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3MjU3MjcyLC0yMDY2ODM0Njc5LDE3OT
-gxODE4ODQsMTc5ODE4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5
-NTQwLC03NjY3MTI5NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMz
-g5MzQ1MF19
+eyJoaXN0b3J5IjpbMTExMzI2NzYxMywtMjA2NjgzNDY3OSwxNz
+k4MTgxODg0LDE3OTgxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2
+OTU0MCwtNzY2NzEyOTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMz
+M4OTM0NTBdfQ==
 -->
