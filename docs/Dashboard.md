@@ -87,7 +87,7 @@ They can be defined manually or from a query or global parameters. Lookup can al
 
 **8.**     **Report Listeners** ( Refer image 5)
 
-  Acubi has an ability to assign a defined filters to report column( fields of views based on which the report is crete . on applying the global filters ,the filters will be reflected in the mapped fields in reports. at the same time you can apply multiple global filters on same fields or multiple fields.
+  Acubi has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined in a dashboard contai
 
    -  **Dashboard Report**  selects reports to add filters.
    
@@ -131,8 +131,8 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 **11.** Click on  **Delete icon**  to delete the dashboard created (Refer image 7).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTA1NDc1LC0yMDY2ODM0Njc5LDE3OT
-gxODE4ODQsMTc5ODE4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5
-NTQwLC03NjY3MTI5NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMz
-g5MzQ1MF19
+eyJoaXN0b3J5IjpbMTQ2MjI2ODc3NywtMjA2NjgzNDY3OSwxNz
+k4MTgxODg0LDE3OTgxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2
+OTU0MCwtNzY2NzEyOTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMz
+M4OTM0NTBdfQ==
 -->
