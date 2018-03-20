@@ -69,8 +69,8 @@ b. Click on **add** link available at right side of the saved report.
 
 ## Lookup   
 
-**7.**   **Lookup** ( Refer image 5) is a set of keys defined to filter the reports.
-They can be defined manually from a query or global parameters. Lookup can also be refereed based on the data provided.
+**7.**   **Lookup**  is a set of keys defined to filter the reports.
+They can be defined manually or from a query or global parameters. Lookup can also be refereed based on the data provided.( Refer image 5)
 
    -   **Lookup name**  name of the lookup field.
    
@@ -131,7 +131,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 **11.** Click on  **Delete icon**  to delete the dashboard created (Refer image 7).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwODY2ODE2LC0yMDY2ODM0Njc5LDE3OT
+eyJoaXN0b3J5IjpbMjY4NDY5NzYxLC0yMDY2ODM0Njc5LDE3OT
 gxODE4ODQsMTc5ODE4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5
 NTQwLC03NjY3MTI5NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMz
 g5MzQ1MF19
