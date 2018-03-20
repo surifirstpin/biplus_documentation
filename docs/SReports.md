@@ -1,6 +1,6 @@
 <center><h1> Reports</h1></center>
 
-By Building the reports in AcuBi you can communicate more efficiently and collaborate more effectively. Just in matters of seconds, you can confess a story in what way your organisation is making a difference in the world.
+By Building the reports in AcuBi you can communicate more efficiently and collaborate more effectively. Just in matters of seconds, you can confess a story in what way your organisation is making a difference in the world instead o.
 
 ## View Report
 
@@ -94,5 +94,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MTY3OTQ0MCwtMTI1Njk3NDQxMV19
+eyJoaXN0b3J5IjpbNzUzMDYwNTQzLC0xMjU2OTc0NDExXX0=
 -->
