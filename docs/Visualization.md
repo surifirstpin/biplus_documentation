@@ -248,7 +248,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 ##  World chart :
 
- It uses data grouped by specific country and regions can be highlighted for specific values.
+ It displays the data grouped by specific country and regions can be highlighted for specific values.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa5a5ec1ca971ffeed2d834874ab8905fc50bd31/images/world.png)
 
@@ -386,5 +386,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3OTU1NzgzXX0=
+eyJoaXN0b3J5IjpbLTEwNTY4OTU5MzldfQ==
 -->
