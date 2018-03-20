@@ -73,7 +73,7 @@ Let us see in detail how this charts works.
 
 Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the Rows and a measure on the Columns area.
 
- **2.** To access the bar chart click on **Bar** tab under **general** section.
+ **2.** Click on **Bar** tab under **general** section  to compare the data in pie chart..
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c21c91b0c8f9e243362fbefc44279936c6021d12/images/bar_chart.png)
@@ -83,7 +83,7 @@ Bar charts are used to compare data across different categories. You can build a
 
 This section describes the editing option for Pie chart in visualization. 
  
- **3.** To access the Pie chart click on **Pie** tab under **general** section.
+ **3.**  click on **Pie** tab under **general** section to compare the data in pie chart.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f52c167aa93a715736ed2800ae5ca56675c54e42/images/pie_chart.png)
@@ -385,5 +385,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzUxODE4NjhdfQ==
+eyJoaXN0b3J5IjpbNTEwODg0MzQ1XX0=
 -->
