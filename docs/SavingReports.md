@@ -10,7 +10,7 @@ In Acubi you can save the the report build for retrieving the data in specific l
 
 ## Save with info message
 
-Save the report with a proper title and provide privacy information for accessing the saved report.
+Under **Save Explore** page provide all the information to save a report  for faccessing the saved report.
 
 - **Report Name** Name identifier for a report. ( Bi+ allows  special character but does not  support any spaces )
 
@@ -53,5 +53,5 @@ Cache saves the data, so the future request for the data is provided faster.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTEyNjg3NSwtMzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbMTUzNjQ3NTI5MywtMzM3MjYyMDJdfQ==
 -->
