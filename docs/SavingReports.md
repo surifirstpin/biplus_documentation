@@ -4,7 +4,7 @@ In Acubi you can save the the report build for retrieving the data in specific l
 
 ## Saving under specific tag
 
-All the data retrieved in analysis section can be saved under **my space** tag shown below.
+All the reports build in analysis section are saved under **my space** tag shown below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e3b7bf2c45247e84daf15a733ebe46301c7a2004/images/saving%20report.png)
 
@@ -34,5 +34,5 @@ Cache saves the data, so the future request for the data is provided faster.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTUyMTI5OCwtMzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbMTY2NzgxNjYwMiwtMzM3MjYyMDJdfQ==
 -->
