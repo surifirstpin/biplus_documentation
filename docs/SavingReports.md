@@ -7,7 +7,7 @@ After extracting the data click on save button in Analysis section as shown in b
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cbe0a5ade1657451e97f2a05d4eba5db6eaa2b1d/images/save_report.png)
 
-## Save Explore
+## Save with info message
 
 Save the report with a proper title and provide privacy information for accessing the saved report.
 
@@ -29,13 +29,12 @@ All the reports build in analysis section are saved under **my space** tag shown
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e3b7bf2c45247e84daf15a733ebe46301c7a2004/images/saving%20report.png)
 
-## Save with info message
 
 
 
 ## Defining Global Filter fields
 
-- **Filter** global filters added in this section is automatically reflected in the filter section of  dashboard.
+- **Filter** global filters added in this section is automatically reflected in the filter section of dashboard reports.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9b8eb3887fb798f871e12f13dddc254b0e845cc2/images/global_filter.png)
 
@@ -49,5 +48,5 @@ Cache saves the data, so the future request for the data is provided faster.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDc5NDQ1NiwtMzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbMTIxOTc5MDA4MSwtMzM3MjYyMDJdfQ==
 -->
