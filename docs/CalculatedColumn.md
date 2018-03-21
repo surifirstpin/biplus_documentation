@@ -36,6 +36,7 @@ bi.days_in_month
 bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 ```
 ### Similarly we can use all the below functionality Using Bi+:
+
 ### General
 | **Name**| **Description**  | **Usage and  Example**|
 |--|--|--|
@@ -91,7 +92,9 @@ Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 |  leftShift | Bitwise left logical shift of a value x by y number of bits, x << y. | bi.leftShift(1, 2) = 4, <br/>bi.leftShift([1, 2, 3], 4) = [16, 32, 64] |
 |  rightArithShift | Bitwise right arithmetic shift of a value x by y number of bits, x >> y. | bi.rightArithShift(4, 2) = 1, <br/>bi.rightArithShift([16, -32, 64], 4) = [1, -2, 3] |
 |  rightLogShift | Bitwise right logical shift of value x by y number of bits, x >>> y. | bi.rightLogShift(4, 2) = 1, <br/>bi.rightLogShift([16, -32, 64], 4) = [1, 2, 3] |
+
 ### Arithmetic
+
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
 |  abs | Returns the absolute value of a number<br/>It removed the -ve symbol for a negative value and displays the result as positive value | bi.abs(${Col_name})<br/>Ex: bi.abs(-2) = 2 |
@@ -244,7 +247,7 @@ Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 |  isZero | Results true / false after validating  the given value is  whether it is zero | bi.isZero(value)<br/> Ex: bi.isZero(1) = false, <br/>       bi.isZero(0) = true |
 |  typeof | Determine the type of a variable. | bi.typeof(3.5) = number, <br/>bi.typeof(math.complex('2-4i')) = complex,<br/>bi.typeof('hello world') = string |
 
-## Usage of plugin# for Grid View
+## Usage of #math#plugin# for Grid View
 
 Plugin operators provides complete authority on creation,edition and deletion of raw data. It allows customization of data using JavaScript API language  as per the business requirement.
 
@@ -397,5 +400,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTQ0MjE0MCwxMTU2NzE1MzA2XX0=
+eyJoaXN0b3J5IjpbLTk2MTczNzY1OCwxMTU2NzE1MzA2XX0=
 -->
