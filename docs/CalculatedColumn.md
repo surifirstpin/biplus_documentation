@@ -255,6 +255,7 @@ Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 
 Perform Arithmetic operation on desired fields in calculated columns.
 
+Consider below image for example here we are adding number 10 to
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/60036e93167331ca3442d5bb10ff48209b021fdd/images/arth_add.png)
 
 
@@ -404,5 +405,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDAxMTg2OTQsMTE1NjcxNTMwNl19
+eyJoaXN0b3J5IjpbMTg3MDEyOTY5MCwxMTU2NzE1MzA2XX0=
 -->
