@@ -312,9 +312,7 @@ bi._Fname(input_param1, input_param2,.......)
 
 ## Access Global Parameters
  
- Global parameter is a flat file used to manipulate,control and organize the data which is not available in database and accessed this data in report.
- 
- While calculating an expression over a database value using field reference.
+ Global parameter is a flat file used to manipulate, control and organize the data which is not available in database and can access this data in report, While calculating an expression over a database value using field reference.
  
 **Syntax** 
 
@@ -408,5 +406,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTY1MDUyNCwxMTU2NzE1MzA2XX0=
+eyJoaXN0b3J5IjpbLTUwNjkyNzA4MSwxMTU2NzE1MzA2XX0=
 -->
