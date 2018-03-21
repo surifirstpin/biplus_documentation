@@ -39,7 +39,7 @@ Filter are used to extract only specific data you want to view. this function is
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0cd869712c2e2db47b176cb6dda6dc83d8b0db1e/images/filter_reports.png)
 
-## Cache option with specific duration
+## Enable Cache fwith specific duration
 
 Cache saves the data, so the future request for the data is provided faster.
 
@@ -49,7 +49,8 @@ Cache saves the data, so the future request for the data is provided faster.
 
 - **Repeat every** Enables automatic repeat in specified time range.
 
+https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDg3ODI2MiwtMzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbMTEwOTE1NjYwNywtMzM3MjYyMDJdfQ==
 -->
