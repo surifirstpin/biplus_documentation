@@ -255,7 +255,10 @@ Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 
 Perform Arithmetic operation on desired fields in calculated columns.
 
- For Example: To add an amount to the column field, consider the following expression.
+ For Example: To add an amount 2000 to the column field ordervalue_sum, derive the following expression in calculated column screen.
+ ```
+bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,2000)
+```
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/8482aac4e08d59dd60a2b28e6d34302df3357ebd/images/calculated1.png)
@@ -406,5 +409,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk4MzgyODUsMTE1NjcxNTMwNl19
+eyJoaXN0b3J5IjpbMTg3OTQ0MDk4NywxMTU2NzE1MzA2XX0=
 -->
