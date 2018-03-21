@@ -14,8 +14,10 @@ Name the report with a title and provide all the below information.
 - **Title** label for the report the way you want it to appear.
 
 - **Info** displays any specific information about the report.
+
 - **Privacy** Select one of the three options “Public”, “Private”, “Share” as per the requirement. 
-  - **Private ()** report saved in private section and accessed by the user itself.
+
+     - **Private ()** report saved in private section and accessed by the user itself.
   - **Public ()** the report is saved in public section and accessed by all the users.
   -  **Share ()** the report saved under share section and accessed by specific set of users.
 ## Saving under specific tag
@@ -44,5 +46,5 @@ Cache saves the data, so the future request for the data is provided faster.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTU1Mzg3MCwtMzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbMTE2NDMyODUyMCwtMzM3MjYyMDJdfQ==
 -->
