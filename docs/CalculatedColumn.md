@@ -7,13 +7,13 @@ Calculated column is a functionality that allows to manipulate the retrieved dat
 
 1. Supports wide variety of arithmetical and logical functions to be applied on the data.
 
-2. Calculates using the data from external parameters (through "Global parameters") by making reference to the database field(s). 
+2. Calculates using the data from external parameters (through "Global parameters") by making reference to the database fields. 
 
-3. Controls or access the data with user wise calculations,
+3. Controls or access the data with user wise calculations.
 
-4. Optimize and transform the data using #plugin# functionality.
+4. Optimize and transform the data using **#plugin#** functionality.
 
-5. Allows to define a function or use a Global function to be applied on the required data fields.
+5. Define a function or use a Global function to be applied on the required data fields.
  
 > Note: The functions support JavaScript API.
 
@@ -397,5 +397,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTcwOTEzNiwxMTU2NzE1MzA2XX0=
+eyJoaXN0b3J5IjpbLTExNjcwMjI0MTIsMTE1NjcxNTMwNl19
 -->
