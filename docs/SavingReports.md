@@ -8,7 +8,7 @@ After extracting the data click on save button in Analysis section as shown in b
 ](https://raw.githubusercontent.com/sv18042016/fp1/cbe0a5ade1657451e97f2a05d4eba5db6eaa2b1d/images/save_report.png)
 
 ## Save Explore
-Y
+To save the report in 
 ## Saving under specific tag
 
 All the reports build in analysis section are saved under **my space** tag shown below.
@@ -41,5 +41,5 @@ Cache saves the data, so the future request for the data is provided faster.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Mzk5MjE3NSwtMzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbNjY0Njc1NjMwLC0zMzcyNjIwMl19
 -->
