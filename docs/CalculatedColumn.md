@@ -409,5 +409,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzYyNzE3MSwxMTU2NzE1MzA2XX0=
+eyJoaXN0b3J5IjpbMjEwNzYyNzE3MV19
 -->
