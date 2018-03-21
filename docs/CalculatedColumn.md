@@ -248,6 +248,16 @@ Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 |  isZero | Results true / false after validating  the given value is  whether it is zero | bi.isZero(value)<br/> Ex: bi.isZero(1) = false, <br/>       bi.isZero(0) = true |
 |  typeof | Determine the type of a variable. | bi.typeof(3.5) = number, <br/>bi.typeof(math.complex('2-4i')) = complex,<br/>bi.typeof('hello world') = string |
 
+
+
+
+## Arithmetic & Logical operations on Data Fields
+
+Perform Arithmetic operation on desired fields in calculated columns.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/60036e93167331ca3442d5bb10ff48209b021fdd/images/arth_add.png)
+
+
 ## Usage of #math#plugin# for Grid View
 
 Plugin operators provides complete authority on creation,edition and deletion of raw data. It allows customization of data using JavaScript API language  as per the business requirement.
@@ -274,13 +284,6 @@ return x;
 }
 /*END*/
 ```
-
-## Arithmetic & Logical operations on Data Fields
-
-Perform Arithmetic operation on desired fields in calculated columns.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/60036e93167331ca3442d5bb10ff48209b021fdd/images/arth_add.png)
-
 
 ## Calculate Custom Functions
 
@@ -401,5 +404,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMzg1NTM2NCwxMTU2NzE1MzA2XX0=
+eyJoaXN0b3J5IjpbLTExNDAxMTg2OTQsMTE1NjcxNTMwNl19
 -->
