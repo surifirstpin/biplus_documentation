@@ -1,5 +1,6 @@
 <center><h1>Saving Reports</h1></center>
 
+
 ## Save under specific tag
 
 All the data retrieved in analysis section can be saved in any specific tag as shown below.
@@ -32,5 +33,5 @@ Cache saves the data, so the future request for the data is provided faster.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzI2MjAyXX0=
+eyJoaXN0b3J5IjpbMTMxNDAxNjY4NywtMzM3MjYyMDJdfQ==
 -->
