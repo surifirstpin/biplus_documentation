@@ -254,7 +254,9 @@ Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 ## Arithmetic & Logical operations on Data Fields
 
 Perform Arithmetic operation on desired fields in calculated columns.
-> For Example: 
+
+ For Example: To add an amount to the column field, consider the following expression.
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/8482aac4e08d59dd60a2b28e6d34302df3357ebd/images/calculated1.png)
 
@@ -404,5 +406,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjQ5ODYzOSwxMTU2NzE1MzA2XX0=
+eyJoaXN0b3J5IjpbLTE3Njk4MzgyODUsMTE1NjcxNTMwNl19
 -->
