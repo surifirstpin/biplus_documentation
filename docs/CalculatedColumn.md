@@ -372,7 +372,8 @@ By enabling the field calculate on raw the calculation are applied directly on t
 ```
 ${ROOT.BI_ORDERS.sum_AMOUNT}+2
 ```
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fe0920a5f1e6abcabfab1c22ce5d8a5df08ee789/images/on_ram.png)
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/457490d3185941046566d493017e4f95c2b8b18a/images/calculate_on_raw.png)
 
 ## Calculate column with Pivot Offset
 
@@ -409,5 +410,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDczNDg0NCwxMTU2NzE1MzA2XX0=
+eyJoaXN0b3J5IjpbMzE3ODA3NjQ2LDExNTY3MTUzMDZdfQ==
 -->
