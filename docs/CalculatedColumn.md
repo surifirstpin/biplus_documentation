@@ -3,7 +3,7 @@
 
 Calculated column is a functionality that allows to manipulate the retrieved data using arithmetical, logical, text-based and date-based functions and then displays it in the required format. the data extracted using calculated column will show up in green colour in the data table, rather than blue (dimensions), or orange (measures). Just like regular dimensions and measures, calculated columns are controlled from display in visualizations.
 
-**Usage :**
+## Features of Calculated Column
 
 1. Supports a wide variety of arithmetical and logical functions to be applied on the data.
 2. Calculates using the data from external parameters (through "Global parameters") by making reference to the database field(s). 
@@ -393,5 +393,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNDY3MjQ2LDExNTY3MTUzMDZdfQ==
+eyJoaXN0b3J5IjpbMTA1Nzk3Mjk3LDExNTY3MTUzMDZdfQ==
 -->
