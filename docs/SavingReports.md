@@ -1,6 +1,7 @@
 <center><h1>Saving Reports</h1></center>
 
-Using AcubiThe report build for retreiving the data is saved un
+In Acubi you can save the the report build for retrieving the data in specific location or share them with team members for better collaboration.
+
 ## Save under specific tag
 
 All the data retrieved in analysis section can be saved in any specific tag as shown below.
@@ -33,5 +34,5 @@ Cache saves the data, so the future request for the data is provided faster.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTkxODIwNywtMzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbLTg2Mzc0NzQ2NywtMzM3MjYyMDJdfQ==
 -->
