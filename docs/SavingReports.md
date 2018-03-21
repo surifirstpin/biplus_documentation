@@ -27,10 +27,8 @@ Save the report with a proper title and provide privacy information for accessin
 
 All the reports build in analysis section are saved under **my space** tag shown below.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e3b7bf2c45247e84daf15a733ebe46301c7a2004/images/saving%20report.png)
-
-
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/8d50b81c2f7d831fa967d3e3476fbb5eb6d622f9/images/save_tag.png)
 
 ## Defining Global Filter fields
 
@@ -48,5 +46,5 @@ Cache saves the data, so the future request for the data is provided faster.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTc5MDA4MSwtMzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbLTE2ODY3NjU4NzAsLTMzNzI2MjAyXX0=
 -->
