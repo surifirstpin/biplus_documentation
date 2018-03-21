@@ -34,7 +34,7 @@ All the reports build in analysis section are saved under **my space** tag shown
 
 Filter are used to extract only specific data you want to view. this function is carried out by applying filters to reports.
  
-- **Filter** global filters added in this section is automatically reflected in the filter section of dashboard reports.
+- **Filter**  filters added in this section is automatically reflected in the filter section of dashboard reports.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0cd869712c2e2db47b176cb6dda6dc83d8b0db1e/images/filter_reports.png)
@@ -49,5 +49,5 @@ Cache saves the data, so the future request for the data is provided faster.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI4MTE4MTcsLTMzNzI2MjAyXX0=
+eyJoaXN0b3J5IjpbMTEyNDI1MzkxNCwtMzM3MjYyMDJdfQ==
 -->
