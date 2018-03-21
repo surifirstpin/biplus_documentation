@@ -366,8 +366,7 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 ```
 ## Calculate on Raw functionality
 
-If calculate raw is enabled even after grouping the calculation is applied to each and every record and displays the final result.
-If disabled the calculation will be done after the grouping.
+By enabling calculate on raw function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
 ```
 ${ROOT.BI_ORDERS.sum_AMOUNT}+2
 ```
@@ -408,5 +407,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1MzMzMjk3LDExNTY3MTUzMDZdfQ==
+eyJoaXN0b3J5IjpbLTU0MzgwNjIxNCwxMTU2NzE1MzA2XX0=
 -->
