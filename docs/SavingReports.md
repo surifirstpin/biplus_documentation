@@ -8,18 +8,21 @@ After extracting the data click on save button in Analysis section as shown in b
 ](https://raw.githubusercontent.com/sv18042016/fp1/cbe0a5ade1657451e97f2a05d4eba5db6eaa2b1d/images/save_report.png)
 
 ## Save Explore
-Name the report with a title and provide all the below information.
+
+Save the report with a proper title and provide privacy information for accessing the saved report.
+
 - **Report Name** Name identifier for a report. ( Bi+ allows  special character but does not  support any spaces )
 
 - **Title** label for the report the way you want it to appear.
 
 - **Info** displays any specific information about the report.
 
-- **Privacy** Select one of the three options from**Public**, **Private**, **Share**  to provide access to saved report.
+- **Privacy** Select one of the three options from **Public**, **Private**, **Share**  to provide access to saved report.
 
      - **Private ()** report saved in private section and accessed by the user itself.
   - **Public ()** the report is saved in public section and accessed by all the users.
   -  **Share ()** the report saved under share section and accessed by specific set of users.
+  
 ## Saving under specific tag
 
 All the reports build in analysis section are saved under **my space** tag shown below.
@@ -46,5 +49,5 @@ Cache saves the data, so the future request for the data is provided faster.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTc3OTUzOCwtMzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbMTI0NDc5NDQ1NiwtMzM3MjYyMDJdfQ==
 -->
