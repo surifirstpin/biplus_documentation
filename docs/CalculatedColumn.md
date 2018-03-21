@@ -23,13 +23,12 @@ Custom made mathematical operations can be added in calculated column section as
 
 **Check the number of working days in each month :**
 ```
-#math#
 bi.days_in_month
 (${ROOT.BI_ORDERS.date_month_WHENMADE}) 
 ```
 **To calculate the cubical value of the field :**
 ```
-#math#
+
 bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 ```
 ### Similarly we can use all the below functionality Using Bi+:
@@ -268,8 +267,7 @@ return x;
 /*END*/
 ```
 
-## Arithmetic &
- Logical operations on Data Fields
+## Arithmetic & Logical operations on Data Fields
 
 Perform Arithmetic operation on desired fields in calculated columns.
 
@@ -283,7 +281,6 @@ it will execute a series of actions on a database record and returns a particula
  **Syntax**
 
  ```
- #math#
 /*START*/
 
 function Fname(input_param1,input_param2,.....){
@@ -396,5 +393,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQwMjE2NzEsMTE1NjcxNTMwNl19
+eyJoaXN0b3J5IjpbLTc3ODcwMzg2MywxMTU2NzE1MzA2XX0=
 -->
