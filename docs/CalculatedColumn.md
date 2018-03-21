@@ -368,7 +368,7 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 
 By enabling the field calculate on raw the calculation are applied directly on the retrieved value of the fields, initially before pivot or grouping are applied.
 
->For example : consider the below image in which we are adding number 2 to sum_ORDERVALUE and retrieve data by enabling calculate on raw  and by disabling calculate on raw. Both the data varies as one shows the calculation done to raw data and last column values the calculation applied on grouped values by disabling .
+>For example : consider the below image which represents 2 
 ```
 bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,2)
 ```
@@ -410,5 +410,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODkxMjE3NywxMTU2NzE1MzA2XX0=
+eyJoaXN0b3J5IjpbLTcwODYzMzY0LDExNTY3MTUzMDZdfQ==
 -->
