@@ -2,10 +2,11 @@
 
 In Acubi you can save the the report build for retrieving the data in specific location under a specific tag or share them with team members for better collaboration.
 
-**1.** After extracting the data click on **Save button** in Analysis section as shown in below image,
+**1.** After extracting the data click on **Save button** in Analysis section to save the report, it will navigate to Save Explore section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cbe0a5ade1657451e97f2a05d4eba5db6eaa2b1d/images/save_report.png)
+
 
 ## Save with info message
 
@@ -52,5 +53,5 @@ Cache saves the data, so the future request for the data is provided faster.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTE2NTg4NiwtMzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbLTk0OTEyNjg3NSwtMzM3MjYyMDJdfQ==
 -->
