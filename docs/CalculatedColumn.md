@@ -35,7 +35,7 @@ bi.days_in_month
 
 bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 ```
-### Similarly we can use all the below functionality Using Bi+:
+**Similarly we can use all the below functionality Using Bi+:
 
 ### General
 | **Name**| **Description**  | **Usage and  Example**|
@@ -400,5 +400,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MTczNzY1OCwxMTU2NzE1MzA2XX0=
+eyJoaXN0b3J5IjpbNDk3MDkyODA5LDExNTY3MTUzMDZdfQ==
 -->
