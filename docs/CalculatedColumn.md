@@ -266,8 +266,7 @@ bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,2000)
 ## Usage of #math#plugin# for Grid View
 
 Plugin operators provides complete authority on creation,edition and deletion of raw data. It allows customization of data using JavaScript API language  as per the business requirement.
-
-**_biCalculation.pluginData.raw**  holds the Raw JSON data and can be transformed as per the requirement.
+ **_biCalculation.pluginData.raw**  holds the Raw JSON data and can be transformed as per the requirement.
 
 ```
 #math#plugin#
@@ -409,5 +408,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY2NDkxMzgsMTE1NjcxNTMwNl19
+eyJoaXN0b3J5IjpbMTY0MTY1MDUyNCwxMTU2NzE1MzA2XX0=
 -->
