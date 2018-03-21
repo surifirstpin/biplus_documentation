@@ -267,7 +267,7 @@ bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,2000)
 
 Plugin operators provides complete authority on creation,edition and deletion of raw data. It allows customization of data using JavaScript API language  as per the business requirement.
 
-- **_biCalculation.pluginData.raw**  holds the Raw JSON data and can be transformed as per the requirement.
+**_biCalculation.pluginData.raw**  holds the Raw JSON data and can be transformed as per the requirement.
 
 ```
 #math#plugin#
@@ -409,5 +409,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTQ0MDk4NywxMTU2NzE1MzA2XX0=
+eyJoaXN0b3J5IjpbLTEzOTY2NDkxMzgsMTE1NjcxNTMwNl19
 -->
