@@ -15,7 +15,7 @@ Name the report with a title and provide all the below information.
 
 - **Info** displays any specific information about the report.
 
-- **Privacy** Select one of the three options from “Public”, “Private”, “Share”  to provide type of access to repor
+- **Privacy** Select one of the three options from “Public”, “Private”, “Share”  to provide type of access to saved report.
 
      - **Private ()** report saved in private section and accessed by the user itself.
   - **Public ()** the report is saved in public section and accessed by all the users.
@@ -46,5 +46,5 @@ Cache saves the data, so the future request for the data is provided faster.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTM1NzY0OSwtMzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbLTIwNzIzMTYxMTAsLTMzNzI2MjAyXX0=
 -->
