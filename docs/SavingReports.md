@@ -10,7 +10,7 @@ In Acubi you can save the the report build for retrieving the data in specific l
 
 ## Save with info message
 
-Under **Save Explore** page provide all the information to save a report  for faccessing the saved report.
+Under **Save Explore** page provide all the below information to save a report for further accessing.
 
 - **Report Name** Name identifier for a report. ( Bi+ allows  special character but does not  support any spaces )
 
@@ -24,12 +24,12 @@ Under **Save Explore** page provide all the information to save a report  for fa
   - **Public ()** the report is saved in public section and accessed by all the users.
   -  **Share ()** the report saved under share section and accessed by specific set of users.
   
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/8d50b81c2f7d831fa967d3e3476fbb5eb6d622f9/images/save_tag.png)
+
 ## Saving under specific tag
 
 All the reports build in analysis section are saved under **my space** tag shown below.
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/8d50b81c2f7d831fa967d3e3476fbb5eb6d622f9/images/save_tag.png)
 
 ## Defining Filter fields
 
@@ -53,5 +53,5 @@ Cache saves the data, so the future request for the data is provided faster.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjQ3NTI5MywtMzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbLTE0MzAzMDYxMDYsLTMzNzI2MjAyXX0=
 -->
