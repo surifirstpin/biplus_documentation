@@ -25,9 +25,8 @@ Under **Save Explore** page provide all the below information to save a report f
   - **Public ()** the report is saved in public section and accessed by all the users.
   -  **Share ()** the report saved under share section and accessed by specific set of users.
   
- 
- >Image 2
- 
+>Image 2
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/8d50b81c2f7d831fa967d3e3476fbb5eb6d622f9/images/save_tag.png)
 
@@ -40,6 +39,7 @@ All the reports build in analysis section are saved under **my space** tag. ( Re
 Filter are used to extract only specific data you want to view. this function is carried out by applying filters to reports.
  
 - **Filter**  filters added in this section is automatically reflected in the filter section of dashboard reports.
+
 >Image 3
 
 ![
@@ -55,9 +55,9 @@ Cache saves the data, so the future request for the data is provided faster.
 
 - **Repeat every** Enables automatic repeat in specified time range.
 >Image 4
->
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTQwNDQ4OCwtMzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbLTEyNjE3MjU5NTYsLTMzNzI2MjAyXX0=
 -->
