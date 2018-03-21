@@ -34,7 +34,8 @@ All the reports build in analysis section are saved under **my space** tag shown
 
 - **Filter** global filters added in this section is automatically reflected in the filter section of dashboard reports.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9b8eb3887fb798f871e12f13dddc254b0e845cc2/images/global_filter.png)
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/8d50b81c2f7d831fa967d3e3476fbb5eb6d622f9/images/save_tag.png)
 
 ## Cache option with specific duration
 
@@ -46,5 +47,5 @@ Cache saves the data, so the future request for the data is provided faster.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY3NjU4NzAsLTMzNzI2MjAyXX0=
+eyJoaXN0b3J5IjpbMTIxODkwODQxMSwtMzM3MjYyMDJdfQ==
 -->
