@@ -44,10 +44,12 @@ Filter are used to extract only specific data you want to view. this function is
 Cache saves the data, so the future request for the data is provided faster.
 
 - **Enable cache** multiple users can pull the report from the cache in given time frame.
+
 - **Time frame** Enables a time limit.
+
 - **Repeat every** Enables automatic repeat in specified time range.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDI1MzkxNCwtMzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbMTYzMDg3ODI2MiwtMzM3MjYyMDJdfQ==
 -->
