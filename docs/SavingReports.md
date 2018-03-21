@@ -4,7 +4,7 @@ In Acubi you can save the the report build for retrieving the data in specific l
 
 **1.** After extracting the data click on **Save button** in Analysis section to save the report, it will navigate to Save Explore section.
 
-![
+![ image
 ](https://raw.githubusercontent.com/sv18042016/fp1/cbe0a5ade1657451e97f2a05d4eba5db6eaa2b1d/images/save_report.png)
 
 
@@ -29,7 +29,7 @@ Under **Save Explore** page provide all the below information to save a report f
 
 ## Saving under specific tag
 
-All the reports build in analysis section are saved under **my space** tag shown below.
+All the reports build in analysis section are saved under **my space** tag. ( Refer Image 2)
 
 ## Defining Filter fields
 
@@ -53,5 +53,5 @@ Cache saves the data, so the future request for the data is provided faster.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzAzMDYxMDYsLTMzNzI2MjAyXX0=
+eyJoaXN0b3J5IjpbMjE4ODI2NDA5LC0zMzcyNjIwMl19
 -->
