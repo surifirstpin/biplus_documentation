@@ -14,7 +14,7 @@ A functionality which allows to manipulate the retrieved data using arithmetical
 > Note: The functions support JavaScript API.
 
 
-## Usage of #math# Custom
+## Mathematical operation in Acubi
 
 Custom made mathematical operations can be added in calculated column section as shown below
 
@@ -396,5 +396,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjM3NDUyMCwxMTU2NzE1MzA2XX0=
+eyJoaXN0b3J5IjpbLTE4MTQwMjE2NzEsMTE1NjcxNTMwNl19
 -->
