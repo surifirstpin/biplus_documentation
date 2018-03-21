@@ -244,7 +244,7 @@ Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 |  isZero | Results true / false after validating  the given value is  whether it is zero | bi.isZero(value)<br/> Ex: bi.isZero(1) = false, <br/>       bi.isZero(0) = true |
 |  typeof | Determine the type of a variable. | bi.typeof(3.5) = number, <br/>bi.typeof(math.complex('2-4i')) = complex,<br/>bi.typeof('hello world') = string |
 
-## Usage of #math#plugin# for Grid View
+## Usage of plugin# for Grid View
 
 Plugin operators provides complete authority on creation,edition and deletion of raw data. It allows customization of data using JavaScript API language  as per the business requirement.
 
@@ -397,5 +397,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjcwMjI0MTIsMTE1NjcxNTMwNl19
+eyJoaXN0b3J5IjpbMTEzMTQ0MjE0MCwxMTU2NzE1MzA2XX0=
 -->
