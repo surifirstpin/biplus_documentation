@@ -2,6 +2,7 @@
 
 In Acubi you can save the the report build for retrieving the data in specific location under a specific tag or share them with team members for better collaboration.
 
+After extracting the data click on sav
 ## Saving under specific tag
 
 All the reports build in analysis section are saved under **my space** tag shown below.
@@ -34,5 +35,5 @@ Cache saves the data, so the future request for the data is provided faster.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzgxNjYwMiwtMzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbLTIwMjY5MzU2ODksLTMzNzI2MjAyXX0=
 -->
