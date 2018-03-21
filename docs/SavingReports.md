@@ -1,6 +1,6 @@
 <center><h1>Saving Reports</h1></center>
 
-In Acubi you can save the the report build for retrieving the data in specific location or share them with team members for better collaboration.
+In Acubi you can save the the report build for retrieving the data in specific location under a specific tag or share them with team members for better collaboration.
 
 ## Save under specific tag
 
@@ -34,5 +34,5 @@ Cache saves the data, so the future request for the data is provided faster.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Mzc0NzQ2NywtMzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbLTEwMzY1NTcwMzgsLTMzNzI2MjAyXX0=
 -->
