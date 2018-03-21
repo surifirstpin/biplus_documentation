@@ -32,7 +32,7 @@ All the reports build in analysis section are saved under **my space** tag shown
 
 ## Defining Global Filter fields
 
-
+Filter are used to extrac the specific data you want to view avoiding the 
 - **Filter** global filters added in this section is automatically reflected in the filter section of dashboard reports.
 
 ![
@@ -48,5 +48,5 @@ Cache saves the data, so the future request for the data is provided faster.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDYyNzgwNiwtMzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbNzQyMjQxMDk3LC0zMzcyNjIwMl19
 -->
