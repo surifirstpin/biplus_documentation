@@ -65,8 +65,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  mean | Returns the mean value of a list of values mentioned | bi.mean(p1,p2,p3)<br/>Ex: bi.mean(100,200,300) = 200 |
 |  median | Returns the median value of a list of values mentioned | bi.median(p1,p2,p3,.....) |
 |  mode | Retruns the values which are repeated in the list mentioned | bi.mode(p1,p2,p3,.....)<br/>Ex: bi.mode(1,2,1)=1 |
-|  prod | Returns the product values of the mentioned values |bi.prod(p1,p2,p3,p4,....)
-Ex: bi.prod(p1,p2,p3) = p1 * p2 * p3|
+|  prod | Returns the product values of the mentioned values |bi.prod(p1,p2,p3,p4,....) Ex: bi.prod(p1,p2,p3) = p1 * p2 * p3|
 |  quantileSeq | Returns prob order quantile of a matrix or a list with values | bi.quantileSeq(A, prob[, sorted]) |
 |  std | Returns the standard deviation of a matrix or a list with values. | bi.std(p1,p2,p3 ...)<br/>bi.std(A)<br/>bi.std(A, normalization) |
 |  sum | Returns the sum of list of values mentioned | bi.sum(p1,p2,p3,.....)<br/>Ex: bi.sum(p1,p2,p3) = p1 + p2 +p3 |
@@ -80,10 +79,8 @@ Ex: bi.prod(p1,p2,p3) = p1 * p2 * p3|
 |  date_to_year | Returns the year for the date given | bi.date_to_year(${col_name})<br/>Ex: bi.date_to_year(“2018-02-11”) = 2018 |
 |  date_format | Returns the required format (supported by the database) of a date given |bi.date_format(${col_name}, “required_format”) Ex: bi.date_format(“2018-02-10 235950”, “YYYY-MM”) = 2018-02 |
 | date_diff | Returns the number of days between two given dates | bi.date_diff(date1,date2) |
-| days_in_month | Returns the total number of days in a month for a given date / time stamp | bi.days_in_month (${Col_name})
-Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 28 |
-| days_till_month | Returns the total number of days completed in a month for a given date / time stamp | bi.days_till_month (${Col_name})
-Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
+| days_in_month | Returns the total number of days in a month for a given date / time stamp | bi.days_in_month (${Col_name}) Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 28 |
+| days_till_month | Returns the total number of days completed in a month for a given date / time stamp | bi.days_till_month (${Col_name})Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 
 ### Bitwise Operator
 |  **Name** | **Description** | **Usage & Example** |
@@ -411,5 +408,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDM0MzI3OThdfQ==
+eyJoaXN0b3J5IjpbMjQ4Mzk1MjQ2XX0=
 -->
