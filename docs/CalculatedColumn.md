@@ -379,7 +379,7 @@ bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,2)
 
 ## Calculate column with Pivot Offset
 
-For Instance, to look at the quantity_sum difference by each month for specific customer then select customer_id,add pivot to  month.
+For Instance, to look at the quantity_sum difference by each month for specific customer then select customer_id, add pivot to  month.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cfd94b0b9fe7b31888a3c426882590bae7914fc4/images/pivot_offset.png)
 
@@ -411,5 +411,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjYzNjY3MDJdfQ==
+eyJoaXN0b3J5IjpbNTc4ODk2NDQwXX0=
 -->
