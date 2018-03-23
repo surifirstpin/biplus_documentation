@@ -10,7 +10,7 @@ Calculated column is a functionality that allows to manipulate the retrieved dat
 
 3. Controls or access the data with user wise calculations.
 
-4. Optimize and transform the data using **#plugin#** functionality.
+4. Optimize and transform the data using  **#plugin#**  functionality.
 
 5. Define a function or use a Global function to be applied on the required data fields.
  
@@ -411,5 +411,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDIzNDQ3OTJdfQ==
+eyJoaXN0b3J5IjpbLTIwMDM0MzI3OThdfQ==
 -->
