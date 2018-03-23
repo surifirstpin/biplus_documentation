@@ -21,14 +21,17 @@ Calculated column is a functionality that allows to manipulate the retrieved dat
 
 Custom made mathematical operations can be added in calculated column section as shown in below Image;
 
+**To Check number of working days in each month :**
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a3a039bae7badccb31d41bbc9c5449943045474/images/calculate.png)
-
-**Check number of working days in each month :**
 ```
 bi.days_in_month
 (${ROOT.BI_ORDERS.date_month_WHENMADE}) 
 ```
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a3a039bae7badccb31d41bbc9c5449943045474/images/calculate.png)
+
+
+
 **To calculate the cubical value of the field :**
 ```
 
@@ -408,5 +411,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDIxNzU2MV19
+eyJoaXN0b3J5IjpbLTkzOTAwMjkxNF19
 -->
