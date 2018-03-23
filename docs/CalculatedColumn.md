@@ -379,7 +379,7 @@ bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,2)
 
 ## Calculate column with Pivot Offset
 
-For Instance,to view the ordervalue sum and average by each month for specific customer then select customer_id, add pivot to  month.
+For Instance,to view the ordervalue sum and average w.r.t each station code, then apply pivot to stationcosmonth.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cfd94b0b9fe7b31888a3c426882590bae7914fc4/images/pivot_offset.png)
 
@@ -411,5 +411,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwMDU2MDA5XX0=
+eyJoaXN0b3J5IjpbLTExOTM1MzM1MzldfQ==
 -->
