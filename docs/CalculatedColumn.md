@@ -380,8 +380,8 @@ bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,2)
 ## Calculate column with Pivot Offset
 
 >For Instance, to view the order-value sum and average w.r.t each station code, then apply pivot to station-code and run the report.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cfd94b0b9fe7b31888a3c426882590bae7914fc4/images/pivot_offset.png)
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/5993c1fa2683f7ecb11c313b45e40254e525f625/images/pivot_stationcoed.png)
 
 We can get quantity_sum difference of each month for specific customer using Pivot_Offset() function.
 
@@ -411,5 +411,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA4ODc4MjJdfQ==
+eyJoaXN0b3J5IjpbLTEzNTI2ODg3OTddfQ==
 -->
