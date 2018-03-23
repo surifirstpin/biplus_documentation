@@ -1,6 +1,5 @@
 <center><h1>Calculated Column</h1></center>
 
-
 Calculated column is a functionality that allows to manipulate the retrieved data using arithmetical, logical, text-based and date-based functions and then displays it in the required format. the data extracted using calculated column will show up in green colour in the data table, rather than blue (dimensions), or orange (measures). Just like regular dimensions and measures, calculated columns are controlled from display in visualizations.
 
 ## Features of Calculated Column
@@ -20,7 +19,7 @@ Calculated column is a functionality that allows to manipulate the retrieved dat
 
 ## Mathematical operation in Acubi
 
-Custom made mathematical operations can be added in calculated column section as shown below
+Custom made mathematical operations can be added in calculated column section as shown in below Image;
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a3a039bae7badccb31d41bbc9c5449943045474/images/calculate.png)
@@ -409,5 +408,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzYyNzE3MV19
+eyJoaXN0b3J5IjpbLTE0OTQwMjQ0MDZdfQ==
 -->
