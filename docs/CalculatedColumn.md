@@ -379,7 +379,7 @@ bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,2)
 
 ## Calculate column with Pivot Offset
 
->For Instance, to view the order-value sum and average w.r.t each station code, then apply pivot to station-code and run the report.
+>**For Instance**, to view the order-value sum and average w.r.t each station code, then apply pivot to station-code and run the report.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5993c1fa2683f7ecb11c313b45e40254e525f625/images/pivot_stationcoed.png)
@@ -412,5 +412,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzgxMzA2N119
+eyJoaXN0b3J5IjpbNzY0NTE2OTE3XX0=
 -->
