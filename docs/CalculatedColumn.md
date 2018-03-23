@@ -402,15 +402,15 @@ statement 2;                                     // Function body
 statement 3;
 ...........
 ...........
-
 return `;   
 }
 /*END*/
 fname(value1, value2, value3, .....)    //Call Function
 ```
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/52b7c4357f0c07e4a89b14f018cf3d877a5ba4f3/images/cal_local_fucntion.png)
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0NTE2OTE3XX0=
+eyJoaXN0b3J5IjpbLTc3OTEyMDk3MV19
 -->
