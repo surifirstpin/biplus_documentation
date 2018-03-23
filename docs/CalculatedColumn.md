@@ -24,7 +24,7 @@ Custom made mathematical operations can be added in calculated column section as
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a3a039bae7badccb31d41bbc9c5449943045474/images/calculate.png)
 
-**Check the number of working days in each month :**
+**Check number of working days in each month :**
 ```
 bi.days_in_month
 (${ROOT.BI_ORDERS.date_month_WHENMADE}) 
@@ -408,5 +408,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQwMjQ0MDZdfQ==
+eyJoaXN0b3J5IjpbMTkyMDIxNzU2MV19
 -->
