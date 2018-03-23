@@ -45,7 +45,7 @@ Let us see in detail how this charts works.
 ](https://raw.githubusercontent.com/sv18042016/fp1/6904440c50633ac92f461d7b7f2fd2c2d0e9b7dc/images/line_chart.png)
 
 
- ## Editing Options for Line Chart
+ ### Editing Options for Line Chart
  
  - **Line type** displays the information as a series of data points called markers. Below are the list of markers used in line chart ( spline acts as  default line type), 
    - Line
@@ -88,7 +88,7 @@ This section describes the editing option for Pie chart in visualization.
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f52c167aa93a715736ed2800ae5ca56675c54e42/images/pie_chart.png)
 
- ## Editing Options for Line Chart
+### Editing Options for Line Chart
  
 - **Show percentage**  displays percentage for each measure value in pie chart. To enable it select the **Check Box** show percentage as shown below;
 
@@ -386,5 +386,5 @@ eyJoaXN0b3J5IjpbLTM1MjI5MjMzM119
 eyJoaXN0b3J5IjpbMTIyOTg1ODU0OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4NDMxMTI5XX0=
+eyJoaXN0b3J5IjpbODUwNzM5NTQzXX0=
 -->
