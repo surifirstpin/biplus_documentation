@@ -337,7 +337,7 @@ bi._Fname(input_param1, input_param2,.......)
 ```
   **Example :**
 ```
-#math#
+
 bi.in_global_keys( ["Station_Name"],["Station_1" ],"Calc_ONRAW.value")
 ```
 
@@ -349,7 +349,7 @@ bi.in_global_keys( ["Station_Name"],["Station_1" ],"Calc_ONRAW.value")
 ```
   **Example :**
 ```
-#math#
+
 bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"Calc_ONRAW.value")
 ```
 
@@ -411,5 +411,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzU5NDIyMl19
+eyJoaXN0b3J5IjpbLTEyNjYzNjY3MDJdfQ==
 -->
