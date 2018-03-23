@@ -30,7 +30,7 @@ bi.days_in_month
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a3a039bae7badccb31d41bbc9c5449943045474/images/calculate.png)
 
-Similarly all the below mentioned operation can be calcul
+Similarly we can also cubical values for the column fields as shown inbelow examp[lelated column.
 
 **To calculate the cubical value of the field :**
 ```
@@ -411,5 +411,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDYwNTUxMl19
+eyJoaXN0b3J5IjpbMTc1MTI5Nzg1OV19
 -->
