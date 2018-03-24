@@ -253,7 +253,7 @@ currency : currency_symbol
 
 > Example : “currency” : “$”
 
-.  **Time_frame:**  Bi+ provides an option to extract different components associated with time stamp for user convenience.
+**III.**  **Time_frame:**  Bi+ provides an option to extract different components associated with time stamp for user convenience.
 
 **Below are the formats adopted by default :**
 
@@ -271,7 +271,7 @@ currency : currency_symbol
 |  10 | Date_hour | Extract Date and respective Hour component |
 |  11 | Year_week | Extract year and respective week component |
 
-## User Defined Fields(UDF):
+## User Defined Fields (UDF):
 
 Bi+ has an ability to create new fields in a view with all attributes that are applicable to a database field and with return value (“sql” section of the field) as any of the following options:
 
@@ -486,5 +486,5 @@ Bi+ provides map view by covering various number of countries. Also, there are s
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5ODMyODgzXX0=
+eyJoaXN0b3J5IjpbMTY2MTEwODg3Ml19
 -->
