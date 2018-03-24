@@ -69,7 +69,7 @@ b. Click on **add** link available at right side of the saved report.
 
 ## Lookup   
 
-**7.**   **Lookup**  Adding lookup to dashboard will refer set of query or list of items in filters. Add single or multiple lookups to a dashboard report by using **Add Lookups** in **Apply filter** section of dashboard..( Refer image 5)
+**7.**   **Lookup**  Adding lookup to dashboard will refer set of query or list of items in filters.( Refer image 5)
 
    -   **Lookup name**  name of the lookup field.
    
@@ -109,7 +109,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 -   **Info**  summary information of the dashboard created.
 
-- **Privacy**  using privacy option you can save the dashboard in any of the 3 following sections.
+- **Privacy**  you can save the report in any one of the following privacy option.
 
   -   **Private ()**  Dashboard saved in private section and accessed by the user itself.
 
@@ -132,8 +132,8 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzMyMjMzOCwtMjA2NjgzNDY3OSwxNz
-k4MTgxODg0LDE3OTgxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2
-OTU0MCwtNzY2NzEyOTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMz
-M4OTM0NTBdfQ==
+eyJoaXN0b3J5IjpbMjE5NjA1MDk2LC0yMDY2ODM0Njc5LDE3OT
+gxODE4ODQsMTc5ODE4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5
+NTQwLC03NjY3MTI5NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMz
+g5MzQ1MF19
 -->
