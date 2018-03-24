@@ -311,7 +311,7 @@ Where condition is an expression on the fields of self view and Expression\_1, E
 
 ```
 
-Where condition is an expression can be on the fields of self view or mapped view and Expression\_1, Expression\_2 are expressions which include fields of self view or mapped view
+Where condition is an expression can be on the fields of self view or mapped view and Expression_1, Expression_2 are expressions which include fields of self view or mapped view
 
 > **Example**  “sql”: “(CASE WHEN (${[Customers.ID](http://customers.id/)} is not null) THEN ${TABLE}.Amount ELSE 0 END)”
 
@@ -486,5 +486,5 @@ Bi+ provides map view by covering various number of countries. Also, there are s
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTEwODg3Ml19
+eyJoaXN0b3J5IjpbNjI1NTI2MDI0XX0=
 -->
