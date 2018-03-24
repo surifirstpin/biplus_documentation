@@ -118,7 +118,7 @@ I.  **filter_sql :**  the filter expression or condition. Filter expression can 
 > String-based : ROOT.Orders.PaymentMode IN (‘Cash’,’PayTM’)  
 > Number-based : ROOT.BI_Orders.Amount IS NOT NULL.
 
--   **User-based :**  Bi+ allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users. That means, for a particular user login, the data retrievable in Analyze section will be constrained with a list of pre-defined values.
+-   **User-based :**  Acubi allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users. That means, for a particular user login, the data retrievable in Analyze section will be constrained with a list of pre-defined values.
 
 ```
  " DB.TABLE.COLUMN IN
@@ -348,7 +348,7 @@ Where the expression contain the fields of self view and should result a single 
 
 ## Drill-down feature :
 
-Drilldown is used for exploring the data further with respect to a field value. Bi+ has an ability to define drill option for a field with a set of derivable fields and when clicked on a particular value of an assigned field, the individual records that make up that cell will be displayed by limiting the query with the clicked value.
+Drill-down is used for exploring the data further with respect to a field value. Acubi has an ability to define drill option for a field with a set of derivable fields and when clicked on a particular value of an assigned field, the individual records that make up that cell will be displayed by limiting the query with the clicked value.
 
 ## Show\_drill\_down_measures:
 
@@ -486,5 +486,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDMwODY1NV19
+eyJoaXN0b3J5IjpbLTE3NDY2MzcwMF19
 -->
