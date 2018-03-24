@@ -372,8 +372,8 @@ Bi+ provides an additional attribute to drill down as  **Show_drill_down_ measur
 > “operators”: “”,  
 > “sql”: “${TABLE}.StateName”,  
 > “summary”: “”,  
-> “drill\_down\_fields”: “CityName,No\_of\_Employees”,  
-> “show\_drill\_down_measures”: “true”,  
+> “drill_down_fields”: “CityName,No_of_Employees”,  
+> “show_drill_down_measures”: “true”,  
 > “visualise”: “true”  
 > }
 
@@ -486,5 +486,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTc0MjcwN119
+eyJoaXN0b3J5IjpbLTE5MDI1OTUzM119
 -->
