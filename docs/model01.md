@@ -195,7 +195,7 @@ The Associated keywords with the views are flowing :
 
 **Among the above stated list, the following are the special attributes for user convenience :**
 
-**I.**  **lookup and operator :**  Using “lookup” feature, Bi+ allows to define a set of filter values for a field. The assignment can be made in the following two ways:
+**I.**  **lookup and operator :**  Using “lookup” feature, Acubi allows you to define a set of filter values for a field. The assignment can be made in the following two ways:
 
 -   **Query**  an sql query returning a set of values can be written in “lookup” for a field. It will be useful if the filter values are large in number and becomes tedious to mention all of them as a list.
 
@@ -244,7 +244,7 @@ operator:multiple.
 |  21 | #K | 12345 678566999999k |
 |  22 | #M | 12.345678567IM |
 
--   **Currency**  Bi+ supports following currency formats “$”, “€”, “£”, “₹”.
+-   **Currency**  Acubi supports following currency formats “$”, “€”, “£”, “₹”.
 
 ```
 currency : currency_symbol
@@ -253,7 +253,7 @@ currency : currency_symbol
 
 > Example : “currency” : “$”
 
-**III.**  **Time_frame:**  Bi+ provides an option to extract different components associated with time stamp for user convenience.
+**III.**  **Time_frame:** Acubi provides an option to extract different components associated with time stamp for user convenience.
 
 **Below are the formats adopted by default :**
 
@@ -486,5 +486,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDYzNTYyOF19
+eyJoaXN0b3J5IjpbNjE2MjY2MjcxXX0=
 -->
