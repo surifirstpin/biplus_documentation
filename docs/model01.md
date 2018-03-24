@@ -46,9 +46,9 @@ The following are the list of entries made to create a project.
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model%204.png)
 
 -   **Privacy**  Select one of the three options “Public”, “Private”, “Share” as per the requirement.
--   **Private ()**  report saved in private section and accessed by the user itself.
--   **Public ()**  the report is saved in public section and accessed by all the users.
--   **Share ()**  the report saved under share section and accessed by specific set of users.
+    -   **Private ()**  report saved in private section and accessed by the user itself.
+    -   **Public ()**  the report is saved in public section and accessed by all the users.
+    -   **Share ()**  the report saved under share section and accessed by specific set of users.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/8dcf17faa6e3f50d5f3f79ae269a02c1eb7237c9/images/save_project.png)
@@ -486,5 +486,5 @@ Bi+ provides map view by covering various number of countries. Also, there are s
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1NTI2MDI0XX0=
+eyJoaXN0b3J5IjpbODQ2OTI4OTA0XX0=
 -->
