@@ -350,18 +350,18 @@ Where the expression contain the fields of self view and should result a single 
 
 Drill-down is used for exploring the data further with respect to a field value. Acubi has an ability to define drill option for a field with a set of derivable fields and when clicked on a particular value of an assigned field, the individual records that make up that cell will be displayed by limiting the query with the clicked value.
 
-## Show\_drill\_down_measures:
+## Show_drill_down_measures:
 
 Sometimes, it may be necessary to bring the current stage measure fields to the next drill stage along with the drill fields.
 
-Bi+ provides an additional attribute to drill down as  **Show\_drill\_down_ measures**  which can be defined as  **TRUE or FALSE**. If mentioned TRUE, then system will carry forward the measures of the current stage to the immediate drill level.
+Bi+ provides an additional attribute to drill down as  **Show_drill_down_ measures**  which can be defined as  **TRUE or FALSE**. If mentioned TRUE, then system will carry forward the measures of the current stage to the immediate drill level.
 
 ```
 "drill_down_fields": "Field1,Field2…….."
 
 ```
 
-“show\_drill\_down_measures”: “true / false”  
+“show_drill_down_measures”: “true / false”  
 
 > **Example**  Ex: {  
 > “name”: “StateName”,  
@@ -377,9 +377,9 @@ Bi+ provides an additional attribute to drill down as  **Show\_drill\_down_ meas
 > “visualise”: “true”  
 > }
 
-In the above example, Drill down option is defined over field “State Name” with two fields of self view City Name, No\_of\_Employees. On Clicking on any of “State Name”, then filter will be applied on that value and relevant values of fields “City Name” and “No\_of\_Employees” will be displayed.
+In the above example, Drill down option is defined over field “State Name” with two fields of self view City Name, No_of_Employees. On Clicking on any of “State Name”, then filter will be applied on that value and relevant values of fields “City Name” and “No_of_Employees” will be displayed.
 
-As  **Show\_drill\_down_measures**  is set  **TRUE**, the associated measures (if exists) of the field “State Name” will also be brought to the next stage along with drill fields City Name and No\_of\_Employees.
+As  **Show_drill_down_measures**  is set  **TRUE**, the associated measures (if exists) of the field “State Name” will also be brought to the next stage along with drill fields City Name and No_of_Employees.
 
 ### Maps:
 
@@ -486,5 +486,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTE1MDgzNV19
+eyJoaXN0b3J5IjpbMTI3MTc0MjcwN119
 -->
