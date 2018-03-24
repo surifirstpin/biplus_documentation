@@ -65,8 +65,9 @@ After saving a project, Bi+ will display the views and relevant information of t
 3.  Define filters on the data with different mapped views.
 
 **The list of keywords used in Model are:**
+
 |  **Serial No.** | **Keyword** | **Description** |
-|  :------ | :------: | :------: |
+|  ------ | :------: | :------: |
 |  1 | **For Model** |  |
 |   | project | displays the project name |
 |   | info | allows to describe the project with meaning full information |
@@ -485,5 +486,5 @@ Bi+ provides map view by covering various number of countries. Also, there are s
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTE2ODU2XX0=
+eyJoaXN0b3J5IjpbMTE5MjQyODcxNl19
 -->
