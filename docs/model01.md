@@ -383,7 +383,7 @@ As  **Show\_drill\_down_measures**  is set  **TRUE**, the associated measures (i
 
 ### Maps:
 
-Bi+ provides map view by covering various number of countries. Also, there are special attributes like colour change for specific range of values. For Model, Views and for a specific field the map co-ordinates may be assigned as follows :
+Acubi provides map view by covering various number of countries. Also, there are special attributes like colour change for specific range of values. For Model, Views and for a specific field the map co-ordinates may be assigned as follows :
 
 ```
 {
@@ -486,5 +486,5 @@ Bi+ provides map view by covering various number of countries. Also, there are s
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjkwNzc0MTVdfQ==
+eyJoaXN0b3J5IjpbMjE0MDMwODY1NV19
 -->
