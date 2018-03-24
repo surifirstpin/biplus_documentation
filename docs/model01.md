@@ -212,7 +212,7 @@ operator:multiple.
 
 ```
 
-2.  **Number_format & currency**  for reports convenience, a particular number format and currency can be assigned to a particular field so that whenever the report is created using this field, the number_format and currency will automatically displayed.
+**II.**  **Number_format & currency**  for reports convenience, a particular number format and currency can be assigned to a particular field so that whenever the report is created using this field, the number_format and currency will automatically displayed.
 
 -   **Number_format**  There are various formats designed based on the common business usage.
 
@@ -253,7 +253,7 @@ currency : currency_symbol
 
 > Example : “currency” : “$”
 
-3.  **Time_frame:**  Bi+ provides an option to extract different components associated with time stamp for user convenience.
+.  **Time_frame:**  Bi+ provides an option to extract different components associated with time stamp for user convenience.
 
 **Below are the formats adopted by default :**
 
@@ -486,5 +486,5 @@ Bi+ provides map view by covering various number of countries. Also, there are s
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDczMDgzMDhdfQ==
+eyJoaXN0b3J5IjpbNTQ5ODMyODgzXX0=
 -->
