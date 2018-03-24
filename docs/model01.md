@@ -195,7 +195,7 @@ The Associated keywords with the views are flowing :
 
 **Among the above stated list, the following are the special attributes for user convenience :**
 
-**I.  **lookup and operator :**  Using “lookup” feature, Bi+ allows to define a set of filter values for a field. The assignment can be made in the following two ways:
+**I.**  **lookup and operator :**  Using “lookup” feature, Bi+ allows to define a set of filter values for a field. The assignment can be made in the following two ways:
 
 -   **Query**  an sql query returning a set of values can be written in “lookup” for a field. It will be useful if the filter values are large in number and becomes tedious to mention all of them as a list.
 
@@ -486,5 +486,5 @@ Bi+ provides map view by covering various number of countries. Also, there are s
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDQ5NzgxMl19
+eyJoaXN0b3J5IjpbLTIxMDczMDgzMDhdfQ==
 -->
