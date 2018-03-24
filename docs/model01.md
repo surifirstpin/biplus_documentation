@@ -165,7 +165,7 @@ The attributes in “joins” section will be as follows:
 
 Views are independent tables chosen while creating a project. All the columns in the table are called fields of view and will be adopted with relevant features.
 
-BiPlus allows various actions and they are performed in views as follows:
+Acubi allows various actions and they are performed in views as follows:
 
 1.  Creating a new field (User Defined Fields),
 2.  Defining the output in a new field as resultant of arithmetical or logical operations among the database fields of the self view or from mapped views,
@@ -486,5 +486,5 @@ Bi+ provides map view by covering various number of countries. Also, there are s
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2OTI4OTA0XX0=
+eyJoaXN0b3J5IjpbLTE3NjkwNzc0MTVdfQ==
 -->
