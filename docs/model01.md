@@ -429,7 +429,7 @@ Acubi provides map view by covering various number of countries. Also, there are
 
 ```
 
-**The allowed List of country codes are:**
+**The allowed List of country codes are :**
 
 
 |  Country Name | Code |  | Country Name | Code |  | Country Name | Code |  | Country Name | Code |  | Country Name | Code |
@@ -490,5 +490,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY2MDA3ODZdfQ==
+eyJoaXN0b3J5IjpbLTI4NTI3MzM5MF19
 -->
