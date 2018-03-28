@@ -37,10 +37,10 @@
 <li>Grey colour indicates dashboard is saved under private section.</li>
 </ul>
 </blockquote>
-<h2 id="dragdrop">Drag&amp;Drop</h2>
+<h2 id="dragdrop">Drag &amp; Drop</h2>
 <p>Acubi has an ability to drag and drop the dashboard and reports into the selected privacy tag structure.</p>
 <p><img src="https://raw.githubusercontent.com/sv18042016/fp1/759c68367cac74f2715f1c407d74d73a3fda3c09/images/drag&amp;drop.png" alt="enter image description here"></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDEwNjA2MCwxMzU2NDM5ODA0XX0=
+eyJoaXN0b3J5IjpbNzE3NzYwOTk4LDEzNTY0Mzk4MDRdfQ==
 -->
