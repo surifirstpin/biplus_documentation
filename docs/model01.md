@@ -169,12 +169,12 @@ The attributes in “joins” section will be as follows:
 
 Views are independent tables chosen while creating a project. All the columns in the table are called fields of view and will be adopted with relevant features.
 
-Acubi allows various actions and they are performed in views as follows:
+Acubi allows various actions to performed in views as follows:
 
 1.  Creating a new field (User Defined Fields).
 2.  Defining the output in a new field as resultant of arithmetical or logical operations among the database fields of the self view or from mapped views.
 3.  Assigning currency & number format for measure fields.
-4.  extracting different date formats from the date field permissible formats like hour,day,week,month,quarter, year,date, week_day,date_month,date_quarter, date_hour, year_week
+4.  extracting different date formats from the date field permissible formats like hour,day,week,month,quarter, year,date, week_day,date_month,date_quarter, date_hour, year_week.
 5.  Assigning drill down fields for a field.
 6.  Defining values for different map co-ordinates.
 
@@ -490,5 +490,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDMyMDA4ODVdfQ==
+eyJoaXN0b3J5IjpbMTc1NzMzMjgzXX0=
 -->
