@@ -16,7 +16,7 @@ A Model can be defined in 3 steps;
 
 > Navigation: Model → Projects → +New Project
 
-1.  Click on  **+New Project**  to create a new project.
+**1.**  Click on  **+New Project**  to create a new project.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3a9de750e2fda00610d242df7a5584cfe48d8cea/images/new_project.png)
@@ -53,7 +53,7 @@ The following are the list of entries made to create a project.
 ](https://raw.githubusercontent.com/sv18042016/fp1/8dcf17faa6e3f50d5f3f79ae269a02c1eb7237c9/images/save_project.png)
 
 
-3.  Once all the entries are made click on  **Save project**  to save the project created.
+**3.** Once all the entries are made click on  **Save project**  to save the project created.
 
 ## Model and Customization:
 
@@ -485,5 +485,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTYwNTUzOV19
+eyJoaXN0b3J5IjpbLTEwNDQ2MDczMzVdfQ==
 -->
