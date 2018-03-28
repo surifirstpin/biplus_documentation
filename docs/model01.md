@@ -57,7 +57,7 @@ The following are the list of entries made to create a project.
 
 ## Model and Customization:
 
-After saving a project, Bi+ will display the views and relevant information of the project as a Model which can be customized as per the business requirement. Model Customization can be done among views in the following ways.
+After saving a project, Acubi will display the views and relevant information of the project as a Model which can be customized as per the business requirement. Model Customization can be done among views in the following ways.
 
 1.  A new mapping or relation can be defined among views based on a specific condition.
 2.  Edit the join criteria between views.
@@ -485,5 +485,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ2MDczMzVdfQ==
+eyJoaXN0b3J5IjpbLTE5OTI4ODIxMDldfQ==
 -->
