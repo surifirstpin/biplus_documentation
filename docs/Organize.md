@@ -30,11 +30,11 @@
 </ol>
 <p><img src="https://raw.githubusercontent.com/sv18042016/fp1/63d935c622e04e8e13416ae4bfe54db3e8bb0af5/images/privacy_dash.png" alt="enter image description here"></p>
 <blockquote>
-<p>Consider the above image</p>
+<p>Consider the above image in which,</p>
 <ul>
 <li>Green colour indicates dashboard is saved under public section.</li>
 <li>Red colour indicates dashboard is saved under shared section.</li>
-<li>Grey colour displayed, shows the dashboard is saved under private section.</li>
+<li>Grey colour indicates dashboard is saved under private section.</li>
 </ul>
 </blockquote>
 <h2 id="dragdrop">Drag&amp;Drop</h2>
@@ -42,5 +42,5 @@
 <p><img src="https://raw.githubusercontent.com/sv18042016/fp1/759c68367cac74f2715f1c407d74d73a3fda3c09/images/drag&amp;drop.png" alt="enter image description here"></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODkzNTUwMTcsMTM1NjQzOTgwNF19
+eyJoaXN0b3J5IjpbLTU5NDM5ODQ4OSwxMzU2NDM5ODA0XX0=
 -->
