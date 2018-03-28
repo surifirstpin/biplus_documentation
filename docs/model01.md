@@ -45,8 +45,11 @@ The following are the list of entries made to create a project.
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model%204.png)
 
 -   **Privacy** you can save the project in any one of the following privacy option.
+
     -   **Private ()**  report saved in private section and accessed by the user itself.
+    
     -   **Public ()**  the report is saved in public section and accessed by all the users.
+    
     -   **Share ()**  the report saved under share section and accessed by specific set of users.
 
 ![
@@ -59,9 +62,11 @@ The following are the list of entries made to create a project.
 
 After saving a project, Acubi will display the views and relevant information of the project as a Model which can be customized as per the business requirement. Model Customization can be done among views in the following ways.
 
-1.  A new mapping or relation can be defined among views based on a specific condition.
-2.  Edit the join criteria between views.
-3.  Define filters on the data with different mapped views.
+-  A new mapping or relation can be defined among views based on a specific condition.
+
+-   Edit the join criteria between views.
+
+-  Define filters on the data with different mapped views.
 
 **The list of keywords used in Model are:**
 
@@ -485,5 +490,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI4ODIxMDldfQ==
+eyJoaXN0b3J5IjpbLTEyMDY2MDA3ODZdfQ==
 -->
