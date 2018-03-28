@@ -1,6 +1,6 @@
 <center><h1>Analysis</h1></center>
 
-Analysis is the starting point for building the query. it is designed in such a way, that it retrieves the data in the desired combinations as per your business needs and explores particular subject area it self. It provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight.
+Analysis is the starting point for building the query.  it is designed in such a way, that it retrieves the data in the desired combinations as per your business needs and explores particular subject area it self. It provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight.
  
 **Let see in detail how Acubi helps you in retrieving data as per your business needs ;**
  
@@ -325,6 +325,6 @@ To view the SQL query built  in analysis section click on **SQL**.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzIwMDQyNCwtMTkxMjg4NDQ3OCw0Mj
+eyJoaXN0b3J5IjpbMjAyNzEwNjAzMiwtMTkxMjg4NDQ3OCw0Mj
 k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
