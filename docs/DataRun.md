@@ -255,7 +255,7 @@ To find the specific field value from the data extracted click on **Find** in th
 
 ## Field Visualization On / Off
 
-To hide the specific field in the visualization charts click on **Hide Visualization** in the drop down of field you want to hide in visualization and to display the same click on **Show visualization**
+To hide the specific field in the visualization charts click on **Hide Visualization** in the drop down of field  and to display the same click on **Show visualization**
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/75f9c50ef12a1aa2ff5c43aaafefa2fd1140597d/images/hide_visualisation.png)
@@ -327,6 +327,6 @@ To view the SQL query built  in analysis section click on **SQL**.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODQyNDIyNiwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbLTE4NjYxNzM5NzUsLTE5MTI4ODQ0NzgsND
+I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
