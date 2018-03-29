@@ -372,21 +372,21 @@ Bi+ provides an additional attribute to drill down as  **Show_drill_down_ measur
 
 “show_drill_down_measures”: “true / false”  
 
-**Example** 
+```
  {  
-> “name”: “StateName”,  
-> “label”: “StateName”,  
-> “data_type”: “string”,  
-> “type”: “dimension”,  
-> “lookup”: “”,  
-> “operators”: “”,  
-> “sql”: “${TABLE}.StateName”,  
-> “summary”: “”,  
-> “drill_down_fields”: “CityName,No_of_Employees”,  
-> “show_drill_down_measures”: “true”,  
-> “visualise”: “true”  
-> }
-
+ “name”: “StateName”,  
+ “label”: “StateName”,  
+ “data_type”: “string”,  
+ “type”: “dimension”,  
+ “lookup”: “”,  
+ “operators”: “”,  
+ “sql”: “${TABLE}.StateName”,  
+ “summary”: “”,  
+ “drill_down_fields”: “CityName,No_of_Employees”,  
+ “show_drill_down_measures”: “true”,  
+ “visualise”: “true”  
+ }
+```
 In the above example, Drill down option is defined over field “State Name” with two fields of self view City Name, No_of_Employees. On Clicking on any of “State Name”, then filter will be applied on that value and relevant values of fields “City Name” and “No_of_Employees” will be displayed.
 
 As  **Show_drill_down_measures**  is set  **TRUE**, the associated measures (if exists) of the field “State Name” will also be brought to the next stage along with drill fields City Name and No_of_Employees.
@@ -496,5 +496,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzQ0MzgyMF19
+eyJoaXN0b3J5IjpbLTgyMzU0MDgyMF19
 -->
