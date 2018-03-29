@@ -12,7 +12,7 @@ A Model can be defined in 3 steps;
 
 -   Organize the fields in views with required manipulation.
 
-## Creating a Project :
+## Creating a Project 
 
 > Navigation: Model → Projects → +New Project
 
@@ -58,7 +58,7 @@ The following are the list of entries made to create a project.
 
 **3.** Once all the entries are made click on  **Save project**  to save the project created.
 
-## Model and Customization:
+## Model and Customization
 
 After saving a project, Acubi will display the views and relevant information of the project as a Model which can be customized as per the business requirement. Model Customization can be done among views in the following ways.
 
@@ -496,5 +496,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTc4NzM3NTZdfQ==
+eyJoaXN0b3J5IjpbMTMyMDM5MDUxMF19
 -->
