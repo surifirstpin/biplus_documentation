@@ -3,13 +3,13 @@
 
    **Connection** specifies a database connection from which a model can retrieve the data. Following are the steps to be followed to set up database connection.
     
-**I.**  Get the connection details for database such as Host name, port, username and password etc from **Database Administrator**.
+**I.**  Get the connection details for database such as Host name, port, username and password etc from **Database Administrator.**.
 
 **II.** Enable secure access to database, such as :
   -  Using  IP Address Whitelist, optionally adding SSL Encryption.
   - Using SSH Tunnel, which provides a secured and encrypted connection with extra authentication
   
-**III.** Set up database to work with Bi+. Instructions may vary from dialect to dialect. Typically it includes providing approval to Bi+ to access database.
+**III.** Set up database to work with Bi+Acubi. Instructions may vary from dialect to dialect. Typically it includes providing approval to Bi+ to access database.
 
  ## Create Connection
 
@@ -79,3 +79,6 @@ MxOTQ1NjAxLDIxMDQ3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4
 NzY1M119
 -->
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTYwODI1NzgxM119
+-->
