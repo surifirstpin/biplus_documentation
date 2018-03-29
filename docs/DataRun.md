@@ -268,7 +268,7 @@ To remove a specific field column from the extracted list click on **Remove** in
 
 Data section under visualization is enabled based on the data retrieved for fields. Below are the parameters applicable on the data retrieved.
 
-- **Row Grouping** enables grouping for column fields based on the field selected. on selecting row grouping it will enable you to select the field on which you want to apply row grouping as shown in below image.
+- **Row Grouping** enables row grouping for fields based on the field selected. on selecting row grouping it will enable you to select the field on which you want to apply row grouping as shown in below image.
 
 - **Explore Enabled** to explore the data which are grouped.
 
@@ -327,6 +327,6 @@ To view the SQL query built  in analysis section click on **SQL**.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjYxNzM5NzUsLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbLTgyNzE3MjQ4NSwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
