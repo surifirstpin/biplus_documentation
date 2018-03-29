@@ -354,7 +354,7 @@ Where the expression contain the fields of self view and should result a single 
 
 Drill-down is used for exploring the data further with respect to a field value. Acubi has an ability to define drill option for a field with a set of derivable fields and when clicked on a particular value of an assigned field, the individual records that make up that cell will be displayed by limiting the query with the clicked value.
 
-## Show_drill_down_measures:
+## Show drill-down measures:
 
 Sometimes, it may be necessary to bring the current stage measure fields to the next drill stage along with the drill fields.
 
@@ -490,5 +490,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NzMzMjgzXX0=
+eyJoaXN0b3J5IjpbMTQ3NjI3NDFdfQ==
 -->
