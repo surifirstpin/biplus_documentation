@@ -33,13 +33,13 @@
 
 ## SSH 
 
-a)  To connect Bi+ SSH tunnel with same database host, provide following information to BiPlus analyst :
+a)  To connect Acubi SSH tunnel with same database host, provide following information to Acubi analyst :
  
   - IP address or DNS name of the database server
   - SSH port of the database server
   - Database port number
   
-b) If connecting with separate database host, provide following information to BI+ analyst:
+b) If connecting with separate database host, provide following information to Acubi analyst:
   
   - IP address or DNS name of the database server as seen from the tunnel server.
   - Database port number as seen from the tunnel server.
@@ -80,5 +80,5 @@ NzY1M119
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODk5NTU5NV19
+eyJoaXN0b3J5IjpbLTUzMjUzMzIyOF19
 -->
