@@ -2,7 +2,7 @@
   - [Database Connection](DatabaseConnection.md)
   
 - Model
-  - [Model01](model01.md)
+  - [Model](model.md)
   
 - Visualize
   - [Data Analysis](DataRun.md)  
