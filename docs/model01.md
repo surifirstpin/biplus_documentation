@@ -284,7 +284,7 @@ currency : currency_symbol
 
 Bi+ has an ability to create new fields in a view with all attributes that are applicable to a database field and with return value (“sql” section of the field) as any of the following options:
 
-1.  As a resultant of arithmetical operations done on fields of the same view.
+**1.**  As a resultant of arithmetical operations done on fields of the same view.
 
 ```
 "sql": "(${TABLE}.Field1 arithmetical operation ${TABLE}.Field2)"
@@ -293,7 +293,7 @@ Bi+ has an ability to create new fields in a view with all attributes that are a
 
 > Example : “sql”: “(${TABLE}.Amount + ${TABLE}.Discount)”
 
-2.  As a resultant of arithmetical operations done on fields of a mapped view.
+**2.**  As a resultant of arithmetical operations done on fields of a mapped view.
 
 ```
 "sql": "(${TABLE}.Field1 arithmetical operation ${Mapped_View.Field})"
@@ -302,7 +302,7 @@ Bi+ has an ability to create new fields in a view with all attributes that are a
 
 > **Example**  “sql”: “(${TABLE}.Amount) / ${Customers.Total_number})”
 
-3.  As a resultant of logical operations(like case statement) done on fields of the same view.
+**3.**  As a resultant of logical operations(like case statement) done on fields of the same view.
 
 ```
  "sql": "(case when (condition) then Expression_1 else Expression_2 end) "
@@ -495,5 +495,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzcxOTE4MTFdfQ==
+eyJoaXN0b3J5IjpbMTAwNDA4OTIxM119
 -->
