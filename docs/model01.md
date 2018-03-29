@@ -6,7 +6,7 @@ A model is a customized gateway into the database for accessing data as per busi
 
 A Model can be defined in 3 steps;
 
--   Create a Project with required database and respective tables.
+-   Creating a Project with required database and respective tables.
 
 -   Customize the Model using IDE as per the business requirement.
 
@@ -490,5 +490,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjI3NDFdfQ==
+eyJoaXN0b3J5IjpbNjA4Nzc1NDc0XX0=
 -->
