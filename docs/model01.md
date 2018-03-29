@@ -431,7 +431,7 @@ Acubi provides map view by covering various number of countries. Also, there are
 				"Station_1": "IND",
 				"Station_2": "AUS"
 			               }
-		}
+	}
 
 ```
 
@@ -496,5 +496,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMzU0MDgyMF19
+eyJoaXN0b3J5IjpbMTU0MTE4MjM0MF19
 -->
