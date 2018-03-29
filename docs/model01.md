@@ -344,7 +344,7 @@ Where condition is an expression can be on the fields of self view or mapped vie
 > Date → “sql” : "TO_CHAR ( $ { TABLE}.OrderDate,‘Mon-YYYY’)"  
 > String → “sql” : “CONCAT('Date : ',${TABLE}.OrderDate)”
 
-7.  As a resultant of single value returning sql query
+**7.**  As a resultant of single value returning sql query
 
 ```
      "sql" : "(select Expression from Database.Table)"
@@ -495,5 +495,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTM5NjI5MV19
+eyJoaXN0b3J5IjpbMTgyOTU0NjYyMV19
 -->
