@@ -313,7 +313,7 @@ Where condition is an expression on the fields of self view and Expression_1, Ex
 
 > **Example**: “sql”: “(CASE WHEN (${TABLE}.Name is not null) THEN ${TABLE}.Salary ELSE 0 END)”
 
-4.  As a resultant of logical operations (like case statement) done on fields of a mapped view.
+**4.**  As a resultant of logical operations (like case statement) done on fields of a mapped view.
 
 ```
  "sql": "(case when (condition) then Expression_1 else Expression_2 end) "
@@ -324,7 +324,7 @@ Where condition is an expression can be on the fields of self view or mapped vie
 
 > **Example**  “sql”: “(CASE WHEN (${[Customers.ID](http://customers.id/)} is not null) THEN ${TABLE}.Amount ELSE 0 END)”
 
-5.  As a resultant of database function operated on fields.
+**5.**  As a resultant of database function operated on fields.
 
 ```
    "sql": "(${TABLE}.Field * ${DB}.function_name(parameters)) "
@@ -333,7 +333,7 @@ Where condition is an expression can be on the fields of self view or mapped vie
 
 > **Example**  “sql” : “(${TABLE}.Amount  KaTeX parse error: Expected 'EOF', got '​' at position 51: …te(DB.exchanger​̲ate({TABLE}.OrderDate,${TABLE}.CurrencyID))”
 
-6.  As a resultant of string, date, number based sql functions on fields
+**6.**  As a resultant of string, date, number based sql functions on fields
 
 ```
     "sql" : "sql_function(${TABLE}.Field)"
@@ -495,5 +495,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDA4OTIxM119
+eyJoaXN0b3J5IjpbLTc5OTM5NjI5MV19
 -->
