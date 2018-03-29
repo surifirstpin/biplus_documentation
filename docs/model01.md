@@ -165,7 +165,7 @@ The attributes in “joins” section will be as follows:
 ]
 }
 ```
-## Views and Fields:
+## Views and Fields
 
 Views are independent tables chosen while creating a project. All the columns in the table are called fields of view and will be adopted with relevant features.
 
@@ -280,7 +280,7 @@ currency : currency_symbol
 |  10 | Date_hour | Extract Date and respective Hour component |
 |  11 | Year_week | Extract year and respective week component |
 
-## User Defined Fields (UDF):
+## User Defined Fields (UDF)
 
 Bi+ has an ability to create new fields in a view with all attributes that are applicable to a database field and with return value (“sql” section of the field) as any of the following options:
 
@@ -355,11 +355,11 @@ Where the expression contain the fields of self view and should result a single 
 
 > **Example:**  “sql”: "(select sum(x.Amount) from Orders x)”
 
-## Drill-down feature :
+## Drill-down feature 
 
 Drill-down is used for exploring the data further with respect to a field value. Acubi has an ability to define drill option for a field with a set of derivable fields and when clicked on a particular value of an assigned field, the individual records that make up that cell will be displayed by limiting the query with the clicked value.
 
-## Show drill-down measures:
+## Show drill-down measures
 
 Sometimes, it may be necessary to bring the current stage measure fields to the next drill stage along with the drill fields.
 
@@ -496,5 +496,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTE4MjM0MF19
+eyJoaXN0b3J5IjpbLTIwMTc4NzM3NTZdfQ==
 -->
