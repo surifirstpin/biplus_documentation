@@ -9,7 +9,7 @@
   -  Using  IP Address Whitelist, optionally adding SSL Encryption.
   - Using SSH Tunnel, which provides a secured and encrypted connection with extra authentication
   
-**III.** Set up database to work with Bi+Acubi. Instructions may vary from dialect to dialect. Typically it includes providing approval to Acubi to access database.
+**III.** Set up database to work with Acubi. Instructions may vary from dialect to dialect. Typically it includes providing approval to Acubi to access database.
 
  ## Set-Up Connection
 
@@ -80,5 +80,5 @@ NzY1M119
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjUzMzIyOF19
+eyJoaXN0b3J5IjpbMTY1MzQ4MzI4XX0=
 -->
