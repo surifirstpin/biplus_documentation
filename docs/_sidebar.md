@@ -4,11 +4,6 @@
 - Model
   - [Model01](model01.md)
   
-/*- Model
-  - [Projects](Projects.md)
-  - [Model](Model.md)
-  - [Views](Views.md)*/
-
 - Visualize
   - [Data Analysis](DataRun.md)  
   - [Calculated Column](CalculatedColumn.md)
