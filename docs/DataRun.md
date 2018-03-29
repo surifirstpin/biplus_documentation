@@ -103,7 +103,7 @@ The data can also be retrieved based on the applied hidden filters, this hidden 
 
 **b.** Fields to which hidden filters applied are visible in filter expression of filter section.
 
-**c.** The data is retrieved is based on the applied hidden filters.
+**c.** The data is retrieved, based on the applied hidden filters.
 
 ![ image 1](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/hidden_filter.png)
 
@@ -325,6 +325,6 @@ To view the SQL query built  in analysis section click on **SQL**.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjYyNDYwNjIsLTE5MTI4ODQ0NzgsND
-I5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbNDM1NDM5MjgwLC0xOTEyODg0NDc4LDQyOT
+Y0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
