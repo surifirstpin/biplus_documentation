@@ -65,6 +65,8 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
 When it comes to business establishment and success, Bi+ software is an innovation that has ability to share and collaborate ideas efficiently.
 
 
+# Faster and smarter decision making
+
 #### Performance Management
 Easily implement planning solutions and efficient applications to effectively carryout performance with corporate strategic objective. 
 
@@ -103,5 +105,5 @@ Bringing all your team and data together for data exploration and easy decision 
 
 Sometimes, Direct dashboard reports are not enough to further explore your data. Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTM3NTY0Miw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTExOTIzMTIzNjQsNDI0MzU3ODMxXX0=
 -->
