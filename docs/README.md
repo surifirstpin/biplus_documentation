@@ -21,9 +21,9 @@ It provides flexibility of getting connected to data from Desktop, Mobile and Ta
 
 ## Why Acubi                                   
 
-Acubi is Collection of business analytics tools that provides a standard insights throughout the organization. It streamline the  process by providing an ability to use live data by predicting needs of the Business. 
+Acubi is Collection of business analytics tools that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the Business. 
 
-<h2> <font color="orange">See BI+ In Action :</font></h2>
+# See BI+ In Action 
 
  ### Connect to any data source
 
@@ -253,5 +253,5 @@ Check out how our Business Intelligence products and applications can help you i
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTEzMDUzOSw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbNDY5MjY3NTEyLDQyNDM1NzgzMV19
 -->
