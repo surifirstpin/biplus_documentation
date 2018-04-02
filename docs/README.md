@@ -36,11 +36,11 @@ Enable users to turn their raw data into actionable information by simplifying t
 
 #### Better Insights across all Domains
 
-Bi+ Streamline workforce Planning, performance tracking, Analysis and improves the quality in a dynamic regulatory environment for all domains.
+Acubi Streamline workforce Planning, performance tracking, Analysis and improves the quality in a dynamic regulatory environment for all domains.
 
 # Acubi in Action 
-####   
-Advanced Analytics
+
+####   Advanced Analytics
 
 Drive your business with better decision-making with more meaningful and forward-looking insights from your data.
 
@@ -75,5 +75,5 @@ Bringing all your team and data together for data exploration and easy decision 
 
 Sometimes, Direct dashboard reports are not enough to further explore your data. Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc5MTIzODAsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbOTM5ODE2Nzc4LDQyNDM1NzgzMV19
 -->
