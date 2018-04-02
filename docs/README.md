@@ -69,15 +69,12 @@ When it comes to business establishment and success, Bi+ software is an innovati
 # Faster and smarter decision making
 
 #### Performance Management
-
 Easily implement planning solutions and efficient applications to effectively carryout performance with corporate strategic objective. 
 
 #### Benefits of Live Data
-
 Acubi retrieves the most recent data and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time in data management.
 
 #### Combined Data
-
 Easily combine all your data sources, no matter how large it is, into a single view and convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis.
 
 #### Disclose Data
@@ -108,5 +105,5 @@ Bringing all your team and data together for data exploration and easy decision 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODg4MDgwMSw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTIxMjg1MDYwNjEsNDI0MzU3ODMxXX0=
 -->
