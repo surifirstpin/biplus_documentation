@@ -1,7 +1,6 @@
                           
 
-<center><h1> <font color="orange"> Acubi </font> </h1></center> <center>
-
+<center><h1>  Acubi </h1></center> 
 
 
 ## Turn Your Insights into Actions 
@@ -76,5 +75,5 @@ Bringing all your team and data together for data exploration and easy decision 
 
 Sometimes, Direct dashboard reports are not enough to further explore your data.Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk0Mjc2NzYsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTEwNzU4OTUxMDQsNDI0MzU3ODMxXX0=
 -->
