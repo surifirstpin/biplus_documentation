@@ -69,15 +69,13 @@ When it comes to business establishment and success, Bi+ software is an innovati
 # Faster and smarter decision making
 
 #### Performance Management
+
 Easily implement planning solutions and efficient applications to effectively carryout performance with corporate strategic objective. 
 
-####   Advanced Analytics
-
-Drive your business with better decision-making with more meaningful and forward-looking insights from your data.
 
 #### Benefits of Live Data
 
-Bi+ retrieves the latest information and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time for data management.
+Acubi retrieves the most recent information and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time for data management.
 
 #### Compact
 
@@ -106,5 +104,5 @@ Bringing all your team and data together for data exploration and easy decision 
 
 Sometimes, Direct dashboard reports are not enough to further explore your data. Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTA3MDA3OCw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbMzI4OTYxOTI5LDQyNDM1NzgzMV19
 -->
