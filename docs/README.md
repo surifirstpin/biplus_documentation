@@ -75,7 +75,7 @@ Easily implement planning solutions and efficient applications to effectively ca
 
 #### Benefits of Live Data
 
-Acubi retrieves the most recent data and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time for data management.
+Acubi retrieves the most recent data and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time in data management.
 
 #### Compact
 It is one of the best software platform that consistently Join Business intelligence,Performance Management,Analytics and Data Discovery in a single product.
@@ -104,5 +104,5 @@ Bringing all your team and data together for data exploration and easy decision 
 
 Sometimes, Direct dashboard reports are not enough to further explore your data. Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzUwOTExNDUsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbMTgwMTUxNjE4Nyw0MjQzNTc4MzFdfQ==
 -->
