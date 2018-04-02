@@ -81,7 +81,7 @@ Easily combine all your data sources, no matter how large it is, into a single v
 Sometimes, Direct dashboard reports are not enough to further explore your data. Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like.
 
 #### Trusted Data Analytic Culture
-Bringing all your team and data together for data exploration and easy decision making is endless.For this, Our business intelligent tool and cloud ready platform is well secured, scalable and performance-driven that even the most demanding industries can trust.
+Our business intelligent tool and cloud ready platform is well secured, scalable and performance-driven that even the most demanding industries can trust.
 
 
 #### Compact
@@ -105,5 +105,5 @@ Incorporate powerful self-service BI , Without any manual data by making everyon
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI2ODgyOTcsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTE4NzU4NDQ3MjgsNDI0MzU3ODMxXX0=
 -->
