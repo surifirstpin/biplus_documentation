@@ -3,6 +3,7 @@
 <center><h1> <font color="orange"> Acubi </font> </h1></center> <center>
 
 
+
 ## Turn Your Insights into Actions 
 Acubi provides single, Integrated Enterprise Analytics Platform by delivering faster and better insights for the Whole Business, Regardless any action or industry.
 
@@ -12,8 +13,13 @@ Check out how our Business intelligence products and application can help you in
 
 ## Create Beautiful Dashboards and Visualization in Fraction of seconds
 
-### Multiple device accesibility-- mobile, desktop tab
 Starts Transforming your data into live reports and dashboards in Fraction of seconds, By helping you to find answers to your most important business queries.
+
+## Multiple device accessibility-mobile, desktop tablets
+
+It provides flexibity 
+
+
 
 
 
@@ -251,5 +257,5 @@ Check out how our Business Intelligence products and applications can help you i
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjM4MjEzNCw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTQwMDQ4Nzk2LDQyNDM1NzgzMV19
 -->
