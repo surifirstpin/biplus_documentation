@@ -52,6 +52,7 @@ Usage of different type of charts, widgets, pivot tables and tabular view compon
 #### Embedded Analytics
 
 Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
+
 #### Smarter Visualization
 
 Bi+ delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
@@ -105,5 +106,5 @@ Bringing all your team and data together for data exploration and easy decision 
 
 Sometimes, Direct dashboard reports are not enough to further explore your data. Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTIzMTIzNjQsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTY5OTA3MDA3OCw0MjQzNTc4MzFdfQ==
 -->
