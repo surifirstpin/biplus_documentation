@@ -7,6 +7,7 @@
 Acubi provides single, Integrated Enterprise Analytics Platform by delivering faster and better insights for the Whole Business, Regardless any action or industry.
 
 ## Turn Data into Opportunity
+Check out how our Business intelligence products and appplication can help you in acheiving better decision making at
 
 >Why Bi+ ? </font> </h2>                                   
 
@@ -242,5 +243,5 @@ Check out how our Business Intelligence products and applications can help you i
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODQ2NDQzMiw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTIwNTczOTg2NTEsNDI0MzU3ODMxXX0=
 -->
