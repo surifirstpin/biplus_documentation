@@ -19,13 +19,9 @@ Starts Transforming your data into live reports and dashboards in Fraction of se
 
 It provides flexibility of getting connected to data from Desktop, Mobile and Tablet from where ever you are.
 
+## Why Acubi                                   
 
-
-
-
->Why Bi+ ? </font> </h2>                                   
-
-BI+ is Collection of business analytics tools that provides a standard insights throughout the organization. It streamline the  process by providing an ability to use live data by predicting needs of the Business. 
+Acubi is Collection of business analytics tools that provides a standard insights throughout the organization. It streamline the  process by providing an ability to use live data by predicting needs of the Business. 
 
 <h2> <font color="orange">See BI+ In Action :</font></h2>
 
@@ -257,5 +253,5 @@ Check out how our Business Intelligence products and applications can help you i
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDY1MTU1Nyw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbMTM4MTEzMDUzOSw0MjQzNTc4MzFdfQ==
 -->
