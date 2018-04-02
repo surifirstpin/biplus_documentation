@@ -59,7 +59,7 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
  
  ### Customer Success 
  
- When it comes to business establishment and success, Bi+ software is an innovation that has ability to share and collaborate ideas efficiently. 
+ When it comes to business establishment and success, Acubi software is an innovation that has ability to share and collaborate ideas efficiently. 
  
  
 
@@ -270,5 +270,5 @@ Check out how our Business Intelligence products and applications can help you i
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjI2OTMyOTUsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTIwODQ4NzgzNDEsNDI0MzU3ODMxXX0=
 -->
