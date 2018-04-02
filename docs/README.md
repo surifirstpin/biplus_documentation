@@ -4,7 +4,9 @@
 
 
 ## Turn Your Insights into Actions 
-Acubi provides single,Integrated Enterprise Analytics Platform By Delivering Faster and better insights for the Whole Business, Regardless any action or industry.
+Acubi provides single, Integrated Enterprise Analytics Platform by delivering faster and better insights for the Whole Business, Regardless any action or industry.
+
+## Turn Data into Opportunity
 
 >Why Bi+ ? </font> </h2>                                   
 
@@ -240,5 +242,5 @@ Check out how our Business Intelligence products and applications can help you i
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDExMzcxNzQsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTMxODQ2NDQzMiw0MjQzNTc4MzFdfQ==
 -->
