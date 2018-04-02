@@ -15,9 +15,9 @@ Check out how our Business intelligence products and application can help you in
 
 Starts Transforming your data into live reports and dashboards in Fraction of seconds, By helping you to find answers to your most important business queries.
 
-## Multiple device accessibility-mobile, desktop tablets
+## Multiple device accessibility-Mobile, Desktop Tablets
 
-It provides flexibity 
+It provides flexibility of getting connected to data from Desktop, Mobile and Tablet from where ever you are.
 
 
 
@@ -257,5 +257,5 @@ Check out how our Business Intelligence products and applications can help you i
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDQ4Nzk2LDQyNDM1NzgzMV19
+eyJoaXN0b3J5IjpbMjAwNDY1MTU1Nyw0MjQzNTc4MzFdfQ==
 -->
