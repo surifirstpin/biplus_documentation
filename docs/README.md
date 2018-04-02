@@ -78,7 +78,7 @@ Acubi retrieves the most recent data and assist your financial advisor to focus 
 Easily combine all your data sources, no matter how large it is, into a single view and convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis.
 
 #### Disclose Data
-Sometimes, Direct dashboard reports are not enough to further explore your data. Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like.
+Sometimes, Direct dashboard reports are not enough to further explore your data. Hence Acubi is provided with filter option "Drill-down" to explore your data as deep as you like.
 
 #### Trusted Data Analytic Culture
 Our business intelligent tool and cloud ready platform is well secured, scalable and performance-driven that even the most demanding industries can trust.
@@ -105,5 +105,5 @@ Incorporate powerful self-service BI , Without any manual data by making everyon
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzU4NDQ3MjgsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTk0ODI2NTk5OCw0MjQzNTc4MzFdfQ==
 -->
