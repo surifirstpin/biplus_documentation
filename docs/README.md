@@ -72,13 +72,18 @@ When it comes to business establishment and success, Bi+ software is an innovati
 
 Easily implement planning solutions and efficient applications to effectively carryout performance with corporate strategic objective. 
 
-
 #### Benefits of Live Data
 
 Acubi retrieves the most recent data and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time in data management.
+
 #### Combined Data
 
 Easily combine all your data sources, no matter how large it is, into a single view and convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis.
+
+#### Disclose Data
+
+Sometimes, Direct dashboard reports are not enough to further explore your data. Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like
+
 #### Compact
 It is one of the best software platform that consistently Join Business intelligence,Performance Management,Analytics and Data Discovery in a single product.
 
@@ -101,9 +106,8 @@ Incorporate powerful self-service BI , Without any manual data by making everyon
 
 Bringing all your team and data together for data exploration and easy decision making is endless.For this, Our business intelligent tool and cloud ready platform is well secured, scalable and performance-driven that even the most demanding industries can trust.
 
-#### Disclose Data
 
-Sometimes, Direct dashboard reports are not enough to further explore your data. Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODU4NTU2MzUsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTE4NjI2Mzk2MDcsNDI0MzU3ODMxXX0=
 -->
