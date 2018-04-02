@@ -40,6 +40,31 @@ Acubi Streamline workforce Planning, performance tracking, Analysis and improves
 
 # Acubi in Action 
 
+
+#### Connect to any Data Source
+
+Import data from files,databases, cloud drives, popular business applications and in-house apps. Its rapid setup connects people to data quickly and retrieve massive amount of data with an ease.
+
+#### Variety of Reporting Components
+
+Usage of different type of charts, widgets, pivot tables and tabular view components to create smart and insightful reports and dashboards.
+
+#### Embedded Analytics
+
+Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
+#### Smarter Visualization
+
+Bi+ delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
+
+#### Beautiful Dashboards
+
+Join multiple report layouts into single good-looking dashboard, by customizing it as per your business needs.
+
+#### Customer Success
+
+When it comes to business establishment and success, Bi+ software is an innovation that has ability to share and collaborate ideas efficiently.
+
+
 #### Performance Management
 Easily implement planning solutions and efficient applications to effectively carryout performance with corporate strategic objective. 
 
@@ -78,5 +103,5 @@ Bringing all your team and data together for data exploration and easy decision 
 
 Sometimes, Direct dashboard reports are not enough to further explore your data. Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4NDYyODc5LDQyNDM1NzgzMV19
+eyJoaXN0b3J5IjpbMTk2MTM3NTY0Miw0MjQzNTc4MzFdfQ==
 -->
