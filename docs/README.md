@@ -62,13 +62,8 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
  
  When it comes to business establishment and success, Acubi software is an innovation that has ability to share and collaborate ideas efficiently. 
  
- 
+ # FASTER AND SMARTER DECISION MAKING
 
- 
- <h2> <font color="orange">BI+ Advantages</font></h2> 
- 
- ### Explore from any device
- 
 BI+ is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices. it create, explore and operate on any device, directly at the point of decision.
  
  ### Secure Accessibility
@@ -271,5 +266,5 @@ Check out how our Business Intelligence products and applications can help you i
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Mjc0Nzg0Myw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTE1Mjk4OTcxMSw0MjQzNTc4MzFdfQ==
 -->
