@@ -37,15 +37,19 @@ Enable users to turn their raw data into actionable information by simplifying t
 #### Better Insights across all Domains
 
 Bi+ Streamline workforce Planning, performance tracking, Analysis and improves the quality in a dynamic regulatory environment for all domains.
-# See BI+ In Action 
+# Acubi in Action 
 
  ### Connect to any data source
 
  Import data from files,databases, cloud drives, popular business applications and in-house apps. Its rapid setup connects people to data quickly and retrieve massive amount of data with an ease.
  
- ###  Smarter visualization
-  Bi+ delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices. 
+ ### Smarter visualization
   
+  Acubi delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices. 
+  
+  #### Variety of reporting components 
+ 
+ Usage of different type of charts, widgets, pivot tables and tabular view components to create smart and insightful reports and dashboards. 
  ### Beautiful Dashboards 
 Join multiple report layouts into single good-looking dashboard, by customizing it as per your business needs.
 
@@ -57,9 +61,8 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
  
  When it comes to business establishment and success, Bi+ software is an innovation that has ability to share and collaborate ideas efficiently. 
  
- #### Variety of reporting components 
  
- Usage of different type of charts, widgets, pivot tables and tabular view components to create smart and insightful reports and dashboards. 
+
  
  <h2> <font color="orange">BI+ Advantages</font></h2> 
  
@@ -267,5 +270,5 @@ Check out how our Business Intelligence products and applications can help you i
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzIyOTEwNSw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbMTE0NDQ4NjQzNiw0MjQzNTc4MzFdfQ==
 -->
