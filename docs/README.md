@@ -55,7 +55,7 @@ Get a powerful BI tool installed within your own product, application, portal, o
 
 #### Smarter Visualization
 
-Bi+ delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
+Acubi delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
 
 #### Beautiful Dashboards
 
@@ -105,5 +105,5 @@ Incorporate powerful self-service BI , Without any manual data by making everyon
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODI2NTk5OCw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbNTA4MTA3NTkyLDQyNDM1NzgzMV19
 -->
