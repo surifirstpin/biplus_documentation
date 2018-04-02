@@ -81,7 +81,6 @@ Acubi retrieves the most recent data and assist your financial advisor to focus 
 Easily combine all your data sources, no matter how large it is, into a single view and convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis.
 
 #### Disclose Data
-
 Sometimes, Direct dashboard reports are not enough to further explore your data. Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like
 
 #### Compact
@@ -109,5 +108,5 @@ Bringing all your team and data together for data exploration and easy decision 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI2Mzk2MDcsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTI3NDAyNjY5Nyw0MjQzNTc4MzFdfQ==
 -->
