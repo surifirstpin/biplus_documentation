@@ -26,6 +26,7 @@ Acubi is Collection of business analytics tools that provides a standard insight
 # HIGH QUALITY DATA ANALYTICS AND REPORTING FOR ALL
 
 Our Organisation helps you to enable a clear vision of the performance in a simple and in a most effective manner by focusing more on redefining each aspect of business analytics, making it more easy to explore your business insights.
+
 ####   Easy, Affordable, Secure
 
 It ensure Application building, Customization ,Maintenance and Cost-efficiency by attaining customer satisfaction at the same time provides a secure collaboration in between teams.
@@ -75,5 +76,5 @@ Bringing all your team and data together for data exploration and easy decision 
 
 Sometimes, Direct dashboard reports are not enough to further explore your data.Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5Mjc1NjAyLDQyNDM1NzgzMV19
+eyJoaXN0b3J5IjpbLTE0NTk0Mjc2NzYsNDI0MzU3ODMxXX0=
 -->
