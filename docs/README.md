@@ -40,6 +40,9 @@ Acubi Streamline workforce Planning, performance tracking, Analysis and improves
 
 # Acubi in Action 
 
+#### Performance Management
+Easily implement planning solutions and efficient applications to effectively carryout performance with corporate strategic objective. 
+
 ####   Advanced Analytics
 
 Drive your business with better decision-making with more meaningful and forward-looking insights from your data.
@@ -75,5 +78,5 @@ Bringing all your team and data together for data exploration and easy decision 
 
 Sometimes, Direct dashboard reports are not enough to further explore your data. Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5ODE2Nzc4LDQyNDM1NzgzMV19
+eyJoaXN0b3J5IjpbNTk4NDYyODc5LDQyNDM1NzgzMV19
 -->
