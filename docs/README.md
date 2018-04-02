@@ -25,7 +25,7 @@ Acubi is Collection of business analytics tools that provides a standard insight
 
 # HIGH QUALITY DATA ANALYTICS AND REPORTING FOR ALL
 
-Our Organisation helps you to enable a clear vision of the performance in a simple and in a most effective manner by focusing more on redefining each aspect of business analytics by making it more easy to explore your business insights
+Our Organisation helps you to enable a clear vision of the performance in a simple and in a most effective manner by focusing more on redefining each aspect of business analytics, making it more easy to explore your business insights
 .
 
 # See BI+ In Action 
@@ -258,5 +258,5 @@ Check out how our Business Intelligence products and applications can help you i
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODUyOTIxMiw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTIxNDcyNDI1ODUsNDI0MzU3ODMxXX0=
 -->
