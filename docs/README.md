@@ -78,7 +78,11 @@ Acubi retrieves the most recent data and assist your financial advisor to focus 
 Easily combine all your data sources, no matter how large it is, into a single view and convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis.
 
 #### Disclose Data
-Sometimes, Direct dashboard reports are not enough to further explore your data. Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like
+Sometimes, Direct dashboard reports are not enough to further explore your data. Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like.
+
+#### Trusted Data Analytic Culture
+Bringing all your team and data together for data exploration and easy decision making is endless.For this, Our business intelligent tool and cloud ready platform is well secured, scalable and performance-driven that even the most demanding industries can trust.
+
 
 #### Compact
 It is one of the best software platform that consistently Join Business intelligence,Performance Management,Analytics and Data Discovery in a single product.
@@ -92,18 +96,14 @@ With Acubi you have flexibility to integrate into your existing data infrastruct
 The component has been designed in such a way, that it ensure maximum speed of development and high performance and also the calculation part is made easy with the help of a powerful math engine in Bi+.
 
 
-
-
 #### Access to All
 
 Incorporate powerful self-service BI , Without any manual data by making everyone a powerful analyst.
 
-#### Trusted Data Analytic Culture
 
-Bringing all your team and data together for data exploration and easy decision making is endless.For this, Our business intelligent tool and cloud ready platform is well secured, scalable and performance-driven that even the most demanding industries can trust.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjg1MDYwNjEsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTIwNzI2ODgyOTcsNDI0MzU3ODMxXX0=
 -->
