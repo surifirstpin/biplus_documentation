@@ -73,7 +73,7 @@ Bringing all your team and data together for data exploration and easy decision 
 
 #### Disclose Data
 
-Sometimes, Direct dashboard reports are not enough to further explore your data.Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like
+Sometimes, Direct dashboard reports are not enough to further explore your data. Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzU4OTUxMDQsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTEwNjc5MTIzODAsNDI0MzU3ODMxXX0=
 -->
