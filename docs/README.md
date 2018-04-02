@@ -76,7 +76,9 @@ Easily implement planning solutions and efficient applications to effectively ca
 #### Benefits of Live Data
 
 Acubi retrieves the most recent data and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time in data management.
+#### Combined Data
 
+Easily combine all your data sources, no matter how large it is, into a single view and convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis.
 #### Compact
 It is one of the best software platform that consistently Join Business intelligence,Performance Management,Analytics and Data Discovery in a single product.
 
@@ -88,9 +90,8 @@ With Bi+ you have flexibility to integrate into your existing data infrastructur
 
 The component has been designed in such a way, that it ensure maximum speed of development and high performance and also the calculation part is made easy with the help of a powerful math engine in Bi+.
 
-#### Combined Data
 
-Easily combine all your data sources, no matter how large it is, into a single view and convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis.
+
 
 #### Access to All
 
@@ -104,5 +105,5 @@ Bringing all your team and data together for data exploration and easy decision 
 
 Sometimes, Direct dashboard reports are not enough to further explore your data. Hence Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTUxNjE4Nyw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTExODU4NTU2MzUsNDI0MzU3ODMxXX0=
 -->
