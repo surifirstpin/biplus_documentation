@@ -234,5 +234,5 @@ Check out how our Business Intelligence products and applications can help you i
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTEzMDEyNTg1NzksNDI0MzU3ODMxXX0=
 -->
