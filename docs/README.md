@@ -88,7 +88,7 @@ It is one of the best software platform that consistently Join Business intellig
 
 #### Deployment
 
-With Bi+ you have flexibility to integrate into your existing data infrastructure, no matter where it is either on-premise or in the cloud.
+With Acubi you have flexibility to integrate into your existing data infrastructure, no matter where it is either on-premise or in the cloud.
 
 #### Speed
 
@@ -108,5 +108,5 @@ Bringing all your team and data together for data exploration and easy decision 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDAyNjY5Nyw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbMTIzODg4MDgwMSw0MjQzNTc4MzFdfQ==
 -->
