@@ -50,6 +50,7 @@ Bi+ Streamline workforce Planning, performance tracking, Analysis and improves t
   #### Variety of reporting components 
  
  Usage of different type of charts, widgets, pivot tables and tabular view components to create smart and insightful reports and dashboards. 
+ 
  ### Beautiful Dashboards 
 Join multiple report layouts into single good-looking dashboard, by customizing it as per your business needs.
 
@@ -270,5 +271,5 @@ Check out how our Business Intelligence products and applications can help you i
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ4NzgzNDEsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTI4Mjc0Nzg0Myw0MjQzNTc4MzFdfQ==
 -->
