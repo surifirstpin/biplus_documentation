@@ -55,7 +55,7 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
 
 ### Embedded analytics
 
- Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
+ Get a powerful Acubi tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
  
  ### Customer Success 
  
@@ -270,5 +270,5 @@ Check out how our Business Intelligence products and applications can help you i
 # Bi Tools Link
 http://bigdata-madesimple.com/top-business-intelligence-bi-tools-in-the-market/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDQ4NjQzNiw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTE2MjI2OTMyOTUsNDI0MzU3ODMxXX0=
 -->
