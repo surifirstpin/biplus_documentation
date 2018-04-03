@@ -115,10 +115,12 @@ It is integrated into current software very easily and allows you to re-brand th
 
 Incorporate powerful self-service BI , Without any manual data by making everyone a powerful analyst.
 
-# dialects
+# Dialects Supported
 
-Connect to number of data sources. it doesn’t matters what type of data you want to explore or where it  
-stays, you can connects to hundreds of data sources with Acubi. More sources are yet to be added.
+Connect to number of data sources. it doesn’t matters what type of data you want to explore or where it stays, you can connects to hundreds of data sources with Acubi. More sources are yet to be added.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/master/images/dialects.png)
 
 # Solutions
 
@@ -127,6 +129,7 @@ Plan, monitor and get insight into your sales processes
 
 ### Marketing
 Track, analyze and plan your “lead to revenue” process.
+
 
 ### Supply Chain
 Break functional silos: plan and analyze across the entire SCM.
@@ -140,5 +143,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzIyMDQ1NSw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbMTk1OTM3MDMzOSw0MjQzNTc4MzFdfQ==
 -->
