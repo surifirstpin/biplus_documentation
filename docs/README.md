@@ -97,15 +97,10 @@ The component has been designed in such a way, that it ensure maximum speed of d
 # AcuBi ADVANTAGES
 
 
-
-
 ## Analyse
 
 Interactive visual analytics, allows you to explore the data and instinctively get the answers you need.
 
-## Secure Accesibility
-
-Share and collaborate reports with team members more securely and get the consent quickly.
 
 ## Cloud-Connected
 
@@ -116,9 +111,9 @@ It's cloud architecture allows users, teams and IT departments to instantly shar
 It is integrated into current software very easily and allows you to re-brand there dashboards reports as desired.
 
 
-##Access to All
+## Access to All
 
 Incorporate powerful self-service BI , Without any manual data by making everyone a powerful analyst.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzk4MTkzMjYsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTE0OTQxMjA3NzIsNDI0MzU3ODMxXX0=
 -->
