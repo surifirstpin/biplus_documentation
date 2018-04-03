@@ -90,7 +90,7 @@ With Acubi you have flexibility to integrate into your existing data infrastruct
 
 #### Speed
 
-The component has been designed in such a way, that it ensure maximum speed  and high performance. and also the calculation part is made easy, with the help of powerful math engine installed in Acubi.
+The component has been designed in such a way, that it ensure maximum speed  and high performance by making calculation part more easy, with the help of powerful math engine in Acubi.
 
 
 
@@ -142,5 +142,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTc3Nzk4MSw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTg5OTc5NDMxMiw0MjQzNTc4MzFdfQ==
 -->
