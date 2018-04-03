@@ -90,7 +90,7 @@ With Acubi you have flexibility to integrate into your existing data infrastruct
 
 #### Speed
 
-The component has been designed in such a way, that it ensure maximum speed of development and high performance and also the calculation part is made easy with the help of a powerful math engine in Bi+.
+The component has been designed in such a way, that it ensure maximum speed of development and high performance and also the calculation part is made easy with the help of powerful math engine in Bi+.
 
 
 #### Access to All
@@ -102,5 +102,5 @@ Incorporate powerful self-service BI , Without any manual data by making everyon
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzM1MzQxMCw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTEyOTQ5MTU0OSw0MjQzNTc4MzFdfQ==
 -->
