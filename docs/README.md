@@ -66,6 +66,9 @@ When it comes to business establishment and success, our software is an innovati
 
 
 # Faster and smarter decision making
+
+#### Advanced Analytics 
+
 Automate the building of sophisticated data mining and predictive models.
 
 Drive better decision-making through more meaningful and forward-looking insights from your data.
@@ -106,5 +109,5 @@ Incorporate powerful self-service BI , Without any manual data by making everyon
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyNTY1MDI4LDQyNDM1NzgzMV19
+eyJoaXN0b3J5IjpbMTc0NjA1MTk4Niw0MjQzNTc4MzFdfQ==
 -->
