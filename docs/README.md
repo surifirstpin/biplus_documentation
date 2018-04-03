@@ -126,7 +126,7 @@ Ensure that your data is safe and secure, by providing 100% data protection on a
 
 ## Scalable
 
-From one users to many, Acubi scales seamlessly to meet your growing BI needs and progress to a new hardware easily or add more connection for increased redundancy and scope.
+Acubi scales seamlessly to meet your growing BI needs and progress to a new hardware easily or add more connection to increase redundancy and scope.
 
 ## Self-Serve
 
@@ -160,5 +160,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU3OTUxMTYsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTE4MDUzNzg1OTIsNDI0MzU3ODMxXX0=
 -->
