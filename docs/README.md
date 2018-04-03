@@ -118,10 +118,11 @@ Incorporate powerful self-service BI , Without any manual data by making everyon
 
 ## Simple
 
-Bi+ has an ability to transform the complex data into meaningful insights and performs in-depth analyses with utmost simplicity.
+Acubi has an ability to transform the complex data into meaningful insights and performs in-depth analyses with utmost simplicity.
+
 ## Secure
 
-Bi+ security is built to ensure that your data is safe and secure, by providing 100% data protection on all devices.
+Ensure hat your data is safe and secure, by providing 100% data protection on all devices.
 
 ## Scalable
 
@@ -159,5 +160,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjg0NTc2ODIsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbNDc0MTM2MjAxLDQyNDM1NzgzMV19
 -->
