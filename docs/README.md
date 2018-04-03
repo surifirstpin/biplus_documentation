@@ -113,10 +113,23 @@ It is integrated into current software very easily and allows you to re-brand th
 
 ## Access to All
 Incorporate powerful self-service BI , Without any manual data by making everyone a powerful analyst.
+
 # Key Features
+
 ## Simple
 
 Bi+ has an ability to transform the complex data into meaningful insights and performs in-depth analyses with utmost simplicity.
+## Secure
+
+Bi+ security is built to ensure that your data is safe and secure, by providing 100% data protection on all devices.
+
+## Scalable
+
+From one users to many, Bi+ scales seamlessly to meet your growing BI needs and progress to a new hardware easily or add more connection for increased redundancy and scope.
+
+## Self-Serve
+
+Anyone can use Bi+ to analyze, search, visualize, interact intuitively and get entrusted with the right insights.
 
 # Dialects Supported
 
@@ -146,5 +159,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjgzODcwNiw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTEzNjg0NTc2ODIsNDI0MzU3ODMxXX0=
 -->
