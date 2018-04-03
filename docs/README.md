@@ -45,6 +45,10 @@ Acubi Streamline workforce Planning, performance tracking, Analysis and improves
 
 Import data from files,databases, cloud drives, popular business applications and in-house apps. Its rapid setup connects people to data quickly and retrieve massive amount of data with an ease.
 
+#### Smarter Visualization
+
+Acubi delivers fine tuned, easy-to-read reports and publish them throughout the organisation they are easily accessed through web.
+
 #### Variety of Reporting Components
 
 Usage of different type of charts, widgets, pivot tables and tabular view components to create smart and insightful reports and dashboards.
@@ -53,9 +57,7 @@ Usage of different type of charts, widgets, pivot tables and tabular view compon
 
 Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
 
-#### Smarter Visualization
 
-Acubi delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
 
 #### Beautiful Dashboards
 
@@ -105,5 +107,5 @@ Incorporate powerful self-service BI , Without any manual data by making everyon
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTcxMTczOSw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbMTcxODA2MTAyNyw0MjQzNTc4MzFdfQ==
 -->
