@@ -30,10 +30,10 @@ Our Organisation helps you to enable a clear vision of the performance in a simp
 
 It ensure Application building, Customization ,Maintenance and Cost-efficiency by attaining customer satisfaction at the same time provides a secure collaboration in between teams.
 
-#### Experience Rapid Insights
+#### Performance Management
 
-Enable users to turn their raw data into actionable information by simplifying the extraction and analysis of data.
-
+Set up the link of insights provided by Business Intelligence to the planning and control cycles of the enterprise. 
+Easily implement planning solutions and applications to effectively carryout performance with collaborative strategic objective. 
 #### Better Insights across all Domains
 
 Acubi Streamline workforce Planning, performance tracking, Analysis and improves the quality in a dynamic regulatory environment for all domains.
@@ -106,5 +106,5 @@ Incorporate powerful self-service BI , Without any manual data by making everyon
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTg3MjI3Miw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTIwOTU1NjQ1MjQsNDI0MzU3ODMxXX0=
 -->
