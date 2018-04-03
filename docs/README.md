@@ -115,6 +115,10 @@ It is integrated into current software very easily and allows you to re-brand th
 
 Incorporate powerful self-service BI , Without any manual data by making everyone a powerful analyst.
 
+# dialects
+
+Connect to number of data sources. it doesn’t matters what type of data you want to explore or where it  
+stays, you can connects to hundreds of data sources with Acubi. More sources are yet to be added.
 
 # Solutions
 
@@ -136,5 +140,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzNTU5MzY2LDQyNDM1NzgzMV19
+eyJoaXN0b3J5IjpbLTY1NzIyMDQ1NSw0MjQzNTc4MzFdfQ==
 -->
