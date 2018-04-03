@@ -40,6 +40,9 @@ Acubi Streamline workforce Planning, performance tracking, Analysis and improves
 
 # Acubi in Action 
 
+#### Embedded Analytics
+
+Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
 
 #### Connect to any Data Source
 
@@ -51,13 +54,7 @@ Acubi delivers fine tuned, easy-to-read reports and publish them throughout the 
 
 #### Variety of Reporting Components
 
-Usage of different type of charts, widgets, pivot tables, ordering and tabular view components to create smart and insightful reports and dashboards.
-
-#### Embedded Analytics
-
-Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
-
-
+Usage of different type of charts, widgets, pivot tables, ordering, pinning and tabular view components to create smart reports and dashboards.
 
 #### Beautiful Dashboards
 
@@ -107,5 +104,5 @@ Incorporate powerful self-service BI , Without any manual data by making everyon
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzE0NzQ5OSw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTEzNTc1NDY5MjQsNDI0MzU3ODMxXX0=
 -->
