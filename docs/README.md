@@ -69,9 +69,6 @@ When it comes to business establishment and success, our software is an innovati
 
 
 
-
-
-
 #### Benefits of Live Data
 Acubi retrieves the most recent data and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time in data management.
 
@@ -84,9 +81,8 @@ Direct dashboard reports are not enough to further explore your data. Hence Acub
 #### Trusted Data Analytic Culture
 Our business intelligent tool and cloud ready platform is well secured, scalable and performance-driven that even the most demanding industries can trust.
 
-
 #### Compact
-It is one of the best software platform that consistently Join Business intelligence,Performance Management,Analytics and Data Discovery in a single product.
+It is one of the best software platform that consistently Join Business intelligence, Performance Management, Analytics and Data Discovery in a single product.
 
 #### Deployment
 
@@ -106,5 +102,5 @@ Incorporate powerful self-service BI , Without any manual data by making everyon
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU1NjQ1MjQsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbMjA4MzM1MzQxMCw0MjQzNTc4MzFdfQ==
 -->
