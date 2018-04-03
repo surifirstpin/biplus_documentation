@@ -118,19 +118,19 @@ Incorporate powerful self-service BI , Without any manual data by making everyon
 
 ## Simple
 
-Acubi has an ability to transform the complex data into meaningful insights and performs in-depth analyses with utmost simplicity.
+It transform the complex data into meaningful insights and performs in-depth analyses with utmost simplicity.
 
 ## Secure
 
-Ensure hat your data is safe and secure, by providing 100% data protection on all devices.
+Ensure that your data is safe and secure, by providing 100% data protection on all devices.
 
 ## Scalable
 
-From one users to many, Bi+ scales seamlessly to meet your growing BI needs and progress to a new hardware easily or add more connection for increased redundancy and scope.
+From one users to many, Acubi scales seamlessly to meet your growing BI needs and progress to a new hardware easily or add more connection for increased redundancy and scope.
 
 ## Self-Serve
 
-Anyone can use Bi+ to analyze, search, visualize, interact intuitively and get entrusted with the right insights.
+Anyone can use Acubi to analyze, search, visualize, interact intuitively and get entrusted with the right insights.
 
 # Dialects Supported
 
@@ -160,5 +160,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0MTM2MjAxLDQyNDM1NzgzMV19
+eyJoaXN0b3J5IjpbLTE3NzEyODk0NjQsNDI0MzU3ODMxXX0=
 -->
