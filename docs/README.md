@@ -76,7 +76,7 @@ Drive better decision-making through more meaningful and forward-looking insight
 #### Performance Management
 
 Set up the link of insights provided by Business Intelligence to the planning and control cycles of the enterprise. 
-Easily implement planning solutions and efficient applications to effectively carryout performance with corporate strategic objective. 
+Easily implement planning solutions and efficient applications to effectively carryout performance with collaborative strategic objective. 
 
 #### Benefits of Live Data
 Acubi retrieves the most recent data and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time in data management.
@@ -112,5 +112,5 @@ Incorporate powerful self-service BI , Without any manual data by making everyon
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5NjcyODg1LDQyNDM1NzgzMV19
+eyJoaXN0b3J5IjpbLTc2ODQxNTAwMyw0MjQzNTc4MzFdfQ==
 -->
