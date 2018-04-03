@@ -90,7 +90,7 @@ With Acubi you have flexibility to integrate into your existing data infrastruct
 
 #### Speed
 
-The component has been designed in such a way, that it ensure maximum speed of development and high performance and also the calculation part is made easy, with the help of powerful math engine installed in Acubi.
+The component has been designed in such a way, that it ensure maximum speed  and high performance. and also the calculation part is made easy, with the help of powerful math engine installed in Acubi.
 
 
 
@@ -112,7 +112,6 @@ It is integrated into current software very easily and allows you to re-brand th
 
 
 ## Access to All
-
 Incorporate powerful self-service BI , Without any manual data by making everyone a powerful analyst.
 
 # Dialects Supported
@@ -143,5 +142,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTM3MDMzOSw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbMTU5NTc3Nzk4MSw0MjQzNTc4MzFdfQ==
 -->
