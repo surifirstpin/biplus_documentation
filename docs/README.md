@@ -51,7 +51,7 @@ Acubi delivers fine tuned, easy-to-read reports and publish them throughout the 
 
 #### Variety of Reporting Components
 
-Usage of different type of charts, widgets, pivot tables and tabular view components to create smart and insightful reports and dashboards.
+Usage of different type of charts, widgets, pivot tables, ordering and tabular view components to create smart and insightful reports and dashboards.
 
 #### Embedded Analytics
 
@@ -107,5 +107,5 @@ Incorporate powerful self-service BI , Without any manual data by making everyon
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODA2MTAyNyw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbMTc2MzE0NzQ5OSw0MjQzNTc4MzFdfQ==
 -->
