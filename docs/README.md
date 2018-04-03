@@ -113,6 +113,10 @@ It is integrated into current software very easily and allows you to re-brand th
 
 ## Access to All
 Incorporate powerful self-service BI , Without any manual data by making everyone a powerful analyst.
+# Key Features
+## Simple
+
+Bi+ has an ability to transform the complex data into meaningful insights and performs in-depth analyses with utmost simplicity.
 
 # Dialects Supported
 
@@ -142,5 +146,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTc5NDMxMiw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbMTQ0NjgzODcwNiw0MjQzNTc4MzFdfQ==
 -->
