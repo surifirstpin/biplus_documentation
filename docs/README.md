@@ -130,7 +130,7 @@ From one users to many, Acubi scales seamlessly to meet your growing BI needs an
 
 ## Self-Serve
 
-Anyone can use Acubi to analyze, search, visualize, interact intuitively and get entrusted with the right insights.
+This user friendly Bi tool will enable you to analyze, search, visualize, interact intuitively and get entrusted with the right insights.
 
 # Dialects Supported
 
@@ -160,5 +160,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzEyODk0NjQsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTEwMDU3OTUxMTYsNDI0MzU3ODMxXX0=
 -->
