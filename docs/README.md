@@ -90,7 +90,7 @@ With Acubi you have flexibility to integrate into your existing data infrastruct
 
 #### Speed
 
-The component has been designed in such a way, that it ensure maximum speed of development and high performance and also the calculation part is made easy with the help of powerful math engine in Bi+.
+The component has been designed in such a way, that it ensure maximum speed of development and high performance and also the calculation part is made easy, with the help of powerful math engine installed in Acubi.
 
 
 #### Access to All
@@ -99,8 +99,24 @@ Incorporate powerful self-service BI , Without any manual data by making everyon
 
 
 
+# AcuBi ADVANTAGES
 
+## Analyse
+
+Interactive visual analytics, allows you to explore the data and instinctively get the answers you need.
+
+## Secure Accesibility
+
+Share and collaborate reports with team members more securely and get the consent quickly.
+
+## Cloud-Connected
+
+It's cloud architecture allows users, teams and IT departments to instantly share findings and data.
+
+## White Labeling
+
+It is integrated into current software very easily and allows you to re-brand there dashboards reports as desired.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ5MTU0OSw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTY3NTkyNDk2LDQyNDM1NzgzMV19
 -->
