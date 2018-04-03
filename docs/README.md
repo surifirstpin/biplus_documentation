@@ -62,7 +62,7 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
 
 #### Customer Success
 
-When it comes to business establishment and success, Acubi software is an innovation that has ability to share and collaborate ideas efficiently.
+When it comes to business establishment and success, our software is an innovation that has ability to share and collaborate ideas efficiently.
 
 
 # Faster and smarter decision making
@@ -104,5 +104,5 @@ Incorporate powerful self-service BI , Without any manual data by making everyon
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODA2NDk1MTgsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbMjAwNzU4MjMzNiw0MjQzNTc4MzFdfQ==
 -->
