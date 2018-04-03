@@ -72,9 +72,11 @@ When it comes to business establishment and success, our software is an innovati
 Automate the building of sophisticated data mining and predictive models.
 
 Drive better decision-making through more meaningful and forward-looking insights from your data.
+
 #### Performance Management
 
-Set up the link in between insights provided by Business Intelligence to the planning and control cycles of the enterprise. Easily implement planning solutions and efficient applications to effectively carryout performance with corporate strategic objective. 
+Set up the link of insights provided by Business Intelligence to the planning and control cycles of the enterprise. 
+Easily implement planning solutions and efficient applications to effectively carryout performance with corporate strategic objective. 
 
 #### Benefits of Live Data
 Acubi retrieves the most recent data and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time in data management.
@@ -110,5 +112,5 @@ Incorporate powerful self-service BI , Without any manual data by making everyon
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTc2NTU2Nyw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbODM5NjcyODg1LDQyNDM1NzgzMV19
 -->
