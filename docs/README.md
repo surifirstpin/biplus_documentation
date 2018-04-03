@@ -116,24 +116,25 @@ It is integrated into current software very easily and allows you to re-brand th
 Incorporate powerful self-service BI , Without any manual data by making everyone a powerful analyst.
 
 
-## Solutions
-Sales
+# Solutions
+
+### Sales
 Plan, monitor and get insight into your sales processes
 
-Marketing
+### Marketing
 Track, analyze and plan your “lead to revenue” process.
 
-Supply Chain
+### Supply Chain
 Break functional silos: plan and analyze across the entire SCM.
 
-Gaming
+### Gaming
 To make decision that are right for the future of your business, You need business intelligence.
 
-HR
+### HR
 Streamline workforce planning and get better insights into human capital performance.
 
-Finance
+### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTM0NTEwMDksNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbNzkzNTU5MzY2LDQyNDM1NzgzMV19
 -->
