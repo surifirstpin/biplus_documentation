@@ -50,7 +50,7 @@ Get Acubi installed within your own product, application, portal or website.
 
 #### Connect to any Data Source
 
-Connect to any data source quickly and Import data from files, databases, cloud drives, popular business applications and in-house apps.
+Connect to any data source quickly and import data from files, databases, cloud drives, popular business applications and in-house apps.
 
 #### Smarter Visualization
 
@@ -58,7 +58,7 @@ Acubi delivers fine tuned, easy-to-read reports and publish them throughout the 
 
 #### Variety of Reporting Components
 
-Usage of different type of charts, widget, pivot tables, ordering, pinning and tabular view components to create smart reports and dashboards.
+Usage of different type of charts, widget, pivot tables and tabular view components to create smart reports and dashboards.
 
 #### Beautiful Dashboards
 
@@ -164,5 +164,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzczMDE4MzYsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbMTgyMDkyNDgxNSw0MjQzNTc4MzFdfQ==
 -->
