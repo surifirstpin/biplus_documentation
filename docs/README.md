@@ -26,7 +26,7 @@ Acubi is Collection of business analytics tools that provides a standard insight
 
 Our Organisation helps you to enable a clear vision of the performance in a simple and in a most effective manner by focusing more on redefining each aspect of business analytics, making it more easy to explore your business insights.
 
-Acubi enables a clear vision of performance, effectively by redefining each aspect of business analytics to explore your business insights.
+Acubi enables a clear vision of performance effectively by redefining each aspect of business analytics to explore your business insights.
 ####   Easy, Affordable, Secure
 
 It ensure Application building, Customization ,Maintenance and Cost-efficiency by attaining customer satisfaction at the same time provides a secure collaboration in between teams.
@@ -161,5 +161,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1NjQ1NTEyLDQyNDM1NzgzMV19
+eyJoaXN0b3J5IjpbLTY2Mjc2NDM4NCw0MjQzNTc4MzFdfQ==
 -->
