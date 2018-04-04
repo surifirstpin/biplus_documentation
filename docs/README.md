@@ -74,6 +74,7 @@ When it comes to business establishment and success, our software is an innovati
 
 
 #### Benefits of Live Data
+
 Acubi retrieves the most recent data and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time in data management.
 
 #### Combined Data
@@ -165,5 +166,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2MDg2NTYxLDQyNDM1NzgzMV19
+eyJoaXN0b3J5IjpbLTIwNzI4NTEwODUsNDI0MzU3ODMxXX0=
 -->
