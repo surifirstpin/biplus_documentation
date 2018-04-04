@@ -24,8 +24,6 @@ Acubi is Collection of business analytics tools that provides a standard insight
 
 # HIGH QUALITY DATA ANALYTICS AND REPORTING FOR ALL
 
-Our Organisation helps you to enable a clear vision of the performance in a simple and in a most effective manner by focusing more on redefining each aspect of business analytics, making it more easy to explore your business insights.
-
 Acubi enables a clear vision of performance effectively by redefining each aspect of business analytics clearly to explore your business insights.
 
 ####   Easy, Affordable, Secure
@@ -48,7 +46,7 @@ Acubi Streamline workforce Planning, performance tracking, Analysis and improves
 
 #### Embedded Analytics
 
-Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
+Acubi installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
 
 #### Connect to any Data Source
 
@@ -166,5 +164,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDgzMDc3OCw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbOTM1NzA5MTM4LDQyNDM1NzgzMV19
 -->
