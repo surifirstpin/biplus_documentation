@@ -8,7 +8,7 @@ Acubi is a single integrated analytical platform that delivers faster and better
 
 ## Turn Data into Opportunity
 
-Check out how our Business intelligence products and application can help you in achieving better decision making at every level of your organisation.
+Our Business intelligence products and application wcan help you in achieving better decision making at every level of your organisation.
 
 ## Create Beautiful Dashboards and Visualization in Fraction of seconds
 
@@ -160,5 +160,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxNTM4Mzg1LDQyNDM1NzgzMV19
+eyJoaXN0b3J5IjpbMzk4Njg2MzAyLDQyNDM1NzgzMV19
 -->
