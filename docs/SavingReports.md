@@ -19,7 +19,7 @@ Under **Save Explore** page provide all the below information to save a report f
 
 - **Info** displays any specific information about the report.
 
-- **Privacy** you can save the report in any one of the following priv to provide access.
+- **Privacy** you can save the report in any one of the following privacy option.
 
   - **Private ()** report saved in private section and accessed by the user itself.
   - **Public ()** the report is saved in public section and accessed by all the users.
@@ -59,5 +59,5 @@ Cache saves the data, so the future request for the data is provided faster.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTM1MTEyMzIsLTMzNzI2MjAyXX0=
+eyJoaXN0b3J5IjpbLTg4ODk1ODg1OCwtMzM3MjYyMDJdfQ==
 -->
