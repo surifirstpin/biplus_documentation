@@ -46,7 +46,7 @@ Acubi Streamline workforce Planning, performance tracking, Analysis and improves
 
 #### Embedded Analytics
 
-Acubi installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
+Get Acubi installed within your own product, application, portal or website. as it is embedded in many popular software solutions and technologies.
 
 #### Connect to any Data Source
 
@@ -164,5 +164,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1NzA5MTM4LDQyNDM1NzgzMV19
+eyJoaXN0b3J5IjpbMjA4NDc2Nzg4Miw0MjQzNTc4MzFdfQ==
 -->
