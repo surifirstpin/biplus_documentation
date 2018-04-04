@@ -49,9 +49,9 @@ Acubi Streamline workforce Planning, performance tracking, Analysis and improves
 Get Acubi installed within your own product, application, portal or website. 
 
 #### Connect to any Data Source
-Connect to any data source quickly and and retrieve massive amount of data with an ease.
 
-Import data from files,databases, cloud drives, popular business applications and in-house apps. Its rapid setup connects people to data quickly 
+Connect to any data source quickly and Import data from files, databases, cloud drives, popular business applications and in-house apps.
+
 #### Smarter Visualization
 
 Acubi delivers fine tuned, easy-to-read reports and publish them throughout the organisation they are easily accessed through web.
@@ -164,5 +164,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjY2MTMwMyw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTEwNzczMDE4MzYsNDI0MzU3ODMxXX0=
 -->
