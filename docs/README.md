@@ -32,8 +32,9 @@ Acubi enables a clear vision of performance effectively by redefining each aspec
 
 It ensure Application building, Customization ,Maintenance and Cost-efficiency by attaining customer satisfaction at the same time provides a secure collaboration in between teams.
 
-#### Rapid insight of  
+#### Rapid insight of  across your data
 Enable users to turn their raw data into actionable information by simplifying the extraction and analysis of data.
+
 #### Performance Management
 
 Set up the link of insights provided by Business Intelligence to the planning and control cycles of the enterprise. 
@@ -165,5 +166,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjIzMTczNCw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbMjExNDgzMDc3OCw0MjQzNTc4MzFdfQ==
 -->
