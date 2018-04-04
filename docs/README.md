@@ -4,7 +4,7 @@
 
 
 ## Turn Your Insights into Actions 
-Acubi is a single integrated enterprise analytical platform that delivers faster and better insights for the Whole Business, Regardless any action or industry.
+Acubi is a single integrated analytical platform that delivers faster and better insights for  Business, Regardless any action or industry.
 
 ## Turn Data into Opportunity
 
@@ -160,5 +160,5 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODA1MDk3Nyw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTE3MzcxODgyNDQsNDI0MzU3ODMxXX0=
 -->
