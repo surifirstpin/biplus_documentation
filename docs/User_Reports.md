@@ -12,15 +12,15 @@ Hence BiPlus reports need not to be Static and Rigid. Now let us see how to crea
 
 ## Getting Started
 
-Use this link http://52.29.248.194:8081/biplus in your url and Click on Enter, it will navigate to Acubi login page. 
+Use this link http://52.29.248.194:8081/biplus in your url and Click on Enter, it will navigate to BiPlus login page. 
 **1.** Enter username.
 **2.** Enter password.
-**3.** Click on login button to navigate to Acubi homepage. 
+**3.** Click on login button to navigate to BiPlus homepage. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/Acubi1.png)
 
-> **Note :** By default it displays dashboard set to the homepage, depending on your requirement you can set a report or dashboard to Acubi Home page for easy access.
+> **Note :** By default it displays dashboard set to the homepage, depending on your requirement you can set a report or dashboard to BiPlus Home page for easy access.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/homepage.png)
@@ -34,5 +34,5 @@ Use this link http://52.29.248.194:8081/biplus in your url and Click on Enter, i
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU4MDA3XX0=
+eyJoaXN0b3J5IjpbNTczMDM1NDgyXX0=
 -->
