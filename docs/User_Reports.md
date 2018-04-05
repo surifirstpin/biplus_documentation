@@ -1,0 +1,17 @@
+
+
+Getting insights early is key for improving user experience. The traditional method of accessing data may slow down the process for which acubi has introduced a dynamic approach in extracting the data through reports. where it can extract  real time live data with a single click.
+
+Its Unique data modelling techniques will let you describe and transform raw data for better understanding and used as reliable source of truth for your business.
+
+-  **Analyse Immediately-** Make decision in spur-of-the-movement.
+-   **Fine-tune and Mold-** Models can easily change with your business.
+-   **Build with Section-** Pick and implement the metrics you need in seconds.
+
+Hence Acubi reports need not to be Static and Rigid. Now let us see how to create a Report in Acubi.
+## Getting Started
+
+> Written with [StackEdit](https://stackedit.io/).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU2MTI5MzczNF19
+-->
