@@ -38,12 +38,12 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
  
  To retrieve the data in analysis section follow the below steps,
  
-**2.**  Select one or more dimension fields ( Grey fields) to access the data. It supports strings and date types.
+**.**  Select one or more dimension fields ( Grey fields) to access the data. It supports strings and date types.
 
 **3.** Select one or more measure fields (Orange fields) to access numeric values, such as Sum, Count, Max, Min and  Avg etc. 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjU1NzkwM119
+eyJoaXN0b3J5IjpbLTczODgwMjAyM119
 -->
