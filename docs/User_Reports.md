@@ -9,9 +9,9 @@ Its Unique data modelling techniques will let you describe and transform raw dat
 -   **Build with Section-** Pick and implement the metrics you need in seconds.
 
 Hence Acubi reports need not to be Static and Rigid. Now let us see how to create a Report in Acubi.
-## Getting Started
 
+## Getting Started
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTI5MzczNF19
+eyJoaXN0b3J5IjpbLTE5NTYwOTU1OTBdfQ==
 -->
