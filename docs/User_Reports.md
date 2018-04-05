@@ -15,10 +15,8 @@ Hence Acubi reports need not to be Static and Rigid. Now let us see how to creat
 Use this link http://52.29.248.194:8081/biplus in your url and Click on Enter, it will navigate to Acubi login page. 
 - Enter username and password and click on login button as shown below.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/master/images/Acubi.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwNDE0MjYzXX0=
+eyJoaXN0b3J5IjpbNzQ1MDY5OTE2XX0=
 -->
