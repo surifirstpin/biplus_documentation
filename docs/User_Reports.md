@@ -17,10 +17,11 @@ Use this link http://52.29.248.194:8081/biplus in your url and Click on Enter, i
 **2.** Enter password.
 **3.** Click on login button to navigate to Acubi homepage.
 
+Select Analyse section to create a repor
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/Acubi1.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODI4Njk0Nl19
+eyJoaXN0b3J5IjpbNjMxODQyNTU0XX0=
 -->
