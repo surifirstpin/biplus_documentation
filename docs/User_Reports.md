@@ -1,6 +1,6 @@
 
 
-Getting insights early is key for improving user experience. The traditional method of accessing data may slow down the process for which acubi has introduced a dynamic approach in extracting the data through reports. where it can extract  real time live data with a single click.
+Getting insights early is key for improving user experience. The traditional method of accessing data may slow down the process for which BiPlus has introduced a dynamic approach in extracting the data through reports. where it can extract  real time live data with a single click.
 
 Its Unique data modelling techniques will let you describe and transform raw data for better understanding and used as reliable source of truth for your business.
 
@@ -8,7 +8,7 @@ Its Unique data modelling techniques will let you describe and transform raw dat
 -   **Fine-tune and Mold-** Models can easily change with your business.
 -   **Build with Section-** Pick and implement the metrics you need in seconds.
 
-Hence Acubi reports need not to be Static and Rigid. Now let us see how to create a Report in Acubi.
+Hence BiPlus reports need not to be Static and Rigid. Now let us see how to create a Report in BiPlus.
 
 ## Getting Started
 
@@ -34,5 +34,5 @@ Use this link http://52.29.248.194:8081/biplus in your url and Click on Enter, i
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjY2NTY0NDZdfQ==
+eyJoaXN0b3J5IjpbLTEyOTU4MDA3XX0=
 -->
