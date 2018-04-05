@@ -1,6 +1,6 @@
 <center><h1> Reports</h1></center>
 
-By building the reports in AcuBi you can extract the data effectively and collaborate more efficiently unlike of of accessing the data in a traditional manner. Just in matters of seconds, you can confess a story in what way your organisation is making a difference in the world.
+By building the reports in BiPlus you can extract the data effectively and collaborate more efficiently unlike of of accessing the data in a traditional manner. Just in matters of seconds, you can confess a story in what way your organisation is making a difference in the world.
 
 ## View Report
 
@@ -98,5 +98,5 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTI4NDk3MywtMTI1Njk3NDQxMV19
+eyJoaXN0b3J5IjpbMTczMDk3OTc5OCwtMTI1Njk3NDQxMV19
 -->
