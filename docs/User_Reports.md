@@ -12,8 +12,8 @@ Hence Acubi reports need not to be Static and Rigid. Now let us see how to creat
 
 ## Getting Started
 
-Login to A
+Enter username and password
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzI2ODg2N119
+eyJoaXN0b3J5IjpbMTM1MzU0MTc0NF19
 -->
