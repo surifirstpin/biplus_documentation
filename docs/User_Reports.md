@@ -17,13 +17,12 @@ Use this link http://52.29.248.194:8081/biplus in your url and Click on Enter, i
 **2.** Enter password.
 **3.** Click on login button to navigate to Acubi homepage.
 
-Click on  **Analyse section** to create a report.
-
+Click on **Analysis section** and select the desired **project** and **model** depending on which you can explore and retrieve the data for a report.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/Acubi1.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzE3MzE1MDldfQ==
+eyJoaXN0b3J5IjpbMTcwNDcyOTcyMV19
 -->
