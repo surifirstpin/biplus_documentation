@@ -17,14 +17,13 @@ Use this link http://52.29.248.194:8081/biplus in your url and Click on Enter, i
 **2.** Enter password.
 **3.** Click on login button to navigate to Acubi homepage. 
 
-> **Note :** By default it displays dashboard set to the homepage, depending on yuor requirement you can set a report and dashboard to Acubi Home page for easy access.
-
-**4.** Click on **Analysis section** and select the desired **project** and **model** depending on which you can explore and retrieve the data for a report.
-
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/Acubi1.png)
 
+> **Note :** By default it displays dashboard set to the homepage, depending on your requirement you can set a report and dashboard to Acubi Home page for easy access.
+
+**4.** Click on **Analysis section** and select the desired **project** and **model** depending on which you can explore and retrieve the data for a report.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzcyODA4OV19
+eyJoaXN0b3J5IjpbLTEyMjQzODc1MzddfQ==
 -->
