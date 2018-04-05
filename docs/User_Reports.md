@@ -32,7 +32,8 @@ Use this link http://52.29.248.194:8081/biplus in your url and Click on Enter, i
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/analyse_ur.png)
 
+From the consolidated list of dimensions and measure select the fields for which you want to retreive data f
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwMTAyNzg3XX0=
+eyJoaXN0b3J5IjpbMTQ1NTAyOTM0NF19
 -->
