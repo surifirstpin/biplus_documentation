@@ -52,8 +52,7 @@ BiPlus Provide you an opportunity to view or display the data which is needed fo
 
 **12.** You can also apply **hidden filter** to the fields on the far right of the field ( Dimensions and Measures) list.
 
-
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzE0NjQ5NF19
+eyJoaXN0b3J5IjpbMzYwNDkwNzA4XX0=
 -->
