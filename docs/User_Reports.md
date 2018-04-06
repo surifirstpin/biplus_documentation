@@ -42,12 +42,12 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 
 **9.** Run the report to Extract the data, Based on selection made.
 
-**10.** Data values retreived on running the report are visible in Data section as shown in below image.
-
+**10.** Data values retrieved on running the report are visible in **Data section** as shown in below image.
+> **Note** dimension values are seen with grey background and measure values are seen with Orange Background in a report.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/run_ur.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDY1MDkyM119
+eyJoaXN0b3J5IjpbMTk4MTU2NDAzXX0=
 -->
