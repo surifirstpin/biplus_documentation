@@ -45,11 +45,10 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 **10.** Data values retrieved on running the report are visible in **Data section** as shown in below image.
 
 > **Note** dimension values are seen with grey background and similarly, measure values are seen with Orange Background in a report.
-> 
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/run_ur.png)
-
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTc1NTkyN119
+eyJoaXN0b3J5IjpbLTI5ODM0NDQxOV19
 -->
