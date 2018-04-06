@@ -50,10 +50,10 @@ BiPlus Provide you an opportunity to view or display the data which is needed fo
 
 **11.** Click on **Filter**, if desired to add a filter to your report based on that field.
 
-**12.** User can retrieve the data based on hidden filters applied, this hidden filter are visible in filter list but not displayed in data section.
+**12.** You can also appply hidden filter to the fields 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQwODY3NzRdfQ==
+eyJoaXN0b3J5IjpbLTk3MjkyMzg3MV19
 -->
