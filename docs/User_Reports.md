@@ -49,10 +49,11 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 BiPlus Provide you an opportunity to view or display the data which is needed for the user by using Filter option. 
 
 **11.** Click on **Filter**, if desired to add a filter to your report based on that field.
-**12.**
+
+**12.** 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTQ4NjYwOF19
+eyJoaXN0b3J5IjpbLTkwMDk0NjM2Nl19
 -->
