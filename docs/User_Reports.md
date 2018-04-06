@@ -32,9 +32,7 @@ Use this link http://52.29.248.194:8081/biplus in your url and Click on Enter, i
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/analyse_ur.png)
 
-From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orange Colour Fields)  select the fields for which you want to retrieve data for a report. **Dimension** acts as group of data and **Measure** is a information about group of data and they collectively acts as fundamental building blocks for a query.
-
-> For Example **Name of the Employee** is defined as dimension and **Salary of the Employee** is defined as Measure.
+From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orange Colour Fields)  select the fields for which you want to retrieve data for a report. 
  
  To retrieve the data in analysis section follow the below steps,
  
@@ -46,5 +44,5 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDkzNzUyMV19
+eyJoaXN0b3J5IjpbLTEwMDQwNjQzMzBdfQ==
 -->
