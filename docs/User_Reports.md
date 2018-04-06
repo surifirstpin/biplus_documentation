@@ -25,7 +25,7 @@ Use this link http://52.29.248.194:8081/biplus in your url and Click on Enter, i
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/homepage.png)
 
-**4.** Click on **Dashboard section.** 
+**4.** To view a report Click on **Dashboard section.** 
 **5.** Select the desired **project** and,
 **6.** Select desired **model,** depending on which you want to explore and retrieve the data for a report.
 
@@ -52,5 +52,5 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc5MjExMjldfQ==
+eyJoaXN0b3J5IjpbLTIwNDc3NTIzNDZdfQ==
 -->
