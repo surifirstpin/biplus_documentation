@@ -46,8 +46,12 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 
 > **Note :** dimension values are seen with grey background and similarly, measure values are seen with Orange Background in a report.
 
-BiPlus Provide you an opportunity to view or display the data which is needed for the user by using Filter option. filter expressions are the advanced way to limit the data, the following are the various types of filter expressions used.
+BiPlus Provide you an opportunity to view or display the data which is needed for the user by using Filter option. 
+
+**11.** Click on **Filter**, if desired to add a filter to your report based on that field.
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5OTk1Mzg1XX0=
+eyJoaXN0b3J5IjpbLTE1NTI4NzgzNzVdfQ==
 -->
