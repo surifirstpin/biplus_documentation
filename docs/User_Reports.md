@@ -1,14 +1,6 @@
 
 
-Getting insights early is key for improving user experience. The traditional method of accessing data may slow down the process for which BiPlus has introduced a dynamic approach in extracting the data through reports. where it can extract  real time live data with a single click.
 
-Its Unique data modelling techniques will let you describe and transform raw data for better understanding and used as reliable source of truth for your business.
-
--  **Analyse Immediately-** Make decision in spur-of-the-movement.
--   **Fine-tune and Mold-** Models can easily change with your business.
--   **Build with Section-** Pick and implement the metrics you need in seconds.
-
-Hence BiPlus reports need not to be Static and Rigid. Now let us see how to create a Report in BiPlus.
 
 ## Getting Started
 
@@ -52,5 +44,5 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDc3NTIzNDZdfQ==
+eyJoaXN0b3J5IjpbLTE4NzU2MTg2OTBdfQ==
 -->
