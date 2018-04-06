@@ -40,21 +40,17 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 
 **8.** Select one or more measure fields (Orange fields) to access numeric values, such as Sum, Count, Max, Min and  Avg etc. 
 
+**9.** Click on **Filter**, if desired to add a filter to your report based on that field.
+
+**10.** You can also apply **Hidden filter** to the fields, available on the far right of the field ( Dimensions and Measures) list.
 **9.** Run the report to Extract the data, Based on selection made.
 
 **10.** Data values retrieved on running the report are visible in **Data section** as shown in below image.
 
 > **Note :** dimension values are seen with grey background and similarly, measure values are seen with Orange Background in a report.
-
-BiPlus Provide you an opportunity to view or display the data which is needed for the user by using Filter option. 
-
-**11.** Click on **Filter**, if desired to add a filter to your report based on that field.
-
-**12.** You can also apply **Hidden filter** to the fields, available on the far right of the field ( Dimensions and Measures) list.
-
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDc3ODExOF19
+eyJoaXN0b3J5IjpbMzE5MjM2ODM1XX0=
 -->
