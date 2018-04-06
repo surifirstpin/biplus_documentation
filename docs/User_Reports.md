@@ -46,8 +46,8 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 
 > **Note :** dimension values are seen with grey background and similarly, measure values are seen with Orange Background in a report.
 
-
+BiPlus Provide you an opportunity to view the data which is neede
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwNTE3ODM3XX0=
+eyJoaXN0b3J5IjpbMTQ1NTIxNDA5OV19
 -->
