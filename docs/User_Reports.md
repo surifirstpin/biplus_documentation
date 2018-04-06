@@ -1,7 +1,5 @@
 
 
-
-
 ## Getting Started
 
 Use this link http://52.29.248.194:8081/biplus in your url and Click on Enter, it will navigate to BiPlus login page. 
@@ -44,5 +42,5 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzU2MTg2OTBdfQ==
+eyJoaXN0b3J5IjpbLTc2MDQxNzExOF19
 -->
