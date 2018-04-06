@@ -50,11 +50,11 @@ BiPlus Provide you an opportunity to view or display the data which is needed fo
 
 **11.** Click on **Filter**, if desired to add a filter to your report based on that field.
 
-**12.** You can also apply **Hidden filter** to the fields on the far right of the field ( Dimensions and Measures) list.
+**12.** You can also apply **Hidden filter** to the fields, available on the far right of the field ( Dimensions and Measures) list.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzY0NTEzM119
+eyJoaXN0b3J5IjpbLTI4MDc3ODExOF19
 -->
