@@ -41,12 +41,12 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 **8.** Select one or more measure fields (Orange fields) to access numeric values, such as Sum, Count, Max, Min and  Avg etc. 
 
 **9.** Run the report to Extract the data, Based on selection made.
-> **No
+> **Note** Under data sectio
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/run_ur.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTg2ODQzNTRdfQ==
+eyJoaXN0b3J5IjpbLTExNTA2ODA2NTBdfQ==
 -->
