@@ -15,8 +15,8 @@ To Download data from BiPlus,
 -  PNG
 **3.** To Download the **Visualization Image** in BiPlus, First Select **Show Visualization** in drop down and click on **Download Image.**
 
-If you CShow Visualization to download then BiPlus will Some visulaisation setings to your downlaod.
+If you choose Show Visualization to download then BiPlus will Some visulaisation setings to your downlaod.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTUwOTk4NCwtOTg4NTI4Njk5LDg4Nz
-I5OTg5LDY1MzA0NDU1M119
+eyJoaXN0b3J5IjpbLTE4NTYxMjI4ODYsLTk4ODUyODY5OSw4OD
+cyOTk4OSw2NTMwNDQ1NTNdfQ==
 -->
