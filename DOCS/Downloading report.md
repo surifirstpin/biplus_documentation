@@ -13,8 +13,8 @@ To Download data from BiPlus,
  - CSV
  - .XLS
 -  PNG
-**3.** To Download the Visualisation Image in 
+**3.** To Download the **Visualization Image** in BiPlus, First Select **Show Visualization** in drop down and click on Download Image.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTU2NDM3LDg4NzI5OTg5LDY1MzA0ND
-U1M119
+eyJoaXN0b3J5IjpbMTk4NzM1MzYwNSw4ODcyOTk4OSw2NTMwND
+Q1NTNdfQ==
 -->
