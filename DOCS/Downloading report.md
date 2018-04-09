@@ -16,11 +16,11 @@ To Download data from BiPlus,
 
 **3.**  To Download the **Visualization Image** in BiPlus, First Select **Show Visualization** in drop down and click on **Download Image.**
 
- To download the most recent data information of the report Click on **Refresh** before downloading and to download the most recent data information by clearing the cache for specific dashboard or report, Click on **Hard Refresh** before downloading. 
+ To download the most recent data information of the report Click on **Refresh** in gear drop down before downloading and to download the most recent data information by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
 
 > **Note :** Depending on your requirement you can download the data by applying refresh or hard refresh.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwODE5MDQ2LC0xOTg4MzczMzIxLC0xOD
-U2MTIyODg2LC05ODg1Mjg2OTksODg3Mjk5ODksNjUzMDQ0NTUz
-XX0=
+eyJoaXN0b3J5IjpbLTU0OTgwMjc3MiwtMTk4ODM3MzMyMSwtMT
+g1NjEyMjg4NiwtOTg4NTI4Njk5LDg4NzI5OTg5LDY1MzA0NDU1
+M119
 -->
