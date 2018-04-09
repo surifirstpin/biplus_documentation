@@ -15,13 +15,11 @@ To Download data from BiPlus,
 -  PNG
 **3.** To Download the **Visualization Image** in BiPlus, First Select **Show Visualization** in drop down and click on **Download Image.**
 
+ **4.** **Refresh** option in the drop down is used to displays the most recent data information of the report.
 
-
- **Refresh** displays the most recent data information of the report.
-
-- **Hard Refresh**  displays the most recent data information by clearing the cache for specific dashboard or report.
+**5.** **Hard Refresh** option in the drop down displays   displays the most recent data information by clearing the cache for specific dashboard or report.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzc4MzAwNzQsLTE4NTYxMjI4ODYsLT
-k4ODUyODY5OSw4ODcyOTk4OSw2NTMwNDQ1NTNdfQ==
+eyJoaXN0b3J5IjpbLTU4ODU3MTYyMywtMTg1NjEyMjg4NiwtOT
+g4NTI4Njk5LDg4NzI5OTg5LDY1MzA0NDU1M119
 -->
