@@ -4,7 +4,7 @@
 
 Use this link http://52.29.248.194:8081/biplus in your url and Click on enter, it will navigate to BiPlus login page. 
 
- Enter **username** and **password** then click on **login** to navigate to BiPlus Homepage. 
+-  Enter **Username** and **Password** then click on **login** to navigate to BiPlus Homepage. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/Acubi1.png)
@@ -42,6 +42,6 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDE5Nzg1NDcsMTQ2ODU3Mjk4MCwtNz
-YwNDE3MTE4XX0=
+eyJoaXN0b3J5IjpbOTQ0Mjc1MDk4LDE0Njg1NzI5ODAsLTc2MD
+QxNzExOF19
 -->
