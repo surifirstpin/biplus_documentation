@@ -10,13 +10,13 @@ Image 1 :
 
 > **Note :** BiPlus Home page immediately displays the dashboard or Report set by other users on homepage ( Shown in Below image).
 
-**1.** Click on Analyse section to explore a report.
+**1.** Click on **Analyse section** to explore a report.
 
-**2.** Select Desired project and model from the drop down list, depending on which you want to extract the data.
+**2.** Select Desired **project** and **model** from the drop down list, depending on which you want to extract the data.
 
-**3.**  Select one or more dimension fields ( Grey fields) to access and group your data.
+**3.**  Select one or more **dimension fields** ( Grey fields) to access and group your data.
 
-**4.** Select one or more measure fields (Orange fields) to add information about those groups or data such as Sum, Count, Max, Min and  Avg etc. 
+**4.** Select one or more **measure fields** (Orange fields) to add information about those groups or data such as Sum, Count, Max, Min and  Avg etc. 
 
 **5.** To add a filter to your report based on that field, Click on **Filter.**
  
@@ -34,7 +34,7 @@ The above explained points are the basics, to view the additional; features of r
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzUxMDU3LDYzNDk0NTk4MSwxOTQ5Nz
+eyJoaXN0b3J5IjpbLTU0MDg2ODMxLDYzNDk0NTk4MSwxOTQ5Nz
 E0NDc1LC0xMTg3NjUzNTEzLC05MTQ2NzQ0ODcsMjE0NzE3MDkw
 OCwyOTQ2NTUxNDYsMTM4NTIxNDM3Niw5NDQyNzUwOTgsMTQ2OD
 U3Mjk4MCwtNzYwNDE3MTE4XX0=
