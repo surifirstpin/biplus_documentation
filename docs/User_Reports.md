@@ -24,7 +24,7 @@ Image 1 :
 
 >  Data retrieved on running the report are visible in **Data section.
  
-**7.** click on save to Save the report, it 
+**7.** click on save to Save the report, it will navigate to Save explore dialog box, Enter the below details and  
 **8.** If desired, you can view the visualization charts such as pie,bar,line etc. by clicking on **Charts** tab.
 
 **9.** If desired to view the sql generated for the data retreived click on **SQL** tab. 
@@ -35,8 +35,8 @@ The above explained points are the basics, to view the additional; features of r
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNDg4ODgxNywtNTQwODY4MzEsNjM0OT
-Q1OTgxLDE5NDk3MTQ0NzUsLTExODc2NTM1MTMsLTkxNDY3NDQ4
-NywyMTQ3MTcwOTA4LDI5NDY1NTE0NiwxMzg1MjE0Mzc2LDk0ND
-I3NTA5OCwxNDY4NTcyOTgwLC03NjA0MTcxMThdfQ==
+eyJoaXN0b3J5IjpbMjU3NDQyOTE3LC01NDA4NjgzMSw2MzQ5ND
+U5ODEsMTk0OTcxNDQ3NSwtMTE4NzY1MzUxMywtOTE0Njc0NDg3
+LDIxNDcxNzA5MDgsMjk0NjU1MTQ2LDEzODUyMTQzNzYsOTQ0Mj
+c1MDk4LDE0Njg1NzI5ODAsLTc2MDQxNzExOF19
 -->
