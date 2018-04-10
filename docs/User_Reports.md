@@ -24,7 +24,9 @@ Image 1 :
 
 **7.** Data retrieved on running the report are visible in **Data section.** 
 
-**8.** Click on Charts to view the visualization such as pie,bar,line etc chart of the 
+**8.** If desired, you can view the visualization charts such as pie,bar,line etc. By clicking on Charts Section.
+
+**9.** If desired to view the sql generated fo rthe  
 
 > Note :  You can also apply **Hidden filter**, **Pivot the fields**, check **totals**, **run time**, display the data in **order** (Ascending or Descending) and Apply ** Calculations** in BIPlus. ( Explained in Detail in **Data Analysis** document.
  
@@ -32,8 +34,8 @@ Image 1 :
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzUwODM1MCw2MzQ5NDU5ODEsMTk0OT
-cxNDQ3NSwtMTE4NzY1MzUxMywtOTE0Njc0NDg3LDIxNDcxNzA5
-MDgsMjk0NjU1MTQ2LDEzODUyMTQzNzYsOTQ0Mjc1MDk4LDE0Nj
-g1NzI5ODAsLTc2MDQxNzExOF19
+eyJoaXN0b3J5IjpbLTY0Njk1NzcwLDYzNDk0NTk4MSwxOTQ5Nz
+E0NDc1LC0xMTg3NjUzNTEzLC05MTQ2NzQ0ODcsMjE0NzE3MDkw
+OCwyOTQ2NTUxNDYsMTM4NTIxNDM3Niw5NDQyNzUwOTgsMTQ2OD
+U3Mjk4MCwtNzYwNDE3MTE4XX0=
 -->
