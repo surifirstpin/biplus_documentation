@@ -12,7 +12,7 @@ Image 1 :
 
 **1.** Click on Analyse section to explore a report.
 
-**2.** Select Desired project and model depending on which you want to extract the data.
+**2.** Select Desired project and model from the drop down depending on which you want to extract the data.
 
 **4.** To view a report Click on **Dashboard section.** 
 **5.** Select the desired **project** and,
@@ -42,7 +42,7 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDY3NDQ4NywyMTQ3MTcwOTA4LDI5ND
-Y1NTE0NiwxMzg1MjE0Mzc2LDk0NDI3NTA5OCwxNDY4NTcyOTgw
-LC03NjA0MTcxMThdfQ==
+eyJoaXN0b3J5IjpbLTIwMTc0NDg2NjUsLTkxNDY3NDQ4NywyMT
+Q3MTcwOTA4LDI5NDY1NTE0NiwxMzg1MjE0Mzc2LDk0NDI3NTA5
+OCwxNDY4NTcyOTgwLC03NjA0MTcxMThdfQ==
 -->
