@@ -1,35 +1,66 @@
----
 
+> Written with [StackEdit](https://stackedit.io/).
 
----
-
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
 <center><h1>How to Browse a Report</h1></center>
-<p>Biplus gives you an opportunity to view the reports, Many users will will start by browsing reports and dashboard created by other in there organisation. This section gives a clear information on how to view the reports created.</p>
-<h2 id="gettting-started">Gettting Started</h2>
-<p>BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in email and register to sign up for BiPlus account.</p>
-<p>After login into BiPlus.<br>
-<strong>1.</strong>  Click on <strong>Dashboard Section</strong> It displays list of dashboards and reports created.<br>
-<strong>2.</strong> You directly search a report by using the <strong>search option</strong> or Click on the desired report from the list , It will navigate to the report created.<br>
-<strong>3.</strong> Click on <strong>Set home page icon</strong> to set the desired report home to check the live data of the report.<br>
-<strong>4.</strong> You can either directly edit the report from here by Clicking on <strong>Edit Icon</strong> or Edit the report after viewing it.<br>
-<strong>5.</strong> Click on <strong>Delete Icon</strong> to delete the report.<br>
-<strong>6.</strong> The circle Icon is to  check whether the report is saved under Public( Green), Private(Grey) or shared(Orange) section.<br>
-<strong>7.</strong> To create a new tag click on <strong>Add Tag</strong> button.<br>
-<strong>8.</strong> To create a new dashboard click on <strong>New Dashboard Button.</strong></p>
-<p><img src="https://raw.githubusercontent.com/sv18042016/fp1/master/images/view%20report_ur.png" alt=""></p>
-<p>After Selecting the report it will open the desired report with set of options in BiPlus, as described below,</p>
-<p><strong>9.</strong> Click on <strong>Add Filter</strong> to add more filters to the existing report under filter sections as shown in image 2.<br>
-<strong>10.</strong> Click on <strong>Apply</strong> button to retrieve the data based on the newly added filters.<br>
-<strong>11.</strong> To restore the data based on Previous Filter Click on  <strong>Restore default filters</strong> Icon.<br>
-<strong>12.</strong> Click on <strong>Save Button</strong> to save the data with newly added filters.<br>
-<strong>13.</strong> To delete the existing Report Click on <strong>Delete Icon.</strong><br>
-<strong>14.</strong> You can directly edit the report by clicking on <strong>Edit</strong> icon in drop down list provided in report section.<br>
-<strong>15.</strong> To set the report to full screen Click on <strong>Full screen</strong> in drop down list.</p>
-<p><img src="https://raw.githubusercontent.com/sv18042016/fp1/master/images/report_ur.png" alt=""></p>
-<h2 id="learning-path">Learning Path</h2>
-<p>The link provided below will helps you to explore how to download image or csv, refresh or hard refresh and show data or visualization.<br>
-<strong>Download CSV</strong> ( Link)</p>
 
+Biplus gives you an opportunity to view the reports, Many users will will start by browsing reports and dashboard created by other in there organisation. This section gives a clear information on how to view the reports created.
+
+## Gettting Started
+
+BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in email and register for BiPlus account. Once you login into BiPlus.
+
+Click on **Dashboard Section** It displays list of dashboards and reports created. You directly search a report by using the **search option** or Click on the desired report from the list , It will navigate to the report created.
+
+**1.** Click on **Set home page icon** to set the desired report home page for checking the live data running of the report.
+
+**2.** You can either directly edit the report from here by Clicking on **Edit Icon** or Edit the report after viewing it.
+
+**3.** Click on **Delete Icon** to delete the report.
+
+> Note : The circle is used to display whether the report is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings.
+
+**4.** To create a new tag click on **Add Tag** button.
+
+**5.** To create a new dashboard click on **New Dashboard Button.**
+
+
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/master/images/report_mian.png)Image 1 :
+
+After Selecting the report it will open the desired report with set of options in BiPlus, as described below,
+
+**6.** Click on **Add Filter** to add more filters to the existing report under filter sections, then Click on **Apply** button to retrieve the data based on the newly added filters and finally Click on **Save Button** to save the data with newly added filters.
+
+> Note : To restore the data based on Previous Filter Click on  **Restore default filters** Icon at top left beside filter section.
+
+**7.** To delete the existing Report filters in filter section Click on **Delete.**
+
+> Note : You can also **Edit**, Create **New dashboard** and **delete** the report from the same screen by clicking on there icons on the top right of the screen or in the list drop down ( Refer Image 2).
+
+**8.** Under list drop down click on **Full screen** to set the desired report to Full Screen.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/master/images/report_ur1.png) Image 2: 
+
+**9.** Click on Gear drop down at the upper right. 
+
+**10.** Click on Download CSV to download tabular data.
+ You can Download BiPlus in following formats,
+ - CSV
+ - .XLS
+-  PNG
+
+**11.**  To Download the **Visualization Image** in BiPlus, First Select **Show Visualization** in drop down then, Click on **Download Image** to download visualization.
+
+ To download the most recent data information of the report Click on **Refresh** in gear drop down before downloading and to download the most recent data information by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
+ 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/master/images/download.png)
+
+> **Note :** Depending on your requirement you can download the data by applying refresh or hard refresh.
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzNzQ4MzY4NjZdfQ==
+-->
