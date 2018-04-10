@@ -14,9 +14,9 @@ Image 1 :
 
 **2.** Select Desired project and model from the drop down list, depending on which you want to extract the data.
 
-**3.**  Select one or more dimension fields ( Grey fields) to access the data.
+**3.**  Select one or more dimension fields ( Grey fields) to access and group your data.
 
-**4.** Select one or more measure fields (Orange fields) to access numeric values, such as Sum, Count, Max, Min and  Avg etc. 
+**4.** Select one or more measure fields (Orange fields) to add information about those groups or data such as numeric values, such as Sum, Count, Max, Min and  Avg etc. 
 
 **9.** Click on **Filter**, if desired to add a filter to your report based on that field.
 
@@ -31,7 +31,7 @@ Image 1 :
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQ3MzIzMDEsLTkxNDY3NDQ4NywyMT
-Q3MTcwOTA4LDI5NDY1NTE0NiwxMzg1MjE0Mzc2LDk0NDI3NTA5
-OCwxNDY4NTcyOTgwLC03NjA0MTcxMThdfQ==
+eyJoaXN0b3J5IjpbMjA5NTk3NTY5NiwtOTE0Njc0NDg3LDIxND
+cxNzA5MDgsMjk0NjU1MTQ2LDEzODUyMTQzNzYsOTQ0Mjc1MDk4
+LDE0Njg1NzI5ODAsLTc2MDQxNzExOF19
 -->
