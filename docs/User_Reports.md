@@ -28,15 +28,14 @@ Image 1 :
 
 **9.** If desired to view the sql generated for the data retreived click on SQL tab. 
 
-They above explained are the basics of 
-> Note :  You can also apply **Hidden filter**, **Pivot the fields**, check **totals**, **run time**, display the data in **order** (Ascending or Descending) and Apply ** Calculations** in BIPlus. ( Explained in Detail in **Data Analysis** document.
+They above explained are the basics, to view the additional; features of reports such as **Hidden filter**, **Pivoting**, check **totals**, **run time**, display data in **order** (Ascending or Descending) and Apply ** Calculations** in BIPlus. ( Explained in Detail in **Data Analysis** document.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODk1ODU2OTgsNjM0OTQ1OTgxLDE5ND
-k3MTQ0NzUsLTExODc2NTM1MTMsLTkxNDY3NDQ4NywyMTQ3MTcw
-OTA4LDI5NDY1NTE0NiwxMzg1MjE0Mzc2LDk0NDI3NTA5OCwxND
-Y4NTcyOTgwLC03NjA0MTcxMThdfQ==
+eyJoaXN0b3J5IjpbMTA4NjE3MTU5Nyw2MzQ5NDU5ODEsMTk0OT
+cxNDQ3NSwtMTE4NzY1MzUxMywtOTE0Njc0NDg3LDIxNDcxNzA5
+MDgsMjk0NjU1MTQ2LDEzODUyMTQzNzYsOTQ0Mjc1MDk4LDE0Nj
+g1NzI5ODAsLTc2MDQxNzExOF19
 -->
