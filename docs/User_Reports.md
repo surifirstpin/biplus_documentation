@@ -11,9 +11,8 @@ Image 1 :
 > **Note :** BiPlus Home page immediately displays the dashboard or Report set by other users on homepage ( Shown in Below image).
 
 **1.** Click on Analyse section to explore a report.
+
 **2.** Select Desired project and model depending on which you want to extract the data.
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/master/images/homepage.png)
 
 **4.** To view a report Click on **Dashboard section.** 
 **5.** Select the desired **project** and,
@@ -43,7 +42,7 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NzE3MDkwOCwyOTQ2NTUxNDYsMTM4NT
-IxNDM3Niw5NDQyNzUwOTgsMTQ2ODU3Mjk4MCwtNzYwNDE3MTE4
-XX0=
+eyJoaXN0b3J5IjpbLTkxNDY3NDQ4NywyMTQ3MTcwOTA4LDI5ND
+Y1NTE0NiwxMzg1MjE0Mzc2LDk0NDI3NTA5OCwxNDY4NTcyOTgw
+LC03NjA0MTcxMThdfQ==
 -->
