@@ -8,7 +8,7 @@ Use this link http://52.29.248.194:8081/biplus in your url and Click on enter, i
 
 Image 1 :
 
-> **Note :** BiPlus Home page immediately displays the dashboard or Report set by other users on homepage.
+> **Note :** BiPlus Home page immediately displays the dashboard or Report set by other users on homepage ( Shown in Below image).
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/homepage.png)
@@ -41,6 +41,6 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjI2MzIyNSwxMzg1MjE0Mzc2LDk0ND
-I3NTA5OCwxNDY4NTcyOTgwLC03NjA0MTcxMThdfQ==
+eyJoaXN0b3J5IjpbMjk0NjU1MTQ2LDEzODUyMTQzNzYsOTQ0Mj
+c1MDk4LDE0Njg1NzI5ODAsLTc2MDQxNzExOF19
 -->
