@@ -24,7 +24,20 @@ Image 1 :
 
 >  Data retrieved on running the report are visible in **Data section.
  
-**7.** click on save to Save the report, it will navigate to Save explore dialog box, Enter the below details and  
+**7.** click on save to Save the report, it will navigate to Save explore dialog box, Enter the below details : 
+ 
+- **Report Name** Name identifier for a report. ( BiPlus allows  special character but does not  support any spaces )
+
+- **Title** label for the report the way you want it to appear.
+
+- **Info** displays any specific information about the report.
+
+- **Privacy** you can save the report in any one of the following privacy option.
+
+  - **Private ()** report saved in private section and accessed by the user itself.
+  - **Public ()** the report is saved in public section and accessed by all the users.
+  -  **Share ()** the report saved under share section and accessed by specific set of users.
+  
 **8.** If desired, you can view the visualization charts such as pie,bar,line etc. by clicking on **Charts** tab.
 
 **9.** If desired to view the sql generated for the data retreived click on **SQL** tab. 
@@ -35,8 +48,8 @@ The above explained points are the basics, to view the additional; features of r
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3NDQyOTE3LC01NDA4NjgzMSw2MzQ5ND
-U5ODEsMTk0OTcxNDQ3NSwtMTE4NzY1MzUxMywtOTE0Njc0NDg3
-LDIxNDcxNzA5MDgsMjk0NjU1MTQ2LDEzODUyMTQzNzYsOTQ0Mj
-c1MDk4LDE0Njg1NzI5ODAsLTc2MDQxNzExOF19
+eyJoaXN0b3J5IjpbLTU4MDE1NTc3NiwtNTQwODY4MzEsNjM0OT
+Q1OTgxLDE5NDk3MTQ0NzUsLTExODc2NTM1MTMsLTkxNDY3NDQ4
+NywyMTQ3MTcwOTA4LDI5NDY1NTE0NiwxMzg1MjE0Mzc2LDk0ND
+I3NTA5OCwxNDY4NTcyOTgwLC03NjA0MTcxMThdfQ==
 -->
