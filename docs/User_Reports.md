@@ -14,9 +14,11 @@ Image 1 :
 
 **2.** Select Desired project and model from the drop down list, depending on which you want to extract the data.
 
-**3.** From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orange Colour Fields)  select the fields for which you want to retrieve data for a report. 
+**3.**  Select one or more dimension fields ( Grey fields) to access the data.
 
-**4.** Click on **Filter**, if desired to add a filter to your report based on that field.
+**4.** Select one or more measure fields (Orange fields) to access numeric values, such as Sum, Count, Max, Min and  Avg etc. 
+
+**9.** Click on **Filter**, if desired to add a filter to your report based on that field.
 
 **10.** You can also apply **Hidden filter** to the fields, available on the far right of the field ( Dimensions and Measures) list.
  
@@ -29,7 +31,7 @@ Image 1 :
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjE1MzA5LC05MTQ2NzQ0ODcsMjE0Nz
-E3MDkwOCwyOTQ2NTUxNDYsMTM4NTIxNDM3Niw5NDQyNzUwOTgs
-MTQ2ODU3Mjk4MCwtNzYwNDE3MTE4XX0=
+eyJoaXN0b3J5IjpbLTExMjQ3MzIzMDEsLTkxNDY3NDQ4NywyMT
+Q3MTcwOTA4LDI5NDY1NTE0NiwxMzg1MjE0Mzc2LDk0NDI3NTA5
+OCwxNDY4NTcyOTgwLC03NjA0MTcxMThdfQ==
 -->
