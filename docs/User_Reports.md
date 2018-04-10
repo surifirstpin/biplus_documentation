@@ -6,6 +6,8 @@ Use this link http://52.29.248.194:8081/biplus in your url and Click on enter, i
 
 -  In this page enter **Username** and **Password** then click on **login** to navigate to BiPlus Homepage. 
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/master/images/biplus_login.png)
 Image 1 :
 
 > **Note :** BiPlus Home page immediately displays the dashboard or Report set by other users on homepage ( Shown in Below image).
@@ -47,9 +49,9 @@ The above explained points are the basics, to view the additional; features of r
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Njk3NDIxNiwtMTk5NzcxODg0NiwtNT
-QwODY4MzEsNjM0OTQ1OTgxLDE5NDk3MTQ0NzUsLTExODc2NTM1
-MTMsLTkxNDY3NDQ4NywyMTQ3MTcwOTA4LDI5NDY1NTE0NiwxMz
-g1MjE0Mzc2LDk0NDI3NTA5OCwxNDY4NTcyOTgwLC03NjA0MTcx
-MThdfQ==
+eyJoaXN0b3J5IjpbLTEwODAzMTM2NDIsLTU4Njk3NDIxNiwtMT
+k5NzcxODg0NiwtNTQwODY4MzEsNjM0OTQ1OTgxLDE5NDk3MTQ0
+NzUsLTExODc2NTM1MTMsLTkxNDY3NDQ4NywyMTQ3MTcwOTA4LD
+I5NDY1NTE0NiwxMzg1MjE0Mzc2LDk0NDI3NTA5OCwxNDY4NTcy
+OTgwLC03NjA0MTcxMThdfQ==
 -->
