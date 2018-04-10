@@ -6,10 +6,9 @@ Use this link http://52.29.248.194:8081/biplus in your url and Click on enter, i
 
 -  In this page enter **Username** and **Password** then click on **login** to navigate to BiPlus Homepage. 
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/master/images/Acubi1.png)
+Image 1 :
 
-> **Note :** By default it displays dashboard set to the homepage, depending on your requirement you can set a report or dashboard to BiPlus Home page for easy access.
+> **Note :** BiPlus Home page displays default it displays dashboard set to the homepage, depending on your requirement you can set a report or dashboard to BiPlus Home page for easy access.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/homepage.png)
@@ -42,6 +41,6 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzkwMDkwMCw5NDQyNzUwOTgsMTQ2OD
-U3Mjk4MCwtNzYwNDE3MTE4XX0=
+eyJoaXN0b3J5IjpbNTA5OTAyNDUsOTQ0Mjc1MDk4LDE0Njg1Nz
+I5ODAsLTc2MDQxNzExOF19
 -->
