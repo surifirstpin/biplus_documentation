@@ -23,7 +23,8 @@ Image 1 :
  **6.** Click **Run** to extract the data, based on selection made.
 
 **7.** Data retrieved on running the report are visible in **Data section.** 
-**8.** Click on Charts to view the visualisation of the 
+
+**8.** Click on Charts to view the visualization such as pie,bar,line etc chart of the 
 
 > Note :  You can also apply **Hidden filter**, **Pivot the fields**, check **totals**, **run time**, display the data in **order** (Ascending or Descending) and Apply ** Calculations** in BIPlus. ( Explained in Detail in **Data Analysis** document.
  
@@ -31,8 +32,8 @@ Image 1 :
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0OTQ1OTgxLDE5NDk3MTQ0NzUsLTExOD
-c2NTM1MTMsLTkxNDY3NDQ4NywyMTQ3MTcwOTA4LDI5NDY1NTE0
-NiwxMzg1MjE0Mzc2LDk0NDI3NTA5OCwxNDY4NTcyOTgwLC03Nj
-A0MTcxMThdfQ==
+eyJoaXN0b3J5IjpbMTQ3MzUwODM1MCw2MzQ5NDU5ODEsMTk0OT
+cxNDQ3NSwtMTE4NzY1MzUxMywtOTE0Njc0NDg3LDIxNDcxNzA5
+MDgsMjk0NjU1MTQ2LDEzODUyMTQzNzYsOTQ0Mjc1MDk4LDE0Nj
+g1NzI5ODAsLTc2MDQxNzExOF19
 -->
