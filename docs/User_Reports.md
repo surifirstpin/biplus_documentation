@@ -1,4 +1,4 @@
-
+ BiPlus Reports displays the retrieved the data in the desired combinations as per your business needs and explores particular subject area it self. It provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight.
 
 ## Getting Started
 
@@ -44,6 +44,6 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjY2ODU3OTMsMTQ2ODU3Mjk4MCwtNz
-YwNDE3MTE4XX0=
+eyJoaXN0b3J5IjpbMjA0NDU0MDY1NCwxNDY4NTcyOTgwLC03Nj
+A0MTcxMThdfQ==
 -->
