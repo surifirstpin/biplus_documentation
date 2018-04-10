@@ -22,8 +22,9 @@ Image 1 :
  
  **6.** Click **Run** to extract the data, based on selection made.
 
-**7.** Data retrieved on running the report are visible in **Data section.** 
-
+>  Data retrieved on running the report are visible in **Data section.
+ 
+**7.** click on save to Save the report, it 
 **8.** If desired, you can view the visualization charts such as pie,bar,line etc. by clicking on **Charts** tab.
 
 **9.** If desired to view the sql generated for the data retreived click on **SQL** tab. 
@@ -34,8 +35,8 @@ The above explained points are the basics, to view the additional; features of r
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDg2ODMxLDYzNDk0NTk4MSwxOTQ5Nz
-E0NDc1LC0xMTg3NjUzNTEzLC05MTQ2NzQ0ODcsMjE0NzE3MDkw
-OCwyOTQ2NTUxNDYsMTM4NTIxNDM3Niw5NDQyNzUwOTgsMTQ2OD
-U3Mjk4MCwtNzYwNDE3MTE4XX0=
+eyJoaXN0b3J5IjpbMTcwNDg4ODgxNywtNTQwODY4MzEsNjM0OT
+Q1OTgxLDE5NDk3MTQ0NzUsLTExODc2NTM1MTMsLTkxNDY3NDQ4
+NywyMTQ3MTcwOTA4LDI5NDY1NTE0NiwxMzg1MjE0Mzc2LDk0ND
+I3NTA5OCwxNDY4NTcyOTgwLC03NjA0MTcxMThdfQ==
 -->
