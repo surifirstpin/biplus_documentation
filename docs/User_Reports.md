@@ -10,7 +10,8 @@ Image 1 :
 
 > **Note :** BiPlus Home page immediately displays the dashboard or Report set by other users on homepage ( Shown in Below image).
 
-Click on Analyse section to explore a report.
+**1.** Click on Analyse section to explore a report.
+**2.** S
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/homepage.png)
 
@@ -42,7 +43,7 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzc5NjUxMjIsMjk0NjU1MTQ2LDEzOD
-UyMTQzNzYsOTQ0Mjc1MDk4LDE0Njg1NzI5ODAsLTc2MDQxNzEx
-OF19
+eyJoaXN0b3J5IjpbMzIyMzgzMDA4LDI5NDY1NTE0NiwxMzg1Mj
+E0Mzc2LDk0NDI3NTA5OCwxNDY4NTcyOTgwLC03NjA0MTcxMThd
+fQ==
 -->
