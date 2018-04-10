@@ -19,19 +19,18 @@ Image 1 :
 **4.** Select one or more measure fields (Orange fields) to add information about those groups or data such as Sum, Count, Max, Min and  Avg etc. 
 
 **5.** To add a filter to your report based on that field, Click on **Filter.**
-
-> Note :  You can also apply **Hidden filter**, **Pivot the fields**, check **totals**, **run time**, display the data in **order** (Ascending or Descending) and Apply ** Calculations** in BIPlus. ( Explained in Detail in **Data Analysis** document.
  
- **9.** Click **Run** to Extract the data, Based on selection made.
+ **6.** Click **Run** to extract the data, based on selection made.
 
 **10.** Data values retrieved on running the report are visible in **Data section** as shown in below image.
 
-> **Note :** dimension values are seen with grey background and similarly, measure values are seen with Orange Background in a report.
+> Note :  You can also apply **Hidden filter**, **Pivot the fields**, check **totals**, **run time**, display the data in **order** (Ascending or Descending) and Apply ** Calculations** in BIPlus. ( Explained in Detail in **Data Analysis** document.
+ 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDk1MDQxMCwtMTE4NzY1MzUxMywtOT
+eyJoaXN0b3J5IjpbMTI5MzQ3OTc4MywtMTE4NzY1MzUxMywtOT
 E0Njc0NDg3LDIxNDcxNzA5MDgsMjk0NjU1MTQ2LDEzODUyMTQz
 NzYsOTQ0Mjc1MDk4LDE0Njg1NzI5ODAsLTc2MDQxNzExOF19
 -->
