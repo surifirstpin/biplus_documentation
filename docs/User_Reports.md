@@ -25,7 +25,8 @@ Image 1 :
  **6.** Click **Run** to extract the data, based on selection made.
 
 >  **Note :** Data retrieved on running the report are visible in **Data section**( Refer image 2).
- 
+ ![
+](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/data_retreived_ur.png)
 **7.** click on save to Save the report, it will navigate to Save explore dialog box, Enter the below details : 
  
 - **Report Name** Name identifier for a report. ( BiPlus allows  special character but does not  support any spaces )
@@ -40,19 +41,22 @@ Image 1 :
   - **Public ()** the report is saved in public section and accessed by all the users.
   -  **Share ()** the report saved under share section and accessed by specific set of users.
  - **Filter** added in this section is automatically reflected in the filter section of reports in dashboard section.
- ![
-](https://raw.githubusercontent.com/sv18042016/fp1/master/images/save_ur.png)
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/save_ur.png)
 **8.** If desired, you can view the visualization charts such as pie,bar,line etc. by clicking on **Charts** tab.
 
 **9.** If desired to view the sql generated for the data retreived click on **SQL** tab. 
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/visual_ur.png)
 The above explained points are the basics, to view the additional; features of reports such as **Hidden filter**, **Pivoting**,  **totals**, **run time**,**order** and **Calculations**. You can check them in detail in **Data Analysis** document of BiPlus.
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTIwMDU2NCwtMTA4MDMxMzY0MiwtNT
-g2OTc0MjE2LC0xOTk3NzE4ODQ2LC01NDA4NjgzMSw2MzQ5NDU5
-ODEsMTk0OTcxNDQ3NSwtMTE4NzY1MzUxMywtOTE0Njc0NDg3LD
-IxNDcxNzA5MDgsMjk0NjU1MTQ2LDEzODUyMTQzNzYsOTQ0Mjc1
-MDk4LDE0Njg1NzI5ODAsLTc2MDQxNzExOF19
+eyJoaXN0b3J5IjpbMTA1Mzg1NzA5NSwtNTc1MjAwNTY0LC0xMD
+gwMzEzNjQyLC01ODY5NzQyMTYsLTE5OTc3MTg4NDYsLTU0MDg2
+ODMxLDYzNDk0NTk4MSwxOTQ5NzE0NDc1LC0xMTg3NjUzNTEzLC
+05MTQ2NzQ0ODcsMjE0NzE3MDkwOCwyOTQ2NTUxNDYsMTM4NTIx
+NDM3Niw5NDQyNzUwOTgsMTQ2ODU3Mjk4MCwtNzYwNDE3MTE4XX
+0=
 -->
