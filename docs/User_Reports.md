@@ -43,7 +43,9 @@ Image 1 :
   - **Public ()** the report is saved in public section and accessed by all the users.
   -  **Share ()** the report saved under share section and accessed by specific set of users.
  - **Filter** added in this section is automatically reflected in the filter section of reports in dashboard section.
- Fi 
+ 
+ Finally click save in Save Explore page  
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/save_ur.png)
 
@@ -58,7 +60,7 @@ The above explained points are the basics, to view the additional; features of r
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjE0NDU0NDYsMTk0NzI4MzU0OSwtNT
+eyJoaXN0b3J5IjpbLTE0MzUxMDU0MjEsMTk0NzI4MzU0OSwtNT
 c1MjAwNTY0LC0xMDgwMzEzNjQyLC01ODY5NzQyMTYsLTE5OTc3
 MTg4NDYsLTU0MDg2ODMxLDYzNDk0NTk4MSwxOTQ5NzE0NDc1LC
 0xMTg3NjUzNTEzLC05MTQ2NzQ0ODcsMjE0NzE3MDkwOCwyOTQ2
