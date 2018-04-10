@@ -56,14 +56,14 @@ Image 3
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/46d3025a6f09a3315a1b43392e6f77f12a74cce8/images/visual_ur.png)Image 4
-All above explained points are the basics, to view the additional; features of reports such as **Hidden filter**, **Pivoting**,  **totals**, **run time**,**order** and **Calculations**. You can check them in detail in **Data Analysis** document of BiPlus.
+All above explained points are the basics, to view the additional features of reports such as **Hidden filter**, **Pivoting**,  **totals**, **run time**,**order** and **Calculations**. You can check them in detail in **Data Analysis** document of BiPlus.
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQ2NDg2MzYsMTk0NzI4MzU0OSwtNT
-c1MjAwNTY0LC0xMDgwMzEzNjQyLC01ODY5NzQyMTYsLTE5OTc3
-MTg4NDYsLTU0MDg2ODMxLDYzNDk0NTk4MSwxOTQ5NzE0NDc1LC
-0xMTg3NjUzNTEzLC05MTQ2NzQ0ODcsMjE0NzE3MDkwOCwyOTQ2
-NTUxNDYsMTM4NTIxNDM3Niw5NDQyNzUwOTgsMTQ2ODU3Mjk4MC
-wtNzYwNDE3MTE4XX0=
+eyJoaXN0b3J5IjpbMTg3Njc3NTkwNywxOTQ3MjgzNTQ5LC01Nz
+UyMDA1NjQsLTEwODAzMTM2NDIsLTU4Njk3NDIxNiwtMTk5Nzcx
+ODg0NiwtNTQwODY4MzEsNjM0OTQ1OTgxLDE5NDk3MTQ0NzUsLT
+ExODc2NTM1MTMsLTkxNDY3NDQ4NywyMTQ3MTcwOTA4LDI5NDY1
+NTE0NiwxMzg1MjE0Mzc2LDk0NDI3NTA5OCwxNDY4NTcyOTgwLC
+03NjA0MTcxMThdfQ==
 -->
