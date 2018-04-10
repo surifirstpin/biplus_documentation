@@ -44,7 +44,7 @@ Image 1 :
   -  **Share ()** the report saved under share section and accessed by specific set of users.
  - **Filter** added in this section is automatically reflected in the filter section of reports in dashboard section.
  
- Finally click save in Save Explore page  
+ Finally click save to save the report.  
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/save_ur.png)
@@ -60,10 +60,10 @@ The above explained points are the basics, to view the additional; features of r
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzUxMDU0MjEsMTk0NzI4MzU0OSwtNT
-c1MjAwNTY0LC0xMDgwMzEzNjQyLC01ODY5NzQyMTYsLTE5OTc3
-MTg4NDYsLTU0MDg2ODMxLDYzNDk0NTk4MSwxOTQ5NzE0NDc1LC
-0xMTg3NjUzNTEzLC05MTQ2NzQ0ODcsMjE0NzE3MDkwOCwyOTQ2
-NTUxNDYsMTM4NTIxNDM3Niw5NDQyNzUwOTgsMTQ2ODU3Mjk4MC
-wtNzYwNDE3MTE4XX0=
+eyJoaXN0b3J5IjpbMTYxMDAzODEzNiwxOTQ3MjgzNTQ5LC01Nz
+UyMDA1NjQsLTEwODAzMTM2NDIsLTU4Njk3NDIxNiwtMTk5Nzcx
+ODg0NiwtNTQwODY4MzEsNjM0OTQ1OTgxLDE5NDk3MTQ0NzUsLT
+ExODc2NTM1MTMsLTkxNDY3NDQ4NywyMTQ3MTcwOTA4LDI5NDY1
+NTE0NiwxMzg1MjE0Mzc2LDk0NDI3NTA5OCwxNDY4NTcyOTgwLC
+03NjA0MTcxMThdfQ==
 -->
