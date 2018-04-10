@@ -40,7 +40,8 @@ Image 1 :
   - **Public ()** the report is saved in public section and accessed by all the users.
   -  **Share ()** the report saved under share section and accessed by specific set of users.
  - **Filter** added in this section is automatically reflected in the filter section of reports in dashboard section.
- 
+ ![
+](https://raw.githubusercontent.com/sv18042016/fp1/master/images/save_ur.png)
 **8.** If desired, you can view the visualization charts such as pie,bar,line etc. by clicking on **Charts** tab.
 
 **9.** If desired to view the sql generated for the data retreived click on **SQL** tab. 
@@ -49,9 +50,9 @@ The above explained points are the basics, to view the additional; features of r
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODAzMTM2NDIsLTU4Njk3NDIxNiwtMT
-k5NzcxODg0NiwtNTQwODY4MzEsNjM0OTQ1OTgxLDE5NDk3MTQ0
-NzUsLTExODc2NTM1MTMsLTkxNDY3NDQ4NywyMTQ3MTcwOTA4LD
-I5NDY1NTE0NiwxMzg1MjE0Mzc2LDk0NDI3NTA5OCwxNDY4NTcy
-OTgwLC03NjA0MTcxMThdfQ==
+eyJoaXN0b3J5IjpbLTU3NTIwMDU2NCwtMTA4MDMxMzY0MiwtNT
+g2OTc0MjE2LC0xOTk3NzE4ODQ2LC01NDA4NjgzMSw2MzQ5NDU5
+ODEsMTk0OTcxNDQ3NSwtMTE4NzY1MzUxMywtOTE0Njc0NDg3LD
+IxNDcxNzA5MDgsMjk0NjU1MTQ2LDEzODUyMTQzNzYsOTQ0Mjc1
+MDk4LDE0Njg1NzI5ODAsLTc2MDQxNzExOF19
 -->
