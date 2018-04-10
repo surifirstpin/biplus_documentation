@@ -53,7 +53,7 @@ After Selecting the report it will open the desired report with set of options i
 
 **11.**  To Download the **Visualization Image** in BiPlus, First Select **Show Visualization** in drop down then, Click on **Download Image** to download visualization.
 
- To download the most recent data information of the report Click on **Refresh** in gear drop down before downloading and to download the most recent data information by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
+ > **Note :** To download the most recent data information of the report Click on **Refresh** in gear drop down before downloading and to download the most recent data information by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/download.png)
@@ -62,5 +62,5 @@ After Selecting the report it will open the desired report with set of options i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzQ4MzY4NjZdfQ==
+eyJoaXN0b3J5IjpbMTcyODU3MTUyLC0xMzc0ODM2ODY2XX0=
 -->
