@@ -22,7 +22,7 @@ Image 1 :
  
  **6.** Click **Run** to extract the data, based on selection made.
 
-**10.** Data values retrieved on running the report are visible in **Data section** as shown in below image.
+**10.** Data retrieved on running the report are visible in **Data section.** 
 
 > Note :  You can also apply **Hidden filter**, **Pivot the fields**, check **totals**, **run time**, display the data in **order** (Ascending or Descending) and Apply ** Calculations** in BIPlus. ( Explained in Detail in **Data Analysis** document.
  
@@ -30,7 +30,8 @@ Image 1 :
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MzQ3OTc4MywtMTE4NzY1MzUxMywtOT
-E0Njc0NDg3LDIxNDcxNzA5MDgsMjk0NjU1MTQ2LDEzODUyMTQz
-NzYsOTQ0Mjc1MDk4LDE0Njg1NzI5ODAsLTc2MDQxNzExOF19
+eyJoaXN0b3J5IjpbLTEwNDUzNDQxMzksLTExODc2NTM1MTMsLT
+kxNDY3NDQ4NywyMTQ3MTcwOTA4LDI5NDY1NTE0NiwxMzg1MjE0
+Mzc2LDk0NDI3NTA5OCwxNDY4NTcyOTgwLC03NjA0MTcxMThdfQ
+==
 -->
