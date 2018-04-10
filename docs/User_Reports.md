@@ -20,7 +20,7 @@ Image 1 :
 
 **5.** To add a filter to your report based on that field, Click on **Filter.**
 
-> Note :  You can also apply **Hidden filter**, Pivot the fields, check totals, run time and display the data in order (Ascending or Desending)  to the fields, available on the far right of the field ( Dimensions and Measures) list.
+> Note :  You can also apply **Hidden filter**, **Pivot the fields**, check **totals**, **run time** and display the data in **order** (Ascending or Desending) Using BIPlus. ( Explained in Detail
  
  **9.** Run the report to Extract the data, Based on selection made.
 
@@ -31,7 +31,7 @@ Image 1 :
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDQyNTE3NywtMTE4NzY1MzUxMywtOT
+eyJoaXN0b3J5IjpbLTUxOTYwNDA3MywtMTE4NzY1MzUxMywtOT
 E0Njc0NDg3LDIxNDcxNzA5MDgsMjk0NjU1MTQ2LDEzODUyMTQz
 NzYsOTQ0Mjc1MDk4LDE0Njg1NzI5ODAsLTc2MDQxNzExOF19
 -->
