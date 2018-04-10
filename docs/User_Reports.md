@@ -43,12 +43,13 @@ Image 1 :
 
 **9.** If desired to view the sql generated for the data retreived click on **SQL** tab. 
 
-The above explained points are the basics, to view the additional; features of reports such as **Hidden filter**, **Pivoting**,  **totals**, **run time**,**order** and ** Calculations**. You can check them in detail in **Data Analysis** document of BiPlus.
+The above explained points are the basics, to view the additional; features of reports such as **Hidden filter**, **Pivoting**,  **totals**, **run time**,**order** and **Calculations**. You can check them in detail in **Data Analysis** document of BiPlus.
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc3MTg4NDYsLTU0MDg2ODMxLDYzND
-k0NTk4MSwxOTQ5NzE0NDc1LC0xMTg3NjUzNTEzLC05MTQ2NzQ0
-ODcsMjE0NzE3MDkwOCwyOTQ2NTUxNDYsMTM4NTIxNDM3Niw5ND
-QyNzUwOTgsMTQ2ODU3Mjk4MCwtNzYwNDE3MTE4XX0=
+eyJoaXN0b3J5IjpbLTU4Njk3NDIxNiwtMTk5NzcxODg0NiwtNT
+QwODY4MzEsNjM0OTQ1OTgxLDE5NDk3MTQ0NzUsLTExODc2NTM1
+MTMsLTkxNDY3NDQ4NywyMTQ3MTcwOTA4LDI5NDY1NTE0NiwxMz
+g1MjE0Mzc2LDk0NDI3NTA5OCwxNDY4NTcyOTgwLC03NjA0MTcx
+MThdfQ==
 -->
