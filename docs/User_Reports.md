@@ -33,7 +33,8 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 **9.** Click on **Filter**, if desired to add a filter to your report based on that field.
 
 **10.** You can also apply **Hidden filter** to the fields, available on the far right of the field ( Dimensions and Measures) list.
-**9.** Run the report to Extract the data, Based on selection made.
+ 
+ **9.** Run the report to Extract the data, Based on selection made.
 
 **10.** Data values retrieved on running the report are visible in **Data section** as shown in below image.
 
@@ -42,5 +43,5 @@ From the consolidated list of Dimensions (Grey Colour Fields) and Measure (Orang
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDQxNzExOF19
+eyJoaXN0b3J5IjpbMTQ2ODU3Mjk4MCwtNzYwNDE3MTE4XX0=
 -->
