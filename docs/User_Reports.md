@@ -43,7 +43,7 @@ Image 1 :
   - **Public ()** the report is saved in public section and accessed by all the users.
   -  **Share ()** the report saved under share section and accessed by specific set of users.
  - **Filter** added in this section is automatically reflected in the filter section of reports in dashboard section.
- - 
+ Fi 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/save_ur.png)
 
@@ -52,16 +52,16 @@ Image 1 :
 **9.** If desired to view the sql generated for the data retreived click on **SQL** tab. 
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/visual_ur.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/46d3025a6f09a3315a1b43392e6f77f12a74cce8/images/visual_ur.png)
 
 The above explained points are the basics, to view the additional; features of reports such as **Hidden filter**, **Pivoting**,  **totals**, **run time**,**order** and **Calculations**. You can check them in detail in **Data Analysis** document of BiPlus.
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzI4MzU0OSwtNTc1MjAwNTY0LC0xMD
-gwMzEzNjQyLC01ODY5NzQyMTYsLTE5OTc3MTg4NDYsLTU0MDg2
-ODMxLDYzNDk0NTk4MSwxOTQ5NzE0NDc1LC0xMTg3NjUzNTEzLC
-05MTQ2NzQ0ODcsMjE0NzE3MDkwOCwyOTQ2NTUxNDYsMTM4NTIx
-NDM3Niw5NDQyNzUwOTgsMTQ2ODU3Mjk4MCwtNzYwNDE3MTE4XX
-0=
+eyJoaXN0b3J5IjpbLTEwMjE0NDU0NDYsMTk0NzI4MzU0OSwtNT
+c1MjAwNTY0LC0xMDgwMzEzNjQyLC01ODY5NzQyMTYsLTE5OTc3
+MTg4NDYsLTU0MDg2ODMxLDYzNDk0NTk4MSwxOTQ5NzE0NDc1LC
+0xMTg3NjUzNTEzLC05MTQ2NzQ0ODcsMjE0NzE3MDkwOCwyOTQ2
+NTUxNDYsMTM4NTIxNDM3Niw5NDQyNzUwOTgsMTQ2ODU3Mjk4MC
+wtNzYwNDE3MTE4XX0=
 -->
