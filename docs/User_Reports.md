@@ -20,7 +20,7 @@ Image 1 :
 
 **5.** To add a filter to your report based on that field, Click on **Filter.**
 
-**10.** You can also apply **Hidden filter** to the fields, available on the far right of the field ( Dimensions and Measures) list.
+> Note :  You can also apply **Hidden filter**, Pivot the fields, to the fields, available on the far right of the field ( Dimensions and Measures) list.
  
  **9.** Run the report to Extract the data, Based on selection made.
 
@@ -31,7 +31,7 @@ Image 1 :
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODc2NTM1MTMsLTkxNDY3NDQ4NywyMT
-Q3MTcwOTA4LDI5NDY1NTE0NiwxMzg1MjE0Mzc2LDk0NDI3NTA5
-OCwxNDY4NTcyOTgwLC03NjA0MTcxMThdfQ==
+eyJoaXN0b3J5IjpbMzI4MDQ4MTY2LC0xMTg3NjUzNTEzLC05MT
+Q2NzQ0ODcsMjE0NzE3MDkwOCwyOTQ2NTUxNDYsMTM4NTIxNDM3
+Niw5NDQyNzUwOTgsMTQ2ODU3Mjk4MCwtNzYwNDE3MTE4XX0=
 -->
