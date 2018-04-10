@@ -22,7 +22,7 @@ Image 1 :
  
  **6.** Click **Run** to extract the data, based on selection made.
 
->  **Note :** Data retrieved on running the report are visible in **Data section.
+>  **Note :** Data retrieved on running the report are visible in **Data section**( Refer image 2).
  
 **7.** click on save to Save the report, it will navigate to Save explore dialog box, Enter the below details : 
  
@@ -45,12 +45,10 @@ Image 1 :
 
 The above explained points are the basics, to view the additional; features of reports such as **Hidden filter**, **Pivoting**,  **totals**, **run time**,**order** and ** Calculations**. You can check them in detail in **Data Analysis** document of BiPlus.
  
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/master/images/filter_ur.png)
-> Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTgwMjMwOSwtNTQwODY4MzEsNjM0OT
-Q1OTgxLDE5NDk3MTQ0NzUsLTExODc2NTM1MTMsLTkxNDY3NDQ4
-NywyMTQ3MTcwOTA4LDI5NDY1NTE0NiwxMzg1MjE0Mzc2LDk0ND
-I3NTA5OCwxNDY4NTcyOTgwLC03NjA0MTcxMThdfQ==
+eyJoaXN0b3J5IjpbLTE5OTc3MTg4NDYsLTU0MDg2ODMxLDYzND
+k0NTk4MSwxOTQ5NzE0NDc1LC0xMTg3NjUzNTEzLC05MTQ2NzQ0
+ODcsMjE0NzE3MDkwOCwyOTQ2NTUxNDYsMTM4NTIxNDM3Niw5ND
+QyNzUwOTgsMTQ2ODU3Mjk4MCwtNzYwNDE3MTE4XX0=
 -->
