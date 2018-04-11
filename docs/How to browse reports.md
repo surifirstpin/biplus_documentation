@@ -5,7 +5,7 @@
 
 BiPlus gives you an opportunity to view the reports, Many users  will start by browsing reports and dashboard created by other in there organisation. This section gives a clear information on how to view the reports created.
 
-## Gettting Started
+## Getting Started
 
 BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in email and register for BiPlus account. 
 
@@ -62,8 +62,8 @@ After Selecting the report it will open the desired report with set of options i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDM1ODE0NDIsLTE1NjM3MTkyMDIsNz
-MzMjIxODk4LDEwOTk4NTQ1OTIsMTY1MjA2NTg4NCwxNTA2MzQz
-NTAwLDk1NzA0NzkzNiwxNzI4NTcxNTIsLTEzNzQ4MzY4NjZdfQ
-==
+eyJoaXN0b3J5IjpbMTEwMzYyNDE5NiwtMjAwMzU4MTQ0MiwtMT
+U2MzcxOTIwMiw3MzMyMjE4OTgsMTA5OTg1NDU5MiwxNjUyMDY1
+ODg0LDE1MDYzNDM1MDAsOTU3MDQ3OTM2LDE3Mjg1NzE1MiwtMT
+M3NDgzNjg2Nl19
 -->
