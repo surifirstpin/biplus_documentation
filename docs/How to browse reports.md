@@ -16,8 +16,8 @@ After Login Click  **Dashboard Section** It displays list of  reports created. Y
 
 For instance, if you want to add 1 more dimension and measure field to an existing report, follow the below steps.
 
-To add more fields select dimension field **Employee Name
-** and **Measure Field Maximum salary.
+**3.** Select dimension field **Employee Name.
+** and Measure Field **Maximum salary**.
 
 > **Note :** You can edit the report from here or edit them after navigating into the report screen by selecting edit option from tool bar on top right or from the list icon.
 
@@ -57,9 +57,9 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzI1ODM0LC0xOTcxMjE4MzA0LC04Nz
-c2NTc2MzgsLTE0MDAwNTQyNDMsMTEwMzYyNDE5NiwtMjAwMzU4
-MTQ0MiwtMTU2MzcxOTIwMiw3MzMyMjE4OTgsMTA5OTg1NDU5Mi
-wxNjUyMDY1ODg0LDE1MDYzNDM1MDAsOTU3MDQ3OTM2LDE3Mjg1
-NzE1MiwtMTM3NDgzNjg2Nl19
+eyJoaXN0b3J5IjpbLTg5MzE1MTc2NywtMTk3MTIxODMwNCwtOD
+c3NjU3NjM4LC0xNDAwMDU0MjQzLDExMDM2MjQxOTYsLTIwMDM1
+ODE0NDIsLTE1NjM3MTkyMDIsNzMzMjIxODk4LDEwOTk4NTQ1OT
+IsMTY1MjA2NTg4NCwxNTA2MzQzNTAwLDk1NzA0NzkzNiwxNzI4
+NTcxNTIsLTEzNzQ4MzY4NjZdfQ==
 -->
