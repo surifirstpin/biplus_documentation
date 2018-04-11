@@ -20,7 +20,7 @@ For instance,  to add phone number of the employee to an existing report and app
 
 **4.** Click **Add Rule** and set a new **filter**  and run the report. the data is extracted with one more new dimension field (Phone) and new filter value ( salary equals to 15000).
 
- **5.** Click **Save** it will navigate to save explore page and add the newly added filters in filter section of save explore page and click update
+ **5.** Click **Save** it will navigate to save explore page and add the newly added filters in filter section of save explore page and click **update** to update the changes made or Click Save as to save the report with different name.
 
 > **Note :** You can edit the report from here or edit them after opening the existing report, by selecting edit option from tool bar on top right or from the list icon of the report screen.
 
@@ -60,7 +60,7 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjI2MTc5NSwyMDc5NDc3NDIyLC04OT
+eyJoaXN0b3J5IjpbMTMwNjMyMzUwNSwyMDc5NDc3NDIyLC04OT
 MxNTE3NjcsLTE5NzEyMTgzMDQsLTg3NzY1NzYzOCwtMTQwMDA1
 NDI0MywxMTAzNjI0MTk2LC0yMDAzNTgxNDQyLC0xNTYzNzE5Mj
 AyLDczMzIyMTg5OCwxMDk5ODU0NTkyLDE2NTIwNjU4ODQsMTUw
