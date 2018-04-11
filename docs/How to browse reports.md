@@ -25,7 +25,6 @@ After Login, Click on **Dashboard Section** It displays list of dashboards and r
 
 **5.** To create a new dashboard click on **New Dashboard Button.**
 
-
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/report_mian.png)Image 1 :
 
@@ -63,7 +62,7 @@ After Selecting the report it will open the desired report with set of options i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDI4NDc4MiwxNjUyMDY1ODg0LDE1MD
+eyJoaXN0b3J5IjpbMTA5OTg1NDU5MiwxNjUyMDY1ODg0LDE1MD
 YzNDM1MDAsOTU3MDQ3OTM2LDE3Mjg1NzE1MiwtMTM3NDgzNjg2
 Nl19
 -->
