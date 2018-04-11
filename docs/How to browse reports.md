@@ -58,12 +58,10 @@ After Selecting the report it will open the desired report with set of options i
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/download.png)
 
-> **Note :** Depending on your requirement you can download the data by applying refresh or hard refresh.
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDAwNTQyNDMsMTEwMzYyNDE5NiwtMj
-AwMzU4MTQ0MiwtMTU2MzcxOTIwMiw3MzMyMjE4OTgsMTA5OTg1
-NDU5MiwxNjUyMDY1ODg0LDE1MDYzNDM1MDAsOTU3MDQ3OTM2LD
-E3Mjg1NzE1MiwtMTM3NDgzNjg2Nl19
+eyJoaXN0b3J5IjpbMTYxNDYxOTU0NywtMTQwMDA1NDI0MywxMT
+AzNjI0MTk2LC0yMDAzNTgxNDQyLC0xNTYzNzE5MjAyLDczMzIy
+MTg5OCwxMDk5ODU0NTkyLDE2NTIwNjU4ODQsMTUwNjM0MzUwMC
+w5NTcwNDc5MzYsMTcyODU3MTUyLC0xMzc0ODM2ODY2XX0=
 -->
