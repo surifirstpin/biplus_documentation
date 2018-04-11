@@ -18,8 +18,7 @@ For instance,  to add phone number of the employee to an existing report and app
 
 **3.** Select dimension field **Employee Phone.
 
-**4.** Click **Add Rule** and set a filter salary equals to 15000.
-
+**4.** Click **Add Rule** and set a **filter** salary--> equals to--> 15000 and run the report. the data is extracted with one m
 > **Note :** You can edit the report from here or edit them after navigating into the report screen by selecting edit option from tool bar on top right or from the list icon.
 
 **3.** Click on **Delete Icon** to delete the report.
@@ -58,10 +57,10 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI3NDUzNTMsMjA3OTQ3NzQyMiwtOD
-kzMTUxNzY3LC0xOTcxMjE4MzA0LC04Nzc2NTc2MzgsLTE0MDAw
-NTQyNDMsMTEwMzYyNDE5NiwtMjAwMzU4MTQ0MiwtMTU2MzcxOT
-IwMiw3MzMyMjE4OTgsMTA5OTg1NDU5MiwxNjUyMDY1ODg0LDE1
-MDYzNDM1MDAsOTU3MDQ3OTM2LDE3Mjg1NzE1MiwtMTM3NDgzNj
-g2Nl19
+eyJoaXN0b3J5IjpbODA3MDM2NDkwLDIwNzk0Nzc0MjIsLTg5Mz
+E1MTc2NywtMTk3MTIxODMwNCwtODc3NjU3NjM4LC0xNDAwMDU0
+MjQzLDExMDM2MjQxOTYsLTIwMDM1ODE0NDIsLTE1NjM3MTkyMD
+IsNzMzMjIxODk4LDEwOTk4NTQ1OTIsMTY1MjA2NTg4NCwxNTA2
+MzQzNTAwLDk1NzA0NzkzNiwxNzI4NTcxNTIsLTEzNzQ4MzY4Nj
+ZdfQ==
 -->
