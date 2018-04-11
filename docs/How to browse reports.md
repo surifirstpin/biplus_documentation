@@ -18,8 +18,9 @@ For instance,  to add phone number of the employee to an existing report and app
 
 **3.** Select dimension field **Employee Phone.**
 
-**4.** Click **Add Rule** and set a new **filter**  and run the report. the data is extracted with one more new dimension field (Phone) and new filter value ( salary equals t
-> **Note :** You can edit the report from here or edit them after navigating into the report screen by selecting edit option from tool bar on top right or from the list icon.
+**4.** Click **Add Rule** and set a new **filter**  and run the report. the data is extracted with one more new dimension field (Phone) and new filter value ( salary equals to 15000).
+
+> **Note :** You can edit the report from here or edit them after opening the existing report, by selecting edit option from tool bar on top right or from the list icon o.
 
 **3.** Click on **Delete Icon** to delete the report.
 
@@ -57,7 +58,7 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTU1MDMzNCwyMDc5NDc3NDIyLC04OT
+eyJoaXN0b3J5IjpbMjAzMzM2OTcwNCwyMDc5NDc3NDIyLC04OT
 MxNTE3NjcsLTE5NzEyMTgzMDQsLTg3NzY1NzYzOCwtMTQwMDA1
 NDI0MywxMTAzNjI0MTk2LC0yMDAzNTgxNDQyLC0xNTYzNzE5Mj
 AyLDczMzIyMTg5OCwxMDk5ODU0NTkyLDE2NTIwNjU4ODQsMTUw
