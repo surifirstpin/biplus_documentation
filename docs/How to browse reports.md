@@ -26,7 +26,7 @@ After Login, Click on **Dashboard Section** It displays list of dashboards and r
 **5.** To create a new dashboard click on **New Dashboard Button.**  ( Check **How to create a dashboard** document)
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/master/images/report_mian.png)Image 1 :
+](https://raw.githubusercontent.com/sv18042016/fp1/master/images/report_mian.png) Image 1 :
 
 After Selecting the report it will open the desired report with set of options in BiPlus, as described below,
 
@@ -62,8 +62,8 @@ After Selecting the report it will open the desired report with set of options i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDQwNTQ5MSwxMTAzNjI0MTk2LC0yMD
-AzNTgxNDQyLC0xNTYzNzE5MjAyLDczMzIyMTg5OCwxMDk5ODU0
-NTkyLDE2NTIwNjU4ODQsMTUwNjM0MzUwMCw5NTcwNDc5MzYsMT
-cyODU3MTUyLC0xMzc0ODM2ODY2XX0=
+eyJoaXN0b3J5IjpbLTE0MDAwNTQyNDMsMTEwMzYyNDE5NiwtMj
+AwMzU4MTQ0MiwtMTU2MzcxOTIwMiw3MzMyMjE4OTgsMTA5OTg1
+NDU5MiwxNjUyMDY1ODg0LDE1MDYzNDM1MDAsOTU3MDQ3OTM2LD
+E3Mjg1NzE1MiwtMTM3NDgzNjg2Nl19
 -->
