@@ -30,12 +30,21 @@ To open a  report click on report name in the list. once you open the report it 
 
 > Note : To restore the data based on Previous Filter Click on  **Restore default filters** Icon at top left beside filter section.
 
-**7.** To delete the existing Report filters in filter section Click on **Delete.**
+**6.** To delete the existing dashboard filters Click **Delete** it will permanently deletes the filters from report.
 
-> Note : You can also **Edit**, Create **New dashboard** and **delete** the report from the same screen by clicking on there icons on the top right of the screen or in the list drop down ( Refer Image 2).
+> Note : You can also **Edit** and **delete** the report from the same screen by clicking on there icons available on the top right of the screen or in the list drop down ( Refer Image 2).
 
-**8.** Under list drop down click on **Full screen** to set the desired report to Full Screen.
+**7.** You can set the report created to full screen by selecting **Full screen** option in list drop down.
 
+**8.** To download existing report in csv format select download CSV in gear drop down.
+ At present, you can download dashboard reports in following formats,
+ - CSV
+ - .XLS
+-  PNG
+
+**9.**  To download the **Visualization Image** of the report,  Select **Show Visualization** in gear drop down then, select  **Download Image.**
+
+**Note :** To download the most recent data information of the dashboard report click on **Refresh** in gear drop down before downloading and to download the most recent data information by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/report_ur1.png) Image 2: 
 
@@ -56,7 +65,7 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzg3OTkyMywtMTQwMDA1NDI0MywxMT
+eyJoaXN0b3J5IjpbMTEzNjUwMTI3OCwtMTQwMDA1NDI0MywxMT
 AzNjI0MTk2LC0yMDAzNTgxNDQyLC0xNTYzNzE5MjAyLDczMzIy
 MTg5OCwxMDk5ODU0NTkyLDE2NTIwNjU4ODQsMTUwNjM0MzUwMC
 w5NTcwNDc5MzYsMTcyODU3MTUyLC0xMzc0ODM2ODY2XX0=
