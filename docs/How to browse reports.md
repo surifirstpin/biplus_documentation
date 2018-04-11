@@ -14,7 +14,7 @@ After Login Click  **Dashboard Section** It displays list of  reports created. Y
 
 **2.**  Click on  **Edit ** to customize a saved dashboard as per your business needs.
 
-For instance, if you want to add 1 more dimension and measure field to an existing report, follow the below steps.
+For instance,  to add 1 more dimension field an to an existing report and apply filter at same time, follow the below steps.
 
 **3.** Select dimension field **Employee Name.
 ** and Measure Field **Maximum salary**.
@@ -57,9 +57,9 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzE1MTc2NywtMTk3MTIxODMwNCwtOD
-c3NjU3NjM4LC0xNDAwMDU0MjQzLDExMDM2MjQxOTYsLTIwMDM1
-ODE0NDIsLTE1NjM3MTkyMDIsNzMzMjIxODk4LDEwOTk4NTQ1OT
-IsMTY1MjA2NTg4NCwxNTA2MzQzNTAwLDk1NzA0NzkzNiwxNzI4
-NTcxNTIsLTEzNzQ4MzY4NjZdfQ==
+eyJoaXN0b3J5IjpbMjA3OTQ3NzQyMiwtODkzMTUxNzY3LC0xOT
+cxMjE4MzA0LC04Nzc2NTc2MzgsLTE0MDAwNTQyNDMsMTEwMzYy
+NDE5NiwtMjAwMzU4MTQ0MiwtMTU2MzcxOTIwMiw3MzMyMjE4OT
+gsMTA5OTg1NDU5MiwxNjUyMDY1ODg0LDE1MDYzNDM1MDAsOTU3
+MDQ3OTM2LDE3Mjg1NzE1MiwtMTM3NDgzNjg2Nl19
 -->
