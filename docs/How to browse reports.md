@@ -3,7 +3,7 @@
 
 <center><h1>How to Browse a Report</h1></center>
 
-BiPlus gives you an opportunity to view the reports, Many users  will start by browsing reports and dashboard created by other in there organisation. This section gives a clear information on how to view the reports created.
+BiPlus gives you an opportunity to browse the reports created by other in there organisation. This section gives a clear information on how to view the reports created.
 
 ## Getting Started
 
@@ -60,7 +60,7 @@ After Selecting the report it will open the desired report with set of options i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDYxOTU0NywtMTQwMDA1NDI0MywxMT
+eyJoaXN0b3J5IjpbMTcyOTA0MTk3NSwtMTQwMDA1NDI0MywxMT
 AzNjI0MTk2LC0yMDAzNTgxNDQyLC0xNTYzNzE5MjAyLDczMzIy
 MTg5OCwxMDk5ODU0NTkyLDE2NTIwNjU4ODQsMTUwNjM0MzUwMC
 w5NTcwNDc5MzYsMTcyODU3MTUyLC0xMzc0ODM2ODY2XX0=
