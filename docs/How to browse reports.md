@@ -35,7 +35,7 @@ After Login Click  **Dashboard Section** It displays list of  reports created. Y
 
 To open a  report click on report name in the list. once you open the report it will display set of options as described below,
 
-**9. Filter** section available on top left of the report screen, displays already the filters applied to existing report. You can add additional filters using **Add filters** button and to apply the added filters click on **Apply** button and finally click **Save** to save the data with newly added filters.
+**9. Filter** section available on top left of the report screen, displays already existing filters in a report. You can add additional filters using **Add filters** button and to apply the added filters click on **Apply** button and finally click **Save** to save the data with newly added filters.
 
 
 > Note : To restore the data based on Previous Filter Click on  **Restore default filters** Icon at top left beside filter section.
@@ -63,11 +63,11 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3MzA3NjU4LDE2ODE3MzU4NzgsLTE2MT
-gwOTc3MzAsLTIwMzIwMTE2MTksLTEyMzI0MjUyNzMsMTcwNTMw
-NDE5MCwtMTI1MDk3MzU1MiwyMDc5NDc3NDIyLC04OTMxNTE3Nj
-csLTE5NzEyMTgzMDQsLTg3NzY1NzYzOCwtMTQwMDA1NDI0Mywx
-MTAzNjI0MTk2LC0yMDAzNTgxNDQyLC0xNTYzNzE5MjAyLDczMz
-IyMTg5OCwxMDk5ODU0NTkyLDE2NTIwNjU4ODQsMTUwNjM0MzUw
-MCw5NTcwNDc5MzZdfQ==
+eyJoaXN0b3J5IjpbLTE1NTI3ODI3NjcsMTY4MTczNTg3OCwtMT
+YxODA5NzczMCwtMjAzMjAxMTYxOSwtMTIzMjQyNTI3MywxNzA1
+MzA0MTkwLC0xMjUwOTczNTUyLDIwNzk0Nzc0MjIsLTg5MzE1MT
+c2NywtMTk3MTIxODMwNCwtODc3NjU3NjM4LC0xNDAwMDU0MjQz
+LDExMDM2MjQxOTYsLTIwMDM1ODE0NDIsLTE1NjM3MTkyMDIsNz
+MzMjIxODk4LDEwOTk4NTQ1OTIsMTY1MjA2NTg4NCwxNTA2MzQz
+NTAwLDk1NzA0NzkzNl19
 -->
