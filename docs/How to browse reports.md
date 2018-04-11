@@ -14,7 +14,7 @@ After Login Click  **Dashboard Section** It displays list of  reports created. Y
 
 **2.**  Click on  **Edit ** to customize a saved dashboard as per your business needs.
 
-For instance, if you want to add 1 more dimension field to a report, follow the below steps.
+For instance, if you want to add 1 more dimension and measure field to an existing report,
 
 > **Note :** You can edit the report from here or edit them after navigating into the report screen by selecting edit option from tool bar on top right or from the list icon.
 
@@ -54,7 +54,7 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTI3ODY4MCwtODc3NjU3NjM4LC0xND
+eyJoaXN0b3J5IjpbLTk5MDk0NDU0OCwtODc3NjU3NjM4LC0xND
 AwMDU0MjQzLDExMDM2MjQxOTYsLTIwMDM1ODE0NDIsLTE1NjM3
 MTkyMDIsNzMzMjIxODk4LDEwOTk4NTQ1OTIsMTY1MjA2NTg4NC
 wxNTA2MzQzNTAwLDk1NzA0NzkzNiwxNzI4NTcxNTIsLTEzNzQ4
