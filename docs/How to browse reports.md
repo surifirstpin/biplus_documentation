@@ -14,7 +14,8 @@ After Login, Click on **Dashboard Section** It displays list of dashboards and r
 **1. Set home page icon** is used to set the report to home page screen.
 
 **2. Edit Icon** is used to customize a saved report as per the changes required.
-> **Note :** You can edit the report from here or after navigating into the report by choosing edit from 
+
+> **Note :** You can edit the report from here or edit them after navigating into the report by choosing edit from tool bar on top right or from the list icon.
 
 **3.** Click on **Delete Icon** to delete the report.
 
@@ -63,6 +64,6 @@ After Selecting the report it will open the desired report with set of options i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTkxODM5MjMsMTUwNjM0MzUwMCw5NT
-cwNDc5MzYsMTcyODU3MTUyLC0xMzc0ODM2ODY2XX0=
+eyJoaXN0b3J5IjpbMTY4ODIyMDA3LDE1MDYzNDM1MDAsOTU3MD
+Q3OTM2LDE3Mjg1NzE1MiwtMTM3NDgzNjg2Nl19
 -->
