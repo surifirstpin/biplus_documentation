@@ -38,7 +38,7 @@ To open a  report click on report name in the list. once you open the report it 
 
 > Note : To restore the data based on Previous Filter Click on  **Restore default filters** Icon at top left beside filter section.
 
-**9.** To delete the existing dashboard filters Click **Delete** it will permanently deletes the filters from report.
+**9.** To delete the existing Report filters click **Delete** it will permanently delete the filters from report.
 
 > Note : You can also **Edit** and **delete** the report from the same screen by clicking on there icons available on the top right of the screen or in the list drop down.
 
@@ -60,10 +60,10 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTgxNzc2MiwxNzA1MzA0MTkwLC0xMj
-UwOTczNTUyLDIwNzk0Nzc0MjIsLTg5MzE1MTc2NywtMTk3MTIx
-ODMwNCwtODc3NjU3NjM4LC0xNDAwMDU0MjQzLDExMDM2MjQxOT
-YsLTIwMDM1ODE0NDIsLTE1NjM3MTkyMDIsNzMzMjIxODk4LDEw
-OTk4NTQ1OTIsMTY1MjA2NTg4NCwxNTA2MzQzNTAwLDk1NzA0Nz
-kzNiwxNzI4NTcxNTIsLTEzNzQ4MzY4NjZdfQ==
+eyJoaXN0b3J5IjpbLTEyMzI0MjUyNzMsMTcwNTMwNDE5MCwtMT
+I1MDk3MzU1MiwyMDc5NDc3NDIyLC04OTMxNTE3NjcsLTE5NzEy
+MTgzMDQsLTg3NzY1NzYzOCwtMTQwMDA1NDI0MywxMTAzNjI0MT
+k2LC0yMDAzNTgxNDQyLC0xNTYzNzE5MjAyLDczMzIyMTg5OCwx
+MDk5ODU0NTkyLDE2NTIwNjU4ODQsMTUwNjM0MzUwMCw5NTcwND
+c5MzYsMTcyODU3MTUyLC0xMzc0ODM2ODY2XX0=
 -->
