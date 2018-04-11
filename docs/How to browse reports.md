@@ -26,7 +26,7 @@ After Login Click  **Dashboard Section** It displays list of  reports created. Y
 
 > **Note :** You can edit the report from here or edit them after opening the existing report, by selecting edit option from tool bar on top right or from the list icon of the report screen.
 
-**6.** Click on **Delete Icon** to delete the report.
+**6.** To delete a report click on **Delete Icon**  in dashboard section.
 
 **7.**  The circle indicator at the far right of the screen is used to display whether the dashboard is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings.
 
@@ -62,11 +62,11 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTU5NzI2NCwtMjAzMjAxMTYxOSwtMT
-IzMjQyNTI3MywxNzA1MzA0MTkwLC0xMjUwOTczNTUyLDIwNzk0
-Nzc0MjIsLTg5MzE1MTc2NywtMTk3MTIxODMwNCwtODc3NjU3Nj
-M4LC0xNDAwMDU0MjQzLDExMDM2MjQxOTYsLTIwMDM1ODE0NDIs
-LTE1NjM3MTkyMDIsNzMzMjIxODk4LDEwOTk4NTQ1OTIsMTY1Mj
-A2NTg4NCwxNTA2MzQzNTAwLDk1NzA0NzkzNiwxNzI4NTcxNTIs
-LTEzNzQ4MzY4NjZdfQ==
+eyJoaXN0b3J5IjpbLTE2MTgwOTc3MzAsLTIwMzIwMTE2MTksLT
+EyMzI0MjUyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1MiwyMDc5
+NDc3NDIyLC04OTMxNTE3NjcsLTE5NzEyMTgzMDQsLTg3NzY1Nz
+YzOCwtMTQwMDA1NDI0MywxMTAzNjI0MTk2LC0yMDAzNTgxNDQy
+LC0xNTYzNzE5MjAyLDczMzIyMTg5OCwxMDk5ODU0NTkyLDE2NT
+IwNjU4ODQsMTUwNjM0MzUwMCw5NTcwNDc5MzYsMTcyODU3MTUy
+LC0xMzc0ODM2ODY2XX0=
 -->
