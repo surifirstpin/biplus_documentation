@@ -18,7 +18,7 @@ For instance,  to add phone number of the employee to an existing report and app
 
 **3.** Select dimension field **Employee Phone.
 
-**4.** Click A.
+**4.** Click **Add Rule** and set a filter salary equals to 15000.
 
 > **Note :** You can edit the report from here or edit them after navigating into the report screen by selecting edit option from tool bar on top right or from the list icon.
 
@@ -58,7 +58,7 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDkyOTg1NzEsMjA3OTQ3NzQyMiwtOD
+eyJoaXN0b3J5IjpbLTE0OTI3NDUzNTMsMjA3OTQ3NzQyMiwtOD
 kzMTUxNzY3LC0xOTcxMjE4MzA0LC04Nzc2NTc2MzgsLTE0MDAw
 NTQyNDMsMTEwMzYyNDE5NiwtMjAwMzU4MTQ0MiwtMTU2MzcxOT
 IwMiw3MzMyMjE4OTgsMTA5OTg1NDU5MiwxNjUyMDY1ODg0LDE1
