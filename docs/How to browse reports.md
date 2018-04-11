@@ -18,20 +18,20 @@ For instance,  to add phone number of the employee to an existing report and app
 
 **3.** Select dimension field **Employee Phone.**
 
-**4.** Click **Add Rule** and set a new **filter**  and run the report. the data is extracted with one more new dimension field (Phone) and new filter value ( salary equals to 15000).
+**4.** Click **Add Rule** and set a new **filter**  and run the report. the data is extracted with one more new dimension field (Phone) and new filter value ( salary equals to 15000) as shown in below image.
 
-> **Note :** You can edit the report from here or edit them after opening the existing report, by selecting edit option from tool bar on top right or from the list icon o.
+> **Note :** You can edit the report from here or edit them after opening the existing report, by selecting edit option from tool bar on top right or from the list icon of the report screen.
 
-**3.** Click on **Delete Icon** to delete the report.
+**4.** Click on **Delete Icon** to delete the report.
 
-**4.**  The circle indicator at the far right of the screen is used to display whether the dashboard is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings.
+**5.**  The circle indicator at the far right of the screen is used to display whether the dashboard is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/report_mian.png) Image 1 :
 
 To open a  report click on report name in the list. once you open the report it will display set of options as described below,
 
-**5. Filter** section available on top left report screen, displays the filters applied to existing report. You can add additional filters using **Add filters** button and to apply the added filters click on **Apply** button and finally click **Save** to save the data with newly added filters.
+**6. Filter** section available on top left report screen, displays the filters applied to existing report. You can add additional filters using **Add filters** button and to apply the added filters click on **Apply** button and finally click **Save** to save the data with newly added filters.
 
 
 > Note : To restore the data based on Previous Filter Click on  **Restore default filters** Icon at top left beside filter section.
@@ -58,7 +58,7 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzM2OTcwNCwyMDc5NDc3NDIyLC04OT
+eyJoaXN0b3J5IjpbMTY0NjIyNzUyOCwyMDc5NDc3NDIyLC04OT
 MxNTE3NjcsLTE5NzEyMTgzMDQsLTg3NzY1NzYzOCwtMTQwMDA1
 NDI0MywxMTAzNjI0MTk2LC0yMDAzNTgxNDQyLC0xNTYzNzE5Mj
 AyLDczMzIyMTg5OCwxMDk5ODU0NTkyLDE2NTIwNjU4ODQsMTUw
