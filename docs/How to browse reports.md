@@ -18,7 +18,7 @@ After Login Click  **Dashboard Section** It displays list of  reports created. Y
 
 **3.** Select dimension field **Employee Phone.**
 
-**4.** Click **Add Rule** and set a new **filter**  and run the report. the data is extracted with one more new dimension field (Phone) and new filter value ( salary equals to 15000).
+**4.** Click **Add Rule** and set a new **filter**  and **Run** the report. the data is extracted with one more new dimension field (Phone) and new filter value ( salary equals to 15000).
 
  **5.** Click **Save** it will navigate to save explore page and add the newly added filters in filter section of save explore page and click **update** to update the changes made or Click Save as to save the report with different name.
 
@@ -60,10 +60,10 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTMwNDE5MCwtMTI1MDk3MzU1MiwyMD
-c5NDc3NDIyLC04OTMxNTE3NjcsLTE5NzEyMTgzMDQsLTg3NzY1
-NzYzOCwtMTQwMDA1NDI0MywxMTAzNjI0MTk2LC0yMDAzNTgxND
-QyLC0xNTYzNzE5MjAyLDczMzIyMTg5OCwxMDk5ODU0NTkyLDE2
-NTIwNjU4ODQsMTUwNjM0MzUwMCw5NTcwNDc5MzYsMTcyODU3MT
-UyLC0xMzc0ODM2ODY2XX0=
+eyJoaXN0b3J5IjpbLTQ4OTgxNzc2MiwxNzA1MzA0MTkwLC0xMj
+UwOTczNTUyLDIwNzk0Nzc0MjIsLTg5MzE1MTc2NywtMTk3MTIx
+ODMwNCwtODc3NjU3NjM4LC0xNDAwMDU0MjQzLDExMDM2MjQxOT
+YsLTIwMDM1ODE0NDIsLTE1NjM3MTkyMDIsNzMzMjIxODk4LDEw
+OTk4NTQ1OTIsMTY1MjA2NTg4NCwxNTA2MzQzNTAwLDk1NzA0Nz
+kzNiwxNzI4NTcxNTIsLTEzNzQ4MzY4NjZdfQ==
 -->
