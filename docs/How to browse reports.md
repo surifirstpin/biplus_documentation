@@ -18,11 +18,7 @@ After Login Click  **Dashboard Section** It displays list of  reports created. Y
 
 **3.** Click on **Delete Icon** to delete the report.
 
-> Note : The circle indicator is used to display whether the report is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings.
-
-**4.** To create a new tag click on **Add Tag** button.
-
-**5.** To create a new dashboard click on **New Dashboard Button.**  ( Check **How to create a dashboard** document)
+**4.**  The circle indicator at the far right of the screen is used to display whether the dashboard is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/report_mian.png) Image 1 :
@@ -59,8 +55,8 @@ After Selecting the report it will open the desired report with set of options i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzNDI1MjU3LC0xNDAwMDU0MjQzLDExMD
-M2MjQxOTYsLTIwMDM1ODE0NDIsLTE1NjM3MTkyMDIsNzMzMjIx
-ODk4LDEwOTk4NTQ1OTIsMTY1MjA2NTg4NCwxNTA2MzQzNTAwLD
-k1NzA0NzkzNiwxNzI4NTcxNTIsLTEzNzQ4MzY4NjZdfQ==
+eyJoaXN0b3J5IjpbLTgyMDk1ODk1OCwtMTQwMDA1NDI0MywxMT
+AzNjI0MTk2LC0yMDAzNTgxNDQyLC0xNTYzNzE5MjAyLDczMzIy
+MTg5OCwxMDk5ODU0NTkyLDE2NTIwNjU4ODQsMTUwNjM0MzUwMC
+w5NTcwNDc5MzYsMTcyODU3MTUyLC0xMzc0ODM2ODY2XX0=
 -->
