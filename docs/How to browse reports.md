@@ -23,7 +23,7 @@ After Login, Click on **Dashboard Section** It displays list of dashboards and r
 
 **4.** To create a new tag click on **Add Tag** button.
 
-**5.** To create a new dashboard click on **New Dashboard Button.** ( Check **How to create a dashboard ** document)
+**5.** To create a new dashboard click on **New Dashboard Button.**  ( Check **How to create a dashboard** document)
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/report_mian.png)Image 1 :
@@ -62,7 +62,7 @@ After Selecting the report it will open the desired report with set of options i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTI3MDkxMTAsNzMzMjIxODk4LDEwOT
+eyJoaXN0b3J5IjpbLTE1NjM3MTkyMDIsNzMzMjIxODk4LDEwOT
 k4NTQ1OTIsMTY1MjA2NTg4NCwxNTA2MzQzNTAwLDk1NzA0Nzkz
 NiwxNzI4NTcxNTIsLTEzNzQ4MzY4NjZdfQ==
 -->
