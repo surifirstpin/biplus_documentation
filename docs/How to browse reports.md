@@ -7,9 +7,9 @@ Biplus gives you an opportunity to view the reports, Many users  will start by b
 
 ## Gettting Started
 
-BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in email and register for BiPlus account, After Loging in
+BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in email and register for BiPlus account. 
 
-Click on **Dashboard Section** It displays list of dashboards and reports created. You directly search a report by using the **search option** or Click on the desired report from the list , It will navigate to the report created.
+After Login, Click on **Dashboard Section** It displays list of dashboards and reports created. You can directly search a report by using the **search option** or click on the desired report from the list and It will display the report.
 
 **1.** Click on **Set home page icon** to set the desired report home page for checking the live data running of the report.
 
@@ -62,6 +62,6 @@ After Selecting the report it will open the desired report with set of options i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDMzNDc2MzcsMTcyODU3MTUyLC0xMz
-c0ODM2ODY2XX0=
+eyJoaXN0b3J5IjpbOTU3MDQ3OTM2LDE3Mjg1NzE1MiwtMTM3ND
+gzNjg2Nl19
 -->
