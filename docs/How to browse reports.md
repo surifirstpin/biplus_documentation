@@ -11,9 +11,9 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 After Login, Click on **Dashboard Section** It displays list of dashboards and reports created. You can directly search a report by using the **search option** or click on the desired report from the list and It will display the report.
 
-**1.** Click on **Set home page icon** to set the desired report home page for checking the live data running of the report.
+**1. Set home page icon** is used to set the report to home page screen.
 
-**2.** You can either directly edit the report from here by Clicking on **Edit Icon** or Edit the report after viewing it.
+**2.** UsinYou can either directly edit the report from here by Clicking on **Edit Icon** or Edit the report after viewing it.
 
 **3.** Click on **Delete Icon** to delete the report.
 
@@ -62,6 +62,6 @@ After Selecting the report it will open the desired report with set of options i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3MDQ3OTM2LDE3Mjg1NzE1MiwtMTM3ND
-gzNjg2Nl19
+eyJoaXN0b3J5IjpbMTA0NDcxMDQzNyw5NTcwNDc5MzYsMTcyOD
+U3MTUyLC0xMzc0ODM2ODY2XX0=
 -->
