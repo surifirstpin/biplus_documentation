@@ -25,7 +25,7 @@ After Login Click  **Dashboard Section** It displays list of  reports created. Y
 
 To open a  report click on report name in the list. once you open the report it will display set of options as described below,
 
-**5. Filter** section available on top left report screen, displays the filters applied to dashboard report. you can add additional filters using **Add filters** button and to apply the added filters click on **Apply** button and finally click **Save** to save the data with newly added filters.
+**5. Filter** section available on top left report screen, displays the filters applied to existing report. You can add additional filters using **Add filters** button and to apply the added filters click on **Apply** button and finally click **Save** to save the data with newly added filters.
 
 
 > Note : To restore the data based on Previous Filter Click on  **Restore default filters** Icon at top left beside filter section.
@@ -56,8 +56,8 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMTMzNjE2LC0xNDAwMDU0MjQzLDExMD
-M2MjQxOTYsLTIwMDM1ODE0NDIsLTE1NjM3MTkyMDIsNzMzMjIx
-ODk4LDEwOTk4NTQ1OTIsMTY1MjA2NTg4NCwxNTA2MzQzNTAwLD
-k1NzA0NzkzNiwxNzI4NTcxNTIsLTEzNzQ4MzY4NjZdfQ==
+eyJoaXN0b3J5IjpbLTcxNzg3OTkyMywtMTQwMDA1NDI0MywxMT
+AzNjI0MTk2LC0yMDAzNTgxNDQyLC0xNTYzNzE5MjAyLDczMzIy
+MTg5OCwxMDk5ODU0NTkyLDE2NTIwNjU4ODQsMTUwNjM0MzUwMC
+w5NTcwNDc5MzYsMTcyODU3MTUyLC0xMzc0ODM2ODY2XX0=
 -->
