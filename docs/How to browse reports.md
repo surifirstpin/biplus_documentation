@@ -36,7 +36,7 @@ To open a  report click on report name in the list. once you open the report it 
 
 **7.** You can set the report created to full screen by selecting **Full screen** option in list drop down.
 
-**8.** To download existing report in csv format select download CSV in gear drop down.
+**8.** To download existing report in csv format select **download CSV** in gear drop down.
  At present, you can download dashboard reports in following formats,
  - CSV
  - .XLS
@@ -44,28 +44,15 @@ To open a  report click on report name in the list. once you open the report it 
 
 **9.**  To download the **Visualization Image** of the report,  Select **Show Visualization** in gear drop down then, select  **Download Image.**
 
-**Note :** To download the most recent data information of the dashboard report click on **Refresh** in gear drop down before downloading and to download the most recent data information by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
+**Note :** To download the most recent data information of the report click on **Refresh** in gear drop down before downloading and to download the most recent data information by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/report_ur1.png) Image 2: 
 
-**9.** Click on Gear drop down at the upper right. 
 
-**10.** Click on Download CSV to download tabular data.
- You can Download BiPlus in following formats,
- - CSV
- - .XLS
--  PNG
-
-**11.**  To Download the **Visualization Image** in BiPlus, First Select **Show Visualization** in drop down then, Click on **Download Image** to download visualization.
-
- > **Note :** To download the most recent data information of the report Click on **Refresh** in gear drop down before downloading and to download the most recent data information by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
- 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/master/images/download.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjUwMTI3OCwtMTQwMDA1NDI0MywxMT
+eyJoaXN0b3J5IjpbLTY3OTYxNDI2MSwtMTQwMDA1NDI0MywxMT
 AzNjI0MTk2LC0yMDAzNTgxNDQyLC0xNTYzNzE5MjAyLDczMzIy
 MTg5OCwxMDk5ODU0NTkyLDE2NTIwNjU4ODQsMTUwNjM0MzUwMC
 w5NTcwNDc5MzYsMTcyODU3MTUyLC0xMzc0ODM2ODY2XX0=
