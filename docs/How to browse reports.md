@@ -12,7 +12,8 @@ After Login Click  **Dashboard Section** It displays list of  reports created. Y
 
 **1. Set home page icon** is used to set the report to home page screen.
 
-**2. Edit Icon** is used to customize a saved report as per the changes required.
+**2.**  Click on  **Edit ** to customize a saved dashboard as per your business needs.
+
 
 > **Note :** You can edit the report from here or edit them after navigating into the report screen by selecting edit option from tool bar on top right or from the list icon.
 
@@ -52,8 +53,9 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzY1NzYzOCwtMTQwMDA1NDI0MywxMT
-AzNjI0MTk2LC0yMDAzNTgxNDQyLC0xNTYzNzE5MjAyLDczMzIy
-MTg5OCwxMDk5ODU0NTkyLDE2NTIwNjU4ODQsMTUwNjM0MzUwMC
-w5NTcwNDc5MzYsMTcyODU3MTUyLC0xMzc0ODM2ODY2XX0=
+eyJoaXN0b3J5IjpbOTg2NjEzODAyLC04Nzc2NTc2MzgsLTE0MD
+AwNTQyNDMsMTEwMzYyNDE5NiwtMjAwMzU4MTQ0MiwtMTU2Mzcx
+OTIwMiw3MzMyMjE4OTgsMTA5OTg1NDU5MiwxNjUyMDY1ODg0LD
+E1MDYzNDM1MDAsOTU3MDQ3OTM2LDE3Mjg1NzE1MiwtMTM3NDgz
+Njg2Nl19
 -->
