@@ -12,7 +12,7 @@ After Login Click  **Dashboard Section** It displays list of  reports created. Y
 
 **1. Set home page icon** is used to set the report to home page screen.
 
-**2.**  Click on  **Edit ** to customize a saved dashboard as per your business needs.
+**2.**  Click on  **Edit** to customize a saved dashboard as per your business needs.
 
 > For instance,  to add phone number of the employee to an existing report and apply filter at same time, follow the below steps.
 
@@ -60,10 +60,10 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTA5NzM1NTIsMjA3OTQ3NzQyMiwtOD
-kzMTUxNzY3LC0xOTcxMjE4MzA0LC04Nzc2NTc2MzgsLTE0MDAw
-NTQyNDMsMTEwMzYyNDE5NiwtMjAwMzU4MTQ0MiwtMTU2MzcxOT
-IwMiw3MzMyMjE4OTgsMTA5OTg1NDU5MiwxNjUyMDY1ODg0LDE1
-MDYzNDM1MDAsOTU3MDQ3OTM2LDE3Mjg1NzE1MiwtMTM3NDgzNj
-g2Nl19
+eyJoaXN0b3J5IjpbMTcwNTMwNDE5MCwtMTI1MDk3MzU1MiwyMD
+c5NDc3NDIyLC04OTMxNTE3NjcsLTE5NzEyMTgzMDQsLTg3NzY1
+NzYzOCwtMTQwMDA1NDI0MywxMTAzNjI0MTk2LC0yMDAzNTgxND
+QyLC0xNTYzNzE5MjAyLDczMzIyMTg5OCwxMDk5ODU0NTkyLDE2
+NTIwNjU4ODQsMTUwNjM0MzUwMCw5NTcwNDc5MzYsMTcyODU3MT
+UyLC0xMzc0ODM2ODY2XX0=
 -->
