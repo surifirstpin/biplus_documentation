@@ -26,35 +26,36 @@ After Login Click  **Dashboard Section** It displays list of  reports created. Y
 
 > **Note :** You can edit the report from here or edit them after opening the existing report, by selecting edit option from tool bar on top right or from the list icon of the report screen.
 
-**6.** To delete a report click on **Delete Icon**  in dashboard section.
+**7.** To delete a report click on **Delete Icon**  in dashboard section.
 
-**7.**  The circle indicator at the far right of the screen is used to display whether the dashboard is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings.
+**8.**  The circle indicator at the far right of the screen is used to display whether the dashboard is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/report_mian.png) Image 1 :
 
 To open a  report click on report name in the list. once you open the report it will display set of options as described below,
 
-**8. Filter** section available on top left report screen, displays the filters applied to existing report. You can add additional filters using **Add filters** button and to apply the added filters click on **Apply** button and finally click **Save** to save the data with newly added filters.
+**9. Filter** section available on top left report screen, displays the filters applied to existing report. You can add additional filters using **Add filters** button and to apply the added filters click on **Apply** button and finally click **Save** to save the data with newly added filters.
 
 
 > Note : To restore the data based on Previous Filter Click on  **Restore default filters** Icon at top left beside filter section.
 
-**9.** To delete the existing Report filters click **Delete** it will permanently delete the filters from report.
+**10.** To delete the existing Report filters click **Delete** it will permanently delete the filters from report.
 
 > Note : You can also **Edit** and **delete** the report from the same screen by clicking on there icons available on the top right of the screen or in the list drop down.
 
-**10.** You can set the existing report to full screen by selecting **Full screen** option in list drop down.
+**11.** You can set the existing report to full screen by selecting **Full screen** option in list drop down.
 
-**11.** To download existing report in csv format select **download CSV** in gear drop down.
+**12.** To download existing report in csv format select **download CSV** in gear drop down.
  At present, you can download dashboard reports in following formats,
  - CSV
  - .XLS
 -  PNG
 
-**12.**  To download the **Visualization Image** of the report,  Select **Show Visualization** in gear drop down then, select  **Download Image.**
+**13.**  To download the **Visualization Image** of the report,  Select **Show Visualization** in gear drop down then, select  **Download Image.**
 
 **Note :** To download the most recent data information of the report click on **Refresh** in gear drop down before downloading and to download the most recent data information by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/report_ur1.png) Image 2: 
 
@@ -62,11 +63,11 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTgwOTc3MzAsLTIwMzIwMTE2MTksLT
-EyMzI0MjUyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1MiwyMDc5
-NDc3NDIyLC04OTMxNTE3NjcsLTE5NzEyMTgzMDQsLTg3NzY1Nz
-YzOCwtMTQwMDA1NDI0MywxMTAzNjI0MTk2LC0yMDAzNTgxNDQy
-LC0xNTYzNzE5MjAyLDczMzIyMTg5OCwxMDk5ODU0NTkyLDE2NT
-IwNjU4ODQsMTUwNjM0MzUwMCw5NTcwNDc5MzYsMTcyODU3MTUy
-LC0xMzc0ODM2ODY2XX0=
+eyJoaXN0b3J5IjpbMTY4MTczNTg3OCwtMTYxODA5NzczMCwtMj
+AzMjAxMTYxOSwtMTIzMjQyNTI3MywxNzA1MzA0MTkwLC0xMjUw
+OTczNTUyLDIwNzk0Nzc0MjIsLTg5MzE1MTc2NywtMTk3MTIxOD
+MwNCwtODc3NjU3NjM4LC0xNDAwMDU0MjQzLDExMDM2MjQxOTYs
+LTIwMDM1ODE0NDIsLTE1NjM3MTkyMDIsNzMzMjIxODk4LDEwOT
+k4NTQ1OTIsMTY1MjA2NTg4NCwxNTA2MzQzNTAwLDk1NzA0Nzkz
+NiwxNzI4NTcxNTJdfQ==
 -->
