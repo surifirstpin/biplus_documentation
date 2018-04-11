@@ -32,9 +32,9 @@ To open a  report click on report name in the list. once you open the report it 
 
 **6.** To delete the existing dashboard filters Click **Delete** it will permanently deletes the filters from report.
 
-> Note : You can also **Edit** and **delete** the report from the same screen by clicking on there icons available on the top right of the screen or in the list drop down ( Refer Image 2).
+> Note : You can also **Edit** and **delete** the report from the same screen by clicking on there icons available on the top right of the screen or in the list drop down.
 
-**7.** You can set the report created to full screen by selecting **Full screen** option in list drop down.
+**7.** You can set the existing report to full screen by selecting **Full screen** option in list drop down.
 
 **8.** To download existing report in csv format select **download CSV** in gear drop down.
  At present, you can download dashboard reports in following formats,
@@ -52,7 +52,7 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTYxNDI2MSwtMTQwMDA1NDI0MywxMT
+eyJoaXN0b3J5IjpbLTg3NzY1NzYzOCwtMTQwMDA1NDI0MywxMT
 AzNjI0MTk2LC0yMDAzNTgxNDQyLC0xNTYzNzE5MjAyLDczMzIy
 MTg5OCwxMDk5ODU0NTkyLDE2NTIwNjU4ODQsMTUwNjM0MzUwMC
 w5NTcwNDc5MzYsMTcyODU3MTUyLC0xMzc0ODM2ODY2XX0=
