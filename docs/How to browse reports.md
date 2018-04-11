@@ -23,7 +23,7 @@ After Login Click  **Dashboard Section** It displays list of  reports created. Y
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/report_mian.png) Image 1 :
 
-After Selecting the report it will open the desired report with set of options in BiPlus, as described below,
+To open a  report click on report name from the list. once you open the dashboard report it will display set of options as described below,
 
 **6.** Click on **Add Filter** to add more filters to the existing report under filter sections, then Click on **Apply** button to retrieve the data based on the newly added filters and finally Click on **Save Button** to save the data with newly added filters.
 
@@ -55,8 +55,8 @@ After Selecting the report it will open the desired report with set of options i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDk1ODk1OCwtMTQwMDA1NDI0MywxMT
-AzNjI0MTk2LC0yMDAzNTgxNDQyLC0xNTYzNzE5MjAyLDczMzIy
-MTg5OCwxMDk5ODU0NTkyLDE2NTIwNjU4ODQsMTUwNjM0MzUwMC
-w5NTcwNDc5MzYsMTcyODU3MTUyLC0xMzc0ODM2ODY2XX0=
+eyJoaXN0b3J5IjpbNzQ0MDk1NTI4LC0xNDAwMDU0MjQzLDExMD
+M2MjQxOTYsLTIwMDM1ODE0NDIsLTE1NjM3MTkyMDIsNzMzMjIx
+ODk4LDEwOTk4NTQ1OTIsMTY1MjA2NTg4NCwxNTA2MzQzNTAwLD
+k1NzA0NzkzNiwxNzI4NTcxNTIsLTEzNzQ4MzY4NjZdfQ==
 -->
