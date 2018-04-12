@@ -31,7 +31,7 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 ## Edit Report
 
- You can also edit the report, after opening the existing report, by selecting edit option from tool bar on top right or from the list icon of the report screen.
+ **8.** You can also edit the report, after opening the existing report, by selecting edit option from tool bar on top right or from the list icon of the report screen.
 
 > For instance,  in below example ( image 1) we are adding phone number of the employee to an existing report and apply filter at same time.
 
@@ -64,11 +64,11 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQxNjUwMzUsLTY1NzcxNzY0OSwtMT
-MyNjE0Njc5NSwtMTg5OTE3ODI5OCwtMTgxNzc1MDQzMCwtNDE5
-NDcyNDcsLTE1NTI3ODI3NjcsMTY4MTczNTg3OCwtMTYxODA5Nz
-czMCwtMjAzMjAxMTYxOSwtMTIzMjQyNTI3MywxNzA1MzA0MTkw
-LC0xMjUwOTczNTUyLDIwNzk0Nzc0MjIsLTg5MzE1MTc2NywtMT
-k3MTIxODMwNCwtODc3NjU3NjM4LC0xNDAwMDU0MjQzLDExMDM2
-MjQxOTYsLTIwMDM1ODE0NDJdfQ==
+eyJoaXN0b3J5IjpbLTczMjE2NjA2MywtMTAwNDE2NTAzNSwtNj
+U3NzE3NjQ5LC0xMzI2MTQ2Nzk1LC0xODk5MTc4Mjk4LC0xODE3
+NzUwNDMwLC00MTk0NzI0NywtMTU1Mjc4Mjc2NywxNjgxNzM1OD
+c4LC0xNjE4MDk3NzMwLC0yMDMyMDExNjE5LC0xMjMyNDI1Mjcz
+LDE3MDUzMDQxOTAsLTEyNTA5NzM1NTIsMjA3OTQ3NzQyMiwtOD
+kzMTUxNzY3LC0xOTcxMjE4MzA0LC04Nzc2NTc2MzgsLTE0MDAw
+NTQyNDMsMTEwMzYyNDE5Nl19
 -->
