@@ -31,9 +31,7 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 ## Edit Report
 
- **8.** Click edit  on top right or from the list icon of the report screen. Once it displays the reports 
-
-> For instance,  in below example ( image 1) we are adding phone number of the employee to an existing report and apply filter at same time.
+ **8.** Click edit on tool bar or from the list icon of the existing report screen. it displays the reports,  add phone number of the employee to an existing report and apply filter at same time( Refer image 
 
 **8.** Select dimension field **Employee Phone.**
 
@@ -64,11 +62,11 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDI3MzkzOTAsLTczMjE2NjA2MywtMT
-AwNDE2NTAzNSwtNjU3NzE3NjQ5LC0xMzI2MTQ2Nzk1LC0xODk5
-MTc4Mjk4LC0xODE3NzUwNDMwLC00MTk0NzI0NywtMTU1Mjc4Mj
-c2NywxNjgxNzM1ODc4LC0xNjE4MDk3NzMwLC0yMDMyMDExNjE5
-LC0xMjMyNDI1MjczLDE3MDUzMDQxOTAsLTEyNTA5NzM1NTIsMj
-A3OTQ3NzQyMiwtODkzMTUxNzY3LC0xOTcxMjE4MzA0LC04Nzc2
-NTc2MzgsLTE0MDAwNTQyNDNdfQ==
+eyJoaXN0b3J5IjpbMTg4NDg5NDM0MCwtNzMyMTY2MDYzLC0xMD
+A0MTY1MDM1LC02NTc3MTc2NDksLTEzMjYxNDY3OTUsLTE4OTkx
+NzgyOTgsLTE4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUyNzgyNz
+Y3LDE2ODE3MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMTE2MTks
+LTEyMzI0MjUyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1MiwyMD
+c5NDc3NDIyLC04OTMxNTE3NjcsLTE5NzEyMTgzMDQsLTg3NzY1
+NzYzOCwtMTQwMDA1NDI0M119
 -->
