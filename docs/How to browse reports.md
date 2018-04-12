@@ -41,7 +41,7 @@ II. Click **Run** to extract the data with one more new dimension field (Phone) 
 
 III. finally Click **Save** it will navigate to save explore page and add the newly added filters in filter section of save explore page and to update the changes made click **Update** button, use **Save as** to save the report with different name.
 
-**12** You can set the existing report to full screen by selecting **Full screen** option in list drop down.
+
 
 ## Download
 **13** To download existing report in csv format select **download CSV** in gear drop down.
@@ -63,7 +63,7 @@ III. finally Click **Save** it will navigate to save explore page and add the ne
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTc4NDk0OSwtNzMyMTY2MDYzLC0xMD
+eyJoaXN0b3J5IjpbLTk2MzYyMjk3MCwtNzMyMTY2MDYzLC0xMD
 A0MTY1MDM1LC02NTc3MTc2NDksLTEzMjYxNDY3OTUsLTE4OTkx
 NzgyOTgsLTE4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUyNzgyNz
 Y3LDE2ODE3MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMTE2MTks
