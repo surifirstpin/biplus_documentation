@@ -52,7 +52,7 @@ III. finally Click **Save** it will navigate to save explore page.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b0099f7179ee34c8f8492190d526ece2479b23b6/images/browse_rep3.png)
 
-In **Save Explore page, add the newly added filters in filter section and to update the changes made.
+In **Save Explore page**, add the newly added filters in filter section and to update the changes made.
 Click **Update** button, use **Save as** to save the report with different name.
 
 ![
@@ -60,7 +60,7 @@ Click **Update** button, use **Save as** to save the report with different name.
 ## Download
 
 
-**10** To download existing report in csv format select **download CSV** in gear drop down in the report initial screen.
+**10.** To download existing report in csv format select **download CSV** in gear drop down in the report initial screen.
  At present, you can download dashboard reports in following formats,
  - CSV
  - .XLS
@@ -69,6 +69,9 @@ Click **Update** button, use **Save as** to save the report with different name.
 **11.**  To download the **Visualization Image** of the report,  Select **Show Visualization** in gear drop down then, select  **Download Image.**
 
 **Note :** To download the most recent data information of the report click on **Refresh** in gear drop down before downloading and to download the most recent data information, by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/b0099f7179ee34c8f8492190d526ece2479b23b6/images/browse_rep5.png)
 
 
 
@@ -79,11 +82,11 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTI3NzI4MCwyODY0NjYzMzgsMzUwOT
-A0MjE4LDg4MTQ5Mzk5LC03MzIxNjYwNjMsLTEwMDQxNjUwMzUs
-LTY1NzcxNzY0OSwtMTMyNjE0Njc5NSwtMTg5OTE3ODI5OCwtMT
-gxNzc1MDQzMCwtNDE5NDcyNDcsLTE1NTI3ODI3NjcsMTY4MTcz
-NTg3OCwtMTYxODA5NzczMCwtMjAzMjAxMTYxOSwtMTIzMjQyNT
-I3MywxNzA1MzA0MTkwLC0xMjUwOTczNTUyLDIwNzk0Nzc0MjIs
-LTg5MzE1MTc2N119
+eyJoaXN0b3J5IjpbLTExNDE5MDE5ODAsMjg2NDY2MzM4LDM1MD
+kwNDIxOCw4ODE0OTM5OSwtNzMyMTY2MDYzLC0xMDA0MTY1MDM1
+LC02NTc3MTc2NDksLTEzMjYxNDY3OTUsLTE4OTkxNzgyOTgsLT
+E4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUyNzgyNzY3LDE2ODE3
+MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMTE2MTksLTEyMzI0Mj
+UyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1MiwyMDc5NDc3NDIy
+LC04OTMxNTE3NjddfQ==
 -->
