@@ -54,7 +54,7 @@ To open a  report click on report name in the list. once you open the report it 
 
 **13.**  To download the **Visualization Image** of the report,  Select **Show Visualization** in gear drop down then, select  **Download Image.**
 
-**Note :** To download the most recent data information of the report click on **Refresh** in gear drop down before downloading and to download the most recent data information by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
+**Note :** To download the most recent data information of the report click on **Refresh** in gear drop down before downloading and to download the most recent data information, by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/report_ur1.png) Image 2: 
@@ -63,11 +63,11 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNT
-UyNzgyNzY3LDE2ODE3MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIw
-MTE2MTksLTEyMzI0MjUyNzMsMTcwNTMwNDE5MCwtMTI1MDk3Mz
-U1MiwyMDc5NDc3NDIyLC04OTMxNTE3NjcsLTE5NzEyMTgzMDQs
-LTg3NzY1NzYzOCwtMTQwMDA1NDI0MywxMTAzNjI0MTk2LC0yMD
-AzNTgxNDQyLC0xNTYzNzE5MjAyLDczMzIyMTg5OCwxMDk5ODU0
-NTkyLDE2NTIwNjU4ODRdfQ==
+eyJoaXN0b3J5IjpbODY0NTUwMzk2LC0xODE3NzUwNDMwLC00MT
+k0NzI0NywtMTU1Mjc4Mjc2NywxNjgxNzM1ODc4LC0xNjE4MDk3
+NzMwLC0yMDMyMDExNjE5LC0xMjMyNDI1MjczLDE3MDUzMDQxOT
+AsLTEyNTA5NzM1NTIsMjA3OTQ3NzQyMiwtODkzMTUxNzY3LC0x
+OTcxMjE4MzA0LC04Nzc2NTc2MzgsLTE0MDAwNTQyNDMsMTEwMz
+YyNDE5NiwtMjAwMzU4MTQ0MiwtMTU2MzcxOTIwMiw3MzMyMjE4
+OTgsMTA5OTg1NDU5Ml19
 -->
