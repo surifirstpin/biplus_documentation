@@ -19,7 +19,7 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 **4.** To delete a report click on **Delete Icon**.
 
-**5.**  The **circle indicator** at the far right of the screen is used to display whether the dashboard is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings( refer Image 1).
+**5.**  The **Circle indicator** at the far right of the screen is used to display whether the dashboard is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b0099f7179ee34c8f8492190d526ece2479b23b6/images/browse_rep1.png)
@@ -57,8 +57,8 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b0099f7179ee34c8f8492190d526ece2479b23b6/images/browse_rep4.png)
-## Download
 
+## Download
 
 **10.** To download existing report in csv format select **download CSV** in gear drop down in the report initial screen.
  At present, you can download dashboard reports in following formats,
@@ -82,11 +82,11 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3OTA3ODI0LDI4NjQ2NjMzOCwzNTA5MD
-QyMTgsODgxNDkzOTksLTczMjE2NjA2MywtMTAwNDE2NTAzNSwt
-NjU3NzE3NjQ5LC0xMzI2MTQ2Nzk1LC0xODk5MTc4Mjk4LC0xOD
-E3NzUwNDMwLC00MTk0NzI0NywtMTU1Mjc4Mjc2NywxNjgxNzM1
-ODc4LC0xNjE4MDk3NzMwLC0yMDMyMDExNjE5LC0xMjMyNDI1Mj
-czLDE3MDUzMDQxOTAsLTEyNTA5NzM1NTIsMjA3OTQ3NzQyMiwt
-ODkzMTUxNzY3XX0=
+eyJoaXN0b3J5IjpbMTA2NTExMDc4MywyODY0NjYzMzgsMzUwOT
+A0MjE4LDg4MTQ5Mzk5LC03MzIxNjYwNjMsLTEwMDQxNjUwMzUs
+LTY1NzcxNzY0OSwtMTMyNjE0Njc5NSwtMTg5OTE3ODI5OCwtMT
+gxNzc1MDQzMCwtNDE5NDcyNDcsLTE1NTI3ODI3NjcsMTY4MTcz
+NTg3OCwtMTYxODA5NzczMCwtMjAzMjAxMTYxOSwtMTIzMjQyNT
+I3MywxNzA1MzA0MTkwLC0xMjUwOTczNTUyLDIwNzk0Nzc0MjIs
+LTg5MzE1MTc2N119
 -->
