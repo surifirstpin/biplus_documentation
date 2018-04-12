@@ -19,16 +19,6 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 > For instance,  in below example ( image 1) we are adding phone number of the employee to an existing report and apply filter at same time.
 
-**4.** Select dimension field **Employee Phone.**
-
-**5.** Click **Add Rule** to add a new **filter.** 
-
- **6.** Click **Run** to extract the data with one more new dimension field (Phone) and new filter value ( salary equals to 15000).
-
-**7.** Click on **Save** it will navigate to save explore page and add the newly added filters in filter section of save explore page and click **update** to update the changes made or Click Save as to save the report with different name.
-
-> **Note :** You can edit the report from here or edit them after opening the existing report, by selecting edit option from tool bar on top right or from the list icon of the report screen.
-
 **8.** To delete a report click on **Delete Icon**  in dashboard section ( refer Image 1).
 
 **9.**  The circle indicator at the far right of the screen is used to display whether the dashboard is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings( refer Image 1).
@@ -62,11 +52,11 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjgzMjMwOTksLTEzMjYxNDY3OTUsLT
-E4OTkxNzgyOTgsLTE4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUy
-NzgyNzY3LDE2ODE3MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMT
-E2MTksLTEyMzI0MjUyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1
-MiwyMDc5NDc3NDIyLC04OTMxNTE3NjcsLTE5NzEyMTgzMDQsLT
-g3NzY1NzYzOCwtMTQwMDA1NDI0MywxMTAzNjI0MTk2LC0yMDAz
-NTgxNDQyLC0xNTYzNzE5MjAyXX0=
+eyJoaXN0b3J5IjpbLTY4Mjc5NjM4MCwtMTMyNjE0Njc5NSwtMT
+g5OTE3ODI5OCwtMTgxNzc1MDQzMCwtNDE5NDcyNDcsLTE1NTI3
+ODI3NjcsMTY4MTczNTg3OCwtMTYxODA5NzczMCwtMjAzMjAxMT
+YxOSwtMTIzMjQyNTI3MywxNzA1MzA0MTkwLC0xMjUwOTczNTUy
+LDIwNzk0Nzc0MjIsLTg5MzE1MTc2NywtMTk3MTIxODMwNCwtOD
+c3NjU3NjM4LC0xNDAwMDU0MjQzLDExMDM2MjQxOTYsLTIwMDM1
+ODE0NDIsLTE1NjM3MTkyMDJdfQ==
 -->
