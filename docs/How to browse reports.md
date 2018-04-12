@@ -41,7 +41,9 @@ I. Select dimension field **Employee Phone** and click on **Add Rule** to add a 
 
 II. Click **Run** to extract the data with one more new dimension field (Phone) and new filter value ( salary equals to 15000). 
 
-III. finally Click **Save** it will navigate to save explore page and add the newly added filters in filter section of save explore page and to update the changes made click **Update** button, use **Save as** to save the report with different name.
+III. finally Click **Save** it will navigate to save explore page.
+
+ and add the newly added filters in filter section of save explore page and to update the changes made click **Update** button, use **Save as** to save the report with different name.
 
 
 ## Download
@@ -64,11 +66,11 @@ III. finally Click **Save** it will navigate to save explore page and add the ne
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxNDkzOTksLTczMjE2NjA2MywtMTAwND
-E2NTAzNSwtNjU3NzE3NjQ5LC0xMzI2MTQ2Nzk1LC0xODk5MTc4
-Mjk4LC0xODE3NzUwNDMwLC00MTk0NzI0NywtMTU1Mjc4Mjc2Ny
-wxNjgxNzM1ODc4LC0xNjE4MDk3NzMwLC0yMDMyMDExNjE5LC0x
-MjMyNDI1MjczLDE3MDUzMDQxOTAsLTEyNTA5NzM1NTIsMjA3OT
-Q3NzQyMiwtODkzMTUxNzY3LC0xOTcxMjE4MzA0LC04Nzc2NTc2
-MzgsLTE0MDAwNTQyNDNdfQ==
+eyJoaXN0b3J5IjpbLTIwMDQwMjM1MTMsODgxNDkzOTksLTczMj
+E2NjA2MywtMTAwNDE2NTAzNSwtNjU3NzE3NjQ5LC0xMzI2MTQ2
+Nzk1LC0xODk5MTc4Mjk4LC0xODE3NzUwNDMwLC00MTk0NzI0Ny
+wtMTU1Mjc4Mjc2NywxNjgxNzM1ODc4LC0xNjE4MDk3NzMwLC0y
+MDMyMDExNjE5LC0xMjMyNDI1MjczLDE3MDUzMDQxOTAsLTEyNT
+A5NzM1NTIsMjA3OTQ3NzQyMiwtODkzMTUxNzY3LC0xOTcxMjE4
+MzA0LC04Nzc2NTc2MzhdfQ==
 -->
