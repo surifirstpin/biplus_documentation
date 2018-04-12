@@ -17,9 +17,9 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 **3.**  Click on  **Edit** to customize an existing report as per your business needs.
 
-**4.** To delete a report click o **Delete Icon**.
+**4.** To delete a report click on **Delete Icon**.
 
-**5.**  The circle indicator at the far right of the screen is used to display whether the dashboard is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings( refer Image 1).
+**5.**  The **circle indicator** at the far right of the screen is used to display whether the dashboard is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings( refer Image 1).
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b0099f7179ee34c8f8492190d526ece2479b23b6/images/browse_rep1.png)
@@ -82,7 +82,7 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyNTQ2MTMwLDI4NjQ2NjMzOCwzNTA5MD
+eyJoaXN0b3J5IjpbNTg3OTA3ODI0LDI4NjQ2NjMzOCwzNTA5MD
 QyMTgsODgxNDkzOTksLTczMjE2NjA2MywtMTAwNDE2NTAzNSwt
 NjU3NzE3NjQ5LC0xMzI2MTQ2Nzk1LC0xODk5MTc4Mjk4LC0xOD
 E3NzUwNDMwLC00MTk0NzI0NywtMTU1Mjc4Mjc2NywxNjgxNzM1
