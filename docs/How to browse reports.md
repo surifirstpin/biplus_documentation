@@ -3,11 +3,11 @@
 
 <center><h1>How to Browse a Report</h1></center>
 
-BiPlus gives you an opportunity to browse the reports created by other in there organisation. This section gives a clear information on how to view the reports created.
+BiPlus gives you an opportunity to browse the reports created by other user in there organisation. This section gives a clear information on how to view the reports created.
 
 ## Getting Started
 
-BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in email and register for BiPlus account. After Login with your credentials;
+BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in email and register for BiPlus account. After Logging in with your credentials;
 
 **1.** Click  **Dashboard Section** It displays list of  reports created. 
 
@@ -82,7 +82,7 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE5MDE5ODAsMjg2NDY2MzM4LDM1MD
+eyJoaXN0b3J5IjpbLTE1NjI1NjI3MzgsMjg2NDY2MzM4LDM1MD
 kwNDIxOCw4ODE0OTM5OSwtNzMyMTY2MDYzLC0xMDA0MTY1MDM1
 LC02NTc3MTc2NDksLTEzMjYxNDY3OTUsLTE4OTkxNzgyOTgsLT
 E4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUyNzgyNzY3LDE2ODE3
