@@ -30,9 +30,6 @@ After Login Click  **Dashboard Section** It displays list of  reports created. Y
 
 **8.**  The circle indicator at the far right of the screen is used to display whether the dashboard is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/master/images/report_mian.png) Image 1 :
-
 To open a  report click on report name in the list. once you open the report it will display set of options as described below,
 
 **9. Filter** section available on top left of the report screen, displays already existing filters in a report. You can add additional filters using **Add filters** button and to apply the added filters click on **Apply** button and finally click **Save** to save the data with newly added filters.
@@ -56,18 +53,17 @@ To open a  report click on report name in the list. once you open the report it 
 
 **Note :** To download the most recent data information of the report click on **Refresh** in gear drop down before downloading and to download the most recent data information, by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/master/images/report_ur1.png) Image 2: 
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0NTUwMzk2LC0xODE3NzUwNDMwLC00MT
-k0NzI0NywtMTU1Mjc4Mjc2NywxNjgxNzM1ODc4LC0xNjE4MDk3
-NzMwLC0yMDMyMDExNjE5LC0xMjMyNDI1MjczLDE3MDUzMDQxOT
-AsLTEyNTA5NzM1NTIsMjA3OTQ3NzQyMiwtODkzMTUxNzY3LC0x
-OTcxMjE4MzA0LC04Nzc2NTc2MzgsLTE0MDAwNTQyNDMsMTEwMz
-YyNDE5NiwtMjAwMzU4MTQ0MiwtMTU2MzcxOTIwMiw3MzMyMjE4
-OTgsMTA5OTg1NDU5Ml19
+eyJoaXN0b3J5IjpbMTQ2MjM5NjU4MCwtMTgxNzc1MDQzMCwtND
+E5NDcyNDcsLTE1NTI3ODI3NjcsMTY4MTczNTg3OCwtMTYxODA5
+NzczMCwtMjAzMjAxMTYxOSwtMTIzMjQyNTI3MywxNzA1MzA0MT
+kwLC0xMjUwOTczNTUyLDIwNzk0Nzc0MjIsLTg5MzE1MTc2Nywt
+MTk3MTIxODMwNCwtODc3NjU3NjM4LC0xNDAwMDU0MjQzLDExMD
+M2MjQxOTYsLTIwMDM1ODE0NDIsLTE1NjM3MTkyMDIsNzMzMjIx
+ODk4LDEwOTk4NTQ1OTJdfQ==
 -->
