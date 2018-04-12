@@ -29,22 +29,17 @@ To open a  report click on report name in the list. once you open the report it 
 
 **7.** To delete the existing Report filters click **Delete** it will permanently delete the filters from report.
 
-> Note : You can also **Edit** and **delete** the report from the same screen by clicking on there icons available on the top right of the screen or in the list drop down.
-
 **8.** You can set the existing report to full screen by selecting **Full screen** option in list drop down.
 
-**13.** To download existing report in csv format select **download CSV** in gear drop down.
+**9.** To download existing report in csv format select **download CSV** in gear drop down.
  At present, you can download dashboard reports in following formats,
  - CSV
  - .XLS
 -  PNG
 
-**14.**  To download the **Visualization Image** of the report,  Select **Show Visualization** in gear drop down then, select  **Download Image.**
+**10.**  To download the **Visualization Image** of the report,  Select **Show Visualization** in gear drop down then, select  **Download Image.**
 
 **Note :** To download the most recent data information of the report click on **Refresh** in gear drop down before downloading and to download the most recent data information, by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
-
-
-
 
 > **Note :** You can edit the report from here or edit them after opening the existing report, by selecting edit option from tool bar on top right or from the list icon of the report screen.
 
@@ -65,11 +60,11 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTE5NDg0NiwtMTMyNjE0Njc5NSwtMT
-g5OTE3ODI5OCwtMTgxNzc1MDQzMCwtNDE5NDcyNDcsLTE1NTI3
-ODI3NjcsMTY4MTczNTg3OCwtMTYxODA5NzczMCwtMjAzMjAxMT
-YxOSwtMTIzMjQyNTI3MywxNzA1MzA0MTkwLC0xMjUwOTczNTUy
-LDIwNzk0Nzc0MjIsLTg5MzE1MTc2NywtMTk3MTIxODMwNCwtOD
-c3NjU3NjM4LC0xNDAwMDU0MjQzLDExMDM2MjQxOTYsLTIwMDM1
-ODE0NDIsLTE1NjM3MTkyMDJdfQ==
+eyJoaXN0b3J5IjpbLTEzNzMwMjg0MDUsLTEzMjYxNDY3OTUsLT
+E4OTkxNzgyOTgsLTE4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUy
+NzgyNzY3LDE2ODE3MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMT
+E2MTksLTEyMzI0MjUyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1
+MiwyMDc5NDc3NDIyLC04OTMxNTE3NjcsLTE5NzEyMTgzMDQsLT
+g3NzY1NzYzOCwtMTQwMDA1NDI0MywxMTAzNjI0MTk2LC0yMDAz
+NTgxNDQyLC0xNTYzNzE5MjAyXX0=
 -->
