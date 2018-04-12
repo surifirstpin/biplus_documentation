@@ -48,13 +48,15 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 
 ## Download
-**13** To download existing report in csv format select **download CSV** in gear drop down.
+
+
+**10** To download existing report in csv format select **download CSV** in gear drop down in the report initial screen.
  At present, you can download dashboard reports in following formats,
  - CSV
  - .XLS
 -  PNG
 
-**14.**  To download the **Visualization Image** of the report,  Select **Show Visualization** in gear drop down then, select  **Download Image.**
+**11.**  To download the **Visualization Image** of the report,  Select **Show Visualization** in gear drop down then, select  **Download Image.**
 
 **Note :** To download the most recent data information of the report click on **Refresh** in gear drop down before downloading and to download the most recent data information, by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
 
@@ -67,11 +69,11 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwOTA0MjE4LDg4MTQ5Mzk5LC03MzIxNj
-YwNjMsLTEwMDQxNjUwMzUsLTY1NzcxNzY0OSwtMTMyNjE0Njc5
-NSwtMTg5OTE3ODI5OCwtMTgxNzc1MDQzMCwtNDE5NDcyNDcsLT
-E1NTI3ODI3NjcsMTY4MTczNTg3OCwtMTYxODA5NzczMCwtMjAz
-MjAxMTYxOSwtMTIzMjQyNTI3MywxNzA1MzA0MTkwLC0xMjUwOT
-czNTUyLDIwNzk0Nzc0MjIsLTg5MzE1MTc2NywtMTk3MTIxODMw
-NCwtODc3NjU3NjM4XX0=
+eyJoaXN0b3J5IjpbMjg2NDY2MzM4LDM1MDkwNDIxOCw4ODE0OT
+M5OSwtNzMyMTY2MDYzLC0xMDA0MTY1MDM1LC02NTc3MTc2NDks
+LTEzMjYxNDY3OTUsLTE4OTkxNzgyOTgsLTE4MTc3NTA0MzAsLT
+QxOTQ3MjQ3LC0xNTUyNzgyNzY3LDE2ODE3MzU4NzgsLTE2MTgw
+OTc3MzAsLTIwMzIwMTE2MTksLTEyMzI0MjUyNzMsMTcwNTMwND
+E5MCwtMTI1MDk3MzU1MiwyMDc5NDc3NDIyLC04OTMxNTE3Njcs
+LTE5NzEyMTgzMDRdfQ==
 -->
