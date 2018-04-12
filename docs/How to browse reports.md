@@ -35,10 +35,14 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 > For example :
  
-Select dimension field **Employee Phone** and click on **Add Rule** to add a new **filter** ( as shown in image 3). 
- Click **Run** to extract the data with one more new dimension field (Phone) and new filter value ( salary equals to 15000). finally Click **Save** it will navigate to save explore page and add the newly added filters in filter section of save explore page and to update the changes made click **Update** button, use **Save as** to save the report with different name.
+I. Select dimension field **Employee Phone** and click on **Add Rule** to add a new **filter** ( as shown in image 3). 
+
+II. Click **Run** to extract the data with one more new dimension field (Phone) and new filter value ( salary equals to 15000). 
+
+III. finally Click **Save** it will navigate to save explore page and add the newly added filters in filter section of save explore page and to update the changes made click **Update** button, use **Save as** to save the report with different name.
 
 **12** You can set the existing report to full screen by selecting **Full screen** option in list drop down.
+
 ## Download
 **13** To download existing report in csv format select **download CSV** in gear drop down.
  At present, you can download dashboard reports in following formats,
@@ -59,11 +63,11 @@ Select dimension field **Employee Phone** and click on **Add Rule** to add a new
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwOTAwMjc5LC03MzIxNjYwNjMsLTEwMD
-QxNjUwMzUsLTY1NzcxNzY0OSwtMTMyNjE0Njc5NSwtMTg5OTE3
-ODI5OCwtMTgxNzc1MDQzMCwtNDE5NDcyNDcsLTE1NTI3ODI3Nj
-csMTY4MTczNTg3OCwtMTYxODA5NzczMCwtMjAzMjAxMTYxOSwt
-MTIzMjQyNTI3MywxNzA1MzA0MTkwLC0xMjUwOTczNTUyLDIwNz
-k0Nzc0MjIsLTg5MzE1MTc2NywtMTk3MTIxODMwNCwtODc3NjU3
-NjM4LC0xNDAwMDU0MjQzXX0=
+eyJoaXN0b3J5IjpbLTY3OTc4NDk0OSwtNzMyMTY2MDYzLC0xMD
+A0MTY1MDM1LC02NTc3MTc2NDksLTEzMjYxNDY3OTUsLTE4OTkx
+NzgyOTgsLTE4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUyNzgyNz
+Y3LDE2ODE3MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMTE2MTks
+LTEyMzI0MjUyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1MiwyMD
+c5NDc3NDIyLC04OTMxNTE3NjcsLTE5NzEyMTgzMDQsLTg3NzY1
+NzYzOCwtMTQwMDA1NDI0M119
 -->
