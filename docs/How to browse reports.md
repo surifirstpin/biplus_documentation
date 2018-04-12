@@ -31,9 +31,9 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 ## Edit Report
 
- **8.** Click edit on tool bar or from the list icon of the existing report screen. it displays the reports,  add phone number of the employee to an existing report and apply filter at same time ( Refer image 3)
-
-Select dimension field **Employee Phone** and click on **Add Rule** to add a new **filter.** 
+ **8.** Click edit on tool bar or from the list icon of the existing report screen. it displays the reports,  add phone number of the employee to an existing report and apply filter at same time.
+ 
+Select dimension field **Employee Phone** and click on **Add Rule** to add a new **filter** ( as shown in image 3). 
 
 **10.** Click **Run** to extract the data with one more new dimension field (Phone) and new filter value ( salary equals to 15000).
 
@@ -60,11 +60,11 @@ Select dimension field **Employee Phone** and click on **Add Rule** to add a new
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDc3NjE1NjMsLTczMjE2NjA2MywtMT
-AwNDE2NTAzNSwtNjU3NzE3NjQ5LC0xMzI2MTQ2Nzk1LC0xODk5
-MTc4Mjk4LC0xODE3NzUwNDMwLC00MTk0NzI0NywtMTU1Mjc4Mj
-c2NywxNjgxNzM1ODc4LC0xNjE4MDk3NzMwLC0yMDMyMDExNjE5
-LC0xMjMyNDI1MjczLDE3MDUzMDQxOTAsLTEyNTA5NzM1NTIsMj
-A3OTQ3NzQyMiwtODkzMTUxNzY3LC0xOTcxMjE4MzA0LC04Nzc2
-NTc2MzgsLTE0MDAwNTQyNDNdfQ==
+eyJoaXN0b3J5IjpbMjEzNTQ4OTg0MywtNzMyMTY2MDYzLC0xMD
+A0MTY1MDM1LC02NTc3MTc2NDksLTEzMjYxNDY3OTUsLTE4OTkx
+NzgyOTgsLTE4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUyNzgyNz
+Y3LDE2ODE3MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMTE2MTks
+LTEyMzI0MjUyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1MiwyMD
+c5NDc3NDIyLC04OTMxNTE3NjcsLTE5NzEyMTgzMDQsLTg3NzY1
+NzYzOCwtMTQwMDA1NDI0M119
 -->
