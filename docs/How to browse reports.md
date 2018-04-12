@@ -17,13 +17,16 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 **3.**  Click on  **Edit** to customize an existing report as per your business needs.
 
-> For instance,  in below example ( image 1) we are adding phone number of the employee to an existing report and apply filter at same time.
+
 
 **4.** To delete a report click on **Delete Icon**  in dashboard section ( refer Image 1).
 
 **5.**  The circle indicator at the far right of the screen is used to display whether the dashboard is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings( refer Image 1).
 
 > **Note :** You can edit the report from here or edit them after opening the existing report, by selecting edit option from tool bar on top right or from the list icon of the report screen.
+
+> For instance,  in below example ( image 1) we are adding phone number of the employee to an existing report and apply filter at same time.
+> 
 **6.** Select dimension field **Employee Phone.**
 
 **5.** Click **Add Rule** to add a new **filter.** 
@@ -33,7 +36,6 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 **7.** Click on **Save** it will navigate to save explore page and add the newly added filters in filter section of save explore page and click **update** to update the changes made or Click Save as to save the report with different name.
 
 
-To open a  report click on report name in the list. once you open the report it will display set of options as described below,
 
 **10. Filter** section available on top left of the report screen, displays already existing filters in a report. You can add additional filters using **Add filters** button and to apply the added filters click on **Apply** button and finally click **Save** to save the data with newly added filters.
 
@@ -62,11 +64,11 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTIwODExMDksLTEzMjYxNDY3OTUsLT
-E4OTkxNzgyOTgsLTE4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUy
-NzgyNzY3LDE2ODE3MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMT
-E2MTksLTEyMzI0MjUyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1
-MiwyMDc5NDc3NDIyLC04OTMxNTE3NjcsLTE5NzEyMTgzMDQsLT
-g3NzY1NzYzOCwtMTQwMDA1NDI0MywxMTAzNjI0MTk2LC0yMDAz
-NTgxNDQyLC0xNTYzNzE5MjAyXX0=
+eyJoaXN0b3J5IjpbMTE4MDQxMDQsLTEzMjYxNDY3OTUsLTE4OT
+kxNzgyOTgsLTE4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUyNzgy
+NzY3LDE2ODE3MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMTE2MT
+ksLTEyMzI0MjUyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1Miwy
+MDc5NDc3NDIyLC04OTMxNTE3NjcsLTE5NzEyMTgzMDQsLTg3Nz
+Y1NzYzOCwtMTQwMDA1NDI0MywxMTAzNjI0MTk2LC0yMDAzNTgx
+NDQyLC0xNTYzNzE5MjAyXX0=
 -->
