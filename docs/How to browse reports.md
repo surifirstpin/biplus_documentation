@@ -49,12 +49,14 @@ II. Click **Run** to extract the data with one more new dimension field (Phone) 
 
 III. finally Click **Save** it will navigate to save explore page.
 
-In Save Explore page, add the newly added filters in filter section and to update the changes made.
-Click **Update** button, use **Save as** to save the report with different name.
-
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b0099f7179ee34c8f8492190d526ece2479b23b6/images/browse_rep3.png)
 
+In **Save Explore page, add the newly added filters in filter section and to update the changes made.
+Click **Update** button, use **Save as** to save the report with different name.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/b0099f7179ee34c8f8492190d526ece2479b23b6/images/browse_rep4.png)
 ## Download
 
 
@@ -77,11 +79,11 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQ2MzUxNDEsMjg2NDY2MzM4LDM1MD
-kwNDIxOCw4ODE0OTM5OSwtNzMyMTY2MDYzLC0xMDA0MTY1MDM1
-LC02NTc3MTc2NDksLTEzMjYxNDY3OTUsLTE4OTkxNzgyOTgsLT
-E4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUyNzgyNzY3LDE2ODE3
-MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMTE2MTksLTEyMzI0Mj
-UyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1MiwyMDc5NDc3NDIy
-LC04OTMxNTE3NjddfQ==
+eyJoaXN0b3J5IjpbMTYwMTI3NzI4MCwyODY0NjYzMzgsMzUwOT
+A0MjE4LDg4MTQ5Mzk5LC03MzIxNjYwNjMsLTEwMDQxNjUwMzUs
+LTY1NzcxNzY0OSwtMTMyNjE0Njc5NSwtMTg5OTE3ODI5OCwtMT
+gxNzc1MDQzMCwtNDE5NDcyNDcsLTE1NTI3ODI3NjcsMTY4MTcz
+NTg3OCwtMTYxODA5NzczMCwtMjAzMjAxMTYxOSwtMTIzMjQyNT
+I3MywxNzA1MzA0MTkwLC0xMjUwOTczNTUyLDIwNzk0Nzc0MjIs
+LTg5MzE1MTc2N119
 -->
