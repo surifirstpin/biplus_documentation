@@ -29,9 +29,9 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 > **Note :** You can edit the report from here or edit them after opening the existing report, by selecting edit option from tool bar on top right or from the list icon of the report screen.
 
-**8.** To delete a report click on **Delete Icon**  in dashboard section.
+**8.** To delete a report click on **Delete Icon**  in dashboard section ( refer Image 1).
 
-**9.**  The circle indicator at the far right of the screen is used to display whether the dashboard is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings.
+**9.**  The circle indicator at the far right of the screen is used to display whether the dashboard is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings( refer Image 1).
 
 To open a  report click on report name in the list. once you open the report it will display set of options as described below,
 
@@ -62,11 +62,11 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjYxNDY3OTUsLTE4OTkxNzgyOTgsLT
-E4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUyNzgyNzY3LDE2ODE3
-MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMTE2MTksLTEyMzI0Mj
-UyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1MiwyMDc5NDc3NDIy
-LC04OTMxNTE3NjcsLTE5NzEyMTgzMDQsLTg3NzY1NzYzOCwtMT
-QwMDA1NDI0MywxMTAzNjI0MTk2LC0yMDAzNTgxNDQyLC0xNTYz
-NzE5MjAyLDczMzIyMTg5OF19
+eyJoaXN0b3J5IjpbLTE0NjgzMjMwOTksLTEzMjYxNDY3OTUsLT
+E4OTkxNzgyOTgsLTE4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUy
+NzgyNzY3LDE2ODE3MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMT
+E2MTksLTEyMzI0MjUyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1
+MiwyMDc5NDc3NDIyLC04OTMxNTE3NjcsLTE5NzEyMTgzMDQsLT
+g3NzY1NzYzOCwtMTQwMDA1NDI0MywxMTAzNjI0MTk2LC0yMDAz
+NTgxNDQyLC0xNTYzNzE5MjAyXX0=
 -->
