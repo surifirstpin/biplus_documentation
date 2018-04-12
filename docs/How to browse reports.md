@@ -7,9 +7,11 @@ BiPlus gives you an opportunity to browse the reports created by other in there 
 
 ## Getting Started
 
-BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in email and register for BiPlus account. 
+BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in email and register for BiPlus account. After Login with your credentials;
 
-**1.** Click  **Dashboard Section** It displays list of  reports created. You can directly search a report by using the **Search Option** or click on the desired report from the list to open it.
+**1.** Click  **Dashboard Section** It displays list of  reports created. 
+
+> **Note :** You can directly search a report by using the **Search Option** or click on the desired report from the list to open it.
 
 **1. Set home page icon** is used to set the report to home page screen.
 
@@ -60,11 +62,11 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDY3NDA0NCwtMTg5OTE3ODI5OCwtMT
-gxNzc1MDQzMCwtNDE5NDcyNDcsLTE1NTI3ODI3NjcsMTY4MTcz
-NTg3OCwtMTYxODA5NzczMCwtMjAzMjAxMTYxOSwtMTIzMjQyNT
-I3MywxNzA1MzA0MTkwLC0xMjUwOTczNTUyLDIwNzk0Nzc0MjIs
-LTg5MzE1MTc2NywtMTk3MTIxODMwNCwtODc3NjU3NjM4LC0xND
-AwMDU0MjQzLDExMDM2MjQxOTYsLTIwMDM1ODE0NDIsLTE1NjM3
-MTkyMDIsNzMzMjIxODk4XX0=
+eyJoaXN0b3J5IjpbLTEwMTI2OTk5MDUsLTE4OTkxNzgyOTgsLT
+E4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUyNzgyNzY3LDE2ODE3
+MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMTE2MTksLTEyMzI0Mj
+UyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1MiwyMDc5NDc3NDIy
+LC04OTMxNTE3NjcsLTE5NzEyMTgzMDQsLTg3NzY1NzYzOCwtMT
+QwMDA1NDI0MywxMTAzNjI0MTk2LC0yMDAzNTgxNDQyLC0xNTYz
+NzE5MjAyLDczMzIyMTg5OF19
 -->
