@@ -29,6 +29,18 @@ To open a  report click on report name in the list. once you open the report it 
 
 **7.** To delete the existing Report filters click **Delete** it will permanently delete the filters from report.
 
+> **Note :** You can edit the report from here or edit them after opening the existing report, by selecting edit option from tool bar on top right or from the list icon of the report screen.
+
+> For instance,  in below example ( image 1) we are adding phone number of the employee to an existing report and apply filter at same time.
+
+**8.** Select dimension field **Employee Phone.**
+
+**9.** Click **Add Rule** to add a new **filter.** 
+
+**10.** Click **Run** to extract the data with one more new dimension field (Phone) and new filter value ( salary equals to 15000).
+
+**7.** Click on **Save** it will navigate to save explore page and add the newly added filters in filter section of save explore page and click **update** to update the changes made or Click Save as to save the report with different name.
+
 **8.** You can set the existing report to full screen by selecting **Full screen** option in list drop down.
 
 **9.** To download existing report in csv format select **download CSV** in gear drop down.
@@ -41,17 +53,7 @@ To open a  report click on report name in the list. once you open the report it 
 
 **Note :** To download the most recent data information of the report click on **Refresh** in gear drop down before downloading and to download the most recent data information, by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
 
-> **Note :** You can edit the report from here or edit them after opening the existing report, by selecting edit option from tool bar on top right or from the list icon of the report screen.
 
-> For instance,  in below example ( image 1) we are adding phone number of the employee to an existing report and apply filter at same time.
-
-**6.** Select dimension field **Employee Phone.**
-
-**5.** Click **Add Rule** to add a new **filter.** 
-
- **6.** Click **Run** to extract the data with one more new dimension field (Phone) and new filter value ( salary equals to 15000).
-
-**7.** Click on **Save** it will navigate to save explore page and add the newly added filters in filter section of save explore page and click **update** to update the changes made or Click Save as to save the report with different name.
 
 
 
@@ -60,11 +62,11 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzMwMjg0MDUsLTEzMjYxNDY3OTUsLT
-E4OTkxNzgyOTgsLTE4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUy
-NzgyNzY3LDE2ODE3MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMT
-E2MTksLTEyMzI0MjUyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1
-MiwyMDc5NDc3NDIyLC04OTMxNTE3NjcsLTE5NzEyMTgzMDQsLT
-g3NzY1NzYzOCwtMTQwMDA1NDI0MywxMTAzNjI0MTk2LC0yMDAz
-NTgxNDQyLC0xNTYzNzE5MjAyXX0=
+eyJoaXN0b3J5IjpbLTU2MDEwOTcyLC0xMzI2MTQ2Nzk1LC0xOD
+k5MTc4Mjk4LC0xODE3NzUwNDMwLC00MTk0NzI0NywtMTU1Mjc4
+Mjc2NywxNjgxNzM1ODc4LC0xNjE4MDk3NzMwLC0yMDMyMDExNj
+E5LC0xMjMyNDI1MjczLDE3MDUzMDQxOTAsLTEyNTA5NzM1NTIs
+MjA3OTQ3NzQyMiwtODkzMTUxNzY3LC0xOTcxMjE4MzA0LC04Nz
+c2NTc2MzgsLTE0MDAwNTQyNDMsMTEwMzYyNDE5NiwtMjAwMzU4
+MTQ0MiwtMTU2MzcxOTIwMl19
 -->
