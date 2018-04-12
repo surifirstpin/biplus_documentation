@@ -28,8 +28,9 @@ To open a  report click on report name in the list. once you open the report it 
 > Note : To restore the data based on Previous Filter Click on  **Restore default filters** Icon at top left beside filter section.
 
 **7.** To delete the existing Report filters click **Delete** it will permanently delete the filters from report.
+## Edit Report
 
-> **Note :** You can edit the report from here or edit them after opening the existing report, by selecting edit option from tool bar on top right or from the list icon of the report screen.
+ You can edit the report  after opening the existing report, by selecting edit option from tool bar on top right or from the list icon of the report screen.
 
 > For instance,  in below example ( image 1) we are adding phone number of the employee to an existing report and apply filter at same time.
 
@@ -39,17 +40,17 @@ To open a  report click on report name in the list. once you open the report it 
 
 **10.** Click **Run** to extract the data with one more new dimension field (Phone) and new filter value ( salary equals to 15000).
 
-**7.** Click on **Save** it will navigate to save explore page and add the newly added filters in filter section of save explore page and click **update** to update the changes made or Click Save as to save the report with different name.
+**11** Click on **Save** it will navigate to save explore page and add the newly added filters in filter section of save explore page and click **update** to update the changes made or Click Save as to save the report with different name.
 
-**8.** You can set the existing report to full screen by selecting **Full screen** option in list drop down.
-
-**9.** To download existing report in csv format select **download CSV** in gear drop down.
+**12** You can set the existing report to full screen by selecting **Full screen** option in list drop down.
+## Download
+**13** To download existing report in csv format select **download CSV** in gear drop down.
  At present, you can download dashboard reports in following formats,
  - CSV
  - .XLS
 -  PNG
 
-**10.**  To download the **Visualization Image** of the report,  Select **Show Visualization** in gear drop down then, select  **Download Image.**
+**14.**  To download the **Visualization Image** of the report,  Select **Show Visualization** in gear drop down then, select  **Download Image.**
 
 **Note :** To download the most recent data information of the report click on **Refresh** in gear drop down before downloading and to download the most recent data information, by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
 
@@ -62,7 +63,7 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDEwOTcyLC0xMzI2MTQ2Nzk1LC0xOD
+eyJoaXN0b3J5IjpbNzgyMDE5MjMwLC0xMzI2MTQ2Nzk1LC0xOD
 k5MTc4Mjk4LC0xODE3NzUwNDMwLC00MTk0NzI0NywtMTU1Mjc4
 Mjc2NywxNjgxNzM1ODc4LC0xNjE4MDk3NzMwLC0yMDMyMDExNj
 E5LC0xMjMyNDI1MjczLDE3MDUzMDQxOTAsLTEyNTA5NzM1NTIs
