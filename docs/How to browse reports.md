@@ -29,9 +29,11 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 **7.** To delete the existing Report filters click **Delete** it will permanently delete the filters from report.
 
+**8** You can set the existing report to full screen by selecting **Full screen** option in list drop down.
+
 ## Edit Report
 
- **8.** Click edit on tool bar or from the list icon of the existing report screen. it displays the reports,  add phone number of the employee to an existing report and apply filter at same time.
+ **9.** Click edit on tool bar or from the list icon of the existing report screen. it displays the reports,  add phone number of the employee to an existing report and apply filter at same time.
 
 > For example :
  
@@ -40,7 +42,6 @@ I. Select dimension field **Employee Phone** and click on **Add Rule** to add a 
 II. Click **Run** to extract the data with one more new dimension field (Phone) and new filter value ( salary equals to 15000). 
 
 III. finally Click **Save** it will navigate to save explore page and add the newly added filters in filter section of save explore page and to update the changes made click **Update** button, use **Save as** to save the report with different name.
-
 
 
 ## Download
@@ -63,11 +64,11 @@ III. finally Click **Save** it will navigate to save explore page and add the ne
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzYyMjk3MCwtNzMyMTY2MDYzLC0xMD
-A0MTY1MDM1LC02NTc3MTc2NDksLTEzMjYxNDY3OTUsLTE4OTkx
-NzgyOTgsLTE4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUyNzgyNz
-Y3LDE2ODE3MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMTE2MTks
-LTEyMzI0MjUyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1MiwyMD
-c5NDc3NDIyLC04OTMxNTE3NjcsLTE5NzEyMTgzMDQsLTg3NzY1
-NzYzOCwtMTQwMDA1NDI0M119
+eyJoaXN0b3J5IjpbODgxNDkzOTksLTczMjE2NjA2MywtMTAwND
+E2NTAzNSwtNjU3NzE3NjQ5LC0xMzI2MTQ2Nzk1LC0xODk5MTc4
+Mjk4LC0xODE3NzUwNDMwLC00MTk0NzI0NywtMTU1Mjc4Mjc2Ny
+wxNjgxNzM1ODc4LC0xNjE4MDk3NzMwLC0yMDMyMDExNjE5LC0x
+MjMyNDI1MjczLDE3MDUzMDQxOTAsLTEyNTA5NzM1NTIsMjA3OT
+Q3NzQyMiwtODkzMTUxNzY3LC0xOTcxMjE4MzA0LC04Nzc2NTc2
+MzgsLTE0MDAwNTQyNDNdfQ==
 -->
