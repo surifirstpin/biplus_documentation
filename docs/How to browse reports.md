@@ -34,6 +34,9 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 **8** You can set the existing report to full screen by selecting **Full screen** option in list drop down.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/b0099f7179ee34c8f8492190d526ece2479b23b6/images/browse_rep2.png)
+
 ## Edit Report
 
  **9.** Click edit on tool bar or from the list icon of the existing report screen. it displays the reports,  add phone number of the employee to an existing report and apply filter at same time.
@@ -49,6 +52,8 @@ III. finally Click **Save** it will navigate to save explore page.
 In Save Explore page, add the newly added filters in filter section and to update the changes made.
 Click **Update** button, use **Save as** to save the report with different name.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/b0099f7179ee34c8f8492190d526ece2479b23b6/images/browse_rep3.png)
 
 ## Download
 
@@ -72,7 +77,7 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY5NTc3NjQsMjg2NDY2MzM4LDM1MD
+eyJoaXN0b3J5IjpbLTEyNTQ2MzUxNDEsMjg2NDY2MzM4LDM1MD
 kwNDIxOCw4ODE0OTM5OSwtNzMyMTY2MDYzLC0xMDA0MTY1MDM1
 LC02NTc3MTc2NDksLTEzMjYxNDY3OTUsLTE4OTkxNzgyOTgsLT
 E4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUyNzgyNzY3LDE2ODE3
