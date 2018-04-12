@@ -11,7 +11,7 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 **1.** Click  **Dashboard Section** It displays list of  reports created. 
 
-> **Note :** You can directly search a report in **Search bar ** or click on the desired report from the list to open it.
+> **Note :** You can directly search a report in **Search bar** or click on the desired report from the list to open it.
 
 **2. Set home page icon** is used to set the report to home page screen.
 
@@ -82,7 +82,7 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDczMjY3MywyODY0NjYzMzgsMzUwOT
+eyJoaXN0b3J5IjpbMTY0ODA4NjI3MSwyODY0NjYzMzgsMzUwOT
 A0MjE4LDg4MTQ5Mzk5LC03MzIxNjYwNjMsLTEwMDQxNjUwMzUs
 LTY1NzcxNzY0OSwtMTMyNjE0Njc5NSwtMTg5OTE3ODI5OCwtMT
 gxNzc1MDQzMCwtNDE5NDcyNDcsLTE1NTI3ODI3NjcsMTY4MTcz
