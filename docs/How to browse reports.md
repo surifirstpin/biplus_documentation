@@ -14,7 +14,7 @@ After Login Click  **Dashboard Section** It displays list of  reports created. Y
 
 **2.**  Click on  **Edit** to customize an existing report as per your business needs.
 
-> For instance,   add phone number of the employee to an existing report and apply filter at same time, follow the below steps.
+> For instance,  in below example ( image 1) we are adding phone number of the employee to an existing report and apply filter at same time, follow the below steps.
 
 **3.** Select dimension field **Employee Phone.**
 
@@ -63,11 +63,11 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTU0NzQxNDgsLTE1NTI3ODI3NjcsMT
-Y4MTczNTg3OCwtMTYxODA5NzczMCwtMjAzMjAxMTYxOSwtMTIz
-MjQyNTI3MywxNzA1MzA0MTkwLC0xMjUwOTczNTUyLDIwNzk0Nz
-c0MjIsLTg5MzE1MTc2NywtMTk3MTIxODMwNCwtODc3NjU3NjM4
-LC0xNDAwMDU0MjQzLDExMDM2MjQxOTYsLTIwMDM1ODE0NDIsLT
-E1NjM3MTkyMDIsNzMzMjIxODk4LDEwOTk4NTQ1OTIsMTY1MjA2
-NTg4NCwxNTA2MzQzNTAwXX0=
+eyJoaXN0b3J5IjpbLTQxOTQ3MjQ3LC0xNTUyNzgyNzY3LDE2OD
+E3MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMTE2MTksLTEyMzI0
+MjUyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1MiwyMDc5NDc3ND
+IyLC04OTMxNTE3NjcsLTE5NzEyMTgzMDQsLTg3NzY1NzYzOCwt
+MTQwMDA1NDI0MywxMTAzNjI0MTk2LC0yMDAzNTgxNDQyLC0xNT
+YzNzE5MjAyLDczMzIyMTg5OCwxMDk5ODU0NTkyLDE2NTIwNjU4
+ODQsMTUwNjM0MzUwMF19
 -->
