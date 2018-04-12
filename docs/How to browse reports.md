@@ -43,7 +43,9 @@ II. Click **Run** to extract the data with one more new dimension field (Phone) 
 
 III. finally Click **Save** it will navigate to save explore page.
 
- and add the newly added filters in filter section of save explore page and to update the changes made click **Update** button, use **Save as** to save the report with different name.
+In Save Explore page, add the newly added filters in filter section and to update the changes made.
+
+ Click **Update** button, use **Save as** to save the report with different name.
 
 
 ## Download
@@ -66,7 +68,7 @@ III. finally Click **Save** it will navigate to save explore page.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQwMjM1MTMsODgxNDkzOTksLTczMj
+eyJoaXN0b3J5IjpbLTE0MTcyNTc0OTgsODgxNDkzOTksLTczMj
 E2NjA2MywtMTAwNDE2NTAzNSwtNjU3NzE3NjQ5LC0xMzI2MTQ2
 Nzk1LC0xODk5MTc4Mjk4LC0xODE3NzUwNDMwLC00MTk0NzI0Ny
 wtMTU1Mjc4Mjc2NywxNjgxNzM1ODc4LC0xNjE4MDk3NzMwLC0y
