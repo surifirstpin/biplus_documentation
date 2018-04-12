@@ -8,6 +8,7 @@ BiPlus gives you an opportunity to browse the reports created by other in there 
 ## Getting Started
 
 BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in email and register for BiPlus account. 
+
 After Login Click  **Dashboard Section** It displays list of  reports created. You can directly search a report by using the **Search Option** or click on the desired report from the list to open it.
 
 **1. Set home page icon** is used to set the report to home page screen.
@@ -59,7 +60,7 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjM5NjU4MCwtMTgxNzc1MDQzMCwtND
+eyJoaXN0b3J5IjpbLTYwNzQ3NDc5OCwtMTgxNzc1MDQzMCwtND
 E5NDcyNDcsLTE1NTI3ODI3NjcsMTY4MTczNTg3OCwtMTYxODA5
 NzczMCwtMjAzMjAxMTYxOSwtMTIzMjQyNTI3MywxNzA1MzA0MT
 kwLC0xMjUwOTczNTUyLDIwNzk0Nzc0MjIsLTg5MzE1MTc2Nywt
