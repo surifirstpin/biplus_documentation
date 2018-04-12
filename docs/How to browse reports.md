@@ -28,9 +28,10 @@ To open a  report click on report name in the list. once you open the report it 
 > Note : To restore the data based on Previous Filter Click on  **Restore default filters** Icon at top left beside filter section.
 
 **7.** To delete the existing Report filters click **Delete** it will permanently delete the filters from report.
+
 ## Edit Report
 
- You can edit the report  after opening the existing report, by selecting edit option from tool bar on top right or from the list icon of the report screen.
+ You can also edit the report, after opening the existing report, by selecting edit option from tool bar on top right or from the list icon of the report screen.
 
 > For instance,  in below example ( image 1) we are adding phone number of the employee to an existing report and apply filter at same time.
 
@@ -63,11 +64,11 @@ To open a  report click on report name in the list. once you open the report it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyMDE5MjMwLC0xMzI2MTQ2Nzk1LC0xOD
-k5MTc4Mjk4LC0xODE3NzUwNDMwLC00MTk0NzI0NywtMTU1Mjc4
-Mjc2NywxNjgxNzM1ODc4LC0xNjE4MDk3NzMwLC0yMDMyMDExNj
-E5LC0xMjMyNDI1MjczLDE3MDUzMDQxOTAsLTEyNTA5NzM1NTIs
-MjA3OTQ3NzQyMiwtODkzMTUxNzY3LC0xOTcxMjE4MzA0LC04Nz
-c2NTc2MzgsLTE0MDAwNTQyNDMsMTEwMzYyNDE5NiwtMjAwMzU4
-MTQ0MiwtMTU2MzcxOTIwMl19
+eyJoaXN0b3J5IjpbLTY1NzcxNzY0OSwtMTMyNjE0Njc5NSwtMT
+g5OTE3ODI5OCwtMTgxNzc1MDQzMCwtNDE5NDcyNDcsLTE1NTI3
+ODI3NjcsMTY4MTczNTg3OCwtMTYxODA5NzczMCwtMjAzMjAxMT
+YxOSwtMTIzMjQyNTI3MywxNzA1MzA0MTkwLC0xMjUwOTczNTUy
+LDIwNzk0Nzc0MjIsLTg5MzE1MTc2NywtMTk3MTIxODMwNCwtOD
+c3NjU3NjM4LC0xNDAwMDU0MjQzLDExMDM2MjQxOTYsLTIwMDM1
+ODE0NDIsLTE1NjM3MTkyMDJdfQ==
 -->
