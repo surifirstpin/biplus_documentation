@@ -21,6 +21,9 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 **5.**  The circle indicator at the far right of the screen is used to display whether the dashboard is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings( refer Image 1).
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/b0099f7179ee34c8f8492190d526ece2479b23b6/images/browse_rep1.png)
+
 > **Note :** To open a  report click on report name in the list. once you open the report it will display set of options as described below,
 
 **6. Filter** section available on top left of the report screen, displays already existing filters in a report. You can add additional filters using **Add filters** button and to apply the added filters click on **Apply** button and finally click **Save** to save the data with newly added filters.
@@ -69,11 +72,11 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2NDY2MzM4LDM1MDkwNDIxOCw4ODE0OT
-M5OSwtNzMyMTY2MDYzLC0xMDA0MTY1MDM1LC02NTc3MTc2NDks
-LTEzMjYxNDY3OTUsLTE4OTkxNzgyOTgsLTE4MTc3NTA0MzAsLT
-QxOTQ3MjQ3LC0xNTUyNzgyNzY3LDE2ODE3MzU4NzgsLTE2MTgw
-OTc3MzAsLTIwMzIwMTE2MTksLTEyMzI0MjUyNzMsMTcwNTMwND
-E5MCwtMTI1MDk3MzU1MiwyMDc5NDc3NDIyLC04OTMxNTE3Njcs
-LTE5NzEyMTgzMDRdfQ==
+eyJoaXN0b3J5IjpbLTE1MjY5NTc3NjQsMjg2NDY2MzM4LDM1MD
+kwNDIxOCw4ODE0OTM5OSwtNzMyMTY2MDYzLC0xMDA0MTY1MDM1
+LC02NTc3MTc2NDksLTEzMjYxNDY3OTUsLTE4OTkxNzgyOTgsLT
+E4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUyNzgyNzY3LDE2ODE3
+MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMTE2MTksLTEyMzI0Mj
+UyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1MiwyMDc5NDc3NDIy
+LC04OTMxNTE3NjddfQ==
 -->
