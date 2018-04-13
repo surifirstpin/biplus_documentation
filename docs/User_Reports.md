@@ -44,6 +44,7 @@ Image 1 :
   - **Private ()** report saved in private section and accessed by the user itself.
   - **Public ()** the report is saved in public section and accessed by all the users.
   -  **Share ()** the report saved under share section and accessed by specific set of users.
+
  - **Filter** added in this section is automatically reflected in the filter section of reports in dashboard section.
  
  Finally click save to save the report.  
@@ -62,10 +63,10 @@ All above explained points are the basics, to view the additional features of re
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzM1MDU3NTYsMTg3Njc3NTkwNywxOT
-Q3MjgzNTQ5LC01NzUyMDA1NjQsLTEwODAzMTM2NDIsLTU4Njk3
-NDIxNiwtMTk5NzcxODg0NiwtNTQwODY4MzEsNjM0OTQ1OTgxLD
-E5NDk3MTQ0NzUsLTExODc2NTM1MTMsLTkxNDY3NDQ4NywyMTQ3
-MTcwOTA4LDI5NDY1NTE0NiwxMzg1MjE0Mzc2LDk0NDI3NTA5OC
-wxNDY4NTcyOTgwLC03NjA0MTcxMThdfQ==
+eyJoaXN0b3J5IjpbNDcxMjQyMTY2LDE4NzY3NzU5MDcsMTk0Nz
+I4MzU0OSwtNTc1MjAwNTY0LC0xMDgwMzEzNjQyLC01ODY5NzQy
+MTYsLTE5OTc3MTg4NDYsLTU0MDg2ODMxLDYzNDk0NTk4MSwxOT
+Q5NzE0NDc1LC0xMTg3NjUzNTEzLC05MTQ2NzQ0ODcsMjE0NzE3
+MDkwOCwyOTQ2NTUxNDYsMTM4NTIxNDM3Niw5NDQyNzUwOTgsMT
+Q2ODU3Mjk4MCwtNzYwNDE3MTE4XX0=
 -->
