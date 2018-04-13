@@ -19,7 +19,7 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 **4.** To delete a report click on **Delete Icon**.
 
-**5.**  The **Circle indicator** at the far right of the screen is used to display whether the dashboard is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings.
+**5.**  The **Circle indicator** at the far right of the screen is used to display whether the report is saved under Public ( Green), Private (Grey) or shared (Orange) privacy settings.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b0099f7179ee34c8f8492190d526ece2479b23b6/images/browse_rep1.png)
@@ -80,11 +80,11 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM4MzczMjYsMjI4MjEwMDM0LDEwNj
-UxMTA3ODMsMjg2NDY2MzM4LDM1MDkwNDIxOCw4ODE0OTM5OSwt
-NzMyMTY2MDYzLC0xMDA0MTY1MDM1LC02NTc3MTc2NDksLTEzMj
-YxNDY3OTUsLTE4OTkxNzgyOTgsLTE4MTc3NTA0MzAsLTQxOTQ3
-MjQ3LC0xNTUyNzgyNzY3LDE2ODE3MzU4NzgsLTE2MTgwOTc3Mz
-AsLTIwMzIwMTE2MTksLTEyMzI0MjUyNzMsMTcwNTMwNDE5MCwt
-MTI1MDk3MzU1Ml19
+eyJoaXN0b3J5IjpbNTkxNDI0OTI2LC0xMjgzODM3MzI2LDIyOD
+IxMDAzNCwxMDY1MTEwNzgzLDI4NjQ2NjMzOCwzNTA5MDQyMTgs
+ODgxNDkzOTksLTczMjE2NjA2MywtMTAwNDE2NTAzNSwtNjU3Nz
+E3NjQ5LC0xMzI2MTQ2Nzk1LC0xODk5MTc4Mjk4LC0xODE3NzUw
+NDMwLC00MTk0NzI0NywtMTU1Mjc4Mjc2NywxNjgxNzM1ODc4LC
+0xNjE4MDk3NzMwLC0yMDMyMDExNjE5LC0xMjMyNDI1MjczLDE3
+MDUzMDQxOTBdfQ==
 -->
