@@ -40,8 +40,6 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 ## Edit Report
 
  **9.** Click edit on tool bar or from the list icon of the existing report screen. it displays the reports,  add phone number of the employee to an existing report and apply filter at same time.
-
-> For example :
  
 I. Select dimension field **Employee Phone** and click on **Add Rule** to add a new **filter** ( as shown in image 3). 
 
@@ -82,11 +80,11 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTExMDc4MywyODY0NjYzMzgsMzUwOT
-A0MjE4LDg4MTQ5Mzk5LC03MzIxNjYwNjMsLTEwMDQxNjUwMzUs
-LTY1NzcxNzY0OSwtMTMyNjE0Njc5NSwtMTg5OTE3ODI5OCwtMT
-gxNzc1MDQzMCwtNDE5NDcyNDcsLTE1NTI3ODI3NjcsMTY4MTcz
-NTg3OCwtMTYxODA5NzczMCwtMjAzMjAxMTYxOSwtMTIzMjQyNT
-I3MywxNzA1MzA0MTkwLC0xMjUwOTczNTUyLDIwNzk0Nzc0MjIs
-LTg5MzE1MTc2N119
+eyJoaXN0b3J5IjpbMjI4MjEwMDM0LDEwNjUxMTA3ODMsMjg2ND
+Y2MzM4LDM1MDkwNDIxOCw4ODE0OTM5OSwtNzMyMTY2MDYzLC0x
+MDA0MTY1MDM1LC02NTc3MTc2NDksLTEzMjYxNDY3OTUsLTE4OT
+kxNzgyOTgsLTE4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUyNzgy
+NzY3LDE2ODE3MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMTE2MT
+ksLTEyMzI0MjUyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1Miwy
+MDc5NDc3NDIyXX0=
 -->
