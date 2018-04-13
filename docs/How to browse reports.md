@@ -13,7 +13,7 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 > **Note :** You can directly search a report in **Search bar** or click on the desired report from the list to open it.
 
-**2. Set home page icon** is used to set the report to home page screen.
+**2.** **Set home page icon** is used to set the report to home page screen.
 
 **3.**  Click on  **Edit** to customize an existing report as per your business needs.
 
@@ -80,11 +80,11 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4MjEwMDM0LDEwNjUxMTA3ODMsMjg2ND
-Y2MzM4LDM1MDkwNDIxOCw4ODE0OTM5OSwtNzMyMTY2MDYzLC0x
-MDA0MTY1MDM1LC02NTc3MTc2NDksLTEzMjYxNDY3OTUsLTE4OT
-kxNzgyOTgsLTE4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUyNzgy
-NzY3LDE2ODE3MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMTE2MT
-ksLTEyMzI0MjUyNzMsMTcwNTMwNDE5MCwtMTI1MDk3MzU1Miwy
-MDc5NDc3NDIyXX0=
+eyJoaXN0b3J5IjpbLTEyODM4MzczMjYsMjI4MjEwMDM0LDEwNj
+UxMTA3ODMsMjg2NDY2MzM4LDM1MDkwNDIxOCw4ODE0OTM5OSwt
+NzMyMTY2MDYzLC0xMDA0MTY1MDM1LC02NTc3MTc2NDksLTEzMj
+YxNDY3OTUsLTE4OTkxNzgyOTgsLTE4MTc3NTA0MzAsLTQxOTQ3
+MjQ3LC0xNTUyNzgyNzY3LDE2ODE3MzU4NzgsLTE2MTgwOTc3Mz
+AsLTIwMzIwMTE2MTksLTEyMzI0MjUyNzMsMTcwNTMwNDE5MCwt
+MTI1MDk3MzU1Ml19
 -->
