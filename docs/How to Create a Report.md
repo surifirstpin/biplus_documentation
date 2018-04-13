@@ -44,6 +44,7 @@ Image 1 :
   - **Private ()** report saved in private section and accessed by the user itself.
   - **Public ()** the report is saved in public section and accessed by all the users.
   -  **Share ()** the report saved under share section and accessed by specific set of users.
+
  - **Filter** added in this section is automatically reflected in the filter section of reports in dashboard section.
  
  Finally click save to save the report.  
@@ -62,5 +63,5 @@ All above explained points are the basics, to view the additional features of re
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzM1MDU3NTYsMTg3Njc3NTkwN119
+eyJoaXN0b3J5IjpbNDcxMjQyMTY2LDE4NzY3NzU5MDddfQ==
 -->
