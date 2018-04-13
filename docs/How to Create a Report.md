@@ -20,7 +20,7 @@ Image 1 :
 
 **4.** Select one or more **measure fields** (Orange fields) to add information about those groups or data such as Sum, Count, Max, Min and  Avg etc. 
 
-**5.** To add a filter to your report based on that field, Click on **Filter.**
+**5.** To retrieve the data based on filters applied , add a filter to your report based on that field.
  
  **6.** Click **Run** to extract the data, based on selection made.
 
@@ -60,5 +60,5 @@ All above explained points are the basics, to view the additional features of re
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Njc3NTkwN119
+eyJoaXN0b3J5IjpbLTY2ODU1MDExMywxODc2Nzc1OTA3XX0=
 -->
