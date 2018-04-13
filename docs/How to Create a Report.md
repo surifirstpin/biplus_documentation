@@ -22,6 +22,7 @@ Image 1 :
 
 **5.** To retrieve the data based on filters applied , add a **filter** to your report based on that field.
  
+ > **Note :**  The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are not visible while retrieving the data in data section. 
 
  **6.** Click **Run** to extract the data, based on selection made.
 
@@ -61,5 +62,5 @@ All above explained points are the basics, to view the additional features of re
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTUxNTM3LDE4NzY3NzU5MDddfQ==
+eyJoaXN0b3J5IjpbLTE3NzM1MDU3NTYsMTg3Njc3NTkwN119
 -->
