@@ -20,8 +20,9 @@ Image 1 :
 
 **4.** Select one or more **measure fields** (Orange fields) to add information about those groups or data such as Sum, Count, Max, Min and  Avg etc. 
 
-**5.** To retrieve the data based on filters applied , add a filter to your report based on that field.
+**5.** To retrieve the data based on filters applied , add a **filter to your report based on that field.
  
+
  **6.** Click **Run** to extract the data, based on selection made.
 
 >  **Note :** Data retrieved on running the report are visible in **Data section**( Refer image 2).
@@ -60,7 +61,7 @@ All above explained points are the basics, to view the additional features of re
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODU1MDExMywxODc2Nzc1OTA3LDE5ND
+eyJoaXN0b3J5IjpbLTI2NDQyNDE0MywxODc2Nzc1OTA3LDE5ND
 cyODM1NDksLTU3NTIwMDU2NCwtMTA4MDMxMzY0MiwtNTg2OTc0
 MjE2LC0xOTk3NzE4ODQ2LC01NDA4NjgzMSw2MzQ5NDU5ODEsMT
 k0OTcxNDQ3NSwtMTE4NzY1MzUxMywtOTE0Njc0NDg3LDIxNDcx
