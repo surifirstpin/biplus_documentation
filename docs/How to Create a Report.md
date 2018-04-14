@@ -28,6 +28,9 @@ Image 1 :
 
 >  **Note :** Data retrieved on running the report are visible in **Data section**( Refer image 2).
 
+ ![
+](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/data_retreived_ur.png)Image 2
+
 All the mathematical and logical calculation are carried out in a report using Calculated column
 
 Click on **Calculated column** button to enable table calculations as shown in below image,
@@ -45,8 +48,6 @@ Click on **Calculated column** button to enable table calculations as shown in b
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
-
-
 
 **7.** Click **Save** to Save the report, it will navigate to Save explore dialog box, Enter the below details : 
  
@@ -80,6 +81,6 @@ All above explained points are the basics, to view the additional features of re
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDk3ODA2LC0xODg2MDU3MzIxLDQ3MT
-I0MjE2NiwxODc2Nzc1OTA3XX0=
+eyJoaXN0b3J5IjpbNzgzNzIxNDEsLTE4ODYwNTczMjEsNDcxMj
+QyMTY2LDE4NzY3NzU5MDddfQ==
 -->
