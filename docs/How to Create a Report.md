@@ -84,7 +84,7 @@ For **Measures**
 
  ## Display  Row Limit
 
-**9.**  You can limit the rows extracted to 100, 500, 1000, 5000, etc selecting the limit value to your desired number from drop down list.                                                          
+  You can limit the rows extracted to 100, 500, 1000, 5000, etc selecting the limit value to your desired number from drop down list.                                                          
 
 ![
 ]
@@ -234,7 +234,7 @@ To view the SQL query built  in analysis section click on **SQL** section.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU3OTE2MTcsMTQyMzQyNDk3NCwzND
-A2NjUzNDAsLTY4MzQ2MzgwLDI0ODM1MTExNCwtMTg4NjA1NzMy
-MSw0NzEyNDIxNjYsMTg3Njc3NTkwN119
+eyJoaXN0b3J5IjpbLTg5MzM1MjU0LC0xNTU1NzkxNjE3LDE0Mj
+M0MjQ5NzQsMzQwNjY1MzQwLC02ODM0NjM4MCwyNDgzNTExMTQs
+LTE4ODYwNTczMjEsNDcxMjQyMTY2LDE4NzY3NzU5MDddfQ==
 -->
