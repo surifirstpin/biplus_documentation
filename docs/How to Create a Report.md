@@ -131,7 +131,7 @@ To freeze the column field values while scrolling the data to right or left, cli
 
 ## Group / Un-Group
 
-To view the consolidated group values By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on **Group** in field drop down provided and to release the same click on **Un-Group**. 
+To view the consolidated value by  group values By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on **Group** in field drop down provided and to release the same click on **Un-Group**. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/93c8d204507e325aea691be5e8a6e7662975fd3c/images/group.png)
@@ -234,7 +234,7 @@ To view the SQL query built  in analysis section click on **SQL** section.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4MzExOTkxLC02ODM0NjM4MCwyNDgzNT
-ExMTQsLTE4ODYwNTczMjEsNDcxMjQyMTY2LDE4NzY3NzU5MDdd
-fQ==
+eyJoaXN0b3J5IjpbLTE2MDMxOTAyNDMsLTY4MzQ2MzgwLDI0OD
+M1MTExNCwtMTg4NjA1NzMyMSw0NzEyNDIxNjYsMTg3Njc3NTkw
+N119
 -->
