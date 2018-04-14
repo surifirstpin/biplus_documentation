@@ -28,7 +28,7 @@ Image 1 :
 
 >  **Note :** Data retrieved on running the report are visible in **Data section**( Refer image 2).
 
-To repform arthemaic and logical calculation in a report click on Calculated colum============
+All the arthemaic and logical calculation are carried  in a report using Calculated colum============================
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/data_retreived_ur.png)Image 2
 
@@ -64,6 +64,6 @@ All above explained points are the basics, to view the additional features of re
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjk1NDc2MSwtMTg4NjA1NzMyMSw0Nz
-EyNDIxNjYsMTg3Njc3NTkwN119
+eyJoaXN0b3J5IjpbLTIwNDAwNTk1NDYsLTE4ODYwNTczMjEsND
+cxMjQyMTY2LDE4NzY3NzU5MDddfQ==
 -->
