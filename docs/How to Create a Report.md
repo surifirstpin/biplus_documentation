@@ -49,6 +49,46 @@ Click on **Calculated column** button to enable table calculations as shown in b
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
 
+- **Run** the report after deriving the calculation all the values based on calculation is shown up in green colour as shown in below image,
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)
+
+## Order  (Ascending / Descending)
+
+To view the column data in ascending or descending orders , add the column fields in order section to carry out the sorting on the field values.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/sorting1.png)
+
+## Local Sorting
+
+Local Sorting can be applied directly to the data obtained for dimension and measure fields in the data section. Click on the desired field header to enable sorting.
+
+For **Dimensions**
+
+- Click on upper arrow to enable  ascending order.
+- Click on down arrow to enable descending order.  
+
+For **Measures**
+
+- Click on upper arrow to enable  descending order.
+- Click on down arrow to enable ascending order.
+ 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/local_sorting.png)
+
+## Display Totals
+
+**8.**  By selecting the **check box** it displays the total values of the measure fields obtained.
+
+ ## Display  Row Limit
+
+**9.**  You can limit the rows extracted to 100, 500, 1000, 5000, etc selecting the limit value to your desired number from drop down list.                                                          
+
+![
+]
+
 **7.** Click **Save** to Save the report, it will navigate to Save explore dialog box, Enter the below details : 
  
 - **Report Name** Name identifier for a report. ( BiPlus allows  special character but does not  support any spaces )
@@ -71,6 +111,7 @@ Click on **Calculated column** button to enable table calculations as shown in b
 ](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/save_ur.png)
 Image 3 
 
+
 **8.** If desired, you can view the visualization charts such as pie, bar, line etc. by clicking on **Charts** tab.
 
 **9.** If desired to view the sql generated for the data retreived click on **SQL** tab. 
@@ -81,6 +122,6 @@ All above explained points are the basics, to view the additional features of re
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzNzIxNDEsLTE4ODYwNTczMjEsNDcxMj
-QyMTY2LDE4NzY3NzU5MDddfQ==
+eyJoaXN0b3J5IjpbMjQ4MzUxMTE0LC0xODg2MDU3MzIxLDQ3MT
+I0MjE2NiwxODc2Nzc1OTA3XX0=
 -->
