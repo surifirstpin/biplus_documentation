@@ -28,8 +28,25 @@ Image 1 :
 
 >  **Note :** Data retrieved on running the report are visible in **Data section**( Refer image 2).
 
-All the mathematical and logical calculation are carried   in a report using Calculated column
+All the mathematical and logical calculation are carried out in a report using Calculated column
+
+Click on **Calculated column** button to enable table calculations as shown in below image,
+
+- **Field name** unique identifier name to refer calculated column.
+- **Label** labeling the calculated column.
+
+- **Data type** data type used (string,number).
+
+- **Field type** derives dimension or measure.
+
+- **Calculation** derive arithmetical & logical expressions.
+
+- **Calculate on the raw data** this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
  ![
+ 
 ](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/data_retreived_ur.png)Image 2
 
 **7.** Click **Save** to Save the report, it will navigate to Save explore dialog box, Enter the below details : 
@@ -64,6 +81,6 @@ All above explained points are the basics, to view the additional features of re
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxNTAxNzc2LC0xODg2MDU3MzIxLDQ3MT
-I0MjE2NiwxODc2Nzc1OTA3XX0=
+eyJoaXN0b3J5IjpbMjAwODEwOTA0NywtMTg4NjA1NzMyMSw0Nz
+EyNDIxNjYsMTg3Njc3NTkwN119
 -->
