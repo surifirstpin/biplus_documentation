@@ -23,4 +23,4 @@
   - [Global Functions](GlobalFunctions.md)
   
  - User reports
-   - [user Report]()
+   - [user Report](How to browse reports.md)
