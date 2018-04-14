@@ -46,7 +46,7 @@ Click on **Calculated column** button to enable table calculations as shown in b
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
  ![
- 
+**Run** the report after deriving the calculation all the values based on calculation is shown up in green colour as shown in below image,
 ](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/data_retreived_ur.png)Image 2
 
 **7.** Click **Save** to Save the report, it will navigate to Save explore dialog box, Enter the below details : 
@@ -81,6 +81,6 @@ All above explained points are the basics, to view the additional features of re
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODEwOTA0NywtMTg4NjA1NzMyMSw0Nz
+eyJoaXN0b3J5IjpbMTE4ODM1MjY5MCwtMTg4NjA1NzMyMSw0Nz
 EyNDIxNjYsMTg3Njc3NTkwN119
 -->
