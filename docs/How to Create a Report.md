@@ -80,7 +80,7 @@ For **Measures**
 
 ## Display Totals
 
- By selecting the **display** check box, it displays total valueof the measure field.
+ By selecting the **display** check box, it displays total value of the measure field.
 
  ## Display  Row Limit
 
@@ -234,7 +234,7 @@ To view the SQL query built  in analysis section click on **SQL** section.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzE0NzQ1LDE0MjM0MjQ5NzQsMzQwNj
-Y1MzQwLC02ODM0NjM4MCwyNDgzNTExMTQsLTE4ODYwNTczMjEs
-NDcxMjQyMTY2LDE4NzY3NzU5MDddfQ==
+eyJoaXN0b3J5IjpbLTE1NTU3OTE2MTcsMTQyMzQyNDk3NCwzND
+A2NjUzNDAsLTY4MzQ2MzgwLDI0ODM1MTExNCwtMTg4NjA1NzMy
+MSw0NzEyNDIxNjYsMTg3Njc3NTkwN119
 -->
