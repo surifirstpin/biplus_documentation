@@ -92,29 +92,9 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 
 To **Pivot** a dimension click on pivot for dimension before or after running the query, you can add more pivots to other dimension but make sure you have at least one un-pivoted dimension and a measure value.
 
->For instance, if you want to view the number of order received  based on the month  it displays in following way:
-
-| Order Received  |year  |month|Region|Name|
-|--|--|--|--|--|
-| 100 |2000  |January|north|john|
-|200|2001|February|south|Steve|
-|300|2002 |march|east|Bob|
-|400|2003|April|west|Mecker|
-
->On Applying pivot on month, it displays;
-  
-  |January|February|March|April|
-  |--|--|--|--|
-|100|200|300|400|
-|2000|2001|2002|2003|
-|North|south|east|west|
-|john|steve|bob|Mecker|
-
  You can apply pivot to fields in 2 ways ;
- 
-**a.** Apply pivot **After Retrieving** the data by selecting the pivot in drop down of the field.
- 
-**b.** Apply pivot **Before Retrieving** the data while selecting the fields by clicking on pivot icon.
+**a.** Apply pivot **After Retrieving** the data. 
+**b.** Apply pivot **Before Retrieving** the data.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0bc648227810e628f97baa8e8ade9bdeb782ca04/images/pivot.png)
@@ -231,7 +211,7 @@ To view the SQL query built  in analysis section click on **SQL** section.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwMTA5ODY2LDU3NDc0MzI3NSwtODkzMz
+eyJoaXN0b3J5IjpbNTE2OTAyNjEwLDU3NDc0MzI3NSwtODkzMz
 UyNTQsLTE1NTU3OTE2MTcsMTQyMzQyNDk3NCwzNDA2NjUzNDAs
 LTY4MzQ2MzgwLDI0ODM1MTExNCwtMTg4NjA1NzMyMSw0NzEyND
 IxNjYsMTg3Njc3NTkwN119
