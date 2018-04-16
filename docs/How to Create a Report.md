@@ -123,11 +123,11 @@ The below image shows , the consolidated values after grouping is applied on fie
 Using BiPlus you can apply Multi-level grouping to the data extracted. consider the below example for more detailed description on multi level grouping.
 
 > **For instance** : in the below image grouping has been applied to 2 dimension fields **Station code** and **EmployeeID.** In retrieved data on expanding Station code it displays the perspective **EmployeeID** on Further Expansion of **EmployyeID** it displays Role of the Employee  as shown in below image.
+
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/42101f32eacbf41f044af281f151e6120c3f3ca1/images/multi_level_grouping_ur.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/4d2a0c1e593e8422f72204368da90bd428545c56/images/multi_level_grouping_ur.png)
 
 ## Find
-
 To find the specific field value from the data extracted click on **Find** in the  field drop down.
 
 ![
@@ -208,9 +208,9 @@ To view the SQL query built  in analysis section click on **SQL** section.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjA4NDcyNSwtMTAzNjI5OTkzOCwyMD
-Q0Mjg5NTk3LC0xNzI2NDU3NDgsNTc0NzQzMjc1LC04OTMzNTI1
-NCwtMTU1NTc5MTYxNywxNDIzNDI0OTc0LDM0MDY2NTM0MCwtNj
-gzNDYzODAsMjQ4MzUxMTE0LC0xODg2MDU3MzIxLDQ3MTI0MjE2
-NiwxODc2Nzc1OTA3XX0=
+eyJoaXN0b3J5IjpbNTY2Mjg4MzcsLTg5MjA4NDcyNSwtMTAzNj
+I5OTkzOCwyMDQ0Mjg5NTk3LC0xNzI2NDU3NDgsNTc0NzQzMjc1
+LC04OTMzNTI1NCwtMTU1NTc5MTYxNywxNDIzNDI0OTc0LDM0MD
+Y2NTM0MCwtNjgzNDYzODAsMjQ4MzUxMTE0LC0xODg2MDU3MzIx
+LDQ3MTI0MjE2NiwxODc2Nzc1OTA3XX0=
 -->
