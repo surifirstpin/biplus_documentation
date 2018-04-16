@@ -29,7 +29,7 @@ Image 1 :
 >  **Note :** Data retrieved on running the report are visible in **Data section**( Refer image 2).
 
  ![
-](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/data_retreived_ur.png)Image 2
+](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/data_retreived_ur.png)**Image 2**
 
 All the mathematical and logical calculation are carried out in a report using Calculated column
 
@@ -80,7 +80,7 @@ For **Measures**
 
 ## Display Totals
 
- By selecting the **display** check box, it displays total value of the measure field.
+ By selecting the **Display** check box, it displays total value of the measure field.
 
  ## Display  Row Limit
 
@@ -90,7 +90,7 @@ For **Measures**
 
 Multiple dimensions in the report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied.
 
- You can apply pivot to fields in 2 ways ;
+ **You can apply pivot to fields in 2 ways ;
 **a.** Apply pivot **After Retrieving** the data. 
 **b.** Apply pivot **Before Retrieving** the data.
 
@@ -207,10 +207,10 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjUxOTM1MzEsLTMwMjkyOTM2Niw1Nj
-YyODgzNywtODkyMDg0NzI1LC0xMDM2Mjk5OTM4LDIwNDQyODk1
-OTcsLTE3MjY0NTc0OCw1NzQ3NDMyNzUsLTg5MzM1MjU0LC0xNT
-U1NzkxNjE3LDE0MjM0MjQ5NzQsMzQwNjY1MzQwLC02ODM0NjM4
-MCwyNDgzNTExMTQsLTE4ODYwNTczMjEsNDcxMjQyMTY2LDE4Nz
-Y3NzU5MDddfQ==
+eyJoaXN0b3J5IjpbMTU2NTA0ODEwMSwtMzAyOTI5MzY2LDU2Nj
+I4ODM3LC04OTIwODQ3MjUsLTEwMzYyOTk5MzgsMjA0NDI4OTU5
+NywtMTcyNjQ1NzQ4LDU3NDc0MzI3NSwtODkzMzUyNTQsLTE1NT
+U3OTE2MTcsMTQyMzQyNDk3NCwzNDA2NjUzNDAsLTY4MzQ2Mzgw
+LDI0ODM1MTExNCwtMTg4NjA1NzMyMSw0NzEyNDIxNjYsMTg3Nj
+c3NTkwN119
 -->
