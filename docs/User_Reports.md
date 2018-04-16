@@ -90,12 +90,12 @@ For **Measures**
 
 Multiple dimensions in the report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied.
 
-To **Pivot** a dimension click on pivot for dimension before or after running the query, you can add more pivots to other dimension but make sure you have at least one un-pivoted dimension and a measure value.
-
  You can apply pivot to fields in 2 ways ;
 **a.** Apply pivot **After Retrieving** the data. 
 **b.** Apply pivot **Before Retrieving** the data.
- 
+
+> **Note :** make sure you have at least one un-pivoted dimension and a measure value. 
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0bc648227810e628f97baa8e8ade9bdeb782ca04/images/pivot.png)
 
@@ -211,11 +211,11 @@ To view the SQL query built  in analysis section click on **SQL** section.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2OTAyNjEwLDU3NDc0MzI3NSw0NzEyND
-IxNjYsMTg3Njc3NTkwNywxOTQ3MjgzNTQ5LC01NzUyMDA1NjQs
-LTEwODAzMTM2NDIsLTU4Njk3NDIxNiwtMTk5NzcxODg0NiwtNT
-QwODY4MzEsNjM0OTQ1OTgxLDE5NDk3MTQ0NzUsLTExODc2NTM1
-MTMsLTkxNDY3NDQ4NywyMTQ3MTcwOTA4LDI5NDY1NTE0NiwxMz
-g1MjE0Mzc2LDk0NDI3NTA5OCwxNDY4NTcyOTgwLC03NjA0MTcx
-MThdfQ==
+eyJoaXN0b3J5IjpbLTE3MjY0NTc0OCw1NzQ3NDMyNzUsNDcxMj
+QyMTY2LDE4NzY3NzU5MDcsMTk0NzI4MzU0OSwtNTc1MjAwNTY0
+LC0xMDgwMzEzNjQyLC01ODY5NzQyMTYsLTE5OTc3MTg4NDYsLT
+U0MDg2ODMxLDYzNDk0NTk4MSwxOTQ5NzE0NDc1LC0xMTg3NjUz
+NTEzLC05MTQ2NzQ0ODcsMjE0NzE3MDkwOCwyOTQ2NTUxNDYsMT
+M4NTIxNDM3Niw5NDQyNzUwOTgsMTQ2ODU3Mjk4MCwtNzYwNDE3
+MTE4XX0=
 -->
