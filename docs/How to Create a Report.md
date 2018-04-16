@@ -196,7 +196,7 @@ It enables different type of number format to measure field value. Following are
 
 ## Currency
 
- You can check the field values of the measure by applying different types of currency formats, AcuBi supports $,   ₹  ,   €  ,  £.
+BiPlus will enable you to check the field values of the measure by applying different types of currency formats, AcuBi supports $,   ₹  ,   €  ,  £.
 
 ![
 ](!%5B%20%5D%28https://raw.githubusercontent.com/sv18042016/fp1/e1bd201419a03bfb1375b64b9e74fb8e06830061/images/data_section_analysis.png%29)
@@ -209,9 +209,9 @@ To view the SQL query built  in analysis section click on **SQL** section.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwOTUxNTI1LDU2NjI4ODM3LC04OTIwOD
-Q3MjUsLTEwMzYyOTk5MzgsMjA0NDI4OTU5NywtMTcyNjQ1NzQ4
-LDU3NDc0MzI3NSwtODkzMzUyNTQsLTE1NTU3OTE2MTcsMTQyMz
-QyNDk3NCwzNDA2NjUzNDAsLTY4MzQ2MzgwLDI0ODM1MTExNCwt
-MTg4NjA1NzMyMSw0NzEyNDIxNjYsMTg3Njc3NTkwN119
+eyJoaXN0b3J5IjpbMTM1NzAzMTcwMCw1NjYyODgzNywtODkyMD
+g0NzI1LC0xMDM2Mjk5OTM4LDIwNDQyODk1OTcsLTE3MjY0NTc0
+OCw1NzQ3NDMyNzUsLTg5MzM1MjU0LC0xNTU1NzkxNjE3LDE0Mj
+M0MjQ5NzQsMzQwNjY1MzQwLC02ODM0NjM4MCwyNDgzNTExMTQs
+LTE4ODYwNTczMjEsNDcxMjQyMTY2LDE4NzY3NzU5MDddfQ==
 -->
