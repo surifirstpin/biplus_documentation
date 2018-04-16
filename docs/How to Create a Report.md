@@ -63,7 +63,7 @@ To view the column data in ascending or descending orders , add the column field
 
 ## Local Sorting
 
-Local Sorting can be applied directly to the data obtained for dimension and measure fields in the data section. Click on the desired field header to enable sorting.
+Local Sorting can be applied directly to the data fetched in the data section. Click on the desired field header to enable sorting.
 
 For **Dimensions**
 
@@ -234,8 +234,8 @@ To view the SQL query built  in analysis section click on **SQL** section.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0NzQzMjc1LC04OTMzNTI1NCwtMTU1NT
-c5MTYxNywxNDIzNDI0OTc0LDM0MDY2NTM0MCwtNjgzNDYzODAs
-MjQ4MzUxMTE0LC0xODg2MDU3MzIxLDQ3MTI0MjE2NiwxODc2Nz
-c1OTA3XX0=
+eyJoaXN0b3J5IjpbNTU1MjA5MjgzLDU3NDc0MzI3NSwtODkzMz
+UyNTQsLTE1NTU3OTE2MTcsMTQyMzQyNDk3NCwzNDA2NjUzNDAs
+LTY4MzQ2MzgwLDI0ODM1MTExNCwtMTg4NjA1NzMyMSw0NzEyND
+IxNjYsMTg3Njc3NTkwN119
 -->
