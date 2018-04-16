@@ -86,7 +86,7 @@ b. Click on **add** link available at right side of the saved report.
 
 **8.**     **Report Listeners** ( Refer image 5)
 
-  Acubi has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report1 it results in filter applied on report1, it self and report2 will remain unaffected.
+  BiPlus has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report1 it results in filter applied on report1, it self and report2 will remain unaffected.
 
    -  **Dashboard Report**  selects reports to add filters.
    
@@ -132,8 +132,8 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTg5NTQzNSwyMTk2MDUwOTYsLTIwNj
-Y4MzQ2NzksMTc5ODE4MTg4NCwxNzk4MTgxODg0LC0yNjY3MzI4
-ODUsLTE5Njc2Njk1NDAsLTc2NjcxMjk0OSwzMzg5MzQ1MCwxNT
-Q5MTg4MTUzLDMzODkzNDUwXX0=
+eyJoaXN0b3J5IjpbLTExOTE5MTQwODYsLTIxNTg5NTQzNSwyMT
+k2MDUwOTYsLTIwNjY4MzQ2NzksMTc5ODE4MTg4NCwxNzk4MTgx
+ODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2NjcxMjk0OS
+wzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
 -->
