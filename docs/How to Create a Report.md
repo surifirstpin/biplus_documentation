@@ -86,12 +86,9 @@ For **Measures**
 
   You can limit the rows extracted to 100, 500, 1000, 5000, etc selecting the limit value to your desired number from drop down list.                                                          
 
-![
-]
-
 ## Pivot table
 
-Multiple dimensions in the report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. Each value in the dimension will become a column in your report data by making your information more clear to consume visually, and reduces the need to scroll down to find data.
+Multiple dimensions in the report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied.
 
 To **Pivot** a dimension click on pivot for dimension before or after running the query, you can add more pivots to other dimension but make sure you have at least one un-pivoted dimension and a measure value.
 
@@ -234,7 +231,7 @@ To view the SQL query built  in analysis section click on **SQL** section.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1MjA5MjgzLDU3NDc0MzI3NSwtODkzMz
+eyJoaXN0b3J5IjpbNjUwMTA5ODY2LDU3NDc0MzI3NSwtODkzMz
 UyNTQsLTE1NTU3OTE2MTcsMTQyMzQyNDk3NCwzNDA2NjUzNDAs
 LTY4MzQ2MzgwLDI0ODM1MTExNCwtMTg4NjA1NzMyMSw0NzEyND
 IxNjYsMTg3Njc3NTkwN119
