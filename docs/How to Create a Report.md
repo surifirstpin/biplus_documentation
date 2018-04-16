@@ -122,7 +122,7 @@ The below image shows , the consolidated values after grouping is applied on fie
 
 Using BiPlus you can apply Multi-level grouping to the data extracted. consider the below example for more detailed description on multi level grouping.
 
-> **For instance** : in the below image grouping has been applied to 2 dimension fields  and  State Name. In retrieved data on expanding Country Name it displays the perspective State Names that fall under specific country and on Further Expansion it displays City Names that fall under the specific state  as shown in below image.
+> **For instance** : in the below image grouping has been applied to 2 dimension fields Station code and EmployeeID. In retrieved data on expanding Country Name it displays the perspective State Names that fall under specific country and on Further Expansion it displays City Names that fall under the specific state  as shown in below image.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a07734d0424a3c19e040fdd95a93464d057df5f3/images/multi_level_grouping.png) 
@@ -211,7 +211,7 @@ To view the SQL query built  in analysis section click on **SQL** section.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTg5MDIyNiwyMDQ0Mjg5NTk3LC0xNz
+eyJoaXN0b3J5IjpbLTgzODk0MDAwMCwyMDQ0Mjg5NTk3LC0xNz
 I2NDU3NDgsNTc0NzQzMjc1LC04OTMzNTI1NCwtMTU1NTc5MTYx
 NywxNDIzNDI0OTc0LDM0MDY2NTM0MCwtNjgzNDYzODAsMjQ4Mz
 UxMTE0LC0xODg2MDU3MzIxLDQ3MTI0MjE2NiwxODc2Nzc1OTA3
