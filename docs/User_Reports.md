@@ -163,7 +163,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 ##  Format
 
-  - **Format** enables different type of number format to the measure field value. Following are the list of number formats supported by AcuBi ;
+It enables different type of number format to measure field value. Following are the list of number formats supported by BiPlus ;
 
 |  Example | Description |
 |  ------ | :------ |
@@ -208,11 +208,11 @@ To view the SQL query built  in analysis section click on **SQL** section.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2Mjg4MzcsLTg5MjA4NDcyNSwtMTAzNj
-I5OTkzOCwyMDQ0Mjg5NTk3LC0xNzI2NDU3NDgsNTc0NzQzMjc1
-LDQ3MTI0MjE2NiwxODc2Nzc1OTA3LDE5NDcyODM1NDksLTU3NT
-IwMDU2NCwtMTA4MDMxMzY0MiwtNTg2OTc0MjE2LC0xOTk3NzE4
-ODQ2LC01NDA4NjgzMSw2MzQ5NDU5ODEsMTk0OTcxNDQ3NSwtMT
-E4NzY1MzUxMywtOTE0Njc0NDg3LDIxNDcxNzA5MDgsMjk0NjU1
-MTQ2XX0=
+eyJoaXN0b3J5IjpbLTIxODYxMzY5Miw1NjYyODgzNywtODkyMD
+g0NzI1LC0xMDM2Mjk5OTM4LDIwNDQyODk1OTcsLTE3MjY0NTc0
+OCw1NzQ3NDMyNzUsNDcxMjQyMTY2LDE4NzY3NzU5MDcsMTk0Nz
+I4MzU0OSwtNTc1MjAwNTY0LC0xMDgwMzEzNjQyLC01ODY5NzQy
+MTYsLTE5OTc3MTg4NDYsLTU0MDg2ODMxLDYzNDk0NTk4MSwxOT
+Q5NzE0NDc1LC0xMTg3NjUzNTEzLC05MTQ2NzQ0ODcsMjE0NzE3
+MDkwOF19
 -->
