@@ -24,7 +24,7 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 
  ## Step 1:  Customize Layout 
   
-AcuBi has ability to create multiple report layouts, depending on the requirement. There layout formats are categorized in 2 ways.
+Biplus has ability to create multiple report layouts, depending on the requirement. There layout formats are categorized in 2 ways.
 - **Flow Layout** in this layout it is provided with a scroll bar option to define your layout appropriately.
 - **Fixed Layout** in this layout all the reports will fit into single screen.
 
@@ -132,8 +132,8 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5NjA1MDk2LC0yMDY2ODM0Njc5LDE3OT
-gxODE4ODQsMTc5ODE4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5
-NTQwLC03NjY3MTI5NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMz
-g5MzQ1MF19
+eyJoaXN0b3J5IjpbLTIxNTg5NTQzNSwyMTk2MDUwOTYsLTIwNj
+Y4MzQ2NzksMTc5ODE4MTg4NCwxNzk4MTgxODg0LC0yNjY3MzI4
+ODUsLTE5Njc2Njk1NDAsLTc2NjcxMjk0OSwzMzg5MzQ1MCwxNT
+Q5MTg4MTUzLDMzODkzNDUwXX0=
 -->
