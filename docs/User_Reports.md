@@ -197,18 +197,17 @@ It enables different type of number format to measure field value. Following are
 ## Currency
 
 BiPlus will enable you to check the field values of the measure in the following currency formats $,   ₹  ,   €  ,  £.
-![
-](!%5B%20%5D%28https://raw.githubusercontent.com/sv18042016/fp1/e1bd201419a03bfb1375b64b9e74fb8e06830061/images/data_section_analysis.png%29)
+
 
 ## SQL Query 
 
-To view the SQL query built  in analysis section click on **SQL** section.
+To view the SQL query built on running the report, click on **SQL** Tab in Analysis Section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjIwMjQ2Myw1NjYyODgzNywtODkyMD
+eyJoaXN0b3J5IjpbLTMwMjkyOTM2Niw1NjYyODgzNywtODkyMD
 g0NzI1LC0xMDM2Mjk5OTM4LDIwNDQyODk1OTcsLTE3MjY0NTc0
 OCw1NzQ3NDMyNzUsNDcxMjQyMTY2LDE4NzY3NzU5MDcsMTk0Nz
 I4MzU0OSwtNTc1MjAwNTY0LC0xMDgwMzEzNjQyLC01ODY5NzQy
