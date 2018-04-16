@@ -12,7 +12,7 @@ Image 1 :
 
 > **Note :** BiPlus Home page immediately displays the dashboard or Report set by other users on homepage ( Shown in Below image).
 
-**1.** Click on **Analyse section** to explore a report.
+**1.** Click on **Analyse section**.
 
 **2.** Select Desired **project** and **model** from the drop down list, depending on which you want to extract the data.
 
@@ -207,9 +207,10 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjkyOTM2Niw1NjYyODgzNywtODkyMD
-g0NzI1LC0xMDM2Mjk5OTM4LDIwNDQyODk1OTcsLTE3MjY0NTc0
-OCw1NzQ3NDMyNzUsLTg5MzM1MjU0LC0xNTU1NzkxNjE3LDE0Mj
-M0MjQ5NzQsMzQwNjY1MzQwLC02ODM0NjM4MCwyNDgzNTExMTQs
-LTE4ODYwNTczMjEsNDcxMjQyMTY2LDE4NzY3NzU5MDddfQ==
+eyJoaXN0b3J5IjpbLTExMjUxOTM1MzEsLTMwMjkyOTM2Niw1Nj
+YyODgzNywtODkyMDg0NzI1LC0xMDM2Mjk5OTM4LDIwNDQyODk1
+OTcsLTE3MjY0NTc0OCw1NzQ3NDMyNzUsLTg5MzM1MjU0LC0xNT
+U1NzkxNjE3LDE0MjM0MjQ5NzQsMzQwNjY1MzQwLC02ODM0NjM4
+MCwyNDgzNTExMTQsLTE4ODYwNTczMjEsNDcxMjQyMTY2LDE4Nz
+Y3NzU5MDddfQ==
 -->
