@@ -120,7 +120,7 @@ The below image shows , the consolidated values after grouping is applied on fie
 
 ## Multi-Level grouping
 
-Using AcuBi you can apply Multi-level grouping to the data extracted. consider the below example for more details description on multi level grouping.
+Using BiPlus you can apply Multi-level grouping to the data extracted. consider the below example for more details description on multi level grouping.
 
 > **For instance** : in the below image grouping has been applied to 2 dimension fields Country Name and  State Name. In retrieved data on expanding Country Name it displays the perspective State Names that fall under specific country and on Further Expansion it displays City Names that fall under the specific state  as shown in below image.
 
@@ -211,11 +211,11 @@ To view the SQL query built  in analysis section click on **SQL** section.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjY0NTc0OCw1NzQ3NDMyNzUsNDcxMj
-QyMTY2LDE4NzY3NzU5MDcsMTk0NzI4MzU0OSwtNTc1MjAwNTY0
-LC0xMDgwMzEzNjQyLC01ODY5NzQyMTYsLTE5OTc3MTg4NDYsLT
-U0MDg2ODMxLDYzNDk0NTk4MSwxOTQ5NzE0NDc1LC0xMTg3NjUz
-NTEzLC05MTQ2NzQ0ODcsMjE0NzE3MDkwOCwyOTQ2NTUxNDYsMT
-M4NTIxNDM3Niw5NDQyNzUwOTgsMTQ2ODU3Mjk4MCwtNzYwNDE3
-MTE4XX0=
+eyJoaXN0b3J5IjpbLTE1NDY4NzEzNywtMTcyNjQ1NzQ4LDU3ND
+c0MzI3NSw0NzEyNDIxNjYsMTg3Njc3NTkwNywxOTQ3MjgzNTQ5
+LC01NzUyMDA1NjQsLTEwODAzMTM2NDIsLTU4Njk3NDIxNiwtMT
+k5NzcxODg0NiwtNTQwODY4MzEsNjM0OTQ1OTgxLDE5NDk3MTQ0
+NzUsLTExODc2NTM1MTMsLTkxNDY3NDQ4NywyMTQ3MTcwOTA4LD
+I5NDY1NTE0NiwxMzg1MjE0Mzc2LDk0NDI3NTA5OCwxNDY4NTcy
+OTgwXX0=
 -->
