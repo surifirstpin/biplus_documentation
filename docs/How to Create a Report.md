@@ -122,7 +122,7 @@ The below image shows , the consolidated values after grouping is applied on fie
 
 Using BiPlus you can apply Multi-level grouping to the data extracted. consider the below example for more detailed description on multi level grouping.
 
-> **For instance** : in the below image grouping has been applied to 2 dimension fields Station code and EmployeeID. In retrieved data on expanding Station code it displays the perspective EmployeeID on Further Expansion of EmployyeID it displays Role of the Employe  as shown in below image.
+> **For instance** : in the below image grouping has been applied to 2 dimension fields **Station code** and **EmployeeID.** In retrieved data on expanding Station code it displays the perspective **EmployeeID** on Further Expansion of **EmployyeID** it displays Role of the Employee  as shown in below image.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a07734d0424a3c19e040fdd95a93464d057df5f3/images/multi_level_grouping.png) 
@@ -211,7 +211,7 @@ To view the SQL query built  in analysis section click on **SQL** section.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM2MzExMjcsMjA0NDI4OTU5NywtMT
+eyJoaXN0b3J5IjpbLTEwMzYyOTk5MzgsMjA0NDI4OTU5NywtMT
 cyNjQ1NzQ4LDU3NDc0MzI3NSwtODkzMzUyNTQsLTE1NTU3OTE2
 MTcsMTQyMzQyNDk3NCwzNDA2NjUzNDAsLTY4MzQ2MzgwLDI0OD
 M1MTExNCwtMTg4NjA1NzMyMSw0NzEyNDIxNjYsMTg3Njc3NTkw
