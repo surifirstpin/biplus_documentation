@@ -90,7 +90,8 @@ For **Measures**
 
 Multiple dimensions in the report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied.
 
- **You can apply pivot to fields in 2 ways ;
+ **You can apply pivot to fields in 2 ways ;**
+ 
 **a.** Apply pivot **After Retrieving** the data. 
 **b.** Apply pivot **Before Retrieving** the data.
 
@@ -207,7 +208,7 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NTA0ODEwMSwtMzAyOTI5MzY2LDU2Nj
+eyJoaXN0b3J5IjpbLTI3MTAyMjc4NywtMzAyOTI5MzY2LDU2Nj
 I4ODM3LC04OTIwODQ3MjUsLTEwMzYyOTk5MzgsMjA0NDI4OTU5
 NywtMTcyNjQ1NzQ4LDU3NDc0MzI3NSwtODkzMzUyNTQsLTE1NT
 U3OTE2MTcsMTQyMzQyNDk3NCwzNDA2NjUzNDAsLTY4MzQ2Mzgw
