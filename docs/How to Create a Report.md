@@ -126,7 +126,6 @@ Using BiPlus you can apply Multi-level grouping to the data extracted. consider 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/42101f32eacbf41f044af281f151e6120c3f3ca1/images/multi_level_grouping_ur.png)
 
-
 ## Find
 
 To find the specific field value from the data extracted click on **Find** in the  field drop down.
@@ -209,9 +208,9 @@ To view the SQL query built  in analysis section click on **SQL** section.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQzOTgwMjMsLTEwMzYyOTk5MzgsMj
-A0NDI4OTU5NywtMTcyNjQ1NzQ4LDU3NDc0MzI3NSwtODkzMzUy
-NTQsLTE1NTU3OTE2MTcsMTQyMzQyNDk3NCwzNDA2NjUzNDAsLT
-Y4MzQ2MzgwLDI0ODM1MTExNCwtMTg4NjA1NzMyMSw0NzEyNDIx
-NjYsMTg3Njc3NTkwN119
+eyJoaXN0b3J5IjpbLTg5MjA4NDcyNSwtMTAzNjI5OTkzOCwyMD
+Q0Mjg5NTk3LC0xNzI2NDU3NDgsNTc0NzQzMjc1LC04OTMzNTI1
+NCwtMTU1NTc5MTYxNywxNDIzNDI0OTc0LDM0MDY2NTM0MCwtNj
+gzNDYzODAsMjQ4MzUxMTE0LC0xODg2MDU3MzIxLDQ3MTI0MjE2
+NiwxODc2Nzc1OTA3XX0=
 -->
