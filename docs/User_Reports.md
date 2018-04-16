@@ -29,7 +29,7 @@ Image 1 :
 >  **Note :** Data retrieved on running the report are visible in **Data section**( Refer image 2).
 
  ![
-](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/data_retreived_ur.png)Image 2
+](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/data_retreived_ur.png)**Image 2**
 
 All the mathematical and logical calculation are carried out in a report using Calculated column
 
@@ -80,7 +80,7 @@ For **Measures**
 
 ## Display Totals
 
- By selecting the **display** check box, it displays total value of the measure field.
+ By selecting the **Display** check box, it displays total value of the measure field.
 
  ## Display  Row Limit
 
@@ -207,11 +207,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjUxOTM1MzEsLTMwMjkyOTM2Niw1Nj
-YyODgzNywtODkyMDg0NzI1LC0xMDM2Mjk5OTM4LDIwNDQyODk1
-OTcsLTE3MjY0NTc0OCw1NzQ3NDMyNzUsNDcxMjQyMTY2LDE4Nz
-Y3NzU5MDcsMTk0NzI4MzU0OSwtNTc1MjAwNTY0LC0xMDgwMzEz
-NjQyLC01ODY5NzQyMTYsLTE5OTc3MTg4NDYsLTU0MDg2ODMxLD
-YzNDk0NTk4MSwxOTQ5NzE0NDc1LC0xMTg3NjUzNTEzLC05MTQ2
-NzQ0ODddfQ==
+eyJoaXN0b3J5IjpbMTQ2MDg5Nzg5MywtMzAyOTI5MzY2LDU2Nj
+I4ODM3LC04OTIwODQ3MjUsLTEwMzYyOTk5MzgsMjA0NDI4OTU5
+NywtMTcyNjQ1NzQ4LDU3NDc0MzI3NSw0NzEyNDIxNjYsMTg3Nj
+c3NTkwNywxOTQ3MjgzNTQ5LC01NzUyMDA1NjQsLTEwODAzMTM2
+NDIsLTU4Njk3NDIxNiwtMTk5NzcxODg0NiwtNTQwODY4MzEsNj
+M0OTQ1OTgxLDE5NDk3MTQ0NzUsLTExODc2NTM1MTMsLTkxNDY3
+NDQ4N119
 -->
