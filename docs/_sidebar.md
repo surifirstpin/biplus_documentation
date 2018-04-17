@@ -23,8 +23,8 @@
   - [Global Functions](GlobalFunctions.md)
   
  - User Manuals
-   - [How to Login Biplus](How to Login BiPlus.md)
+   - [How to Login BiPlus](How to Login BiPlus.md)
    - [How to Browse Report](How to browse reports.md)
    - [How to Create Report](How to Create a Report.md)
-   - [How to Browse dashboard](How to Browse Dashboard.md)
-   - [How to Create dashboard](How to Create Dashboard.md)
+   - [How to Browse Dashboard](How to Browse Dashboard.md)
+   - [How to Create Dashboard](How to Create Dashboard.md)
