@@ -1,17 +1,6 @@
 <center><h1>How to Create a Report</h1></center> 
 BiPlus Reports displays the retrieved the data in the desired combinations as per your business needs and explores particular subject area it self. It provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight.
 
-## Getting Started
-
-Use this link http://52.29.248.194:8081/biplus in your url and Click on enter, it will navigate to BiPlus login page. 
-
--  In this page enter **Username** and **Password** then click on **login** to navigate to BiPlus Homepage. 
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/master/images/biplus_login.png)
-Image 1 :
-
-> **Note :** BiPlus Home page immediately displays the dashboard or Report set by other users on homepage ( Shown in Below image).
 
 **1.** Click on **Analyse section**.
 
@@ -209,10 +198,10 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzc4NjgzNjUsLTI3MTAyMjc4NywtMz
-AyOTI5MzY2LDU2NjI4ODM3LC04OTIwODQ3MjUsLTEwMzYyOTk5
-MzgsMjA0NDI4OTU5NywtMTcyNjQ1NzQ4LDU3NDc0MzI3NSwtOD
-kzMzUyNTQsLTE1NTU3OTE2MTcsMTQyMzQyNDk3NCwzNDA2NjUz
-NDAsLTY4MzQ2MzgwLDI0ODM1MTExNCwtMTg4NjA1NzMyMSw0Nz
-EyNDIxNjYsMTg3Njc3NTkwN119
+eyJoaXN0b3J5IjpbLTEzNjAwMzYzODQsLTExNzc4NjgzNjUsLT
+I3MTAyMjc4NywtMzAyOTI5MzY2LDU2NjI4ODM3LC04OTIwODQ3
+MjUsLTEwMzYyOTk5MzgsMjA0NDI4OTU5NywtMTcyNjQ1NzQ4LD
+U3NDc0MzI3NSwtODkzMzUyNTQsLTE1NTU3OTE2MTcsMTQyMzQy
+NDk3NCwzNDA2NjUzNDAsLTY4MzQ2MzgwLDI0ODM1MTExNCwtMT
+g4NjA1NzMyMSw0NzEyNDIxNjYsMTg3Njc3NTkwN119
 -->
