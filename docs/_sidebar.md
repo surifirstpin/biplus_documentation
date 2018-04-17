@@ -22,8 +22,8 @@
   - [Global Parameters](GlobalParameters.md)  
   - [Global Functions](GlobalFunctions.md)
   
- - User reports
+ - User Manuals
    - [How to browse reports](How to browse reports.md)
    - [How to create reports](How to Create a Report.md)
-   - [How to browse dashboard](How to  Dashboard.md)
+   - [How to browse dashboard](How to Browse Dashboard.md)
    - [How to create dashboard](How to Create Dashboard.md)
