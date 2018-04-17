@@ -1,8 +1,7 @@
 <center><h1>How to Create a Report</h1></center> 
 BiPlus Reports displays the retrieved the data in the desired combinations as per your business needs and explores particular subject area it self. It provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight.
 
-
-**1.** Click on **Analyse section**.
+**1.** Click on **Analyse section.**
 
 **2.** Select Desired **project** and **model** from the drop down list, depending on which you want to extract the data.
 
@@ -16,7 +15,7 @@ BiPlus Reports displays the retrieved the data in the desired combinations as pe
 
  **6.** Click **Run** to extract the data, based on selection made.
 
->  **Note :** Data retrieved on running the report are visible in **Data section**( Refer image 2).
+>  **Note :** Data retrieved on running a report, is visible in **Data section**( Refer image 2).
 
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/data_retreived_ur.png)**Image 2**
@@ -198,11 +197,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjAwMzYzODQsLTExNzc4NjgzNjUsLT
-I3MTAyMjc4NywtMzAyOTI5MzY2LDU2NjI4ODM3LC04OTIwODQ3
-MjUsLTEwMzYyOTk5MzgsMjA0NDI4OTU5NywtMTcyNjQ1NzQ4LD
-U3NDc0MzI3NSw0NzEyNDIxNjYsMTg3Njc3NTkwNywxOTQ3Mjgz
-NTQ5LC01NzUyMDA1NjQsLTEwODAzMTM2NDIsLTU4Njk3NDIxNi
-wtMTk5NzcxODg0NiwtNTQwODY4MzEsNjM0OTQ1OTgxLDE5NDk3
-MTQ0NzVdfQ==
+eyJoaXN0b3J5IjpbLTExOTM2NDAzNzYsLTEzNjAwMzYzODQsLT
+ExNzc4NjgzNjUsLTI3MTAyMjc4NywtMzAyOTI5MzY2LDU2NjI4
+ODM3LC04OTIwODQ3MjUsLTEwMzYyOTk5MzgsMjA0NDI4OTU5Ny
+wtMTcyNjQ1NzQ4LDU3NDc0MzI3NSw0NzEyNDIxNjYsMTg3Njc3
+NTkwNywxOTQ3MjgzNTQ5LC01NzUyMDA1NjQsLTEwODAzMTM2ND
+IsLTU4Njk3NDIxNiwtMTk5NzcxODg0NiwtNTQwODY4MzEsNjM0
+OTQ1OTgxXX0=
 -->
