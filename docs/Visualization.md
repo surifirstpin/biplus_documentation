@@ -308,8 +308,6 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Axis label** Text label for x-axis.
 
-### Reference Lines
-
 **Reference Lines** enables the creation of reference lines in a chart.
 
  - **Reference** specify a indicator name. 
@@ -341,8 +339,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Position** you can can align the y-axis to left or right side of the chart.
 
-### Reference Lines
-
 **Reference Lines** enables the creation of reference lines in a chart.
 
 - **Name** specify a reference name for specific information on y-axis.
@@ -373,6 +369,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzU4NTc4MywxMDU0NzY2NjYyLC04MT
+eyJoaXN0b3J5IjpbMTY4NDE3MDM1OSwxMDU0NzY2NjYyLC04MT
 UwMDUxODRdfQ==
 -->
