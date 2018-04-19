@@ -274,7 +274,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 ## Standard Editing Option in Charts
 
-##  General Section :
+### General Section :
 
 - **Title** specify title for the chart selected.
 
@@ -292,7 +292,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
-## X-Axis Menu Options
+### X-Axis Menu Options
 
 - **Axis type** specifies the how x-axis scale for Line, Bar,Bubble is calculated and displayed.
 
@@ -322,7 +322,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
  
  > **Note:**  X-Axis is enabled only for Line, Bar and Bubble chart only.
 
-## Y-Axis
+### Y-Axis
 
 - **Axis** select the measures values on y-axis  to enable
 editing options for y-axis in Line, Bar and bubble chart.
@@ -373,5 +373,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDc2NjY2MiwtODE1MDA1MTg0XX0=
+eyJoaXN0b3J5IjpbLTIxNzU4NTc4MywxMDU0NzY2NjYyLC04MT
+UwMDUxODRdfQ==
 -->
