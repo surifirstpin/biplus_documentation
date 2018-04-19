@@ -123,7 +123,7 @@ Click on **Calculated column** button to enable table calculations as shown in b
 
 ## Charts 
 
-To view the Visualization images of Retyreived dataClick on Charts Section
+To view the Visualization images of Retrieved data, Click on **Chart** Section
 
 ## Data 
 
@@ -188,7 +188,7 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTYyMjg3MjIsLTUwNjcwOTE4MCwxMD
+eyJoaXN0b3J5IjpbLTE5MTI4NjY3MzgsLTUwNjcwOTE4MCwxMD
 E3NzI0NDE3LDgyMjQ0Mjg1MiwxODA2MzY3MDk0LC0xMTkzNjQw
 Mzc2LC0xMzYwMDM2Mzg0LC0xMTc3ODY4MzY1LC0yNzEwMjI3OD
 csLTMwMjkyOTM2Niw1NjYyODgzNywtODkyMDg0NzI1LC0xMDM2
