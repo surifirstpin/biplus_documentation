@@ -406,7 +406,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 ##  World chart :
 
  It displays the data grouped by specific country and at the same time the grouped data regions are highlighted in the map.
-10. To view thw world chart
+**10.** To view the world chart, click on **world** tab under **General** section.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa5a5ec1ca971ffeed2d834874ab8905fc50bd31/images/world.png)
 
@@ -541,7 +541,7 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyNjYzMzM3LC0xODY5NDQ1MDMxLC0xMD
+eyJoaXN0b3J5IjpbNDUxNTE1MzA2LC0xODY5NDQ1MDMxLC0xMD
 UxODY4NjY3LDc3ODU3NzQ0NSwxNzQyNzgwMzIxLC0yNzUzMjI1
 MTAsMjU4NjE0MDg5LC03NTAwNjAyOTQsLTE5MTI4NjY3MzgsLT
 UwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMjQ0Mjg1MiwxODA2MzY3
