@@ -193,8 +193,10 @@ At Present there are 10 type of visualization images available in BiPlus, To vie
  - Table 
  - Widget
  - World
-
- **1.** Click on **line** tab under **general** section  to compare the data in line chart.
+ 
+## Line Chart
+ 
+ Click on **line** tab under **General** section  to compare the data in line chart.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6904440c50633ac92f461d7b7f2fd2c2d0e9b7dc/images/line_chart.png)
@@ -538,11 +540,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1Njg2ODk5LDE3NDI3ODAzMjEsLTI3NT
-MyMjUxMCwyNTg2MTQwODksLTc1MDA2MDI5NCwtMTkxMjg2Njcz
-OCwtNTA2NzA5MTgwLDEwMTc3MjQ0MTcsODIyNDQyODUyLDE4Nj
-EwMjI1MzYsLTExOTM2NDAzNzYsLTEzNjAwMzYzODQsLTExNzc4
-NjgzNjUsLTI3MTAyMjc4NywtMzAyOTI5MzY2LDU2NjI4ODM3LC
-04OTIwODQ3MjUsLTEwMzYyOTk5MzgsMjA0NDI4OTU5NywtMTcy
-NjQ1NzQ4XX0=
+eyJoaXN0b3J5IjpbLTE3MzE0NzY5MjAsMTc0Mjc4MDMyMSwtMj
+c1MzIyNTEwLDI1ODYxNDA4OSwtNzUwMDYwMjk0LC0xOTEyODY2
+NzM4LC01MDY3MDkxODAsMTAxNzcyNDQxNyw4MjI0NDI4NTIsMT
+g2MTAyMjUzNiwtMTE5MzY0MDM3NiwtMTM2MDAzNjM4NCwtMTE3
+Nzg2ODM2NSwtMjcxMDIyNzg3LC0zMDI5MjkzNjYsNTY2Mjg4Mz
+csLTg5MjA4NDcyNSwtMTAzNjI5OTkzOCwyMDQ0Mjg5NTk3LC0x
+NzI2NDU3NDhdfQ==
 -->
