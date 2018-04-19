@@ -127,7 +127,7 @@ To view the Visualization images of Retrieved data, Click on **Chart** Section.
 
 To view the type of visualizations available in BiPlus, click on  **General Section.** 
 
-At Present there are 10 type of visulisation images in BiPlus
+At Present there are 10 type of visualization images in BiPlus, To view them click on General section on right side of the screen
 
 ## Data 
 
@@ -192,7 +192,7 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTQxMTY4MCwyNTg2MTQwODksLTc1MD
+eyJoaXN0b3J5IjpbLTI3NTMyMjUxMCwyNTg2MTQwODksLTc1MD
 A2MDI5NCwtMTkxMjg2NjczOCwtNTA2NzA5MTgwLDEwMTc3MjQ0
 MTcsODIyNDQyODUyLDE4NjEwMjI1MzYsLTExOTM2NDAzNzYsLT
 EzNjAwMzYzODQsLTExNzc4NjgzNjUsLTI3MTAyMjc4NywtMzAy
