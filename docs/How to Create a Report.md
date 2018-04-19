@@ -488,7 +488,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Axis label** Text label for x-axis.
 
-- **Format** it enables number formatnumeric values.
+- **Format** it enables number format for numeric values.
 
 - **Currency** Using this field, you can specify the formatting for currency as of now AcuBi supports $,   ₹  ,   €  ,  £.
 
@@ -542,11 +542,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTg5MTA2NSw0NTE1MTUzMDYsLTE4Nj
-k0NDUwMzEsLTEwNTE4Njg2NjcsNzc4NTc3NDQ1LDE3NDI3ODAz
-MjEsLTI3NTMyMjUxMCwyNTg2MTQwODksLTc1MDA2MDI5NCwtMT
-kxMjg2NjczOCwtNTA2NzA5MTgwLDEwMTc3MjQ0MTcsODIyNDQy
-ODUyLDE4NjEwMjI1MzYsLTExOTM2NDAzNzYsLTEzNjAwMzYzOD
-QsLTExNzc4NjgzNjUsLTI3MTAyMjc4NywtMzAyOTI5MzY2LDU2
-NjI4ODM3XX0=
+eyJoaXN0b3J5IjpbLTEzMzM4NzY5MzAsNDUxNTE1MzA2LC0xOD
+Y5NDQ1MDMxLC0xMDUxODY4NjY3LDc3ODU3NzQ0NSwxNzQyNzgw
+MzIxLC0yNzUzMjI1MTAsMjU4NjE0MDg5LC03NTAwNjAyOTQsLT
+E5MTI4NjY3MzgsLTUwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMjQ0
+Mjg1MiwxODYxMDIyNTM2LC0xMTkzNjQwMzc2LC0xMzYwMDM2Mz
+g0LC0xMTc3ODY4MzY1LC0yNzEwMjI3ODcsLTMwMjkyOTM2Niw1
+NjYyODgzN119
 -->
