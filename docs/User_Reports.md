@@ -121,7 +121,7 @@ Click on **Calculated column** button to enable table calculations as shown in b
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)
 
-
+To view the Visualization images extracted Click on Charts Section
 ## Data 
 
 Data section under visualization is enabled based on the data retrieved for fields. Below are the parameters applicable on the data retrieved.
@@ -185,11 +185,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzcyNDQxNyw4MjI0NDI4NTIsMTgwNj
-M2NzA5NCwtMTE5MzY0MDM3NiwtMTM2MDAzNjM4NCwtMTE3Nzg2
-ODM2NSwtMjcxMDIyNzg3LC0zMDI5MjkzNjYsNTY2Mjg4MzcsLT
-g5MjA4NDcyNSwtMTAzNjI5OTkzOCwyMDQ0Mjg5NTk3LC0xNzI2
-NDU3NDgsNTc0NzQzMjc1LDQ3MTI0MjE2NiwxODc2Nzc1OTA3LD
-E5NDcyODM1NDksLTU3NTIwMDU2NCwtMTA4MDMxMzY0MiwtNTg2
-OTc0MjE2XX0=
+eyJoaXN0b3J5IjpbMTEwNDA1OTk0MSwxMDE3NzI0NDE3LDgyMj
+Q0Mjg1MiwxODA2MzY3MDk0LC0xMTkzNjQwMzc2LC0xMzYwMDM2
+Mzg0LC0xMTc3ODY4MzY1LC0yNzEwMjI3ODcsLTMwMjkyOTM2Ni
+w1NjYyODgzNywtODkyMDg0NzI1LC0xMDM2Mjk5OTM4LDIwNDQy
+ODk1OTcsLTE3MjY0NTc0OCw1NzQ3NDMyNzUsNDcxMjQyMTY2LD
+E4NzY3NzU5MDcsMTk0NzI4MzU0OSwtNTc1MjAwNTY0LC0xMDgw
+MzEzNjQyXX0=
 -->
