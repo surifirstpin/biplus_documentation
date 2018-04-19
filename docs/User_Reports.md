@@ -121,7 +121,10 @@ Click on **Calculated column** button to enable table calculations as shown in b
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)
 
+## Charts 
+
 To view the Visualization images extracted Click on Charts Section
+
 ## Data 
 
 Data section under visualization is enabled based on the data retrieved for fields. Below are the parameters applicable on the data retrieved.
@@ -185,7 +188,7 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDA1OTk0MSwxMDE3NzI0NDE3LDgyMj
+eyJoaXN0b3J5IjpbLTUwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMj
 Q0Mjg1MiwxODA2MzY3MDk0LC0xMTkzNjQwMzc2LC0xMzYwMDM2
 Mzg0LC0xMTc3ODY4MzY1LC0yNzEwMjI3ODcsLTMwMjkyOTM2Ni
 w1NjYyODgzNywtODkyMDg0NzI1LC0xMDM2Mjk5OTM4LDIwNDQy
