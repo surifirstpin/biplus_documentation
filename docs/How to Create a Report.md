@@ -20,29 +20,6 @@ BiPlus Reports displays the retrieved the data in the desired combinations as pe
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/data_retreived_ur.png)**Image 2**
 
-All the mathematical and logical calculation are carried out in a report using Calculated column
-
-Click on **Calculated column** button to enable table calculations as shown in below image,
-
-- **Field name** unique identifier name to refer calculated column.
-- **Label** labeling the calculated column.
-
-- **Data type** data type used (string,number).
-
-- **Field type** derives dimension or measure.
-
-- **Calculation** derive arithmetical & logical expressions.
-
-- **Calculate on the raw data** this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
-
-- **Run** the report after deriving the calculation all the values based on calculation is shown up in green colour as shown in below image,
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)
-
 ## Order  (Ascending / Descending)
 
 To view the column data in ascending or descending orders , add the column fields in order section to carry out the sorting on the field values.
@@ -197,11 +174,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTM2NDAzNzYsLTEzNjAwMzYzODQsLT
-ExNzc4NjgzNjUsLTI3MTAyMjc4NywtMzAyOTI5MzY2LDU2NjI4
-ODM3LC04OTIwODQ3MjUsLTEwMzYyOTk5MzgsMjA0NDI4OTU5Ny
-wtMTcyNjQ1NzQ4LDU3NDc0MzI3NSwtODkzMzUyNTQsLTE1NTU3
-OTE2MTcsMTQyMzQyNDk3NCwzNDA2NjUzNDAsLTY4MzQ2MzgwLD
-I0ODM1MTExNCwtMTg4NjA1NzMyMSw0NzEyNDIxNjYsMTg3Njc3
-NTkwN119
+eyJoaXN0b3J5IjpbLTEwODE2MzM2MTAsLTExOTM2NDAzNzYsLT
+EzNjAwMzYzODQsLTExNzc4NjgzNjUsLTI3MTAyMjc4NywtMzAy
+OTI5MzY2LDU2NjI4ODM3LC04OTIwODQ3MjUsLTEwMzYyOTk5Mz
+gsMjA0NDI4OTU5NywtMTcyNjQ1NzQ4LDU3NDc0MzI3NSwtODkz
+MzUyNTQsLTE1NTU3OTE2MTcsMTQyMzQyNDk3NCwzNDA2NjUzND
+AsLTY4MzQ2MzgwLDI0ODM1MTExNCwtMTg4NjA1NzMyMSw0NzEy
+NDIxNjZdfQ==
 -->
