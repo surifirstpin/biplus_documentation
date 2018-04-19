@@ -140,7 +140,7 @@ Click on **Calculated column** button to enable table calculations as shown in b
 
 ##  Format
 
-At the same time the format Tabeis enabled by allowing different type of number format to measure field value. Following are the list of number formats supported by BiPlus ;
+At the same time the **Format** Tab is enabled by allowing different type of number format to measure field value. Following are the list of number formats supported by BiPlus ;
 
 |  Example | Description |
 |  ------ | :------ |
@@ -540,11 +540,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4NjAwNzQsNzc4NTc3NDQ1LDE3NDI3OD
-AzMjEsLTI3NTMyMjUxMCwyNTg2MTQwODksLTc1MDA2MDI5NCwt
-MTkxMjg2NjczOCwtNTA2NzA5MTgwLDEwMTc3MjQ0MTcsODIyND
-QyODUyLDE4NjEwMjI1MzYsLTExOTM2NDAzNzYsLTEzNjAwMzYz
-ODQsLTExNzc4NjgzNjUsLTI3MTAyMjc4NywtMzAyOTI5MzY2LD
-U2NjI4ODM3LC04OTIwODQ3MjUsLTEwMzYyOTk5MzgsMjA0NDI4
-OTU5N119
+eyJoaXN0b3J5IjpbLTEwNTE4Njg2NjcsNzc4NTc3NDQ1LDE3ND
+I3ODAzMjEsLTI3NTMyMjUxMCwyNTg2MTQwODksLTc1MDA2MDI5
+NCwtMTkxMjg2NjczOCwtNTA2NzA5MTgwLDEwMTc3MjQ0MTcsOD
+IyNDQyODUyLDE4NjEwMjI1MzYsLTExOTM2NDAzNzYsLTEzNjAw
+MzYzODQsLTExNzc4NjgzNjUsLTI3MTAyMjc4NywtMzAyOTI5Mz
+Y2LDU2NjI4ODM3LC04OTIwODQ3MjUsLTEwMzYyOTk5MzgsMjA0
+NDI4OTU5N119
 -->
