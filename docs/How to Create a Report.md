@@ -77,14 +77,6 @@ To freeze the column field values while scrolling the data to right or left, cli
 
 you can view the consolidated value of the field by applying values By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on **Group** in field drop down provided and to release the same click on **Un-Group**. 
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/93c8d204507e325aea691be5e8a6e7662975fd3c/images/group.png)
-
-The below image shows , the consolidated values after grouping is applied on fields.
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/93c8d204507e325aea691be5e8a6e7662975fd3c/images/after_grouping.png)
-
 ## Multi-Level grouping
 
 Using BiPlus you can apply Multi-level grouping to the data extracted. consider the below example for more detailed description on multi level grouping.
@@ -98,15 +90,10 @@ Using BiPlus you can apply Multi-level grouping to the data extracted. consider 
 
 To find the specific data of the field from retrieved list, click on **Find** in the field drop down and enter the specific field value you want to view.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/0c61b3a711f6de1821fa63350eaa8f2e11e84486/images/find.png)
 
 ## Field Visualization On / Off
 
 To hide the specific field in the visualization charts click on **Hide Visualization** in the drop down of field  and to display the same click on **Show visualization**
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/75f9c50ef12a1aa2ff5c43aaafefa2fd1140597d/images/hide_visualisation.png)
 
 ## Remove
 
@@ -201,11 +188,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjA5MzAwLDgyMjQ0Mjg1MiwxODYxMD
-IyNTM2LC0xMTkzNjQwMzc2LC0xMzYwMDM2Mzg0LC0xMTc3ODY4
-MzY1LC0yNzEwMjI3ODcsLTMwMjkyOTM2Niw1NjYyODgzNywtOD
-kyMDg0NzI1LC0xMDM2Mjk5OTM4LDIwNDQyODk1OTcsLTE3MjY0
-NTc0OCw1NzQ3NDMyNzUsLTg5MzM1MjU0LC0xNTU1NzkxNjE3LD
-E0MjM0MjQ5NzQsMzQwNjY1MzQwLC02ODM0NjM4MCwyNDgzNTEx
-MTRdfQ==
+eyJoaXN0b3J5IjpbLTE3NTUxNDk2NzYsODIyNDQyODUyLDE4Nj
+EwMjI1MzYsLTExOTM2NDAzNzYsLTEzNjAwMzYzODQsLTExNzc4
+NjgzNjUsLTI3MTAyMjc4NywtMzAyOTI5MzY2LDU2NjI4ODM3LC
+04OTIwODQ3MjUsLTEwMzYyOTk5MzgsMjA0NDI4OTU5NywtMTcy
+NjQ1NzQ4LDU3NDc0MzI3NSwtODkzMzUyNTQsLTE1NTU3OTE2MT
+csMTQyMzQyNDk3NCwzNDA2NjUzNDAsLTY4MzQ2MzgwLDI0ODM1
+MTExNF19
 -->
