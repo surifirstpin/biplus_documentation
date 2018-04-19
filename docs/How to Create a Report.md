@@ -124,8 +124,7 @@ Click on **Calculated column** button to enable table calculations as shown in b
 ## Charts 
 
 To view the Visualization images of Retrieved data, Click on **Chart** Section.
-
-Enter 
+Click on General section
 ## Data 
 
 Data section under visualization is enabled based on the data retrieved for fields. Below are the parameters applicable on the data retrieved.
@@ -189,11 +188,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDI4OTY5NTYsLTE5MTI4NjY3MzgsLT
-UwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMjQ0Mjg1MiwxODYxMDIy
-NTM2LC0xMTkzNjQwMzc2LC0xMzYwMDM2Mzg0LC0xMTc3ODY4Mz
-Y1LC0yNzEwMjI3ODcsLTMwMjkyOTM2Niw1NjYyODgzNywtODky
-MDg0NzI1LC0xMDM2Mjk5OTM4LDIwNDQyODk1OTcsLTE3MjY0NT
-c0OCw1NzQ3NDMyNzUsLTg5MzM1MjU0LC0xNTU1NzkxNjE3LDE0
-MjM0MjQ5NzRdfQ==
+eyJoaXN0b3J5IjpbLTc1MDA2MDI5NCwtMTkxMjg2NjczOCwtNT
+A2NzA5MTgwLDEwMTc3MjQ0MTcsODIyNDQyODUyLDE4NjEwMjI1
+MzYsLTExOTM2NDAzNzYsLTEzNjAwMzYzODQsLTExNzc4NjgzNj
+UsLTI3MTAyMjc4NywtMzAyOTI5MzY2LDU2NjI4ODM3LC04OTIw
+ODQ3MjUsLTEwMzYyOTk5MzgsMjA0NDI4OTU5NywtMTcyNjQ1Nz
+Q4LDU3NDc0MzI3NSwtODkzMzUyNTQsLTE1NTU3OTE2MTcsMTQy
+MzQyNDk3NF19
 -->
