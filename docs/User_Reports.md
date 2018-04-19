@@ -193,7 +193,7 @@ Let us see them in detail,
  - Widget
  - World
 
- **1.** Click on **line** tab under **general** section  to compare the data in line chart.
+ **7.** Click on **line** tab under **general** section  to compare the data in line chart.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6904440c50633ac92f461d7b7f2fd2c2d0e9b7dc/images/line_chart.png)
@@ -537,11 +537,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Mjc4MDMyMSwtMjc1MzIyNTEwLDI1OD
-YxNDA4OSwtNzUwMDYwMjk0LC0xOTEyODY2NzM4LC01MDY3MDkx
-ODAsMTAxNzcyNDQxNyw4MjI0NDI4NTIsMTgwNjM2NzA5NCwtMT
-E5MzY0MDM3NiwtMTM2MDAzNjM4NCwtMTE3Nzg2ODM2NSwtMjcx
-MDIyNzg3LC0zMDI5MjkzNjYsNTY2Mjg4MzcsLTg5MjA4NDcyNS
-wtMTAzNjI5OTkzOCwyMDQ0Mjg5NTk3LC0xNzI2NDU3NDgsNTc0
-NzQzMjc1XX0=
+eyJoaXN0b3J5IjpbLTIwNTA3MjI5MywxNzQyNzgwMzIxLC0yNz
+UzMjI1MTAsMjU4NjE0MDg5LC03NTAwNjAyOTQsLTE5MTI4NjY3
+MzgsLTUwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMjQ0Mjg1MiwxOD
+A2MzY3MDk0LC0xMTkzNjQwMzc2LC0xMzYwMDM2Mzg0LC0xMTc3
+ODY4MzY1LC0yNzEwMjI3ODcsLTMwMjkyOTM2Niw1NjYyODgzNy
+wtODkyMDg0NzI1LC0xMDM2Mjk5OTM4LDIwNDQyODk1OTcsLTE3
+MjY0NTc0OF19
 -->
