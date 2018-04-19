@@ -96,7 +96,7 @@ Using BiPlus you can apply Multi-level grouping to the data extracted. consider 
 
 ## Find
 
-To find the specific data of the field from retrieved list, click on **Find** in the  field drop down and enter the specific field value you want to view.
+To find the specific data of the field from retrieved list, click on **Find** in the field drop down and enter the specific field value you want to view.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0c61b3a711f6de1821fa63350eaa8f2e11e84486/images/find.png)
@@ -201,11 +201,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyNDQyODUyLDE4MDYzNjcwOTQsLTExOT
-M2NDAzNzYsLTEzNjAwMzYzODQsLTExNzc4NjgzNjUsLTI3MTAy
-Mjc4NywtMzAyOTI5MzY2LDU2NjI4ODM3LC04OTIwODQ3MjUsLT
-EwMzYyOTk5MzgsMjA0NDI4OTU5NywtMTcyNjQ1NzQ4LDU3NDc0
-MzI3NSw0NzEyNDIxNjYsMTg3Njc3NTkwNywxOTQ3MjgzNTQ5LC
-01NzUyMDA1NjQsLTEwODAzMTM2NDIsLTU4Njk3NDIxNiwtMTk5
-NzcxODg0Nl19
+eyJoaXN0b3J5IjpbLTkyNjA5MzAwLDgyMjQ0Mjg1MiwxODA2Mz
+Y3MDk0LC0xMTkzNjQwMzc2LC0xMzYwMDM2Mzg0LC0xMTc3ODY4
+MzY1LC0yNzEwMjI3ODcsLTMwMjkyOTM2Niw1NjYyODgzNywtOD
+kyMDg0NzI1LC0xMDM2Mjk5OTM4LDIwNDQyODk1OTcsLTE3MjY0
+NTc0OCw1NzQ3NDMyNzUsNDcxMjQyMTY2LDE4NzY3NzU5MDcsMT
+k0NzI4MzU0OSwtNTc1MjAwNTY0LC0xMDgwMzEzNjQyLC01ODY5
+NzQyMTZdfQ==
 -->
