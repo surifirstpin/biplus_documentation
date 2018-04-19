@@ -15,10 +15,10 @@ BiPlus Reports displays the retrieved the data in the desired combinations as pe
 
  **6.** Click **Run** to extract the data, based on selection made.
 
->  **Note :** Data retrieved on running a report, is visible in **Data section**( Refer image 2).
+>  **Note :** Data retrieved on running a report, is visible in **Data section**( Refer image 1).
 
  ![
-](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/data_retreived_ur.png)**Image 2**
+](https://raw.githubusercontent.com/sv18042016/fp1/62c6ac77c1e3a30e83c0718fefd7fd88ae35a203/images/data_retreived_ur.png)**Image 1**
 
 ## Order  (Ascending / Descending)
 
@@ -123,7 +123,7 @@ Click on **Calculated column** button to enable table calculations as shown in b
 
 ## Data 
 
-**Data section** under **Charts Section** is enabled based on the data retrieved for fields. Below are the parameters applicable on the data retrieved.
+**Data Tab** under **Charts Section** is enabled based on the data retrieved for fields. Below are the parameters applicable on the data retrieved.
 
 - **Row Grouping** enables row grouping for fields values based on the field selected as shown in the below image.
 
@@ -140,7 +140,7 @@ Click on **Calculated column** button to enable table calculations as shown in b
 
 ##  Format
 
-At the same time the format section is enabled by allowing different type of number format to measure field value. Following are the list of number formats supported by BiPlus ;
+At the same time the format Tabeis enabled by allowing different type of number format to measure field value. Following are the list of number formats supported by BiPlus ;
 
 |  Example | Description |
 |  ------ | :------ |
@@ -540,11 +540,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4NTc3NDQ1LDE3NDI3ODAzMjEsLTI3NT
-MyMjUxMCwyNTg2MTQwODksLTc1MDA2MDI5NCwtMTkxMjg2Njcz
-OCwtNTA2NzA5MTgwLDEwMTc3MjQ0MTcsODIyNDQyODUyLDE4Nj
-EwMjI1MzYsLTExOTM2NDAzNzYsLTEzNjAwMzYzODQsLTExNzc4
-NjgzNjUsLTI3MTAyMjc4NywtMzAyOTI5MzY2LDU2NjI4ODM3LC
-04OTIwODQ3MjUsLTEwMzYyOTk5MzgsMjA0NDI4OTU5NywtMTcy
-NjQ1NzQ4XX0=
+eyJoaXN0b3J5IjpbOTc4NjAwNzQsNzc4NTc3NDQ1LDE3NDI3OD
+AzMjEsLTI3NTMyMjUxMCwyNTg2MTQwODksLTc1MDA2MDI5NCwt
+MTkxMjg2NjczOCwtNTA2NzA5MTgwLDEwMTc3MjQ0MTcsODIyND
+QyODUyLDE4NjEwMjI1MzYsLTExOTM2NDAzNzYsLTEzNjAwMzYz
+ODQsLTExNzc4NjgzNjUsLTI3MTAyMjc4NywtMzAyOTI5MzY2LD
+U2NjI4ODM3LC04OTIwODQ3MjUsLTEwMzYyOTk5MzgsMjA0NDI4
+OTU5N119
 -->
