@@ -9,10 +9,13 @@ To start browsing into BiPlus, Use this link [http://52.29.248.194:8081/biplus](
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/biplus_login.png)
 
-Once you login BiPlus, it will navigate to BiPlus Homepage, which immediately displays the dashboard or Report set on homepage by other users.
+Once you login BiPlus, it will navigate to BiPlus Homepage.
+
+> **Note :** which immediately displays the dashboard or Report set on homepage by other users.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/7b586036bd846df4b3dd83616f332177ee6f7dde/images/homepage.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzIxNTk5MywxMjY5Nzg2MDA4XX0=
+eyJoaXN0b3J5IjpbLTgxNzcyNDY5MSwxOTEzMjE1OTkzLDEyNj
+k3ODYwMDhdfQ==
 -->
