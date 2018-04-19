@@ -76,7 +76,7 @@ you can view the consolidated value of the field by applying values By selecting
 
 ## Multi-Level grouping
 
-Using BiPlus you can apply Multi-level grouping to the data extracted. consider the below example for more detailed description on multi level grouping.
+Using BiPlus, you can apply Multi-level grouping to the data extracted. consider the below example for more detailed description on multi level grouping.
 
 > **For instance** : in the below image grouping has been applied to 2 dimension fields **Station code** and **EmployeeID.** In retrieved data on expanding Station code it displays the perspective **EmployeeID** on Further Expansion of **EmployyeID** it displays Role of the Employee  as shown in below image.
 
@@ -540,11 +540,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTE4Njg2NjcsNzc4NTc3NDQ1LDE3ND
-I3ODAzMjEsLTI3NTMyMjUxMCwyNTg2MTQwODksLTc1MDA2MDI5
-NCwtMTkxMjg2NjczOCwtNTA2NzA5MTgwLDEwMTc3MjQ0MTcsOD
-IyNDQyODUyLDE4NjEwMjI1MzYsLTExOTM2NDAzNzYsLTEzNjAw
-MzYzODQsLTExNzc4NjgzNjUsLTI3MTAyMjc4NywtMzAyOTI5Mz
-Y2LDU2NjI4ODM3LC04OTIwODQ3MjUsLTEwMzYyOTk5MzgsMjA0
-NDI4OTU5N119
+eyJoaXN0b3J5IjpbLTE4Njk0NDUwMzEsLTEwNTE4Njg2NjcsNz
+c4NTc3NDQ1LDE3NDI3ODAzMjEsLTI3NTMyMjUxMCwyNTg2MTQw
+ODksLTc1MDA2MDI5NCwtMTkxMjg2NjczOCwtNTA2NzA5MTgwLD
+EwMTc3MjQ0MTcsODIyNDQyODUyLDE4NjEwMjI1MzYsLTExOTM2
+NDAzNzYsLTEzNjAwMzYzODQsLTExNzc4NjgzNjUsLTI3MTAyMj
+c4NywtMzAyOTI5MzY2LDU2NjI4ODM3LC04OTIwODQ3MjUsLTEw
+MzYyOTk5MzhdfQ==
 -->
