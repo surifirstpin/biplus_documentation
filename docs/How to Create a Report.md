@@ -125,7 +125,10 @@ Click on **Calculated column** button to enable table calculations as shown in b
 
 To view the Visualization images of Retrieved data, Click on **Chart** Section.
 
-To view the type of visualizations available in BiPlus, click on  **General Section** click on type of visualization chart you want to view.
+To view the type of visualizations available in BiPlus, click on  **General Section.** 
+
+At Present there are 10 type of visulisation images in BiPlus
+
 ## Data 
 
 Data section under visualization is enabled based on the data retrieved for fields. Below are the parameters applicable on the data retrieved.
@@ -189,11 +192,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4NjE0MDg5LC03NTAwNjAyOTQsLTE5MT
-I4NjY3MzgsLTUwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMjQ0Mjg1
-MiwxODYxMDIyNTM2LC0xMTkzNjQwMzc2LC0xMzYwMDM2Mzg0LC
-0xMTc3ODY4MzY1LC0yNzEwMjI3ODcsLTMwMjkyOTM2Niw1NjYy
-ODgzNywtODkyMDg0NzI1LC0xMDM2Mjk5OTM4LDIwNDQyODk1OT
-csLTE3MjY0NTc0OCw1NzQ3NDMyNzUsLTg5MzM1MjU0LC0xNTU1
-NzkxNjE3XX0=
+eyJoaXN0b3J5IjpbLTIxOTQxMTY4MCwyNTg2MTQwODksLTc1MD
+A2MDI5NCwtMTkxMjg2NjczOCwtNTA2NzA5MTgwLDEwMTc3MjQ0
+MTcsODIyNDQyODUyLDE4NjEwMjI1MzYsLTExOTM2NDAzNzYsLT
+EzNjAwMzYzODQsLTExNzc4NjgzNjUsLTI3MTAyMjc4NywtMzAy
+OTI5MzY2LDU2NjI4ODM3LC04OTIwODQ3MjUsLTEwMzYyOTk5Mz
+gsMjA0NDI4OTU5NywtMTcyNjQ1NzQ4LDU3NDc0MzI3NSwtODkz
+MzUyNTRdfQ==
 -->
