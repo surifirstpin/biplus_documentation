@@ -180,7 +180,8 @@ BiPlus will enable you to check the field values of the measure in the following
 To view the Visualization images of Retrieved data, Click on **Chart** Section.
 
 At Present there are 10 type of visualization images available in BiPlus, To view them click on **General section.** 
-Let us see them in detail,
+
+**Let us see them in detail,**
 
  - Line
  - Bar
@@ -193,7 +194,7 @@ Let us see them in detail,
  - Widget
  - World
 
- **.** Click on **line** tab under **general** section  to compare the data in line chart.
+ **1.** Click on **line** tab under **general** section  to compare the data in line chart.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6904440c50633ac92f461d7b7f2fd2c2d0e9b7dc/images/line_chart.png)
@@ -537,7 +538,7 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3NTM5NjA4LDE3NDI3ODAzMjEsLTI3NT
+eyJoaXN0b3J5IjpbNTA1Njg2ODk5LDE3NDI3ODAzMjEsLTI3NT
 MyMjUxMCwyNTg2MTQwODksLTc1MDA2MDI5NCwtMTkxMjg2Njcz
 OCwtNTA2NzA5MTgwLDEwMTc3MjQ0MTcsODIyNDQyODUyLDE4Nj
 EwMjI1MzYsLTExOTM2NDAzNzYsLTEzNjAwMzYzODQsLTExNzc4
