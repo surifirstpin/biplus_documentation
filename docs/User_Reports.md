@@ -180,7 +180,8 @@ BiPlus will enable you to check the field values of the measure in the following
 To view the Visualization images of Retrieved data, Click on **Chart** Section.
 
 At Present there are 10 type of visualization images available in BiPlus, To view them click on **General section.** 
-Let us see them in detail,
+
+**Let us see them in detail,**
 
  - Line
  - Bar
@@ -193,7 +194,7 @@ Let us see them in detail,
  - Widget
  - World
 
- **7.** Click on **line** tab under **general** section  to compare the data in line chart.
+ **1.** Click on **line** tab under **general** section  to compare the data in line chart.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6904440c50633ac92f461d7b7f2fd2c2d0e9b7dc/images/line_chart.png)
@@ -537,11 +538,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTA3MjI5MywxNzQyNzgwMzIxLC0yNz
-UzMjI1MTAsMjU4NjE0MDg5LC03NTAwNjAyOTQsLTE5MTI4NjY3
-MzgsLTUwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMjQ0Mjg1MiwxOD
-A2MzY3MDk0LC0xMTkzNjQwMzc2LC0xMzYwMDM2Mzg0LC0xMTc3
-ODY4MzY1LC0yNzEwMjI3ODcsLTMwMjkyOTM2Niw1NjYyODgzNy
-wtODkyMDg0NzI1LC0xMDM2Mjk5OTM4LDIwNDQyODk1OTcsLTE3
-MjY0NTc0OF19
+eyJoaXN0b3J5IjpbNTA1Njg2ODk5LDE3NDI3ODAzMjEsLTI3NT
+MyMjUxMCwyNTg2MTQwODksLTc1MDA2MDI5NCwtMTkxMjg2Njcz
+OCwtNTA2NzA5MTgwLDEwMTc3MjQ0MTcsODIyNDQyODUyLDE4MD
+YzNjcwOTQsLTExOTM2NDAzNzYsLTEzNjAwMzYzODQsLTExNzc4
+NjgzNjUsLTI3MTAyMjc4NywtMzAyOTI5MzY2LDU2NjI4ODM3LC
+04OTIwODQ3MjUsLTEwMzYyOTk5MzgsMjA0NDI4OTU5NywtMTcy
+NjQ1NzQ4XX0=
 -->
