@@ -123,7 +123,7 @@ Click on **Calculated column** button to enable table calculations as shown in b
 
 ## Charts 
 
-To view the Visualization images extracted Click on Charts Section
+To view the Visualization images of Retyreived dataClick on Charts Section
 
 ## Data 
 
@@ -188,11 +188,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMj
-Q0Mjg1MiwxODA2MzY3MDk0LC0xMTkzNjQwMzc2LC0xMzYwMDM2
-Mzg0LC0xMTc3ODY4MzY1LC0yNzEwMjI3ODcsLTMwMjkyOTM2Ni
-w1NjYyODgzNywtODkyMDg0NzI1LC0xMDM2Mjk5OTM4LDIwNDQy
-ODk1OTcsLTE3MjY0NTc0OCw1NzQ3NDMyNzUsNDcxMjQyMTY2LD
-E4NzY3NzU5MDcsMTk0NzI4MzU0OSwtNTc1MjAwNTY0LC0xMDgw
-MzEzNjQyXX0=
+eyJoaXN0b3J5IjpbLTEwMTYyMjg3MjIsLTUwNjcwOTE4MCwxMD
+E3NzI0NDE3LDgyMjQ0Mjg1MiwxODA2MzY3MDk0LC0xMTkzNjQw
+Mzc2LC0xMzYwMDM2Mzg0LC0xMTc3ODY4MzY1LC0yNzEwMjI3OD
+csLTMwMjkyOTM2Niw1NjYyODgzNywtODkyMDg0NzI1LC0xMDM2
+Mjk5OTM4LDIwNDQyODk1OTcsLTE3MjY0NTc0OCw1NzQ3NDMyNz
+UsNDcxMjQyMTY2LDE4NzY3NzU5MDcsMTk0NzI4MzU0OSwtNTc1
+MjAwNTY0XX0=
 -->
