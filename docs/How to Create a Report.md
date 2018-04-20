@@ -288,13 +288,13 @@ For example, when you want to buy a Laptop, you can use a radar chart to compare
   
 - **Reverse scale** on selecting this checkbox the values shown in the chart will be reversed, i.e. if the 10 highest values are shown and if reversed scale is checked, then chart will  show the 10 lowest values.
 
-- **Show ticklabels** on selecting the checkbox  it enables measure values on y-axis.
+- **Show ticklabels** on selecting this checkbox  it enables measure values on y-axis.
 
-- **Show arc lines** on selecting the checkbox it points the dimension fields in radar chart.
+- **Show arc lines** on selecting this checkbox it points the dimension fields in radar chart.
 
 - **Arc field** select the dimension field to apply arc lines.
 
-- **Curve** it maximum and minimize the surface area in radar chart.
+- **Curve** it maximize and minimize the surface area in radar chart.
 
 ## Bubble chart :
 
@@ -544,11 +544,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODE0NTQ0NSwxMjkxMjYwMTcyLDQzMT
-g1MDczMiwtMTMzMzg3NjkzMCw0NTE1MTUzMDYsLTE4Njk0NDUw
-MzEsLTEwNTE4Njg2NjcsNzc4NTc3NDQ1LDE3NDI3ODAzMjEsLT
-I3NTMyMjUxMCwyNTg2MTQwODksLTc1MDA2MDI5NCwtMTkxMjg2
-NjczOCwtNTA2NzA5MTgwLDEwMTc3MjQ0MTcsODIyNDQyODUyLD
-E4NjEwMjI1MzYsLTExOTM2NDAzNzYsLTEzNjAwMzYzODQsLTEx
-Nzc4NjgzNjVdfQ==
+eyJoaXN0b3J5IjpbLTIwMjc0MDM5MTcsMTI5MTI2MDE3Miw0Mz
+E4NTA3MzIsLTEzMzM4NzY5MzAsNDUxNTE1MzA2LC0xODY5NDQ1
+MDMxLC0xMDUxODY4NjY3LDc3ODU3NzQ0NSwxNzQyNzgwMzIxLC
+0yNzUzMjI1MTAsMjU4NjE0MDg5LC03NTAwNjAyOTQsLTE5MTI4
+NjY3MzgsLTUwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMjQ0Mjg1Mi
+wxODYxMDIyNTM2LC0xMTkzNjQwMzc2LC0xMzYwMDM2Mzg0LC0x
+MTc3ODY4MzY1XX0=
 -->
