@@ -94,6 +94,8 @@ Using BiPlus, you can apply Multi-level grouping to the data extracted. consider
 
 > **For instance** : in the below image grouping has been applied to 2 dimension fields **Station code** and **Whenmade (hour).** In retrieved data on expanding Station code it displays the perspective number of records available in that particular **Whenmade (hour),** on Further Expansion, it displays the total number of records obtained in that hour ( (orderid)
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/52f9fddc123da5bed6b9b929c546d86539a859b9/images/multi_level_grouping_ur.png)
 
 
 ## Calculated Column
@@ -540,11 +542,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTIzMTI3MywtMTg1NjE0Mzc3NSwzMD
-UxMzg0NCwxMjkxMjYwMTcyLDQzMTg1MDczMiwtMTMzMzg3Njkz
-MCw0NTE1MTUzMDYsLTE4Njk0NDUwMzEsLTEwNTE4Njg2NjcsNz
-c4NTc3NDQ1LDE3NDI3ODAzMjEsLTI3NTMyMjUxMCwyNTg2MTQw
-ODksLTc1MDA2MDI5NCwtMTkxMjg2NjczOCwtNTA2NzA5MTgwLD
-EwMTc3MjQ0MTcsODIyNDQyODUyLDE4NjEwMjI1MzYsLTExOTM2
-NDAzNzZdfQ==
+eyJoaXN0b3J5IjpbMTExNDgxODQ2LC0xODU2MTQzNzc1LDMwNT
+EzODQ0LDEyOTEyNjAxNzIsNDMxODUwNzMyLC0xMzMzODc2OTMw
+LDQ1MTUxNTMwNiwtMTg2OTQ0NTAzMSwtMTA1MTg2ODY2Nyw3Nz
+g1Nzc0NDUsMTc0Mjc4MDMyMSwtMjc1MzIyNTEwLDI1ODYxNDA4
+OSwtNzUwMDYwMjk0LC0xOTEyODY2NzM4LC01MDY3MDkxODAsMT
+AxNzcyNDQxNyw4MjI0NDI4NTIsMTg2MTAyMjUzNiwtMTE5MzY0
+MDM3Nl19
 -->
