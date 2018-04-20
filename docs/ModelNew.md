@@ -29,9 +29,9 @@
 <p><strong>Connection</strong> Select the database connection from the list provided.<br>
 
 <img src="https://raw.githubusercontent.com/sv18042016/fp1/master/images/model2.png" alt="enter image description here"></p>
+
 </li>
-<li>
-<p><strong>Database</strong>  Select the database for configuration from databases section. All the selected databases are visible under <strong>Selected Databases</strong> section.<br>
+<li><p><strong>Database</strong>  Select the database for configuration from databases section. All the selected databases are visible under <strong>Selected Databases</strong> section.<br>
 <img src="https://raw.githubusercontent.com/sv18042016/fp1/master/images/model3.png" alt="enter image description here"></p>
 </li>
 <li>
@@ -1384,6 +1384,6 @@ String  → “sql”  : “CONCAT('Date : ',${TABLE}.OrderDate)”</p>
 </tbody>
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc0MzE2MTcsNDk4OTIxOTM3LDQ1NT
-g5NDg0NCw3NTExNDk5OThdfQ==
+eyJoaXN0b3J5IjpbLTg4Mjg3NTYyMSwtMTIwNzQzMTYxNyw0OT
+g5MjE5MzcsNDU1ODk0ODQ0LDc1MTE0OTk5OF19
 -->
