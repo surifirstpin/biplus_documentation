@@ -1,6 +1,6 @@
 <center><h1>Model</h1></center>
 
-A model is a customized gateway into the database for accessing data as per business logic. Acubi provides an IDE, which allows mappings between views (database tables) and apply several filters on the data as per business requirement. It is designed in such a way that it provides a spontaneous data analysis to specific business users.
+A model is a customized gateway into the database for accessing data as per business logic. BiPlus provides an IDE, which allows mappings between views (database tables) and apply several filters on the data as per business requirement. It is designed in such a way that it provides a spontaneous data analysis to specific business users.
 
 > **Example :**  If a sales manager wants to retrieve different data then material manager, we need to define login based filters on the model with specific assignments to the users.
 
@@ -60,7 +60,7 @@ The following are the list of entries made to create a project.
 
 ## Model and Customization
 
-After saving a project, Acubi will display the views and relevant information of the project as a Model which can be customized as per the business requirement. Model Customization can be done among views in the following ways.
+After saving a project, BiPlus will display the views and relevant information of the project as a Model which can be customized as per the business requirement. Model Customization can be done among views in the following ways.
 
 -  A new mapping or relation can be defined among views based on a specific condition.
 
@@ -79,7 +79,7 @@ After saving a project, Acubi will display the views and relevant information of
 |   | explore | displays the views (the tabes selected in the project) with the selected charecteristics |
 |  2 | **For View** |  |
 |   | name | name of the table name in database |
-|   | label | allows to customize the dts play name of the view in Acubi |
+|   | label | allows to customize the dts play name of the view in BiPlus |
 |   | filters | the list of filters to be applied on the data from the view and respective mapped views defined in the 'joins"section |
 |   | joins | specifies the list of associated views which are mapped with the current view & mention the mappng criteria |
 |  2A | **Filter characteristics** | Filters can be date-based, string-based, value-based & user-based |
@@ -122,7 +122,7 @@ I.  **filter_sql :**  the filter expression or condition. Filter expression can 
 > String-based : ROOT.Orders.PaymentMode IN (‘Cash’,’PayTM’)  
 > Number-based : ROOT.BI_Orders.Amount IS NOT NULL.
 
--   **User-based :**  Acubi allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users. That means, for a particular user login, the data retrievable in Analyze section will be constrained with a list of pre-defined values.
+-   **User-based :**  BiPlus allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users. That means, for a particular user login, the data retrievable in Analyze section will be constrained with a list of pre-defined values.
 
 ```
  " DB.TABLE.COLUMN IN
@@ -169,7 +169,7 @@ The attributes in “joins” section will be as follows:
 
 Views are independent tables chosen while creating a project. All the columns in the table are called fields of view and will be adopted with relevant features.
 
-Acubi allows various actions to performed in views as follows:
+BiPlus allows various actions to performed in views as follows:
 
 -  Creating a new field (User Defined Fields).
 
@@ -496,5 +496,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzAwNTQ5MDgsMTMyMDM5MDUxMF19
+eyJoaXN0b3J5IjpbNTEyNDY4MzUxLDEzMjAzOTA1MTBdfQ==
 -->
