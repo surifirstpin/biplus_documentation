@@ -2,7 +2,7 @@
 
 <center><h1>Model</h1></center>
 
-<p>A model is a customized gateway into the database for accessing data as per business logic. Bi+ provides an IDE, which allows mappings between views (database tables) and apply several filters on the data as per business requirement. It is designed in such a way that it provides a spontaneous data analysis to specific business users.</p>
+<p>A model is a customized gateway into the database for accessing data as per business logic. BiPlus provides an IDE, which allows mappings between views (database tables) and apply several filters on the data as per business requirement. It is designed in such a way that it provides a spontaneous data analysis to specific business users.</p>
 <blockquote>
 <p><strong>Example :</strong> If a sales manager wants to retrieve different data then material manager, we need to define login based filters on the model with specific assignments to the users.</p>
 </blockquote>
@@ -53,7 +53,7 @@
 <li>Once all the entries are made click on <strong>Save project</strong> to save the project created.</li>
 </ol>
 <h2 id="model-and-customization">Model and Customization:</h2>
-<p>After saving a project, Bi+ will display the views and relevant information of the project as a Model which can be customized as per the business requirement. Model Customization can be done among views in the following ways.</p>
+<p>After saving a project, BiPlus will display the views and relevant information of the project as a Model which can be customized as per the business requirement. Model Customization can be done among views in the following ways.</p>
 <ol>
 <li>A new mapping or relation can be defined among views based on a specific condition.</li>
 <li>Edit the join criteria between views.</li>
@@ -108,7 +108,7 @@
 <tr>
 <td align="left"></td>
 <td>label</td>
-<td>allows to customize the dts play name of the view in Bi+</td>
+<td>allows to customize the dts play name of the view in BiPlus</td>
 </tr>
 <tr>
 <td align="left"></td>
@@ -261,7 +261,7 @@ Number-based : ROOT.BI_Orders.Amount IS NOT NULL.</p>
 <tr>
 <td align="left">2</td>
 <td>label</td>
-<td>allows to customise the display name of the view in bi+</td>
+<td>allows to customise the display name of the view in BiPlus</td>
 </tr>
 <tr>
 <td align="left">3</td>
@@ -1383,6 +1383,6 @@ String  → “sql”  : “CONCAT('Date : ',${TABLE}.OrderDate)”</p>
 </tbody>
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4OTIxOTM3LDQ1NTg5NDg0NCw3NTExND
-k5OThdfQ==
+eyJoaXN0b3J5IjpbLTE2MTY0MjY1NzUsNDk4OTIxOTM3LDQ1NT
+g5NDg0NCw3NTExNDk5OThdfQ==
 -->
