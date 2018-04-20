@@ -415,7 +415,10 @@ It displays one or more data series as a data graph. Widget chart is used to dis
  It displays the data grouped by specific country and at the same time the grouped data regions are highlighted in the map.
  
 **10.** To view the **World chart** click on **world** tab under **General** section.
- > Note : you can define colouring for particul;ar field in model. 
+
+
+ > Note : you can define colouring for particular field in model. it inturn display the colour defibned for the field in model section is displays the same her in world map. 
+ 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa5a5ec1ca971ffeed2d834874ab8905fc50bd31/images/world.png)
 
 - **Title** specify a title for world map.
@@ -549,11 +552,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1NDQ4Mzc1LDQ5ODc5NjI0OCwxMjAwNT
-g5NTU5LC0yMDE4MDgxODkzLDE0MjgxMzE1NDgsLTEwNzczNzgz
-OCwtMTU3MzU2NDUwNywxNzU4Mzg1OTc0LDExMTQ4MTg0NiwtMT
-g1NjE0Mzc3NSwzMDUxMzg0NCwxMjkxMjYwMTcyLDQzMTg1MDcz
-MiwtMTMzMzg3NjkzMCw0NTE1MTUzMDYsLTE4Njk0NDUwMzEsLT
-EwNTE4Njg2NjcsNzc4NTc3NDQ1LDE3NDI3ODAzMjEsLTI3NTMy
-MjUxMF19
+eyJoaXN0b3J5IjpbMjY1MTUwMjQsNDk4Nzk2MjQ4LDEyMDA1OD
+k1NTksLTIwMTgwODE4OTMsMTQyODEzMTU0OCwtMTA3NzM3ODM4
+LC0xNTczNTY0NTA3LDE3NTgzODU5NzQsMTExNDgxODQ2LC0xOD
+U2MTQzNzc1LDMwNTEzODQ0LDEyOTEyNjAxNzIsNDMxODUwNzMy
+LC0xMzMzODc2OTMwLDQ1MTUxNTMwNiwtMTg2OTQ0NTAzMSwtMT
+A1MTg2ODY2Nyw3Nzg1Nzc0NDUsMTc0Mjc4MDMyMSwtMjc1MzIy
+NTEwXX0=
 -->
