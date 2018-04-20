@@ -394,7 +394,7 @@ As  **Show_drill_down_measures**  is set  **TRUE**, the associated measures (if 
 ### Maps:
 
 BiPlus provides map view by covering various number of countries. Also, there are special attributes like colour change for specific range of values.
- For Model, Views and for a specific field the map coordinates  may be assigned as follows :
+ For Model, Views and for a specific field the map co-ordinates  may be assigned as follows :
 
 ```
 {
@@ -497,5 +497,5 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjYzMTQ1MSwxMzIwMzkwNTEwXX0=
+eyJoaXN0b3J5IjpbNDU0Njk1NTIsMTMyMDM5MDUxMF19
 -->
