@@ -308,9 +308,6 @@ It is used to display the data in circles. We can define each bubble using any o
 ## Funnel chart :
 
 Funnels helps to visualize a process that has stages and items flow sequentially from one stage to the next. Use a funnel when there is a sequential flow between stages, such as a sales process that starts with inquiry and ends with billing.
-
-
-The following section describes the editing option for bubble chart in visualization. 
  
  **6.** Click on **Funnel** tab under **general** section  to compare the data in Funnel chart.
  
@@ -319,11 +316,11 @@ The following section describes the editing option for bubble chart in visualiza
 
 Using AcuBi you can view the funnel charts in different formats using the below check boxes:
 
- - **Sort** on selecting the check box it enables data in the sorted order in funnel chart.
+ - **Sort** on selecting this check box, it enables data in the sorted order in funnel chart.
   
- - **Curved** on selecting this check box it will display the funnel chart in curved view.
+ - **Curved** on selecting this check box, it will display the funnel chart in curved view.
  
- - **Pinched** on selecting this check box it will display the compressed view of the funnel chart.
+ - **Pinched** on selecting this check box, it will display the compressed view of the funnel chart.
   
  - **Inverted** on selecting the check box it will display the funnel chart in reversed or bottom up position.
  
@@ -544,11 +541,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjc0MDM5MTcsMTI5MTI2MDE3Miw0Mz
-E4NTA3MzIsLTEzMzM4NzY5MzAsNDUxNTE1MzA2LC0xODY5NDQ1
-MDMxLC0xMDUxODY4NjY3LDc3ODU3NzQ0NSwxNzQyNzgwMzIxLC
-0yNzUzMjI1MTAsMjU4NjE0MDg5LC03NTAwNjAyOTQsLTE5MTI4
-NjY3MzgsLTUwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMjQ0Mjg1Mi
-wxODA2MzY3MDk0LC0xMTkzNjQwMzc2LC0xMzYwMDM2Mzg0LC0x
-MTc3ODY4MzY1XX0=
+eyJoaXN0b3J5IjpbOTYzNzU4NTk5LDEyOTEyNjAxNzIsNDMxOD
+UwNzMyLC0xMzMzODc2OTMwLDQ1MTUxNTMwNiwtMTg2OTQ0NTAz
+MSwtMTA1MTg2ODY2Nyw3Nzg1Nzc0NDUsMTc0Mjc4MDMyMSwtMj
+c1MzIyNTEwLDI1ODYxNDA4OSwtNzUwMDYwMjk0LC0xOTEyODY2
+NzM4LC01MDY3MDkxODAsMTAxNzcyNDQxNyw4MjI0NDI4NTIsMT
+gwNjM2NzA5NCwtMTE5MzY0MDM3NiwtMTM2MDAzNjM4NCwtMTE3
+Nzg2ODM2NV19
 -->
