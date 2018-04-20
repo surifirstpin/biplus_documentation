@@ -2,7 +2,7 @@
 <center><h1>How to Login BIPlus</h1></center>
 
 > Written with [StackEdit](https://stackedit.io/).
-> 
+
 To start browsing into BiPlus, Use this link [http://52.29.248.194:8081/biplus](http://52.29.248.194:8081/biplus)  in your url and Click on enter, it will navigate to BiPlus login page.
 
 -   In this page enter  **Username**  and  **Password**  then click on  **login**  to navigate to BiPlus Homepage.
@@ -17,6 +17,6 @@ Once you login BiPlus, it will navigate to BiPlus Homepage.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/7b586036bd846df4b3dd83616f332177ee6f7dde/images/homepage.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDcxNDkzLDUyNzI4MDM1MSwxOTEzMj
-E1OTkzLDEyNjk3ODYwMDhdfQ==
+eyJoaXN0b3J5IjpbLTE2OTI4NjI0OTMsNTI3MjgwMzUxLDE5MT
+MyMTU5OTMsMTI2OTc4NjAwOF19
 -->
