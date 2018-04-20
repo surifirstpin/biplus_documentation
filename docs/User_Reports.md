@@ -88,6 +88,14 @@ To hide the specific field in the visualization charts click on **Hide Visualiza
 
 To remove a specific field column from the extracted list click on **Remove** in drop down list of the field.**( Refer image 4)**
 
+## Multi-Level grouping
+
+Using BiPlus, you can apply Multi-level grouping to the data extracted. consider the below example for more detailed description on multi level grouping.
+
+> **For instance** : in the below image grouping has been applied to 2 dimension fields **Station code** and **Whenmade (hour).** In retrieved data on expanding Station code it displays the perspective number of records available in that particular **Whenmade (hour),** on Further Expansion, it displays the total number of records obtained in that hour ( (orderid)
+
+
+
 ## Calculated Column
 
 All the mathematical and logical calculation are carried out in a report using Calculated column
@@ -532,7 +540,7 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTIzMTQ1NCwtMTg1NjE0Mzc3NSwzMD
+eyJoaXN0b3J5IjpbMTY1NTIzMTI3MywtMTg1NjE0Mzc3NSwzMD
 UxMzg0NCwxMjkxMjYwMTcyLDQzMTg1MDczMiwtMTMzMzg3Njkz
 MCw0NTE1MTUzMDYsLTE4Njk0NDUwMzEsLTEwNTE4Njg2NjcsNz
 c4NTc3NDQ1LDE3NDI3ODAzMjEsLTI3NTMyMjUxMCwyNTg2MTQw
