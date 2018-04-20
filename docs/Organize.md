@@ -4,7 +4,7 @@
 ---
 
 <center><h1>Organize</h1></center>
-<p>It will enable to organize the reports and dashboard under specific nested tag structure.</p>
+<p>This Section explains how to organize the reports and dashboard under specific nested tag structure.</p>
 <ol>
 <li>All the created reports and dashboards are available under <strong>workspace</strong> in dashboard section.</li>
 </ol>
@@ -42,5 +42,6 @@
 <p><img src="https://raw.githubusercontent.com/sv18042016/fp1/759c68367cac74f2715f1c407d74d73a3fda3c09/images/drag&amp;drop.png" alt="enter image description here"></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjI2OTY4NCwxMzU2NDM5ODA0XX0=
+eyJoaXN0b3J5IjpbLTExMTQwMjQ2MDUsMjA5MjI2OTY4NCwxMz
+U2NDM5ODA0XX0=
 -->
