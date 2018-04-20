@@ -101,7 +101,7 @@ To remove a specific field column from the extracted list click on **Remove** in
 
 All the mathematical and logical calculation are carried out in a report using Calculated column
 
-Click on **Calculated column** button to enable table calculations as shown in below image,
+Click on **Calculated column** button to enable table calculations, 
 
 - **Field name** unique identifier name to refer calculated column.
 - **Label** labeling the calculated column.
@@ -128,7 +128,7 @@ Click on **Calculated column** button to enable table calculations as shown in b
 
 - **Row Grouping** enables row grouping for fields values based on the field selected as shown in the below image.
 
-- **Explore Enabled** to explore the data which are grouped select the check box **Explore Enabled.**
+- **Explore Enabled** to explore the data which are grouped select check box **Explore Enabled.**
 
 - **Stacked** Series values are added on the y-axis, so each consecutive series appears above the last. Be sure that the units of all series match.
 
@@ -330,7 +330,7 @@ Using AcuBi you can view the funnel charts in different formats using the below 
  
  - **Dynamic Slope** on selecting this checkbox it will display the potential covered based on the value.For example higher value is referred with bigger slope and lower value is referred with smaller slope.
 
- - **Load Animation** on selecting the check box the column values in funnel chart will appear as moving image.
+ - **Load Animation** on selecting this check box the column values in funnel chart will appear as moving image.
 
 
 ##  Gauge Chart :
@@ -446,7 +446,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Grouped Tooltips** points all the measure values of the column field.
 
-- **Show legend** on selecting the checkbox it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
+- **Show legend** on selecting this checkbox it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
 
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
@@ -541,11 +541,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjcyNDI2ODEsMTI5MTI2MDE3Miw0Mz
-E4NTA3MzIsLTEzMzM4NzY5MzAsNDUxNTE1MzA2LC0xODY5NDQ1
-MDMxLC0xMDUxODY4NjY3LDc3ODU3NzQ0NSwxNzQyNzgwMzIxLC
-0yNzUzMjI1MTAsMjU4NjE0MDg5LC03NTAwNjAyOTQsLTE5MTI4
-NjY3MzgsLTUwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMjQ0Mjg1Mi
-wxODA2MzY3MDk0LC0xMTkzNjQwMzc2LC0xMzYwMDM2Mzg0LC0x
-MTc3ODY4MzY1XX0=
+eyJoaXN0b3J5IjpbMzA1MTM4NDQsMTI5MTI2MDE3Miw0MzE4NT
+A3MzIsLTEzMzM4NzY5MzAsNDUxNTE1MzA2LC0xODY5NDQ1MDMx
+LC0xMDUxODY4NjY3LDc3ODU3NzQ0NSwxNzQyNzgwMzIxLC0yNz
+UzMjI1MTAsMjU4NjE0MDg5LC03NTAwNjAyOTQsLTE5MTI4NjY3
+MzgsLTUwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMjQ0Mjg1MiwxOD
+A2MzY3MDk0LC0xMTkzNjQwMzc2LC0xMzYwMDM2Mzg0LC0xMTc3
+ODY4MzY1XX0=
 -->
