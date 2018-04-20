@@ -133,11 +133,11 @@ Click on **Calculated column** button to enable table calculations **(Refer imag
 
 - **Explore Enabled** to explore the data which are grouped select check box **Explore Enabled.**
 
-- **Stacked** Series values are added on the y-axis, so each consecutive series appears above the last. Be sure that the units of all series match.
+- **Stacked** Series of values are added on the y-axis, so each consecutive series appears above the last. Be sure that the units of all series match.
 
 - **Datasets** this section enables you to perform alignment, set currency formats, group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
 
-- **Legend** it will enable you to change the label for measure value in visualization charts as shown below.
+- **Legend** To display a leit will enable you to change the label for measure value in visualization charts as shown below.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/49bb2a07efd42d5b6f9a7f648e8f705e5f63bc4d/images/legend_label.png)
@@ -544,11 +544,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzM1NjQ1MDcsMTc1ODM4NTk3NCwxMT
-E0ODE4NDYsLTE4NTYxNDM3NzUsMzA1MTM4NDQsMTI5MTI2MDE3
-Miw0MzE4NTA3MzIsLTEzMzM4NzY5MzAsNDUxNTE1MzA2LC0xOD
-Y5NDQ1MDMxLC0xMDUxODY4NjY3LDc3ODU3NzQ0NSwxNzQyNzgw
-MzIxLC0yNzUzMjI1MTAsMjU4NjE0MDg5LC03NTAwNjAyOTQsLT
-E5MTI4NjY3MzgsLTUwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMjQ0
-Mjg1Ml19
+eyJoaXN0b3J5IjpbLTE5NzYzNzIzNzUsLTE1NzM1NjQ1MDcsMT
+c1ODM4NTk3NCwxMTE0ODE4NDYsLTE4NTYxNDM3NzUsMzA1MTM4
+NDQsMTI5MTI2MDE3Miw0MzE4NTA3MzIsLTEzMzM4NzY5MzAsND
+UxNTE1MzA2LC0xODY5NDQ1MDMxLC0xMDUxODY4NjY3LDc3ODU3
+NzQ0NSwxNzQyNzgwMzIxLC0yNzUzMjI1MTAsMjU4NjE0MDg5LC
+03NTAwNjAyOTQsLTE5MTI4NjY3MzgsLTUwNjcwOTE4MCwxMDE3
+NzI0NDE3XX0=
 -->
