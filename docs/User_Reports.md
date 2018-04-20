@@ -233,7 +233,7 @@ At Present there are 10 type of visualization images available in BiPlus, To vie
 
 ## Bar Chart 
 
-Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the Rows and a measure on the Columns area.
+Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension fields on the Rows and a measures fields on the Columns area.
 
  **2.** Click on **Bar** tab under **general** section  to compare the data in Bar chart.
  
@@ -545,11 +545,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODEzMTU0OCwtMTA3NzM3ODM4LC0xNT
-czNTY0NTA3LDE3NTgzODU5NzQsMTExNDgxODQ2LC0xODU2MTQz
-Nzc1LDMwNTEzODQ0LDEyOTEyNjAxNzIsNDMxODUwNzMyLC0xMz
-MzODc2OTMwLDQ1MTUxNTMwNiwtMTg2OTQ0NTAzMSwtMTA1MTg2
-ODY2Nyw3Nzg1Nzc0NDUsMTc0Mjc4MDMyMSwtMjc1MzIyNTEwLD
-I1ODYxNDA4OSwtNzUwMDYwMjk0LC0xOTEyODY2NzM4LC01MDY3
-MDkxODBdfQ==
+eyJoaXN0b3J5IjpbLTIwMTgwODE4OTMsMTQyODEzMTU0OCwtMT
+A3NzM3ODM4LC0xNTczNTY0NTA3LDE3NTgzODU5NzQsMTExNDgx
+ODQ2LC0xODU2MTQzNzc1LDMwNTEzODQ0LDEyOTEyNjAxNzIsND
+MxODUwNzMyLC0xMzMzODc2OTMwLDQ1MTUxNTMwNiwtMTg2OTQ0
+NTAzMSwtMTA1MTg2ODY2Nyw3Nzg1Nzc0NDUsMTc0Mjc4MDMyMS
+wtMjc1MzIyNTEwLDI1ODYxNDA4OSwtNzUwMDYwMjk0LC0xOTEy
+ODY2NzM4XX0=
 -->
