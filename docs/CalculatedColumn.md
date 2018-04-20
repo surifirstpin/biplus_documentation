@@ -177,6 +177,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  unequal | Returns true / false after validating equality in the given values: <br/>true    -  if the values are not equal<br/>false   -  if the values are equal | bi.unequal(x,y)<br/>Ex: bi.unequal(2,3) = true & bi.unequal(3,2) = true<br/>      bi.unequal(3,3) = false |
 
 ### Trigonometry
+
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
 |  sin | Returns the sine of a value. | bi.sin(value)<br/>Ex: bi.sin(0) = 0,bi.sin(90) = 1 |
@@ -388,7 +389,7 @@ ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 
-## Defining Local Function
+## Local Function
 
 Custom function is a block of code (series of statements which intended to a particular task) with submitted inputs and derivable output. It will ease-up the process of calculations when a series of statements or actions to be repeated on a set of values and output to be derived. Acubi supports local function which can be written inside the function body:
 ```
@@ -410,5 +411,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjkyODY0LC03NzkxMjA5NzFdfQ==
+eyJoaXN0b3J5IjpbNjU3NDE2NjYyLC03NzkxMjA5NzFdfQ==
 -->
