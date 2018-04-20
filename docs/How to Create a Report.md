@@ -26,7 +26,7 @@ BiPlus Reports displays the retrieved the data in the desired combinations as pe
 To view the column data in ascending or descending orders , add the column fields in order section to carry out the sorting on the field values.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/sorting1.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/sorting1.png) Image 2
 
 ## Local Sorting
 
@@ -43,7 +43,7 @@ For **Measures**
 - Click on down arrow to enable ascending order.
  
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/local_sorting.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/local_sorting.png) Image 3
 
 ## Display Totals
 
@@ -63,13 +63,11 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 **b.** Apply pivot **Before Retrieving** the data.
 
 > **Note :** make sure you have at least one un-pivoted dimension and a measure value. 
-
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/0bc648227810e628f97baa8e8ade9bdeb782ca04/images/pivot.png)
-
+](https://raw.githubusercontent.com/sv18042016/fp1/master/images/pin_ur.png) Image 4
 ## Pin or Remove Pin
 
-To freeze the column field values while scrolling the data to right or left, click on **Pin** in field drop down provided and to release the same click on **Remove Pin.**
+To freeze the column field values while scrolling the data to right or left, click on **Pin** in field drop down provided and to release the same click on **Remove Pin.** ( 
 
 ## Group / Un-Group
 
@@ -541,11 +539,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1MTM4NDQsMTI5MTI2MDE3Miw0MzE4NT
-A3MzIsLTEzMzM4NzY5MzAsNDUxNTE1MzA2LC0xODY5NDQ1MDMx
-LC0xMDUxODY4NjY3LDc3ODU3NzQ0NSwxNzQyNzgwMzIxLC0yNz
-UzMjI1MTAsMjU4NjE0MDg5LC03NTAwNjAyOTQsLTE5MTI4NjY3
-MzgsLTUwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMjQ0Mjg1MiwxOD
-YxMDIyNTM2LC0xMTkzNjQwMzc2LC0xMzYwMDM2Mzg0LC0xMTc3
-ODY4MzY1XX0=
+eyJoaXN0b3J5IjpbMjczNDgxNjA3LDMwNTEzODQ0LDEyOTEyNj
+AxNzIsNDMxODUwNzMyLC0xMzMzODc2OTMwLDQ1MTUxNTMwNiwt
+MTg2OTQ0NTAzMSwtMTA1MTg2ODY2Nyw3Nzg1Nzc0NDUsMTc0Mj
+c4MDMyMSwtMjc1MzIyNTEwLDI1ODYxNDA4OSwtNzUwMDYwMjk0
+LC0xOTEyODY2NzM4LC01MDY3MDkxODAsMTAxNzcyNDQxNyw4Mj
+I0NDI4NTIsMTg2MTAyMjUzNiwtMTE5MzY0MDM3NiwtMTM2MDAz
+NjM4NF19
 -->
