@@ -269,7 +269,8 @@ This section describes the editing option for Pie chart in visualization.
 ## Radar chart 
 
  Radar charts are a great way to compare members of a dimension in a function of several metrics.  
-For example, when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
+ 
+> **For example,** when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
 
  **4.** Click on **Radar** tab under **general** section  to compare the data in  Radar chart.
 
@@ -341,7 +342,6 @@ Using AcuBi you can view the funnel charts in different formats using the below 
 
 Gauge chart displays current status in the context of goal.
 
- 
  **7.** Click on **gauge** tab under **general** section  to compare the data in Gauge chart.
 
 - **Green** colour in gauge chart indicates the value attained is closer to target.
@@ -545,11 +545,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTgwODE4OTMsMTQyODEzMTU0OCwtMT
-A3NzM3ODM4LC0xNTczNTY0NTA3LDE3NTgzODU5NzQsMTExNDgx
-ODQ2LC0xODU2MTQzNzc1LDMwNTEzODQ0LDEyOTEyNjAxNzIsND
-MxODUwNzMyLC0xMzMzODc2OTMwLDQ1MTUxNTMwNiwtMTg2OTQ0
-NTAzMSwtMTA1MTg2ODY2Nyw3Nzg1Nzc0NDUsMTc0Mjc4MDMyMS
-wtMjc1MzIyNTEwLDI1ODYxNDA4OSwtNzUwMDYwMjk0LC0xOTEy
-ODY2NzM4XX0=
+eyJoaXN0b3J5IjpbMTIwMDU4OTU1OSwtMjAxODA4MTg5MywxND
+I4MTMxNTQ4LC0xMDc3Mzc4MzgsLTE1NzM1NjQ1MDcsMTc1ODM4
+NTk3NCwxMTE0ODE4NDYsLTE4NTYxNDM3NzUsMzA1MTM4NDQsMT
+I5MTI2MDE3Miw0MzE4NTA3MzIsLTEzMzM4NzY5MzAsNDUxNTE1
+MzA2LC0xODY5NDQ1MDMxLC0xMDUxODY4NjY3LDc3ODU3NzQ0NS
+wxNzQyNzgwMzIxLC0yNzUzMjI1MTAsMjU4NjE0MDg5LC03NTAw
+NjAyOTRdfQ==
 -->
