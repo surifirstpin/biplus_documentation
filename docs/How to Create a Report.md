@@ -117,11 +117,12 @@ Click on **Calculated column** button to enable table calculations **(Refer imag
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
+**Image 6**
 
 - **Run** the report after deriving the calculation all the values based on calculation is shown up in green colour as shown in below image,
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)**Image 7**
 
 ## Data 
 
@@ -545,11 +546,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA5MTc1NTYsMTIwMDU4OTU1OSwtMj
-AxODA4MTg5MywxNDI4MTMxNTQ4LC0xMDc3Mzc4MzgsLTE1NzM1
-NjQ1MDcsMTc1ODM4NTk3NCwxMTE0ODE4NDYsLTE4NTYxNDM3Nz
-UsMzA1MTM4NDQsMTI5MTI2MDE3Miw0MzE4NTA3MzIsLTEzMzM4
-NzY5MzAsNDUxNTE1MzA2LC0xODY5NDQ1MDMxLC0xMDUxODY4Nj
-Y3LDc3ODU3NzQ0NSwxNzQyNzgwMzIxLC0yNzUzMjI1MTAsMjU4
-NjE0MDg5XX0=
+eyJoaXN0b3J5IjpbMTc2OTA0MjU2OSwxMjAwNTg5NTU5LC0yMD
+E4MDgxODkzLDE0MjgxMzE1NDgsLTEwNzczNzgzOCwtMTU3MzU2
+NDUwNywxNzU4Mzg1OTc0LDExMTQ4MTg0NiwtMTg1NjE0Mzc3NS
+wzMDUxMzg0NCwxMjkxMjYwMTcyLDQzMTg1MDczMiwtMTMzMzg3
+NjkzMCw0NTE1MTUzMDYsLTE4Njk0NDUwMzEsLTEwNTE4Njg2Nj
+csNzc4NTc3NDQ1LDE3NDI3ODAzMjEsLTI3NTMyMjUxMCwyNTg2
+MTQwODldfQ==
 -->
