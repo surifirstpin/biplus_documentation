@@ -45,7 +45,7 @@
 </ol>
 <ul>
 <li><strong>Privacy</strong> Select one of the three options “Public”, “Private”, “Share” as per the requirement.</li>
-<li><strong>Private ()</strong> report saved in private section and accessed by the user itself.</li>
+ <li><strong>Private ()</strong> report saved in private section and accessed by the user itself.</li>
 <li><strong>Public ()</strong> the report is saved in public section and accessed by all the users.</li>
 <li><strong>Share ()</strong> the report saved under share section and accessed by specific set of users.<br>
 <img src="https://raw.githubusercontent.com/sv18042016/fp1/8dcf17faa6e3f50d5f3f79ae269a02c1eb7237c9/images/save_project.png" alt="enter image description here"></li>
@@ -1384,6 +1384,7 @@ String  → “sql”  : “CONCAT('Date : ',${TABLE}.OrderDate)”</p>
 </tbody>
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4Mjg3NTYyMSwtMTIwNzQzMTYxNyw0OT
-g5MjE5MzcsNDU1ODk0ODQ0LDc1MTE0OTk5OF19
+eyJoaXN0b3J5IjpbMTU0NDIwMTMzLC04ODI4NzU2MjEsLTEyMD
+c0MzE2MTcsNDk4OTIxOTM3LDQ1NTg5NDg0NCw3NTExNDk5OThd
+fQ==
 -->
