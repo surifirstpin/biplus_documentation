@@ -272,9 +272,10 @@ For example, when you want to buy a Laptop, you can use a radar chart to compare
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/34c8d8bc129b2e32ded89f8d3f9816b6a8fd1624/images/radar_chart.png)
 
-- **Points** on selecting the checkbox it enables pointers for the data range in line chart.
+- **Points** on selecting this checkbox it enables pointers for the data range in line chart.
 
-- **Point style** will specify how the data points will appear on chart. below are the following options are available. 
+- **Point style** it will specify the way that data points should appear on chart. 
+Options are available. 
   - Circle
   - Triangle
   - Rectangle
@@ -543,11 +544,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTI2MDE3Miw0MzE4NTA3MzIsLTEzMz
-M4NzY5MzAsNDUxNTE1MzA2LC0xODY5NDQ1MDMxLC0xMDUxODY4
-NjY3LDc3ODU3NzQ0NSwxNzQyNzgwMzIxLC0yNzUzMjI1MTAsMj
-U4NjE0MDg5LC03NTAwNjAyOTQsLTE5MTI4NjY3MzgsLTUwNjcw
-OTE4MCwxMDE3NzI0NDE3LDgyMjQ0Mjg1MiwxODYxMDIyNTM2LC
-0xMTkzNjQwMzc2LC0xMzYwMDM2Mzg0LC0xMTc3ODY4MzY1LC0y
-NzEwMjI3ODddfQ==
+eyJoaXN0b3J5IjpbLTEwNDU3MjgxNTQsMTI5MTI2MDE3Miw0Mz
+E4NTA3MzIsLTEzMzM4NzY5MzAsNDUxNTE1MzA2LC0xODY5NDQ1
+MDMxLC0xMDUxODY4NjY3LDc3ODU3NzQ0NSwxNzQyNzgwMzIxLC
+0yNzUzMjI1MTAsMjU4NjE0MDg5LC03NTAwNjAyOTQsLTE5MTI4
+NjY3MzgsLTUwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMjQ0Mjg1Mi
+wxODYxMDIyNTM2LC0xMTkzNjQwMzc2LC0xMzYwMDM2Mzg0LC0x
+MTc3ODY4MzY1XX0=
 -->
