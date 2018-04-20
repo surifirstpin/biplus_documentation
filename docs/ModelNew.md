@@ -663,7 +663,7 @@ String  → “sql”  : “CONCAT('Date : ',${TABLE}.OrderDate)”</p>
 <blockquote>
 <p><strong>Example:</strong> “sql”: "(select sum(x.Amount) from Orders x)”</p>
 </blockquote>
-<h2 id="drill-down-feature-">Drill-down feature :</h2>
+<h2 id="drill-down-feature-">Drill-down  </h2>
 <p>Drilldown is used for exploring the data further with respect to a field value. BiPlus has an ability to define drill option for a field with a set of derivable fields and when clicked on a particular value of an assigned field, the individual records that make up that cell will be displayed by limiting the query with the clicked value.</p>
 <h2 id="show_drill_down_measures">Show_drill_down_measures:</h2>
 <p>Sometimes, it may be necessary to bring the current stage measure fields to the next drill stage along with the drill fields.</p>
@@ -1384,7 +1384,7 @@ String  → “sql”  : “CONCAT('Date : ',${TABLE}.OrderDate)”</p>
 </tbody>
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDIwMTMzLC04ODI4NzU2MjEsLTEyMD
-c0MzE2MTcsNDk4OTIxOTM3LDQ1NTg5NDg0NCw3NTExNDk5OThd
-fQ==
+eyJoaXN0b3J5IjpbLTE1NTEyMjk2NzUsLTg4Mjg3NTYyMSwtMT
+IwNzQzMTYxNyw0OTg5MjE5MzcsNDU1ODk0ODQ0LDc1MTE0OTk5
+OF19
 -->
