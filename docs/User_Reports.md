@@ -275,7 +275,7 @@ For example, when you want to buy a Laptop, you can use a radar chart to compare
 - **Points** on selecting this checkbox it enables pointers for the data range in line chart.
 
 - **Point style** it will specify the way that data points should appear on chart. 
-Options are available. 
+**Options available for point style;** 
   - Circle
   - Triangle
   - Rectangle
@@ -286,7 +286,7 @@ Options are available.
   - Line
   - Dash
   
-- **Reverse scale** on selecting the checkbox the values shown in the chart will be reversed, i.e. if the 10 highest values are shown and the box is checked, then chart will  show the 10 lowest values.
+- **Reverse scale** on selecting this checkbox the values shown in the chart will be reversed, i.e. if the 10 highest values are shown and if reversed scale checked, then chart will  show the 10 lowest values.
 
 - **Show ticklabels** on selecting the checkbox  it enables measure values on y-axis.
 
@@ -544,11 +544,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDU3MjgxNTQsMTI5MTI2MDE3Miw0Mz
-E4NTA3MzIsLTEzMzM4NzY5MzAsNDUxNTE1MzA2LC0xODY5NDQ1
-MDMxLC0xMDUxODY4NjY3LDc3ODU3NzQ0NSwxNzQyNzgwMzIxLC
-0yNzUzMjI1MTAsMjU4NjE0MDg5LC03NTAwNjAyOTQsLTE5MTI4
-NjY3MzgsLTUwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMjQ0Mjg1Mi
-wxODA2MzY3MDk0LC0xMTkzNjQwMzc2LC0xMzYwMDM2Mzg0LC0x
-MTc3ODY4MzY1XX0=
+eyJoaXN0b3J5IjpbLTM5MTkyMzMyMywxMjkxMjYwMTcyLDQzMT
+g1MDczMiwtMTMzMzg3NjkzMCw0NTE1MTUzMDYsLTE4Njk0NDUw
+MzEsLTEwNTE4Njg2NjcsNzc4NTc3NDQ1LDE3NDI3ODAzMjEsLT
+I3NTMyMjUxMCwyNTg2MTQwODksLTc1MDA2MDI5NCwtMTkxMjg2
+NjczOCwtNTA2NzA5MTgwLDEwMTc3MjQ0MTcsODIyNDQyODUyLD
+E4MDYzNjcwOTQsLTExOTM2NDAzNzYsLTEzNjAwMzYzODQsLTEx
+Nzc4NjgzNjVdfQ==
 -->
