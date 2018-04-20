@@ -81,6 +81,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 | days_till_month | Returns the total number of days completed in a month for a given date / time stamp | bi.days_till_month (${Col_name})Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 
 ### Bitwise Operator
+
 |  **Name** | **Description** | **Usage & Example** |
 |  :------: | :------: | :------: |
 |  bitAnd | Bitwise AND two values, x & y. Ex. bit And(x, y) | bi.bitAnd(53, 131) = 1 |
@@ -127,6 +128,7 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  xgcd | Returns the extended greatest common divisor for two values. | bi.xgcd(a,b) <br/>For Array type: Returns an array containing 3 integers [div, m, n] where div = gcd(a, b) and a*m + b*n = div<br/>Ex: For bi.xgcd(8,12) = [4,-1,1] |
 
 ### Matrix
+
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
 |  concat | Returns the array or text after concatenating two or more texts or matrices. | bi.concat(a,b)<br/>Ex: bi.concat(“Hello” ,”  World”) = “Hello  World”<br/>For  A = [[1, 2], [5, 6]] & B = [[3, 4], [7, 8]] <br/>bi.concat(A, B) = [[1, 2, 3, 4], [5, 6, 7, 8]] |
@@ -411,5 +413,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3NDE2NjYyLC03NzkxMjA5NzFdfQ==
+eyJoaXN0b3J5IjpbNTY1ODkwODEwLC03NzkxMjA5NzFdfQ==
 -->
