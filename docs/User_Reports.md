@@ -145,7 +145,7 @@ Click on **Calculated column** button to enable table calculations **(Refer imag
 
 ##  Format
 
-At the same time the **Format** Tab is enabled by allowing different type of number format to measure field value. Following are the list of number formats supported by BiPlus ;
+ **Format** Tab is also enabled based on data retrieved,  it allows to suffix different type of number format to measure field value. Following are the list of number formats supported by BiPlus ;
 
 |  Example | Description |
 |  ------ | :------ |
@@ -545,7 +545,7 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjI2NTUyNCwtMTA3NzM3ODM4LC0xNT
+eyJoaXN0b3J5IjpbLTk1NjgwNjQ5MCwtMTA3NzM3ODM4LC0xNT
 czNTY0NTA3LDE3NTgzODU5NzQsMTExNDgxODQ2LC0xODU2MTQz
 Nzc1LDMwNTEzODQ0LDEyOTEyNjAxNzIsNDMxODUwNzMyLC0xMz
 MzODc2OTMwLDQ1MTUxNTMwNiwtMTg2OTQ0NTAzMSwtMTA1MTg2
