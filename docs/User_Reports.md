@@ -417,7 +417,10 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 **10.** To view the **World chart** click on **world** tab under **General** section.
 
 
- > Note : The values you want to define in in map chart, should be defined in model section. On definine in model the data field values here willdisplayed.  
+ > Note : The values you want to define in world chart, should be defined in model section. On defining in model the data field values will be displayed here(Bl.  
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/40b704503bb7342aa38ccd68e7c30a0708959f27/images/world.png)
 
 - **Title** specify a title for world map.
 
@@ -550,7 +553,7 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzA2Mjc2MCwtOTA1MzI3NzI0LDI2NT
+eyJoaXN0b3J5IjpbLTY4MzQzMDM3MSwtOTA1MzI3NzI0LDI2NT
 E1MDI0LDQ5ODc5NjI0OCwxMjAwNTg5NTU5LC0yMDE4MDgxODkz
 LDE0MjgxMzE1NDgsLTEwNzczNzgzOCwtMTU3MzU2NDUwNywxNz
 U4Mzg1OTc0LDExMTQ4MTg0NiwtMTg1NjE0Mzc3NSwzMDUxMzg0
