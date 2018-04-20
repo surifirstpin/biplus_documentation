@@ -417,8 +417,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 **10.** To view the **World chart** click on **world** tab under **General** section.
 
 
- > Note : you can define colouring for particular field in model. it inturn display the colour defibned for the field in model section is displays the same her in world map. 
- 
+ > Note :
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa5a5ec1ca971ffeed2d834874ab8905fc50bd31/images/world.png)
 
 - **Title** specify a title for world map.
@@ -552,11 +551,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1MTUwMjQsNDk4Nzk2MjQ4LDEyMDA1OD
-k1NTksLTIwMTgwODE4OTMsMTQyODEzMTU0OCwtMTA3NzM3ODM4
-LC0xNTczNTY0NTA3LDE3NTgzODU5NzQsMTExNDgxODQ2LC0xOD
-U2MTQzNzc1LDMwNTEzODQ0LDEyOTEyNjAxNzIsNDMxODUwNzMy
-LC0xMzMzODc2OTMwLDQ1MTUxNTMwNiwtMTg2OTQ0NTAzMSwtMT
-A1MTg2ODY2Nyw3Nzg1Nzc0NDUsMTc0Mjc4MDMyMSwtMjc1MzIy
-NTEwXX0=
+eyJoaXN0b3J5IjpbMjA4NzA2Njg2MiwyNjUxNTAyNCw0OTg3OT
+YyNDgsMTIwMDU4OTU1OSwtMjAxODA4MTg5MywxNDI4MTMxNTQ4
+LC0xMDc3Mzc4MzgsLTE1NzM1NjQ1MDcsMTc1ODM4NTk3NCwxMT
+E0ODE4NDYsLTE4NTYxNDM3NzUsMzA1MTM4NDQsMTI5MTI2MDE3
+Miw0MzE4NTA3MzIsLTEzMzM4NzY5MzAsNDUxNTE1MzA2LC0xOD
+Y5NDQ1MDMxLC0xMDUxODY4NjY3LDc3ODU3NzQ0NSwxNzQyNzgw
+MzIxXX0=
 -->
