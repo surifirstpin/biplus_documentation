@@ -322,15 +322,15 @@ Using AcuBi you can view the funnel charts in different formats using the below 
  
  - **Pinched** on selecting this check box, it will display the compressed view of the funnel chart.
   
- - **Inverted** on selecting the check box it will display the funnel chart in reversed or bottom up position.
+ - **Inverted** on selecting this check box it will display the funnel chart in reversed or bottom up position.
  
- - **Highlight on Hover**  on selecting the check box it will highlight each section by placing a cursor on it.
+ - **Highlight on Hover**  on selecting this check box, it will highlight each section by placing a cursor on it.
  
- - **Dynamic Height** on selecting the check box it will display the height as per the values in funnel chart. For example higher value is referred with more height and lower value is referred with low height.
+ - **Dynamic Height** on selecting this check box it will display the height as per the values in funnel chart. For example higher value is referred with more height and lower value is referred with low height.
  
- - **Dynamic Slope** on selecting the checkbox it will display the potential covered based on the value.For example higher value is referred with bigger slope and lower value is referred with smaller slope.
+ - **Dynamic Slope** on selecting this checkbox it will display the potential covered based on the value.For example higher value is referred with bigger slope and lower value is referred with smaller slope.
 
- - **Load Animation** on selecting the check box the column values in funnel chart will appear as moving image.
+ - **Load Animation** on selecting this check box the column values in funnel chart will appear as moving image.
 
 
 ##  Gauge Chart :
@@ -541,11 +541,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzNzU4NTk5LDEyOTEyNjAxNzIsNDMxOD
-UwNzMyLC0xMzMzODc2OTMwLDQ1MTUxNTMwNiwtMTg2OTQ0NTAz
-MSwtMTA1MTg2ODY2Nyw3Nzg1Nzc0NDUsMTc0Mjc4MDMyMSwtMj
-c1MzIyNTEwLDI1ODYxNDA4OSwtNzUwMDYwMjk0LC0xOTEyODY2
-NzM4LC01MDY3MDkxODAsMTAxNzcyNDQxNyw4MjI0NDI4NTIsMT
-g2MTAyMjUzNiwtMTE5MzY0MDM3NiwtMTM2MDAzNjM4NCwtMTE3
-Nzg2ODM2NV19
+eyJoaXN0b3J5IjpbMTY1MzEyNDM5NCwxMjkxMjYwMTcyLDQzMT
+g1MDczMiwtMTMzMzg3NjkzMCw0NTE1MTUzMDYsLTE4Njk0NDUw
+MzEsLTEwNTE4Njg2NjcsNzc4NTc3NDQ1LDE3NDI3ODAzMjEsLT
+I3NTMyMjUxMCwyNTg2MTQwODksLTc1MDA2MDI5NCwtMTkxMjg2
+NjczOCwtNTA2NzA5MTgwLDEwMTc3MjQ0MTcsODIyNDQyODUyLD
+E4NjEwMjI1MzYsLTExOTM2NDAzNzYsLTEzNjAwMzYzODQsLTEx
+Nzc4NjgzNjVdfQ==
 -->
