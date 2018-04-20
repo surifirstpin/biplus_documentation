@@ -12,23 +12,23 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 
 **3.** To delete the dashboard click on **Delete** icon.
 
-> **Image 1**
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b56b16b1de0a7088433221a92efcb565b3baae2e/images/view%20-dash.png)
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b56b16b1de0a7088433221a92efcb565b3baae2e/images/view%20-dash.png)
+ **Image 1**
 ## Create Dashboard
 
 > Navigation : Dashboard→New Dashboard
 
->**Image 2**
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/20367797e10c5eabfec8ab65d23699fb34843101/images/dash.png)
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/20367797e10c5eabfec8ab65d23699fb34843101/images/dash.png)
+**Image 2**
  ## Step 1:  Customize Layout 
   
 Biplus has ability to create multiple report layouts, depending on the requirement. There layout formats are categorized in 2 ways.
 - **Flow Layout** in this layout it is provided with a scroll bar option to define your layout appropriately.
 - **Fixed Layout** in this layout all the reports will fit into single screen.
 
->**Image 3**
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4c3c6dabd96221095d0b54d5b2df37c49a919276/images/layout.png)
 
 ## Step 2: Add Reports
@@ -117,9 +117,9 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
   -   **Share ()**  Dashboard saved under share section and accessed by specific set of users.
 
-> **Image 6**
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0fb2c0fe9fbc99b6ac2cd3d818fe7533a74872b8/images/2018-02-06_16-09-56.png)
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0fb2c0fe9fbc99b6ac2cd3d818fe7533a74872b8/images/2018-02-06_16-09-56.png)
+ **Image 6**
 ## Edit / Delete Dashboard
 
 **10.** Click  **Edit**  Button to make changes to the dashboard created.
@@ -132,8 +132,9 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE5MTQwODYsLTIxNTg5NTQzNSwyMT
-k2MDUwOTYsLTIwNjY4MzQ2NzksMTc5ODE4MTg4NCwxNzk4MTgx
-ODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2NjcxMjk0OS
-wzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
+eyJoaXN0b3J5IjpbLTE4NTI2NDk4MjAsLTExOTE5MTQwODYsLT
+IxNTg5NTQzNSwyMTk2MDUwOTYsLTIwNjY4MzQ2NzksMTc5ODE4
+MTg4NCwxNzk4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1ND
+AsLTc2NjcxMjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkz
+NDUwXX0=
 -->
