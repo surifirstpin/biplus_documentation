@@ -2,9 +2,9 @@
 
 Analysis is the starting point for building the query.  it is designed in such a way, that it retrieves the data in the desired combinations as per your business needs and explores particular subject area it self. It provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight.
  
-**Let see in detail how Acubi helps you in retrieving data as per your business needs ;**
+**Let see in detail how BiPlus helps you in retrieving data as per your business needs ;**
  
-**1.** Click on **Analysis section** and select the desired **project** and **model** depending on which you can explore and retrieve the data.
+**1.** Click on **Analysis section** and select the desired **Project** and **Model** based on which the eve the data.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d2a240b7943427822dbd1280f1555acc64d6800e/images/analysis.png)
@@ -327,6 +327,7 @@ To view the SQL query built  in analysis section click on **SQL** section.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2MTI4ODM2LC05OTE1MjY0NjIsLTE5MT
-I4ODQ0NzgsNDI5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbLTE1NzA0NzY1MjIsNDM2MTI4ODM2LC05OT
+E1MjY0NjIsLTE5MTI4ODQ0NzgsNDI5NjQ0NDAxLDIxMzgzODU3
+MDBdfQ==
 -->
