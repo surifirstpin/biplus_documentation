@@ -194,7 +194,7 @@ String-based : ROOT.Orders.PaymentMode IN (‘Cash’,’PayTM’)<br>
 Number-based : ROOT.BI_Orders.Amount IS NOT NULL.</p>
 </blockquote>
 <ul>
-<li><strong>User-based :</strong> Bi+ allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users. That means, for a particular user login, the data retrievable in Analyze section will be constrained with a list of pre-defined values.</li>
+<li><strong>User-based :</strong> BiPlus allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users. That means, for a particular user login, the data retrievable in Analyze section will be constrained with a list of pre-defined values.</li>
 </ul>
 <pre><code> " DB.TABLE.COLUMN IN
   (#{GlobalParam.Ref_field,#userid#,gp_username_field})" 
@@ -331,7 +331,7 @@ Number-based : ROOT.BI_Orders.Amount IS NOT NULL.</p>
 </tbody>
 </table><p><strong>Among the above stated list, the following are the special attributes for user convenience :</strong></p>
 <ol>
-<li><strong>lookup and operator :</strong> Using “lookup” feature, Bi+ allows to define a set of filter values for a field. The assignment can be made in the following two ways:</li>
+<li><strong>lookup and operator :</strong> Using “lookup” feature, BiPlus allows to define a set of filter values for a field. The assignment can be made in the following two ways:</li>
 </ol>
 <ul>
 <li><strong>Query</strong> an sql query returning a set of values can be written in “lookup” for a field. It will be useful if the filter values are large in number and becomes tedious to mention all of them as a list.</li>
@@ -484,7 +484,7 @@ Number-based : ROOT.BI_Orders.Amount IS NOT NULL.</p>
 </tr>
 </tbody>
 </table><ul>
-<li><strong>Currency</strong> Bi+ supports following currency formats “$”, “€”, “£”, “₹”.</li>
+<li><strong>Currency</strong> BiPlus supports following currency formats “$”, “€”, “£”, “₹”.</li>
 </ul>
 <pre><code>currency : currency_symbol
 </code></pre>
@@ -492,7 +492,7 @@ Number-based : ROOT.BI_Orders.Amount IS NOT NULL.</p>
 <p>Example : “currency” : “$”</p>
 </blockquote>
 <ol start="3">
-<li><strong>Time_frame:</strong> Bi+ provides an option to extract different components associated with time stamp for user convenience.</li>
+<li><strong>Time_frame:</strong> BiPlus provides an option to extract different components associated with time stamp for user convenience.</li>
 </ol>
 <p><strong>Below are the formats adopted by default :</strong></p>
 
@@ -600,7 +600,7 @@ Number-based : ROOT.BI_Orders.Amount IS NOT NULL.</p>
 </tr>
 </tbody>
 </table><h2 id="user-defined-fieldsudf">User Defined Fields(UDF):</h2>
-<p>Bi+ has an ability to create new fields in a view with all attributes that are applicable to a database field and with return value (“sql” section of the field) as any of the following options:</p>
+<p>BiPlus has an ability to create new fields in a view with all attributes that are applicable to a database field and with return value (“sql” section of the field) as any of the following options:</p>
 <ol>
 <li>As a resultant of arithmetical operations done on fields of the same view.</li>
 </ol>
@@ -663,10 +663,10 @@ String  → “sql”  : “CONCAT('Date : ',${TABLE}.OrderDate)”</p>
 <p><strong>Example:</strong> “sql”: "(select sum(x.Amount) from Orders x)”</p>
 </blockquote>
 <h2 id="drill-down-feature-">Drill-down feature :</h2>
-<p>Drilldown is used for exploring the data further with respect to a field value. Bi+ has an ability to define drill option for a field with a set of derivable fields and when clicked on a particular value of an assigned field, the individual records that make up that cell will be displayed by limiting the query with the clicked value.</p>
+<p>Drilldown is used for exploring the data further with respect to a field value. BiPlus has an ability to define drill option for a field with a set of derivable fields and when clicked on a particular value of an assigned field, the individual records that make up that cell will be displayed by limiting the query with the clicked value.</p>
 <h2 id="show_drill_down_measures">Show_drill_down_measures:</h2>
 <p>Sometimes, it may be necessary to bring the current stage measure fields to the next drill stage along with the drill fields.</p>
-<p>Bi+ provides an additional attribute to drill down as <strong>Show_drill_down_ measures</strong> which  can be defined as <strong>TRUE or FALSE</strong>. If mentioned TRUE, then system will carry forward the measures of the current stage to the immediate drill level.</p>
+<p>BiPlus provides an additional attribute to drill down as <strong>Show_drill_down_ measures</strong> which  can be defined as <strong>TRUE or FALSE</strong>. If mentioned TRUE, then system will carry forward the measures of the current stage to the immediate drill level.</p>
 <pre><code>"drill_down_fields": "Field1,Field2…….."
 
 "show_drill_down_measures": "true / false"
@@ -689,7 +689,7 @@ String  → “sql”  : “CONCAT('Date : ',${TABLE}.OrderDate)”</p>
 <p>In the above example, Drill down option is defined over field “State Name” with two fields of self view City Name, No_of_Employees. On Clicking on any of “State Name”, then filter will be applied on that value and relevant values of fields “City Name” and “No_of_Employees” will be displayed.</p>
 <p>As <strong>Show_drill_down_measures</strong> is set <strong>TRUE</strong>, the associated measures (if exists) of the field “State Name” will also be brought to the next stage along with drill fields City Name and No_of_Employees.</p>
 <h3 id="maps">Maps:</h3>
-<p>Bi+ provides map view by covering various number of countries. Also, there are special attributes like colour change for specific range of values. For Model, Views and for a specific field the map co-ordinates may be assigned as follows :</p>
+<p>BiPlus provides map view by covering various number of countries. Also, there are special attributes like colour change for specific range of values. For Model, Views and for a specific field the map co-ordinates may be assigned as follows :</p>
 <pre><code>{
 "name": "Field",
 "label": "Field",
@@ -1383,6 +1383,6 @@ String  → “sql”  : “CONCAT('Date : ',${TABLE}.OrderDate)”</p>
 </tbody>
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTY0MjY1NzUsNDk4OTIxOTM3LDQ1NT
-g5NDg0NCw3NTExNDk5OThdfQ==
+eyJoaXN0b3J5IjpbMjIyMTI5MjMzLDQ5ODkyMTkzNyw0NTU4OT
+Q4NDQsNzUxMTQ5OTk4XX0=
 -->
