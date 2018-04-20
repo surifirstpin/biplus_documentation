@@ -415,7 +415,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa5a5ec1ca971ffeed2d834874ab8905fc50bd31/images/world.png)
 
 - **Title** specify a title for world map.
-- 
+
 - **Flat Map** displays a flat view or "2D" vision of the map.
 
 - **Default** set default colour to display specific countries.
@@ -545,11 +545,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDU4OTU1OSwtMjAxODA4MTg5MywxND
-I4MTMxNTQ4LC0xMDc3Mzc4MzgsLTE1NzM1NjQ1MDcsMTc1ODM4
-NTk3NCwxMTE0ODE4NDYsLTE4NTYxNDM3NzUsMzA1MTM4NDQsMT
-I5MTI2MDE3Miw0MzE4NTA3MzIsLTEzMzM4NzY5MzAsNDUxNTE1
-MzA2LC0xODY5NDQ1MDMxLC0xMDUxODY4NjY3LDc3ODU3NzQ0NS
-wxNzQyNzgwMzIxLC0yNzUzMjI1MTAsMjU4NjE0MDg5LC03NTAw
-NjAyOTRdfQ==
+eyJoaXN0b3J5IjpbLTMzOTQyNTUwLDEyMDA1ODk1NTksLTIwMT
+gwODE4OTMsMTQyODEzMTU0OCwtMTA3NzM3ODM4LC0xNTczNTY0
+NTA3LDE3NTgzODU5NzQsMTExNDgxODQ2LC0xODU2MTQzNzc1LD
+MwNTEzODQ0LDEyOTEyNjAxNzIsNDMxODUwNzMyLC0xMzMzODc2
+OTMwLDQ1MTUxNTMwNiwtMTg2OTQ0NTAzMSwtMTA1MTg2ODY2Ny
+w3Nzg1Nzc0NDUsMTc0Mjc4MDMyMSwtMjc1MzIyNTEwLDI1ODYx
+NDA4OV19
 -->
