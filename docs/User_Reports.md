@@ -175,7 +175,7 @@ At the same time the **Format** Tab is enabled by allowing different type of num
 
 ## Currency
 
-BiPlus will enable you to check the field values of the measure in the following currency formats $,   ₹  ,   €  ,  £.
+BiPlus will enable you to check the data values of the measure fields in the following currency formats $,   ₹  ,   €  ,  £.
 
 ## Charts 
 
@@ -542,11 +542,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3NDIyNzI5LDExMTQ4MTg0NiwtMTg1Nj
-E0Mzc3NSwzMDUxMzg0NCwxMjkxMjYwMTcyLDQzMTg1MDczMiwt
-MTMzMzg3NjkzMCw0NTE1MTUzMDYsLTE4Njk0NDUwMzEsLTEwNT
-E4Njg2NjcsNzc4NTc3NDQ1LDE3NDI3ODAzMjEsLTI3NTMyMjUx
-MCwyNTg2MTQwODksLTc1MDA2MDI5NCwtMTkxMjg2NjczOCwtNT
-A2NzA5MTgwLDEwMTc3MjQ0MTcsODIyNDQyODUyLDE4MDYzNjcw
-OTRdfQ==
+eyJoaXN0b3J5IjpbMTc1ODM4NTk3NCwxMTE0ODE4NDYsLTE4NT
+YxNDM3NzUsMzA1MTM4NDQsMTI5MTI2MDE3Miw0MzE4NTA3MzIs
+LTEzMzM4NzY5MzAsNDUxNTE1MzA2LC0xODY5NDQ1MDMxLC0xMD
+UxODY4NjY3LDc3ODU3NzQ0NSwxNzQyNzgwMzIxLC0yNzUzMjI1
+MTAsMjU4NjE0MDg5LC03NTAwNjAyOTQsLTE5MTI4NjY3MzgsLT
+UwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMjQ0Mjg1MiwxODA2MzY3
+MDk0XX0=
 -->
