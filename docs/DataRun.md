@@ -109,9 +109,6 @@ The data can also be retrieved based on the applied hidden filters, this hidden 
 
 **5.**  Click on **Run** to display the data retrieved ( refer image 3).
 
-
-
-
 ## Order  (Ascending / Descending)
 
 To view the column data in ascending or descending orders , add the column fields in order section to carry out the sorting on the field values.
@@ -238,6 +235,35 @@ To hide the specific field in the visualization charts click on **Hide Visualiza
 
 To remove a specific field column from the extracted list click on **Remove** in drop down list of the field.
 
+## Calculated column 
+
+Table calculations enable you to easily create on-the-fly metrics, which are similar to formulas found in Excel sheets. These extracted columns will show up as green in the data table. Using calculated column you can perform mathematical, logical (true/false), lexical (text-based), and date-based calculations on the dimensions, measures, and other table calculations in your query. 
+
+Click on **Calculated column** button to enable table calculations as shown in below image,
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/9dd01207f083d272ba2269a4c999dfa8976f1914/images/calculate%20column1.png)
+
+- **Field name** unique identifier name to refer calculated column.
+- **Label** labeling the calculated column.
+
+- **Data type** data type used (string,number).
+
+- **Field type** derives dimension or measure.
+
+- **Calculation** derive arithmetical & logical expressions.
+
+- **Calculate on the raw data** this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
+
+- **Run** the report after deriving the calculation all the values based on calculation is shown up in green colour as shown in below image,
+
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)
+
 ## Data 
 
 Data section under visualization is enabled based on the data retrieved for fields. Below are the parameters applicable on the data retrieved.
@@ -301,7 +327,7 @@ To view the SQL query built  in analysis section click on **SQL** section.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc1Nzc5MTgsNDM2MTI4ODM2LC05OT
-E1MjY0NjIsLTE5MTI4ODQ0NzgsNDI5NjQ0NDAxLDIxMzgzODU3
-MDBdfQ==
+eyJoaXN0b3J5IjpbNDQyNTEzNDE3LDQzNjEyODgzNiwtOTkxNT
+I2NDYyLC0xOTEyODg0NDc4LDQyOTY0NDQwMSwyMTM4Mzg1NzAw
+XX0=
 -->
