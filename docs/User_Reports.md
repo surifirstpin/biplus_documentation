@@ -241,7 +241,7 @@ Bar charts are used to compare data across different categories. You can build a
 
 This section describes the editing option for Pie chart in visualization. 
  
- **3.**  click on **Pie** tab under **general** section to compare the data in pie chart.
+ **3.**  Click on **Pie** tab under **general** section to compare the data in pie chart.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f52c167aa93a715736ed2800ae5ca56675c54e42/images/pie_chart.png)
@@ -543,11 +543,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxODUwNzMyLC0xMzMzODc2OTMwLDQ1MT
-UxNTMwNiwtMTg2OTQ0NTAzMSwtMTA1MTg2ODY2Nyw3Nzg1Nzc0
-NDUsMTc0Mjc4MDMyMSwtMjc1MzIyNTEwLDI1ODYxNDA4OSwtNz
-UwMDYwMjk0LC0xOTEyODY2NzM4LC01MDY3MDkxODAsMTAxNzcy
-NDQxNyw4MjI0NDI4NTIsMTgwNjM2NzA5NCwtMTE5MzY0MDM3Ni
-wtMTM2MDAzNjM4NCwtMTE3Nzg2ODM2NSwtMjcxMDIyNzg3LC0z
-MDI5MjkzNjZdfQ==
+eyJoaXN0b3J5IjpbMTI5MTI2MDE3Miw0MzE4NTA3MzIsLTEzMz
+M4NzY5MzAsNDUxNTE1MzA2LC0xODY5NDQ1MDMxLC0xMDUxODY4
+NjY3LDc3ODU3NzQ0NSwxNzQyNzgwMzIxLC0yNzUzMjI1MTAsMj
+U4NjE0MDg5LC03NTAwNjAyOTQsLTE5MTI4NjY3MzgsLTUwNjcw
+OTE4MCwxMDE3NzI0NDE3LDgyMjQ0Mjg1MiwxODA2MzY3MDk0LC
+0xMTkzNjQwMzc2LC0xMzYwMDM2Mzg0LC0xMTc3ODY4MzY1LC0y
+NzEwMjI3ODddfQ==
 -->
