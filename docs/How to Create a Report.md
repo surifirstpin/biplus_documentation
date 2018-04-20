@@ -137,7 +137,7 @@ Click on **Calculated column** button to enable table calculations **(Refer imag
 
 - **Datasets** this section enables you to perform alignment, set currency formats, group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
 
-- **Legend** To display label, the way it should appear in visualization.
+- **Legend** enter a text for label, the way it should appear in visualization.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/49bb2a07efd42d5b6f9a7f648e8f705e5f63bc4d/images/legend_label.png)
@@ -544,11 +544,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzczNzgzOCwtMTU3MzU2NDUwNywxNz
-U4Mzg1OTc0LDExMTQ4MTg0NiwtMTg1NjE0Mzc3NSwzMDUxMzg0
-NCwxMjkxMjYwMTcyLDQzMTg1MDczMiwtMTMzMzg3NjkzMCw0NT
-E1MTUzMDYsLTE4Njk0NDUwMzEsLTEwNTE4Njg2NjcsNzc4NTc3
-NDQ1LDE3NDI3ODAzMjEsLTI3NTMyMjUxMCwyNTg2MTQwODksLT
-c1MDA2MDI5NCwtMTkxMjg2NjczOCwtNTA2NzA5MTgwLDEwMTc3
-MjQ0MTddfQ==
+eyJoaXN0b3J5IjpbMzkyMjg0MzQsLTEwNzczNzgzOCwtMTU3Mz
+U2NDUwNywxNzU4Mzg1OTc0LDExMTQ4MTg0NiwtMTg1NjE0Mzc3
+NSwzMDUxMzg0NCwxMjkxMjYwMTcyLDQzMTg1MDczMiwtMTMzMz
+g3NjkzMCw0NTE1MTUzMDYsLTE4Njk0NDUwMzEsLTEwNTE4Njg2
+NjcsNzc4NTc3NDQ1LDE3NDI3ODAzMjEsLTI3NTMyMjUxMCwyNT
+g2MTQwODksLTc1MDA2MDI5NCwtMTkxMjg2NjczOCwtNTA2NzA5
+MTgwXX0=
 -->
