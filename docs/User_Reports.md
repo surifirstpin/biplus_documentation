@@ -65,15 +65,15 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 > **Note :** make sure you have at least one un-pivoted dimension and a measure value. 
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/ea7e55d6c87283e54b723361f7f20b45452ba847/images/pin_ur.png) Image 4
+](https://raw.githubusercontent.com/sv18042016/fp1/ea7e55d6c87283e54b723361f7f20b45452ba847/images/pin_ur.png) **Image 4**
 
 ## Pin or Remove Pin
 
-To freeze the column field values while scrolling the data to right or left, click on **Pin** in field drop down provided and to release the same click on **Remove Pin.** ( Refer image 4)
+To freeze the column field values while scrolling the data to right or left, click on **Pin** in field drop down provided and to release the same click on **Remove Pin.** **( Refer image 4)**
 
 ## Group / Un-Group
 
-you can view the consolidated value of the field by applying values By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on **Group** in field drop down provided and to release the same click on **Un-Group**. 
+you can view the consolidated value of the field by applying values By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on **Group** in field drop down provided and to release the same click on **Un-Group**. **( Refer image 4)**
 
 ## Multi-Level grouping
 
@@ -86,16 +86,16 @@ Using BiPlus, you can apply Multi-level grouping to the data extracted. consider
 
 ## Find
 
-To find the specific data of the field from retrieved list, click on **Find** in the field drop down and enter the specific field value you want to view.
+To find the specific data of the field from retrieved list, click on **Find** in the field drop down and enter the specific field value you want to view.**( Refer image 4)**
 
 
 ## Field Visualization On / Off
 
-To hide the specific field in the visualization charts click on **Hide Visualization** in the drop down of field  and to display the same click on **Show visualization**
+To hide the specific field in the visualization charts click on **Hide Visualization** in the drop down of field  and to display the same click on **Show visualization****( Refer image 4)**
 
 ## Remove
 
-To remove a specific field column from the extracted list click on **Remove** in drop down list of the field.
+To remove a specific field column from the extracted list click on **Remove** in drop down list of the field.**( Refer image 4)**
 
 ## Calculated Column
 
@@ -541,7 +541,7 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzQ5NzAwNywtMTg1NjE0Mzc3NSwzMD
+eyJoaXN0b3J5IjpbMTM0OTY0ODg0MSwtMTg1NjE0Mzc3NSwzMD
 UxMzg0NCwxMjkxMjYwMTcyLDQzMTg1MDczMiwtMTMzMzg3Njkz
 MCw0NTE1MTUzMDYsLTE4Njk0NDUwMzEsLTEwNTE4Njg2NjcsNz
 c4NTc3NDQ1LDE3NDI3ODAzMjEsLTI3NTMyMjUxMCwyNTg2MTQw
