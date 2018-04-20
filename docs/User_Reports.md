@@ -490,7 +490,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
  - **Theme** enables colour for reference line.
  
- > **Note:**  X-Axis is enabled only for Line, Bar and Bubble chart only.
+ > **Note :**  X-Axis is enabled only for Line, Bar and Bubble chart only.
 
 ## Y-Axis
 
@@ -553,11 +553,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzMjA5NTAxLDE2NzE1NzYzNDksLTkwNT
-MyNzcyNCwyNjUxNTAyNCw0OTg3OTYyNDgsMTIwMDU4OTU1OSwt
-MjAxODA4MTg5MywxNDI4MTMxNTQ4LC0xMDc3Mzc4MzgsLTE1Nz
-M1NjQ1MDcsMTc1ODM4NTk3NCwxMTE0ODE4NDYsLTE4NTYxNDM3
-NzUsMzA1MTM4NDQsMTI5MTI2MDE3Miw0MzE4NTA3MzIsLTEzMz
-M4NzY5MzAsNDUxNTE1MzA2LC0xODY5NDQ1MDMxLC0xMDUxODY4
-NjY3XX0=
+eyJoaXN0b3J5IjpbLTMxNDU0Mzc0MywxNjcxNTc2MzQ5LC05MD
+UzMjc3MjQsMjY1MTUwMjQsNDk4Nzk2MjQ4LDEyMDA1ODk1NTks
+LTIwMTgwODE4OTMsMTQyODEzMTU0OCwtMTA3NzM3ODM4LC0xNT
+czNTY0NTA3LDE3NTgzODU5NzQsMTExNDgxODQ2LC0xODU2MTQz
+Nzc1LDMwNTEzODQ0LDEyOTEyNjAxNzIsNDMxODUwNzMyLC0xMz
+MzODc2OTMwLDQ1MTUxNTMwNiwtMTg2OTQ0NTAzMSwtMTA1MTg2
+ODY2N119
 -->
