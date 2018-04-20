@@ -67,7 +67,7 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/pin_ur.png) Image 4
 ## Pin or Remove Pin
 
-To freeze the column field values while scrolling the data to right or left, click on **Pin** in field drop down provided and to release the same click on **Remove Pin.**
+To freeze the column field values while scrolling the data to right or left, click on **Pin** in field drop down provided and to release the same click on **Remove Pin.** ( Refer image 4)
 
 ## Group / Un-Group
 
@@ -539,11 +539,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyNDU3NDc3LDMwNTEzODQ0LDEyOTEyNj
-AxNzIsNDMxODUwNzMyLC0xMzMzODc2OTMwLDQ1MTUxNTMwNiwt
-MTg2OTQ0NTAzMSwtMTA1MTg2ODY2Nyw3Nzg1Nzc0NDUsMTc0Mj
-c4MDMyMSwtMjc1MzIyNTEwLDI1ODYxNDA4OSwtNzUwMDYwMjk0
-LC0xOTEyODY2NzM4LC01MDY3MDkxODAsMTAxNzcyNDQxNyw4Mj
-I0NDI4NTIsMTgwNjM2NzA5NCwtMTE5MzY0MDM3NiwtMTM2MDAz
-NjM4NF19
+eyJoaXN0b3J5IjpbLTE4NTYxNDM3NzUsMzA1MTM4NDQsMTI5MT
+I2MDE3Miw0MzE4NTA3MzIsLTEzMzM4NzY5MzAsNDUxNTE1MzA2
+LC0xODY5NDQ1MDMxLC0xMDUxODY4NjY3LDc3ODU3NzQ0NSwxNz
+QyNzgwMzIxLC0yNzUzMjI1MTAsMjU4NjE0MDg5LC03NTAwNjAy
+OTQsLTE5MTI4NjY3MzgsLTUwNjcwOTE4MCwxMDE3NzI0NDE3LD
+gyMjQ0Mjg1MiwxODA2MzY3MDk0LC0xMTkzNjQwMzc2LC0xMzYw
+MDM2Mzg0XX0=
 -->
