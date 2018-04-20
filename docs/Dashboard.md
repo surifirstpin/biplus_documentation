@@ -30,6 +30,7 @@ Biplus has ability to create multiple report layouts, depending on the requireme
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4c3c6dabd96221095d0b54d5b2df37c49a919276/images/layout.png)
+**Image 3**
 
 ## Step 2: Add Reports
 
@@ -41,8 +42,8 @@ a. Click on report layout section and select the report you want to add to the l
 
 b. Click on **add** link available at right side of the saved report. 
 
->**Image 4**
 ![image 4](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/add_rep%5Borts.png)
+**Image 4**
 
 ## Step 3: Dashboard Global Filters
 
@@ -58,8 +59,9 @@ b. Click on **add** link available at right side of the saved report.
 
 - **Lookup** to view the lookup in dashboard filters it should be defined in lookup section.( Refer point 7)
 
-> Image 5
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
+**Image 5**
 
 -   **Filter Name**  identifier name to the filter applicable.
 
@@ -80,7 +82,7 @@ b. Click on **add** link available at right side of the saved report.
    -   **Multiple Selections**  refers to selection of list of multiple data.
    
    -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the referred data.
-  >  For Example if we want to refer to country A then all states falling under that country will be updated based on the selection made.
+  >  **For Instance** if we want to refer to country A then all states falling under that country will be updated based on the selection made.
 
   ## Report Listeners 
 
@@ -132,7 +134,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI2NDk4MjAsLTExOTE5MTQwODYsLT
+eyJoaXN0b3J5IjpbLTE0MzUxNTkwMDEsLTExOTE5MTQwODYsLT
 IxNTg5NTQzNSwyMTk2MDUwOTYsLTIwNjY4MzQ2NzksMTc5ODE4
 MTg4NCwxNzk4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1ND
 AsLTc2NjcxMjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkz
