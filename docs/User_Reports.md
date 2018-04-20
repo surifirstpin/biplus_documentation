@@ -470,9 +470,9 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Axis label** Text label for x-axis.
 
-### Reference Lines
+## Reference Lines for X-Axis
 
-**Reference Lines** enables the creation of reference lines in a chart.
+- **Reference Lines** enables the creation of reference lines in a chart.
 
  - **Reference** specify a indicator name. 
   
@@ -503,7 +503,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Position** you can can align the y-axis to left or right side of the chart.
 
-### Reference Lines
+### Reference Lines for Y-Axis
 
 **Reference Lines** enables the creation of reference lines in a chart.
 
@@ -545,11 +545,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTQyNTUwLDEyMDA1ODk1NTksLTIwMT
-gwODE4OTMsMTQyODEzMTU0OCwtMTA3NzM3ODM4LC0xNTczNTY0
-NTA3LDE3NTgzODU5NzQsMTExNDgxODQ2LC0xODU2MTQzNzc1LD
-MwNTEzODQ0LDEyOTEyNjAxNzIsNDMxODUwNzMyLC0xMzMzODc2
-OTMwLDQ1MTUxNTMwNiwtMTg2OTQ0NTAzMSwtMTA1MTg2ODY2Ny
-w3Nzg1Nzc0NDUsMTc0Mjc4MDMyMSwtMjc1MzIyNTEwLDI1ODYx
-NDA4OV19
+eyJoaXN0b3J5IjpbLTIwMzkxNjM5NjksMTIwMDU4OTU1OSwtMj
+AxODA4MTg5MywxNDI4MTMxNTQ4LC0xMDc3Mzc4MzgsLTE1NzM1
+NjQ1MDcsMTc1ODM4NTk3NCwxMTE0ODE4NDYsLTE4NTYxNDM3Nz
+UsMzA1MTM4NDQsMTI5MTI2MDE3Miw0MzE4NTA3MzIsLTEzMzM4
+NzY5MzAsNDUxNTE1MzA2LC0xODY5NDQ1MDMxLC0xMDUxODY4Nj
+Y3LDc3ODU3NzQ0NSwxNzQyNzgwMzIxLC0yNzUzMjI1MTAsMjU4
+NjE0MDg5XX0=
 -->
