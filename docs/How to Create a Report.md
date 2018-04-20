@@ -417,7 +417,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 **10.** To view the **World chart** click on **world** tab under **General** section.
 
 
- > Note : The values you want to define ion data-sets of a maop chart , should be defined in model section 
+ > Note : The values you want to define in in map chart, should be defined in model section. On define in model the data field values here will displa 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa5a5ec1ca971ffeed2d834874ab8905fc50bd31/images/world.png)
 
 - **Title** specify a title for world map.
@@ -551,11 +551,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1ODQ0NDUzLDI2NTE1MDI0LDQ5ODc5Nj
-I0OCwxMjAwNTg5NTU5LC0yMDE4MDgxODkzLDE0MjgxMzE1NDgs
-LTEwNzczNzgzOCwtMTU3MzU2NDUwNywxNzU4Mzg1OTc0LDExMT
-Q4MTg0NiwtMTg1NjE0Mzc3NSwzMDUxMzg0NCwxMjkxMjYwMTcy
-LDQzMTg1MDczMiwtMTMzMzg3NjkzMCw0NTE1MTUzMDYsLTE4Nj
-k0NDUwMzEsLTEwNTE4Njg2NjcsNzc4NTc3NDQ1LDE3NDI3ODAz
-MjFdfQ==
+eyJoaXN0b3J5IjpbLTE3OTU2NzI3OTIsMjY1MTUwMjQsNDk4Nz
+k2MjQ4LDEyMDA1ODk1NTksLTIwMTgwODE4OTMsMTQyODEzMTU0
+OCwtMTA3NzM3ODM4LC0xNTczNTY0NTA3LDE3NTgzODU5NzQsMT
+ExNDgxODQ2LC0xODU2MTQzNzc1LDMwNTEzODQ0LDEyOTEyNjAx
+NzIsNDMxODUwNzMyLC0xMzMzODc2OTMwLDQ1MTUxNTMwNiwtMT
+g2OTQ0NTAzMSwtMTA1MTg2ODY2Nyw3Nzg1Nzc0NDUsMTc0Mjc4
+MDMyMV19
 -->
