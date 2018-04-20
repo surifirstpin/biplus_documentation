@@ -64,6 +64,9 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 
 > **Note :** make sure you have at least one un-pivoted dimension and a measure value. 
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/ea7e55d6c87283e54b723361f7f20b45452ba847/images/pin_ur.png) Image 4
+
 ## Pin or Remove Pin
 
 To freeze the column field values while scrolling the data to right or left, click on **Pin** in field drop down provided and to release the same click on **Remove Pin.** ( Refer image 4)
@@ -538,11 +541,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjYxMDU0MDQsLTE4NTYxNDM3NzUsMz
-A1MTM4NDQsMTI5MTI2MDE3Miw0MzE4NTA3MzIsLTEzMzM4NzY5
-MzAsNDUxNTE1MzA2LC0xODY5NDQ1MDMxLC0xMDUxODY4NjY3LD
-c3ODU3NzQ0NSwxNzQyNzgwMzIxLC0yNzUzMjI1MTAsMjU4NjE0
-MDg5LC03NTAwNjAyOTQsLTE5MTI4NjY3MzgsLTUwNjcwOTE4MC
-wxMDE3NzI0NDE3LDgyMjQ0Mjg1MiwxODA2MzY3MDk0LC0xMTkz
-NjQwMzc2XX0=
+eyJoaXN0b3J5IjpbLTg4MzQ5NzAwNywtMTg1NjE0Mzc3NSwzMD
+UxMzg0NCwxMjkxMjYwMTcyLDQzMTg1MDczMiwtMTMzMzg3Njkz
+MCw0NTE1MTUzMDYsLTE4Njk0NDUwMzEsLTEwNTE4Njg2NjcsNz
+c4NTc3NDQ1LDE3NDI3ODAzMjEsLTI3NTMyMjUxMCwyNTg2MTQw
+ODksLTc1MDA2MDI5NCwtMTkxMjg2NjczOCwtNTA2NzA5MTgwLD
+EwMTc3MjQ0MTcsODIyNDQyODUyLDE4MDYzNjcwOTQsLTExOTM2
+NDAzNzZdfQ==
 -->
