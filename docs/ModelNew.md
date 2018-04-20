@@ -27,6 +27,7 @@
 </li>
 <li>
 <p><strong>Connection</strong> Select the database connection from the list provided.<br>
+
 <img src="https://raw.githubusercontent.com/sv18042016/fp1/master/images/model2.png" alt="enter image description here"></p>
 </li>
 <li>
@@ -1383,6 +1384,6 @@ String  → “sql”  : “CONCAT('Date : ',${TABLE}.OrderDate)”</p>
 </tbody>
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyMTI5MjMzLDQ5ODkyMTkzNyw0NTU4OT
-Q4NDQsNzUxMTQ5OTk4XX0=
+eyJoaXN0b3J5IjpbLTEyMDc0MzE2MTcsNDk4OTIxOTM3LDQ1NT
+g5NDg0NCw3NTExNDk5OThdfQ==
 -->
