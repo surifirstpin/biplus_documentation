@@ -125,7 +125,9 @@ Click on **Calculated column** button to enable table calculations **(Refer imag
 
 ## Data 
 
-**Data Tab** under **Charts Section** is enabled based on the data retrieved for fields. Below are the parameters applicable on the data retrieved.
+**Data Tab** under **Charts Section** is enabled based on the data retrieved for fields. 
+
+**Below are the parameters applicable on the data retrieved;**
 
 - **Row Grouping** enables row grouping for fields values based on the field selected as shown in the below image.
 
@@ -542,11 +544,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODM4NTk3NCwxMTE0ODE4NDYsLTE4NT
-YxNDM3NzUsMzA1MTM4NDQsMTI5MTI2MDE3Miw0MzE4NTA3MzIs
-LTEzMzM4NzY5MzAsNDUxNTE1MzA2LC0xODY5NDQ1MDMxLC0xMD
-UxODY4NjY3LDc3ODU3NzQ0NSwxNzQyNzgwMzIxLC0yNzUzMjI1
-MTAsMjU4NjE0MDg5LC03NTAwNjAyOTQsLTE5MTI4NjY3MzgsLT
-UwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMjQ0Mjg1MiwxODA2MzY3
-MDk0XX0=
+eyJoaXN0b3J5IjpbLTE1NzM1NjQ1MDcsMTc1ODM4NTk3NCwxMT
+E0ODE4NDYsLTE4NTYxNDM3NzUsMzA1MTM4NDQsMTI5MTI2MDE3
+Miw0MzE4NTA3MzIsLTEzMzM4NzY5MzAsNDUxNTE1MzA2LC0xOD
+Y5NDQ1MDMxLC0xMDUxODY4NjY3LDc3ODU3NzQ0NSwxNzQyNzgw
+MzIxLC0yNzUzMjI1MTAsMjU4NjE0MDg5LC03NTAwNjAyOTQsLT
+E5MTI4NjY3MzgsLTUwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMjQ0
+Mjg1Ml19
 -->
