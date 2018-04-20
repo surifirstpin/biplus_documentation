@@ -101,7 +101,7 @@ To remove a specific field column from the extracted list click on **Remove** in
 
 All the mathematical and logical calculation are carried out in a report using Calculated column
 
-Click on **Calculated column** button to enable table calculations as shown in below image,
+Click on **Calculated column** button to enable table calculations, 
 
 - **Field name** unique identifier name to refer calculated column.
 - **Label** labeling the calculated column.
@@ -128,7 +128,7 @@ Click on **Calculated column** button to enable table calculations as shown in b
 
 - **Row Grouping** enables row grouping for fields values based on the field selected as shown in the below image.
 
-- **Explore Enabled** to explore the data which are grouped select the check box **Explore Enabled.**
+- **Explore Enabled** to explore the data which are grouped select check box **Explore Enabled.**
 
 - **Stacked** Series values are added on the y-axis, so each consecutive series appears above the last. Be sure that the units of all series match.
 
@@ -446,7 +446,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Grouped Tooltips** points all the measure values of the column field.
 
-- **Show legend** on selecting the checkbox it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
+- **Show legend** on selecting this checkbox it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
 
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
@@ -541,11 +541,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzEyNDM5NCwxMjkxMjYwMTcyLDQzMT
-g1MDczMiwtMTMzMzg3NjkzMCw0NTE1MTUzMDYsLTE4Njk0NDUw
-MzEsLTEwNTE4Njg2NjcsNzc4NTc3NDQ1LDE3NDI3ODAzMjEsLT
-I3NTMyMjUxMCwyNTg2MTQwODksLTc1MDA2MDI5NCwtMTkxMjg2
-NjczOCwtNTA2NzA5MTgwLDEwMTc3MjQ0MTcsODIyNDQyODUyLD
-E4NjEwMjI1MzYsLTExOTM2NDAzNzYsLTEzNjAwMzYzODQsLTEx
-Nzc4NjgzNjVdfQ==
+eyJoaXN0b3J5IjpbMzA1MTM4NDQsMTI5MTI2MDE3Miw0MzE4NT
+A3MzIsLTEzMzM4NzY5MzAsNDUxNTE1MzA2LC0xODY5NDQ1MDMx
+LC0xMDUxODY4NjY3LDc3ODU3NzQ0NSwxNzQyNzgwMzIxLC0yNz
+UzMjI1MTAsMjU4NjE0MDg5LC03NTAwNjAyOTQsLTE5MTI4NjY3
+MzgsLTUwNjcwOTE4MCwxMDE3NzI0NDE3LDgyMjQ0Mjg1MiwxOD
+YxMDIyNTM2LC0xMTkzNjQwMzc2LC0xMzYwMDM2Mzg0LC0xMTc3
+ODY4MzY1XX0=
 -->
