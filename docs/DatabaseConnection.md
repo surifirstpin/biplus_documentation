@@ -26,9 +26,13 @@
 >Note: As per your requirement we can include the dialects needed to run the business.
 
 - **Host**  database host path.
+
 - **Database** name of the database.
+
 - **Username and Password** are the credentials used to connect the database.
+
 - **Maximum connection** concurrent connection used by  database.
+
 - **Additional Parameters** includes any additional JDBC parameter.
 
 ## SSH 
@@ -74,11 +78,5 @@ b) If connecting with separate database host, provide following information to A
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzE4MTQxMDUsLTI0NDk2MTQxNiwxNT
-MxOTQ1NjAxLDIxMDQ3MDIwNCwtMTM5NzY5MzQyNiwtMTc1MDI4
-NzY1M119
--->
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzQ4MzI4XX0=
+eyJoaXN0b3J5IjpbODgwMDU0MDY1LDE2NTM0ODMyOF19
 -->
