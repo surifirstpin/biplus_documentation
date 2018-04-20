@@ -187,7 +187,7 @@ The Associated keywords with the views are flowing :
 
 |  **S. No** | **Name** | **Identifier of a custom field** |
 |  :------ | :------: | :------: |
-|  1 | label | allows to customise the display name of the view in Acubi |
+|  1 | label | allows to customise the display name of the view in BiPlus |
 |  2 | data_type | the outcome of the field from database it can be string, date or number |
 |  3 | type | either of the two values dimension or measure, string and date belongs to dimension and number belongs to measure |
 |  4 | time_frame | feature that extract different formats from the date field, for instance: hour,day,week, month quarter; year, date. week_day,date_ month date_quarter date_hour, year_week |
@@ -204,7 +204,7 @@ The Associated keywords with the views are flowing :
 
 **Among the above stated list, the following are the special attributes for user convenience :**
 
-**I.**  **lookup and operator :**  Using “lookup” feature, Acubi allows you to define a set of filter values for a field. The assignment can be made in the following two ways:
+**I.**  **lookup and operator :**  Using “lookup” feature, BiPlus allows you to define a set of filter values for a field. The assignment can be made in the following two ways:
 
 -   **Query**  an sql query returning a set of values can be written in “lookup” for a field. It will be useful if the filter values are large in number and becomes tedious to mention all of them as a list.
 
@@ -214,7 +214,7 @@ The Associated keywords with the views are flowing :
 
 > Ex: “lookup” : “Antonio, Bessanio, Portia”
 
--   **operator**  Sometimes, data to be retrieved from multiple filter values. Acubi provides an option associated with lookup which can be defined to select single or multiple filter values. For selecting more than one filter value, operator should be defined as “multiple”.
+-   **operator**  Sometimes, data to be retrieved from multiple filter values. BiPlus provides an option associated with lookup which can be defined to select single or multiple filter values. For selecting more than one filter value, operator should be defined as “multiple”.
 
 ```
 operator:multiple.
@@ -253,7 +253,7 @@ operator:multiple.
 |  21 | #K | 12345 678566999999k |
 |  22 | #M | 12.345678567IM |
 
--   **Currency**  Acubi supports following currency formats “$”, “€”, “£”, “₹”.
+-   **Currency**  BiPlus supports following currency formats “$”, “€”, “£”, “₹”.
 
 ```
 currency : currency_symbol
@@ -262,7 +262,7 @@ currency : currency_symbol
 
 > Example : “currency” : “$”
 
-**III.**  **Time_frame:** Acubi provides an option to extract different components associated with time stamp for user convenience.
+**III.**  **Time_frame:** BiPlus provides an option to extract different components associated with time stamp for user convenience.
 
 **Below are the formats adopted by default :**
 
@@ -357,7 +357,7 @@ Where the expression contain the fields of self view and should result a single 
 
 ## Drill-down 
 
-Drill-down is used for exploring the data further with respect to a field value. Acubi has an ability to define drill option for a field with a set of derivable fields and when clicked on a particular value of an assigned field, the individual records that make up that cell will be displayed by limiting the query with the clicked value.
+Drill-down is used for exploring the data further with respect to a field value. BiPlus has an ability to define drill option for a field with a set of derivable fields and when clicked on a particular value of an assigned field, the individual records that make up that cell will be displayed by limiting the query with the clicked value.
 
 ## Show drill-down measures
 
@@ -393,7 +393,8 @@ As  **Show_drill_down_measures**  is set  **TRUE**, the associated measures (if 
 
 ### Maps:
 
-Acubi provides map view by covering various number of countries. Also, there are special attributes like colour change for specific range of values. For Model, Views and for a specific field the map co-ordinates may be assigned as follows :
+BiPlus provides map view by covering various number of countries. Also, there are special attributes like colour change for specific range of values.
+ For Model, Views and for a specific field the map coordinates  may be assigned as follows :
 
 ```
 {
@@ -496,5 +497,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyNDY4MzUxLDEzMjAzOTA1MTBdfQ==
+eyJoaXN0b3J5IjpbLTg3NjYzMTQ1MSwxMzIwMzkwNTEwXX0=
 -->
