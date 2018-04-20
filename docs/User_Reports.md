@@ -95,14 +95,14 @@ Using BiPlus, you can apply Multi-level grouping to the data extracted. consider
 > **For instance** : in the below image grouping has been applied to 2 dimension fields **Station code** and **Whenmade (hour).** In retrieved data on expanding Station code it displays the perspective number of records available in that particular **Whenmade (hour),** on Further Expansion, it displays the total number of records obtained in that hour ( (orderid)
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/52f9fddc123da5bed6b9b929c546d86539a859b9/images/multi_level_grouping_ur.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/52f9fddc123da5bed6b9b929c546d86539a859b9/images/multi_level_grouping_ur.png) **Image 5**
 
 
 ## Calculated Column
 
 All the mathematical and logical calculation are carried out in a report using Calculated column
 
-Click on **Calculated column** button to enable table calculations, 
+Click on **Calculated column** button to enable table calculations **(Refer image 5).**
 
 - **Field name** unique identifier name to refer calculated column.
 - **Label** labeling the calculated column.
@@ -542,11 +542,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDgxODQ2LC0xODU2MTQzNzc1LDMwNT
-EzODQ0LDEyOTEyNjAxNzIsNDMxODUwNzMyLC0xMzMzODc2OTMw
-LDQ1MTUxNTMwNiwtMTg2OTQ0NTAzMSwtMTA1MTg2ODY2Nyw3Nz
-g1Nzc0NDUsMTc0Mjc4MDMyMSwtMjc1MzIyNTEwLDI1ODYxNDA4
-OSwtNzUwMDYwMjk0LC0xOTEyODY2NzM4LC01MDY3MDkxODAsMT
-AxNzcyNDQxNyw4MjI0NDI4NTIsMTgwNjM2NzA5NCwtMTE5MzY0
-MDM3Nl19
+eyJoaXN0b3J5IjpbMzE3NDIyNzI5LDExMTQ4MTg0NiwtMTg1Nj
+E0Mzc3NSwzMDUxMzg0NCwxMjkxMjYwMTcyLDQzMTg1MDczMiwt
+MTMzMzg3NjkzMCw0NTE1MTUzMDYsLTE4Njk0NDUwMzEsLTEwNT
+E4Njg2NjcsNzc4NTc3NDQ1LDE3NDI3ODAzMjEsLTI3NTMyMjUx
+MCwyNTg2MTQwODksLTc1MDA2MDI5NCwtMTkxMjg2NjczOCwtNT
+A2NzA5MTgwLDEwMTc3MjQ0MTcsODIyNDQyODUyLDE4MDYzNjcw
+OTRdfQ==
 -->
