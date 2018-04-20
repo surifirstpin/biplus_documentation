@@ -2,17 +2,15 @@
 
 Calculated column is a functionality that allows to manipulate the retrieved data using arithmetical, logical, text-based and date-based functions and then displays it in the required format. the data extracted using calculated column will show up in green colour in the data table, rather than blue (dimensions), or orange (measures). Just like regular dimensions and measures, calculated columns are controlled from display in visualizations.
 
-**Some of best features of calculated column;**
+- It supports wide variety of arithmetical and logical functions to be applied on the data.
 
-1. Supports wide variety of arithmetical and logical functions to be applied on the data.
+- It calculates using the data from external parameters (through "Global parameters") by making reference to the database fields. 
 
-2. Calculates using the data from external parameters (through "Global parameters") by making reference to the database fields. 
+- It controls or access the data with user wise calculations.
 
-3. Controls or access the data with user wise calculations.
+-  Optimize and transform the data using  **#plugin#**  functionality.
 
-4. Optimize and transform the data using  **#plugin#**  functionality.
-
-5. Define a function or use a Global function to be applied on the required data fields.
+- Define a function or use a Global function to be applied on the required data fields.
  
 > Note: The functions support JavaScript API.
 
@@ -412,5 +410,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDcxMzQwMTUsLTc3OTEyMDk3MV19
+eyJoaXN0b3J5IjpbNzA0MTE1MzkwLC03NzkxMjA5NzFdfQ==
 -->
