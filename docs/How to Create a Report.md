@@ -79,7 +79,7 @@ you can view the consolidated value of the field by applying values By selecting
 
 Using BiPlus, you can apply Multi-level grouping to the data extracted. consider the below example for more detailed description on multi level grouping.
 
-> **For instance** : in the below image grouping has been applied to 2 dimension fields **Station code** and **Whenmade (hour).** In retrieved data on expanding Station code it displays the perspective **Whenmade (hour)** of that station code,on Further Expansion, it displays orderid
+> **For instance** : in the below image grouping has been applied to 2 dimension fields **Station code** and **Whenmade (hour).** In retrieved data on expanding Station code it displays the perspective number of records available in that particular **Whenmade (hour)** ,on Further Expansion, it displays the
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4d2a0c1e593e8422f72204368da90bd428545c56/images/multi_level_grouping_ur.png)
 
@@ -540,11 +540,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTg1NjY5MywtMTg1NjE0Mzc3NSwzMD
-UxMzg0NCwxMjkxMjYwMTcyLDQzMTg1MDczMiwtMTMzMzg3Njkz
-MCw0NTE1MTUzMDYsLTE4Njk0NDUwMzEsLTEwNTE4Njg2NjcsNz
-c4NTc3NDQ1LDE3NDI3ODAzMjEsLTI3NTMyMjUxMCwyNTg2MTQw
-ODksLTc1MDA2MDI5NCwtMTkxMjg2NjczOCwtNTA2NzA5MTgwLD
-EwMTc3MjQ0MTcsODIyNDQyODUyLDE4NjEwMjI1MzYsLTExOTM2
-NDAzNzZdfQ==
+eyJoaXN0b3J5IjpbNDY3MTkzNjQ2LC0xODU2MTQzNzc1LDMwNT
+EzODQ0LDEyOTEyNjAxNzIsNDMxODUwNzMyLC0xMzMzODc2OTMw
+LDQ1MTUxNTMwNiwtMTg2OTQ0NTAzMSwtMTA1MTg2ODY2Nyw3Nz
+g1Nzc0NDUsMTc0Mjc4MDMyMSwtMjc1MzIyNTEwLDI1ODYxNDA4
+OSwtNzUwMDYwMjk0LC0xOTEyODY2NzM4LC01MDY3MDkxODAsMT
+AxNzcyNDQxNyw4MjI0NDI4NTIsMTg2MTAyMjUzNiwtMTE5MzY0
+MDM3Nl19
 -->
