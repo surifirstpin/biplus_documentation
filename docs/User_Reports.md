@@ -505,7 +505,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 ### Reference Lines for Y-Axis
 
-**Reference Lines** enables the creation of reference lines in a chart.
+- **Reference Lines** enables the creation of reference lines in a chart.
 
 - **Name** specify a reference name for specific information on y-axis.
   
@@ -545,7 +545,7 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzkxNjM5NjksMTIwMDU4OTU1OSwtMj
+eyJoaXN0b3J5IjpbLTE2NzA5MTc1NTYsMTIwMDU4OTU1OSwtMj
 AxODA4MTg5MywxNDI4MTMxNTQ4LC0xMDc3Mzc4MzgsLTE1NzM1
 NjQ1MDcsMTc1ODM4NTk3NCwxMTE0ODE4NDYsLTE4NTYxNDM3Nz
 UsMzA1MTM4NDQsMTI5MTI2MDE3Miw0MzE4NTA3MzIsLTEzMzM4
