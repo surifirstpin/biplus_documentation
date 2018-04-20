@@ -75,14 +75,6 @@ To freeze the column field values while scrolling the data to right or left, cli
 
 you can view the consolidated value of the field by applying values By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on **Group** in field drop down provided and to release the same click on **Un-Group**. **( Refer image 4)**
 
-## Multi-Level grouping
-
-Using BiPlus, you can apply Multi-level grouping to the data extracted. consider the below example for more detailed description on multi level grouping.
-
-> **For instance** : in the below image grouping has been applied to 2 dimension fields **Station code** and **Whenmade (hour).** In retrieved data on expanding Station code it displays the perspective number of records available in that particular **Whenmade (hour),** on Further Expansion, it displays the total number of records obtained in that hour ( (orderid)
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/4d2a0c1e593e8422f72204368da90bd428545c56/images/multi_level_grouping_ur.png)
-
 ## Find
 
 To find the specific data of the field from retrieved list, click on **Find** in the field drop down and enter the specific field value you want to view.**( Refer image 4)**
@@ -95,6 +87,7 @@ To hide the specific field in the visualization charts click on **Hide Visualiza
 ## Remove
 
 To remove a specific field column from the extracted list click on **Remove** in drop down list of the field.**( Refer image 4)**
+
 
 ## Calculated Column
 
@@ -540,7 +533,7 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzM0MDUyMCwtMTg1NjE0Mzc3NSwzMD
+eyJoaXN0b3J5IjpbLTIxMjA4MTc4MCwtMTg1NjE0Mzc3NSwzMD
 UxMzg0NCwxMjkxMjYwMTcyLDQzMTg1MDczMiwtMTMzMzg3Njkz
 MCw0NTE1MTUzMDYsLTE4Njk0NDUwMzEsLTEwNTE4Njg2NjcsNz
 c4NTc3NDQ1LDE3NDI3ODAzMjEsLTI3NTMyMjUxMCwyNTg2MTQw
