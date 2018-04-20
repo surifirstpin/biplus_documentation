@@ -15,7 +15,7 @@ Calculated column is a functionality that allows to manipulate the retrieved dat
 > Note: The functions support JavaScript API.
 
 
-## Mathematical operation in Acubi
+## Mathematical operation 
 
 Custom made mathematical operations can be added in calculated column section as shown in below Image;
 
@@ -36,7 +36,7 @@ Similarly we can also calculate cubical values for the column fields as shown in
 bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 ```
 
-**Acubi supports following functionalities in calculated column:**
+**BiPlus supports following functionalities in calculated column:**
 
 ### General
 | **Name**| **Description**  | **Usage and  Example**|
@@ -410,5 +410,5 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0MTE1MzkwLC03NzkxMjA5NzFdfQ==
+eyJoaXN0b3J5IjpbMTU4MjkyODY0LC03NzkxMjA5NzFdfQ==
 -->
