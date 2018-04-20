@@ -128,7 +128,7 @@ Click on **Calculated column** button to enable table calculations **(Refer imag
 
 **Data Tab** under **Charts Section** is enabled based on the data retrieved for fields. 
 
-**Below are the parameters applicable on the data retrieved;**
+**Below are the parameters applicable on the data retrieved;** ( Refer image 8)
 
 - **Row Grouping** enables row grouping for fields values based on the field selected as shown in the below image.
 
@@ -139,10 +139,13 @@ Click on **Calculated column** button to enable table calculations **(Refer imag
 - **Datasets** this section enables you to perform alignment, set currency formats, group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
 
 - **Legend** enter a text for label, the way it should appear in visualization.
+
 > **Note :** before doing this enable show legend check box in general section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/49bb2a07efd42d5b6f9a7f648e8f705e5f63bc4d/images/legend_label.png)
+
+**Image 8**
 
 ##  Format
 
@@ -546,11 +549,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTA0MjU2OSwxMjAwNTg5NTU5LC0yMD
-E4MDgxODkzLDE0MjgxMzE1NDgsLTEwNzczNzgzOCwtMTU3MzU2
-NDUwNywxNzU4Mzg1OTc0LDExMTQ4MTg0NiwtMTg1NjE0Mzc3NS
-wzMDUxMzg0NCwxMjkxMjYwMTcyLDQzMTg1MDczMiwtMTMzMzg3
-NjkzMCw0NTE1MTUzMDYsLTE4Njk0NDUwMzEsLTEwNTE4Njg2Nj
-csNzc4NTc3NDQ1LDE3NDI3ODAzMjEsLTI3NTMyMjUxMCwyNTg2
-MTQwODldfQ==
+eyJoaXN0b3J5IjpbNDk4Nzk2MjQ4LDEyMDA1ODk1NTksLTIwMT
+gwODE4OTMsMTQyODEzMTU0OCwtMTA3NzM3ODM4LC0xNTczNTY0
+NTA3LDE3NTgzODU5NzQsMTExNDgxODQ2LC0xODU2MTQzNzc1LD
+MwNTEzODQ0LDEyOTEyNjAxNzIsNDMxODUwNzMyLC0xMzMzODc2
+OTMwLDQ1MTUxNTMwNiwtMTg2OTQ0NTAzMSwtMTA1MTg2ODY2Ny
+w3Nzg1Nzc0NDUsMTc0Mjc4MDMyMSwtMjc1MzIyNTEwLDI1ODYx
+NDA4OV19
 -->
