@@ -355,7 +355,7 @@ Where the expression contain the fields of self view and should result a single 
 
 > **Example:**  “sql”: "(select sum(x.Amount) from Orders x)”
 
-## Drill-down feature 
+## Drill-down 
 
 Drill-down is used for exploring the data further with respect to a field value. Acubi has an ability to define drill option for a field with a set of derivable fields and when clicked on a particular value of an assigned field, the individual records that make up that cell will be displayed by limiting the query with the clicked value.
 
@@ -496,5 +496,5 @@ Acubi provides map view by covering various number of countries. Also, there are
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDM5MDUxMF19
+eyJoaXN0b3J5IjpbLTIwNzAwNTQ5MDgsMTMyMDM5MDUxMF19
 -->
