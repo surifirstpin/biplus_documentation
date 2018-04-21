@@ -39,7 +39,7 @@ Let us see in detail how this charts works.
 
  Emphasize the overall shape of an entire series of values, usually over time.
  
- **1.** Click on **line** tab under **general** section  to compare the data in line chart.
+ **1.** Click on **line** tab under **General** section  to compare the data in line chart.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6904440c50633ac92f461d7b7f2fd2c2d0e9b7dc/images/line_chart.png)
@@ -83,7 +83,7 @@ Bar charts are used to compare data across different categories. You can build a
 
 This section describes the editing option for Pie chart in visualization. 
  
- **3.**  Click on **Pie** tab under **general** section to compare the data in pie chart.
+ **3.**  Click on **Pie** tab under **General** section to compare the data in pie chart.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f52c167aa93a715736ed2800ae5ca56675c54e42/images/pie_chart.png)
@@ -153,7 +153,7 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 
 The following section describes the editing option for bubble chart in visualization. 
  
- **6.** Click on **Funnel** tab under **general** section  to compare the data in Funnel chart.
+ **6.** Click on **Funnel** tab under **General** section  to compare the data in Funnel chart.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caca3ad67049c43bc60a5fccae26182c81762732/images/funnel_chart.png)
@@ -375,8 +375,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjE1NTk3NDEsLTkwMTQ3ODIwNSwxMD
-kzOTAyNTYzLDE2MjgxMTQxMTUsLTExOTgyNDAzOTksNjg2NzY5
-NDU3LDE2ODQxNzAzNTksMTA1NDc2NjY2MiwtODE1MDA1MTg0XX
-0=
+eyJoaXN0b3J5IjpbNDUwMzU2MzIzLC05MDE0NzgyMDUsMTA5Mz
+kwMjU2MywxNjI4MTE0MTE1LC0xMTk4MjQwMzk5LDY4Njc2OTQ1
+NywxNjg0MTcwMzU5LDEwNTQ3NjY2NjIsLTgxNTAwNTE4NF19
 -->
