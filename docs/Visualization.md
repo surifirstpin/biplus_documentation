@@ -250,6 +250,14 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
  It displays the data grouped by specific country and at the same time the grouped data regions are highlighted in the map.
  
+**10.** To view the **World chart** click on **world** tab under **General** section.
+
+
+ > **Note :** The values you want to define in world chart, should be defined in model section. On defining in model the data field values will be displayed here.  
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/40b704503bb7342aa38ccd68e7c30a0708959f27/images/world.png)
+ 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa5a5ec1ca971ffeed2d834874ab8905fc50bd31/images/world.png)
 
 - **Title** specify a title for world map.
@@ -369,6 +377,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTgyNDAzOTksNjg2NzY5NDU3LDE2OD
-QxNzAzNTksMTA1NDc2NjY2MiwtODE1MDA1MTg0XX0=
+eyJoaXN0b3J5IjpbNjgwMDU3NjQwLC0xMTk4MjQwMzk5LDY4Nj
+c2OTQ1NywxNjg0MTcwMzU5LDEwNTQ3NjY2NjIsLTgxNTAwNTE4
+NF19
 -->
