@@ -10,7 +10,7 @@ BiPlus Reports displays the retrieved the data in the desired combinations as pe
 
 **4.** Select one or more **Measure fields** (Orange fields) to add information about those groups or data such as Sum, Count, Max, Min and  Avg etc. 
 
-**5.** To retrieve the data based on filters applied , add a **filter** to your report based on that field.
+**5.** To retrieve the data based on filters applied , add a **Filter** to your report based on that field.
  
  > **Note :**  The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are not visible while retrieving the data in data section. 
 
@@ -553,11 +553,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExMjYzMDg0LDc3MjUxMDY2NywtMzE0NT
-QzNzQzLDE2NzE1NzYzNDksLTkwNTMyNzcyNCwyNjUxNTAyNCw0
-OTg3OTYyNDgsMTIwMDU4OTU1OSwtMjAxODA4MTg5MywxNDI4MT
-MxNTQ4LC0xMDc3Mzc4MzgsLTE1NzM1NjQ1MDcsMTc1ODM4NTk3
-NCwxMTE0ODE4NDYsLTE4NTYxNDM3NzUsMzA1MTM4NDQsMTI5MT
-I2MDE3Miw0MzE4NTA3MzIsLTEzMzM4NzY5MzAsNDUxNTE1MzA2
-XX0=
+eyJoaXN0b3J5IjpbMTQ1NTk1MTY5Miw3NzI1MTA2NjcsLTMxND
+U0Mzc0MywxNjcxNTc2MzQ5LC05MDUzMjc3MjQsMjY1MTUwMjQs
+NDk4Nzk2MjQ4LDEyMDA1ODk1NTksLTIwMTgwODE4OTMsMTQyOD
+EzMTU0OCwtMTA3NzM3ODM4LC0xNTczNTY0NTA3LDE3NTgzODU5
+NzQsMTExNDgxODQ2LC0xODU2MTQzNzc1LDMwNTEzODQ0LDEyOT
+EyNjAxNzIsNDMxODUwNzMyLC0xMzMzODc2OTMwLDQ1MTUxNTMw
+Nl19
 -->
