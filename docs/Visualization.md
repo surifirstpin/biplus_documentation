@@ -109,7 +109,7 @@ This section describes the editing option for Pie chart in visualization.
  Radar charts are a great way to compare members of a dimension in a function of several metrics.  
 For example, when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
 
- **4.** Click on **Radar** tab under **general** section  to compare the data in  Radar chart.
+ **4.** Click on **Radar** tab under **General** section  to compare the data in  Radar chart.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/34c8d8bc129b2e32ded89f8d3f9816b6a8fd1624/images/radar_chart.png)
@@ -141,7 +141,7 @@ For example, when you want to buy a Laptop, you can use a radar chart to compare
 
 It is used to display the data in circles. We can define each bubble using any of our Dimension value and size by Measure value.
  
- **5.** Click on **Bubble** tab under **general** section  to compare the data in Bubble chart.
+ **5.** Click on **Bubble** tab under **General** section  to compare the data in Bubble chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d07e80177a8a6fe04619cfb40058e9789b142e88/images/bubble_chart.png)
@@ -182,7 +182,7 @@ Using BiPlus you can view the funnel charts in different formats using the below
 Gauge chart displays current status in the context of goal.
 
  
- **7.** Click on **gauge** tab under **general** section  to compare the data in Gauge chart.
+ **7.** Click on **gauge** tab under **General** section  to compare the data in Gauge chart.
 
 - **Green** colour in gauge chart indicates the value attained is closer to target.
 
@@ -216,7 +216,7 @@ Gauge chart displays current status in the context of goal.
  
 Table chart displays the data in series making it more feasible for comparing dimensions and measure values.
  
- **8.** Click on **Table** tab under **general** section to compare data in table chart.
+ **8.** Click on **Table** tab under **General** section to compare data in table chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b6e598ee67160c266bb9d4d30a423f520880bf63/images/table_chart.png)
@@ -225,7 +225,7 @@ Table chart displays the data in series making it more feasible for comparing di
 
 It displays one or more data series as a data graph. Widget chart is used to display the number of records created today. number of Incidents by status or department.
 
- **9.** Click on **widget** tab under **general** section to display the total record of the data in widget chart.
+ **9.** Click on **Widget** tab under **General** section to display the total record of the data in widget chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0fffbbc444991a973205bc030a0485bfc9ef592a/images/widget_chart.png)
@@ -375,7 +375,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTQ3ODIwNSwxMDkzOTAyNTYzLDE2Mj
-gxMTQxMTUsLTExOTgyNDAzOTksNjg2NzY5NDU3LDE2ODQxNzAz
-NTksMTA1NDc2NjY2MiwtODE1MDA1MTg0XX0=
+eyJoaXN0b3J5IjpbLTE4MjE1NTk3NDEsLTkwMTQ3ODIwNSwxMD
+kzOTAyNTYzLDE2MjgxMTQxMTUsLTExOTgyNDAzOTksNjg2NzY5
+NDU3LDE2ODQxNzAzNTksMTA1NDc2NjY2MiwtODE1MDA1MTg0XX
+0=
 -->
