@@ -73,7 +73,7 @@ Let us see in detail how this charts works.
 
 Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the Rows and a measure on the Columns area.
 
- **2.** Click on **Bar** tab under **general** section  to compare the data in Bar chart.
+ **2.** Click on **Bar** tab under **General** section  to compare the data in Bar chart.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c21c91b0c8f9e243362fbefc44279936c6021d12/images/bar_chart.png)
@@ -375,7 +375,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzkwMjU2MywxNjI4MTE0MTE1LC0xMT
-k4MjQwMzk5LDY4Njc2OTQ1NywxNjg0MTcwMzU5LDEwNTQ3NjY2
-NjIsLTgxNTAwNTE4NF19
+eyJoaXN0b3J5IjpbLTkwMTQ3ODIwNSwxMDkzOTAyNTYzLDE2Mj
+gxMTQxMTUsLTExOTgyNDAzOTksNjg2NzY5NDU3LDE2ODQxNzAz
+NTksMTA1NDc2NjY2MiwtODE1MDA1MTg0XX0=
 -->
