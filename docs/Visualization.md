@@ -1,7 +1,7 @@
 <center><h1>Visualization</h1></center>
 
 
-AcuBi has an ability to create graphics and charts based on the result obtained. Charts sections in AcuBi displays different type of pictorial representation of the data. Let us see in details how to configure visualization.
+BiPlus has an ability to create graphics and charts based on the result obtained. Charts sections in BiPlus displays different type of pictorial representation of the data. Let us see in details how to configure visualization.
 
 ## Adding Life to Data
 
@@ -18,7 +18,7 @@ Analysis section creates an impressive and good looking charts simultaneously wi
 
 ## Types of Visualization
 
-AcuBi visualization charts are used based on the priority of what specific information you want to view about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. It Provides an ability to visualize the data in 10 different types of charts with some standard editing options. Let us see them in detail,
+BiPlus visualization charts are used based on the priority of what specific information you want to view about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. It Provides an ability to visualize the data in 10 different types of charts with some standard editing options. Let us see them in detail,
 
  - Line
  - Bar
@@ -158,7 +158,7 @@ The following section describes the editing option for bubble chart in visualiza
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caca3ad67049c43bc60a5fccae26182c81762732/images/funnel_chart.png)
 
-Using AcuBi you can view the funnel charts in different formats using the below check boxes:
+Using you can view the funnel charts in different formats using the below check boxes:
 
  - **Sort** on selecting the check box it enables data in the sorted order in funnel chart.
   
@@ -375,7 +375,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzY3NTQyODQsLTExOTgyNDAzOTksNj
-g2NzY5NDU3LDE2ODQxNzAzNTksMTA1NDc2NjY2MiwtODE1MDA1
-MTg0XX0=
+eyJoaXN0b3J5IjpbLTMzNjU2OTc5OSwtMTE5ODI0MDM5OSw2OD
+Y3Njk0NTcsMTY4NDE3MDM1OSwxMDU0NzY2NjYyLC04MTUwMDUx
+ODRdfQ==
 -->
