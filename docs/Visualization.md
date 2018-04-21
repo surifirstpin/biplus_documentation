@@ -369,6 +369,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDE3MDM1OSwxMDU0NzY2NjYyLC04MT
-UwMDUxODRdfQ==
+eyJoaXN0b3J5IjpbNjg2NzY5NDU3LDE2ODQxNzAzNTksMTA1ND
+c2NjY2MiwtODE1MDA1MTg0XX0=
 -->
