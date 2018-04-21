@@ -239,7 +239,7 @@ At Present there are 10 type of visualization images available in BiPlus, To vie
 
 Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension fields on the Rows and a measures fields on the Columns area.
 
- **2.** Click on **Bar** tab under **general** section  to compare the data in Bar chart.
+ **2.** Click on **Bar** tab under **General** section  to compare the data in Bar chart.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c21c91b0c8f9e243362fbefc44279936c6021d12/images/bar_chart.png)
@@ -249,7 +249,7 @@ Bar charts are used to compare data across different categories. You can build a
 
 This section describes the editing option for Pie chart in visualization. 
  
- **3.**  Click on **Pie** tab under **general** section to compare the data in pie chart.
+ **3.**  Click on **Pie** tab under **General** section to compare the data in pie chart.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f52c167aa93a715736ed2800ae5ca56675c54e42/images/pie_chart.png)
@@ -276,7 +276,7 @@ This section describes the editing option for Pie chart in visualization.
  
 > **For example,** when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
 
- **4.** Click on **Radar** tab under **general** section  to compare the data in  Radar chart.
+ **4.** Click on **Radar** tab under **General** section  to compare the data in  Radar chart.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/34c8d8bc129b2e32ded89f8d3f9816b6a8fd1624/images/radar_chart.png)
@@ -309,7 +309,7 @@ This section describes the editing option for Pie chart in visualization.
 
 It is used to display the data in circles. We can define each bubble using any of our Dimension value and size by Measure value.
  
- **5.** Click on **Bubble** tab under **general** section  to compare the data in Bubble chart.
+ **5.** Click on **Bubble** tab under **General** section  to compare the data in Bubble chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d07e80177a8a6fe04619cfb40058e9789b142e88/images/bubble_chart.png)
@@ -318,7 +318,7 @@ It is used to display the data in circles. We can define each bubble using any o
 
 Funnels helps to visualize a process that has stages and items flow sequentially from one stage to the next. Use a funnel when there is a sequential flow between stages, such as a sales process that starts with inquiry and ends with billing.
  
- **6.** Click on **Funnel** tab under **general** section  to compare the data in Funnel chart.
+ **6.** Click on **Funnel** tab under **General** section  to compare the data in Funnel chart.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caca3ad67049c43bc60a5fccae26182c81762732/images/funnel_chart.png)
@@ -346,7 +346,7 @@ Using BiPlus you can view the funnel charts in different formats using the below
 
 Gauge chart displays current status in the context of goal.
 
- **7.** Click on **gauge** tab under **general** section  to compare the data in Gauge chart.
+ **7.** Click on **gauge** tab under **General** section  to compare the data in Gauge chart.
 
 - **Green** colour in gauge chart indicates the value attained is closer to target.
 
@@ -380,7 +380,7 @@ Gauge chart displays current status in the context of goal.
  
 Table chart displays the data in series making it more feasible for comparing dimensions and measure values.
  
- **8.** Click on **Table** tab under **general** section to compare data in table chart.
+ **8.** Click on **Table** tab under **General** section to compare data in table chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b6e598ee67160c266bb9d4d30a423f520880bf63/images/table_chart.png)
@@ -389,7 +389,7 @@ Table chart displays the data in series making it more feasible for comparing di
 
 It displays one or more data series as a data graph. Widget chart is used to display the number of records created today. number of Incidents by status or department.
 
- **9.** Click on **widget** tab under **general** section to display the total record of the data in widget chart.
+ **9.** Click on **widget** tab under **General** section to display the total record of the data in widget chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0fffbbc444991a973205bc030a0485bfc9ef592a/images/widget_chart.png)
@@ -553,7 +553,7 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDMyNzE3NCwxNDU1OTUxNjkyLDc3Mj
+eyJoaXN0b3J5IjpbLTEzMDcwNzAwMiwxNDU1OTUxNjkyLDc3Mj
 UxMDY2NywtMzE0NTQzNzQzLDE2NzE1NzYzNDksLTkwNTMyNzcy
 NCwyNjUxNTAyNCw0OTg3OTYyNDgsMTIwMDU4OTU1OSwtMjAxOD
 A4MTg5MywxNDI4MTMxNTQ4LC0xMDc3Mzc4MzgsLTE1NzM1NjQ1
