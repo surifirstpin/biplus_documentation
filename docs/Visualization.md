@@ -158,7 +158,7 @@ The following section describes the editing option for bubble chart in visualiza
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caca3ad67049c43bc60a5fccae26182c81762732/images/funnel_chart.png)
 
-Using you can view the funnel charts in different formats using the below check boxes:
+Using BiPlus you can view the funnel charts in different formats using the below check boxes:
 
  - **Sort** on selecting the check box it enables data in the sorted order in funnel chart.
   
@@ -335,7 +335,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Format** it enables number format for numeric values.
 
-- **Currency** Using this field, you can specify the formatting for currency as of now AcuBi supports $,   ₹  ,   €  ,  £.
+- **Currency** Using this field, you can specify the formatting for currency as of now BiPlus supports $,   ₹  ,   €  ,  £.
 
 - **Y-Axis** display measure values on Y-axis. 
 
@@ -375,7 +375,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjU2OTc5OSwtMTE5ODI0MDM5OSw2OD
+eyJoaXN0b3J5IjpbMTYyODExNDExNSwtMTE5ODI0MDM5OSw2OD
 Y3Njk0NTcsMTY4NDE3MDM1OSwxMDU0NzY2NjYyLC04MTUwMDUx
 ODRdfQ==
 -->
