@@ -4,11 +4,11 @@ BiPlus Reports displays the retrieved the data in the desired combinations as pe
 
 **1.** Click on **Analyse section.**
 
-**2.** Select Desired **pProject** and **model** from the drop down list, depending on which you want to extract the data.
+**2.** Select Desired **Project** and **Model** from the drop down list, depending on which you want to extract the data.
 
-**3.**  Select one or more **dimension fields** ( Grey fields) to access and group your data.
+**3.**  Select one or more **Dimension fields** ( Grey fields) to access and group your data.
 
-**4.** Select one or more **measure fields** (Orange fields) to add information about those groups or data such as Sum, Count, Max, Min and  Avg etc. 
+**4.** Select one or more **Measure fields** (Orange fields) to add information about those groups or data such as Sum, Count, Max, Min and  Avg etc. 
 
 **5.** To retrieve the data based on filters applied , add a **filter** to your report based on that field.
  
@@ -553,11 +553,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjc0NTU4MSwtMzE0NTQzNzQzLDE2Nz
-E1NzYzNDksLTkwNTMyNzcyNCwyNjUxNTAyNCw0OTg3OTYyNDgs
-MTIwMDU4OTU1OSwtMjAxODA4MTg5MywxNDI4MTMxNTQ4LC0xMD
-c3Mzc4MzgsLTE1NzM1NjQ1MDcsMTc1ODM4NTk3NCwxMTE0ODE4
-NDYsLTE4NTYxNDM3NzUsMzA1MTM4NDQsMTI5MTI2MDE3Miw0Mz
-E4NTA3MzIsLTEzMzM4NzY5MzAsNDUxNTE1MzA2LC0xODY5NDQ1
-MDMxXX0=
+eyJoaXN0b3J5IjpbNzcyNTEwNjY3LC0zMTQ1NDM3NDMsMTY3MT
+U3NjM0OSwtOTA1MzI3NzI0LDI2NTE1MDI0LDQ5ODc5NjI0OCwx
+MjAwNTg5NTU5LC0yMDE4MDgxODkzLDE0MjgxMzE1NDgsLTEwNz
+czNzgzOCwtMTU3MzU2NDUwNywxNzU4Mzg1OTc0LDExMTQ4MTg0
+NiwtMTg1NjE0Mzc3NSwzMDUxMzg0NCwxMjkxMjYwMTcyLDQzMT
+g1MDczMiwtMTMzMzg3NjkzMCw0NTE1MTUzMDYsLTE4Njk0NDUw
+MzFdfQ==
 -->
