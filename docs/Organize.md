@@ -9,7 +9,7 @@
 <li>All the created reports and dashboards are available under <strong>workspace</strong> in dashboard section.</li>
 </ol>
 <p><img src="https://raw.githubusercontent.com/sv18042016/fp1/a0c10495ffde6577ee5af3b350f2c54ea41649bf/images/workspace.png" alt="enter image description here"></p>
-<h2 id="home-page-display-option">Home Page Display Option</h2>
+<h2 id="home-page-display-option">Home Page Display </h2>
 <ol start="2">
 <li>Click on <strong>Set Home page</strong> Icon, to set the dashboard on Home page.<br>
 <img src="https://raw.githubusercontent.com/sv18042016/fp1/63d935c622e04e8e13416ae4bfe54db3e8bb0af5/images/dash_home1.png" alt="enter image description here"></li>
@@ -42,6 +42,6 @@
 <p><img src="https://raw.githubusercontent.com/sv18042016/fp1/759c68367cac74f2715f1c407d74d73a3fda3c09/images/drag&amp;drop.png" alt="enter image description here"></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDEwNTAyMiwtMTExNDAyNDYwNSwyMD
+eyJoaXN0b3J5IjpbLTY3NTk0MTk3NSwtMTExNDAyNDYwNSwyMD
 kyMjY5Njg0LDEzNTY0Mzk4MDRdfQ==
 -->
