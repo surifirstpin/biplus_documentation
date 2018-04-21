@@ -162,7 +162,7 @@ Click on **Calculated column** button to enable table calculations **(Refer imag
 |  #,##0.00 | Number with comma between thousands and two decimal(1,234.00) |
 |  #,##0.000 | Number with comma between thousands and three decimal(1,234.000) |
 |  ###,###.0 | Number with comma between hundreds and one decimal(123,456.0) |
-|  ###,###.00 | Number with comma between hunderds and two decimal(123,456.00) |
+|  ###,###.00 | Number with comma between hundreds and two decimal(123,456.00) |
 |  ###,###.000 | Number with comma between hunderds and three decimal(123,456.000) |
 |  ###.###,0 | Number with dot between hundreds and comma one decimal(123.456,0) |
 |  ###.###,00 | Number with dot between hundreds and comma two decimal(123.456,00) |
@@ -553,11 +553,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTk1MTY5Miw3NzI1MTA2NjcsLTMxND
-U0Mzc0MywxNjcxNTc2MzQ5LC05MDUzMjc3MjQsMjY1MTUwMjQs
-NDk4Nzk2MjQ4LDEyMDA1ODk1NTksLTIwMTgwODE4OTMsMTQyOD
-EzMTU0OCwtMTA3NzM3ODM4LC0xNTczNTY0NTA3LDE3NTgzODU5
-NzQsMTExNDgxODQ2LC0xODU2MTQzNzc1LDMwNTEzODQ0LDEyOT
-EyNjAxNzIsNDMxODUwNzMyLC0xMzMzODc2OTMwLDQ1MTUxNTMw
-Nl19
+eyJoaXN0b3J5IjpbMTIzMDMyNzE3NCwxNDU1OTUxNjkyLDc3Mj
+UxMDY2NywtMzE0NTQzNzQzLDE2NzE1NzYzNDksLTkwNTMyNzcy
+NCwyNjUxNTAyNCw0OTg3OTYyNDgsMTIwMDU4OTU1OSwtMjAxOD
+A4MTg5MywxNDI4MTMxNTQ4LC0xMDc3Mzc4MzgsLTE1NzM1NjQ1
+MDcsMTc1ODM4NTk3NCwxMTE0ODE4NDYsLTE4NTYxNDM3NzUsMz
+A1MTM4NDQsMTI5MTI2MDE3Miw0MzE4NTA3MzIsLTEzMzM4NzY5
+MzBdfQ==
 -->
