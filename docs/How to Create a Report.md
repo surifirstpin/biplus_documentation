@@ -323,7 +323,7 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caca3ad67049c43bc60a5fccae26182c81762732/images/funnel_chart.png)
 
-Using AcuBi you can view the funnel charts in different formats using the below check boxes:
+Using BiPlus you can view the funnel charts in different formats using the below check boxes:
 
  - **Sort** on selecting this check box, it enables data in the sorted order in funnel chart.
   
@@ -501,7 +501,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Format** it enables number format for numeric values.
 
-- **Currency** Using this field, you can specify the formatting for currency as of now AcuBi supports $,   ₹  ,   €  ,  £.
+- **Currency** Using this field, you can specify the formatting for currency as of now BiPlusi supports $,   ₹  ,   €  ,  £.
 
 - **Y-Axis** display measure values on Y-axis. 
 
@@ -553,11 +553,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyNTEwNjY3LC0zMTQ1NDM3NDMsMTY3MT
-U3NjM0OSwtOTA1MzI3NzI0LDI2NTE1MDI0LDQ5ODc5NjI0OCwx
-MjAwNTg5NTU5LC0yMDE4MDgxODkzLDE0MjgxMzE1NDgsLTEwNz
-czNzgzOCwtMTU3MzU2NDUwNywxNzU4Mzg1OTc0LDExMTQ4MTg0
-NiwtMTg1NjE0Mzc3NSwzMDUxMzg0NCwxMjkxMjYwMTcyLDQzMT
-g1MDczMiwtMTMzMzg3NjkzMCw0NTE1MTUzMDYsLTE4Njk0NDUw
-MzFdfQ==
+eyJoaXN0b3J5IjpbMzExMjYzMDg0LDc3MjUxMDY2NywtMzE0NT
+QzNzQzLDE2NzE1NzYzNDksLTkwNTMyNzcyNCwyNjUxNTAyNCw0
+OTg3OTYyNDgsMTIwMDU4OTU1OSwtMjAxODA4MTg5MywxNDI4MT
+MxNTQ4LC0xMDc3Mzc4MzgsLTE1NzM1NjQ1MDcsMTc1ODM4NTk3
+NCwxMTE0ODE4NDYsLTE4NTYxNDM3NzUsMzA1MTM4NDQsMTI5MT
+I2MDE3Miw0MzE4NTA3MzIsLTEzMzM4NzY5MzAsNDUxNTE1MzA2
+XX0=
 -->
