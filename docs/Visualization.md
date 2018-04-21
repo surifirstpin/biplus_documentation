@@ -258,10 +258,8 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/40b704503bb7342aa38ccd68e7c30a0708959f27/images/world.png)
  
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa5a5ec1ca971ffeed2d834874ab8905fc50bd31/images/world.png)
-
 - **Title** specify a title for world map.
-- 
+
 - **Flat Map** displays a flat view or "2D" vision of the map.
 
 - **Default** set default colour to display specific countries.
@@ -377,7 +375,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwMDU3NjQwLC0xMTk4MjQwMzk5LDY4Nj
-c2OTQ1NywxNjg0MTcwMzU5LDEwNTQ3NjY2NjIsLTgxNTAwNTE4
-NF19
+eyJoaXN0b3J5IjpbLTE4MzY3NTQyODQsLTExOTgyNDAzOTksNj
+g2NzY5NDU3LDE2ODQxNzAzNTksMTA1NDc2NjY2MiwtODE1MDA1
+MTg0XX0=
 -->
