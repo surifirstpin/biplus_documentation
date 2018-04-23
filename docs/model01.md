@@ -95,7 +95,7 @@ After saving a project, BiPlus will display the views and relevant information o
 To filter data from a view and the respective mapping views, the filter criteria can be defined in “filters” section.
 
 ```
- {
+{
 "name": "View_Name",
 "label": "View_Name",
 "filters": [{
@@ -103,13 +103,13 @@ To filter data from a view and the respective mapping views, the filter criteria
 "filter_sql": Filter Expression ",  *expression or condition to be applied*
 "apply": "all",
 "position": "before"                                   *position of filter*
-            }],
+           }],
 "joins":[]
 }
 
 ```
 
-Filter can be mentioned with two specific attributes such as,
+**Filter can be derived with two specific attributes such as;**
 
 I.  **filter_sql :**  the filter expression or condition. Filter expression can be date-based, string-based, number-based & even login-based.
 
@@ -495,6 +495,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODQxMzIwNyw0NTQ2OTU1MiwxMzIwMz
-kwNTEwXX0=
+eyJoaXN0b3J5IjpbLTExMzE3MTU4ODgsNDU0Njk1NTIsMTMyMD
+M5MDUxMF19
 -->
