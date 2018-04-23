@@ -7,9 +7,9 @@ BiPlus has an ability to create graphics and charts based on the result obtained
 
 ## Adding Life to Data
 
-Analysis section creates an impressive and good looking charts simultaneously with the data obtained from a query, in fraction of seconds. The query result and visualization configuration are seen together when you run the query, So that users can see the data and picture together for better understanding.
+Analysis section creates an impressive and good looking charts simultaneously with the data obtained from a query, in fraction of seconds. Using BiPlus users can see the data and picture together for better understanding.
 
-## Getting Started ith Visualization.
+## Getting Started With Visualization.
 
 **I.** Click on **Charts** tab to configure visualization option for the result obtained.
 
@@ -377,7 +377,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk5MTYwNSw0NTAzNTYzMjMsLTkwMT
-Q3ODIwNSwxMDkzOTAyNTYzLDE2MjgxMTQxMTUsLTExOTgyNDAz
-OTksNjg2NzY5NDU3LDEwNTQ3NjY2NjIsLTgxNTAwNTE4NF19
+eyJoaXN0b3J5IjpbLTEyMzcxMDM0NTMsNDUwMzU2MzIzLC05MD
+E0NzgyMDUsMTA5MzkwMjU2MywxNjI4MTE0MTE1LC0xMTk4MjQw
+Mzk5LDY4Njc2OTQ1NywxMDU0NzY2NjYyLC04MTUwMDUxODRdfQ
+==
 -->
