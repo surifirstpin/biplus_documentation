@@ -378,23 +378,23 @@ ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} 
 Custom function is a block of code (series of statements which intended to a particular task) with submitted inputs and derivable output. It will ease-up the process of calculations when a series of statements or actions to be repeated on a set of values and output to be derived. Acubi supports local function which can be written inside the function body:
 ```
 /*START*/
-function fname(param1, param2, param3 ...){
-
+function fname(param1, param2, param3 ...)
+{
 statement 1;
-statement 2;                                     * Function body
+statement 2;                                     * Function body *
 statement 3;
 ...........
 Statement N;
 return `;   
 }
 /*END*/
-fname(value1, value2, value3, .....)    //Call Function
+fname(value1, value2, value3, .....)             * Call Function *
 ```
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/52b7c4357f0c07e4a89b14f018cf3d877a5ba4f3/images/cal_local_fucntion.png)
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxNzUwMTEsNTY1ODkwODEwLC03NzkxMj
-A5NzFdfQ==
+eyJoaXN0b3J5IjpbLTY3MDA3OTUxOSw1NjU4OTA4MTAsLTc3OT
+EyMDk3MV19
 -->
