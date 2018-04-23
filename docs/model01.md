@@ -37,18 +37,18 @@ A Model can be defined in 3 steps;
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/add_tables.png)
 
-**2.** **Auto Build Joins(check box)** On selecting this checkbox,  it will adopt all the defined mappings or relations between different tables of a database & displays it in model. Else only tables with no mappings will be adopted as views in model.
+**2.** **Auto Build Joins(check box)** On selecting this checkbox,  it will adopt all the defined mappings or relations between different tables of a database and displays it in model. Else only tables with no mappings will be adopted as views in model.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model%204.png)
 
 -   **Privacy** you can save the project in any one of the following privacy option.
 
-    -   **Private ()**  report saved in private section and accessed by the user itself.
+    -   **Private**  report saved in private section and accessed by the user itself.
     
-    -   **Public ()**  the report is saved in public section and accessed by all the users.
+    -   **Public**  the report is saved in public section and accessed by all the users.
     
-    -   **Share ()**  the report saved under share section and accessed by specific set of users.
+    -   **Share**  the report saved under share section and accessed by specific set of users.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/8dcf17faa6e3f50d5f3f79ae269a02c1eb7237c9/images/save_project.png)
@@ -495,6 +495,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODYxMzA5MzEsNDU0Njk1NTIsMTMyMD
-M5MDUxMF19
+eyJoaXN0b3J5IjpbMjAyOTY1ODQ2NSw0NTQ2OTU1MiwxMzIwMz
+kwNTEwXX0=
 -->
