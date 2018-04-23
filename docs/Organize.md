@@ -1,7 +1,3 @@
----
-
-
----
 
 <center><h1>Organize</h1></center>
 <p>This Section explains how to organize the reports and dashboard under specific nested tag structure.</p>
@@ -43,6 +39,7 @@
 <p><img src="https://raw.githubusercontent.com/sv18042016/fp1/759c68367cac74f2715f1c407d74d73a3fda3c09/images/drag&amp;drop.png" alt="enter image description here"></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDIwMzU1NjEsLTY3NTk0MTk3NSwtMT
-ExNDAyNDYwNSwyMDkyMjY5Njg0LDEzNTY0Mzk4MDRdfQ==
+eyJoaXN0b3J5IjpbMTYzMTkyNDYwOCwtMTYwMjAzNTU2MSwtNj
+c1OTQxOTc1LC0xMTE0MDI0NjA1LDIwOTIyNjk2ODQsMTM1NjQz
+OTgwNF19
 -->
