@@ -8,8 +8,6 @@ Admin can create, edit and delete the users.
 
 > **Navigation : Settings→ Use →  Add Users.**
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34ae99ea80597fc08c96c787a88d8951979862b1/images/users.png)
-
 - **Email** enter email id for the user.
 - **Password** enter a password to access.
 - **FirstName** enter first-name of the user.
@@ -27,13 +25,18 @@ Admin can create, edit and delete the users.
 - **Enabled** on selecting enabled check box the user login is accessed or it will be disabled for login.
 - Click on **Save** button to save user.
 
-## Edit & Delete User
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34ae99ea80597fc08c96c787a88d8951979862b1/images/users.png)
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fed976f79b3ba765a8bc3b9ca665de4de0fd2681/images/user_edit.png)
+
+
+
+## Edit & Delete User
 
 **1.** Click on **Edit icon** to edit the user.
 
 **2.** Click on **Delete icon** to delete the user.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fed976f79b3ba765a8bc3b9ca665de4de0fd2681/images/user_edit.png)
 
 ## Groups
 
@@ -66,6 +69,6 @@ To reset password, Click on **forget password** button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjI1Mzc2MCwxNzAxNzA0Mzg5LDE2OT
-g1NTEyNjYsNDY1NzY2ODE2LC05NzQ2NjAxODddfQ==
+eyJoaXN0b3J5IjpbLTk0MDI3NjA0LDE3MDE3MDQzODksMTY5OD
+U1MTI2Niw0NjU3NjY4MTYsLTk3NDY2MDE4N119
 -->
