@@ -1,7 +1,8 @@
 <center><h1>Database Connection</h1></center>
 
 
-   **Connection** specifies a database connection from which a model can retrieve the data. Following are the steps to be followed to set up database connection.
+   **Connection** Specifies a database connection from which a model can retrieve the data.
+ Followare the steps to be followed to set up database connection.
     
 **I.**  Get the connection details for database such as Host name, port, username and password etc from **Database Administrator.**.
 
@@ -78,5 +79,5 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0NTc5NDcyLDE2NTM0ODMyOF19
+eyJoaXN0b3J5IjpbLTgyNDk0ODc2OCwxNjUzNDgzMjhdfQ==
 -->
