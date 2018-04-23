@@ -4,13 +4,13 @@ BiPlus Reports displays the retrieved the data in the desired combinations as pe
 
 **1.** Click on **Analyse section.**
 
-**2.** Select Desired **project** and **model** from the drop down list, depending on which you want to extract the data.
+**2.** Select Desired **Project** and **Model** from the drop down list, depending on which you want to extract the data.
 
-**3.**  Select one or more **dimension fields** ( Grey fields) to access and group your data.
+**3.**  Select one or more **Dimension fields** ( Grey fields) to access and group your data.
 
-**4.** Select one or more **measure fields** (Orange fields) to add information about those groups or data such as Sum, Count, Max, Min and  Avg etc. 
+**4.** Select one or more **Measure fields** (Orange fields) to add information about those groups or data such as Sum, Count, Max, Min and  Avg etc. 
 
-**5.** To retrieve the data based on filters applied , add a **filter** to your report based on that field.
+**5.** To retrieve the data based on filters applied , add a **Filter** to your report based on that field.
  
  > **Note :**  The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are not visible while retrieving the data in data section. 
 
@@ -162,7 +162,7 @@ Click on **Calculated column** button to enable table calculations **(Refer imag
 |  #,##0.00 | Number with comma between thousands and two decimal(1,234.00) |
 |  #,##0.000 | Number with comma between thousands and three decimal(1,234.000) |
 |  ###,###.0 | Number with comma between hundreds and one decimal(123,456.0) |
-|  ###,###.00 | Number with comma between hunderds and two decimal(123,456.00) |
+|  ###,###.00 | Number with comma between hundreds and two decimal(123,456.00) |
 |  ###,###.000 | Number with comma between hunderds and three decimal(123,456.000) |
 |  ###.###,0 | Number with dot between hundreds and comma one decimal(123.456,0) |
 |  ###.###,00 | Number with dot between hundreds and comma two decimal(123.456,00) |
@@ -239,7 +239,7 @@ At Present there are 10 type of visualization images available in BiPlus, To vie
 
 Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension fields on the Rows and a measures fields on the Columns area.
 
- **2.** Click on **Bar** tab under **general** section  to compare the data in Bar chart.
+ **2.** Click on **Bar** tab under **General** section  to compare the data in Bar chart.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c21c91b0c8f9e243362fbefc44279936c6021d12/images/bar_chart.png)
@@ -249,7 +249,7 @@ Bar charts are used to compare data across different categories. You can build a
 
 This section describes the editing option for Pie chart in visualization. 
  
- **3.**  Click on **Pie** tab under **general** section to compare the data in pie chart.
+ **3.**  Click on **Pie** tab under **General** section to compare the data in pie chart.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f52c167aa93a715736ed2800ae5ca56675c54e42/images/pie_chart.png)
@@ -276,7 +276,7 @@ This section describes the editing option for Pie chart in visualization.
  
 > **For example,** when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
 
- **4.** Click on **Radar** tab under **general** section  to compare the data in  Radar chart.
+ **4.** Click on **Radar** tab under **General** section  to compare the data in  Radar chart.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/34c8d8bc129b2e32ded89f8d3f9816b6a8fd1624/images/radar_chart.png)
@@ -309,7 +309,7 @@ This section describes the editing option for Pie chart in visualization.
 
 It is used to display the data in circles. We can define each bubble using any of our Dimension value and size by Measure value.
  
- **5.** Click on **Bubble** tab under **general** section  to compare the data in Bubble chart.
+ **5.** Click on **Bubble** tab under **General** section  to compare the data in Bubble chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d07e80177a8a6fe04619cfb40058e9789b142e88/images/bubble_chart.png)
@@ -318,12 +318,12 @@ It is used to display the data in circles. We can define each bubble using any o
 
 Funnels helps to visualize a process that has stages and items flow sequentially from one stage to the next. Use a funnel when there is a sequential flow between stages, such as a sales process that starts with inquiry and ends with billing.
  
- **6.** Click on **Funnel** tab under **general** section  to compare the data in Funnel chart.
+ **6.** Click on **Funnel** tab under **General** section  to compare the data in Funnel chart.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caca3ad67049c43bc60a5fccae26182c81762732/images/funnel_chart.png)
 
-Using AcuBi you can view the funnel charts in different formats using the below check boxes:
+Using BiPlus you can view the funnel charts in different formats using the below check boxes:
 
  - **Sort** on selecting this check box, it enables data in the sorted order in funnel chart.
   
@@ -346,7 +346,7 @@ Using AcuBi you can view the funnel charts in different formats using the below 
 
 Gauge chart displays current status in the context of goal.
 
- **7.** Click on **gauge** tab under **general** section  to compare the data in Gauge chart.
+ **7.** Click on **gauge** tab under **General** section  to compare the data in Gauge chart.
 
 - **Green** colour in gauge chart indicates the value attained is closer to target.
 
@@ -380,7 +380,7 @@ Gauge chart displays current status in the context of goal.
  
 Table chart displays the data in series making it more feasible for comparing dimensions and measure values.
  
- **8.** Click on **Table** tab under **general** section to compare data in table chart.
+ **8.** Click on **Table** tab under **General** section to compare data in table chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b6e598ee67160c266bb9d4d30a423f520880bf63/images/table_chart.png)
@@ -389,7 +389,7 @@ Table chart displays the data in series making it more feasible for comparing di
 
 It displays one or more data series as a data graph. Widget chart is used to display the number of records created today. number of Incidents by status or department.
 
- **9.** Click on **widget** tab under **general** section to display the total record of the data in widget chart.
+ **9.** Click on **widget** tab under **General** section to display the total record of the data in widget chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0fffbbc444991a973205bc030a0485bfc9ef592a/images/widget_chart.png)
@@ -501,7 +501,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Format** it enables number format for numeric values.
 
-- **Currency** Using this field, you can specify the formatting for currency as of now AcuBi supports $,   ₹  ,   €  ,  £.
+- **Currency** Using this field, you can specify the formatting for currency as of now BiPlusi supports $,   ₹  ,   €  ,  £.
 
 - **Y-Axis** display measure values on Y-axis. 
 
@@ -553,11 +553,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDU0Mzc0MywxNjcxNTc2MzQ5LC05MD
-UzMjc3MjQsMjY1MTUwMjQsNDk4Nzk2MjQ4LDEyMDA1ODk1NTks
-LTIwMTgwODE4OTMsMTQyODEzMTU0OCwtMTA3NzM3ODM4LC0xNT
-czNTY0NTA3LDE3NTgzODU5NzQsMTExNDgxODQ2LC0xODU2MTQz
-Nzc1LDMwNTEzODQ0LDEyOTEyNjAxNzIsNDMxODUwNzMyLC0xMz
-MzODc2OTMwLDQ1MTUxNTMwNiwtMTg2OTQ0NTAzMSwtMTA1MTg2
-ODY2N119
+eyJoaXN0b3J5IjpbLTE4NjQ5NjE4NDAsLTMxNDU0Mzc0MywxNj
+cxNTc2MzQ5LC05MDUzMjc3MjQsMjY1MTUwMjQsNDk4Nzk2MjQ4
+LDEyMDA1ODk1NTksLTIwMTgwODE4OTMsMTQyODEzMTU0OCwtMT
+A3NzM3ODM4LC0xNTczNTY0NTA3LDE3NTgzODU5NzQsMTExNDgx
+ODQ2LC0xODU2MTQzNzc1LDMwNTEzODQ0LDEyOTEyNjAxNzIsND
+MxODUwNzMyLC0xMzMzODc2OTMwLDQ1MTUxNTMwNiwtMTg2OTQ0
+NTAzMV19
 -->
