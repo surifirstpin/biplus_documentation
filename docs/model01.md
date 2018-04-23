@@ -142,7 +142,7 @@ II.  **Position**  It is the priority of the filter and can be “before” or �
 **The attributes for “joins” are defined as follows:**
 
 -   **join** the view name to be joined with the primary view.
--   **join_type**  the method of joining the two views, It can be left, right and is similar to the “join” functionality.
+-   **join_type**  the method of joining two views. Either left or right is similar to the “**Join**” functionality.
 -   **join_on**  the specific criterion for joining to views with a relation among relevant fields.
 
 ```
@@ -492,6 +492,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4NDE4MzYyLDQ1NDY5NTUyLDEzMjAzOT
-A1MTBdfQ==
+eyJoaXN0b3J5IjpbMjAzMTg5MTkzNiw0NTQ2OTU1MiwxMzIwMz
+kwNTEwXX0=
 -->
