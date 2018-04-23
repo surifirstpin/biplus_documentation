@@ -17,7 +17,7 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
  **Image 1**
 ## Create Dashboard
 
-> Navigation : Dashboard→New Dashboard
+> **Navigation : Dashboard→ New Dashboard**
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/20367797e10c5eabfec8ab65d23699fb34843101/images/dash.png)
@@ -133,7 +133,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTk4ODg3LC0xMTkxOTE0MDg2LC0yMT
+eyJoaXN0b3J5IjpbNDU0OTA5ODQ3LC0xMTkxOTE0MDg2LC0yMT
 U4OTU0MzUsMjE5NjA1MDk2LC0yMDY2ODM0Njc5LDE3OTgxODE4
 ODQsMTc5ODE4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC
 03NjY3MTI5NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1
