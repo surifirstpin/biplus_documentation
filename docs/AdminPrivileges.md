@@ -6,7 +6,7 @@ Admin has an ability to manage Users, User Groups, Global parameters and gGlobal
 
 Admin can create, edit and delete the users.
 
-> **Navigation : Settings→ User → Select Users →  Add Users.**
+> **Navigation : Settings→ Use →  Add Users.**
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34ae99ea80597fc08c96c787a88d8951979862b1/images/users.png)
 
@@ -24,8 +24,7 @@ Admin can create, edit and delete the users.
 |User|view reports and can edit them if provided access to the specific model|
 |Manager|view reports and edit them if provided access to the specific model|
 
-- **Enabled** if we select the checkbox, it will enable the user login or it will disable.
-
+- **Enabled** on selecting enableif we select the checkbox, it will enable the user login or it will disable.
 - Click on **Save** button to save user.
 
 ## Edit & Delete User
@@ -40,7 +39,7 @@ Admin can create, edit and delete the users.
 
 Creates user groups and later these groups can be used to provide access.
 
->**Navigation : settings→ Groups→ Add Group.**
+>Navigation : settings→Select Groups→Click on Add Group.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b6af863fbeb6584b8a139d0f303840ab6893da5e/images/groups.png)
 
@@ -67,6 +66,6 @@ To reset password Click on Forget password button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTIwMTExOSwxNzAxNzA0Mzg5LDE2OT
-g1NTEyNjYsNDY1NzY2ODE2LC05NzQ2NjAxODddfQ==
+eyJoaXN0b3J5IjpbLTkyMjg4Mjg4LDE3MDE3MDQzODksMTY5OD
+U1MTI2Niw0NjU3NjY4MTYsLTk3NDY2MDE4N119
 -->
