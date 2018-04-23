@@ -24,7 +24,7 @@ Admin can create, edit and delete the users.
 |User|view reports and can edit them if provided access to the specific model|
 |Manager|view reports and edit them if provided access to the specific model|
 
-- **Enabled** on selecting enableif we select the checkbox, it will enable the user login or it will disable.
+- **Enabled** on selecting enabled check box the user login is accessed or it will be disabled for login.
 - Click on **Save** button to save user.
 
 ## Edit & Delete User
@@ -66,6 +66,6 @@ To reset password Click on Forget password button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjg4Mjg4LDE3MDE3MDQzODksMTY5OD
-U1MTI2Niw0NjU3NjY4MTYsLTk3NDY2MDE4N119
+eyJoaXN0b3J5IjpbLTEzODE0MTc1NDYsMTcwMTcwNDM4OSwxNj
+k4NTUxMjY2LDQ2NTc2NjgxNiwtOTc0NjYwMTg3XX0=
 -->
