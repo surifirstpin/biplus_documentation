@@ -2,13 +2,14 @@
 
 
    **Connection** Specifies a database connection from which a model can retrieve the data.
- Followare the steps to be followed to set up database connection.
+   
+ **To set up database connection, Follow the below steps;**
     
 **I.**  Get the connection details for database such as Host name, port, username and password etc from **Database Administrator.**.
 
 **II.** Enable secure access to database, such as :
   -  Using  IP Address Whitelist, optionally adding SSL Encryption.
-  - Using SSH Tunnel, which provides a secured and encrypted connection with extra authentication
+  - Using SSH Tunnel, which provides a secured and encrypted connection with extra authentication.
   
 **III.** Set up database to work with BiPlus. Instructions may vary from dialect to dialect. Typically it includes providing approval to BiPlus to access database.
 
@@ -79,5 +80,5 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDk0ODc2OCwxNjUzNDgzMjhdfQ==
+eyJoaXN0b3J5IjpbLTIwNTcyNDY0ODIsMTY1MzQ4MzI4XX0=
 -->
