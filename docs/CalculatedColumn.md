@@ -255,7 +255,8 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 
 Perform Arithmetic operation on desired fields in calculated columns.
 
-> For Example: To add an amount 2000 to the column field ordervalue_sum, derive the following expression in calculated column screen.
+> **For Instance:**
+ To add an amount 2000 to the column field **order value sum, derive the following expression in calculated column screen.
 
 
  ```
@@ -413,5 +414,6 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1ODkwODEwLC03NzkxMjA5NzFdfQ==
+eyJoaXN0b3J5IjpbLTE2MTI2NzY5MTAsNTY1ODkwODEwLC03Nz
+kxMjA5NzFdfQ==
 -->
