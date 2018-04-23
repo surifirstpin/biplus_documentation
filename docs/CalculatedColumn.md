@@ -268,7 +268,7 @@ bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE},2000)
 
 Plugin operators provides complete authority on creation,edition and deletion of raw data. It allows customization of data using JavaScript API language  as per the business requirement.
 
- **_biCalculation.pluginData.raw**  holds the Raw JSON data and can be transformed as per the requirement.
+ **biCalculation.pluginData.raw**  holds the Raw JSON data and can be transformed as per the requirement.
 
 ```
 #plugin#
@@ -290,7 +290,7 @@ return x;
 
 ## Calculate Custom Functions
 
-it will execute a series of actions on a database record and returns a particular value.
+It will execute a series of actions on a database record and returns a particular value.
  
  ```
 /*START*/
@@ -310,7 +310,7 @@ bi._Fname(input_param1, input_param2,..input_paramN)
 
 ## Access Global Parameters
  
- Global parameter is a flat file used to manipulate,control and organize the data which is not available in database and can be accessed this data in report, While calculating an expression over a database value using a field reference.
+ Global parameter is a flat file used to manipulate,control and organize the data which is not available in database and can be accessed in report, .
  ```
  bi.in_global_keys(["ParameterColumnName"],
 ["DatabaseValue"],"ParameterName.Field"])
@@ -404,7 +404,7 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Mzk5NTk0OCwtMTUxOTY2MTY0MCwtMT
-IxNjQ3MDk3NCwtNjM5MTQ2Nzg3LC01OTgyNzgzMzEsMTIyMzky
-MDE1MSw1NjU4OTA4MTAsLTc3OTEyMDk3MV19
+eyJoaXN0b3J5IjpbLTEwODAzNDA5MDEsLTE1MTk2NjE2NDAsLT
+EyMTY0NzA5NzQsLTYzOTE0Njc4NywtNTk4Mjc4MzMxLDEyMjM5
+MjAxNTEsNTY1ODkwODEwLC03NzkxMjA5NzFdfQ==
 -->
