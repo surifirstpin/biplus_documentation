@@ -7,15 +7,13 @@ All the users have privilege to access global functions in calculated column,  b
 
  1. Click on **Add-Functions** to create new function.
  
- > Image 1
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9712e86a6881444e961d60dfc6aab30bf665172/images/func1.png)
 
-** Syntax : **
 ```
-/* My Custom function*/
-
+                                                      * My Custom function *
 /*START*/ 
-function myfunction(param1,param2)
+function myfunction(param1,param2,ParamN)
 {
  // Define function body   
    return 0;
@@ -63,6 +61,6 @@ This functions supports all the native java script supported functions and also 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjE5NDQ4NDgsNjU5NjkzMTI3LDE2NT
-A1MzI3NjFdfQ==
+eyJoaXN0b3J5IjpbLTE3Mzc4MTcwNCw2NTk2OTMxMjcsMTY1MD
+UzMjc2MV19
 -->
