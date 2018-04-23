@@ -371,7 +371,7 @@ Sometimes, it may be necessary to bring the current stage measure fields to the 
 BiPlus provides an additional attribute to drill down as  **Show drill down measures**  which can be defined as  **TRUE or FALSE**. If mentioned TRUE, then system will carry forward the measures of the current stage to the immediate drill level.
 
 ```
-"drill_down_fields": "Field1,Field2,    FieldN."
+"drill_down_fields": "Field1,Field2,...FieldN."
 
 ```
 
@@ -502,7 +502,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTQzNjk2Myw5NTAyOTg2OSwtMTU2ND
-U5MzU1NSwtMTk4NDgyOTk3MSw0NTQ2OTU1MiwxMzIwMzkwNTEw
-XX0=
+eyJoaXN0b3J5IjpbNzk5NzgzNTQ5LDk1MDI5ODY5LC0xNTY0NT
+kzNTU1LC0xOTg0ODI5OTcxLDQ1NDY5NTUyLDEzMjAzOTA1MTBd
+fQ==
 -->
