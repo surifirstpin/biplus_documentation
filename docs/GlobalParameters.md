@@ -1,7 +1,9 @@
 <center><h1>Global Parameter</h1></center>
 
 It is a flat file data in JSON format which can be used to manipulate, control and set predefined values.
-acuBi allows you to provide additional key values to manipulate the data in calculations column,control data etc. It can be used in the following ways:
+acuBiBiPlus allows you to provide additional key values to manipulate the data in calculations column,control data etc. 
+ **It can be used in the following ways:**
+ 
 - Control data access based on login.
 - Povide access to predefined list of filter values based on login.
 - Manipulate data with external parameter based on a common reference.
@@ -10,7 +12,7 @@ acuBi allows you to provide additional key values to manipulate the data in calc
  
 ## Create  Global Parameters
 
->Navigation : Settings→Select Global Parameters.
+>**Navigation : Settings→Select Global Parameters.**
 
 1. Click on Add Key.
 
@@ -77,5 +79,6 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTExMTc4NjUsLTkwMDUwMTY2MV19
+eyJoaXN0b3J5IjpbNDY5MDIzOTY4LC0xODExMTE3ODY1LC05MD
+A1MDE2NjFdfQ==
 -->
