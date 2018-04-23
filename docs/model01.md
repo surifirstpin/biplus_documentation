@@ -203,13 +203,15 @@ The Associated keywords with the views are flowing :
 
 -   **Query**  an sql query returning a set of values can be written in “lookup” for a field. It will be useful if the filter values are large in number and becomes tedious to mention all of them as a list.
 
-> **For Instance :** “lookup” : “SELECT DISTINCT Name FROM ROOT.Employees”
+> **For Instance :
+** “lookup” : “SELECT DISTINCT Name FROM ROOT.Employees”
 
 -   **Items**  known set of values can be given with comma separation. It may be useful if the list is small and the items are known exactly to the user.
 
-> Ex: “lookup” : “Antonio, Bessanio, Portia”
+> **For Instance** :
+ “lookup” : “Antonio, Bessanio, Portia”
 
--   **operator**  Sometimes, data to be retrieved from multiple filter values. BiPlus provides an option associated with lookup which can be defined to select single or multiple filter values. For selecting more than one filter value, operator should be defined as “multiple”.
+-   **Operator**  Sometimes, data to be retrieved from multiple filter values. BiPlus provides an option associated with lookup which can be defined to select single or multiple filter values. For selecting more than one filter value, operator should be defined as “multiple”.
 
 ```
 operator:multiple.
@@ -221,7 +223,9 @@ operator:multiple.
 -   **Number_format**  There are various formats designed based on the common business usage.
 
 **The permissible list are :**
-> Consider number = 12345679
+
+> **For Instance:**
+Consider number = 12345679
 
 |  S. No. | Number format | Example |
 |  :------ | ------ | :------ |
@@ -492,6 +496,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4MTA0NTg2LDQ1NDY5NTUyLDEzMjAzOT
-A1MTBdfQ==
+eyJoaXN0b3J5IjpbMTk0MjQxMzg4MSw0NTQ2OTU1MiwxMzIwMz
+kwNTEwXX0=
 -->
