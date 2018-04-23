@@ -44,9 +44,12 @@ Creates user groups and later these groups can be used to provide access.
 
 >**Navigation : Settings→Groups→ Add Group**
 
-**Enter the followin \\\
+**Enter the below information:**
+
 - **Group Name** enter a group name.
+
 - **Users** Select  users for group.
+
 - Click on **Save** button to save group.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b6af863fbeb6584b8a139d0f303840ab6893da5e/images/groups.png)
@@ -71,6 +74,6 @@ To reset password, Click on **forget password** button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4MjQ5NzIzLDE3MDE3MDQzODksMTY5OD
-U1MTI2Niw0NjU3NjY4MTYsLTk3NDY2MDE4N119
+eyJoaXN0b3J5IjpbLTE3ODA3Mzg5MjIsMTcwMTcwNDM4OSwxNj
+k4NTUxMjY2LDQ2NTc2NjgxNiwtOTc0NjYwMTg3XX0=
 -->
