@@ -276,15 +276,12 @@ Plugin operators provides complete authority on creation,edition and deletion of
 /*START*/
 function localFunction(param1,param2,...ParamN)
 { 
-                                                                             * update raw data 
+                                                                            * update raw data *
 for(var i =0 ; i < _biCalculation.pluginData.raw.length; i++)
     {
          var item = biCalculation.pluginData.raw[i];
          
     }
-
-.................................
-................................
 
 return x;
 }
@@ -295,12 +292,10 @@ return x;
 
 it will execute a series of actions on a database record and returns a particular value.
  
- **Syntax**
-
  ```
 /*START*/
 
-function Fname(input_param1,input_param2,.....){
+function Fname(input_param1,input_param2,..ParamN){
 
 Statement 1;
 Stetement 2;
@@ -412,6 +407,6 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTUzMjI4Miw1NjU4OTA4MTAsLTc3OT
-EyMDk3MV19
+eyJoaXN0b3J5IjpbLTEyNDQ2MzYzODIsNTY1ODkwODEwLC03Nz
+kxMjA5NzFdfQ==
 -->
