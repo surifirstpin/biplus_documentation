@@ -2,8 +2,6 @@
 
 A model is a customized gateway into the database for accessing data as per business logic. BiPlus provides an IDE, which allows mappings between views (database tables) and apply several filters on the data as per business requirement. It is designed in such a way that it provides a spontaneous data analysis to specific business users.
 
-> **For Instance:**  If a sales manager wants to retrieve different data then material manager, we need to define login based filters on the model with specific assignments to the users.
-
 A Model can be defined in 3 steps;
 
 -   Creating a Project with required database and respective tables.
@@ -14,14 +12,14 @@ A Model can be defined in 3 steps;
 
 ## Creating a Project 
 
-> Navigation: Model → Projects → +New Project
+> Navigation: Model → Projects → New Project
 
-**1.**  Click on  **+New Project**  to create a new project.
+**1.**  Click on  **New Project**  to create a new project.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3a9de750e2fda00610d242df7a5584cfe48d8cea/images/new_project.png)
 
-The following are the list of entries made to create a project.
+**Following are the list of entries made while creating a project.**
 
 -   **Project Name**  Enter the project name as per requirement.
     
@@ -497,6 +495,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQ3NTgzNjIsNDU0Njk1NTIsMTMyMD
+eyJoaXN0b3J5IjpbLTE5OTgwOTYwNDksNDU0Njk1NTIsMTMyMD
 M5MDUxMF19
 -->
