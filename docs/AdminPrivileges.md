@@ -40,7 +40,7 @@ Admin can create, edit and delete the users.
 
 Creates user groups and later these groups can be used to provide access.
 
->Navigation : settings→Select Groups→Click on Add Group.
+>**Navigation : settings→ Groups→ Add Group.**
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b6af863fbeb6584b8a139d0f303840ab6893da5e/images/groups.png)
 
@@ -67,6 +67,6 @@ To reset password Click on Forget password button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzMxMTExNiwxNzAxNzA0Mzg5LDE2OT
+eyJoaXN0b3J5IjpbMTc1MTIwMTExOSwxNzAxNzA0Mzg5LDE2OT
 g1NTEyNjYsNDY1NzY2ODE2LC05NzQ2NjAxODddfQ==
 -->
