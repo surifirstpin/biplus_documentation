@@ -214,7 +214,7 @@ The below image shows , the consolidated values after grouping is applied on fie
 
 ## Multi-Level grouping
 
-To carry out Multi-level grouping on data extracted. 
+To carry out Multi-level grouping on the data extracted. Select group for the column fields in field dropdown list. 
 
 > **For instance** : in the below image grouping has been applied to 2 dimension fields Country Name and  State Name. In retrieved data on expanding Country Name it displays the perspective State Names that fall under specific country and on Further Expansion it displays City Names that fall under the specific state  as shown in below image.
 
@@ -333,7 +333,7 @@ To view the SQL query built  in analysis section click on **SQL** section.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTIyODI1Miw0MzYxMjg4MzYsLTk5MT
+eyJoaXN0b3J5IjpbMjEwODkzNDY0Myw0MzYxMjg4MzYsLTk5MT
 UyNjQ2MiwtMTkxMjg4NDQ3OCw0Mjk2NDQ0MDEsMjEzODM4NTcw
 MF19
 -->
