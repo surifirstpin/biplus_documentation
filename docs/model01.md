@@ -225,7 +225,7 @@ operator:multiple.
 **The permissible list are :**
 
 > **For Instance:**
-Consider number = 12345679
+Consider Number = 12345679
 
 |  S. No. | Number format | Example |
 |  :------ | ------ | :------ |
@@ -265,7 +265,7 @@ currency : currency_symbol
 
 **Below are the formats adopted by default :**
 
-|  **S. No.** | **Component** | **Description** |
+|  **S No.** | **Component** | **Description** |
 |  :------: | :------: | :------: |
 |  1 | Hour | Extract hour component |
 |  2 | Day | Extract day number in the month |
@@ -281,7 +281,7 @@ currency : currency_symbol
 
 ## User Defined Fields (UDF)
 
-Bi+ has an ability to create new fields in a view with all attributes that are applicable to a database field and with return value (“sql” section of the field) as any of the following options:
+BiPlus has an ability to create new fields in a view with all attributes that are applicable to a database field and with return value (“sql” section of the field) as any of the following options:
 
 **1.**  As a resultant of arithmetical operations done on fields of the same view.
 
@@ -290,7 +290,8 @@ Bi+ has an ability to create new fields in a view with all attributes that are a
 
 ```
 
-> Example : “sql”: “(${TABLE}.Amount + ${TABLE}.Discount)”
+>**For Instance:** 
+“sql”: “(${TABLE}.Amount + ${TABLE}.Discount)”
 
 **2.**  As a resultant of arithmetical operations done on fields of a mapped view.
 
@@ -496,6 +497,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjQxMzg4MSw0NTQ2OTU1MiwxMzIwMz
+eyJoaXN0b3J5IjpbMTU0ODM0MzQ3Niw0NTQ2OTU1MiwxMzIwMz
 kwNTEwXX0=
 -->
