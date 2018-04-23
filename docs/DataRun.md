@@ -117,7 +117,7 @@ The data can also be retrieved based on the applied hidden filters .
 
 ## Order  (Ascending / Descending)
 
-To view the column data in ascending or descending orders , Click On Order and add the column fields in order section to carry out the sorting on the field values.
+To view the column data in ascending or descending orders , Click On **Order** and add the column fields in order section with prescribed order.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/sorting1.png)
@@ -333,7 +333,7 @@ To view the SQL query built  in analysis section click on **SQL** section.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTIwMTc0ODIsNDM2MTI4ODM2LC05OT
-E1MjY0NjIsLTE5MTI4ODQ0NzgsNDI5NjQ0NDAxLDIxMzgzODU3
-MDBdfQ==
+eyJoaXN0b3J5IjpbMTAzNzA3Njg1Niw0MzYxMjg4MzYsLTk5MT
+UyNjQ2MiwtMTkxMjg4NDQ3OCw0Mjk2NDQ0MDEsMjEzODM4NTcw
+MF19
 -->
