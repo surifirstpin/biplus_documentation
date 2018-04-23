@@ -304,7 +304,7 @@ Statement N;
 return Outpur_value;
 }
 /*END*/
-bi._Fname(input_param1, input_param2,..input_paramN)
+bi._Fname(Finput_param1, input_param2,..input_paramN)
 ```
 
 ## Access Global Parameters
@@ -402,7 +402,7 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDM4OTYyMywtMTUxOTY2MTY0MCwtMT
-IxNjQ3MDk3NCwtNjM5MTQ2Nzg3LC01OTgyNzgzMzEsMTIyMzky
-MDE1MSw1NjU4OTA4MTAsLTc3OTEyMDk3MV19
+eyJoaXN0b3J5IjpbNjgyNTg1MDI1LC0xNTE5NjYxNjQwLC0xMj
+E2NDcwOTc0LC02MzkxNDY3ODcsLTU5ODI3ODMzMSwxMjIzOTIw
+MTUxLDU2NTg5MDgxMCwtNzc5MTIwOTcxXX0=
 -->
