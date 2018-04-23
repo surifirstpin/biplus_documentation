@@ -415,8 +415,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 "country_ref": {
 "Field_Value_1": "IND",
 "Field_Value_2": "AUS",
-...........
-............
 "Field_Value_N": "Country",   
                }
 
@@ -504,7 +502,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTk2MTA1OCw5NTAyOTg2OSwtMTU2ND
+eyJoaXN0b3J5IjpbMjA4MTE1MjMzNiw5NTAyOTg2OSwtMTU2ND
 U5MzU1NSwtMTk4NDgyOTk3MSw0NTQ2OTU1MiwxMzIwMzkwNTEw
 XX0=
 -->
