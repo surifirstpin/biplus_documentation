@@ -392,18 +392,19 @@ function fname(param1, param2, param3 ...)
 statement 1;
 statement 2;                                     * Function body *
 statement 3;
-...........
+
 Statement N;
 return `;   
 }
 /*END*/
-fname(value1, value2, value3, .....)             * Call Function *
+fname(value1, value2, value3, ..valueN)        * Call Function *
 ```
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/52b7c4357f0c07e4a89b14f018cf3d877a5ba4f3/images/cal_local_fucntion.png)
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTE0Njc4NywtNTk4Mjc4MzMxLDEyMj
-M5MjAxNTEsNTY1ODkwODEwLC03NzkxMjA5NzFdfQ==
+eyJoaXN0b3J5IjpbLTEyMTY0NzA5NzQsLTYzOTE0Njc4NywtNT
+k4Mjc4MzMxLDEyMjM5MjAxNTEsNTY1ODkwODEwLC03NzkxMjA5
+NzFdfQ==
 -->
