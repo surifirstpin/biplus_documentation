@@ -341,14 +341,13 @@ bi.in_global_keys( ["Station_Name"],["Station_1" ],"Calc_ONRAW.value")
 bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"Calc_ONRAW.value")
 
 **3. Login Name(User Id)** Provide Access based on Login ID.
-   
 ```
 bi.in_global_keys(["ParameterColumnName","ParameterUserID"],["DatabaseField","bi._globals("#userid#")"],"ParameterName.Field"])
 ```
->**For Instance:** 
+>**For Instance:** ```
 bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661} 
 ,bi._globals("#userid#")],"CalcCol_Stage2.SeizeLimit)
-
+```
 ## Calculate on Raw functionality
 
 By enabling the field calculate on raw the calculation are applied directly on the retrieved value of the fields, initially before pivot or grouping are applied.
@@ -395,6 +394,6 @@ fname(value1, value2, value3, .....)             * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ4Njk4MjEsNTY1ODkwODEwLC03Nz
-kxMjA5NzFdfQ==
+eyJoaXN0b3J5IjpbODQyMTU4NDA1LDU2NTg5MDgxMCwtNzc5MT
+IwOTcxXX0=
 -->
