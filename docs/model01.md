@@ -111,11 +111,11 @@ To filter data from a view and the respective mapping views, the filter criteria
 
 **Filter can be derived with two specific attributes such as;**
 
-I.  **filter_sql :**  the filter expression or condition. Filter expression can be date-based, string-based, number-based & even login-based.
+I.  **filter_sql :**  the filter expression or condition. Filter expression can be date-based, string-based, number-based and even login-based.
 
 -   **Date-based, String-based, Number-based :**  standard filters which are applicable on date, string, number fields in database are allowed.
 
-> Example :  
+> For Instance :  
 > Date based : ROOT.Orders.OrderDate < TRUNC(SYSDATE)  
 > String-based : ROOT.Orders.PaymentMode IN (‘Cash’,’PayTM’)  
 > Number-based : ROOT.BI_Orders.Amount IS NOT NULL.
@@ -495,6 +495,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzE3MTU4ODgsNDU0Njk1NTIsMTMyMD
-M5MDUxMF19
+eyJoaXN0b3J5IjpbODE5ODEyNTksNDU0Njk1NTIsMTMyMDM5MD
+UxMF19
 -->
