@@ -322,18 +322,15 @@ bi._Fname(input_param1, input_param2,..input_paramN)
 
 - **Parameter Name Field** Returns the field from global parameter it is applicable in 3 different ways ;
  
- **1.  Static value** Global parameters refers to a static value.
+ **1.**  *Static value** Global parameters refers to a static value.
 
-  **Syntax :**
- 
  ```
   bi.in_global_keys( ["Parameter_Column_Name "],["Reference string" ],"Global_parameter.field")
 ```
-  **Example :**
-```
 
+>**For Instance:** 
 bi.in_global_keys( ["Station_Name"],["Station_1" ],"Calc_ONRAW.value")
-```
+
 
 **2. Reference value** Global parameters refers to reference value.
        
@@ -406,6 +403,6 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzg5MjI4OSw1NjU4OTA4MTAsLTc3OT
-EyMDk3MV19
+eyJoaXN0b3J5IjpbLTE0NDY3NzM3MTYsNTY1ODkwODEwLC03Nz
+kxMjA5NzFdfQ==
 -->
