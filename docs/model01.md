@@ -99,8 +99,8 @@ To filter data from a view and the respective mapping views, the filter criteria
 "name": "View_Name",
 "label": "View_Name",
 "filters": [{
-"name": "filter_name",  // filter name
-"filter_sql": Filter Expression ",  // expression or condition to be applied.
+"name": "filter_name",                                      * filter name *
+"filter_sql": Filter Expression ",  *expression or condition to be applied*
 "apply": "all",
 "position": "before"  // position of filter
             }],
@@ -495,6 +495,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTY1ODQ2NSw0NTQ2OTU1MiwxMzIwMz
+eyJoaXN0b3J5IjpbMTA0MDE2NTkyMyw0NTQ2OTU1MiwxMzIwMz
 kwNTEwXX0=
 -->
