@@ -28,10 +28,9 @@ bi.days_in_month
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a3a039bae7badccb31d41bbc9c5449943045474/images/calculate.png)
 
-Similarly we can also calculate cubical values for the column fields as shown in below example;
-
 **To calculate the cubical value of the field :**
 
+Similarly we can also calculate cubical values for the column fields as shown in below example ;
 ```
 bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 ```
@@ -404,7 +403,7 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODAzNDA5MDEsLTE1MTk2NjE2NDAsLT
+eyJoaXN0b3J5IjpbLTE1MTU1MzQ2MTEsLTE1MTk2NjE2NDAsLT
 EyMTY0NzA5NzQsLTYzOTE0Njc4NywtNTk4Mjc4MzMxLDEyMjM5
 MjAxNTEsNTY1ODkwODEwLC03NzkxMjA5NzFdfQ==
 -->
