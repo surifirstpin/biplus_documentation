@@ -2,7 +2,7 @@
 
 A model is a customized gateway into the database for accessing data as per business logic. BiPlus provides an IDE, which allows mappings between views (database tables) and apply several filters on the data as per business requirement. It is designed in such a way that it provides a spontaneous data analysis to specific business users.
 
-A Model can be defined in 3 steps;
+**A Model can be defined in 3 steps;**
 
 -   Creating a Project with required database and respective tables.
 
@@ -502,6 +502,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ1OTM1NTUsLTE5ODQ4Mjk5NzEsND
-U0Njk1NTIsMTMyMDM5MDUxMF19
+eyJoaXN0b3J5IjpbOTUwMjk4NjksLTE1NjQ1OTM1NTUsLTE5OD
+Q4Mjk5NzEsNDU0Njk1NTIsMTMyMDM5MDUxMF19
 -->
