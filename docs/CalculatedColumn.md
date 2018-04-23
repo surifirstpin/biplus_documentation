@@ -295,23 +295,22 @@ it will execute a series of actions on a database record and returns a particula
  ```
 /*START*/
 
-function Fname(input_param1,input_param2,..ParamN){
+function Fname(input_param1,input_param2,..input_ParamN)
+{
 
 Statement 1;
-Stetement 2;
+Statement 2;
 ......
-.....
+Statement N;
 return Outpur_value;
 }
 /*END*/
-bi._Fname(input_param1, input_param2,.......)
+bi._Fname(input_param1, input_param2,..input_paramN)
 ```
 
 ## Access Global Parameters
  
  Global parameter is a flat file used to manipulate, control and organize the data which is not available in database and can access this data in report, While calculating an expression over a database value using a field reference.
- 
-
  ```
  bi.in_global_keys(["ParameterColumnName"],
 ["DatabaseValue"],"ParameterName.Field"])
@@ -407,6 +406,6 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQ2MzYzODIsNTY1ODkwODEwLC03Nz
-kxMjA5NzFdfQ==
+eyJoaXN0b3J5IjpbLTUzNzg5MjI4OSw1NjU4OTA4MTAsLTc3OT
+EyMDk3MV19
 -->
