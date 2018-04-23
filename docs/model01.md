@@ -368,7 +368,7 @@ Drill-down is used for exploring the data further with respect to a field value.
 
 Sometimes, it may be necessary to bring the current stage measure fields to the next drill stage along with the drill fields.
 
-BiPlus provides an additional attribute to drill down as  **Show drildown measures**  which can be defined as  **TRUE or FALSE**. If mentioned TRUE, then system will carry forward the measures of the current stage to the immediate drill level.
+BiPlus provides an additional attribute to drill down as  **Show drill down measures**  which can be defined as  **TRUE or FALSE**. If mentioned TRUE, then system will carry forward the measures of the current stage to the immediate drill level.
 
 ```
 "drill_down_fields": "Field1,Field2…….."
@@ -502,6 +502,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODAxNTk0MCw0NTQ2OTU1MiwxMzIwMz
+eyJoaXN0b3J5IjpbLTY0Nzc2NzIyNCw0NTQ2OTU1MiwxMzIwMz
 kwNTEwXX0=
 -->
