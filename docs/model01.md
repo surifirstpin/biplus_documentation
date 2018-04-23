@@ -123,17 +123,14 @@ I.  **filter_sql :**  the filter expression or condition. Filter expression can 
 -   **User-based :**  BiPlus allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users. That means, for a particular user login, the data retrievable in Analyze section will be constrained with a list of pre-defined values.
 
 ```
- " DB.TABLE.COLUMN IN
-  (#{GlobalParam.Ref_field,#userid#,gp_username_field})" 
-
+ " DB.TABLE.COLUMN IN (#{GlobalParam.Ref_field,#userid#,gp_username_field})" 
 ```
-
 -   **GlobalParam**  the name of the global parameter which contains the user based list of values.
 -   **Ref_field**  the column name in global parameter which contains the filter values.
--   **gp_username_field**  the column name in global parameter which contains the usernames
+-   **gp_username_field**  the column name in global parameter which contains the usernames.
 
-> Example:  
-> " ROOT.Orders.StationCode IN (#{ModelParams.StationCode,#userid#,Username})"
+> **For Instance:**  
+" ROOT.Orders.StationCode IN (#{ModelParams.StationCode,#userid#,Username})"
 
 II.  **Position**  It is the priority of the filter and can be “before” or “after”.
 
@@ -495,6 +492,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQ1MjI1MTcsNDU0Njk1NTIsMTMyMD
-M5MDUxMF19
+eyJoaXN0b3J5IjpbOTc0MDE1MTgzLDQ1NDY5NTUyLDEzMjAzOT
+A1MTBdfQ==
 -->
