@@ -39,13 +39,13 @@ Admin can create, edit and delete the users.
 
 Creates user groups and later these groups can be used to provide access.
 
->Navigation : settings→Select Groups→Click on Add Group.
+>**Navigation : Settings→Groups→ Add Group.**
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b6af863fbeb6584b8a139d0f303840ab6893da5e/images/groups.png)
 
 - **Group Name** enter a group name.
 - **Users** Select  users for group.
-Click on **Save** button to save group.
+- Click on **Save** button to save group.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fed976f79b3ba765a8bc3b9ca665de4de0fd2681/images/user_edit.png)
 
@@ -57,7 +57,7 @@ Click on **Save** button to save group.
 
 ## Forgot Password
 
-To reset password Click on Forget password button.
+To reset password, Click on **forget password** button.
 
 - **Enter old Password** enter old password.
 - **Enter New Password** enter new password to be update.
@@ -66,6 +66,6 @@ To reset password Click on Forget password button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODE0MTc1NDYsMTcwMTcwNDM4OSwxNj
-k4NTUxMjY2LDQ2NTc2NjgxNiwtOTc0NjYwMTg3XX0=
+eyJoaXN0b3J5IjpbMTcwNjI1Mzc2MCwxNzAxNzA0Mzg5LDE2OT
+g1NTEyNjYsNDY1NzY2ODE2LC05NzQ2NjAxODddfQ==
 -->
