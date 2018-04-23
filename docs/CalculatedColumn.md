@@ -384,10 +384,10 @@ ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} 
 
 ## Local Function
 
-Custom function is a block of code (series of statements which intended to a particular task) with submitted inputs and derivable output. It will ease-up the process of calculations when a series of statements or actions to be repeated on a set of values and output to be derived. Acubi supports local function which can be written inside the function body:
+Custom function is a block of code (Series of statements which intended to a particular task) with submitted inputs and derivable output. It will ease-up the process of calculations when a series of statements or actions to be repeated on a set of values and output to be derived. BiPlus supports local function which can be written inside the function body:
 ```
 /*START*/
-function fname(param1, param2, param3 ...)
+function fname(param1, param2, param3 ..ParamN)
 {
 statement 1;
 statement 2;                                     * Function body *
@@ -404,7 +404,7 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTY0NzA5NzQsLTYzOTE0Njc4NywtNT
-k4Mjc4MzMxLDEyMjM5MjAxNTEsNTY1ODkwODEwLC03NzkxMjA5
-NzFdfQ==
+eyJoaXN0b3J5IjpbMzgzNTgyOTI0LC0xMjE2NDcwOTc0LC02Mz
+kxNDY3ODcsLTU5ODI3ODMzMSwxMjIzOTIwMTUxLDU2NTg5MDgx
+MCwtNzc5MTIwOTcxXX0=
 -->
