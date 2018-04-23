@@ -344,9 +344,9 @@ Where condition is an expression can be on the fields of self view or mapped vie
 ```
 
 > **For Instance:** 
-> **  Number → “sql” : “SUM($ {TABLE}.Amount)”,  
-> Date → “sql” : "TO_CHAR ( $ { TABLE}.OrderDate,‘Mon-YYYY’)"  
-> String → “sql” : “CONCAT('Date : ',${TABLE}.OrderDate)”
+Number → “sql” : “SUM($ {TABLE}.Amount)”,  
+Date → “sql” : "TO_CHAR ( $ { TABLE}.OrderDate,‘Mon-YYYY’)"  
+String → “sql” : “CONCAT('Date : ',${TABLE}.OrderDate)”
 
 **7.**  As a resultant of single value returning sql query
 
@@ -357,7 +357,8 @@ Where condition is an expression can be on the fields of self view or mapped vie
 
 Where the expression contain the fields of self view and should result a single value.
 
-> **Example:**  “sql”: "(select sum(x.Amount) from Orders x)”
+> **For Instance:** 
+ “sql”: "(select sum(x.Amount) from Orders x)”
 
 ## Drill-down 
 
@@ -367,7 +368,7 @@ Drill-down is used for exploring the data further with respect to a field value.
 
 Sometimes, it may be necessary to bring the current stage measure fields to the next drill stage along with the drill fields.
 
-Bi+ provides an additional attribute to drill down as  **Show_drill_down_ measures**  which can be defined as  **TRUE or FALSE**. If mentioned TRUE, then system will carry forward the measures of the current stage to the immediate drill level.
+BiPlus provides an additional attribute to drill down as  **Show_drill_down_ measures**  which can be defined as  **TRUE or FALSE**. If mentioned TRUE, then system will carry forward the measures of the current stage to the immediate drill level.
 
 ```
 "drill_down_fields": "Field1,Field2…….."
@@ -501,6 +502,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDM5ODExNiw0NTQ2OTU1MiwxMzIwMz
-kwNTEwXX0=
+eyJoaXN0b3J5IjpbLTE0OTM4MDg1NDcsNDU0Njk1NTIsMTMyMD
+M5MDUxMF19
 -->
