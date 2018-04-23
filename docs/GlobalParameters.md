@@ -44,7 +44,7 @@ acuBiBiPlus allows you to provide additional key values to manipulate the data i
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9f487e8bcb13f913640bdce2a7030f7b519167a/images/para1.png)
  
- Change the column type :
+ Change the column type as shown in below image :
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9f487e8bcb13f913640bdce2a7030f7b519167a/images/para2.png)
 
 Similarly edit column cell value by clicking on specific cell as shown below.
@@ -54,31 +54,32 @@ Similarly edit column cell value by clicking on specific cell as shown below.
 
 ## Grid & Code Views
 
-5. Click on **Code view** 
+**5.** Click on **Code view** 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/90776aed8960274aaa61da1fdae760d4210c27ea/images/global_parameter.png)
 
-The uploaded will appear in **JSON** format under code view.
+The uploaded file will appear in **JSON** format under code view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/81d718b1b8f8fb86a5e9e622a08de17b9fde36a9/images/codeview.png)
+
 ## Check Case functionality On / Off
 
 If check case is enabled, global parameters become case sensitive for key mapping in calculated column.
 
 ## Edit Global Parameters
 
-6. To edit global parameters click on edit button.
+**6.** To edit global parameters click on edit button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f62789b75b84744ac187a098b61d4fc8fb752053/images/edit_para.png)
 
 ## Delete Global Parameters
 
-7. To delete global parameter click on **Delete ** Button.
+**7.** To delete global parameter click on **Delete ** Button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f62789b75b84744ac187a098b61d4fc8fb752053/images/delete_para.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzU4MzE3MiwtMTgxMTExNzg2NSwtOT
-AwNTAxNjYxXX0=
+eyJoaXN0b3J5IjpbLTE5MDc3NzY4NDAsLTE4MTExMTc4NjUsLT
+kwMDUwMTY2MV19
 -->
