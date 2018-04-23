@@ -1,12 +1,12 @@
  <center><h1>Admin Privileges</h1></center>
  
-Admin has an ability to manage Users,User Groups, Global parameters and global functions.
+Admin has an ability to manage Users, User Groups, Global parameters and gGlobal functions.
 
 ## Users
 
 Admin can create, edit and delete the users.
 
-> Navigation : Settings→Select Users→Click on Add Users.
+> **Navigation : Settings→Select Users→Click on → = Users →  Add Users.**
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34ae99ea80597fc08c96c787a88d8951979862b1/images/users.png)
 
@@ -66,6 +66,6 @@ To reset password Click on Forget password button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTcwNDM4OSwxNjk4NTUxMjY2LDQ2NT
-c2NjgxNiwtOTc0NjYwMTg3XX0=
+eyJoaXN0b3J5IjpbLTMzNzQxODg2NywxNzAxNzA0Mzg5LDE2OT
+g1NTEyNjYsNDY1NzY2ODE2LC05NzQ2NjAxODddfQ==
 -->
