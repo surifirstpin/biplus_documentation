@@ -15,15 +15,16 @@
 
  ## Set-Up Connection
 
->Navigation: Database→New connection
+>**Navigation: Database→ New connection**
 
  **1.** Click on **Database Section** to setup a database connection.
 
- **2.** Click on **+New connection**  button to start setting up the connection to database. In general,  specify the below mentioned fields:
+ **2.** Click on **New connection**  button to start setting up the connection to database. In general,  specify the below mentioned fields:
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/demo%20image.png)
 
- **Name** specify a name to define connection.
- **Database(dialect)** choose appropriate dialect based on  connection. 
+-  **Name** specify a name to define connection.
+ 
+ - **Database(dialect)** choose appropriate dialect based on  connection. 
  
 >Note: As per your requirement we can include the dialects needed to run the business.
 
@@ -39,7 +40,7 @@
 
 ## SSH 
 
-**a)**  To connect BiPlus SSH tunnel with same database host, provide following information to BiPlus analyst :
+**a)**  To connect BiPlus SSH tunnel with same database host, **provide following information to BiPlus analyst :**
  
   - IP address or DNS name of the database server
   - SSH port of the database server
@@ -80,5 +81,5 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTcyNDY0ODIsMTY1MzQ4MzI4XX0=
+eyJoaXN0b3J5IjpbMTU2MTQ5OSwxNjUzNDgzMjhdfQ==
 -->
