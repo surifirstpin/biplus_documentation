@@ -28,7 +28,8 @@ A **Dimension** is a group of data and **Measure** is a information about group 
 ## Filters 
 
 Filters removes all the data except the one you want to retrieve. filter expressions are the advanced way to limit the data. 
-The following are the various types of filter expressions used.
+
+**The following are the various types of filter expressions used.**
 
 | Type | Description |
 |--|--|
@@ -98,7 +99,9 @@ Following are the different types of filters characteristics applicable ;
 
 ## Hidden Filters
 
-The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are not visible while retrieving the data in data section. To carry out this function you can follow the following steps;
+The data can also be retrieved based on the applied hidden filters.
+
+> Note : this hidden filters are visible in the list of filter expression but are not visible while retrieving the data in data section. To carry out this function you can follow the following steps;
 
 **a.** Apply hidden filters to data fields in dimensions.
 
@@ -328,7 +331,7 @@ To view the SQL query built  in analysis section click on **SQL** section.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc5OTA2MTAsNDM2MTI4ODM2LC05OT
+eyJoaXN0b3J5IjpbLTIwNjYxNDA2OTYsNDM2MTI4ODM2LC05OT
 E1MjY0NjIsLTE5MTI4ODQ0NzgsNDI5NjQ0NDAxLDIxMzgzODU3
 MDBdfQ==
 -->
