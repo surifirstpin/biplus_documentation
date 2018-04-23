@@ -15,16 +15,18 @@ All the users have privilege to access global functions in calculated column,  b
 /*START*/ 
 function myfunction(param1,param2,ParamN)
 {
- // Define function body   
+                                                      * Define function body *  
    return 0;
+   
 }
 /*END*/
-```
-> Note : You can add your code in function body only.
 
-**Example :**
 ```
-/* My Custom function*/
+> **Note :** You can add your code in function body only.
+
+> For Instance Refer Below;
+```
+                                       /* My Custom function*/
 
 /*START*/ 
 function _Addition(param1,param2)
@@ -61,6 +63,6 @@ This functions supports all the native java script supported functions and also 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzc4MTcwNCw2NTk2OTMxMjcsMTY1MD
+eyJoaXN0b3J5IjpbLTMyOTUwNjYxOCw2NTk2OTMxMjcsMTY1MD
 UzMjc2MV19
 -->
