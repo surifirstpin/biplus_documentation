@@ -63,5 +63,6 @@ This functions supports all the native java script supported functions and also 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5NjkzMTI3LDE2NTA1MzI3NjFdfQ==
+eyJoaXN0b3J5IjpbLTE5ODMwNzQ5NTEsNjU5NjkzMTI3LDE2NT
+A1MzI3NjFdfQ==
 -->
