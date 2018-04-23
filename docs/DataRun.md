@@ -27,7 +27,8 @@ A **Dimension** is a group of data and **Measure** is a information about group 
                                                                                                                                                                                                                         
 ## Filters 
 
-Filters removes all the data except the one you want to retrieve. filter expressions are the advanced way to limit the data and it is a optional list of filter expression applied to measure calculation, the following are the various types of filter expressions used.
+Filters removes all the data except the one you want to retrieve. filter expressions are the advanced way to limit the data. 
+The following are the various types of filter expressions used.
 
 | Type | Description |
 |--|--|
@@ -327,7 +328,7 @@ To view the SQL query built  in analysis section click on **SQL** section.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTQ0NDYwOCw0MzYxMjg4MzYsLTk5MT
-UyNjQ2MiwtMTkxMjg4NDQ3OCw0Mjk2NDQ0MDEsMjEzODM4NTcw
-MF19
+eyJoaXN0b3J5IjpbOTI0MzM0ODAzLDQzNjEyODgzNiwtOTkxNT
+I2NDYyLC0xOTEyODg0NDc4LDQyOTY0NDQwMSwyMTM4Mzg1NzAw
+XX0=
 -->
