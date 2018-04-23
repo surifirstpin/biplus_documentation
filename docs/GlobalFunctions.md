@@ -5,7 +5,7 @@ All the users have privilege to access global functions in calculated column,  b
 
 >**Navigation :  Settings→Global functions** 
 
- 1. Click on **Add-Functions** to create new function.
+** 1. Click on **Add-Functions** to create new function.
  
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9712e86a6881444e961d60dfc6aab30bf665172/images/func1.png)
@@ -26,7 +26,7 @@ function myfunction(param1,param2,ParamN)
 
 > For Instance Refer Below;
 ```
-                                       /* My Custom function*/
+                                                       * My Custom function*
 
 /*START*/ 
 function _Addition(param1,param2)
@@ -35,12 +35,12 @@ function _Addition(param1,param2)
   return add;
 }
 /*END*/
-/* Returns value 3, if we provide 1 and 2 in Test*/
+                                           * Returns value 3, if we provide 1 and 2 in Test*
 ```
-2. Click on **Test** Button  to run the function.
-3. Click on **Save** Button to save the function.
+**2.** Click on **Test** Button  to run the function.
+**3.** Click on **Save** Button to save the function.
 
->Image 2
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2c15dfa03d8ed5eed5cdffdc1335c22ce759300c/images/global_functions.png)
 
 ## Ability to adopt Javascript
@@ -63,6 +63,6 @@ This functions supports all the native java script supported functions and also 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTUwNjYxOCw2NTk2OTMxMjcsMTY1MD
-UzMjc2MV19
+eyJoaXN0b3J5IjpbNDYxMDEzOTgxLDY1OTY5MzEyNywxNjUwNT
+MyNzYxXX0=
 -->
