@@ -10,9 +10,9 @@ Calculated column is a functionality that allows to manipulate the retrieved dat
 
 -  Optimize and transform the data using  **#plugin#**  functionality.
 
-- Define a function or use a Global function to be applied on the required data fields.
+- Define a function or use a global function to be applied on the required data fields.
  
-> Note: The functions support JavaScript API.
+> **Note:** The functions support JavaScript API.
 
 
 ## Mathematical operation 
@@ -403,7 +403,7 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU1MzQ2MTEsLTE1MTk2NjE2NDAsLT
-EyMTY0NzA5NzQsLTYzOTE0Njc4NywtNTk4Mjc4MzMxLDEyMjM5
-MjAxNTEsNTY1ODkwODEwLC03NzkxMjA5NzFdfQ==
+eyJoaXN0b3J5IjpbODk1MTEzOTk3LC0xNTE5NjYxNjQwLC0xMj
+E2NDcwOTc0LC02MzkxNDY3ODcsLTU5ODI3ODMzMSwxMjIzOTIw
+MTUxLDU2NTg5MDgxMCwtNzc5MTIwOTcxXX0=
 -->
