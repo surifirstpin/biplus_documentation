@@ -328,9 +328,10 @@ bi._Fname(input_param1, input_param2,..input_paramN)
   bi.in_global_keys( ["Parameter_Column_Name "],["Reference string" ],"Global_parameter.field")
 ```
 
->**For Instance:** 
+>**For Instance:**
+``` 
 bi.in_global_keys( ["Station_Name"],["Station_1" ],"Calc_ONRAW.value")
-
+```
 
 **2.** **Reference value** Global parameters refers to reference value.
 
@@ -338,13 +339,15 @@ bi.in_global_keys( ["Station_Name"],["Station_1" ],"Calc_ONRAW.value")
   bi.in_global_keys( ["Parameter_Column_Name "],["database column" ],"Global_parameter.field")
 ```
 >**For Instance:** 
+```
 bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"Calc_ONRAW.value")
-
+```
 **3. Login Name(User Id)** Provide Access based on Login ID.
 ```
 bi.in_global_keys(["ParameterColumnName","ParameterUserID"],["DatabaseField","bi._globals("#userid#")"],"ParameterName.Field"])
 ```
->**For Instance:** ```
+>**For Instance:** 
+```
 bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661} 
 ,bi._globals("#userid#")],"CalcCol_Stage2.SeizeLimit)
 ```
@@ -394,6 +397,6 @@ fname(value1, value2, value3, .....)             * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyMTU4NDA1LDU2NTg5MDgxMCwtNzc5MT
-IwOTcxXX0=
+eyJoaXN0b3J5IjpbLTE0OTYxNjY4MjUsNTY1ODkwODEwLC03Nz
+kxMjA5NzFdfQ==
 -->
