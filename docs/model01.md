@@ -147,7 +147,7 @@ II.  **Position**  It is the priority of the filter and can be “before” or �
 
 ```
 {
-"name": "View_1",                     * Primary View *
+"name": "View_1",                                       * Primary View *
 "label": "View_1",
 "filters":[],
 "joins":
@@ -155,7 +155,7 @@ II.  **Position**  It is the priority of the filter and can be “before” or �
 {
 "join": "View_2",                                       * Secondary View *
 "join_type": "left",                                    * Type of Join *
-"join_on": "${View_1.Field} = ${View_2.Field}"   * Join criteria
+"join_on": "${View_1.Field} = ${View_2.Field}"          * Join criteria*
 } 
 ]
 }
@@ -172,7 +172,7 @@ BiPlus allows various actions to performed in views as follows:
 
 -  Assigning currency & number format for measure fields.
 
--  extracting different date formats from the date field permissible formats like hour,day,week,month,quarter, year,date, week_day,date_month,date_quarter, date_hour, year_week.
+-  Extracting different date formats from the date field permissible formats like hour,day,week,month,quarter, year,date, week_day,date_month,date_quarter, date_hour, year_week.
 
 -  Assigning drill down fields for a field.
 
@@ -203,7 +203,7 @@ The Associated keywords with the views are flowing :
 
 -   **Query**  an sql query returning a set of values can be written in “lookup” for a field. It will be useful if the filter values are large in number and becomes tedious to mention all of them as a list.
 
-> Ex: “lookup” : “SELECT DISTINCT Name FROM ROOT.Employees”
+> **For Instance :** “lookup” : “SELECT DISTINCT Name FROM ROOT.Employees”
 
 -   **Items**  known set of values can be given with comma separation. It may be useful if the list is small and the items are known exactly to the user.
 
@@ -492,6 +492,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTIzNjM5NTksNDU0Njk1NTIsMTMyMD
-M5MDUxMF19
+eyJoaXN0b3J5IjpbNjU4MTA0NTg2LDQ1NDY5NTUyLDEzMjAzOT
+A1MTBdfQ==
 -->
