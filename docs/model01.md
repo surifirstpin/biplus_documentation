@@ -142,20 +142,20 @@ II.  **Position**  It is the priority of the filter and can be “before” or �
 **The attributes for “joins” are defined as follows:**
 
 -   **join** the view name to be joined with the primary view.
--   **join_type**  the method of joining two views. Either left or right is similar to the “**Join**” functionality.
+-   **join_type**  the method of joining two views. Either left or right is similar to “**Join**” functionality.
 -   **join_on**  the specific criterion for joining to views with a relation among relevant fields.
 
 ```
 {
-"name": "View_1", // Primary View
+"name": "View_1",                     * Primary View *
 "label": "View_1",
 "filters":[],
 "joins":
 [ 
 {
-"join": "View_2",  // Secondary View
-"join_type": "left",  // Type of Join
-"join_on": "${View_1.Field} = ${View_2.Field}"  // Join criteria
+"join": "View_2",                                       * Secondary View *
+"join_type": "left",                                    * Type of Join *
+"join_on": "${View_1.Field} = ${View_2.Field}"   * Join criteria
 } 
 ]
 }
@@ -492,6 +492,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTg5MTkzNiw0NTQ2OTU1MiwxMzIwMz
-kwNTEwXX0=
+eyJoaXN0b3J5IjpbLTE5OTIzNjM5NTksNDU0Njk1NTIsMTMyMD
+M5MDUxMF19
 -->
