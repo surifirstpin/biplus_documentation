@@ -229,12 +229,12 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  SQRT2 | Returns the square root of 2. | 1.41421356237309 |
 |  tau | Returns Tau value which is the ratio constant of a circle's circumference to radius, equal to 2 * pi. | 6.28318530717958 |
 |  uninitialized | Constant used as default value when resizing a matrix to leave new entries uninitialized | - |
-### Unit	:
+### Unit	
 |Name|Description|Example|
 |--|--|--|
 |to|Returns the converted unit value of a given value|Ex: bi.unit("2 inch").to("cm") |
 
-### Utils :		
+### Utils 	
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
 |  to | Returns the converted unit value of a given value | bi.unit("x unit1").to("unit2")<br/>Ex: bi.number(bi.unit("2 inch").to("cm"),"cm") = 5.08 <br/>       bi.number(bi.unit("16 bytes").to("bits"),"bits") = 128 |
@@ -404,6 +404,6 @@ fname(value1, value2, value3, .....)             * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODI3ODMzMSwxMjIzOTIwMTUxLDU2NT
-g5MDgxMCwtNzc5MTIwOTcxXX0=
+eyJoaXN0b3J5IjpbLTYzOTE0Njc4NywtNTk4Mjc4MzMxLDEyMj
+M5MjAxNTEsNTY1ODkwODEwLC03NzkxMjA5NzFdfQ==
 -->
