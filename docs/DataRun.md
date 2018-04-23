@@ -117,14 +117,14 @@ The data can also be retrieved based on the applied hidden filters .
 
 ## Order  (Ascending / Descending)
 
-To view the column data in ascending or descending orders , Click On **Order** and add the column fields in order section with prescribed order.
+To view the column data in ascending or descending orders , to carry out this function Click On **Order** and add the column fields in order section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/sorting1.png)
 
 ## Local Sorting
 
-Local Sorting can be applied directly to the data obtained for dimension and measure fields in the data section. Click on the desired field header to enable sorting.
+Local Sorting can be applied directly to the data obtained for dimension and measure fields in the data section. To enabl;e this Click on the desired field header to enable sorting.
 
 For **Dimensions**
 
@@ -333,7 +333,7 @@ To view the SQL query built  in analysis section click on **SQL** section.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzA3Njg1Niw0MzYxMjg4MzYsLTk5MT
-UyNjQ2MiwtMTkxMjg4NDQ3OCw0Mjk2NDQ0MDEsMjEzODM4NTcw
-MF19
+eyJoaXN0b3J5IjpbMzE5MzIzNDgyLDQzNjEyODgzNiwtOTkxNT
+I2NDYyLC0xOTEyODg0NDc4LDQyOTY0NDQwMSwyMTM4Mzg1NzAw
+XX0=
 -->
