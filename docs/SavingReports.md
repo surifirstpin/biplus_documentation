@@ -1,6 +1,6 @@
 <center><h1>Saving Reports</h1></center>
 
-In Acubi you can save the report build for retrieving the data, in specific location under a specific tag or share them with team members for better collaboration.
+In BiPlus you can save the report build for retrieving the data, in specific location under a specific tag or share them with team members for better collaboration.
 
 **1.** After extracting the data click on **Save button** in Analysis section to save the report, it will navigate to Save Explore section.
 >Image 1
@@ -13,7 +13,7 @@ In Acubi you can save the report build for retrieving the data, in specific loca
 
 Under **Save Explore** page provide all the below information to save a report for further accessing.
 
-- **Report Name** Name identifier for a report. ( Bi+ allows  special character but does not  support any spaces )
+- **Report Name** Name identifier for a report. ( BiPl allows  special character but does not  support any spaces )
 
 - **Title** label for the report the way you want it to appear.
 
@@ -59,5 +59,6 @@ Cache saves the data, so the future request for the data is provided faster.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODk1ODg1OCwtMzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbMTkyMzA3NzkxMiwtODg4OTU4ODU4LC0zMz
+cyNjIwMl19
 -->
