@@ -19,9 +19,9 @@ A Model can be defined in 3 steps;
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3a9de750e2fda00610d242df7a5584cfe48d8cea/images/new_project.png)
 
-**Following are the list of entries made while creating a project.**
+**Following are the list of entries made while creating a project;**
 
--   **Project Name**  Enter the project name as per requirement.
+-   **Project Name**  Enter the project name.
     
 -   **Connection**  Select the database connection from the list provided.
 
@@ -495,6 +495,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTgwOTYwNDksNDU0Njk1NTIsMTMyMD
-M5MDUxMF19
+eyJoaXN0b3J5IjpbMTQ1NDI0NDY0Miw0NTQ2OTU1MiwxMzIwMz
+kwNTEwXX0=
 -->
