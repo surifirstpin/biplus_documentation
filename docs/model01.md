@@ -115,10 +115,10 @@ I.  **filter_sql :**  the filter expression or condition. Filter expression can 
 
 -   **Date-based, String-based, Number-based :**  standard filters which are applicable on date, string, number fields in database are allowed.
 
-> For Instance :  
-> Date based : ROOT.Orders.OrderDate < TRUNC(SYSDATE)  
-> String-based : ROOT.Orders.PaymentMode IN (‘Cash’,’PayTM’)  
-> Number-based : ROOT.BI_Orders.Amount IS NOT NULL.
+> **For Instance :**  
+Date based : ROOT.Orders.OrderDate < TRUNC(SYSDATE)  
+String-based : ROOT.Orders.PaymentMode IN (‘Cash’,’PayTM’)  
+Number-based : ROOT.BI_Orders.Amount IS NOT NULL
 
 -   **User-based :**  BiPlus allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users. That means, for a particular user login, the data retrievable in Analyze section will be constrained with a list of pre-defined values.
 
@@ -495,6 +495,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5ODEyNTksNDU0Njk1NTIsMTMyMDM5MD
-UxMF19
+eyJoaXN0b3J5IjpbLTEwMTE5MjE1ODEsNDU0Njk1NTIsMTMyMD
+M5MDUxMF19
 -->
