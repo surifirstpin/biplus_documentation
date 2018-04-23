@@ -381,10 +381,10 @@ Custom function is a block of code (series of statements which intended to a par
 function fname(param1, param2, param3 ...){
 
 statement 1;
-statement 2;                                     // Function body
+statement 2;                                     * Function body
 statement 3;
 ...........
-...........
+Statement N;
 return `;   
 }
 /*END*/
@@ -395,6 +395,6 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjEzMTU2Myw1NjU4OTA4MTAsLTc3OT
-EyMDk3MV19
+eyJoaXN0b3J5IjpbOTIxNzUwMTEsNTY1ODkwODEwLC03NzkxMj
+A5NzFdfQ==
 -->
