@@ -323,7 +323,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 |  $#,##0.00 | Dollars with comma between thousands and 2 decimals ($1,234.00) |
 
 
-- **Currency** you can check the field values of the measure by applying different types of currency formats, AcuBi supports $,   ₹  ,   €  ,  £.
+- **Currency** you can check the field values of the measure by applying different types of currency formats, BiPlus supports $,   ₹  ,   €  ,  £.
 
 ![
 ](!%5B%20%5D%28https://raw.githubusercontent.com/sv18042016/fp1/e1bd201419a03bfb1375b64b9e74fb8e06830061/images/data_section_analysis.png%29)
@@ -335,7 +335,7 @@ To view the SQL query built  in analysis section click on **SQL** section.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjE4OTY2NCw0MzYxMjg4MzYsLTk5MT
+eyJoaXN0b3J5IjpbMTE1NDY5OTkwMSw0MzYxMjg4MzYsLTk5MT
 UyNjQ2MiwtMTkxMjg4NDQ3OCw0Mjk2NDQ0MDEsMjEzODM4NTcw
 MF19
 -->
