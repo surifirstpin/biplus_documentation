@@ -1,7 +1,9 @@
 <center><h1>Visualization</h1></center>
 
 
-BiPlus has an ability to create graphics and charts based on the result obtained. Charts sections in BiPlus displays different type of pictorial representation of the data. Let us see in details how to configure visualization.
+BiPlus has an ability to create graphics and charts based on the result obtained. Charts sections in BiPlus displays different type of pictorial representation of the data.
+
+**Let us see in details how to configure visualization;**
 
 ## Adding Life to Data
 
@@ -375,7 +377,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODU1NDUzOCw0NTAzNTYzMjMsLTkwMT
+eyJoaXN0b3J5IjpbLTE3Njk5MTYwNSw0NTAzNTYzMjMsLTkwMT
 Q3ODIwNSwxMDkzOTAyNTYzLDE2MjgxMTQxMTUsLTExOTgyNDAz
 OTksNjg2NzY5NDU3LDEwNTQ3NjY2NjIsLTgxNTAwNTE4NF19
 -->
