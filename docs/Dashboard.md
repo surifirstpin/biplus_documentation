@@ -89,7 +89,7 @@ b. Click on **add** link available at right side of the saved report.
 
 **8.**     **Report Listeners** ( Refer image 5)
 
-  BiPlus has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report1 it results in filter applied on report1, it self and report2 will remain unaffected.
+  BiPlus has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report 1 it results in filter applied on report 1 it self and report 2 will remain unaffected.
 
    -  **Dashboard Report**  selects reports to add filters.
    
@@ -114,11 +114,11 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 - **Privacy**  you can save the report in any one of the following privacy option.
 
-  -   **Private ()**  Dashboard saved in private section and accessed by the user itself.
+  -   **Private **  Dashboard saved in private section and accessed by the user itself.
 
-  -   **Public ()**  Dashboard saved in public section and accessed by all the users.
+  -   **Public **  Dashboard saved in public section and accessed by all the users.
 
-  -   **Share ()**  Dashboard saved under share section and accessed by specific set of users.
+  -   **Share **  Dashboard saved under share section and accessed by specific set of users.
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0fb2c0fe9fbc99b6ac2cd3d818fe7533a74872b8/images/2018-02-06_16-09-56.png)
@@ -134,9 +134,9 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTEwOTMyOTUsLTExOTE5MTQwODYsLT
-IxNTg5NTQzNSwyMTk2MDUwOTYsLTIwNjY4MzQ2NzksMTc5ODE4
-MTg4NCwxNzk4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1ND
-AsLTc2NjcxMjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkz
-NDUwXX0=
+eyJoaXN0b3J5IjpbMTg3NDI3ODI1MiwtMTE5MTkxNDA4NiwtMj
+E1ODk1NDM1LDIxOTYwNTA5NiwtMjA2NjgzNDY3OSwxNzk4MTgx
+ODg0LDE3OTgxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MC
+wtNzY2NzEyOTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0
+NTBdfQ==
 -->
