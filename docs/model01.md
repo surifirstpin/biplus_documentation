@@ -300,7 +300,8 @@ BiPlus has an ability to create new fields in a view with all attributes that ar
 
 ```
 
-> **Example**  “sql”: “(${TABLE}.Amount) / ${Customers.Total_number})”
+>**For Instance:** 
+“sql”: “(${TABLE}.Amount) / ${Customers.Total_number})”
 
 **3.**  As a resultant of logical operations(like case statement) done on fields of the same view.
 
@@ -311,7 +312,8 @@ BiPlus has an ability to create new fields in a view with all attributes that ar
 
 Where condition is an expression on the fields of self view and Expression_1, Expression_2 are expressions which include fields of self view.
 
-> **Example**: “sql”: “(CASE WHEN (${TABLE}.Name is not null) THEN ${TABLE}.Salary ELSE 0 END)”
+> **For Instance:** 
+ “sql”: “(CASE WHEN (${TABLE}.Name is not null) THEN ${TABLE}.Salary ELSE 0 END)”
 
 **4.**  As a resultant of logical operations (like case statement) done on fields of a mapped view.
 
@@ -322,7 +324,8 @@ Where condition is an expression on the fields of self view and Expression_1, Ex
 
 Where condition is an expression can be on the fields of self view or mapped view and Expression_1, Expression_2 are expressions which include fields of self view or mapped view.
 
-> **Example**  “sql”: “(CASE WHEN (${[Customers.ID](http://customers.id/)} is not null) THEN ${TABLE}.Amount ELSE 0 END)”
+> **For Instance:** 
+  “sql”: “(CASE WHEN (${[Customers.ID](http://customers.id/)} is not null) THEN ${TABLE}.Amount ELSE 0 END)”
 
 **5.**  As a resultant of database function operated on fields.
 
@@ -340,7 +343,8 @@ Where condition is an expression can be on the fields of self view or mapped vie
 
 ```
 
-> **Example:**  Number → “sql” : “SUM($ {TABLE}.Amount)”,  
+> **For Instance:** 
+> **  Number → “sql” : “SUM($ {TABLE}.Amount)”,  
 > Date → “sql” : "TO_CHAR ( $ { TABLE}.OrderDate,‘Mon-YYYY’)"  
 > String → “sql” : “CONCAT('Date : ',${TABLE}.OrderDate)”
 
@@ -497,6 +501,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODM0MzQ3Niw0NTQ2OTU1MiwxMzIwMz
+eyJoaXN0b3J5IjpbMTY3NDM5ODExNiw0NTQ2OTU1MiwxMzIwMz
 kwNTEwXX0=
 -->
