@@ -322,7 +322,7 @@ bi._Fname(input_param1, input_param2,..input_paramN)
 
 - **Parameter Name Field** Returns the field from global parameter it is applicable in 3 different ways ;
  
- **1.**  *Static value** Global parameters refers to a static value.
+ **1.**  **Static value** Global parameters refers to a static value.
 
  ```
   bi.in_global_keys( ["Parameter_Column_Name "],["Reference string" ],"Global_parameter.field")
@@ -332,36 +332,28 @@ bi._Fname(input_param1, input_param2,..input_paramN)
 bi.in_global_keys( ["Station_Name"],["Station_1" ],"Calc_ONRAW.value")
 
 
-**2. Reference value** Global parameters refers to reference value.
-       
-  **Syntax :**
+**2.** **Reference value** Global parameters refers to reference value.
+
 ```
   bi.in_global_keys( ["Parameter_Column_Name "],["database column" ],"Global_parameter.field")
 ```
-  **Example :**
-```
-
+>**For Instance:** 
 bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"Calc_ONRAW.value")
-```
 
 **3. Login Name(User Id)** Provide Access based on Login ID.
    
-**Syntax :** 
 ```
 bi.in_global_keys(["ParameterColumnName","ParameterUserID"],["DatabaseField","bi._globals("#userid#")"],"ParameterName.Field"])
 ```
-**Example :**
-```
-#math#
+>**For Instance:** 
 bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661} 
 ,bi._globals("#userid#")],"CalcCol_Stage2.SeizeLimit)
 
-```
 ## Calculate on Raw functionality
 
 By enabling the field calculate on raw the calculation are applied directly on the retrieved value of the fields, initially before pivot or grouping are applied.
 
->**For example** : consider the below image, which represents calculated data with and without applying enabling calculate on raw.
+>**For Instance:**  : consider the below image, which represents calculated data with and without applying enabling calculate on raw.
 ```
 bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,2)
 ```
@@ -403,6 +395,6 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDY3NzM3MTYsNTY1ODkwODEwLC03Nz
-kxMjA5NzFdfQ==
+eyJoaXN0b3J5IjpbMjExNjEzMTU2Myw1NjU4OTA4MTAsLTc3OT
+EyMDk3MV19
 -->
