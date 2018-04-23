@@ -55,13 +55,15 @@ Creates user groups and later these groups can be used to provide access.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b6af863fbeb6584b8a139d0f303840ab6893da5e/images/groups.png)
 
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fed976f79b3ba765a8bc3b9ca665de4de0fd2681/images/user_edit.png)
 
 ## Edit & Delete Group
 
 **3.**  Click on **Edit icon** to edit the group.
 
 **4.**  Click on **Delete icon** to delete the Group.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/fd56add1685021d091d8ca9707727ef8f9658517/images/edit%20and%20delete.png)
 
 ## Forgot Password
 
@@ -74,6 +76,7 @@ To reset password, Click on **forget password** button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA3Mzg5MjIsMTcwMTcwNDM4OSwxNj
-k4NTUxMjY2LDQ2NTc2NjgxNiwtOTc0NjYwMTg3XX0=
+eyJoaXN0b3J5IjpbMTY2Mjc2MDMyMCwtMTc4MDczODkyMiwxNz
+AxNzA0Mzg5LDE2OTg1NTEyNjYsNDY1NzY2ODE2LC05NzQ2NjAx
+ODddfQ==
 -->
