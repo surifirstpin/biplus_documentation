@@ -49,7 +49,8 @@ b. Click on **add** link available at right side of the saved report.
 
 **5.**  Click on **Apply Filters** to add global dashboard filters and lookups.( Refer image 4)
  
- **6.** **Dashboard global Filters** allows user to view limited data by applying filters on dashboard reports and it supports following filter types string, number, date and lookup.( Refer image 5)
+ **6.** **Dashboard global Filters** allows user to view limited data by applying filters on dashboard reports.(Refer Imnage
+  **it supports following ;**
 
 - **String** For fields that contain letters or special characters.
 
@@ -133,7 +134,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0OTA5ODQ3LC0xMTkxOTE0MDg2LC0yMT
+eyJoaXN0b3J5IjpbLTM0NjA3NzcxLC0xMTkxOTE0MDg2LC0yMT
 U4OTU0MzUsMjE5NjA1MDk2LC0yMDY2ODM0Njc5LDE3OTgxODE4
 ODQsMTc5ODE4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC
 03NjY3MTI5NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1
