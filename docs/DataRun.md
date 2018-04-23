@@ -14,9 +14,9 @@ Analysis section is  starting point for building the query.  it is designed in s
 
 A **Dimension** is a group of data and **Measure** is a information about group of data and they collectively acts as fundamental building blocks for a query.
 
-> For Example **Name of the Employee** is defined as dimension and **Salary of the Employee** is defined as Measure.
+> **For Instance:** **Name of the Employee** is defined as dimension and **Salary of the Employee** is defined as Measure.
  
- To retrieve the data in analysis section follow the below steps,
+ **To retrieve the data in analysis section follow the below steps,**
  
 **2.**  Select one or more dimension fields ( Grey fields) to access the data. It supports strings and date types.
 
@@ -328,7 +328,7 @@ To view the SQL query built  in analysis section click on **SQL** section.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0MzM0ODAzLDQzNjEyODgzNiwtOTkxNT
-I2NDYyLC0xOTEyODg0NDc4LDQyOTY0NDQwMSwyMTM4Mzg1NzAw
-XX0=
+eyJoaXN0b3J5IjpbLTEyMDc5OTA2MTAsNDM2MTI4ODM2LC05OT
+E1MjY0NjIsLTE5MTI4ODQ0NzgsNDI5NjQ0NDAxLDIxMzgzODU3
+MDBdfQ==
 -->
