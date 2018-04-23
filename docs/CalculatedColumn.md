@@ -256,11 +256,9 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 Perform Arithmetic operation on desired fields in calculated columns.
 
 > **For Instance:**
- To add an amount 2000 to the column field **order value sum, derive the following expression in calculated column screen.
-
-
+ To add an amount 2000 to the column field **order value sum**, derive the following expression in calculated column screen.
  ```
-bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,2000)
+bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE},2000)
 ```
 
 ![
@@ -273,12 +271,12 @@ Plugin operators provides complete authority on creation,edition and deletion of
  **_biCalculation.pluginData.raw**  holds the Raw JSON data and can be transformed as per the requirement.
 
 ```
-#math#plugin#
+#plugin#
 
 /*START*/
-function localFunction(param1,param2,...)
+function localFunction(param1,param2,...ParamN)
 { 
- // update raw data 
+                                                                             * update raw data 
 for(var i =0 ; i < _biCalculation.pluginData.raw.length; i++)
     {
          var item = biCalculation.pluginData.raw[i];
@@ -414,6 +412,6 @@ fname(value1, value2, value3, .....)    //Call Function
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTI2NzY5MTAsNTY1ODkwODEwLC03Nz
-kxMjA5NzFdfQ==
+eyJoaXN0b3J5IjpbMjAzMTUzMjI4Miw1NjU4OTA4MTAsLTc3OT
+EyMDk3MV19
 -->
