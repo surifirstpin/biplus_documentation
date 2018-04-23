@@ -2,7 +2,7 @@
 
 A model is a customized gateway into the database for accessing data as per business logic. BiPlus provides an IDE, which allows mappings between views (database tables) and apply several filters on the data as per business requirement. It is designed in such a way that it provides a spontaneous data analysis to specific business users.
 
-> **Example :**  If a sales manager wants to retrieve different data then material manager, we need to define login based filters on the model with specific assignments to the users.
+> **For Instance:**  If a sales manager wants to retrieve different data then material manager, we need to define login based filters on the model with specific assignments to the users.
 
 A Model can be defined in 3 steps;
 
@@ -497,5 +497,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0Njk1NTIsMTMyMDM5MDUxMF19
+eyJoaXN0b3J5IjpbLTIwMTQ3NTgzNjIsNDU0Njk1NTIsMTMyMD
+M5MDUxMF19
 -->
