@@ -66,7 +66,7 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 **11.**  To download the **Visualization Image** of the report,  Select **Show Visualization** in gear drop down then, select  **Download Image.**
 
-**Note :** To download the most recent data information of the report click on **Refresh** in gear drop down before downloading and to download the most recent data information, by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
+> **Note :** To download the most recent data information of the report click on **Refresh** in gear drop down before downloading and to download the most recent data information, by clearing the cache for specific dashboard or report, Click on **Hard Refresh** in gear drop down before downloading. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b0099f7179ee34c8f8492190d526ece2479b23b6/images/browse_rep5.png)
@@ -80,11 +80,11 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkyNzU1NTgsNTkxNDI0OTI2LC0xMj
-gzODM3MzI2LDIyODIxMDAzNCwxMDY1MTEwNzgzLDI4NjQ2NjMz
-OCwzNTA5MDQyMTgsODgxNDkzOTksLTczMjE2NjA2MywtMTAwND
-E2NTAzNSwtNjU3NzE3NjQ5LC0xMzI2MTQ2Nzk1LC0xODk5MTc4
-Mjk4LC0xODE3NzUwNDMwLC00MTk0NzI0NywtMTU1Mjc4Mjc2Ny
-wxNjgxNzM1ODc4LC0xNjE4MDk3NzMwLC0yMDMyMDExNjE5LC0x
-MjMyNDI1MjczXX0=
+eyJoaXN0b3J5IjpbMTYzMzExMzI3Niw1OTE0MjQ5MjYsLTEyOD
+M4MzczMjYsMjI4MjEwMDM0LDEwNjUxMTA3ODMsMjg2NDY2MzM4
+LDM1MDkwNDIxOCw4ODE0OTM5OSwtNzMyMTY2MDYzLC0xMDA0MT
+Y1MDM1LC02NTc3MTc2NDksLTEzMjYxNDY3OTUsLTE4OTkxNzgy
+OTgsLTE4MTc3NTA0MzAsLTQxOTQ3MjQ3LC0xNTUyNzgyNzY3LD
+E2ODE3MzU4NzgsLTE2MTgwOTc3MzAsLTIwMzIwMTE2MTksLTEy
+MzI0MjUyNzNdfQ==
 -->
