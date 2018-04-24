@@ -50,15 +50,16 @@ You can add different reports to the layout selected, depending on the requireme
 **5.**  Click on **Apply Filters** to add global dashboard filters and lookups.( Refer image 4)
  
  **6.** **Dashboard global Filters** allows user to view limited data by applying filters on dashboard reports.(Refer Image 5)
-  **it supports following ;**
 
-- **String** For fields that contain letters or special characters.
+  **BiPlus supports following Types;**
 
-- **Number** For fields that contain numbers.
+    - **String** For fields that contain letters or special characters.
 
-- **Date** For fields that contain dates.
+  - **Number** For fields that contain numbers.
 
-- **Lookup** to view the lookup in dashboard filters it should be defined in lookup section.( Refer point 7)
+  - **Date** For fields that contain dates.
+
+  - **Lookup** to view the lookup in dashboard filters it should be defined in lookup section.( Refer point 7)
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
@@ -134,9 +135,9 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjMyMzI3MiwtMTE5MTkxNDA4NiwtMj
-E1ODk1NDM1LDIxOTYwNTA5NiwtMjA2NjgzNDY3OSwxNzk4MTgx
-ODg0LDE3OTgxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MC
-wtNzY2NzEyOTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0
-NTBdfQ==
+eyJoaXN0b3J5IjpbMTYwODAwNTgxLC0xMTkxOTE0MDg2LC0yMT
+U4OTU0MzUsMjE5NjA1MDk2LC0yMDY2ODM0Njc5LDE3OTgxODE4
+ODQsMTc5ODE4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC
+03NjY3MTI5NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1
+MF19
 -->
