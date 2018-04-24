@@ -60,12 +60,10 @@ Multiple dimensions in the report data are often easier to look at, when you piv
  **You can apply pivot to fields in 2 ways ;**
  
 **a.** Apply pivot **After Retrieving** the data. 
+
 **b.** Apply pivot **Before Retrieving** the data.
 
 > **Note :** make sure you have at least one un-pivoted dimension and a measure value. 
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/ea7e55d6c87283e54b723361f7f20b45452ba847/images/pin_ur.png) **Image 4**
 
 ## Pin or Remove Pin
 
@@ -87,6 +85,12 @@ To hide the specific field in the visualization charts click on **Hide Visualiza
 ## Remove
 
 To remove a specific field column from the extracted list click on **Remove** in drop down list of the field.**( Refer image 4)**
+
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/ea7e55d6c87283e54b723361f7f20b45452ba847/images/pin_ur.png) **Image 4**
+
+
 
 ## Multi-Level grouping
 
@@ -553,11 +557,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQ5NjE4NDAsLTMxNDU0Mzc0MywxNj
-cxNTc2MzQ5LC05MDUzMjc3MjQsMjY1MTUwMjQsNDk4Nzk2MjQ4
-LDEyMDA1ODk1NTksLTIwMTgwODE4OTMsMTQyODEzMTU0OCwtMT
-A3NzM3ODM4LC0xNTczNTY0NTA3LDE3NTgzODU5NzQsMTExNDgx
-ODQ2LC0xODU2MTQzNzc1LDMwNTEzODQ0LDEyOTEyNjAxNzIsND
-MxODUwNzMyLC0xMzMzODc2OTMwLDQ1MTUxNTMwNiwtMTg2OTQ0
-NTAzMV19
+eyJoaXN0b3J5IjpbLTE2NDkwNDI1NzIsLTE4NjQ5NjE4NDAsLT
+MxNDU0Mzc0MywxNjcxNTc2MzQ5LC05MDUzMjc3MjQsMjY1MTUw
+MjQsNDk4Nzk2MjQ4LDEyMDA1ODk1NTksLTIwMTgwODE4OTMsMT
+QyODEzMTU0OCwtMTA3NzM3ODM4LC0xNTczNTY0NTA3LDE3NTgz
+ODU5NzQsMTExNDgxODQ2LC0xODU2MTQzNzc1LDMwNTEzODQ0LD
+EyOTEyNjAxNzIsNDMxODUwNzMyLC0xMzMzODc2OTMwLDQ1MTUx
+NTMwNl19
 -->
