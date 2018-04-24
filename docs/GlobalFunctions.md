@@ -1,9 +1,9 @@
 <center><h1>Global Function</h1></center>
 
-A common set of statements or operations can be defined globally as a function and it can be retrieved and used in any project. One global function shall be referred from another global function, But it should not be circular reference.
+A common set of statements or operations can be defined globally as a function and it can be retrieved and used in any project. One global function shall be referred from another global function, But it should not be in circular reference.
 All the users have privilege to access global functions in calculated column,  but admin and developer has an ability to create, edit and delete a global function.
 
->**Navigation :  Settings→Global functions** 
+>**Navigation :  Settings → Global functions** 
 
 **1.** Click on **Add-Functions** to create new function.
  
@@ -62,6 +62,6 @@ This functions supports all the native java script supported functions and also 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4NDkyMDgzLDY1OTY5MzEyNywxNjUwNT
-MyNzYxXX0=
+eyJoaXN0b3J5IjpbMTg5OTU4MDczNiw1Nzg0OTIwODMsNjU5Nj
+kzMTI3LDE2NTA1MzI3NjFdfQ==
 -->
