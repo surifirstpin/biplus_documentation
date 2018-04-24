@@ -81,7 +81,7 @@ Bar charts are used to compare data across different categories. You can build a
 ](https://raw.githubusercontent.com/sv18042016/fp1/c21c91b0c8f9e243362fbefc44279936c6021d12/images/bar_chart.png)
 
 
-## Pie Chart :
+## Pie Chart 
 
 This section describes the editing option for Pie chart in visualization. 
  
@@ -139,7 +139,7 @@ For example, when you want to buy a Laptop, you can use a radar chart to compare
 
 - **Curve** it maximum and minimize the surface area in radar chart.
 
-## Bubble chart :
+## Bubble chart 
 
 It is used to display the data in circles. We can define each bubble using any of our Dimension value and size by Measure value.
  
@@ -148,7 +148,7 @@ It is used to display the data in circles. We can define each bubble using any o
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d07e80177a8a6fe04619cfb40058e9789b142e88/images/bubble_chart.png)
 
-## Funnel chart :
+## Funnel chart 
 
 Funnels helps to visualize a process that has stages and items flow sequentially from one stage to the next. Use a funnel when there is a sequential flow between stages, such as a sales process that starts with inquiry and ends with billing.
 
@@ -178,7 +178,7 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  - **Load Animation** on selecting the check box the column values in funnel chart will appear as moving image.
 
 
-##  Gauge Chart :
+##  Gauge Chart 
 
 Gauge chart displays current status in the context of goal.
 
@@ -213,7 +213,7 @@ Gauge chart displays current status in the context of goal.
 
 - **Hide Minmax**  hides min and maximum values in gauge target.
 
-## Table chart :
+## Table chart 
  
 Table chart displays the data in series making it more feasible for comparing dimensions and measure values.
  
@@ -222,7 +222,7 @@ Table chart displays the data in series making it more feasible for comparing di
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b6e598ee67160c266bb9d4d30a423f520880bf63/images/table_chart.png)
 
-## Widget chart :
+## Widget chart 
 
 It displays one or more data series as a data graph. Widget chart is used to display the number of records created today. number of Incidents by status or department.
 
@@ -247,7 +247,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Style** specify a status indicator for measure value such as default, primary, success, warning, info, danger.
 
-##  World chart :
+##  World chart 
 
  It displays the data grouped by specific country and at the same time the grouped data regions are highlighted in the map.
  
@@ -281,7 +281,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 ## Standard Editing Option in Charts
 
-### General Section :
+### General Section 
 
 - **Title** specify title for the chart selected.
 
@@ -376,8 +376,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczODc2MjUwLC0xMjM3MTAzNDUzLDQ1MD
-M1NjMyMywtOTAxNDc4MjA1LDEwOTM5MDI1NjMsMTYyODExNDEx
-NSwtMTE5ODI0MDM5OSw2ODY3Njk0NTcsMTA1NDc2NjY2MiwtOD
-E1MDA1MTg0XX0=
+eyJoaXN0b3J5IjpbLTMxMTMzNTc4LDQ3Mzg3NjI1MCwtMTIzNz
+EwMzQ1Myw0NTAzNTYzMjMsLTkwMTQ3ODIwNSwxMDkzOTAyNTYz
+LDE2MjgxMTQxMTUsLTExOTgyNDAzOTksNjg2NzY5NDU3LDEwNT
+Q3NjY2NjIsLTgxNTAwNTE4NF19
 -->
