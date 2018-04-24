@@ -18,8 +18,8 @@ acuBiBiPlus allows you to provide additional key values to manipulate the data i
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb08bee2614e37797672ab46bd201d2f6211d09b/images/global+para.png)
 
--  Enter **key name** as shown in the pop-up screen below.
-- Click on **ok** button.
+-  Enter **key name** as shown in the pop-up screen below, then Click on **ok** button.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/af27c45cb55b5170d224482c0ac646b1093c8f1a/images/global+para2.png)
 
 -  Add column and update the data to global parameter created.
@@ -80,6 +80,6 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjQ3NzA4NSwtMTkwNzc3Njg0MCwtMT
+eyJoaXN0b3J5IjpbMTIzMTM3MDI3OSwtMTkwNzc3Njg0MCwtMT
 gxMTExNzg2NSwtOTAwNTAxNjYxXX0=
 -->
