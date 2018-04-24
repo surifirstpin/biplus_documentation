@@ -39,13 +39,13 @@ Apply report filter **Sum count equals to 1** in Analysis section and The data i
 
 ## Explore Report
 
-**7.** To view the data flow of the report click on the **setting icon**.
+**7.** To view the data flow of the report click on the **Setting icon**.
 
 **8.** To view the data in a graph Click on **Show data** in the drop down.
 
    -  Select **Show data** to display data report.
    
-   -  Select **Show visualization** to view visualization of the report.
+   -  Select **Show Visualization** to view visualization of the report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d52bc64c5ef2973d8b81e9a4f8925e0e50686102/images/show_data.png)
 
@@ -98,6 +98,6 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzE5OTQwMDYsMTczMDk3OTc5OCwtMT
+eyJoaXN0b3J5IjpbLTEzMjIyMzU3OTgsMTczMDk3OTc5OCwtMT
 I1Njk3NDQxMV19
 -->
