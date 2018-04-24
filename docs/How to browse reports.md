@@ -61,8 +61,8 @@ Click **Update** button, use **Save as** to save the report with different name.
 **10.** To download existing report in csv format select **download CSV** in gear drop down in the report initial screen.
  At present, you can download dashboard reports in following formats,
  - CSV
-- .XLS
--  PNG
+ - .XLS
+ -  PNG
 
 **11.**  To download the **Visualization Image** of the report,  Select **Show Visualization** in gear drop down then, select  **Download Image.**
 
@@ -80,7 +80,7 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU5NDM0ODIsNTkxNDI0OTI2LC0xMj
+eyJoaXN0b3J5IjpbLTE0MjkyNzU1NTgsNTkxNDI0OTI2LC0xMj
 gzODM3MzI2LDIyODIxMDAzNCwxMDY1MTEwNzgzLDI4NjQ2NjMz
 OCwzNTA5MDQyMTgsODgxNDkzOTksLTczMjE2NjA2MywtMTAwND
 E2NTAzNSwtNjU3NzE3NjQ5LC0xMzI2MTQ2Nzk1LC0xODk5MTc4
