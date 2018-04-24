@@ -12,13 +12,13 @@ acuBiBiPlus allows you to provide additional key values to manipulate the data i
  
 ## Create  Global Parameters
 
->**Navigation : Settings→ Global Parameters.**
+>**Navigation : Settings → Global Parameters.**
 
 **1.** Click on **Add Key.**
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb08bee2614e37797672ab46bd201d2f6211d09b/images/global+para.png)
 
--  Enter **key name** as shown in the pop-up screen.
+-  Enter **key name** as shown in the pop-up screen belo.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/af27c45cb55b5170d224482c0ac646b1093c8f1a/images/global+para2.png)
 
@@ -80,6 +80,6 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDc3NzY4NDAsLTE4MTExMTc4NjUsLT
-kwMDUwMTY2MV19
+eyJoaXN0b3J5IjpbODE4OTczMTQyLC0xOTA3Nzc2ODQwLC0xOD
+ExMTE3ODY1LC05MDA1MDE2NjFdfQ==
 -->
