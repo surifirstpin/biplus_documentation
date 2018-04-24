@@ -7,7 +7,8 @@
 <p><img src="https://raw.githubusercontent.com/sv18042016/fp1/a0c10495ffde6577ee5af3b350f2c54ea41649bf/images/workspace.png" alt="enter image description here"></p>
 <h2 id="home-page-display-option">Home Page Display </h2>
 <ol start="2">
-<li>Click on <strong>Set Home page</strong> Icon, to set the dashboard on Home page.<br>
+<li>Click on <strong>Set Home page</strong> Icon, to set the dashboard on Home page.
+<br>
 
 <img src="https://raw.githubusercontent.com/sv18042016/fp1/63d935c622e04e8e13416ae4bfe54db3e8bb0af5/images/dash_home1.png" alt="enter image description here"></li>
 </ol>
@@ -35,11 +36,11 @@
 </ul>
 </blockquote>
 <h2 id="dragdrop">Drag &amp; Drop</h2>
-<p>Acubi has an ability to drag and drop the dashboard and reports into the selected privacy tag structure.</p>
+<p>BiPlus has an ability to drag and drop the dashboard and reports into the selected privacy tag structure.</p>
 <p><img src="https://raw.githubusercontent.com/sv18042016/fp1/759c68367cac74f2715f1c407d74d73a3fda3c09/images/drag&amp;drop.png" alt="enter image description here"></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTkyNDYwOCwtMTYwMjAzNTU2MSwtNj
-c1OTQxOTc1LC0xMTE0MDI0NjA1LDIwOTIyNjk2ODQsMTM1NjQz
-OTgwNF19
+eyJoaXN0b3J5IjpbMTEzMTAzNTE1LC0xNjAyMDM1NTYxLC02Nz
+U5NDE5NzUsLTExMTQwMjQ2MDUsMjA5MjI2OTY4NCwxMzU2NDM5
+ODA0XX0=
 -->
