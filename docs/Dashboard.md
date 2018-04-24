@@ -63,13 +63,6 @@ You can add different reports to the layout selected, depending on the requireme
    - **Lookup** to view the lookup in dashboard filters it should be defined in lookup section.( Refer point 7)
 -   **Operator**  filter operation that are applicable.
 
-
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
-**Image 5**
-
-
-
 ## Lookup   
 
 **7.**   **Lookup**  Adding lookup to dashboard will refer set of query or list of items in filters.( Refer image 5)
@@ -84,6 +77,15 @@ You can add different reports to the layout selected, depending on the requireme
    
    -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the referred data.
   >  **For Instance** if we want to refer to country A then all states falling under that country will be updated based on the selection made.
+
+
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
+**Image 5**
+
+
+
+
 
   ## Report Listeners 
 
@@ -134,9 +136,9 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxNzU2Nzk3LC0xMTkxOTE0MDg2LC0yMT
-U4OTU0MzUsMjE5NjA1MDk2LC0yMDY2ODM0Njc5LDE3OTgxODE4
-ODQsMTc5ODE4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC
-03NjY3MTI5NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1
-MF19
+eyJoaXN0b3J5IjpbLTE5MjYxOTYxOTEsLTExOTE5MTQwODYsLT
+IxNTg5NTQzNSwyMTk2MDUwOTYsLTIwNjY4MzQ2NzksMTc5ODE4
+MTg4NCwxNzk4MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1ND
+AsLTc2NjcxMjk0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkz
+NDUwXX0=
 -->
