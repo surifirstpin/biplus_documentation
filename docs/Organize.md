@@ -27,7 +27,7 @@
 <li>the circles displays under what privacy setting is the dashboard saved.</li>
 </ol>
 <blockquote>
-<p>Consider the above image where,</p>
+<p>Consider the below image where,</p>
 <ul>
 <li>Green colour indicates dashboard is saved under public section.</li>
 <li>Red colour indicates dashboard is saved under shared section.</li>
@@ -42,7 +42,7 @@
 <p><img src="https://raw.githubusercontent.com/sv18042016/fp1/759c68367cac74f2715f1c407d74d73a3fda3c09/images/drag&amp;drop.png" alt="enter image description here"></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Nzg5MTg2MywtMTYwMjAzNTU2MSwtNj
-c1OTQxOTc1LC0xMTE0MDI0NjA1LDIwOTIyNjk2ODQsMTM1NjQz
-OTgwNF19
+eyJoaXN0b3J5IjpbLTIxMTM4NzUxMTUsLTE2MDIwMzU1NjEsLT
+Y3NTk0MTk3NSwtMTExNDAyNDYwNSwyMDkyMjY5Njg0LDEzNTY0
+Mzk4MDRdfQ==
 -->
