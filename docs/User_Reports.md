@@ -414,7 +414,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Style** specify a status indicator for measure value such as default, primary, success, warning, info, danger.
 
-##  World chart :
+##  World chart 
 
  It displays the data grouped by specific country and at the same time the grouped data regions are highlighted in the map.
  
@@ -448,7 +448,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 ## Standard Editing Option in Charts
 
-##  General Section :
+##  General Section 
 
 - **Title** specify title for the chart selected.
 
@@ -546,9 +546,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 - **Before number** Align the icon before or after the data.
 
 
-
-
-
 ## SQL Query 
 
 To view the SQL query built on running the report, click on **SQL** Tab in Analysis Section.
@@ -557,11 +554,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDYxMjQ1NDgsLTE2NDkwNDI1NzIsLT
-E4NjQ5NjE4NDAsLTMxNDU0Mzc0MywxNjcxNTc2MzQ5LC05MDUz
-Mjc3MjQsMjY1MTUwMjQsNDk4Nzk2MjQ4LDEyMDA1ODk1NTksLT
-IwMTgwODE4OTMsMTQyODEzMTU0OCwtMTA3NzM3ODM4LC0xNTcz
-NTY0NTA3LDE3NTgzODU5NzQsMTExNDgxODQ2LC0xODU2MTQzNz
-c1LDMwNTEzODQ0LDEyOTEyNjAxNzIsNDMxODUwNzMyLC0xMzMz
-ODc2OTMwXX0=
+eyJoaXN0b3J5IjpbMTY4MzczMzYzOCwtMTY0OTA0MjU3MiwtMT
+g2NDk2MTg0MCwtMzE0NTQzNzQzLDE2NzE1NzYzNDksLTkwNTMy
+NzcyNCwyNjUxNTAyNCw0OTg3OTYyNDgsMTIwMDU4OTU1OSwtMj
+AxODA4MTg5MywxNDI4MTMxNTQ4LC0xMDc3Mzc4MzgsLTE1NzM1
+NjQ1MDcsMTc1ODM4NTk3NCwxMTE0ODE4NDYsLTE4NTYxNDM3Nz
+UsMzA1MTM4NDQsMTI5MTI2MDE3Miw0MzE4NTA3MzIsLTEzMzM4
+NzY5MzBdfQ==
 -->
