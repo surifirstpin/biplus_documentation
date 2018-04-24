@@ -53,23 +53,24 @@ You can add different reports to the layout selected, depending on the requireme
 
   **BiPlus supports following Types;**
 
-    - **String** For fields that contain letters or special characters.
+   - **String** For fields that contain letters or special characters.
 
-  - **Number** For fields that contain numbers.
+   - **Number** For fields that contain numbers.
 
-  - **Date** For fields that contain dates.
+   - **Date** For fields that contain dates.
 
-  - **Lookup** to view the lookup in dashboard filters it should be defined in lookup section.( Refer point 7)
-
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
-**Image 5**
-
+  
+   - **Lookup** to view the lookup in dashboard filters it should be defined in lookup section.( Refer point 7)
 -   **Filter Name**  identifier name to the filter applicable.
 
 -   **Filter Type**  type of filter user (String,date,number).
 
 -   **Operator**  filter operation that are applicable.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
+**Image 5**
+
+
 
 ## Lookup   
 
@@ -135,7 +136,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODAwNTgxLC0xMTkxOTE0MDg2LC0yMT
+eyJoaXN0b3J5IjpbNzIyMDM4MDAxLC0xMTkxOTE0MDg2LC0yMT
 U4OTU0MzUsMjE5NjA1MDk2LC0yMDY2ODM0Njc5LDE3OTgxODE4
 ODQsMTc5ODE4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC
 03NjY3MTI5NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1
