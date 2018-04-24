@@ -12,7 +12,7 @@ A model is a customized gateway into the database for accessing data as per busi
 
 ## Creating a Project 
 
-> Navigation: Model → Projects → New Project
+> **Navigation: Model → Projects → New Project**
 
 **1.**  Click on  **New Project**  to create a new project.
 
@@ -502,7 +502,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyMDk3MDY4LDIwODExNTIzMzYsOTUwMj
-k4NjksLTE1NjQ1OTM1NTUsLTE5ODQ4Mjk5NzEsNDU0Njk1NTIs
-MTMyMDM5MDUxMF19
+eyJoaXN0b3J5IjpbMTMwMjM2MDc0OCw3MjIwOTcwNjgsMjA4MT
+E1MjMzNiw5NTAyOTg2OSwtMTU2NDU5MzU1NSwtMTk4NDgyOTk3
+MSw0NTQ2OTU1MiwxMzIwMzkwNTEwXX0=
 -->
