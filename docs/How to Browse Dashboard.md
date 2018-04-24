@@ -11,9 +11,11 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 
 **2.** **Set home page icon** is used to set the Dashboard to home page screen.
 
-**3.**  Click on  **Edit** to customize an dashboard  as per your business needs. To Add more filters and Listeners to existing dashboard follow the Navigation;
+**3.**  Click on  **Edit** to customize an dashboard  as per your business needs. 
 
-**Edit→Apply Filters→Add Filters→Add Listener to Filters→Save**
+To Add more filters and Listeners to existing dashboard follow the below path 
+
+>Navigation; **Edit→Apply Filters→Add Filters→Add Listener to Filters→Save**
 
 **4.** To delete a  dashboard click on **Delete Icon**.
 
@@ -43,5 +45,5 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/35a4b17268dcc549813d9dcac60570169e5da758/images/browse_dash2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzk4MjYxNF19
+eyJoaXN0b3J5IjpbNjc1NTI4ODc2LDEyMzc5ODI2MTRdfQ==
 -->
