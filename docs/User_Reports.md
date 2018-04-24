@@ -249,7 +249,7 @@ Bar charts are used to compare data across different categories. You can build a
 ](https://raw.githubusercontent.com/sv18042016/fp1/c21c91b0c8f9e243362fbefc44279936c6021d12/images/bar_chart.png)
 
 
-## Pie Chart :
+## Pie Chart 
 
 This section describes the editing option for Pie chart in visualization. 
  
@@ -309,7 +309,7 @@ This section describes the editing option for Pie chart in visualization.
 
 - **Curve** it maximize and minimize the surface area in radar chart.
 
-## Bubble chart :
+## Bubble chart 
 
 It is used to display the data in circles. We can define each bubble using any of our Dimension value and size by Measure value.
  
@@ -318,7 +318,7 @@ It is used to display the data in circles. We can define each bubble using any o
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d07e80177a8a6fe04619cfb40058e9789b142e88/images/bubble_chart.png)
 
-## Funnel chart :
+## Funnel chart 
 
 Funnels helps to visualize a process that has stages and items flow sequentially from one stage to the next. Use a funnel when there is a sequential flow between stages, such as a sales process that starts with inquiry and ends with billing.
  
@@ -346,7 +346,7 @@ Using BiPlus you can view the funnel charts in different formats using the below
  - **Load Animation** on selecting this check box the column values in funnel chart will appear as moving image.
 
 
-##  Gauge Chart :
+##  Gauge Chart 
 
 Gauge chart displays current status in the context of goal.
 
@@ -380,7 +380,7 @@ Gauge chart displays current status in the context of goal.
 
 - **Hide Minmax**  hides min and maximum values in gauge target.
 
-## Table chart :
+## Table chart 
  
 Table chart displays the data in series making it more feasible for comparing dimensions and measure values.
  
@@ -389,7 +389,7 @@ Table chart displays the data in series making it more feasible for comparing di
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b6e598ee67160c266bb9d4d30a423f520880bf63/images/table_chart.png)
 
-## Widget chart :
+## Widget chart 
 
 It displays one or more data series as a data graph. Widget chart is used to display the number of records created today. number of Incidents by status or department.
 
@@ -557,11 +557,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDkwNDI1NzIsLTE4NjQ5NjE4NDAsLT
-MxNDU0Mzc0MywxNjcxNTc2MzQ5LC05MDUzMjc3MjQsMjY1MTUw
-MjQsNDk4Nzk2MjQ4LDEyMDA1ODk1NTksLTIwMTgwODE4OTMsMT
-QyODEzMTU0OCwtMTA3NzM3ODM4LC0xNTczNTY0NTA3LDE3NTgz
-ODU5NzQsMTExNDgxODQ2LC0xODU2MTQzNzc1LDMwNTEzODQ0LD
-EyOTEyNjAxNzIsNDMxODUwNzMyLC0xMzMzODc2OTMwLDQ1MTUx
-NTMwNl19
+eyJoaXN0b3J5IjpbLTE0NDYxMjQ1NDgsLTE2NDkwNDI1NzIsLT
+E4NjQ5NjE4NDAsLTMxNDU0Mzc0MywxNjcxNTc2MzQ5LC05MDUz
+Mjc3MjQsMjY1MTUwMjQsNDk4Nzk2MjQ4LDEyMDA1ODk1NTksLT
+IwMTgwODE4OTMsMTQyODEzMTU0OCwtMTA3NzM3ODM4LC0xNTcz
+NTY0NTA3LDE3NTgzODU5NzQsMTExNDgxODQ2LC0xODU2MTQzNz
+c1LDMwNTEzODQ0LDEyOTEyNjAxNzIsNDMxODUwNzMyLC0xMzMz
+ODc2OTMwXX0=
 -->
