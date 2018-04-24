@@ -116,6 +116,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0fb2c0fe9fbc99b6ac2cd3d818fe7533a74872b8/images/2018-02-06_16-09-56.png)
  **Image 6**
+ 
 ## Edit / Delete Dashboard
 
 **10.** Click  **Edit**  Button to make changes to the dashboard created.
@@ -127,9 +128,9 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDE1NDk5OCwtMjA4NzUxOTA5OSwtMT
-E5MTkxNDA4NiwtMjE1ODk1NDM1LDIxOTYwNTA5NiwtMjA2Njgz
-NDY3OSwxNzk4MTgxODg0LDE3OTgxODE4ODQsLTI2NjczMjg4NS
-wtMTk2NzY2OTU0MCwtNzY2NzEyOTQ5LDMzODkzNDUwLDE1NDkx
-ODgxNTMsMzM4OTM0NTBdfQ==
+eyJoaXN0b3J5IjpbLTE4NzMzNTgzMjYsLTk3MDE1NDk5OCwtMj
+A4NzUxOTA5OSwtMTE5MTkxNDA4NiwtMjE1ODk1NDM1LDIxOTYw
+NTA5NiwtMjA2NjgzNDY3OSwxNzk4MTgxODg0LDE3OTgxODE4OD
+QsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEyOTQ5LDMz
+ODkzNDUwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
 -->
