@@ -34,8 +34,8 @@ To Add more filters and Listeners to existing dashboard follow the below path;
 
 **8.** To download a report in CSV format select **Download CSV** in gear drop down in the report section of dashboard that display the tabular or data section of the report.
  At present, you can download dashboard reports in following formats,
- - CSV
- - .XLS
+- CSV
+- .XLS
 -  PNG
 
 **9.**  To download the **Visualization Image** of the report,  Select **Show Visualization** in gear drop down then, select  **Download Image** in the report section of dashboard.
@@ -45,5 +45,6 @@ To Add more filters and Listeners to existing dashboard follow the below path;
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/35a4b17268dcc549813d9dcac60570169e5da758/images/browse_dash2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDM4OTE0LDEyMzc5ODI2MTRdfQ==
+eyJoaXN0b3J5IjpbLTE0NDY5NjYxODQsMTc3MDM4OTE0LDEyMz
+c5ODI2MTRdfQ==
 -->
