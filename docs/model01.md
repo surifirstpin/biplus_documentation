@@ -396,7 +396,7 @@ In the above example, Drill down option is defined over field “State Name” w
 
 As  **Show drill down measures**  is set  **TRUE**, the associated measures (if exists) of the field “State Name” will also be brought to the next stage along with drill fields City Name and No_of_Employees.
 
-### Maps:
+### Maps
 
 BiPlus provides map view by covering various number of countries. Also, there are special attributes like colour change for specific range of values.
  **For Model, Views and for a specific field the map co-ordinates  may be assigned as follows :**
@@ -502,7 +502,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTE1MjMzNiw5NTAyOTg2OSwtMTU2ND
-U5MzU1NSwtMTk4NDgyOTk3MSw0NTQ2OTU1MiwxMzIwMzkwNTEw
-XX0=
+eyJoaXN0b3J5IjpbNzIyMDk3MDY4LDIwODExNTIzMzYsOTUwMj
+k4NjksLTE1NjQ1OTM1NTUsLTE5ODQ4Mjk5NzEsNDU0Njk1NTIs
+MTMyMDM5MDUxMF19
 -->
