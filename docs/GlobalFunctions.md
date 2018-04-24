@@ -24,10 +24,12 @@ function myfunction(param1,param2,ParamN)
 ```
 > **Note :** You can add your code in function body only.
 
-> For Instance Refer Below;
-```
-                                                       * My Custom function*
 
+> For Instance Refer Below;
+
+
+```
+                                                       * My Custom function *
 /*START*/ 
 function _Addition(param1,param2)
 {
@@ -37,7 +39,9 @@ function _Addition(param1,param2)
 /*END*/
                                            * Returns value 3, if we provide 1 and 2 in Test*
 ```
+
 **2.** Click on **Test** Button  to run the function.
+
 **3.** Click on **Save** Button to save the function.
 
 
@@ -62,6 +66,6 @@ This functions supports all the native java script supported functions and also 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTU4MDczNiw1Nzg0OTIwODMsNjU5Nj
-kzMTI3LDE2NTA1MzI3NjFdfQ==
+eyJoaXN0b3J5IjpbLTExMzMxNjM1OTYsNTc4NDkyMDgzLDY1OT
+Y5MzEyNywxNjUwNTMyNzYxXX0=
 -->
