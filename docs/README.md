@@ -100,10 +100,10 @@ The component has been designed in such a way, that it ensure maximum speed  and
 # AcuBi ADVANTAGES
 
 
-## Analyse
 
-Interactive visual analytics, allows you to explore the data and instinctively get the answers you need.
+## Automation
 
+Incorporate powerful self-service BI , Without any manual data by making everyone a powerful analyst.
 
 ## Cloud-Connected
 
@@ -164,6 +164,6 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjA4NzkxNSwtMjA3Mjg1MTA4NSw0Mj
-QzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTEyNzM5MjI2NzksLTI2NjA4NzkxNSwtMj
+A3Mjg1MTA4NSw0MjQzNTc4MzFdfQ==
 -->
