@@ -114,9 +114,6 @@ It's cloud architecture allows users, teams and IT departments to instantly shar
 It is integrated into current software very easily and allows you to re-brand there dashboards reports as desired.
 
 
-## Access to All
-Incorporate powerful self-service BI , Without any manual data by making everyone a powerful analyst.
-
 # Key Features
 
 ## Simple
@@ -164,6 +161,6 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzM5MjI2NzksLTI2NjA4NzkxNSwtMj
-A3Mjg1MTA4NSw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbMTM0MzM3MDU3OCwtMjY2MDg3OTE1LC0yMD
+cyODUxMDg1LDQyNDM1NzgzMV19
 -->
