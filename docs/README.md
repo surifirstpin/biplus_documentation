@@ -77,8 +77,8 @@ When it comes to business establishment and success, our software is an innovati
 
 Acubi retrieves the most recent data and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time in data management.
 
-Data Manipulation
-Easily combine all your data sources, no matter how large it is, into a single view and convert for more expressive and descriptive data fields and analysis.
+### Data Manipulation
+Easily combine all your data sources, no matter how large it is, into a single view and convert for more expressive and descriptive data fields and analysis. Further to this usage of "Drill-down" to explore your data as deep as you like more efficiently. 
 #### Combined Data
 Easily combine all your data sources, no matter how large it is, into a single view and convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis.
 
@@ -168,6 +168,6 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyOTI5NzY4NSwtMjA3Mjg1MTA4NSw0Mj
-QzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbNDI5NzA5NjQ1LC0yMDcyODUxMDg1LDQyND
+M1NzgzMV19
 -->
