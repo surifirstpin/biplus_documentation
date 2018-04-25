@@ -76,7 +76,7 @@ When it comes to business establishment and success, our software is an innovati
 #### Benefits of Live Data
 
 Acubi retrieves the most recent data and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time in data management.
-
+Data Manipulation
 #### Combined Data
 Easily combine all your data sources, no matter how large it is, into a single view and convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis.
 
@@ -166,5 +166,6 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI4NTEwODUsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTIwNjAxNTM1NzgsLTIwNzI4NTEwODUsND
+I0MzU3ODMxXX0=
 -->
