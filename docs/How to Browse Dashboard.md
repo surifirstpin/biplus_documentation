@@ -1,7 +1,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 
-Dashboard provides access to view multiple reports in single dashboard layout, in this way it provides a quick view on related data. 
+Dashboard provides you an access to view multiple reports in single dashboard layout, in this way it provides a quick view on related data. 
 
 ## Getting Started
 
@@ -45,6 +45,6 @@ To Add more filters and Listeners to existing dashboard follow the below path;
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/35a4b17268dcc549813d9dcac60570169e5da758/images/browse_dash2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDY5NjYxODQsMTc3MDM4OTE0LDEyMz
-c5ODI2MTRdfQ==
+eyJoaXN0b3J5IjpbMjExMjY5Mzg3OCwtMTQ0Njk2NjE4NCwxNz
+cwMzg5MTQsMTIzNzk4MjYxNF19
 -->
