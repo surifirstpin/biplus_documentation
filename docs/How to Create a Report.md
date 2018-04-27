@@ -70,7 +70,7 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 To freeze the column field values while scrolling the data to right or left, click on **Pin** in field drop down provided and to release the same click on **Remove Pin.** **( Refer image 4)**
 
 ## Group / Un-Group
-You can view the consolidated value of the field by setting **Group** option for fields you can group the data and display the consolidated value of the field. To carry out this function click on **Group** in field drop down provided and to release the same click on **Un-Group**. **( Refer image 4)**
+You can view the consolidated value of the field by setting **Group** option for fields. To carry out this function click on **Group** in field drop down provided and to release the same click on **Un-Group**( Refer image 4).**
 
 ## Find
 
@@ -553,11 +553,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTkwMDgsLTk0NTg1ODU5MCwtMTMyNT
-AzNTA3NiwxNjgzNzMzNjM4LC0xNjQ5MDQyNTcyLC0xODY0OTYx
-ODQwLC0xMzA3MDcwMDIsMTQ1NTk1MTY5Miw3NzI1MTA2NjcsLT
-MxNDU0Mzc0MywxNjcxNTc2MzQ5LC05MDUzMjc3MjQsMjY1MTUw
-MjQsNDk4Nzk2MjQ4LDEyMDA1ODk1NTksLTIwMTgwODE4OTMsMT
-QyODEzMTU0OCwtMTA3NzM3ODM4LC0xNTczNTY0NTA3LDE3NTgz
-ODU5NzRdfQ==
+eyJoaXN0b3J5IjpbMjA3OTU0MTkxMywtOTQ1ODU4NTkwLC0xMz
+I1MDM1MDc2LDE2ODM3MzM2MzgsLTE2NDkwNDI1NzIsLTE4NjQ5
+NjE4NDAsLTEzMDcwNzAwMiwxNDU1OTUxNjkyLDc3MjUxMDY2Ny
+wtMzE0NTQzNzQzLDE2NzE1NzYzNDksLTkwNTMyNzcyNCwyNjUx
+NTAyNCw0OTg3OTYyNDgsMTIwMDU4OTU1OSwtMjAxODA4MTg5My
+wxNDI4MTMxNTQ4LC0xMDc3Mzc4MzgsLTE1NzM1NjQ1MDcsMTc1
+ODM4NTk3NF19
 -->
