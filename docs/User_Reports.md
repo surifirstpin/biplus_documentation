@@ -74,16 +74,16 @@ You can view the consolidated value of the field by setting **Group** option for
 
 ## Find
 
-To find the specific data of the field from retrieved list, click on **Find** in the field drop down and enter the specific field value you want to view.**( Refer image 4)**
+To find the specific data of the field from retrieved list, click on **Find** in the field drop down and enter the field value you want to view.**( Refer image 4)**
 
 
 ## Field Visualization On / Off
 
-To hide the specific field in the visualization charts click on **Hide Visualization** in the drop down of field  and to display the same click on **Show visualization****( Refer image 4)**
+To hide a field in the visualization charts click on **Hide Visualization** in the drop down of field  and to display the same click on **Show visualization**( Refer image 4).
 
 ## Remove
 
-To remove a specific field column from the extracted list click on **Remove** in drop down list of the field.**( Refer image 4)**
+To remove a specific field from the extracted list click on **Remove** in drop down list of the field( Refer image 4)
 
 
 ![
@@ -553,11 +553,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTU0MTkxMywtMTMyNTAzNTA3NiwxNj
-gzNzMzNjM4LC0xNjQ5MDQyNTcyLC0xODY0OTYxODQwLC0zMTQ1
-NDM3NDMsMTY3MTU3NjM0OSwtOTA1MzI3NzI0LDI2NTE1MDI0LD
-Q5ODc5NjI0OCwxMjAwNTg5NTU5LC0yMDE4MDgxODkzLDE0Mjgx
-MzE1NDgsLTEwNzczNzgzOCwtMTU3MzU2NDUwNywxNzU4Mzg1OT
-c0LDExMTQ4MTg0NiwtMTg1NjE0Mzc3NSwzMDUxMzg0NCwxMjkx
-MjYwMTcyXX0=
+eyJoaXN0b3J5IjpbLTIwNjkxMjM1OTUsLTEzMjUwMzUwNzYsMT
+Y4MzczMzYzOCwtMTY0OTA0MjU3MiwtMTg2NDk2MTg0MCwtMzE0
+NTQzNzQzLDE2NzE1NzYzNDksLTkwNTMyNzcyNCwyNjUxNTAyNC
+w0OTg3OTYyNDgsMTIwMDU4OTU1OSwtMjAxODA4MTg5MywxNDI4
+MTMxNTQ4LC0xMDc3Mzc4MzgsLTE1NzM1NjQ1MDcsMTc1ODM4NT
+k3NCwxMTE0ODE4NDYsLTE4NTYxNDM3NzUsMzA1MTM4NDQsMTI5
+MTI2MDE3Ml19
 -->
