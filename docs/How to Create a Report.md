@@ -4,13 +4,13 @@ BiPlus Reports displays the retrieved data list in the desired combinations as p
 
 **1.** Click on **Analyse section.**
 
-**2.** Select Desired combination of **Project** and **Model** from the drop down list at top left of analysis section, Baseddepending on which you can extract the data.
+**2.** Select Desired combination of **Project** and **Model** from the drop down list at top left of analysis section, Based on which data is extracted.
 
 **3.**  Select one or more **Dimension fields** ( Grey fields) to access and group your data.
 
 **4.** Select one or more **Measure fields** (Orange fields) to add information about those groups or data such as Sum, Count, Max, Min and  Avg etc. 
 
-**5.** To retrieve the data based on filters applied , add a **Filter** to your report based on that field.
+**5.** To retrieve the data based on filters applied, add a **Filter** to your report based on that field.
  
  > **Note :**  The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are not visible while retrieving the data in data section. 
 
@@ -554,11 +554,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDExNTg0MSwxNjgzNzMzNjM4LC0xNj
-Q5MDQyNTcyLC0xODY0OTYxODQwLC0xMzA3MDcwMDIsMTQ1NTk1
-MTY5Miw3NzI1MTA2NjcsLTMxNDU0Mzc0MywxNjcxNTc2MzQ5LC
-05MDUzMjc3MjQsMjY1MTUwMjQsNDk4Nzk2MjQ4LDEyMDA1ODk1
-NTksLTIwMTgwODE4OTMsMTQyODEzMTU0OCwtMTA3NzM3ODM4LC
-0xNTczNTY0NTA3LDE3NTgzODU5NzQsMTExNDgxODQ2LC0xODU2
-MTQzNzc1XX0=
+eyJoaXN0b3J5IjpbLTEzMjUwMzUwNzYsMTY4MzczMzYzOCwtMT
+Y0OTA0MjU3MiwtMTg2NDk2MTg0MCwtMTMwNzA3MDAyLDE0NTU5
+NTE2OTIsNzcyNTEwNjY3LC0zMTQ1NDM3NDMsMTY3MTU3NjM0OS
+wtOTA1MzI3NzI0LDI2NTE1MDI0LDQ5ODc5NjI0OCwxMjAwNTg5
+NTU5LC0yMDE4MDgxODkzLDE0MjgxMzE1NDgsLTEwNzczNzgzOC
+wtMTU3MzU2NDUwNywxNzU4Mzg1OTc0LDExMTQ4MTg0NiwtMTg1
+NjE0Mzc3NV19
 -->
