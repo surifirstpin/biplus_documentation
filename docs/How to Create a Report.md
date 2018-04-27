@@ -4,7 +4,7 @@ BiPlus Reports displays the retrieved data list in the desired combinations as p
 
 **1.** Click on **Analyse section.**
 
-**2.** Select Desired **Project** and **Model** at top left of analysis section, from the drop down list, depending on which you want to extract the data.
+**2.** Select Desired combination of **Project** and **Model** from the drop down list at top left of analysis section, Baseddepending on which you can extract the data.
 
 **3.**  Select one or more **Dimension fields** ( Grey fields) to access and group your data.
 
@@ -554,7 +554,7 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzU4NTYyMywxNjgzNzMzNjM4LC0xNj
+eyJoaXN0b3J5IjpbLTk0MDExNTg0MSwxNjgzNzMzNjM4LC0xNj
 Q5MDQyNTcyLC0xODY0OTYxODQwLC0xMzA3MDcwMDIsMTQ1NTk1
 MTY5Miw3NzI1MTA2NjcsLTMxNDU0Mzc0MywxNjcxNTc2MzQ5LC
 05MDUzMjc3MjQsMjY1MTUwMjQsNDk4Nzk2MjQ4LDEyMDA1ODk1
