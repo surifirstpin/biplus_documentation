@@ -23,10 +23,10 @@ BiPlus Reports displays the retrieved data list in the desired combinations as p
 
 ## Order  (Ascending / Descending)
 
-To view the data extracted for particular field in ascending or descending orders, add the column fields in order section to carry out the sorting on the field values.
+To view the data extracted for particular field in ascending or descending orders, add the field in order section to carry out this function.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/sorting1.png) Image 2
+](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/sorting1.png) **Image 2**
 
 ## Local Sorting
 
@@ -43,7 +43,7 @@ For **Measures**
 - Click on down arrow to enable ascending order.
  
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/local_sorting.png) Image 3
+](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/local_sorting.png) **Image 3**
 
 ## Display Totals
 
@@ -554,11 +554,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTg1ODU5MCwtMTMyNTAzNTA3NiwxNj
-gzNzMzNjM4LC0xNjQ5MDQyNTcyLC0xODY0OTYxODQwLC0xMzA3
-MDcwMDIsMTQ1NTk1MTY5Miw3NzI1MTA2NjcsLTMxNDU0Mzc0My
-wxNjcxNTc2MzQ5LC05MDUzMjc3MjQsMjY1MTUwMjQsNDk4Nzk2
-MjQ4LDEyMDA1ODk1NTksLTIwMTgwODE4OTMsMTQyODEzMTU0OC
-wtMTA3NzM3ODM4LC0xNTczNTY0NTA3LDE3NTgzODU5NzQsMTEx
-NDgxODQ2XX0=
+eyJoaXN0b3J5IjpbMTg0MTI4NjM5OCwtOTQ1ODU4NTkwLC0xMz
+I1MDM1MDc2LDE2ODM3MzM2MzgsLTE2NDkwNDI1NzIsLTE4NjQ5
+NjE4NDAsLTEzMDcwNzAwMiwxNDU1OTUxNjkyLDc3MjUxMDY2Ny
+wtMzE0NTQzNzQzLDE2NzE1NzYzNDksLTkwNTMyNzcyNCwyNjUx
+NTAyNCw0OTg3OTYyNDgsMTIwMDU4OTU1OSwtMjAxODA4MTg5My
+wxNDI4MTMxNTQ4LC0xMDc3Mzc4MzgsLTE1NzM1NjQ1MDcsMTc1
+ODM4NTk3NF19
 -->
