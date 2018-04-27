@@ -1,6 +1,7 @@
 <center><h1>Dashboard</h1></center>
 
-Dashboard provides access to view multiple reports in single dashboard layout, in this way it provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive and can re-arrange the titles. After configuring a dashboard to your interest, you can share it with your team. You can create as many dashboards as you want, so you can tailor each dashboard to the specific needs of the people who use it.
+Dashboard provides access to view multiple reports in single dashboard layout, in this way it provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive and can re-arrange the titles. After configuring a dashboard to your interest, you can share it with your team. You can create as many dashboards as you want, so you can alter each dashboard to the specific needs of the people who use it.
+
 ## View Dashboard
 
  To View a saved dashboard report navigate to dashboard report and select it.
@@ -127,7 +128,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzcxNDc3MywtMTg3MzM1ODMyNiwtOT
+eyJoaXN0b3J5IjpbMTA2Njc5NDY2OCwtMTg3MzM1ODMyNiwtOT
 cwMTU0OTk4LC0yMDg3NTE5MDk5LC0xMTkxOTE0MDg2LC0yMTU4
 OTU0MzUsMjE5NjA1MDk2LC0yMDY2ODM0Njc5LDE3OTgxODE4OD
 QsMTc5ODE4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC03
