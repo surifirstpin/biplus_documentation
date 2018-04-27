@@ -4,7 +4,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 
-Dashboard provides you an access to view multiple reports in single dashboard layout. 
+Dashboard provides access to view multiple reports in single dashboard layout, in this way it provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive.
 
 ## Getting Started
 
@@ -103,5 +103,5 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyMDcyNzIxXX0=
+eyJoaXN0b3J5IjpbNjc4Nzc1NjksMjIyMDcyNzIxXX0=
 -->
