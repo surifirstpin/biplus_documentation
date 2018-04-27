@@ -23,7 +23,7 @@ BiPlus Reports displays the retrieved data list in the desired combinations as p
 
 ## Order  (Ascending / Descending)
 
-To view the column data in ascending or descending orders , add the column fields in order section to carry out the sorting on the field values.
+To view the data extracted for particular field in ascending or descending orders, add the column fields in order section to carry out the sorting on the field values.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/sorting1.png) Image 2
@@ -554,11 +554,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjUwMzUwNzYsMTY4MzczMzYzOCwtMT
-Y0OTA0MjU3MiwtMTg2NDk2MTg0MCwtMTMwNzA3MDAyLDE0NTU5
-NTE2OTIsNzcyNTEwNjY3LC0zMTQ1NDM3NDMsMTY3MTU3NjM0OS
-wtOTA1MzI3NzI0LDI2NTE1MDI0LDQ5ODc5NjI0OCwxMjAwNTg5
-NTU5LC0yMDE4MDgxODkzLDE0MjgxMzE1NDgsLTEwNzczNzgzOC
-wtMTU3MzU2NDUwNywxNzU4Mzg1OTc0LDExMTQ4MTg0NiwtMTg1
-NjE0Mzc3NV19
+eyJoaXN0b3J5IjpbLTk0NTg1ODU5MCwtMTMyNTAzNTA3NiwxNj
+gzNzMzNjM4LC0xNjQ5MDQyNTcyLC0xODY0OTYxODQwLC0xMzA3
+MDcwMDIsMTQ1NTk1MTY5Miw3NzI1MTA2NjcsLTMxNDU0Mzc0My
+wxNjcxNTc2MzQ5LC05MDUzMjc3MjQsMjY1MTUwMjQsNDk4Nzk2
+MjQ4LDEyMDA1ODk1NTksLTIwMTgwODE4OTMsMTQyODEzMTU0OC
+wtMTA3NzM3ODM4LC0xNTczNTY0NTA3LDE3NTgzODU5NzQsMTEx
+NDgxODQ2XX0=
 -->
