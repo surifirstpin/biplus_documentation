@@ -24,7 +24,7 @@ To Add more filters and Listeners to existing dashboard follow the below path;
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/35a4b17268dcc549813d9dcac60570169e5da758/images/browse_dash1.png)
 
- To open a  dashboard  click on  dashboard name in the list and it will display set of options as described below,
+ To open a  dashboard  click on  dashboard name ( **Eg**: Employee Salary Report) in the list and it will display set of options as described below,
 
 **6. Filter** section available on top left of the  dashboard  screen, displays already existing filters in a report. 
 
@@ -45,6 +45,6 @@ To Add more filters and Listeners to existing dashboard follow the below path;
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/35a4b17268dcc549813d9dcac60570169e5da758/images/browse_dash2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjU3NzYxMzgsLTE0NDY5NjYxODQsMT
-c3MDM4OTE0LDEyMzc5ODI2MTRdfQ==
+eyJoaXN0b3J5IjpbLTIwNTk0ODg0MDksLTIwMjU3NzYxMzgsLT
+E0NDY5NjYxODQsMTc3MDM4OTE0LDEyMzc5ODI2MTRdfQ==
 -->
