@@ -83,7 +83,7 @@ To hide a field in the visualization charts click on **Hide Visualization** in t
 
 ## Remove
 
-To remove a specific field from the extracted list click on **Remove** in drop down list of the field( Refer image 4)
+To remove a specific field from the extracted list click on **Remove** in drop down list of the field( Refer image 4).
 
 
 ![
@@ -95,7 +95,7 @@ To remove a specific field from the extracted list click on **Remove** in drop d
 
 Using BiPlus, you can apply Multi-level grouping to the data extracted. consider the below example for more detailed description on multi level grouping.
 
-> **For instance** : in the below image grouping has been applied to 2 dimension fields **Station code** and **Whenmade (hour).** In retrieved data on expanding Station code it displays the perspective number of records available in that particular **Whenmade (hour),** on Further Expansion, it displays the total number of records obtained in that hour ( (orderid)
+> **For instance** : in the below image grouping has been applied to 2 dimension fields **Station code** and **Whenmade (hour).** In retrieved data on expanding Station code it displays the perspective number of records available in that particular **Whenmade (hour),** on Further Expansion, it displays the total number of records obtained in that hour  **(orderid).**
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/52f9fddc123da5bed6b9b929c546d86539a859b9/images/multi_level_grouping_ur.png) **Image 5**
@@ -103,7 +103,7 @@ Using BiPlus, you can apply Multi-level grouping to the data extracted. consider
 
 ## Calculated Column
 
-All the mathematical and logical calculation are carried out in a report using Calculated column
+All the mathematical and logical calculation are carried out in a report using Calculated column.
 
 Click on **Calculated column** button to enable table calculations **(Refer image 5).**
 
@@ -553,11 +553,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjkxMjM1OTUsLTEzMjUwMzUwNzYsMT
-Y4MzczMzYzOCwtMTY0OTA0MjU3MiwtMTg2NDk2MTg0MCwtMzE0
-NTQzNzQzLDE2NzE1NzYzNDksLTkwNTMyNzcyNCwyNjUxNTAyNC
-w0OTg3OTYyNDgsMTIwMDU4OTU1OSwtMjAxODA4MTg5MywxNDI4
-MTMxNTQ4LC0xMDc3Mzc4MzgsLTE1NzM1NjQ1MDcsMTc1ODM4NT
-k3NCwxMTE0ODE4NDYsLTE4NTYxNDM3NzUsMzA1MTM4NDQsMTI5
-MTI2MDE3Ml19
+eyJoaXN0b3J5IjpbOTE4NjE0MjA3LC0xMzI1MDM1MDc2LDE2OD
+M3MzM2MzgsLTE2NDkwNDI1NzIsLTE4NjQ5NjE4NDAsLTMxNDU0
+Mzc0MywxNjcxNTc2MzQ5LC05MDUzMjc3MjQsMjY1MTUwMjQsND
+k4Nzk2MjQ4LDEyMDA1ODk1NTksLTIwMTgwODE4OTMsMTQyODEz
+MTU0OCwtMTA3NzM3ODM4LC0xNTczNTY0NTA3LDE3NTgzODU5Nz
+QsMTExNDgxODQ2LC0xODU2MTQzNzc1LDMwNTEzODQ0LDEyOTEy
+NjAxNzJdfQ==
 -->
