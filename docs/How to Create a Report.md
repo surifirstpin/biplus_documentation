@@ -95,7 +95,7 @@ To remove a specific field from the extracted list click on **Remove** in drop d
 
 Using BiPlus, you can apply Multi-level grouping to the data extracted. consider the below example for more detailed description on multi level grouping.
 
-> **For instance** : in the below image grouping has been applied to 2 dimension fields **Station code** and **Whenmade (hour).** In retrieved data on expanding Station code it displays the perspective number of records available in that particular **Whenmade (hour),** on Further Expansion, it displays the total number of records obtained in that hour ( (orderid)
+> **For instance** : in the below image grouping has been applied to 2 dimension fields **Station code** and **Whenmade (hour).** In retrieved data on expanding Station code it displays the perspective number of records available in that particular **Whenmade (hour),** on Further Expansion, it displays the total number of records obtained in that hour  **(orderid).**
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/52f9fddc123da5bed6b9b929c546d86539a859b9/images/multi_level_grouping_ur.png) **Image 5**
@@ -103,7 +103,7 @@ Using BiPlus, you can apply Multi-level grouping to the data extracted. consider
 
 ## Calculated Column
 
-All the mathematical and logical calculation are carried out in a report using Calculated column
+All the mathematical and logical calculation are carried out in a report using Calculated column.
 
 Click on **Calculated column** button to enable table calculations **(Refer image 5).**
 
@@ -553,11 +553,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTk3MDkzNTMsLTk0NTg1ODU5MCwtMT
-MyNTAzNTA3NiwxNjgzNzMzNjM4LC0xNjQ5MDQyNTcyLC0xODY0
-OTYxODQwLC0xMzA3MDcwMDIsMTQ1NTk1MTY5Miw3NzI1MTA2Nj
-csLTMxNDU0Mzc0MywxNjcxNTc2MzQ5LC05MDUzMjc3MjQsMjY1
-MTUwMjQsNDk4Nzk2MjQ4LDEyMDA1ODk1NTksLTIwMTgwODE4OT
-MsMTQyODEzMTU0OCwtMTA3NzM3ODM4LC0xNTczNTY0NTA3LDE3
-NTgzODU5NzRdfQ==
+eyJoaXN0b3J5IjpbOTE4NjE0MjA3LC05NDU4NTg1OTAsLTEzMj
+UwMzUwNzYsMTY4MzczMzYzOCwtMTY0OTA0MjU3MiwtMTg2NDk2
+MTg0MCwtMTMwNzA3MDAyLDE0NTU5NTE2OTIsNzcyNTEwNjY3LC
+0zMTQ1NDM3NDMsMTY3MTU3NjM0OSwtOTA1MzI3NzI0LDI2NTE1
+MDI0LDQ5ODc5NjI0OCwxMjAwNTg5NTU5LC0yMDE4MDgxODkzLD
+E0MjgxMzE1NDgsLTEwNzczNzgzOCwtMTU3MzU2NDUwNywxNzU4
+Mzg1OTc0XX0=
 -->
