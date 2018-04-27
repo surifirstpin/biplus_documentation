@@ -23,10 +23,10 @@ BiPlus Reports displays the retrieved data list in the desired combinations as p
 
 ## Order  (Ascending / Descending)
 
-To view the data extracted for particular field in ascending or descending orders, add the column fields in order section to carry out the sorting on the field values.
+To view the data extracted for particular field in ascending or descending orders, add the field in order section to carry out this function.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/sorting1.png) Image 2
+](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/sorting1.png) **Image 2**
 
 ## Local Sorting
 
@@ -554,7 +554,7 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTg1ODU5MCwtMTMyNTAzNTA3NiwxNj
+eyJoaXN0b3J5IjpbMTQ0MzA4MDA2MiwtMTMyNTAzNTA3NiwxNj
 gzNzMzNjM4LC0xNjQ5MDQyNTcyLC0xODY0OTYxODQwLC0zMTQ1
 NDM3NDMsMTY3MTU3NjM0OSwtOTA1MzI3NzI0LDI2NTE1MDI0LD
 Q5ODc5NjI0OCwxMjAwNTg5NTU5LC0yMDE4MDgxODkzLDE0Mjgx
