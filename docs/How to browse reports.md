@@ -47,7 +47,7 @@ I. Select dimension field **Employee Phone** and at the same time click **Add Ru
 
 II. **Run** the report to extract the data with one more new dimension field (Phone) and new filter value ( salary equals to 15000). 
 
-III. finally by s**Save** the report, it will navigate to save explore page.
+III. finally by selecting **Save** , it will navigate to save explore page.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b0099f7179ee34c8f8492190d526ece2479b23b6/images/browse_rep3.png)
@@ -82,11 +82,11 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzU1NDYzMCwxNjMzMTEzMjc2LDU5MT
-QyNDkyNiwtMTI4MzgzNzMyNiwyMjgyMTAwMzQsMTA2NTExMDc4
-MywyODY0NjYzMzgsMzUwOTA0MjE4LDg4MTQ5Mzk5LC03MzIxNj
-YwNjMsLTEwMDQxNjUwMzUsLTY1NzcxNzY0OSwtMTMyNjE0Njc5
-NSwtMTg5OTE3ODI5OCwtMTgxNzc1MDQzMCwtNDE5NDcyNDcsLT
-E1NTI3ODI3NjcsMTY4MTczNTg3OCwtMTYxODA5NzczMCwtMjAz
-MjAxMTYxOV19
+eyJoaXN0b3J5IjpbLTEyOTgwMDY2NzQsMTYzMzExMzI3Niw1OT
+E0MjQ5MjYsLTEyODM4MzczMjYsMjI4MjEwMDM0LDEwNjUxMTA3
+ODMsMjg2NDY2MzM4LDM1MDkwNDIxOCw4ODE0OTM5OSwtNzMyMT
+Y2MDYzLC0xMDA0MTY1MDM1LC02NTc3MTc2NDksLTEzMjYxNDY3
+OTUsLTE4OTkxNzgyOTgsLTE4MTc3NTA0MzAsLTQxOTQ3MjQ3LC
+0xNTUyNzgyNzY3LDE2ODE3MzU4NzgsLTE2MTgwOTc3MzAsLTIw
+MzIwMTE2MTldfQ==
 -->
