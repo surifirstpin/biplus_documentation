@@ -51,7 +51,7 @@ For **Measures,**
 
  ## Display  Row Limit
 
-  You can limit the rows extracted to 100, 500, 1000, 5000, etc selecting the limit value to your desired number from drop down list.                                                          
+ You can limit the rows extracted to 100, 500, 1000, 5000, etc by setting the **limit** value to your desired number from drop down list.                                                          
 
 ## Pivot table
 
@@ -554,11 +554,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjQ2NTQzNiwtMTMyNTAzNTA3NiwxNj
-gzNzMzNjM4LC0xNjQ5MDQyNTcyLC0xODY0OTYxODQwLC0zMTQ1
-NDM3NDMsMTY3MTU3NjM0OSwtOTA1MzI3NzI0LDI2NTE1MDI0LD
-Q5ODc5NjI0OCwxMjAwNTg5NTU5LC0yMDE4MDgxODkzLDE0Mjgx
-MzE1NDgsLTEwNzczNzgzOCwtMTU3MzU2NDUwNywxNzU4Mzg1OT
-c0LDExMTQ4MTg0NiwtMTg1NjE0Mzc3NSwzMDUxMzg0NCwxMjkx
-MjYwMTcyXX0=
+eyJoaXN0b3J5IjpbLTE4NjQ5MDgxMTEsLTEzMjUwMzUwNzYsMT
+Y4MzczMzYzOCwtMTY0OTA0MjU3MiwtMTg2NDk2MTg0MCwtMzE0
+NTQzNzQzLDE2NzE1NzYzNDksLTkwNTMyNzcyNCwyNjUxNTAyNC
+w0OTg3OTYyNDgsMTIwMDU4OTU1OSwtMjAxODA4MTg5MywxNDI4
+MTMxNTQ4LC0xMDc3Mzc4MzgsLTE1NzM1NjQ1MDcsMTc1ODM4NT
+k3NCwxMTE0ODE4NDYsLTE4NTYxNDM3NzUsMzA1MTM4NDQsMTI5
+MTI2MDE3Ml19
 -->
