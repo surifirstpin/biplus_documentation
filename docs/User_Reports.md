@@ -4,13 +4,13 @@ BiPlus Reports displays the retrieved data list in the desired combinations as p
 
 **1.** Click on **Analyse section.**
 
-**2.** Select Desired combination of **Project** and **Model** from the drop down list at top left of analysis sectiondepending on which you can extract the data.
+**2.** Select Desired combination of **Project** and **Model** from the drop down list at top left of analysis section, Based on which data is extracted.
 
 **3.**  Select one or more **Dimension fields** ( Grey fields) to access and group your data.
 
 **4.** Select one or more **Measure fields** (Orange fields) to add information about those groups or data such as Sum, Count, Max, Min and  Avg etc. 
 
-**5.** To retrieve the data based on filters applied , add a **Filter** to your report based on that field.
+**5.** To retrieve the data based on filters applied, add a **Filter** to your report based on that field.
  
  > **Note :**  The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are not visible while retrieving the data in data section. 
 
@@ -554,7 +554,7 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzY4MzMwOTYsMTY4MzczMzYzOCwtMT
+eyJoaXN0b3J5IjpbLTEzMjUwMzUwNzYsMTY4MzczMzYzOCwtMT
 Y0OTA0MjU3MiwtMTg2NDk2MTg0MCwtMzE0NTQzNzQzLDE2NzE1
 NzYzNDksLTkwNTMyNzcyNCwyNjUxNTAyNCw0OTg3OTYyNDgsMT
 IwMDU4OTU1OSwtMjAxODA4MTg5MywxNDI4MTMxNTQ4LC0xMDc3
