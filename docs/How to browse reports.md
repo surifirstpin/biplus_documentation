@@ -43,11 +43,11 @@ BiPlus Admin will send you a welcome to BiPlus email. Use the link provided in e
 
 **For Instance** :   Add phone number of the employee to an existing report and also apply filter at same time.
  
-I. Select dimension field **Employee Phone** and click on **Add Rule** to add a new **filter** ( as shown in image 3). 
+I. Select dimension field **Employee Phone** and at the same time click **Add Rule** to add a new **filter** ( as shown in image 3). 
 
-II. Click **Run** to extract the data with one more new dimension field (Phone) and new filter value ( salary equals to 15000). 
+II. **Run** the report to extract the data with one more new dimension field (Phone) and new filter value ( salary equals to 15000). 
 
-III. finally Click **Save** it will navigate to save explore page.
+III. finally by s**Save** the report, it will navigate to save explore page.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b0099f7179ee34c8f8492190d526ece2479b23b6/images/browse_rep3.png)
@@ -82,7 +82,7 @@ Click **Update** button, use **Save as** to save the report with different name.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODk0NTI3MCwxNjMzMTEzMjc2LDU5MT
+eyJoaXN0b3J5IjpbLTUwNzU1NDYzMCwxNjMzMTEzMjc2LDU5MT
 QyNDkyNiwtMTI4MzgzNzMyNiwyMjgyMTAwMzQsMTA2NTExMDc4
 MywyODY0NjYzMzgsMzUwOTA0MjE4LDg4MTQ5Mzk5LC03MzIxNj
 YwNjMsLTEwMDQxNjUwMzUsLTY1NzcxNzY0OSwtMTMyNjE0Njc5
