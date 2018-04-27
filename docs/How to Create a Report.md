@@ -349,7 +349,7 @@ Using BiPlus you can view the funnel charts in different formats using the below
 
 Gauge chart displays current status in the context of goal.
 
- **7.** Click on **gauge** tab under **General** section  to compare the data in Gauge chart.
+ **7.** Click on **Gauge** tab under **General** section  to compare the data in Gauge chart.
 
 - **Green** colour in gauge chart indicates the value attained is closer to target.
 
@@ -553,11 +553,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4NjE0MjA3LC05NDU4NTg1OTAsLTEzMj
-UwMzUwNzYsMTY4MzczMzYzOCwtMTY0OTA0MjU3MiwtMTg2NDk2
-MTg0MCwtMTMwNzA3MDAyLDE0NTU5NTE2OTIsNzcyNTEwNjY3LC
-0zMTQ1NDM3NDMsMTY3MTU3NjM0OSwtOTA1MzI3NzI0LDI2NTE1
-MDI0LDQ5ODc5NjI0OCwxMjAwNTg5NTU5LC0yMDE4MDgxODkzLD
-E0MjgxMzE1NDgsLTEwNzczNzgzOCwtMTU3MzU2NDUwNywxNzU4
-Mzg1OTc0XX0=
+eyJoaXN0b3J5IjpbLTIwNTA1MDM0NTcsOTE4NjE0MjA3LC05ND
+U4NTg1OTAsLTEzMjUwMzUwNzYsMTY4MzczMzYzOCwtMTY0OTA0
+MjU3MiwtMTg2NDk2MTg0MCwtMTMwNzA3MDAyLDE0NTU5NTE2OT
+IsNzcyNTEwNjY3LC0zMTQ1NDM3NDMsMTY3MTU3NjM0OSwtOTA1
+MzI3NzI0LDI2NTE1MDI0LDQ5ODc5NjI0OCwxMjAwNTg5NTU5LC
+0yMDE4MDgxODkzLDE0MjgxMzE1NDgsLTEwNzczNzgzOCwtMTU3
+MzU2NDUwN119
 -->
