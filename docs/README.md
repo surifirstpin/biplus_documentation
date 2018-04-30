@@ -172,9 +172,11 @@ How is Active Planning Different from Static Planning?
 A Process that is Association, Extensive and Endless
 
 #### Improved Association
+
+Its single source of shared data is accessable to entire team through cloud, associated financial planings
 By using a single source of shared data accessible to the entire team through the cloud, collaborative financial planning empowers all stakeholders to easily engage with the numbers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDM0MjEsLTM3NzQ5OTMxLDE4ODg3OD
-czMzksMTMxMTAxNzEzMCwxMzQzMzcwNTc4LC0yNjYwODc5MTUs
-LTIwNzI4NTEwODUsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTIxMDk4MjAzNzAsLTM3NzQ5OTMxLDE4OD
+g3ODczMzksMTMxMTAxNzEzMCwxMzQzMzcwNTc4LC0yNjYwODc5
+MTUsLTIwNzI4NTEwODUsNDI0MzU3ODMxXX0=
 -->
