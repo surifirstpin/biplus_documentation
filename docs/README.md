@@ -164,9 +164,9 @@ Automate financial planning and analyze business performance down to operations.
 ### Active Planning 
 
 The toughest challenges faced by organisation today is keeping up and instant response, to change. In the process of constant changes required, one thing remains same is- the need for accurate,agile planning and forecasting. Most of the finance need to be engaged in static planning, a process that is not optimized for responding and adapting to change. This static planning is categorized by long Planning Cycles, Temporary plans, A system of efforts, and Lack of time for strategic analysis.
-A static planning process forces a adjustment between getting a plan right and getting it done, an active financial planning lets you plan and adapt without compromise. Active planning gives you the power to better manage your business, by analyzing and understanding historical performance to inform and predict future performance. An active planning process is the key to accurate, agile plans that help drive business growth
+A static planning process forces a adjustment between getting a plan right and getting it done, an active financial planning lets you plan and adapt without adjustments. Active planning gives you the power to better manage your business, by analyzing and understanding historical performance to inform and predict future performance. An active planning process is a key to accurate, agile plans that help drive business growth
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1NzY5MzAzLC0zNzc0OTkzMSwxODg4Nz
-g3MzM5LDEzMTEwMTcxMzAsMTM0MzM3MDU3OCwtMjY2MDg3OTE1
-LC0yMDcyODUxMDg1LDQyNDM1NzgzMV19
+eyJoaXN0b3J5IjpbMTI1ODU4NTk3NywtMzc3NDk5MzEsMTg4OD
+c4NzMzOSwxMzExMDE3MTMwLDEzNDMzNzA1NzgsLTI2NjA4Nzkx
+NSwtMjA3Mjg1MTA4NSw0MjQzNTc4MzFdfQ==
 -->
