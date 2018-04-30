@@ -163,13 +163,14 @@ Automate financial planning and analyze business performance down to operations.
 
 ### Active Planning 
 
-https://www.adaptiveinsights.com/products/what-is-active-planning
+https://www.adaptiveinsights.com/products/what-is-active-planning ( copy link)
 
 The toughest challenges faced by organisation today is keeping up and instant response, to change. In the process of constant changes required, one thing remains same is- the need for accurate,agile planning and forecasting. Most of the finance need to be engaged in static planning, a process that is not optimized for responding and adapting to change. This static planning is categorized by long Planning Cycles, Temporary plans, A system of efforts, and Lack of time for strategic analysis.
 A static planning process forces a adjustment between getting a plan right and getting it done, an active financial planning lets you plan and adapt without adjustments. Active planning gives you the power to better manage your business, by analyzing and understanding historical performance to inform and predict future performance. An active planning process is a key for accurate, agile plans that helps to drive business growth.
 
-How is Active Planning Different from Static Planning?
-A Process that is Association, Extensive and Endless
+**How is Active Planning Different from Static Planning?**
+
+A Process that is **Association, Extensive and Endless**
 
 #### Improved Association
 
@@ -182,7 +183,8 @@ liberate new insights with accurate and sophisticated budgeting, analysis, model
 
 Active planning automates data collection to ensure you’re always working with fresh data. By allowing you to spend more time on analysis, produce deeper insights and becoming a better business partner to the entire company.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjE0NjU4MDMsLTM3NzQ5OTMxLDE4OD
-g3ODczMzksMTMxMTAxNzEzMCwxMzQzMzcwNTc4LC0yNjYwODc5
-MTUsLTIwNzI4NTEwODUsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbMTg0ODg5NDU2NywtMTYyMTQ2NTgwMywtMz
+c3NDk5MzEsMTg4ODc4NzMzOSwxMzExMDE3MTMwLDEzNDMzNzA1
+NzgsLTI2NjA4NzkxNSwtMjA3Mjg1MTA4NSw0MjQzNTc4MzFdfQ
+==
 -->
