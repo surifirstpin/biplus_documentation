@@ -173,10 +173,10 @@ A Process that is Association, Extensive and Endless
 
 #### Improved Association
 
-Its single source of shared data is accessable to entire team through cloud, associated financial plannings allows all tea
-By using a single source of shared data accessible to the entire team through the cloud, collaborative financial planning empowers all stakeholders to easily engage with the numbers.
+Its single source of shared data is accessible to entire team through cloud and associated financial plannings allows shareholders to easily engage with the numbers.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2Mjk1NzE1LC0zNzc0OTkzMSwxODg4Nz
-g3MzM5LDEzMTEwMTcxMzAsMTM0MzM3MDU3OCwtMjY2MDg3OTE1
-LC0yMDcyODUxMDg1LDQyNDM1NzgzMV19
+eyJoaXN0b3J5IjpbLTcxMDA3NDQ5OCwtMzc3NDk5MzEsMTg4OD
+c4NzMzOSwxMzExMDE3MTMwLDEzNDMzNzA1NzgsLTI2NjA4Nzkx
+NSwtMjA3Mjg1MTA4NSw0MjQzNTc4MzFdfQ==
 -->
