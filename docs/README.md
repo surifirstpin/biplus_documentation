@@ -174,9 +174,11 @@ A Process that is Association, Extensive and Endless
 #### Improved Association
 
 Its single source of shared data is accessible to entire team through cloud and associated financial plannings allows shareholders to easily engage with the numbers.
+#### An Extensive View of the Business
 
+Unlock new insights with detailed and sophisticated budgeting, analysis, modeling, and forecasting that spans the entire business and understands its complexities and nuances.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDA3NDQ5OCwtMzc3NDk5MzEsMTg4OD
+eyJoaXN0b3J5IjpbMjEwODA4NTM1OSwtMzc3NDk5MzEsMTg4OD
 c4NzMzOSwxMzExMDE3MTMwLDEzNDMzNzA1NzgsLTI2NjA4Nzkx
 NSwtMjA3Mjg1MTA4NSw0MjQzNTc4MzFdfQ==
 -->
