@@ -176,9 +176,9 @@ A Process that is Association, Extensive and Endless
 Its single source of shared data is accessible to entire team through cloud and associated financial plannings allows shareholders to easily engage with the numbers.
 #### An Extensive View of the Business
 
-liberate new insights with accurate and sophisticated budgeting, analysis, modeling, and forecasting that spans the entire business and understands its complexities and nuances.
+liberate new insights with accurate and sophisticated budgeting, analysis, modeling, and forecasting that measures the entire business and understands the level of complexities and nuances.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3NTQxNzM1LC0zNzc0OTkzMSwxODg4Nz
-g3MzM5LDEzMTEwMTcxMzAsMTM0MzM3MDU3OCwtMjY2MDg3OTE1
-LC0yMDcyODUxMDg1LDQyNDM1NzgzMV19
+eyJoaXN0b3J5IjpbLTIwOTkwOTM2MjksLTM3NzQ5OTMxLDE4OD
+g3ODczMzksMTMxMTAxNzEzMCwxMzQzMzcwNTc4LC0yNjYwODc5
+MTUsLTIwNzI4NTEwODUsNDI0MzU3ODMxXX0=
 -->
