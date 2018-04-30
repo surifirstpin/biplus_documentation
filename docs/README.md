@@ -162,7 +162,8 @@ Streamline workforce planning and get better insights into human capital perform
 Automate financial planning and analyze business performance down to operations.
 
 ### Active Planning
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4OTMxMTQ4LDEzNDMzNzA1NzgsLTI2Nj
-A4NzkxNSwtMjA3Mjg1MTA4NSw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTE4MzgyMTc2MDYsMTM0MzM3MDU3OCwtMj
+Y2MDg3OTE1LC0yMDcyODUxMDg1LDQyNDM1NzgzMV19
 -->
