@@ -169,9 +169,9 @@ The toughest challenges faced by organisation today is keeping up and instant re
 A static planning process forces a adjustment between getting a plan right and getting it done, an active financial planning lets you plan and adapt without adjustments. Active planning gives you the power to better manage your business, by analyzing and understanding historical performance to inform and predict future performance. An active planning process is a key for accurate, agile plans that helps to drive business growth.
 
 How is Active Planning Different from Static Planning?
-
+A Process That is Synergetic, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDg2MjgwOSwtMzc3NDk5MzEsMTg4OD
-c4NzMzOSwxMzExMDE3MTMwLDEzNDMzNzA1NzgsLTI2NjA4Nzkx
-NSwtMjA3Mjg1MTA4NSw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbLTg2MDU0Njc3LC0zNzc0OTkzMSwxODg4Nz
+g3MzM5LDEzMTEwMTcxMzAsMTM0MzM3MDU3OCwtMjY2MDg3OTE1
+LC0yMDcyODUxMDg1LDQyNDM1NzgzMV19
 -->
