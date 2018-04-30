@@ -180,9 +180,9 @@ liberate new insights with accurate and sophisticated budgeting, analysis, model
 
 #### Active Forecasting and Analysis for Endless Planning
 
-Active planning automates data collection to ensure you’re always working with fresh data. This allows you to spend more time on analysis, delivering deeper insights and becoming a better business partner to the entire company.
+Active planning automates data collection to ensure you’re always working with fresh data. By allowing you to spend more time on analysis, produce deeper insights and becoming a better business partner to the entire company.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQ4OTc0MTIsLTM3NzQ5OTMxLDE4OD
+eyJoaXN0b3J5IjpbLTE2MjE0NjU4MDMsLTM3NzQ5OTMxLDE4OD
 g3ODczMzksMTMxMTAxNzEzMCwxMzQzMzcwNTc4LC0yNjYwODc5
 MTUsLTIwNzI4NTEwODUsNDI0MzU3ODMxXX0=
 -->
