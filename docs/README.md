@@ -161,12 +161,13 @@ Streamline workforce planning and get better insights into human capital perform
 ### Finance
 Automate financial planning and analyze business performance down to operations.
 
-### Active Planning
-The toughest challenges faced by organisation today is keeping up and instant response, to change. In the process of constant changes required, one thing remains same is- the need for accurate,agile planning and forecasting. Most of the software solutions need to be engaged in static planning, a process that is not optimized for responding and adapting to change. This static planning is categorized by long Planning Cycles, Temporary plans, A system of efforts, and Lack of time for strategic analysis.
+### Active Planning 
 
-Where a static planning process forces a compromise between getting a plan right and getting it done, active financial planning lets you plan and adapt without compromise. Active planning gives you the power to better manage your business, by analyzing and understanding historical performance to inform and predict future performance. An active planning process is the key to accurate, agile plans that help drive business growth
+The toughest challenges faced by organisation today is keeping up and instant response, to change. In the process of constant changes required, one thing remains same is- the need for accurate,agile planning and forecasting. Most of the finance need to be engaged in static planning, a process that is not optimized for responding and adapting to change. This static planning is categorized by long Planning Cycles, Temporary plans, A system of efforts, and Lack of time for strategic analysis.
+
+Where a static planning process forces a compromise between getting a plan right and getting it done, an active financial planning lets you plan and adapt without compromise. Active planning gives you the power to better manage your business, by analyzing and understanding historical performance to inform and predict future performance. An active planning process is the key to accurate, agile plans that help drive business growth
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODc4NzMzOSwxMzExMDE3MTMwLDEzND
-MzNzA1NzgsLTI2NjA4NzkxNSwtMjA3Mjg1MTA4NSw0MjQzNTc4
-MzFdfQ==
+eyJoaXN0b3J5IjpbLTM3NzQ5OTMxLDE4ODg3ODczMzksMTMxMT
+AxNzEzMCwxMzQzMzcwNTc4LC0yNjYwODc5MTUsLTIwNzI4NTEw
+ODUsNDI0MzU3ODMxXX0=
 -->
