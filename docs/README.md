@@ -4,6 +4,7 @@
 
 
 ## Turn Your Insights into Actions 
+
 Acubi is a single integrated analytical platform that delivers faster and better insights for entire business process, Regardless of any action or industry.
 
 ## Turn Data into Opportunity
@@ -183,8 +184,8 @@ Its single source of shared data is accessible to entire team through cloud and 
 
 Active planning automates data collection to ensure you’re always working with fresh data. By allowing you to spend more time on analysis, produce deeper insights and becoming a better business partner to the entire company.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2MTc1MTM3LDE4NDg4OTQ1NjcsLTE2Mj
-E0NjU4MDMsLTM3NzQ5OTMxLDE4ODg3ODczMzksMTMxMTAxNzEz
-MCwxMzQzMzcwNTc4LC0yNjYwODc5MTUsLTIwNzI4NTEwODUsND
-I0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTI0MTkzNzA3Myw4NzYxNzUxMzcsMTg0OD
+g5NDU2NywtMTYyMTQ2NTgwMywtMzc3NDk5MzEsMTg4ODc4NzMz
+OSwxMzExMDE3MTMwLDEzNDMzNzA1NzgsLTI2NjA4NzkxNSwtMj
+A3Mjg1MTA4NSw0MjQzNTc4MzFdfQ==
 -->
