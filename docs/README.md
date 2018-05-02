@@ -177,14 +177,14 @@ A Process that is **Association, Extensive and Endless**
 Its single source of shared data is accessible to entire team through cloud and associated financial plannings allows shareholders to easily engage with the numbers.
 
 #### An Extensive View of the Business
-liberate new insights with accurate and sophisticated budgeting, analysis, modeling, and forecasting that measures the entire business and understands the level of complexities and lapses.
+`liberate new insights with accurate and sophisticated budgeting, analysis, modeling, and forecasting that measures the entire business and understands the level of complexities and lapses.
 
 #### Active Forecasting and Analysis for Endless Planning
 
 Active planning automates data collection to ensure you’re always working with fresh data. By allowing you to spend more time on analysis, produce deeper insights and becoming a better business partner to the entire company.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODg5NDU2NywtMTYyMTQ2NTgwMywtMz
-c3NDk5MzEsMTg4ODc4NzMzOSwxMzExMDE3MTMwLDEzNDMzNzA1
-NzgsLTI2NjA4NzkxNSwtMjA3Mjg1MTA4NSw0MjQzNTc4MzFdfQ
-==
+eyJoaXN0b3J5IjpbODc2MTc1MTM3LDE4NDg4OTQ1NjcsLTE2Mj
+E0NjU4MDMsLTM3NzQ5OTMxLDE4ODg3ODczMzksMTMxMTAxNzEz
+MCwxMzQzMzcwNTc4LC0yNjYwODc5MTUsLTIwNzI4NTEwODUsND
+I0MzU3ODMxXX0=
 -->
