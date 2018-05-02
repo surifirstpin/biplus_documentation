@@ -2,6 +2,7 @@
 > Written with [StackEdit](https://stackedit.io/).
 
 Dashboard provides access to view multiple reports in single dashboard layout, in this way it provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive and can re-arrange the titles. After configuring a dashboard to your interest, you can share it with your team. You can create as many dashboards as you want, so you can alter each dashboard to the specific needs of the people who use it.
+
 ## Getting Started
 
 **1.** After Logging into BiPlus, Click on **Dashboard Section** It displays list of dashboards created. 
@@ -44,7 +45,7 @@ To Add more filters and Listeners to existing dashboard follow the below path;
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/35a4b17268dcc549813d9dcac60570169e5da758/images/browse_dash2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzQ3MDU3MSwtMjA1OTQ4ODQwOSwtMj
-AyNTc3NjEzOCwtMTQ0Njk2NjE4NCwxNzcwMzg5MTQsMTIzNzk4
-MjYxNF19
+eyJoaXN0b3J5IjpbLTE3ODA0NDkyODMsMTY5NzQ3MDU3MSwtMj
+A1OTQ4ODQwOSwtMjAyNTc3NjEzOCwtMTQ0Njk2NjE4NCwxNzcw
+Mzg5MTQsMTIzNzk4MjYxNF19
 -->
