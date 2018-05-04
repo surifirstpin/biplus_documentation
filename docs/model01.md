@@ -137,7 +137,7 @@ II.  **Position**  It is the priority of the filter and can be “before” or �
 -   **Before**  the filter will be applied first to the data, before any other filters on data are applied in Analyze section.
 -   **After**  the filter will be applied to the data only after other filters are applied in Analyze section.
 
-**2.B. Join Characteristics :**
+**2.B. Join Characteristics **
 
 **The attributes for “joins” are defined as follows:**
 
@@ -502,7 +502,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjM2MDc0OCw3MjIwOTcwNjgsMjA4MT
-E1MjMzNiw5NTAyOTg2OSwtMTU2NDU5MzU1NSwtMTk4NDgyOTk3
-MSw0NTQ2OTU1MiwxMzIwMzkwNTEwXX0=
+eyJoaXN0b3J5IjpbLTc5ODQ4MzEwOCwxMzAyMzYwNzQ4LDcyMj
+A5NzA2OCwyMDgxMTUyMzM2LDk1MDI5ODY5LC0xNTY0NTkzNTU1
+LC0xOTg0ODI5OTcxLDQ1NDY5NTUyLDEzMjAzOTA1MTBdfQ==
 -->
