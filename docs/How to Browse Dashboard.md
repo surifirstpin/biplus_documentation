@@ -6,6 +6,7 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 ## Getting Started
 
 **1.** After Logging into BiPlus, Click on **Dashboard Section** It displays list of dashboards created. 
+bxmagjdghgdk
 
 > **Note :** You can directly search a Dashboard by using the **Search Option** or click on the desired Dashboard to open it.
 
@@ -45,7 +46,7 @@ To Add more filters and Listeners to existing dashboard follow the below path;
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/35a4b17268dcc549813d9dcac60570169e5da758/images/browse_dash2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTYwOTc1NDcsLTE3ODA0NDkyODMsMT
-Y5NzQ3MDU3MSwtMjA1OTQ4ODQwOSwtMjAyNTc3NjEzOCwtMTQ0
-Njk2NjE4NCwxNzcwMzg5MTQsMTIzNzk4MjYxNF19
+eyJoaXN0b3J5IjpbLTI1NTYwNDk3OSwtMTc4MDQ0OTI4MywxNj
+k3NDcwNTcxLC0yMDU5NDg4NDA5LC0yMDI1Nzc2MTM4LC0xNDQ2
+OTY2MTg0LDE3NzAzODkxNCwxMjM3OTgyNjE0XX0=
 -->
