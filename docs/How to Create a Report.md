@@ -1,5 +1,5 @@
 <center><h1>How to Create a Report</h1></center> 
-
+After learning on how to browse a reports, User navigate to next section on how to Create there report
 BiPlus Reports displays the retrieved data list in the desired combinations as per your business needs and explores particular subject area it self. It provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for better insight.
 
 **1.** Click on **Analyse section.**
@@ -553,11 +553,11 @@ To view the SQL query built on running the report, click on **SQL** Tab in Analy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTA1MDM0NTcsOTE4NjE0MjA3LC05ND
-U4NTg1OTAsLTEzMjUwMzUwNzYsMTY4MzczMzYzOCwtMTY0OTA0
-MjU3MiwtMTg2NDk2MTg0MCwtMTMwNzA3MDAyLDE0NTU5NTE2OT
-IsNzcyNTEwNjY3LC0zMTQ1NDM3NDMsMTY3MTU3NjM0OSwtOTA1
-MzI3NzI0LDI2NTE1MDI0LDQ5ODc5NjI0OCwxMjAwNTg5NTU5LC
-0yMDE4MDgxODkzLDE0MjgxMzE1NDgsLTEwNzczNzgzOCwtMTU3
-MzU2NDUwN119
+eyJoaXN0b3J5IjpbLTMwODk2ODkxMCwtMjA1MDUwMzQ1Nyw5MT
+g2MTQyMDcsLTk0NTg1ODU5MCwtMTMyNTAzNTA3NiwxNjgzNzMz
+NjM4LC0xNjQ5MDQyNTcyLC0xODY0OTYxODQwLC0xMzA3MDcwMD
+IsMTQ1NTk1MTY5Miw3NzI1MTA2NjcsLTMxNDU0Mzc0MywxNjcx
+NTc2MzQ5LC05MDUzMjc3MjQsMjY1MTUwMjQsNDk4Nzk2MjQ4LD
+EyMDA1ODk1NTksLTIwMTgwODE4OTMsMTQyODEzMTU0OCwtMTA3
+NzM3ODM4XX0=
 -->
