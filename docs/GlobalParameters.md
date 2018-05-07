@@ -1,7 +1,7 @@
 <center><h1>Global Parameter</h1></center>
 
 It is a flat file data in JSON format which can be used to manipulate, control and set predefined values.
-acuBiBiPlus allows you to provide additional key values to manipulate the data in calculations column,control data etc. 
+BiPlus allows you to provide additional key values to manipulate the data in calculations column,control data etc. 
  **It can be used in the following ways:**
  
 - Control data access based on login.
@@ -80,6 +80,6 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMTM3MDI3OSwtMTkwNzc3Njg0MCwtMT
-gxMTExNzg2NSwtOTAwNTAxNjYxXX0=
+eyJoaXN0b3J5IjpbLTE4NzY2NjU4NjksMTIzMTM3MDI3OSwtMT
+kwNzc3Njg0MCwtMTgxMTExNzg2NSwtOTAwNTAxNjYxXX0=
 -->
