@@ -9,12 +9,18 @@ Admin has an ability to manage Users, User Groups, Global parameters and Global 
 
 > **Navigation : Settings → Use →  Add Users.**
 
-- **Email** enter email id for the user.
-- **Password** enter a password to access.
-- **FirstName** enter first-name of the user.
-- **LastName** enter lastname of the user. 
-- **Company** enter name of the company.
-- **Role** select the role of the user.
+- **Email** Enter email id for the user.
+
+- **Password** Enter a password to access.
+
+- **FirstName** Enter first-name of the user.
+
+- **LastName** Enter lastname of the user. 
+
+- **Company** Enter name of the company.
+
+- **Role** Select the role from the drop down list ( Admin,Developer,User,Super Admin)
+
 
 | User Role |  Access|
 |--|--|
@@ -77,7 +83,7 @@ To reset password, Click on **forget password** button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3MzUwMDQwLDE2NjI3NjAzMjAsLTE3OD
-A3Mzg5MjIsMTcwMTcwNDM4OSwxNjk4NTUxMjY2LDQ2NTc2Njgx
-NiwtOTc0NjYwMTg3XX0=
+eyJoaXN0b3J5IjpbLTE5ODYzMzEwNjgsODY3MzUwMDQwLDE2Nj
+I3NjAzMjAsLTE3ODA3Mzg5MjIsMTcwMTcwNDM4OSwxNjk4NTUx
+MjY2LDQ2NTc2NjgxNiwtOTc0NjYwMTg3XX0=
 -->
