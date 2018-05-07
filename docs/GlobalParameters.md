@@ -6,7 +6,7 @@ BiPlus allows you to provide additional key values to manipulate the data in cal
  **It can be used in the following ways:**
  
 - Control data access based on login.
-- Povide access to predefined list of filter values based on login.
+- Provide access to predefined list of filter values based on login.
 - Manipulate data with external parameter based on a common reference.
 - View and manipulate data based on login.
 - Use global parameters in calculated column to perform mathematical calculations on existing data.
@@ -81,6 +81,7 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Njk0MjAwMSwxMjMxMzcwMjc5LC0xOT
-A3Nzc2ODQwLC0xODExMTE3ODY1LC05MDA1MDE2NjFdfQ==
+eyJoaXN0b3J5IjpbMTY5NDM4NzU5NSwtMzk2OTQyMDAxLDEyMz
+EzNzAyNzksLTE5MDc3NzY4NDAsLTE4MTExMTc4NjUsLTkwMDUw
+MTY2MV19
 -->
