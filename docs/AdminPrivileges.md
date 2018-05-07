@@ -47,7 +47,7 @@ Admin has an ability to manage Users, User Groups, Global parameters and Global 
 
 ## Groups
 
-To share a particular content with set of people ion the organisation, you need to create group.
+To share a particular content with set of people in the the organisation, you need to create group.
 
 >**Navigation : Settings→Groups→ Add Group**
 
@@ -83,7 +83,7 @@ To reset password, Click on **forget password** button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzExMjE1MSwtMTk4NjMzMTA2OCw4Nj
+eyJoaXN0b3J5IjpbLTYzMTk3NTUzNywtMTk4NjMzMTA2OCw4Nj
 czNTAwNDAsMTY2Mjc2MDMyMCwtMTc4MDczODkyMiwxNzAxNzA0
 Mzg5LDE2OTg1NTEyNjYsNDY1NzY2ODE2LC05NzQ2NjAxODddfQ
 ==
