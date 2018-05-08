@@ -153,9 +153,11 @@ A common set of statements or operations can be defined globally as a function a
 
 All the users have privilege to access global functions in calculated column, but admin and developer has an ability to create, edit and delete a global function.
 
-To Create a Global Function Click on Global function section available on far left of setting 
+To Create a Global Function Click on Global function section available on far left of setting screen.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTcxOTUxNSw2NjgzMjM1NTAsLTEwOT
-c0OTI5MjksLTMwNDE2NDg5XX0=
+eyJoaXN0b3J5IjpbMjA1MjEwNzY3LDY2ODMyMzU1MCwtMTA5Nz
+Q5MjkyOSwtMzA0MTY0ODldfQ==
 -->
