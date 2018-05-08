@@ -146,6 +146,7 @@ If **check case** is enabled, global parameters become case sensitive for key ma
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b1569c9d8cc1d909d7b645a3e6e2ec3c21453852/images/checkcase.png)
 
+## Global Functions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDE2NDg5XX0=
+eyJoaXN0b3J5IjpbMTYzODg3MjQwMSwtMzA0MTY0ODldfQ==
 -->
