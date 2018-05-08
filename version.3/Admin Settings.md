@@ -55,6 +55,7 @@ To Edit or Delete already existing user as per your business requirement, Go bac
 ## Groups
 
 To share a particular content with set of people in the the organisation, you need to create group.
+
 To create a group Click on Add Group, and mention below details;
 
 **Enter the below information:**
@@ -147,6 +148,8 @@ If **check case** is enabled, global parameters become case sensitive for key ma
 ](https://raw.githubusercontent.com/sv18042016/fp1/b1569c9d8cc1d909d7b645a3e6e2ec3c21453852/images/checkcase.png)
 
 ## Global Functions
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODg3MjQwMSwtMzA0MTY0ODldfQ==
+eyJoaXN0b3J5IjpbLTEwOTc0OTI5MjksLTMwNDE2NDg5XX0=
 -->
