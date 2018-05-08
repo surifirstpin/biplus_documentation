@@ -23,9 +23,10 @@ BiPlus allows you to provide additional key values to manipulate the data in cal
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/af27c45cb55b5170d224482c0ac646b1093c8f1a/images/global+para2.png)
 
--  Add column and update the data to global parameter created.
-
-- Import external data using a excel sheet.
+ - Click on **Add column** to add table data ( strings or Numbers).
+ 
+ - Click on **Add Row** to increase the table rows.
+ 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a0355c0670a5270bd78cc76161b7c49b3598d57f/images/gp1.png)
 
@@ -81,7 +82,7 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDM4NzU5NSwtMzk2OTQyMDAxLDEyMz
-EzNzAyNzksLTE5MDc3NzY4NDAsLTE4MTExMTc4NjUsLTkwMDUw
-MTY2MV19
+eyJoaXN0b3J5IjpbLTg5NTA5MTg5MCwxNjk0Mzg3NTk1LC0zOT
+Y5NDIwMDEsMTIzMTM3MDI3OSwtMTkwNzc3Njg0MCwtMTgxMTEx
+Nzg2NSwtOTAwNTAxNjYxXX0=
 -->
