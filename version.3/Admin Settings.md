@@ -152,7 +152,10 @@ If **check case** is enabled, global parameters become case sensitive for key ma
 A common set of statements or operations can be defined globally as a function and it can be retrieved and used in any project. One global function shall be referred from another global function, But it should not be in circular reference.  
 
 All the users have privilege to access global functions in calculated column, but admin and developer has an ability to create, edit and delete a global function.
+
+To Create a Global Function Click on Global function avail
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4MzIzNTUwLC0xMDk3NDkyOTI5LC0zMD
-QxNjQ4OV19
+eyJoaXN0b3J5IjpbLTI4ODcxMDc0OCw2NjgzMjM1NTAsLTEwOT
+c0OTI5MjksLTMwNDE2NDg5XX0=
 -->
