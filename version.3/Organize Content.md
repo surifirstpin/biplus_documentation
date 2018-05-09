@@ -27,6 +27,9 @@ Now Let us see how top do this,
  -   Green colour indicates dashboard is saved under public section.
  -   Red colour indicates dashboard is saved under shared section.
 -   Grey colour indicates dashboard is saved under private section.
+
+## Managing Acce
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDYzODkyMCwxMTE3NTE5NzkwXX0=
+eyJoaXN0b3J5IjpbMzIwOTA2NTgsMjA4NDYzODkyMCwxMTE3NT
+E5NzkwXX0=
 -->
