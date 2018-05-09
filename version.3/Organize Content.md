@@ -15,6 +15,11 @@ There are two ways you can work on organising data
    -  Renaming, Moving and deleting. 
     - Set Home page display
 
+Now Let us see how top do this,
+
+Click on **Set Home page** Icon, to set the dashboard on Home page.
+3.  Click on  **Edit**  icon , to edit the dashboard or report.
+4. 4.  Click on  **Delete**  icon to delete the dashboard from report.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzUxOTc5MF19
+eyJoaXN0b3J5IjpbLTEzMTYyNTA2MTUsMTExNzUxOTc5MF19
 -->
