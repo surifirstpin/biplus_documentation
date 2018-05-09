@@ -190,11 +190,11 @@ function _Addition(param1,param2)
   return add;
 }
 /*END*/
-     
-     Note : Returns value 3, if we provide 1 and 2 in **Test**
 ```
+ **Note** : Returns value 3, if we provide 1 and 2 in **Test**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTczNzI0MDIsLTEwNTQ0MDQ1MzYsLT
+eyJoaXN0b3J5IjpbLTE2MjkyNjU2OTAsLTEwNTQ0MDQ1MzYsLT
 EwMzgzNTM4NDMsMzU4ODgzMDczLDY4Mzk0OTg3MSwyMDUyMTA3
 NjcsNjY4MzIzNTUwLC0xMDk3NDkyOTI5LC0zMDQxNjQ4OV19
 -->
