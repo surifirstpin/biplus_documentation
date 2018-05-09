@@ -9,7 +9,9 @@ Tag has a hierarchical structure that provides a several layers of nesting like 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/457c21c373c4db9d2f1ae47344146723ffe79d2d/images/add_tag.png)
 
 - **Tag Name**  identifier for the new tag.
-- **Enable Privacy** select privacy options for tag. 
+
+- **Enable Privacy** select privacy options for tag.
+
   -  **Private()** Tag saved in private section is accessed by the user itself.
   -  **Public()**  Tag saved in public section is accessed by all the users. 
   -  **Share()** Tag saved under share section is accessed by specific set of users.
@@ -45,5 +47,6 @@ To **Delete** the tag click on delete icon.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e571af6fdf36fb0e58a5248a84669f5f73f5703f/images/delete_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTYyOTQzMyw5OTIzMDM2MTNdfQ==
+eyJoaXN0b3J5IjpbLTgxNjY4NzY5LDExNTU2Mjk0MzMsOTkyMz
+AzNjEzXX0=
 -->
