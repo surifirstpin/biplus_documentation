@@ -165,19 +165,36 @@ To Create a global Function Click on **Global function** section available on fa
 ```
                                   * My Custom function *
 /*START*/ 
+
 function myfunction(param1,param2,ParamN)
 {
-                                                      * Define function body *  
+                                * Define function body *  
    return 0;
    
 }
 /*END*/
-
 ```
 > **Note :** You can add your code in function body only.
 
+ **For Instance**  Create a custom function for adding 2 parameters
+
+
+```
+                                  * My Custom function *
+/*START*/ 
+
+function _Addition(param1,param2)
+
+{
+ var add =param1+param2;  
+  return add;
+}
+/*END*/
+     
+     Note : Returns value 3, if we provide 1 and 2 in **Test**
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0MTAwODc3LC0xMDU0NDA0NTM2LC0xMD
-M4MzUzODQzLDM1ODg4MzA3Myw2ODM5NDk4NzEsMjA1MjEwNzY3
-LDY2ODMyMzU1MCwtMTA5NzQ5MjkyOSwtMzA0MTY0ODldfQ==
+eyJoaXN0b3J5IjpbLTE2OTczNzI0MDIsLTEwNTQ0MDQ1MzYsLT
+EwMzgzNTM4NDMsMzU4ODgzMDczLDY4Mzk0OTg3MSwyMDUyMTA3
+NjcsNjY4MzIzNTUwLC0xMDk3NDkyOTI5LC0zMDQxNjQ4OV19
 -->
