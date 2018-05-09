@@ -191,10 +191,18 @@ function _Addition(param1,param2)
 }
 /*END*/
 ```
- **Note** : Returns value 3, if we provide 1 and 2 in **Test**
+ **Note** : Returns value 3, if we provide 1 and 2 in **Test** as shown in below image.
 
+**2.** Click on **Test** Button  to run the function.
+
+**3.** Click on **Save** Button to save the function.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/2c15dfa03d8ed5eed5cdffdc1335c22ce759300c/images/global_functions.png)
+
+Global functions supports all the native java script supported functions and also refer other global functions using  **bi.function_name** ( param1, param2,....,paramN).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkyNjU2OTAsLTEwNTQ0MDQ1MzYsLT
+eyJoaXN0b3J5IjpbLTE5MDg0NjYyMDUsLTEwNTQ0MDQ1MzYsLT
 EwMzgzNTM4NDMsMzU4ODgzMDczLDY4Mzk0OTg3MSwyMDUyMTA3
 NjcsNjY4MzIzNTUwLC0xMDk3NDkyOTI5LC0zMDQxNjQ4OV19
 -->
