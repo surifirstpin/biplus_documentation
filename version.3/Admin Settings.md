@@ -143,6 +143,7 @@ If **check case** is enabled, global parameters become case sensitive for key ma
 
 - To edit global parameters click on **Edit** button.
 
+- 
 - To delete global parameter click on **Delete** Button.
 
 ![
@@ -159,7 +160,7 @@ To Create a global Function Click on **Global function** section available on fa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzgzNTM4NDMsMzU4ODgzMDczLDY4Mz
-k0OTg3MSwyMDUyMTA3NjcsNjY4MzIzNTUwLC0xMDk3NDkyOTI5
-LC0zMDQxNjQ4OV19
+eyJoaXN0b3J5IjpbLTEwNTQ0MDQ1MzYsLTEwMzgzNTM4NDMsMz
+U4ODgzMDczLDY4Mzk0OTg3MSwyMDUyMTA3NjcsNjY4MzIzNTUw
+LC0xMDk3NDkyOTI5LC0zMDQxNjQ4OV19
 -->
