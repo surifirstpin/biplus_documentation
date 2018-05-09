@@ -157,13 +157,27 @@ All the users have privilege to access global functions in calculated column, bu
 
 To Create a global Function Click on **Global function** section available on far left of setting screen and then,
 
-1.  click on **Add-Functions** to create a new global function.
+1.  click on **Add-Functions** to create a new custom global function.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d9712e86a6881444e961d60dfc6aab30bf665172/images/func1.png)
 
+```
+                                  * My Custom function *
+/*START*/ 
+function myfunction(param1,param2,ParamN)
+{
+                                                      * Define function body *  
+   return 0;
+   
+}
+/*END*/
+
+```
+> **Note :** You can add your code in function body only.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyMzcyMDM2LC0xMDU0NDA0NTM2LC0xMD
+eyJoaXN0b3J5IjpbODU0MTAwODc3LC0xMDU0NDA0NTM2LC0xMD
 M4MzUzODQzLDM1ODg4MzA3Myw2ODM5NDk4NzEsMjA1MjEwNzY3
 LDY2ODMyMzU1MCwtMTA5NzQ5MjkyOSwtMzA0MTY0ODldfQ==
 -->
