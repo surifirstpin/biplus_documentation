@@ -201,8 +201,14 @@ function _Addition(param1,param2)
 ](https://raw.githubusercontent.com/sv18042016/fp1/2c15dfa03d8ed5eed5cdffdc1335c22ce759300c/images/global_functions.png)
 
 Global functions supports all the native java script supported functions and also refer other global functions using  **bi.function_name** ( param1, param2,....,paramN).
+
+**4.**  Enable edit key to **Edit** the function.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDg0NjYyMDUsLTEwNTQ0MDQ1MzYsLT
-EwMzgzNTM4NDMsMzU4ODgzMDczLDY4Mzk0OTg3MSwyMDUyMTA3
-NjcsNjY4MzIzNTUwLC0xMDk3NDkyOTI5LC0zMDQxNjQ4OV19
+eyJoaXN0b3J5IjpbMTY4Nzc4NDc4LC0xOTA4NDY2MjA1LC0xMD
+U0NDA0NTM2LC0xMDM4MzUzODQzLDM1ODg4MzA3Myw2ODM5NDk4
+NzEsMjA1MjEwNzY3LDY2ODMyMzU1MCwtMTA5NzQ5MjkyOSwtMz
+A0MTY0ODldfQ==
 -->
