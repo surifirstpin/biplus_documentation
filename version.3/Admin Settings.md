@@ -1,4 +1,5 @@
 
+
  <center><h1>Admin Settings</h1></center>
 
 BiPlus Administrative settings allow many options to customize BiPlus for your Organisation.
@@ -158,6 +159,7 @@ To Create a global Function Click on **Global function** section available on fa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzOTQ5ODcxLDIwNTIxMDc2Nyw2NjgzMj
-M1NTAsLTEwOTc0OTI5MjksLTMwNDE2NDg5XX0=
+eyJoaXN0b3J5IjpbMzU4ODgzMDczLDY4Mzk0OTg3MSwyMDUyMT
+A3NjcsNjY4MzIzNTUwLC0xMDk3NDkyOTI5LC0zMDQxNjQ4OV19
+
 -->
