@@ -19,14 +19,13 @@ Now Let us see how top do this,
 
 1.Click on **Set Home page** Icon, to set the dashboard on Home page.
 2. Click on  **Edit**  icon , to edit the dashboard or report.
-3.Click on  **Delete**  icon to delete the dashboard from report.
-  the circles displays under what privacy setting is the dashboard saved.
 
-> Consider the below image where,
-> 
-> -   Green colour indicates dashboard is saved under public section.
-> -   Red colour indicates dashboard is saved under shared section.
-> -   Grey colour indicates dashboard is saved under private section.
+3.Click on  **Delete**  icon to delete the dashboard from report.
+
+4.The data Access level are shown in this section, the circles displays under what privacy setting is the dashboard saved.
+ -   Green colour indicates dashboard is saved under public section.
+ -   Red colour indicates dashboard is saved under shared section.
+-   Grey colour indicates dashboard is saved under private section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzE4OTA0MywxMTE3NTE5NzkwXX0=
+eyJoaXN0b3J5IjpbLTg4MDc0MjA0MCwxMTE3NTE5NzkwXX0=
 -->
