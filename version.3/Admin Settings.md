@@ -157,7 +157,7 @@ All the users have privilege to access global functions in calculated column, bu
 
 To Create a global Function Click on **Global function** section available on far left of setting screen and then,
 
-1.  click on **Add-Functions** to create a new custom global function.
+**1.**  click on **Add-Functions** to create a new custom global function.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d9712e86a6881444e961d60dfc6aab30bf665172/images/func1.png)
@@ -209,8 +209,8 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTY2OTU1OTQsLTE5MDg0NjYyMDUsLT
-EwNTQ0MDQ1MzYsLTEwMzgzNTM4NDMsMzU4ODgzMDczLDY4Mzk0
-OTg3MSwyMDUyMTA3NjcsNjY4MzIzNTUwLC0xMDk3NDkyOTI5LC
-0zMDQxNjQ4OV19
+eyJoaXN0b3J5IjpbMTY1MTcwMTUyNiwtMTkwODQ2NjIwNSwtMT
+A1NDQwNDUzNiwtMTAzODM1Mzg0MywzNTg4ODMwNzMsNjgzOTQ5
+ODcxLDIwNTIxMDc2Nyw2NjgzMjM1NTAsLTEwOTc0OTI5MjksLT
+MwNDE2NDg5XX0=
 -->
