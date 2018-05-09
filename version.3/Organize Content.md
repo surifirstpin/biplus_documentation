@@ -23,12 +23,13 @@ Now Let us see how top do this,
 **3.** Click on  **Delete**  icon to delete the dashboard from report.
 
 ## Managing Access
-The data Access level are shown in this section, the circles displays under what privacy setting is the dashboard saved.
+
+The circles displays under what privacy setting is the dashboard saved.
 
  -   **Green** colour indicates dashboard is saved under public section.
  -   **Red** colour indicates dashboard is saved under shared section.
 -   **Grey** colour indicates dashboard is saved under private section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzY0ODEzMCwyMDg0NjM4OTIwLDExMT
-c1MTk3OTBdfQ==
+eyJoaXN0b3J5IjpbNTUyNzU3NjM0LDIwODQ2Mzg5MjAsMTExNz
+UxOTc5MF19
 -->
