@@ -25,7 +25,7 @@ function myfunction(param1,param2,ParamN)
 > **Note :** You can add your code in function body only.
 
 
- For Instance : Create a custom function for adding 2 parameters
+ **For Instance**  Create a custom function for adding 2 parameters
 
 
 ```
@@ -66,6 +66,6 @@ This functions supports all the native java script supported functions and also 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTAwNzM3NiwtMTEzMzE2MzU5Niw1Nz
-g0OTIwODMsNjU5NjkzMTI3LDE2NTA1MzI3NjFdfQ==
+eyJoaXN0b3J5IjpbMTQ1NDg3MDA4LC0xMTMzMTYzNTk2LDU3OD
+Q5MjA4Myw2NTk2OTMxMjcsMTY1MDUzMjc2MV19
 -->
