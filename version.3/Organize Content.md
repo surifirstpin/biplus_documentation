@@ -9,6 +9,9 @@ Lets get into detail on this;
 There are two ways you can work on organising data 
  - **Firstly,** Viewing the content and organizing reports and dashboards  available under **workspace** to selected tag structure using drag and drop mechanism.
 
+
+
+
  - **Secondly,** editing and managing the access level this allows users to make changes to the content such as;
 
    - Editing Reports and Dashboards.
@@ -36,7 +39,7 @@ The circles icon display at far right of the screen shows what kind of privacy s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTE4MjI1MzIsLTQ3OTczODI0MywtMT
-E1ODI5MjAxMywtMzI3NjM2MzE1LDU1Mjc1NzYzNCwyMDg0NjM4
-OTIwLDExMTc1MTk3OTBdfQ==
+eyJoaXN0b3J5IjpbMTEyNzE4MTkzOCwtNDc5NzM4MjQzLC0xMT
+U4MjkyMDEzLC0zMjc2MzYzMTUsNTUyNzU3NjM0LDIwODQ2Mzg5
+MjAsMTExNzUxOTc5MF19
 -->
