@@ -1,6 +1,6 @@
 <center><h1>Tags</h1></center>
 
-Tags has a hierarchical structure that provides a several layers of nesting to save the files, for example parent tag and child tag providing the total path of saved reports and dashboards.
+Tags has a hierarchical structure that provides a several layers of nesting to save the files, for example parent tag, child tags providing the total path of saved reports and dashboards.
 
 ## Create a new tag
 
@@ -47,6 +47,6 @@ To **Delete** the tag click on delete icon.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e571af6fdf36fb0e58a5248a84669f5f73f5703f/images/delete_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTU0Njg5NiwtODE2Njg3NjksMTE1NT
+eyJoaXN0b3J5IjpbMTc2MTM0NDI0NCwtODE2Njg3NjksMTE1NT
 YyOTQzMyw5OTIzMDM2MTNdfQ==
 -->
