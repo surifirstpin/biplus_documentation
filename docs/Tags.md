@@ -1,7 +1,7 @@
 <center><h1>Tags</h1></center>
 
-BiPlus Provides a nested layered structure by providing you an ability to save the Reports.
-For example parent tag, child tags providing the total path of saved reports and dashboards.
+BiPlus Provides a nested layered structure by providing you an ability to save the Reports in any of the hierarchical tag location depending on the business requirements.
+For Instance:  parent tag, child tags providing the total path of saved reports and dashboards.
 
 ## Create a new tag
 
@@ -48,7 +48,7 @@ To **Delete** the tag click on delete icon.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e571af6fdf36fb0e58a5248a84669f5f73f5703f/images/delete_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDQ1NzE2MiwtMTIxMDQwMDAzMiwxNz
-YxMzQ0MjQ0LC04MTY2ODc2OSwxMTU1NjI5NDMzLDk5MjMwMzYx
-M119
+eyJoaXN0b3J5IjpbLTEyNzk0NzM1NTYsLTEyMTA0MDAwMzIsMT
+c2MTM0NDI0NCwtODE2Njg3NjksMTE1NTYyOTQzMyw5OTIzMDM2
+MTNdfQ==
 -->
