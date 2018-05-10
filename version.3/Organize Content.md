@@ -5,6 +5,7 @@
 This Section Discuss how to move or copy contents to other locations. Using this you can organize Reports and Dashboard to specific tag Structure.
 
 Lets get into detail on this;
+
 There are two ways you can work on organising data 
  - **Firstly,** Viewing the content and organizing reports and dashboards  available under **workspace** to selected tag structure using drag and drop mechanism.
 
@@ -18,7 +19,6 @@ There are two ways you can work on organising data
 Now Let us see how to do this,
 
 - To set dashboard on Home page Click on **Set Home page** Icon.
-
 - To edit the dashboard or report Click on  **Edit**  icon.
 
  - To delete the dashboard or report permanently Click on  **Delete**  icon.
@@ -36,7 +36,7 @@ The circles icon display at far right of the screen shows what kind of privacy s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDE1NDQ3MSwtMTE1ODI5MjAxMywtMz
+eyJoaXN0b3J5IjpbLTQ3OTczODI0MywtMTE1ODI5MjAxMywtMz
 I3NjM2MzE1LDU1Mjc1NzYzNCwyMDg0NjM4OTIwLDExMTc1MTk3
 OTBdfQ==
 -->
