@@ -7,12 +7,13 @@ This Section Discuss how to move or copy contents to other locations. Using this
 Lets get into detail on this;
 
 There are two ways you can work on organising data 
- - **Firstly,** Viewing the content and organizing reports and dashboards  available under **workspace** to selected tag structure using drag and drop mechanism.
+ - **First,** Viewing the content and organizing reports and dashboards  available under **workspace** to selected tag structure using drag and drop mechanism.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/93fab44572b6a9c124a7c80f1ec840cd0488f319/images/organise_full.png)
 
 
-
-
- - **Secondly,** editing and managing the access level this allows users to make changes to the content such as;
+ - **Second,** editing and managing the access level this allows users to make changes to the content such as;
 
    - Editing Reports and Dashboards.
    -  Specifying which users and groups as  authority to access the data.
@@ -39,7 +40,7 @@ The circles icon display at far right of the screen shows what kind of privacy s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzE4MTkzOCwtNDc5NzM4MjQzLC0xMT
-U4MjkyMDEzLC0zMjc2MzYzMTUsNTUyNzU3NjM0LDIwODQ2Mzg5
-MjAsMTExNzUxOTc5MF19
+eyJoaXN0b3J5IjpbNzQyMTE0NjUyLDExMjcxODE5MzgsLTQ3OT
+czODI0MywtMTE1ODI5MjAxMywtMzI3NjM2MzE1LDU1Mjc1NzYz
+NCwyMDg0NjM4OTIwLDExMTc1MTk3OTBdfQ==
 -->
