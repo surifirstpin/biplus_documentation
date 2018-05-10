@@ -24,12 +24,12 @@ Now Let us see how top do this,
 
 ## Managing Access
 
-The circles icon display at far right of the screen shows what kind oprivacy setting is the dashboard saved.
+The circles icon display at far right of the screen shows what kind of privacy setting is enabled to the dashboard or report.
 
  -   **Green** colour indicates dashboard is saved under public section.
  -   **Red** colour indicates dashboard is saved under shared section.
 -   **Grey** colour indicates dashboard is saved under private section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDk3ODUyMzMsNTUyNzU3NjM0LDIwOD
-Q2Mzg5MjAsMTExNzUxOTc5MF19
+eyJoaXN0b3J5IjpbLTMyNzYzNjMxNSw1NTI3NTc2MzQsMjA4ND
+YzODkyMCwxMTE3NTE5NzkwXX0=
 -->
