@@ -17,9 +17,9 @@ There are two ways you can work on organising data
 
 Now Let us see how to do this,
 
-To  Click on **Set Home page** Icon, to set the dashboard on Home page.
+To set dashboard on Home page Click on **Set Home page** Icon.
 
-**2.** Click on  **Edit**  icon , to edit the dashboard or report.
+**2.** To edit the dashboard or report Click on  **Edit**  icon , .
 
 **3.** Click on  **Delete**  icon to delete the dashboard from report.
 
@@ -33,7 +33,7 @@ The circles icon display at far right of the screen shows what kind of privacy s
  -   **Red** colour indicates dashboard is saved under shared section.
 -   **Grey** colour indicates dashboard is saved under private section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQxNzEwMjMsLTExNTgyOTIwMTMsLT
-MyNzYzNjMxNSw1NTI3NTc2MzQsMjA4NDYzODkyMCwxMTE3NTE5
-NzkwXX0=
+eyJoaXN0b3J5IjpbMTcxNDIyNjg5OSwtMTE1ODI5MjAxMywtMz
+I3NjM2MzE1LDU1Mjc1NzYzNCwyMDg0NjM4OTIwLDExMTc1MTk3
+OTBdfQ==
 -->
