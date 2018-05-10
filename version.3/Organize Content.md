@@ -15,14 +15,16 @@ There are two ways you can work on organising data
    -  Renaming, Moving and deleting. 
     - Set Home page display
 
-Now Let us see how top do this,
+Now Let us see how to do this,
 
-**1.** Click on **Set Home page** Icon, to set the dashboard on Home page.
+To  Click on **Set Home page** Icon, to set the dashboard on Home page.
 
 **2.** Click on  **Edit**  icon , to edit the dashboard or report.
 
 **3.** Click on  **Delete**  icon to delete the dashboard from report.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/93fab44572b6a9c124a7c80f1ec840cd0488f319/images/organise_full.png)
 ## Managing Access
 
 The circles icon display at far right of the screen shows what kind of privacy setting is enabled to the dashboard or report.
@@ -31,6 +33,7 @@ The circles icon display at far right of the screen shows what kind of privacy s
  -   **Red** colour indicates dashboard is saved under shared section.
 -   **Grey** colour indicates dashboard is saved under private section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgyOTIwMTMsLTMyNzYzNjMxNSw1NT
-I3NTc2MzQsMjA4NDYzODkyMCwxMTE3NTE5NzkwXX0=
+eyJoaXN0b3J5IjpbLTE2MTQxNzEwMjMsLTExNTgyOTIwMTMsLT
+MyNzYzNjMxNSw1NTI3NTc2MzQsMjA4NDYzODkyMCwxMTE3NTE5
+NzkwXX0=
 -->
