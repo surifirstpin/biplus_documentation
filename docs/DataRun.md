@@ -91,6 +91,8 @@ Following are the different types of filters characteristics applicable ;
 |is not null                   |data which is not equal to null
 |is null                       |data which is equal to null
 
+> To View the timeLine Filters in detaisl please go to Timeline filters document.
+
 **4.**  Click on **Filter** to apply the filters and extract the data based on filter applied.
 
 
@@ -335,7 +337,7 @@ To view the SQL query built  in analysis section click on **SQL** section.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDY5OTkwMSw0MzYxMjg4MzYsLTk5MT
-UyNjQ2MiwtMTkxMjg4NDQ3OCw0Mjk2NDQ0MDEsMjEzODM4NTcw
-MF19
+eyJoaXN0b3J5IjpbMTcwNjkxODI2OSwxMTU0Njk5OTAxLDQzNj
+EyODgzNiwtOTkxNTI2NDYyLC0xOTEyODg0NDc4LDQyOTY0NDQw
+MSwyMTM4Mzg1NzAwXX0=
 -->
