@@ -44,6 +44,9 @@ To **Edit** or **Delete** a Tag Click on the Specified Icon for Editing and Dele
 
 In order to change the privacy option for a saved tag and to change the child tag to parent tag or a parent tag to child tag you can make use of **Setting Icon.**
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTEyMjIzNSwtMTczNDE5Mjg5NV19
+eyJoaXN0b3J5IjpbLTE5MDA1OTU2ODksLTE3MzQxOTI4OTVdfQ
+==
 -->
