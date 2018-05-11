@@ -40,7 +40,7 @@ All the saved tags are visible in tree view as shown below.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/191f8906591a719bb70c33b807cb4c3dabf4ed4e/images/tree_view.png)
 
-To Edit or Delete a Tag Click on the Specifu
+To Edit or Delete a Tag Click on the Specified link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODcyMTk3MSwtMTczNDE5Mjg5NV19
+eyJoaXN0b3J5IjpbMTM4MTExNDQyNiwtMTczNDE5Mjg5NV19
 -->
