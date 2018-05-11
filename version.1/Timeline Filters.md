@@ -21,6 +21,7 @@
 |  this full year | from zero hour of current year start date to last hour of last day in the year(if data exists) |
 
 ## NOT
+
 |  **Example** | **Description** |
 |  ------ | ------ |
 |  not today | all the data excluding data from zero hour to last hour of current day(if data exists) |
@@ -305,5 +306,5 @@
 |  WhenMade(date_hour)(Is Not Null) | Data where date_hour field (hour number in the year) is not Null |
 |  WhenMade(date_hour)(Is Null) | Data where date_hour field (hour number in the year) is Null |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzNTYwMjY1XX0=
+eyJoaXN0b3J5IjpbNTMxNjQ2MzYzLDMyMzU2MDI2NV19
 -->
