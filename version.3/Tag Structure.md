@@ -40,13 +40,13 @@ All the saved tags are visible in tree view as shown below.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/191f8906591a719bb70c33b807cb4c3dabf4ed4e/images/tree_view.png)
 
-To **Edit** or **Delete** a Tag Click on the Specified Icon for Editing and Deleting.
+To **Edit** or **Delete** a Tag Click on the Specified Icon prescribed for Editing and Deleting.
 
 In order to change the privacy option for a saved tag and to change the child tag to parent tag or a parent tag to child tag you can make use of **Setting Icon.**
 
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/8170dc06ffe7bf872e20e1530d9f2d2c50b6f6f3/images/edit_tag_full.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA1OTU2ODksLTE3MzQxOTI4OTVdfQ
-==
+eyJoaXN0b3J5IjpbMzg5OTM2Mzg5LC0xNzM0MTkyODk1XX0=
 -->
