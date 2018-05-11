@@ -6,7 +6,7 @@ BiPlus Provides a nested layered structure by providing you an ability to save t
 
 **For Instance :** If you have total 200 reports on customer information and salary information, For that you can create 2 layers of tag one for customer information and another for sales information and save the reports separately in different tags for easy access of reports.
 
-Now Let us see how to create a Tag ;
+**Now Let us see how to create a Tag ;**
 
 To create a **New Tag** Click on **Add Tag** in dashboard section. 
 
@@ -48,6 +48,7 @@ In order to change the privacy option for a saved tag and to change the child ta
 ](https://raw.githubusercontent.com/sv18042016/fp1/8170dc06ffe7bf872e20e1530d9f2d2c50b6f6f3/images/edit_tag_full.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5OTM2Mzg5LDUyODc1MTMzMiwtMTM5ND
-EzNjgzNSwtMTA4NjEwMjk1MiwtMTczNDE5Mjg5NV19
+eyJoaXN0b3J5IjpbLTMyODUyMjY4MywzODk5MzYzODksNTI4Nz
+UxMzMyLC0xMzk0MTM2ODM1LC0xMDg2MTAyOTUyLC0xNzM0MTky
+ODk1XX0=
 -->
