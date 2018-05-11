@@ -4,8 +4,7 @@ BiPlus Provides a nested layered structure by providing you an ability to save t
 
 ## Create a new tag
 
-**1.** Click on **Add Tag** in d
-ashboard section to create a **New Tag.**
+**1.** Click on **Add Tag** in dashboard section to create a **New Tag.**
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/457c21c373c4db9d2f1ae47344146723ffe79d2d/images/add_tag.png)
 
@@ -48,7 +47,7 @@ To **Delete** the tag click on delete icon.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e571af6fdf36fb0e58a5248a84669f5f73f5703f/images/delete_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5MjcwMjgsMTM1Mzg5NTgxNCwxNTE1NT
-gyMzc0LC0xMjEwNDAwMDMyLDE3NjEzNDQyNDQsLTgxNjY4NzY5
-LDExNTU2Mjk0MzMsOTkyMzAzNjEzXX0=
+eyJoaXN0b3J5IjpbMTM1Mzg5NTgxNCw2MDkyNzAyOCwxMzUzOD
+k1ODE0LDE1MTU1ODIzNzQsLTEyMTA0MDAwMzIsMTc2MTM0NDI0
+NCwtODE2Njg3NjksMTE1NTYyOTQzMyw5OTIzMDM2MTNdfQ==
 -->
