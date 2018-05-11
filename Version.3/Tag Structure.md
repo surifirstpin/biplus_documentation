@@ -34,6 +34,9 @@ Before saving the tag select the privacy option to enable the Access to tag.
   -  **Private** Tag saved in private section is accessed by the user itself.
   -  **Public**  Tag saved in public section is accessed by all the users. 
   -  **Share** Tag saved under share section is accessed by specific set of users.
+
+All the saved tags are visible in tree view as shown below.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQxOTI4OTVdfQ==
+eyJoaXN0b3J5IjpbMTU5MzM5NjAzNywtMTczNDE5Mjg5NV19
 -->
