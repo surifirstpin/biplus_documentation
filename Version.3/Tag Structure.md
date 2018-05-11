@@ -36,9 +36,12 @@ Before saving the tag select the privacy option to enable the Access to tag.
   -  **Share** Tag saved under share section is accessed by specific set of users.
 
 All the saved tags are visible in tree view as shown below.
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/191f8906591a719bb70c33b807cb4c3dabf4ed4e/images/tree_view.png)
+
+To Edit or Delete 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODYxMDI5NTIsMTU5MzM5NjAzNywtMT
-czNDE5Mjg5NV19
+eyJoaXN0b3J5IjpbNDk0OTQ5MzczLC0xMDg2MTAyOTUyLC0xNz
+M0MTkyODk1XX0=
 -->
