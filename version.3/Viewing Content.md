@@ -19,16 +19,15 @@ Click on the **Work Space** under Dashboard Section to view the content in BiPlu
 - Click on any of the Report to view it.
 > **Note** : Reports in work space are identified with **Line-Chart Icon.**
 
-- Click on any Dashboard (tachometer icon) to view it.
-> **Note** : Reports in work space are identified with *.**
-
+- Click on any Dashboard to view it.
+> **Note** : Reports in work space are identified with **Tachometer icon.**
 
 
 
 
 https://docs.looker.com/sharing-and-publishing/finding-content
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzgwOTgxMDgsMTAwNjg4MDg2NiwxMj
-g0NTc0NDU3LDIwMDExNjI5NzgsLTExMDEwODg5NzIsMTU3Mzk0
-NTU3MF19
+eyJoaXN0b3J5IjpbNDk3OTYzMDI5LDEwMDY4ODA4NjYsMTI4ND
+U3NDQ1NywyMDAxMTYyOTc4LC0xMTAxMDg4OTcyLDE1NzM5NDU1
+NzBdfQ==
 -->
