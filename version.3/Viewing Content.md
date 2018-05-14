@@ -16,7 +16,9 @@ Click on the **Work Space** under Dashboard Section to view the content in BiPlu
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/980dfc884f8704e935002d0a97ed903510de517e/images/view_list.png)
 
-Click on any of the Report to view it.
+Click on any of the Report with Line-chart icon to view it.
+
+Click on any Dashboard
 
 
 
@@ -24,6 +26,7 @@ Click on any of the Report to view it.
 
 https://docs.looker.com/sharing-and-publishing/finding-content
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjg4MDg2NiwxMjg0NTc0NDU3LDIwMD
-ExNjI5NzgsLTExMDEwODg5NzIsMTU3Mzk0NTU3MF19
+eyJoaXN0b3J5IjpbLTEwMDIwMjY2MzcsMTAwNjg4MDg2NiwxMj
+g0NTc0NDU3LDIwMDExNjI5NzgsLTExMDEwODg5NzIsMTU3Mzk0
+NTU3MF19
 -->
