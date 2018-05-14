@@ -11,10 +11,10 @@ All the saved content is available in Hierarchical tag structure. Tag includes d
 
 **Now Lets Get Started;**
 
-Click on the **Work Space** under Dashboard Section to view the content in BiPlus 
+Click on the **Work Space** under Dashboard Section to view the content in BiPlus.
 
-
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/980dfc884f8704e935002d0a97ed903510de517e/images/view_list.png)
 
 
 
@@ -22,6 +22,6 @@ Click on the **Work Space** under Dashboard Section to view the content in BiPlu
 
 https://docs.looker.com/sharing-and-publishing/finding-content
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTE2Mjk3OCwtMTEwMTA4ODk3MiwxNT
-czOTQ1NTcwXX0=
+eyJoaXN0b3J5IjpbMTI4NDU3NDQ1NywyMDAxMTYyOTc4LC0xMT
+AxMDg4OTcyLDE1NzM5NDU1NzBdfQ==
 -->
