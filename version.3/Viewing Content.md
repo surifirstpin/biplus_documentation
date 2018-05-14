@@ -20,8 +20,7 @@ Click on the **WorkSpace** under Dashboard Section to view the content in BiPlus
 
 
 
-
 https://docs.looker.com/sharing-and-publishing/finding-content
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Mzk0NTU3MF19
+eyJoaXN0b3J5IjpbLTExMDEwODg5NzIsMTU3Mzk0NTU3MF19
 -->
