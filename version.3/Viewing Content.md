@@ -9,19 +9,20 @@ This Section Discusses about the viewing the already existing data in BiPlus, Yo
 
 All the saved content is available in Hierarchical tag structure. Tag includes dashboard and Reports that can be accessed to view.
 
-**Now Lets Get Started;**
+**Now Lets Get Started :**
 
 Click on the **Work Space** under Dashboard Section to view the content in BiPlus.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/980dfc884f8704e935002d0a97ed903510de517e/images/view_list.png)
 
+Click on any of the Report to view
 
 
 
 
 https://docs.looker.com/sharing-and-publishing/finding-content
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDU3NDQ1NywyMDAxMTYyOTc4LC0xMT
-AxMDg4OTcyLDE1NzM5NDU1NzBdfQ==
+eyJoaXN0b3J5IjpbLTgwMDU5NTU2MSwxMjg0NTc0NDU3LDIwMD
+ExNjI5NzgsLTExMDEwODg5NzIsMTU3Mzk0NTU3MF19
 -->
