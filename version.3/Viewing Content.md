@@ -13,9 +13,6 @@ All the saved content is available in Hierarchical tag structure. Tag includes d
 
 Click on the **Work Space** under Dashboard Section to view the content in BiPlus.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/980dfc884f8704e935002d0a97ed903510de517e/images/view_list.png)
-
 - Click on any Tag to view it.
 > **Note** : Tags under work space are identified with **Plus-Square-o icon.**
 
@@ -25,12 +22,13 @@ Click on the **Work Space** under Dashboard Section to view the content in BiPlu
 - Click on any Dashboard to view it.
 > **Note** : Reports in work space are identified with **Tachometer icon.**
 
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/acecb4718f4fcc87c3245fbb9a955c19c1bf9370/images/view_list1.png)
 
 
 https://docs.looker.com/sharing-and-publishing/finding-content
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDg2NzM4NCw0OTc5NjMwMjksMTAwNj
-g4MDg2NiwxMjg0NTc0NDU3LDIwMDExNjI5NzgsLTExMDEwODg5
-NzIsMTU3Mzk0NTU3MF19
+eyJoaXN0b3J5IjpbMTQ2NDc0ODI0MCwtODAwODY3Mzg0LDQ5Nz
+k2MzAyOSwxMDA2ODgwODY2LDEyODQ1NzQ0NTcsMjAwMTE2Mjk3
+OCwtMTEwMTA4ODk3MiwxNTczOTQ1NTcwXX0=
 -->
