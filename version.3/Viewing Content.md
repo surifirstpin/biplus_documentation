@@ -16,9 +16,9 @@ Click on the **Work Space** under Dashboard Section to view the content in BiPlu
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/980dfc884f8704e935002d0a97ed903510de517e/images/view_list.png)
 
-Click on any of the Report (Line-chart icon to view it.
+Click on any of the Report (Line-chart icon) to view it.
 
-Click on any Dashboard (tacometer icon) 
+Click on any Dashboard (tacometer icon) to View i
 
 
 
@@ -26,7 +26,7 @@ Click on any Dashboard (tacometer icon)
 
 https://docs.looker.com/sharing-and-publishing/finding-content
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA3ODc1OSwxMDA2ODgwODY2LDEyOD
-Q1NzQ0NTcsMjAwMTE2Mjk3OCwtMTEwMTA4ODk3MiwxNTczOTQ1
-NTcwXX0=
+eyJoaXN0b3J5IjpbNTg1NjMyNjIzLDEwMDY4ODA4NjYsMTI4ND
+U3NDQ1NywyMDAxMTYyOTc4LC0xMTAxMDg4OTcyLDE1NzM5NDU1
+NzBdfQ==
 -->
