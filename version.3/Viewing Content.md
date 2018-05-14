@@ -17,8 +17,10 @@ Click on the **Work Space** under Dashboard Section to view the content in BiPlu
 ](https://raw.githubusercontent.com/sv18042016/fp1/980dfc884f8704e935002d0a97ed903510de517e/images/view_list.png)
 
 - Click on any of the Report to view it.
-Note : Reports in worspace are ide
-- Click on any Dashboard (tachometer icon) to view it
+> **Note** : Reports in work space are identified with **Line-Chart Icon.**
+
+- Click on any Dashboard (tachometer icon) to view it.
+> **Note** : Reports in work space are identified with *.**
 
 
 
@@ -26,7 +28,7 @@ Note : Reports in worspace are ide
 
 https://docs.looker.com/sharing-and-publishing/finding-content
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDU1Nzk4NTAsMTAwNjg4MDg2NiwxMj
+eyJoaXN0b3J5IjpbLTE0NzgwOTgxMDgsMTAwNjg4MDg2NiwxMj
 g0NTc0NDU3LDIwMDExNjI5NzgsLTExMDEwODg5NzIsMTU3Mzk0
 NTU3MF19
 -->
