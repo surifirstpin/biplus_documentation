@@ -26,9 +26,9 @@ Click on the **Work Space** under Dashboard Section to view the content in BiPlu
 ](https://raw.githubusercontent.com/sv18042016/fp1/acecb4718f4fcc87c3245fbb9a955c19c1bf9370/images/view_list1.png)
 
 
-https://docs.looker.com/sharing-and-publishing/finding-content
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDc0ODI0MCwtODAwODY3Mzg0LDQ5Nz
-k2MzAyOSwxMDA2ODgwODY2LDEyODQ1NzQ0NTcsMjAwMTE2Mjk3
-OCwtMTEwMTA4ODk3MiwxNTczOTQ1NTcwXX0=
+eyJoaXN0b3J5IjpbLTc5NDMzOTMxNCwxNDY0NzQ4MjQwLC04MD
+A4NjczODQsNDk3OTYzMDI5LDEwMDY4ODA4NjYsMTI4NDU3NDQ1
+NywyMDAxMTYyOTc4LC0xMTAxMDg4OTcyLDE1NzM5NDU1NzBdfQ
+==
 -->
