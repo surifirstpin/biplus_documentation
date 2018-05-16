@@ -153,8 +153,8 @@ For  **Measures** its totally opposite in direction.
 
 ## Pivot
 
-
+Multiple dimensions in the report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. To **Pivot** a dimension click on pivot for dimension before or after running the query.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ2MjgxNjgsOTU2MzY5MzE0LC02MD
+eyJoaXN0b3J5IjpbLTE1NTk4MzQ3NjYsOTU2MzY5MzE0LC02MD
 E4MzE0NTAsLTkyNzM3NTM0MF19
 -->
