@@ -153,11 +153,12 @@ For **Measures**
 
 ## Display Totals
 
-**8.**  By selecting the **check box** it displays the total values of the measure fields obtained.
+**8.**    By selecting the  **check box** for totals, the report is displayed with total sum values of the measure fields obtained.
+
 
  ## Display  Row Limit
 
-**9.**  You can limit the rows extracted to 100, 500, 1000, 5000, etc selecting the limit value to your desired number from drop down list.                                                          
+**9.**  You can limit the rows extracted to 100, 500, 1000, 5000, etc. By selecting the limit value to your desired number from drop down list.                                                          
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/61de99f8d763cf180029d192cc9b991ed454a35a/images/query_time.png)
@@ -337,7 +338,7 @@ To view the SQL query built  in analysis section click on **SQL** section.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MzExNDk2Miw0OTA1ODU1NTUsMTE1ND
-Y5OTkwMSw0MzYxMjg4MzYsLTk5MTUyNjQ2MiwtMTkxMjg4NDQ3
-OCw0Mjk2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbMTE2Mzk3Njc4OSwxODYzMTE0OTYyLDQ5MD
+U4NTU1NSwxMTU0Njk5OTAxLDQzNjEyODgzNiwtOTkxNTI2NDYy
+LC0xOTEyODg0NDc4LDQyOTY0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
