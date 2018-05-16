@@ -170,8 +170,13 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f7de77576b380d0f00383c9e9212b895f66d1544/images/pivot_result.png)
+
+
+## Pin or Remove Pin
+
+To freeze the column field values while scrolling the data to right or left, click on **Pin** in field drop down provided and to release the same click on **Remove Pin.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTc2OTkyNSwtMTE5NDg5NzgwNyw3Mz
-AxOTIxNzIsLTc5NTUxODE4NSwtMTU1OTgzNDc2Niw5NTYzNjkz
-MTQsLTYwMTgzMTQ1MCwtOTI3Mzc1MzQwXX0=
+eyJoaXN0b3J5IjpbLTE2ODY1NDk1MTQsLTExOTQ4OTc4MDcsNz
+MwMTkyMTcyLC03OTU1MTgxODUsLTE1NTk4MzQ3NjYsOTU2MzY5
+MzE0LC02MDE4MzE0NTAsLTkyNzM3NTM0MF19
 -->
