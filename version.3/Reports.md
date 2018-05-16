@@ -150,7 +150,11 @@ For  **Measures** its totally opposite in direction.
 **13.**  By selecting the  **check box** for totals, the report is displayed with total sum values of the measure fields obtained.
 
 **14.**  You can limit the rows extracted to 100, 500, 1000, 5000, etc. By selecting the limit value to your desired number from drop down list.
+
+## Pivot
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2MzY5MzE0LC02MDE4MzE0NTAsLTkyNz
-M3NTM0MF19
+eyJoaXN0b3J5IjpbLTEwNDQ2MjgxNjgsOTU2MzY5MzE0LC02MD
+E4MzE0NTAsLTkyNzM3NTM0MF19
 -->
