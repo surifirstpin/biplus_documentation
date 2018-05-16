@@ -120,6 +120,7 @@ Following are the different types of filters characteristics applicable ;
 
 **8.** To view the column data in ascending or descending orders , to carry out this function Click On  **Order**  and add the column fields in order section.
  **a.** To add more sorting orders to report click **Add Order**.
+ 
 **b.** To Delete the order sorting for fields click **Ban Icon**.
 
 **9.** To hide the **Filter** or **Order** section Click on angle-double-up icon on to far right of the order section. To unhide click on angle-double-down icon at same location.
@@ -150,5 +151,6 @@ For  **Measures** its totally opposite in direction.
 
 **14.**  You can limit the rows extracted to 100, 500, 1000, 5000, etc. By selecting the limit value to your desired number from drop down list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTgzMTQ1MCwtOTI3Mzc1MzQwXX0=
+eyJoaXN0b3J5IjpbOTU2MzY5MzE0LC02MDE4MzE0NTAsLTkyNz
+M3NTM0MF19
 -->
