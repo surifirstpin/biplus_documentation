@@ -155,11 +155,17 @@ For  **Measures** its totally opposite in direction.
 
 Multiple dimensions in the report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. To **Pivot** a dimension click on pivot for dimension before or after running the query.
 
+ **You can apply pivot to fields in 2 ways ;**
+ 
+**a.** Apply pivot **After Retrieving** the data by selecting the pivot in drop down of the field.
+ 
+**b.** Apply pivot **Before Retrieving** the data while selecting the fields by clicking on pivot icon.
+
 > **Note :** you can add more pivots to other dimension fields but make sure you have at least one un-pivoted dimension and a measure value.
 
 **For Example** : if you want to view quantity sum based on station code then apply pivot for station code ( Dimension).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI0NDc5OTUsLTc5NTUxODE4NSwtMT
-U1OTgzNDc2Niw5NTYzNjkzMTQsLTYwMTgzMTQ1MCwtOTI3Mzc1
-MzQwXX0=
+eyJoaXN0b3J5IjpbNzMwMTkyMTcyLC03OTU1MTgxODUsLTE1NT
+k4MzQ3NjYsOTU2MzY5MzE0LC02MDE4MzE0NTAsLTkyNzM3NTM0
+MF19
 -->
