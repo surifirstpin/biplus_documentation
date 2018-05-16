@@ -167,7 +167,7 @@ For **Measures**
 
 Multiple dimensions in the report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. To **Pivot** a dimension click on pivot for dimension before or after running the query.
 
-> **Note :** you can add more pivots to other dimension but make sure you have at least one un-pivoted dimension and a measure value.
+> **Note :** you can add more pivots to other dimension fields but make sure you have at least one un-pivoted dimension and a measure value.
 
 >**For instance,** if you want to view the number of order received  based on the month  it displays in following way:
 
@@ -338,7 +338,8 @@ To view the SQL query built  in analysis section click on **SQL** section.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2Mzk3Njc4OSwxODYzMTE0OTYyLDQ5MD
-U4NTU1NSwxMTU0Njk5OTAxLDQzNjEyODgzNiwtOTkxNTI2NDYy
-LC0xOTEyODg0NDc4LDQyOTY0NDQwMSwyMTM4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbMTczODI5ODMxMiwxMTYzOTc2Nzg5LDE4Nj
+MxMTQ5NjIsNDkwNTg1NTU1LDExNTQ2OTk5MDEsNDM2MTI4ODM2
+LC05OTE1MjY0NjIsLTE5MTI4ODQ0NzgsNDI5NjQ0NDAxLDIxMz
+gzODU3MDBdfQ==
 -->
