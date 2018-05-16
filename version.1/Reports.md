@@ -166,9 +166,12 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 
 > **Note :** you can add more pivots to other dimension fields but make sure you have at least one un-pivoted dimension and a measure value.
 
-**For Example** : if you want to view quantity sum based on station code then apply pivot for station code ( Dimension).
+**For Example** : if you want to view quantity sum based on station code then apply pivot for station code (Dimension).
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/f7de77576b380d0f00383c9e9212b895f66d1544/images/pivot_result.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzc5MTUzNiwtMTE5NDg5NzgwNyw3Mz
+eyJoaXN0b3J5IjpbMTA2OTc2OTkyNSwtMTE5NDg5NzgwNyw3Mz
 AxOTIxNzIsLTc5NTUxODE4NSwtMTU1OTgzNDc2Niw5NTYzNjkz
 MTQsLTYwMTgzMTQ1MCwtOTI3Mzc1MzQwXX0=
 -->
