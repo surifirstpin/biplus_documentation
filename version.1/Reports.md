@@ -154,7 +154,9 @@ For  **Measures** its totally opposite in direction.
 ## Pivot
 
 Multiple dimensions in the report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. To **Pivot** a dimension click on pivot for dimension before or after running the query.
+> **Note :** you can add more pivots to other dimension fields but make sure you have at least one un-pivoted dimension and a measure value.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk4MzQ3NjYsOTU2MzY5MzE0LC02MD
-E4MzE0NTAsLTkyNzM3NTM0MF19
+eyJoaXN0b3J5IjpbLTc5NTUxODE4NSwtMTU1OTgzNDc2Niw5NT
+YzNjkzMTQsLTYwMTgzMTQ1MCwtOTI3Mzc1MzQwXX0=
 -->
