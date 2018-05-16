@@ -161,11 +161,14 @@ Multiple dimensions in the report data are often easier to look at, when you piv
  
 **b.** Apply pivot **Before Retrieving** the data while selecting the fields by clicking on pivot icon.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/e7d0e669ada7758b57dd89fdaa4442918156255f/images/full%20pivot.png)
+
 > **Note :** you can add more pivots to other dimension fields but make sure you have at least one un-pivoted dimension and a measure value.
 
 **For Example** : if you want to view quantity sum based on station code then apply pivot for station code ( Dimension).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwMTkyMTcyLC03OTU1MTgxODUsLTE1NT
-k4MzQ3NjYsOTU2MzY5MzE0LC02MDE4MzE0NTAsLTkyNzM3NTM0
-MF19
+eyJoaXN0b3J5IjpbLTExOTQ4OTc4MDcsNzMwMTkyMTcyLC03OT
+U1MTgxODUsLTE1NTk4MzQ3NjYsOTU2MzY5MzE0LC02MDE4MzE0
+NTAsLTkyNzM3NTM0MF19
 -->
