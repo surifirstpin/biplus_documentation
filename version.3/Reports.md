@@ -186,22 +186,22 @@ By selecting group option for fields you can group the data and display the cons
 
 To carry out Multi-level grouping on the data extracted. Select group option for 2 dimension fields in field drop down list. 
 
-> For Example : To get it clear on multi grouping, i am adding one more dimension fields **Payment_mode** to report  for better understanding. Apply group option to **Stationcode** and **Order_attendant_ID.** Now on expanding Stationcode_2 which holds 12 records 
+> For Example : To get it clear on multi grouping, i am adding one more dimension fields **Payment_mode** to report  for better understanding. Apply group option to **Stationcode** and **Order_attendant_ID.** Now on expanding Stationcode_2 which, it displays corresponding Order_attendant_ID on further expanding it it displays the payment
 
 
 **17.**  To find the specific field value from the data extracted click on **Find** in the  field drop down.
 
 
-**18.**  To hide the specific field in the visualization charts click on **Hide Visualization** in the drop down of field  and to display the same click on **Show visualization**
+**18.**  To hide the specific field in the visualization charts click on **Hide Visualization** in the drop down of field  and to display the same click on **Show visualization**.
 
 **19.**  To remove a specific field column from the extracted list click on **Remove** in drop down list of the field.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/276cae284c8c3760cc4056a88b970694ba9d7d39/images/pin_full;.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTkwNDYwMyw4MDQ5NzY2MjAsNTU4MT
-QxMjkwLDE3NzIzODIzMjIsNzM4MzY1MDA2LC03ODE4NjU0MzAs
-LTE2ODY1NDk1MTQsLTExOTQ4OTc4MDcsNzMwMTkyMTcyLC03OT
-U1MTgxODUsLTE1NTk4MzQ3NjYsOTU2MzY5MzE0LC02MDE4MzE0
-NTAsLTkyNzM3NTM0MF19
+eyJoaXN0b3J5IjpbLTExMjA3NzA5NTgsLTQ0MTkwNDYwMyw4MD
+Q5NzY2MjAsNTU4MTQxMjkwLDE3NzIzODIzMjIsNzM4MzY1MDA2
+LC03ODE4NjU0MzAsLTE2ODY1NDk1MTQsLTExOTQ4OTc4MDcsNz
+MwMTkyMTcyLC03OTU1MTgxODUsLTE1NTk4MzQ3NjYsOTU2MzY5
+MzE0LC02MDE4MzE0NTAsLTkyNzM3NTM0MF19
 -->
