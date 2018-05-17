@@ -186,7 +186,7 @@ By selecting group option for fields you can group the data and display the cons
 
 To carry out Multi-level grouping on the data extracted. Select group option for 2 dimension fields in field drop down list. 
 
-> For Example : to get it sclear on multigroupo=ing, i am adding one more dimension fiels PaymentMode to report and run it. Apply group option to Stationcode and Ord
+> For Example : to get it clear on multi grouping, i am adding one more dimension fields PaymentMode to report and run it. Apply group option to Stationcode and OrderattendantID. 
 
 
 **17.**  To find the specific field value from the data extracted click on **Find** in the  field drop down.
@@ -199,8 +199,8 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/276cae284c8c3760cc4056a88b970694ba9d7d39/images/pin_full;.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1Mjk4NjY3LDE3NzIzODIzMjIsNzM4Mz
-Y1MDA2LC03ODE4NjU0MzAsLTE2ODY1NDk1MTQsLTExOTQ4OTc4
-MDcsNzMwMTkyMTcyLC03OTU1MTgxODUsLTE1NTk4MzQ3NjYsOT
-U2MzY5MzE0LC02MDE4MzE0NTAsLTkyNzM3NTM0MF19
+eyJoaXN0b3J5IjpbLTEwMTg5NTg0MTEsMTc3MjM4MjMyMiw3Mz
+gzNjUwMDYsLTc4MTg2NTQzMCwtMTY4NjU0OTUxNCwtMTE5NDg5
+NzgwNyw3MzAxOTIxNzIsLTc5NTUxODE4NSwtMTU1OTgzNDc2Ni
+w5NTYzNjkzMTQsLTYwMTgzMTQ1MCwtOTI3Mzc1MzQwXX0=
 -->
