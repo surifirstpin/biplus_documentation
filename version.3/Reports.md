@@ -186,7 +186,7 @@ By selecting group option for fields you can group the data and display the cons
 
 To carry out Multi-level grouping on the data extracted. Select group option for 2 dimension fields in field drop down list. 
 
-> For Example : Here in below image we are applying group options to two dimension fields Stationcode and order_attendant_ID. On expanding Stationcode2 it displays the grouped values of order_attendant_id on further expansion it displays the values grouped under 
+> For Example : to get it sclear on multigroupo=ing, i am adding one more dimension fiels PaymentMode to report and run it. Apply group option to Stationcode and Orderat
 
 
 **17.**  To find the specific field value from the data extracted click on **Find** in the  field drop down.
@@ -199,8 +199,8 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/276cae284c8c3760cc4056a88b970694ba9d7d39/images/pin_full;.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjM4MjMyMiw3MzgzNjUwMDYsLTc4MT
-g2NTQzMCwtMTY4NjU0OTUxNCwtMTE5NDg5NzgwNyw3MzAxOTIx
-NzIsLTc5NTUxODE4NSwtMTU1OTgzNDc2Niw5NTYzNjkzMTQsLT
-YwMTgzMTQ1MCwtOTI3Mzc1MzQwXX0=
+eyJoaXN0b3J5IjpbLTYwMjY2MTg3NywxNzcyMzgyMzIyLDczOD
+M2NTAwNiwtNzgxODY1NDMwLC0xNjg2NTQ5NTE0LC0xMTk0ODk3
+ODA3LDczMDE5MjE3MiwtNzk1NTE4MTg1LC0xNTU5ODM0NzY2LD
+k1NjM2OTMxNCwtNjAxODMxNDUwLC05MjczNzUzNDBdfQ==
 -->
