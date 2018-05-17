@@ -184,9 +184,9 @@ By selecting group option for fields you can group the data and display the cons
 
 ## Multi-Level grouping
 
-To carry out Multi-level grouping on the data extracted. Select group option for the column fields in field drop down list. 
+To carry out Multi-level grouping on the data extracted. Select group option for 2 dimension fields in field drop down list. 
 
-
+> For Example : Here in below image we areapplying grouop options to 
 **17.**  To find the specific field value from the data extracted click on **Find** in the  field drop down.
 
 
@@ -197,8 +197,8 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/276cae284c8c3760cc4056a88b970694ba9d7d39/images/pin_full;.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDM3NTEwMzksLTc4MTg2NTQzMCwtMT
-Y4NjU0OTUxNCwtMTE5NDg5NzgwNyw3MzAxOTIxNzIsLTc5NTUx
-ODE4NSwtMTU1OTgzNDc2Niw5NTYzNjkzMTQsLTYwMTgzMTQ1MC
-wtOTI3Mzc1MzQwXX0=
+eyJoaXN0b3J5IjpbMTI1NDAyNzU3MSwtNzgxODY1NDMwLC0xNj
+g2NTQ5NTE0LC0xMTk0ODk3ODA3LDczMDE5MjE3MiwtNzk1NTE4
+MTg1LC0xNTU5ODM0NzY2LDk1NjM2OTMxNCwtNjAxODMxNDUwLC
+05MjczNzUzNDBdfQ==
 -->
