@@ -175,8 +175,15 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 ## Pin or Remove Pin
 
 To freeze the column field values while scrolling the data to right or left, click on **Pin** in field drop down provided and to release the same click on **Remove Pin.**
+
+## Group / Un-Group
+
+By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on **Group** in field drop down provided and to release the same click on **Un-Group**. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY1NDk1MTQsLTExOTQ4OTc4MDcsNz
-MwMTkyMTcyLC03OTU1MTgxODUsLTE1NTk4MzQ3NjYsOTU2MzY5
-MzE0LC02MDE4MzE0NTAsLTkyNzM3NTM0MF19
+eyJoaXN0b3J5IjpbLTc4MTg2NTQzMCwtMTY4NjU0OTUxNCwtMT
+E5NDg5NzgwNyw3MzAxOTIxNzIsLTc5NTUxODE4NSwtMTU1OTgz
+NDc2Niw5NTYzNjkzMTQsLTYwMTgzMTQ1MCwtOTI3Mzc1MzQwXX
+0=
 -->
