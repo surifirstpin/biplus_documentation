@@ -179,11 +179,24 @@ To freeze the column field values while scrolling the data to right or left, cli
 ## Group / Un-Group
 
 By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on **Group** in field drop down provided and to release the same click on **Un-Group**. 
+## Find
+
+To find the specific field value from the data extracted click on **Find** in the  field drop down.
 
 
+## Field Visualization On / Off
+
+To hide the specific field in the visualization charts click on **Hide Visualization** in the drop down of field  and to display the same click on **Show visualization**
+
+## Remove
+
+To remove a specific field column from the extracted list click on **Remove** in drop down list of the field.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/276cae284c8c3760cc4056a88b970694ba9d7d39/images/pin_full;.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTg2NTQzMCwtMTY4NjU0OTUxNCwtMT
-E5NDg5NzgwNyw3MzAxOTIxNzIsLTc5NTUxODE4NSwtMTU1OTgz
-NDc2Niw5NTYzNjkzMTQsLTYwMTgzMTQ1MCwtOTI3Mzc1MzQwXX
-0=
+eyJoaXN0b3J5IjpbMTE0Nzg5ODk0OCwtNzgxODY1NDMwLC0xNj
+g2NTQ5NTE0LC0xMTk0ODk3ODA3LDczMDE5MjE3MiwtNzk1NTE4
+MTg1LC0xNTU5ODM0NzY2LDk1NjM2OTMxNCwtNjAxODMxNDUwLC
+05MjczNzUzNDBdfQ==
 -->
