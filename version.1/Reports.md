@@ -290,16 +290,21 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - **Currency** you can check the field values of the measure by applying different types of currency formats, BiPlus supports $,   ₹  ,   €  ,  £.
 
-![
-](!%5B%20%5D%28https://raw.githubusercontent.com/sv18042016/fp1/e1bd201419a03bfb1375b64b9e74fb8e06830061/images/data_section_analysis.png%29)
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/2300d0f85947e474f369d3b074655040658bd753/images/full_datasection.png)
+
+## SQL Query 
+
+To view the SQL query built  in analysis section click on **SQL** section.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzYxNjQwNiwxMjUxOTA4MzYxLDUyNT
-M4MDE4NywxNjUwNTQzMzYzLDEyMTMxNTE3OTMsLTQ0MTkwNDYw
-Myw4MDQ5NzY2MjAsNTU4MTQxMjkwLDE3NzIzODIzMjIsNzM4Mz
-Y1MDA2LC03ODE4NjU0MzAsLTE2ODY1NDk1MTQsLTExOTQ4OTc4
-MDcsNzMwMTkyMTcyLC03OTU1MTgxODUsLTE1NTk4MzQ3NjYsOT
-U2MzY5MzE0LC02MDE4MzE0NTAsLTkyNzM3NTM0MF19
+eyJoaXN0b3J5IjpbLTE4MzQyOTk4MDYsMTI1MTkwODM2MSw1Mj
+UzODAxODcsMTY1MDU0MzM2MywxMjEzMTUxNzkzLC00NDE5MDQ2
+MDMsODA0OTc2NjIwLDU1ODE0MTI5MCwxNzcyMzgyMzIyLDczOD
+M2NTAwNiwtNzgxODY1NDMwLC0xNjg2NTQ5NTE0LC0xMTk0ODk3
+ODA3LDczMDE5MjE3MiwtNzk1NTE4MTg1LC0xNTU5ODM0NzY2LD
+k1NjM2OTMxNCwtNjAxODMxNDUwLC05MjczNzUzNDBdfQ==
 -->
