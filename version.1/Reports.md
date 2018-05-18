@@ -231,11 +231,14 @@ After navigating to calculated column, enter below fields;
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b10da52fba77e866f8f30ae57fabe5c0d0f8c142/images/ful_calculated.png)
+
+ Click **ok** after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image,
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTY1NDUyNywxNjUwNTQzMzYzLDEyMT
-MxNTE3OTMsLTQ0MTkwNDYwMyw4MDQ5NzY2MjAsNTU4MTQxMjkw
-LDE3NzIzODIzMjIsNzM4MzY1MDA2LC03ODE4NjU0MzAsLTE2OD
-Y1NDk1MTQsLTExOTQ4OTc4MDcsNzMwMTkyMTcyLC03OTU1MTgx
-ODUsLTE1NTk4MzQ3NjYsOTU2MzY5MzE0LC02MDE4MzE0NTAsLT
-kyNzM3NTM0MF19
+eyJoaXN0b3J5IjpbNTI1MzgwMTg3LDE2NTA1NDMzNjMsMTIxMz
+E1MTc5MywtNDQxOTA0NjAzLDgwNDk3NjYyMCw1NTgxNDEyOTAs
+MTc3MjM4MjMyMiw3MzgzNjUwMDYsLTc4MTg2NTQzMCwtMTY4Nj
+U0OTUxNCwtMTE5NDg5NzgwNyw3MzAxOTIxNzIsLTc5NTUxODE4
+NSwtMTU1OTgzNDc2Niw5NTYzNjkzMTQsLTYwMTgzMTQ1MCwtOT
+I3Mzc1MzQwXX0=
 -->
