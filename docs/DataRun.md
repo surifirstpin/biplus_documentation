@@ -267,7 +267,7 @@ Click on **Calculated column** button to enable table calculations as shown in b
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
 
-- **Run** the report after deriving the calculation all the values based on calculation is shown up in green colour as shown in below image,
+- Click **ok** after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image,
 
 
 ![
@@ -338,8 +338,8 @@ To view the SQL query built  in analysis section click on **SQL** section.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODI5ODMxMiwxMTYzOTc2Nzg5LDE4Nj
-MxMTQ5NjIsNDkwNTg1NTU1LDExNTQ2OTk5MDEsNDM2MTI4ODM2
-LC05OTE1MjY0NjIsLTE5MTI4ODQ0NzgsNDI5NjQ0NDAxLDIxMz
-gzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbLTQxNjE3MjkzOSwxNzM4Mjk4MzEyLDExNj
+M5NzY3ODksMTg2MzExNDk2Miw0OTA1ODU1NTUsMTE1NDY5OTkw
+MSw0MzYxMjg4MzYsLTk5MTUyNjQ2MiwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
