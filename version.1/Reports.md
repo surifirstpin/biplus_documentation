@@ -210,6 +210,9 @@ Calculated column is a functionality that allows to manipulate the retrieved dat
 
 Click on  **Calculated column**  button to enable table calculations as shown in below image,
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/3fb590c409cd0e47262a69c18bbde38f424ca714/images/calculated_col.png)
+
 -   **Field name**  unique identifier name to refer calculated column.
     
 -   **Label**  labeling the calculated column.
@@ -221,11 +224,13 @@ Click on  **Calculated column**  button to enable table calculations as shown in
 -   **Calculation**  derive arithmetical & logical expressions.
     
 -   **Calculate on the raw data**  this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDU0MzM2MywxMjEzMTUxNzkzLC00ND
-E5MDQ2MDMsODA0OTc2NjIwLDU1ODE0MTI5MCwxNzcyMzgyMzIy
-LDczODM2NTAwNiwtNzgxODY1NDMwLC0xNjg2NTQ5NTE0LC0xMT
-k0ODk3ODA3LDczMDE5MjE3MiwtNzk1NTE4MTg1LC0xNTU5ODM0
-NzY2LDk1NjM2OTMxNCwtNjAxODMxNDUwLC05MjczNzUzNDBdfQ
-==
+eyJoaXN0b3J5IjpbMTgxOTg1MTM5MSwxNjUwNTQzMzYzLDEyMT
+MxNTE3OTMsLTQ0MTkwNDYwMyw4MDQ5NzY2MjAsNTU4MTQxMjkw
+LDE3NzIzODIzMjIsNzM4MzY1MDA2LC03ODE4NjU0MzAsLTE2OD
+Y1NDk1MTQsLTExOTQ4OTc4MDcsNzMwMTkyMTcyLC03OTU1MTgx
+ODUsLTE1NTk4MzQ3NjYsOTU2MzY5MzE0LC02MDE4MzE0NTAsLT
+kyNzM3NTM0MF19
 -->
