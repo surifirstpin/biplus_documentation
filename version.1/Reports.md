@@ -206,7 +206,7 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 
 Calculated column is a functionality that allows to manipulate the retrieved data using arithmetical, logical, text-based and date-based functions and then displays it in the required format. the data extracted using calculated column will show up in green colour in the data table. Just like regular dimensions and measures, calculated columns are controlled from display in visualizations.
 
-> **Note :** To understand the total functionality of Calculated column, **Refer Calculated Column document.**
+> **Note :** To understand the total functionality of Calculated column, **"Refer Calculated Column Document".**
 
 Click on  **Calculated column**  button to enable table calculations as shown in below image,
 
@@ -290,7 +290,6 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - **Currency** BiPlus supports following currency formats $,   ₹  ,   €  ,  £.
 
-
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/2300d0f85947e474f369d3b074655040658bd753/images/full_datasection.png)
 
@@ -301,11 +300,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTU2MTY2LDE5MDI3NDg3NTEsLTE4Mz
-QyOTk4MDYsMTI1MTkwODM2MSw1MjUzODAxODcsMTY1MDU0MzM2
-MywxMjEzMTUxNzkzLC00NDE5MDQ2MDMsODA0OTc2NjIwLDU1OD
-E0MTI5MCwxNzcyMzgyMzIyLDczODM2NTAwNiwtNzgxODY1NDMw
-LC0xNjg2NTQ5NTE0LC0xMTk0ODk3ODA3LDczMDE5MjE3MiwtNz
-k1NTE4MTg1LC0xNTU5ODM0NzY2LDk1NjM2OTMxNCwtNjAxODMx
-NDUwXX0=
+eyJoaXN0b3J5IjpbMTIyNjE2MzkyNCwtNjU5NTYxNjYsMTkwMj
+c0ODc1MSwtMTgzNDI5OTgwNiwxMjUxOTA4MzYxLDUyNTM4MDE4
+NywxNjUwNTQzMzYzLDEyMTMxNTE3OTMsLTQ0MTkwNDYwMyw4MD
+Q5NzY2MjAsNTU4MTQxMjkwLDE3NzIzODIzMjIsNzM4MzY1MDA2
+LC03ODE4NjU0MzAsLTE2ODY1NDk1MTQsLTExOTQ4OTc4MDcsNz
+MwMTkyMTcyLC03OTU1MTgxODUsLTE1NTk4MzQ3NjYsOTU2MzY5
+MzE0XX0=
 -->
