@@ -236,8 +236,24 @@ After navigating to calculated column, enter below fields;
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d04e6cf056ed45cc004f6c0efcf0ceef32db9388/images/ful_calculated2.png)
+
+## Data 
+
+Data section under visualization is enabled based on the data retrieved for fields.
+
+ **Below are the parameters applicable on the data retrieved;**
+
+- **Row Grouping** enables row grouping for fields values based on the field selected as shown in the below image.
+
+- **Explore Enabled** to explore the data which are grouped select the check box **Explore Enabled.**
+
+- **Stacked** Series values are added on the y-axis, so each consecutive series appears above the last. Be sure that the units of all series match.
+
+- **Datasets** this section enables you to perform alignment, set currency formats, group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
+
+- **Legend** it will enable you to change the label for measure value in visualization charts as shown below.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODY3ODMxNiw1MjUzODAxODcsMTY1MD
+eyJoaXN0b3J5IjpbMTI1MTkwODM2MSw1MjUzODAxODcsMTY1MD
 U0MzM2MywxMjEzMTUxNzkzLC00NDE5MDQ2MDMsODA0OTc2NjIw
 LDU1ODE0MTI5MCwxNzcyMzgyMzIyLDczODM2NTAwNiwtNzgxOD
 Y1NDMwLC0xNjg2NTQ5NTE0LC0xMTk0ODk3ODA3LDczMDE5MjE3
