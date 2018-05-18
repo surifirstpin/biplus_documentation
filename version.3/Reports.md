@@ -252,11 +252,54 @@ Data section under visualization is enabled based on the data retrieved for fiel
 - **Datasets** this section enables you to perform alignment, set currency formats, group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
 
 - **Legend** it will enable you to change the label for measure value in visualization charts as shown below.
+
+
+##  Format
+
+  - **Format** enables different type of number format to the measure field value. Following are the list of number formats supported by BiPlus ;
+
+|  Example | Description |
+|  ------ | :------ |
+|  #  | Number(1234) |
+|  #.0  | Number with exactly one decimal(1234.0) |
+|  #.00  | Number with exactly two decimal(1234.00) |
+|  #.000 | Number with exactly three decimal(1234.000) |
+|  #,##0 | Number with comma between thousands(1,234) |
+|  #,##0.0 | Number with comma between thousands with and one decimal(1,234.0) |
+|  #,##0.00 | Number with comma between thousands and two decimal(1,234.00) |
+|  #,##0.000 | Number with comma between thousands and three decimal(1,234.000) |
+|  ###,###.0 | Number with comma between hundreds and one decimal(123,456.0) |
+|  ###,###.00 | Number with comma between hunderds and two decimal(123,456.00) |
+|  ###,###.000 | Number with comma between hunderds and three decimal(123,456.000) |
+|  ###.###,0 | Number with dot between hundreds and comma one decimal(123.456,0) |
+|  ###.###,00 | Number with dot between hundreds and comma two decimal(123.456,00) |
+|  ###.###,000 | Number with dot between hundreds and comma three decimal(123.456,0) |
+|  ### ###   | Number with space between hundreds(123 456) |
+|  #% | Percent with 0 decimals (1%). Please note multiplication by 100 happens automatically |
+|  #.0% | Percent with one decimals (1.0%). Please note multiplication by 100 happens automatically |
+|  #.00% | Percent with two decimals (1.00%). Please note multiplication by 100 happens automatically |
+|  #.000% | Percent with three decimals (1.000%). Please note multiplication by 100 happens automatically |
+|  # k | Number in thousand (1.234 k). Please note division by 1 thousand happens automatically |
+|  # M | Number in Millions (0.001234 M).please note division by 1 million happens automatically |
+|  *00#  | Number zeropadded to 3 places (001) |
+|  *00#.00 | Number zeropadded to 3 places and exactly 2 decimals |
+|  $# | Dollar with 0 decimal |
+|  $#.00  | Dollar with 2 decimal |
+|  $#,##0.00 | Dollars with comma between thousands and 2 decimals ($1,234.00) |
+
+
+- **Currency** you can check the field values of the measure by applying different types of currency formats, BiPlus supports $,   ₹  ,   €  ,  £.
+
+![
+](!%5B%20%5D%28https://raw.githubusercontent.com/sv18042016/fp1/e1bd201419a03bfb1375b64b9e74fb8e06830061/images/data_section_analysis.png%29)
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/2300d0f85947e474f369d3b074655040658bd753/images/full_datasection.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTkwODM2MSw1MjUzODAxODcsMTY1MD
-U0MzM2MywxMjEzMTUxNzkzLC00NDE5MDQ2MDMsODA0OTc2NjIw
-LDU1ODE0MTI5MCwxNzcyMzgyMzIyLDczODM2NTAwNiwtNzgxOD
-Y1NDMwLC0xNjg2NTQ5NTE0LC0xMTk0ODk3ODA3LDczMDE5MjE3
-MiwtNzk1NTE4MTg1LC0xNTU5ODM0NzY2LDk1NjM2OTMxNCwtNj
-AxODMxNDUwLC05MjczNzUzNDBdfQ==
+eyJoaXN0b3J5IjpbLTc3NzYxNjQwNiwxMjUxOTA4MzYxLDUyNT
+M4MDE4NywxNjUwNTQzMzYzLDEyMTMxNTE3OTMsLTQ0MTkwNDYw
+Myw4MDQ5NzY2MjAsNTU4MTQxMjkwLDE3NzIzODIzMjIsNzM4Mz
+Y1MDA2LC03ODE4NjU0MzAsLTE2ODY1NDk1MTQsLTExOTQ4OTc4
+MDcsNzMwMTkyMTcyLC03OTU1MTgxODUsLTE1NTk4MzQ3NjYsOT
+U2MzY5MzE0LC02MDE4MzE0NTAsLTkyNzM3NTM0MF19
 -->
