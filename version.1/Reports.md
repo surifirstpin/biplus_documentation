@@ -206,7 +206,7 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 
 Calculated column is a functionality that allows to manipulate the retrieved data using arithmetical, logical, text-based and date-based functions and then displays it in the required format. the data extracted using calculated column will show up in green colour in the data table. Just like regular dimensions and measures, calculated columns are controlled from display in visualizations.
 
-**Functionality of Calculated column :** 
+> **Note :** To understand the total functionality of Calculated column, **Refer calculated Column document.**
 
 - It supports wide variety of arithmetical and logical functions to be applied on the data.
 
@@ -218,10 +218,10 @@ Calculated column is a functionality that allows to manipulate the retrieved dat
 
 - Define a function or use a global function to be applied on the required data fields.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM1MDc3ODAsMTIxMzE1MTc5MywtND
-QxOTA0NjAzLDgwNDk3NjYyMCw1NTgxNDEyOTAsMTc3MjM4MjMy
-Miw3MzgzNjUwMDYsLTc4MTg2NTQzMCwtMTY4NjU0OTUxNCwtMT
-E5NDg5NzgwNyw3MzAxOTIxNzIsLTc5NTUxODE4NSwtMTU1OTgz
-NDc2Niw5NTYzNjkzMTQsLTYwMTgzMTQ1MCwtOTI3Mzc1MzQwXX
-0=
+eyJoaXN0b3J5IjpbMTg4NzUyNjUwOSwxMjEzMTUxNzkzLC00ND
+E5MDQ2MDMsODA0OTc2NjIwLDU1ODE0MTI5MCwxNzcyMzgyMzIy
+LDczODM2NTAwNiwtNzgxODY1NDMwLC0xNjg2NTQ5NTE0LC0xMT
+k0ODk3ODA3LDczMDE5MjE3MiwtNzk1NTE4MTg1LC0xNTU5ODM0
+NzY2LDk1NjM2OTMxNCwtNjAxODMxNDUwLC05MjczNzUzNDBdfQ
+==
 -->
