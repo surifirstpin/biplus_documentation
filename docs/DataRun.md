@@ -333,13 +333,13 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 ## SQL Query 
 
-To view the SQL query built  in analysis section click on **SQL** section.
+To View the SQL query built on retrieving data in report, click on **SQL** section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDcwNjc5MiwtNDE2MTcyOTM5LDE3Mz
-gyOTgzMTIsMTE2Mzk3Njc4OSwxODYzMTE0OTYyLDQ5MDU4NTU1
-NSwxMTU0Njk5OTAxLDQzNjEyODgzNiwtOTkxNTI2NDYyLC0xOT
-EyODg0NDc4LDQyOTY0NDQwMSwyMTM4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbLTI3MjUzMDU5LC00MTYxNzI5MzksMTczOD
+I5ODMxMiwxMTYzOTc2Nzg5LDE4NjMxMTQ5NjIsNDkwNTg1NTU1
+LDExNTQ2OTk5MDEsNDM2MTI4ODM2LC05OTE1MjY0NjIsLTE5MT
+I4ODQ0NzgsNDI5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
 -->
