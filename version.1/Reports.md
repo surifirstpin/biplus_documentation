@@ -201,10 +201,25 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/276cae284c8c3760cc4056a88b970694ba9d7d39/images/pin_full;.png)
+
+## Calculated column
+
+Calculated column is a functionality that allows to manipulate the retrieved data using arithmetical, logical, text-based and date-based functions and then displays it in the required format. the data extracted using calculated column will show up in green colour in the data table. Just like regular dimensions and measures, calculated columns are controlled from display in visualizations.
+
+Functio
+- It supports wide variety of arithmetical and logical functions to be applied on the data.
+
+- It calculates using the data from external parameters (through "Global parameters") by making reference to the database fields. 
+
+- It controls or access the data with user wise calculations.
+
+-  Optimize and transform the data using  **#plugin#**  functionality.
+
+- Define a function or use a global function to be applied on the required data fields.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzE1MTc5MywtNDQxOTA0NjAzLDgwND
-k3NjYyMCw1NTgxNDEyOTAsMTc3MjM4MjMyMiw3MzgzNjUwMDYs
-LTc4MTg2NTQzMCwtMTY4NjU0OTUxNCwtMTE5NDg5NzgwNyw3Mz
-AxOTIxNzIsLTc5NTUxODE4NSwtMTU1OTgzNDc2Niw5NTYzNjkz
-MTQsLTYwMTgzMTQ1MCwtOTI3Mzc1MzQwXX0=
+eyJoaXN0b3J5IjpbNTQyNjQ2MzgsMTIxMzE1MTc5MywtNDQxOT
+A0NjAzLDgwNDk3NjYyMCw1NTgxNDEyOTAsMTc3MjM4MjMyMiw3
+MzgzNjUwMDYsLTc4MTg2NTQzMCwtMTY4NjU0OTUxNCwtMTE5ND
+g5NzgwNyw3MzAxOTIxNzIsLTc5NTUxODE4NSwtMTU1OTgzNDc2
+Niw5NTYzNjkzMTQsLTYwMTgzMTQ1MCwtOTI3Mzc1MzQwXX0=
 -->
