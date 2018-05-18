@@ -213,11 +213,9 @@ Click on  **Calculated column**  button to enable table calculations as shown in
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3fb590c409cd0e47262a69c18bbde38f424ca714/images/calculated_col.png)
 
-> Note : For example : if you want to multiply the measure field quantity_sum by 2.
+> **Note :** in the below example we are multiplying measure field quantity_sum by 2.
 
 After navigating to calculated column, enter below fields;
-
-
 
 -   **Field name**  unique identifier name to refer calculated column.
     
@@ -234,7 +232,7 @@ After navigating to calculated column, enter below fields;
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b10da52fba77e866f8f30ae57fabe5c0d0f8c142/images/ful_calculated.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDI4NzEyOSwxNjUwNTQzMzYzLDEyMT
+eyJoaXN0b3J5IjpbMTgzOTY1NDUyNywxNjUwNTQzMzYzLDEyMT
 MxNTE3OTMsLTQ0MTkwNDYwMyw4MDQ5NzY2MjAsNTU4MTQxMjkw
 LDE3NzIzODIzMjIsNzM4MzY1MDA2LC03ODE4NjU0MzAsLTE2OD
 Y1NDk1MTQsLTExOTQ4OTc4MDcsNzMwMTkyMTcyLC03OTU1MTgx
