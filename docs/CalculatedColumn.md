@@ -67,7 +67,9 @@ bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
 |  std | Returns the standard deviation of a matrix or a list with values. | bi.std(p1,p2,p3 ...)<br/>bi.std(A)<br/>bi.std(A, normalization) |
 |  sum | Returns the sum of list of values mentioned | bi.sum(p1,p2,p3,.....)<br/>Ex: bi.sum(p1,p2,p3) = p1 + p2 +p3 |
 |  var | Returns the variance of a matrix or a list with values | bi.var(p1,p2,p3)<br/>Ex: bi.var(2, 4, 6) = 4 |
+
 ### Date
+
 |  **Name** | **Description** | **Usage & Example** |
 |  :------: | :------: | :------: |
 |  date_to_week | Returns the week number in the year for the date given | bi.date_to_week(${col_name})<br/>Ex: bi.date_to_week(“2018-02-11”) = 7 |
@@ -402,7 +404,8 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyNTg1MDI1LC0xNTE5NjYxNjQwLC0xMj
-E2NDcwOTc0LC02MzkxNDY3ODcsLTU5ODI3ODMzMSwxMjIzOTIw
-MTUxLDU2NTg5MDgxMCwtNzc5MTIwOTcxXX0=
+eyJoaXN0b3J5IjpbLTEwNTU2ODQwMDMsNjgyNTg1MDI1LC0xNT
+E5NjYxNjQwLC0xMjE2NDcwOTc0LC02MzkxNDY3ODcsLTU5ODI3
+ODMzMSwxMjIzOTIwMTUxLDU2NTg5MDgxMCwtNzc5MTIwOTcxXX
+0=
 -->
