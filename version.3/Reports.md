@@ -256,7 +256,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 ##  Format
 
-  - **Format** enables different type of number format to the measure field value. Following are the list of number formats supported by BiPlus ;
+  - **Format** enables different type of number format to the measure field value. Following are the list of number formats supported by BiPlus :
 
 |  Example | Description |
 |  ------ | :------ |
@@ -301,10 +301,11 @@ To view the SQL query built  in analysis section click on **SQL** section.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQyOTk4MDYsMTI1MTkwODM2MSw1Mj
-UzODAxODcsMTY1MDU0MzM2MywxMjEzMTUxNzkzLC00NDE5MDQ2
-MDMsODA0OTc2NjIwLDU1ODE0MTI5MCwxNzcyMzgyMzIyLDczOD
-M2NTAwNiwtNzgxODY1NDMwLC0xNjg2NTQ5NTE0LC0xMTk0ODk3
-ODA3LDczMDE5MjE3MiwtNzk1NTE4MTg1LC0xNTU5ODM0NzY2LD
-k1NjM2OTMxNCwtNjAxODMxNDUwLC05MjczNzUzNDBdfQ==
+eyJoaXN0b3J5IjpbMTY3MTY0NjQwMywtMTgzNDI5OTgwNiwxMj
+UxOTA4MzYxLDUyNTM4MDE4NywxNjUwNTQzMzYzLDEyMTMxNTE3
+OTMsLTQ0MTkwNDYwMyw4MDQ5NzY2MjAsNTU4MTQxMjkwLDE3Nz
+IzODIzMjIsNzM4MzY1MDA2LC03ODE4NjU0MzAsLTE2ODY1NDk1
+MTQsLTExOTQ4OTc4MDcsNzMwMTkyMTcyLC03OTU1MTgxODUsLT
+E1NTk4MzQ3NjYsOTU2MzY5MzE0LC02MDE4MzE0NTAsLTkyNzM3
+NTM0MF19
 -->
