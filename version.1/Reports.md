@@ -288,7 +288,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 |  $#,##0.00 | Dollars with comma between thousands and 2 decimals ($1,234.00) |
 
 
-- **Currency** you can check the field values of the measure by applying different types of currency formats, BiPlus supports $,   ₹  ,   €  ,  £.
+- **Currency** BiPlus supports following currency formats $,   ₹  ,   €  ,  £.
 
 
 ![
@@ -301,11 +301,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjc0ODc1MSwtMTgzNDI5OTgwNiwxMj
-UxOTA4MzYxLDUyNTM4MDE4NywxNjUwNTQzMzYzLDEyMTMxNTE3
-OTMsLTQ0MTkwNDYwMyw4MDQ5NzY2MjAsNTU4MTQxMjkwLDE3Nz
-IzODIzMjIsNzM4MzY1MDA2LC03ODE4NjU0MzAsLTE2ODY1NDk1
-MTQsLTExOTQ4OTc4MDcsNzMwMTkyMTcyLC03OTU1MTgxODUsLT
-E1NTk4MzQ3NjYsOTU2MzY5MzE0LC02MDE4MzE0NTAsLTkyNzM3
-NTM0MF19
+eyJoaXN0b3J5IjpbLTY1OTU2MTY2LDE5MDI3NDg3NTEsLTE4Mz
+QyOTk4MDYsMTI1MTkwODM2MSw1MjUzODAxODcsMTY1MDU0MzM2
+MywxMjEzMTUxNzkzLC00NDE5MDQ2MDMsODA0OTc2NjIwLDU1OD
+E0MTI5MCwxNzcyMzgyMzIyLDczODM2NTAwNiwtNzgxODY1NDMw
+LC0xNjg2NTQ5NTE0LC0xMTk0ODk3ODA3LDczMDE5MjE3MiwtNz
+k1NTE4MTg1LC0xNTU5ODM0NzY2LDk1NjM2OTMxNCwtNjAxODMx
+NDUwXX0=
 -->
