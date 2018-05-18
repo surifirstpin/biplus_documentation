@@ -208,17 +208,21 @@ Calculated column is a functionality that allows to manipulate the retrieved dat
 
 > **Note :** To understand the total functionality of Calculated column, **Refer calculated Column document.**
 
-- It supports wide variety of arithmetical and logical functions to be applied on the data.
+Click on  **Calculated column**  button to enable table calculations as shown in below image,
 
-- It calculates using the data from external parameters (through "Global parameters") by making reference to the database fields. 
-
-- It controls or access the data with user wise calculations.
-
--  Optimize and transform the data using  **#plugin#**  functionality.
-
-- Define a function or use a global function to be applied on the required data fields.
+-   **Field name**  unique identifier name to refer calculated column.
+    
+-   **Label**  labeling the calculated column.
+    
+-   **Data type**  data type used (string,number).
+    
+-   **Field type**  derives dimension or measure.
+    
+-   **Calculation**  derive arithmetical & logical expressions.
+    
+-   **Calculate on the raw data**  this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NzUyNjUwOSwxMjEzMTUxNzkzLC00ND
+eyJoaXN0b3J5IjpbMTY1MDU0MzM2MywxMjEzMTUxNzkzLC00ND
 E5MDQ2MDMsODA0OTc2NjIwLDU1ODE0MTI5MCwxNzcyMzgyMzIy
 LDczODM2NTAwNiwtNzgxODY1NDMwLC0xNjg2NTQ5NTE0LC0xMT
 k0ODk3ODA3LDczMDE5MjE3MiwtNzk1NTE4MTg1LC0xNTU5ODM0
