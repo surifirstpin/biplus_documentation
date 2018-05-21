@@ -388,7 +388,7 @@ String → “sql” : “CONCAT('Date : ',${TABLE}.OrderDate)”
 Where the expression contain the fields of self view and should result a single value.
 
 > **For Instance:** 
- “sql”: "(select sum(x.Amount) from Orders x)”
+ “sql”: "(select sum(x.Amount) from Orders)”
 
 ## Custom View
 Custom fields are user defined fields for which we apply arithmetic  and logical operations that are supported by database.
@@ -649,9 +649,9 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzY1ODk0MiwtMjAwMjQ5MDY1NSwtMj
-gyNzg2OTYyLC0xMzIzMjY5NTM0LC03MDIzNDY4ODQsLTc5ODQ4
-MzEwOCwxMzAyMzYwNzQ4LDcyMjA5NzA2OCwyMDgxMTUyMzM2LD
-k1MDI5ODY5LC0xNTY0NTkzNTU1LC0xOTg0ODI5OTcxLDQ1NDY5
-NTUyLDEzMjAzOTA1MTBdfQ==
+eyJoaXN0b3J5IjpbLTEyNTU4MjQyMzQsMTI0MzY1ODk0MiwtMj
+AwMjQ5MDY1NSwtMjgyNzg2OTYyLC0xMzIzMjY5NTM0LC03MDIz
+NDY4ODQsLTc5ODQ4MzEwOCwxMzAyMzYwNzQ4LDcyMjA5NzA2OC
+wyMDgxMTUyMzM2LDk1MDI5ODY5LC0xNTY0NTkzNTU1LC0xOTg0
+ODI5OTcxLDQ1NDY5NTUyLDEzMjAzOTA1MTBdfQ==
 -->
