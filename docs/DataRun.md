@@ -339,9 +339,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 
 ## Drill Down display
 
-Using 
+Using drill down you can view the more deeper insights of the data.
+
+For example: On clicking country name int dri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzAyOTcyOCwtMjcyNTMwNTksLTQxNj
+eyJoaXN0b3J5IjpbLTQ1NjA2MDAwNCwtMjcyNTMwNTksLTQxNj
 E3MjkzOSwxNzM4Mjk4MzEyLDExNjM5NzY3ODksMTg2MzExNDk2
 Miw0OTA1ODU1NTUsMTE1NDY5OTkwMSw0MzYxMjg4MzYsLTk5MT
 UyNjQ2MiwtMTkxMjg4NDQ3OCw0Mjk2NDQ0MDEsMjEzODM4NTcw
