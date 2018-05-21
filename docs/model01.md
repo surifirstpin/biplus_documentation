@@ -174,6 +174,7 @@ BiPlus allows various actions to performed in views as follows:
 
 -  Extracting different date formats from the date field permissible formats like hour,day,week,month,quarter, year,date, week_day,date_month,date_quarter, date_hour, year_week.
 
+- You 
 -  Assigning drill down fields for a field.
 
 -  Defining values for different map co-ordinates.
@@ -360,11 +361,11 @@ Where the expression contain the fields of self view and should result a single 
 > **For Instance:** 
  “sql”: "(select sum(x.Amount) from Orders x)”
 
-## Creating Custom View
+## Custom View
 Custom fields are user defined fields for which we apply arithmetic  and logical operations that are supported by database.
 A view may join other views and there relationship are defined as part of data analysis section of model file.
 
-### CreaNew Custom view
+### New Custom View
 
 **1.** Click on **New Empty view** to create or derive a new custom view table.
 ![
@@ -619,8 +620,8 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMDgyNDI0NiwtNzk4NDgzMTA4LDEzMD
-IzNjA3NDgsNzIyMDk3MDY4LDIwODExNTIzMzYsOTUwMjk4Njks
-LTE1NjQ1OTM1NTUsLTE5ODQ4Mjk5NzEsNDU0Njk1NTIsMTMyMD
-M5MDUxMF19
+eyJoaXN0b3J5IjpbLTU4NDkzNDk0LC03OTg0ODMxMDgsMTMwMj
+M2MDc0OCw3MjIwOTcwNjgsMjA4MTE1MjMzNiw5NTAyOTg2OSwt
+MTU2NDU5MzU1NSwtMTk4NDgyOTk3MSw0NTQ2OTU1MiwxMzIwMz
+kwNTEwXX0=
 -->
