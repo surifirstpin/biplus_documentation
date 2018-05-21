@@ -84,7 +84,9 @@ After saving a project, BiPlus will display the views and relevant information o
 |   | name | name of the filter |
 |   | Filter_sql | the query phrase which acts as a filter, Ex col name = “Employee Name’ |
 |   | Apply | to specify 'the applicability |
-|   | Position | describes the priority of the filter phrase with other data filters can be assigned as 'before" or 'tifter" |
+|   | Position | describes the priority of the filter phrase with other data filters can be assigned as 'before" or 'after" 
+|
+|Bindkey|
 |  2B | **Joins characteristics** |  |
 |   | join | derive the relationship between 2 views based on the condition. |
 |   | join_type | derives type of join condition to be applied (Left,Right,inner join) |
@@ -621,8 +623,8 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc3MDA2NzcsLTc5ODQ4MzEwOCwxMz
-AyMzYwNzQ4LDcyMjA5NzA2OCwyMDgxMTUyMzM2LDk1MDI5ODY5
-LC0xNTY0NTkzNTU1LC0xOTg0ODI5OTcxLDQ1NDY5NTUyLDEzMj
-AzOTA1MTBdfQ==
+eyJoaXN0b3J5IjpbMTcyMDA3ODk3NywtNzk4NDgzMTA4LDEzMD
+IzNjA3NDgsNzIyMDk3MDY4LDIwODExNTIzMzYsOTUwMjk4Njks
+LTE1NjQ1OTM1NTUsLTE5ODQ4Mjk5NzEsNDU0Njk1NTIsMTMyMD
+M5MDUxMF19
 -->
