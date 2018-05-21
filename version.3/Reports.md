@@ -27,7 +27,7 @@ After Selecting dimensions and measures **Run** the report to extract the data.
 
 Here we have selected two dimensions and one measure field in this example.
 
-> Note : To hide the
+> Note : To hide the Explore /visualise section that displays dimensions and measure click on  double angle lrft
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5097c9d785e4562444bb51ed2695045c47873f8f/images/full_rep1.png)
@@ -307,7 +307,7 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3ODEyODUzLC0xMDU5MDQ4NTk1LDEyMj
+eyJoaXN0b3J5IjpbMjkyOTg4NjEwLC0xMDU5MDQ4NTk1LDEyMj
 YxNjM5MjQsLTY1OTU2MTY2LDE5MDI3NDg3NTEsLTE4MzQyOTk4
 MDYsMTI1MTkwODM2MSw1MjUzODAxODcsMTY1MDU0MzM2MywxMj
 EzMTUxNzkzLC00NDE5MDQ2MDMsODA0OTc2NjIwLDU1ODE0MTI5
