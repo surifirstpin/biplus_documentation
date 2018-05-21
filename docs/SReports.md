@@ -37,7 +37,8 @@ Apply report filter **Sum count equals to 1** in Analysis section and The data i
 
 **Note :** To restore the previously applied filter click on **Restore default filter** icon.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fd894359eff6fd19d2d9d7d8a210c0e2c7c515e8/images/filter_reports.png)
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/15e7857a8add44e36ae3c864bd3441a5a08bbffb/images/filter_reports1.png)
 
 ## Explore Report
 
@@ -100,6 +101,6 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTA4Mjc4NTcsLTEzMjIyMzU3OTgsMT
-czMDk3OTc5OCwtMTI1Njk3NDQxMV19
+eyJoaXN0b3J5IjpbLTgxMTEwNjk4MiwtMTU1MDgyNzg1NywtMT
+MyMjIzNTc5OCwxNzMwOTc5Nzk4LC0xMjU2OTc0NDExXX0=
 -->
