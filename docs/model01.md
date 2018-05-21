@@ -242,13 +242,16 @@ The Associated keywords with the views are flowing :
 > **For Instance** :
  “lookup” : “Antonio, Bessanio, Portia”
 
--   **Operator**  Sometimes, data to be retrieved from multiple filter values. BiPlus provides an option associated with lookup which can be defined to select single or multiple filter values. For selecting more than one filter value, operator should be defined as “multiple”.
+-   **Operator**  Sometimes, data to be retrieved from multiple filter values. BiPlus provides an option associated with lookup which can be defined to select single or multiple filter values. For selecting more than one filter value, operator should be defined as “multiple” or else leave it empty.
 
+```
+operator:e.
+
+```
 ```
 operator:multiple.
 
 ```
-
 **II.**  **Number_format & currency**  for reports convenience, a particular number format and currency can be assigned to a particular field so that whenever the report is created using this field, the number_format and currency will automatically displayed.
 
 -   **Number_format**  There are various formats designed based on the common business usage.
@@ -650,10 +653,10 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjYwNjY2ODIsLTExMzU2NjI5NjIsMT
-I0MzY1ODk0MiwtMjAwMjQ5MDY1NSwtMjgyNzg2OTYyLC0xMzIz
-MjY5NTM0LC03MDIzNDY4ODQsLTc5ODQ4MzEwOCwxMzAyMzYwNz
-Q4LDcyMjA5NzA2OCwyMDgxMTUyMzM2LDk1MDI5ODY5LC0xNTY0
-NTkzNTU1LC0xOTg0ODI5OTcxLDQ1NDY5NTUyLDEzMjAzOTA1MT
-BdfQ==
+eyJoaXN0b3J5IjpbMjE4NzY4NjM2LC0yMDY2MDY2NjgyLC0xMT
+M1NjYyOTYyLDEyNDM2NTg5NDIsLTIwMDI0OTA2NTUsLTI4Mjc4
+Njk2MiwtMTMyMzI2OTUzNCwtNzAyMzQ2ODg0LC03OTg0ODMxMD
+gsMTMwMjM2MDc0OCw3MjIwOTcwNjgsMjA4MTE1MjMzNiw5NTAy
+OTg2OSwtMTU2NDU5MzU1NSwtMTk4NDgyOTk3MSw0NTQ2OTU1Mi
+wxMzIwMzkwNTEwXX0=
 -->
