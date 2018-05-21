@@ -9,6 +9,7 @@ Analysis section is  starting point for building the query.  it is designed in s
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d2a240b7943427822dbd1280f1555acc64d6800e/images/analysis.png)
 
+- To create a new Analysis report click on **Reset Visualization** ( refresh icon).
 
 ## Add Dimension and Measure
 
@@ -358,10 +359,10 @@ Using drill down you can view the more deeper insights of the data.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ae2090f2d0635decef08a516ce8833252bee2822/images/drill_down_report.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyNTAxMTU1LC0zNzI1MDA2MTksLTE5Mj
-k1Njc0MDMsMTc4MTk1MzAwMywyMTkxMjIzNDAsLTUxNDk4ODk4
-MiwtMjcyNTMwNTksLTQxNjE3MjkzOSwxNzM4Mjk4MzEyLDExNj
-M5NzY3ODksMTg2MzExNDk2Miw0OTA1ODU1NTUsMTE1NDY5OTkw
-MSw0MzYxMjg4MzYsLTk5MTUyNjQ2MiwtMTkxMjg4NDQ3OCw0Mj
-k2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbMTM1MDEyNjA3OSwyMjI1MDExNTUsLTM3Mj
+UwMDYxOSwtMTkyOTU2NzQwMywxNzgxOTUzMDAzLDIxOTEyMjM0
+MCwtNTE0OTg4OTgyLC0yNzI1MzA1OSwtNDE2MTcyOTM5LDE3Mz
+gyOTgzMTIsMTE2Mzk3Njc4OSwxODYzMTE0OTYyLDQ5MDU4NTU1
+NSwxMTU0Njk5OTAxLDQzNjEyODgzNiwtOTkxNTI2NDYyLC0xOT
+EyODg0NDc4LDQyOTY0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
