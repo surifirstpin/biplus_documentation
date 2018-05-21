@@ -341,13 +341,16 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 
 Using drill down you can view the more deeper insights of the data.
 
-For example: On clicking country name, it will open prescribed states that fall under the particular country. on clicking statename, it will display the cityname that falls under the state.
+**For example:** On clicking country name, it will open prescribed states that fall under the particular country. on clicking statename, it will display the cityname that falls under the state.
 
 > **Note :** to attain drill down features it need to be specified in model section refer model document for more information about drill down feature.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/ae2090f2d0635decef08a516ce8833252bee2822/images/drill_down_report.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDk4ODk4MiwtMjcyNTMwNTksLTQxNj
-E3MjkzOSwxNzM4Mjk4MzEyLDExNjM5NzY3ODksMTg2MzExNDk2
-Miw0OTA1ODU1NTUsMTE1NDY5OTkwMSw0MzYxMjg4MzYsLTk5MT
-UyNjQ2MiwtMTkxMjg4NDQ3OCw0Mjk2NDQ0MDEsMjEzODM4NTcw
-MF19
+eyJoaXN0b3J5IjpbMjE5MTIyMzQwLC01MTQ5ODg5ODIsLTI3Mj
+UzMDU5LC00MTYxNzI5MzksMTczODI5ODMxMiwxMTYzOTc2Nzg5
+LDE4NjMxMTQ5NjIsNDkwNTg1NTU1LDExNTQ2OTk5MDEsNDM2MT
+I4ODM2LC05OTE1MjY0NjIsLTE5MTI4ODQ0NzgsNDI5NjQ0NDAx
+LDIxMzgzODU3MDBdfQ==
 -->
