@@ -284,7 +284,7 @@ for(var i =0 ; i < _biCalculation.pluginData.raw.length; i++)
          
     }
 
-return x;
+return item;
 }
 /*END*/
 ```
@@ -404,8 +404,8 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTY5MTQzNywtMTA1NTY4NDAwMyw2OD
-I1ODUwMjUsLTE1MTk2NjE2NDAsLTEyMTY0NzA5NzQsLTYzOTE0
-Njc4NywtNTk4Mjc4MzMxLDEyMjM5MjAxNTEsNTY1ODkwODEwLC
-03NzkxMjA5NzFdfQ==
+eyJoaXN0b3J5IjpbMTA3NTQxOTU2MiwyMDg5NjkxNDM3LC0xMD
+U1Njg0MDAzLDY4MjU4NTAyNSwtMTUxOTY2MTY0MCwtMTIxNjQ3
+MDk3NCwtNjM5MTQ2Nzg3LC01OTgyNzgzMzEsMTIyMzkyMDE1MS
+w1NjU4OTA4MTAsLTc3OTEyMDk3MV19
 -->
