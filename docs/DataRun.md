@@ -343,11 +343,11 @@ Using drill down you can view the more deeper insights of the data.
 
 For example: On clicking country name it will open prescribed states that falls uner the country on clicking on statename it will display the cityname that falls under the state.
 
-> Note to attain dri
+> Note : to attain drill down features it need to be specified in model section refer model document for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTM1MDAsLTI3MjUzMDU5LC00MTYxNz
-I5MzksMTczODI5ODMxMiwxMTYzOTc2Nzg5LDE4NjMxMTQ5NjIs
-NDkwNTg1NTU1LDExNTQ2OTk5MDEsNDM2MTI4ODM2LC05OTE1Mj
-Y0NjIsLTE5MTI4ODQ0NzgsNDI5NjQ0NDAxLDIxMzgzODU3MDBd
-fQ==
+eyJoaXN0b3J5IjpbMTc2NzIwMjE2MSwtMjcyNTMwNTksLTQxNj
+E3MjkzOSwxNzM4Mjk4MzEyLDExNjM5NzY3ODksMTg2MzExNDk2
+Miw0OTA1ODU1NTUsMTE1NDY5OTkwMSw0MzYxMjg4MzYsLTk5MT
+UyNjQ2MiwtMTkxMjg4NDQ3OCw0Mjk2NDQ0MDEsMjEzODM4NTcw
+MF19
 -->
