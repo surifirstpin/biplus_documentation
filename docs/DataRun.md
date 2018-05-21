@@ -337,9 +337,13 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
+## Drill Down display
+
+Using 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjUzMDU5LC00MTYxNzI5MzksMTczOD
-I5ODMxMiwxMTYzOTc2Nzg5LDE4NjMxMTQ5NjIsNDkwNTg1NTU1
-LDExNTQ2OTk5MDEsNDM2MTI4ODM2LC05OTE1MjY0NjIsLTE5MT
-I4ODQ0NzgsNDI5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbMTc0MzAyOTcyOCwtMjcyNTMwNTksLTQxNj
+E3MjkzOSwxNzM4Mjk4MzEyLDExNjM5NzY3ODksMTg2MzExNDk2
+Miw0OTA1ODU1NTUsMTE1NDY5OTkwMSw0MzYxMjg4MzYsLTk5MT
+UyNjQ2MiwtMTkxMjg4NDQ3OCw0Mjk2NDQ0MDEsMjEzODM4NTcw
+MF19
 -->
