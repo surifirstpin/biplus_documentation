@@ -83,7 +83,7 @@ After saving a project, BiPlus will display the views and relevant information o
 |  2A | **Filter characteristics** | Filters can be date-based, string-based, value-based & user-based |
 |   | name | name of the filter |
 |   | Filter_sql | the query phrase which acts as a filter, Ex col name = “Employee Name’ |
-|   | Apply | to specify 'tiirfor always applicability |
+|   | Apply | to specify 'the for always applicability |
 |   | Position | describes the priority of the filter phrase with other data filters can be assigned as 'before" or 'tifter" |
 |  2B | **Joins characteristics** |  |
 |   | join | derive the relationship between 2 views based on the condition. |
@@ -621,8 +621,8 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjU0ODIxNTMsLTc5ODQ4MzEwOCwxMz
-AyMzYwNzQ4LDcyMjA5NzA2OCwyMDgxMTUyMzM2LDk1MDI5ODY5
-LC0xNTY0NTkzNTU1LC0xOTg0ODI5OTcxLDQ1NDY5NTUyLDEzMj
-AzOTA1MTBdfQ==
+eyJoaXN0b3J5IjpbMTI5NjIzNjI5NCwtNzk4NDgzMTA4LDEzMD
+IzNjA3NDgsNzIyMDk3MDY4LDIwODExNTIzMzYsOTUwMjk4Njks
+LTE1NjQ1OTM1NTUsLTE5ODQ4Mjk5NzEsNDU0Njk1NTIsMTMyMD
+M5MDUxMF19
 -->
