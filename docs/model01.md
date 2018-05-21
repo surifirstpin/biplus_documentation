@@ -66,14 +66,11 @@ Depending on the table joins applied the code is retrieved in JSON format. To re
 5.  To redo the changes done for the code established in json format click  **Redo** icon.
 6. To format the Code according to proper alignment click on **Format Code** Icon.
 7.  To hide list of model and views visible click on **angle double left** Icon.
-8. To view list of models and views click on **angle double right** Icon.
-9. To save the model click on save button.
-
- 
-
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/119fba7d6d3e4b7292a732f554eaf74d3270d668/images/model_new1.png)
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/2f6c93abe9911466191907d22275ea75f778c0e4/images/model_new2.png)
 Model Customization can be done among views in the following ways.
 
 -  A new mapping or relation can be defined among views based on a specific condition.
@@ -642,9 +639,9 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI0OTA2NTUsLTI4Mjc4Njk2MiwtMT
-MyMzI2OTUzNCwtNzAyMzQ2ODg0LC03OTg0ODMxMDgsMTMwMjM2
-MDc0OCw3MjIwOTcwNjgsMjA4MTE1MjMzNiw5NTAyOTg2OSwtMT
-U2NDU5MzU1NSwtMTk4NDgyOTk3MSw0NTQ2OTU1MiwxMzIwMzkw
-NTEwXX0=
+eyJoaXN0b3J5IjpbLTgxMDE3MjUxLC0yMDAyNDkwNjU1LC0yOD
+I3ODY5NjIsLTEzMjMyNjk1MzQsLTcwMjM0Njg4NCwtNzk4NDgz
+MTA4LDEzMDIzNjA3NDgsNzIyMDk3MDY4LDIwODExNTIzMzYsOT
+UwMjk4NjksLTE1NjQ1OTM1NTUsLTE5ODQ4Mjk5NzEsNDU0Njk1
+NTIsMTMyMDM5MDUxMF19
 -->
