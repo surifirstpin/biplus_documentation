@@ -117,7 +117,11 @@ The data can also be retrieved based on the applied hidden filters .
 ](https://raw.githubusercontent.com/sv18042016/fp1/603d0055942c97790066aa8195ad659038778ad2/images/hidden_filter.png)
 
 
+-  To Add more filters click on **Add Rule**.
 
+- To Delete the filter applied Click **Ban Icon**.
+
+- To hide the **Filter** or **Order** section Click on angle-double-up icon on to far right of the order section. To unhide click on angle-double-down icon at same location.
 
 **5.**  Click on **Run** to display the data retrieved ( refer image 3).
 
@@ -352,9 +356,9 @@ Using drill down you can view the more deeper insights of the data.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ae2090f2d0635decef08a516ce8833252bee2822/images/drill_down_report.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjA1NjYyNjgsMjE5MTIyMzQwLC01MT
-Q5ODg5ODIsLTI3MjUzMDU5LC00MTYxNzI5MzksMTczODI5ODMx
-MiwxMTYzOTc2Nzg5LDE4NjMxMTQ5NjIsNDkwNTg1NTU1LDExNT
-Q2OTk5MDEsNDM2MTI4ODM2LC05OTE1MjY0NjIsLTE5MTI4ODQ0
-NzgsNDI5NjQ0NDAxLDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbLTQ2OTQyMjE0LDIxOTEyMjM0MCwtNTE0OT
+g4OTgyLC0yNzI1MzA1OSwtNDE2MTcyOTM5LDE3MzgyOTgzMTIs
+MTE2Mzk3Njc4OSwxODYzMTE0OTYyLDQ5MDU4NTU1NSwxMTU0Nj
+k5OTAxLDQzNjEyODgzNiwtOTkxNTI2NDYyLC0xOTEyODg0NDc4
+LDQyOTY0NDQwMSwyMTM4Mzg1NzAwXX0=
 -->
