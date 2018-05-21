@@ -66,6 +66,11 @@ After saving a project, BiPlus will display the views and relevant information o
 
 -  Define filters on the data with different mapped views.
 
+
+
+
+
+
 **The list of keywords used in Model are:**
 
 |  **Serial No.** | **Keyword** | **Description** |
@@ -624,8 +629,8 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjM0Njg4NCwtNzk4NDgzMTA4LDEzMD
-IzNjA3NDgsNzIyMDk3MDY4LDIwODExNTIzMzYsOTUwMjk4Njks
-LTE1NjQ1OTM1NTUsLTE5ODQ4Mjk5NzEsNDU0Njk1NTIsMTMyMD
-M5MDUxMF19
+eyJoaXN0b3J5IjpbLTEzMjMyNjk1MzQsLTcwMjM0Njg4NCwtNz
+k4NDgzMTA4LDEzMDIzNjA3NDgsNzIyMDk3MDY4LDIwODExNTIz
+MzYsOTUwMjk4NjksLTE1NjQ1OTM1NTUsLTE5ODQ4Mjk5NzEsND
+U0Njk1NTIsMTMyMDM5MDUxMF19
 -->
