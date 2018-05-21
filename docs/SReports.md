@@ -35,7 +35,7 @@ Apply report filter **Sum count equals to 1** in Analysis section and The data i
 
 **6.** To apply the newly added filter click on **Apply** Button.
 
-
+To restore the previously applied filter click on Restore default filter iconon.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fd894359eff6fd19d2d9d7d8a210c0e2c7c515e8/images/filter_reports.png)
 
@@ -100,6 +100,6 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDQ0MzY2NSwtMTMyMjIzNTc5OCwxNz
+eyJoaXN0b3J5IjpbMTA3MDM0Nzk1OCwtMTMyMjIzNTc5OCwxNz
 MwOTc5Nzk4LC0xMjU2OTc0NDExXX0=
 -->
