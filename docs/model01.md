@@ -312,7 +312,7 @@ currency : currency_symbol
 |  9 | Date_quarter | Extract year and respective Quarter component |
 |  10 | Date_hour | Extract Date and respective Hour component |
 |  11 | Year_week | Extract year and respective week component |
-|  12  | Date     | Extract the 
+|  12  | Date     | Extracts respective date  |
 
 ## User Defined Fields (UDF)
 
@@ -654,10 +654,10 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyNTA2Njc0LDExNDE3MzA3OTEsLTIwNj
-YwNjY2ODIsLTExMzU2NjI5NjIsMTI0MzY1ODk0MiwtMjAwMjQ5
-MDY1NSwtMjgyNzg2OTYyLC0xMzIzMjY5NTM0LC03MDIzNDY4OD
-QsLTc5ODQ4MzEwOCwxMzAyMzYwNzQ4LDcyMjA5NzA2OCwyMDgx
-MTUyMzM2LDk1MDI5ODY5LC0xNTY0NTkzNTU1LC0xOTg0ODI5OT
-cxLDQ1NDY5NTUyLDEzMjAzOTA1MTBdfQ==
+eyJoaXN0b3J5IjpbLTE1NzIxODEzNzIsMTE0MTczMDc5MSwtMj
+A2NjA2NjY4MiwtMTEzNTY2Mjk2MiwxMjQzNjU4OTQyLC0yMDAy
+NDkwNjU1LC0yODI3ODY5NjIsLTEzMjMyNjk1MzQsLTcwMjM0Nj
+g4NCwtNzk4NDgzMTA4LDEzMDIzNjA3NDgsNzIyMDk3MDY4LDIw
+ODExNTIzMzYsOTUwMjk4NjksLTE1NjQ1OTM1NTUsLTE5ODQ4Mj
+k5NzEsNDU0Njk1NTIsMTMyMDM5MDUxMF19
 -->
