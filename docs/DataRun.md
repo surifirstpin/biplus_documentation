@@ -24,7 +24,10 @@ A **Dimension** is a group of data and **Measure** is a information about group 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/fc61997d3a6999b632b7b6e9dfdfdcd3f93b5507/images/analysis1.png)
-                                                                                                                                                                                                                        
+  
+  > Note : To hide the Explore /visualise section that displays dimensions and measure click on  **angle double left** icon. to display the explore/visualise section click ** angle double right** icon available near dimensions and measure field list.
+
+                                                                                                                                                                                                                      
 ## Filters 
 
 Filters removes all the data except the one you want to retrieve. filter expressions are the advanced way to limit the data. 
@@ -356,9 +359,9 @@ Using drill down you can view the more deeper insights of the data.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ae2090f2d0635decef08a516ce8833252bee2822/images/drill_down_report.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTQyMjE0LDIxOTEyMjM0MCwtNTE0OT
-g4OTgyLC0yNzI1MzA1OSwtNDE2MTcyOTM5LDE3MzgyOTgzMTIs
-MTE2Mzk3Njc4OSwxODYzMTE0OTYyLDQ5MDU4NTU1NSwxMTU0Nj
-k5OTAxLDQzNjEyODgzNiwtOTkxNTI2NDYyLC0xOTEyODg0NDc4
-LDQyOTY0NDQwMSwyMTM4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbMTc4MTk1MzAwMywyMTkxMjIzNDAsLTUxND
+k4ODk4MiwtMjcyNTMwNTksLTQxNjE3MjkzOSwxNzM4Mjk4MzEy
+LDExNjM5NzY3ODksMTg2MzExNDk2Miw0OTA1ODU1NTUsMTE1ND
+Y5OTkwMSw0MzYxMjg4MzYsLTk5MTUyNjQ2MiwtMTkxMjg4NDQ3
+OCw0Mjk2NDQ0MDEsMjEzODM4NTcwMF19
 -->
