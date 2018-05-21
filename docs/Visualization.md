@@ -375,15 +375,15 @@ editing options for y-axis in Line, Bar and bubble chart.
 - **Before number** Align the icon before or after the data.
 
 
-For EConsider below image which displays the format section for table chart.
+**For Example :** Consider below image, which displays the format section for table chart.
 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY0MzU3MDMsLTIzODE5MDk0MiwtMz
-ExMzM1NzgsNDczODc2MjUwLC0xMjM3MTAzNDUzLDQ1MDM1NjMy
-MywtOTAxNDc4MjA1LDEwOTM5MDI1NjMsMTYyODExNDExNSwtMT
-E5ODI0MDM5OSw2ODY3Njk0NTcsMTA1NDc2NjY2MiwtODE1MDA1
-MTg0XX0=
+eyJoaXN0b3J5IjpbLTUzMTE0Njg3MCwtMjM4MTkwOTQyLC0zMT
+EzMzU3OCw0NzM4NzYyNTAsLTEyMzcxMDM0NTMsNDUwMzU2MzIz
+LC05MDE0NzgyMDUsMTA5MzkwMjU2MywxNjI4MTE0MTE1LC0xMT
+k4MjQwMzk5LDY4Njc2OTQ1NywxMDU0NzY2NjYyLC04MTUwMDUx
+ODRdfQ==
 -->
