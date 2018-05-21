@@ -108,6 +108,10 @@ Following are the different types of filters characteristics applicable ;
 
 **5.** Similarly, we can apply **Hidden Filters** to the report data. The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/603d0055942c97790066aa8195ad659038778ad2/images/hidden_filter.png)
+
+
 **6.** To Add more filters click on **Add Rule**.
 
 **7.** To Delete the filter applied Click **Ban Icon**.
@@ -300,11 +304,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjE2MzkyNCwtNjU5NTYxNjYsMTkwMj
-c0ODc1MSwtMTgzNDI5OTgwNiwxMjUxOTA4MzYxLDUyNTM4MDE4
-NywxNjUwNTQzMzYzLDEyMTMxNTE3OTMsLTQ0MTkwNDYwMyw4MD
-Q5NzY2MjAsNTU4MTQxMjkwLDE3NzIzODIzMjIsNzM4MzY1MDA2
-LC03ODE4NjU0MzAsLTE2ODY1NDk1MTQsLTExOTQ4OTc4MDcsNz
-MwMTkyMTcyLC03OTU1MTgxODUsLTE1NTk4MzQ3NjYsOTU2MzY5
-MzE0XX0=
+eyJoaXN0b3J5IjpbLTEwNTkwNDg1OTUsMTIyNjE2MzkyNCwtNj
+U5NTYxNjYsMTkwMjc0ODc1MSwtMTgzNDI5OTgwNiwxMjUxOTA4
+MzYxLDUyNTM4MDE4NywxNjUwNTQzMzYzLDEyMTMxNTE3OTMsLT
+Q0MTkwNDYwMyw4MDQ5NzY2MjAsNTU4MTQxMjkwLDE3NzIzODIz
+MjIsNzM4MzY1MDA2LC03ODE4NjU0MzAsLTE2ODY1NDk1MTQsLT
+ExOTQ4OTc4MDcsNzMwMTkyMTcyLC03OTU1MTgxODUsLTE1NTk4
+MzQ3NjZdfQ==
 -->
