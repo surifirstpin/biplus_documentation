@@ -226,7 +226,7 @@ The Associated keywords with the views are flowing :
 |  12 | number_format | to define a number format for the field. the list of valid formats are described as Amexure 1 |
 |  13 | currency | it defines the currency for the field.For instance “$”, “€”, “£”, “₹”. |
 |  14 | country_ref | option for enabling map view for different values with different geographical locations |
-| 15 | always_filter | to directly define desired filters values in model itself. **for example** define "always_filter": "STATIONCODE IN ('Station_1','Station_2')"  it ret|
+| 15 | always_filter | to directly define desired filters values in model itself. **for example** define "always_filter": "STATIONCODE IN ('Station_1','Station_2')"  it retrieves only station 1 and station 2 in analysis data section.|
 
 **Among the above stated list, the following are the special attributes for user convenience :**
 
@@ -650,10 +650,10 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTg2Nzc4NCwtMTEzNTY2Mjk2MiwxMj
-QzNjU4OTQyLC0yMDAyNDkwNjU1LC0yODI3ODY5NjIsLTEzMjMy
-Njk1MzQsLTcwMjM0Njg4NCwtNzk4NDgzMTA4LDEzMDIzNjA3ND
-gsNzIyMDk3MDY4LDIwODExNTIzMzYsOTUwMjk4NjksLTE1NjQ1
-OTM1NTUsLTE5ODQ4Mjk5NzEsNDU0Njk1NTIsMTMyMDM5MDUxMF
-19
+eyJoaXN0b3J5IjpbLTIwNjYwNjY2ODIsLTExMzU2NjI5NjIsMT
+I0MzY1ODk0MiwtMjAwMjQ5MDY1NSwtMjgyNzg2OTYyLC0xMzIz
+MjY5NTM0LC03MDIzNDY4ODQsLTc5ODQ4MzEwOCwxMzAyMzYwNz
+Q4LDcyMjA5NzA2OCwyMDgxMTUyMzM2LDk1MDI5ODY5LC0xNTY0
+NTkzNTU1LC0xOTg0ODI5OTcxLDQ1NDY5NTUyLDEzMjAzOTA1MT
+BdfQ==
 -->
