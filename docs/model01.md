@@ -61,7 +61,9 @@ A model is a customized gateway into the database for accessing data as per busi
 After saving a project, BiPlus will display the views and relevant information of the project as a Model which can be customized as per the business requirement. 
 
 After Saving a project, model screen is triggered as shown in below image.
-you can refresh the model,project and tables used.Depending on the table joins the 
+Depending on the table joins applied the code is retrieved in JSON format. To refresh the model,project and tables used click on .
+
+ 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/119fba7d6d3e4b7292a732f554eaf74d3270d668/images/model_new1.png)
@@ -634,7 +636,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDk4OTYwMywtMTMyMzI2OTUzNCwtNz
+eyJoaXN0b3J5IjpbMTgzMTY5NzUxOCwtMTMyMzI2OTUzNCwtNz
 AyMzQ2ODg0LC03OTg0ODMxMDgsMTMwMjM2MDc0OCw3MjIwOTcw
 NjgsMjA4MTE1MjMzNiw5NTAyOTg2OSwtMTU2NDU5MzU1NSwtMT
 k4NDgyOTk3MSw0NTQ2OTU1MiwxMzIwMzkwNTEwXX0=
