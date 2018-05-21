@@ -58,16 +58,19 @@ A model is a customized gateway into the database for accessing data as per busi
 
 ## Model and Customization
 
-After saving a project, BiPlus will display the views and relevant information of the project as a Model which can be customized as per the business requirement. Model Customization can be done among views in the following ways.
+After saving a project, BiPlus will display the views and relevant information of the project as a Model which can be customized as per the business requirement. 
+
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/119fba7d6d3e4b7292a732f554eaf74d3270d668/images/model_new1.png)
+
+Model Customization can be done among views in the following ways.
 
 -  A new mapping or relation can be defined among views based on a specific condition.
 
 -  Edit the join criteria between views.
 
 -  Define filters on the data with different mapped views.
-
-
-
 
 
 
@@ -629,8 +632,8 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjMyNjk1MzQsLTcwMjM0Njg4NCwtNz
-k4NDgzMTA4LDEzMDIzNjA3NDgsNzIyMDk3MDY4LDIwODExNTIz
-MzYsOTUwMjk4NjksLTE1NjQ1OTM1NTUsLTE5ODQ4Mjk5NzEsND
-U0Njk1NTIsMTMyMDM5MDUxMF19
+eyJoaXN0b3J5IjpbLTE4MzE2MzEyNDksLTEzMjMyNjk1MzQsLT
+cwMjM0Njg4NCwtNzk4NDgzMTA4LDEzMDIzNjA3NDgsNzIyMDk3
+MDY4LDIwODExNTIzMzYsOTUwMjk4NjksLTE1NjQ1OTM1NTUsLT
+E5ODQ4Mjk5NzEsNDU0Njk1NTIsMTMyMDM5MDUxMF19
 -->
