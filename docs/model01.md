@@ -62,7 +62,7 @@ After saving a project, BiPlus will display the views and relevant information o
 
 After Saving a project, model screen is triggered as shown in below image.
 Depending on the table joins applied the code is retrieved in JSON format. To refresh, click on the refresh icon prescribed at model,project and tables.
-4.  To undo the changes in json format click on U
+4.  To undo the changes done for the code established in json format clickon U
 
  
 
@@ -637,8 +637,9 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Mjc4Njk2MiwtMTMyMzI2OTUzNCwtNz
-AyMzQ2ODg0LC03OTg0ODMxMDgsMTMwMjM2MDc0OCw3MjIwOTcw
-NjgsMjA4MTE1MjMzNiw5NTAyOTg2OSwtMTU2NDU5MzU1NSwtMT
-k4NDgyOTk3MSw0NTQ2OTU1MiwxMzIwMzkwNTEwXX0=
+eyJoaXN0b3J5IjpbLTE1ODczMDg1NjcsLTI4Mjc4Njk2MiwtMT
+MyMzI2OTUzNCwtNzAyMzQ2ODg0LC03OTg0ODMxMDgsMTMwMjM2
+MDc0OCw3MjIwOTcwNjgsMjA4MTE1MjMzNiw5NTAyOTg2OSwtMT
+U2NDU5MzU1NSwtMTk4NDgyOTk3MSw0NTQ2OTU1MiwxMzIwMzkw
+NTEwXX0=
 -->
