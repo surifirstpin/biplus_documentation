@@ -198,7 +198,7 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 |North|south|east|west|
 |john|steve|bob|Mecker|
 
- **You can apply pivot to fields in 2 ways ;**
+ **You can apply pivot to fields in 2 ways :**
  
 **a.** Apply pivot **After Retrieving** the data by selecting the pivot in drop down of the field.
  
@@ -357,7 +357,7 @@ Using drill down you can view the more deeper insights of the data.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ae2090f2d0635decef08a516ce8833252bee2822/images/drill_down_report.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzM4ODE5OTYsMTc4MTk1MzAwMywyMT
+eyJoaXN0b3J5IjpbLTE5Mjk1Njc0MDMsMTc4MTk1MzAwMywyMT
 kxMjIzNDAsLTUxNDk4ODk4MiwtMjcyNTMwNTksLTQxNjE3Mjkz
 OSwxNzM4Mjk4MzEyLDExNjM5NzY3ODksMTg2MzExNDk2Miw0OT
 A1ODU1NTUsMTE1NDY5OTkwMSw0MzYxMjg4MzYsLTk5MTUyNjQ2
