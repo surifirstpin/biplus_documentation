@@ -65,8 +65,9 @@ Depending on the table joins applied the code is retrieved in JSON format. To re
 4.  To undo the changes done for the code established in json format click  **Undo** icon.
 5.  To redo the changes done for the code established in json format click  **Redo** icon.
 6. To format the Code according to proper alignment click on **Format Code** Icon.
-7.  To hide the model and views visible click on **angle double left** Icon.
-8. To View the list of models and views click on **angle double t** Icon
+7.  To hide list of model and views visible click on **angle double left** Icon.
+8. To view list of models and views click on **angle double right** Icon.
+9. To save the model click on save button.
 
  
 
@@ -641,7 +642,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU2NzI3ODksLTI4Mjc4Njk2MiwtMT
+eyJoaXN0b3J5IjpbLTIwMDI0OTA2NTUsLTI4Mjc4Njk2MiwtMT
 MyMzI2OTUzNCwtNzAyMzQ2ODg0LC03OTg0ODMxMDgsMTMwMjM2
 MDc0OCw3MjIwOTcwNjgsMjA4MTE1MjMzNiw5NTAyOTg2OSwtMT
 U2NDU5MzU1NSwtMTk4NDgyOTk3MSw0NTQ2OTU1MiwxMzIwMzkw
