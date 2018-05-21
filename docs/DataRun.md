@@ -230,7 +230,7 @@ The below image shows , the consolidated values after grouping is applied on fie
 
 To carry out Multi-level grouping on the data extracted. Select group option for the column fields in field drop down list. 
 
-> **For instance** : in the below image grouping has been applied to 2 dimension fields Country Name and  State Name. In retrieved data on expanding Country Name it displays the perspective State Names that fall under specific country and on Further Expansion it displays City Names that fall under the specific state  as shown in below image.
+> **For instance** : In the below image grouping has been applied to 2 dimension fields Country Name and  State Name. In retrieved data on expanding Country Name it displays the perspective State Names that fall under specific country and on Further Expansion it displays City Names that fall under the specific state  as shown in below image.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a07734d0424a3c19e040fdd95a93464d057df5f3/images/multi_level_grouping.png) 
@@ -357,9 +357,10 @@ Using drill down you can view the more deeper insights of the data.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ae2090f2d0635decef08a516ce8833252bee2822/images/drill_down_report.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjk1Njc0MDMsMTc4MTk1MzAwMywyMT
-kxMjIzNDAsLTUxNDk4ODk4MiwtMjcyNTMwNTksLTQxNjE3Mjkz
-OSwxNzM4Mjk4MzEyLDExNjM5NzY3ODksMTg2MzExNDk2Miw0OT
-A1ODU1NTUsMTE1NDY5OTkwMSw0MzYxMjg4MzYsLTk5MTUyNjQ2
-MiwtMTkxMjg4NDQ3OCw0Mjk2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbLTM3MjUwMDYxOSwtMTkyOTU2NzQwMywxNz
+gxOTUzMDAzLDIxOTEyMjM0MCwtNTE0OTg4OTgyLC0yNzI1MzA1
+OSwtNDE2MTcyOTM5LDE3MzgyOTgzMTIsMTE2Mzk3Njc4OSwxOD
+YzMTE0OTYyLDQ5MDU4NTU1NSwxMTU0Njk5OTAxLDQzNjEyODgz
+NiwtOTkxNTI2NDYyLC0xOTEyODg0NDc4LDQyOTY0NDQwMSwyMT
+M4Mzg1NzAwXX0=
 -->
