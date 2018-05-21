@@ -263,6 +263,7 @@ Click on **Calculated column** button to enable table calculations as shown in b
 ](https://raw.githubusercontent.com/sv18042016/fp1/9dd01207f083d272ba2269a4c999dfa8976f1914/images/calculate%20column1.png)
 
 - **Field name** unique identifier name to refer calculated column.
+
 - **Label** labeling the calculated column.
 
 - **Data type** data type used (string,number).
@@ -357,10 +358,10 @@ Using drill down you can view the more deeper insights of the data.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ae2090f2d0635decef08a516ce8833252bee2822/images/drill_down_report.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjUwMDYxOSwtMTkyOTU2NzQwMywxNz
-gxOTUzMDAzLDIxOTEyMjM0MCwtNTE0OTg4OTgyLC0yNzI1MzA1
-OSwtNDE2MTcyOTM5LDE3MzgyOTgzMTIsMTE2Mzk3Njc4OSwxOD
-YzMTE0OTYyLDQ5MDU4NTU1NSwxMTU0Njk5OTAxLDQzNjEyODgz
-NiwtOTkxNTI2NDYyLC0xOTEyODg0NDc4LDQyOTY0NDQwMSwyMT
-M4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbMjIyNTAxMTU1LC0zNzI1MDA2MTksLTE5Mj
+k1Njc0MDMsMTc4MTk1MzAwMywyMTkxMjIzNDAsLTUxNDk4ODk4
+MiwtMjcyNTMwNTksLTQxNjE3MjkzOSwxNzM4Mjk4MzEyLDExNj
+M5NzY3ODksMTg2MzExNDk2Miw0OTA1ODU1NTUsMTE1NDY5OTkw
+MSw0MzYxMjg4MzYsLTk5MTUyNjQ2MiwtMTkxMjg4NDQ3OCw0Mj
+k2NDQ0MDEsMjEzODM4NTcwMF19
 -->
