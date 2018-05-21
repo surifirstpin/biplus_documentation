@@ -30,7 +30,7 @@ Here we have selected two dimensions and one measure field in this example.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5097c9d785e4562444bb51ed2695045c47873f8f/images/full_rep1.png)
 
-> Note : To hide the Explore /visualise section that displays dimensions and measure click on  **angle double left** icon. to display the explore/visualise section click ** angle double right** icon available next to search 
+> Note : To hide the Explore /visualise section that displays dimensions and measure click on  **angle double left** icon. to display the explore/visualise section click ** angle double right** icon available next to 
 
 
 ## Report Filters
@@ -308,11 +308,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODMyNTU1OCwtMTA1OTA0ODU5NSwxMj
-I2MTYzOTI0LC02NTk1NjE2NiwxOTAyNzQ4NzUxLC0xODM0Mjk5
-ODA2LDEyNTE5MDgzNjEsNTI1MzgwMTg3LDE2NTA1NDMzNjMsMT
-IxMzE1MTc5MywtNDQxOTA0NjAzLDgwNDk3NjYyMCw1NTgxNDEy
-OTAsMTc3MjM4MjMyMiw3MzgzNjUwMDYsLTc4MTg2NTQzMCwtMT
-Y4NjU0OTUxNCwtMTE5NDg5NzgwNyw3MzAxOTIxNzIsLTc5NTUx
-ODE4NV19
+eyJoaXN0b3J5IjpbLTExNDgyNTQ2MTIsLTEwNTkwNDg1OTUsMT
+IyNjE2MzkyNCwtNjU5NTYxNjYsMTkwMjc0ODc1MSwtMTgzNDI5
+OTgwNiwxMjUxOTA4MzYxLDUyNTM4MDE4NywxNjUwNTQzMzYzLD
+EyMTMxNTE3OTMsLTQ0MTkwNDYwMyw4MDQ5NzY2MjAsNTU4MTQx
+MjkwLDE3NzIzODIzMjIsNzM4MzY1MDA2LC03ODE4NjU0MzAsLT
+E2ODY1NDk1MTQsLTExOTQ4OTc4MDcsNzMwMTkyMTcyLC03OTU1
+MTgxODVdfQ==
 -->
