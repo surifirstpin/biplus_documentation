@@ -194,7 +194,7 @@ The Associated keywords with the views are flowing :
 |  8 | summary | the option to aggregate a measure field.For instance Supports sum avg, count, min, max. |
 |  9 | drill_down_fields | the option to define the drill fields for the current field |
 |  10 | show_drill_down_measures | it carry forward the current state of measures to further drill level. It can applied using true or false condition |
-|  11 | visualize | it controls the visibility of the field in Analyze section |
+|  11 | visualise | it controls the visibility of the field in Analyze section |
 |  12 | number_format | to define a number format for the field. the list of valid formats are described as Amexure 1 |
 |  13 | currency | it defines the currency for the field.For instance “$”, “€”, “£”, “₹”. |
 |  14 | country_ref | option for enabling map view for different values with different geographical locations |
@@ -621,7 +621,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjUwNjk2MTIsLTc5ODQ4MzEwOCwxMz
+eyJoaXN0b3J5IjpbLTE5MTc3MDA2NzcsLTc5ODQ4MzEwOCwxMz
 AyMzYwNzQ4LDcyMjA5NzA2OCwyMDgxMTUyMzM2LDk1MDI5ODY5
 LC0xNTY0NTkzNTU1LC0xOTg0ODI5OTcxLDQ1NDY5NTUyLDEzMj
 AzOTA1MTBdfQ==
