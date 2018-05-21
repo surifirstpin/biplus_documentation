@@ -205,7 +205,7 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 **b.** Apply pivot **Before Retrieving** the data while selecting the fields by clicking on pivot icon.
  
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/0bc648227810e628f97baa8e8ade9bdeb782ca04/images/pivot.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/ec488bd0bf7e068232945138e9ea20c018d013fa/images/pivot1.png)
 
 ## Pin or Remove Pin
 
@@ -234,8 +234,6 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a07734d0424a3c19e040fdd95a93464d057df5f3/images/multi_level_grouping.png) 
-
-
 
 ## Find
 
@@ -359,9 +357,9 @@ Using drill down you can view the more deeper insights of the data.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ae2090f2d0635decef08a516ce8833252bee2822/images/drill_down_report.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTk1MzAwMywyMTkxMjIzNDAsLTUxND
-k4ODk4MiwtMjcyNTMwNTksLTQxNjE3MjkzOSwxNzM4Mjk4MzEy
-LDExNjM5NzY3ODksMTg2MzExNDk2Miw0OTA1ODU1NTUsMTE1ND
-Y5OTkwMSw0MzYxMjg4MzYsLTk5MTUyNjQ2MiwtMTkxMjg4NDQ3
-OCw0Mjk2NDQ0MDEsMjEzODM4NTcwMF19
+eyJoaXN0b3J5IjpbLTE0NzM4ODE5OTYsMTc4MTk1MzAwMywyMT
+kxMjIzNDAsLTUxNDk4ODk4MiwtMjcyNTMwNTksLTQxNjE3Mjkz
+OSwxNzM4Mjk4MzEyLDExNjM5NzY3ODksMTg2MzExNDk2Miw0OT
+A1ODU1NTUsMTE1NDY5OTkwMSw0MzYxMjg4MzYsLTk5MTUyNjQ2
+MiwtMTkxMjg4NDQ3OCw0Mjk2NDQ0MDEsMjEzODM4NTcwMF19
 -->
