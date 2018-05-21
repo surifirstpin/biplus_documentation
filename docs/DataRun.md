@@ -113,7 +113,8 @@ The data can also be retrieved based on the applied hidden filters .
 
 **c.** The data is retrieved, based on the applied hidden filters.
 
-![ image 1](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/hidden_filter.png)
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/603d0055942c97790066aa8195ad659038778ad2/images/hidden_filter.png)
 
 **5.**  Click on **Run** to display the data retrieved ( refer image 3).
 
@@ -348,9 +349,9 @@ Using drill down you can view the more deeper insights of the data.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ae2090f2d0635decef08a516ce8833252bee2822/images/drill_down_report.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5MTIyMzQwLC01MTQ5ODg5ODIsLTI3Mj
-UzMDU5LC00MTYxNzI5MzksMTczODI5ODMxMiwxMTYzOTc2Nzg5
-LDE4NjMxMTQ5NjIsNDkwNTg1NTU1LDExNTQ2OTk5MDEsNDM2MT
-I4ODM2LC05OTE1MjY0NjIsLTE5MTI4ODQ0NzgsNDI5NjQ0NDAx
-LDIxMzgzODU3MDBdfQ==
+eyJoaXN0b3J5IjpbMjAyNTQ1ODM4MiwyMTkxMjIzNDAsLTUxND
+k4ODk4MiwtMjcyNTMwNTksLTQxNjE3MjkzOSwxNzM4Mjk4MzEy
+LDExNjM5NzY3ODksMTg2MzExNDk2Miw0OTA1ODU1NTUsMTE1ND
+Y5OTkwMSw0MzYxMjg4MzYsLTk5MTUyNjQ2MiwtMTkxMjg4NDQ3
+OCw0Mjk2NDQ0MDEsMjEzODM4NTcwMF19
 -->
