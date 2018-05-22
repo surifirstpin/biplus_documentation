@@ -50,7 +50,9 @@ Apply report filter **Sum count equals to 1** in Analysis section and The data i
 
   - A closed interval [a,b] includes the end points.
   - An open interval (a,b) excludes them.
-
+  
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/1f5814f39a56216832c77c94d75e8f9c6a2fb97a/images/date.png)
 
 ## Explore Report
 
@@ -116,8 +118,9 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjkwNzM3NSw2OTI0ODYyMDYsMTQwOT
-QxMTkxMCwxNjE2MTk1MTA3LDE2MjI4ODYzLDMwMDY3MDcyNSwx
-ODIyODk5NDM5LC04MTExMDY5ODIsLTE1NTA4Mjc4NTcsLTEzMj
-IyMzU3OTgsMTczMDk3OTc5OCwtMTI1Njk3NDQxMV19
+eyJoaXN0b3J5IjpbMTEyNzAzMDg1OSwtMzMyOTA3Mzc1LDY5Mj
+Q4NjIwNiwxNDA5NDExOTEwLDE2MTYxOTUxMDcsMTYyMjg4NjMs
+MzAwNjcwNzI1LDE4MjI4OTk0MzksLTgxMTEwNjk4MiwtMTU1MD
+gyNzg1NywtMTMyMjIzNTc5OCwxNzMwOTc5Nzk4LC0xMjU2OTc0
+NDExXX0=
 -->
