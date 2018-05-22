@@ -40,9 +40,13 @@ function _Addition(param1,param2)
                                            * Returns value 3, if we provide 1 and 2 in Test*
 ```
 
+>  **Note :** To undo the changes done for the code established in json format click  **Undo** icon.  To redo the changes done for the code established in json format click  **Redo** icon.
+
+
 **2.** Click on **Test** Button  to run the function.
 
 **3.** Click on **Save** Button to save the function.
+
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2c15dfa03d8ed5eed5cdffdc1335c22ce759300c/images/global_functions.png)
@@ -66,6 +70,7 @@ This functions supports all the native java script supported functions and also 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDg3MDA4LC0xMTMzMTYzNTk2LDU3OD
-Q5MjA4Myw2NTk2OTMxMjcsMTY1MDUzMjc2MV19
+eyJoaXN0b3J5IjpbLTMxNDE3Njc2NCwxNDU0ODcwMDgsLTExMz
+MxNjM1OTYsNTc4NDkyMDgzLDY1OTY5MzEyNywxNjUwNTMyNzYx
+XX0=
 -->
