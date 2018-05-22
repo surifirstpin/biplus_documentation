@@ -128,17 +128,18 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 **13.** To set the dashboard to full screen select **Full screen** options listed in **Bars** Icon.
 
-> Note : You can also edit, delete or create new dashboard by selecting them from **Bars icon** list.
+> **Note :** You can also edit, delete or create new dashboard by selecting them from **Bars icon** 
 
-![](https://raw.githubusercontent.com/sv18042016/fp1/a739889b994c72f53a035bdab7b5641d6107687d/images/dash_edi3.png)
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/5b86a054406ca26550a23a1c524c998d71b60505/images/dashboard_fullscreen.png)
 **Image 7**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDkwNzk0NjUsNDQ5OTY0MzM0LDEwNj
-Y3OTQ2NjgsLTE4NzMzNTgzMjYsLTk3MDE1NDk5OCwtMjA4NzUx
-OTA5OSwtMTE5MTkxNDA4NiwtMjE1ODk1NDM1LDIxOTYwNTA5Ni
-wtMjA2NjgzNDY3OSwxNzk4MTgxODg0LDE3OTgxODE4ODQsLTI2
-NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEyOTQ5LDMzODkzND
-UwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
+eyJoaXN0b3J5IjpbOTQ3MDM5MTYyLC0yMTA5MDc5NDY1LDQ0OT
+k2NDMzNCwxMDY2Nzk0NjY4LC0xODczMzU4MzI2LC05NzAxNTQ5
+OTgsLTIwODc1MTkwOTksLTExOTE5MTQwODYsLTIxNTg5NTQzNS
+wyMTk2MDUwOTYsLTIwNjY4MzQ2NzksMTc5ODE4MTg4NCwxNzk4
+MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2NjcxMj
+k0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
 -->
