@@ -1,6 +1,7 @@
 <center><h1>Timeline Filters</h1></center>
 
 ## Date 
+
 |  **Example** | **Description** |
 |  :------: | :------: |
 |  today | from zero hour of today to current point of time |
@@ -306,5 +307,6 @@
 |  WhenMade(date_hour)(Is Not Null) | Data where date_hour field (hour number in the year) is not Null |
 |  WhenMade(date_hour)(Is Null) | Data where date_hour field (hour number in the year) is Null |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMxNjQ2MzYzLDMyMzU2MDI2NV19
+eyJoaXN0b3J5IjpbLTE4NTA3Mzk1NzUsNTMxNjQ2MzYzLDMyMz
+U2MDI2NV19
 -->
