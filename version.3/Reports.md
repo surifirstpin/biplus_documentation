@@ -48,7 +48,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 Following are the different types of filters characteristics applicable ;
 
-### String 
+## String 
 |			Example            |						Description                        |                                                                                 
 |------------------------------|-----------------------------------------------------------|
 |is not null                   | should not be equal to null                               |
@@ -66,7 +66,7 @@ Following are the different types of filters characteristics applicable ;
 |ends with                     | should end with mentioned sub-string                      |
 |doesn’t end with              | should not end with mentioned sub-string                  |
 
-### Integer
+## Integer
 
 |			Example            |						Description                         |                                                                                 
 |------------------------------|------------------------------------------------------------|
@@ -85,7 +85,7 @@ Following are the different types of filters characteristics applicable ;
 |between                       | data in between the specified range                        |
 |not between                   | data not in between the specified range                    |
 
-### Date 
+##Date 
 
 |			Example            |						Description                         |                                                                                 
 |------------------------------|------------------------------------------------------------|
@@ -308,11 +308,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODc4Nzg4MDIsLTEwNTkwNDg1OTUsMT
-IyNjE2MzkyNCwtNjU5NTYxNjYsMTkwMjc0ODc1MSwtMTgzNDI5
-OTgwNiwxMjUxOTA4MzYxLDUyNTM4MDE4NywxNjUwNTQzMzYzLD
-EyMTMxNTE3OTMsLTQ0MTkwNDYwMyw4MDQ5NzY2MjAsNTU4MTQx
-MjkwLDE3NzIzODIzMjIsNzM4MzY1MDA2LC03ODE4NjU0MzAsLT
-E2ODY1NDk1MTQsLTExOTQ4OTc4MDcsNzMwMTkyMTcyLC03OTU1
-MTgxODVdfQ==
+eyJoaXN0b3J5IjpbLTE5NzMzOTA4NDMsLTEzODc4Nzg4MDIsLT
+EwNTkwNDg1OTUsMTIyNjE2MzkyNCwtNjU5NTYxNjYsMTkwMjc0
+ODc1MSwtMTgzNDI5OTgwNiwxMjUxOTA4MzYxLDUyNTM4MDE4Ny
+wxNjUwNTQzMzYzLDEyMTMxNTE3OTMsLTQ0MTkwNDYwMyw4MDQ5
+NzY2MjAsNTU4MTQxMjkwLDE3NzIzODIzMjIsNzM4MzY1MDA2LC
+03ODE4NjU0MzAsLTE2ODY1NDk1MTQsLTExOTQ4OTc4MDcsNzMw
+MTkyMTcyXX0=
 -->
