@@ -68,6 +68,10 @@ A model is a customized gateway into the database for accessing data as per busi
 
 To delete the project created click on delete icons on far right of the project name.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/4f558666a7432cd24c9c87474855b50c6b9996b4/images/edit_project.png)
+
+
 ## Model and Customization
 
 After saving a project, BiPlus will display the views and relevant information of the project as a Model which can be customized as per the business requirement. 
@@ -666,11 +670,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI0NTU5NzcsLTE4MTAzOTA3OTUsMjA4Nj
-U5NDc0NywtMTU3MjE4MTM3MiwxMTQxNzMwNzkxLC0yMDY2MDY2
-NjgyLC0xMTM1NjYyOTYyLDEyNDM2NTg5NDIsLTIwMDI0OTA2NT
-UsLTI4Mjc4Njk2MiwtMTMyMzI2OTUzNCwtNzAyMzQ2ODg0LC03
-OTg0ODMxMDgsMTMwMjM2MDc0OCw3MjIwOTcwNjgsMjA4MTE1Mj
-MzNiw5NTAyOTg2OSwtMTU2NDU5MzU1NSwtMTk4NDgyOTk3MSw0
-NTQ2OTU1Ml19
+eyJoaXN0b3J5IjpbMTQxNDQzNDQ0LC0xODEwMzkwNzk1LDIwOD
+Y1OTQ3NDcsLTE1NzIxODEzNzIsMTE0MTczMDc5MSwtMjA2NjA2
+NjY4MiwtMTEzNTY2Mjk2MiwxMjQzNjU4OTQyLC0yMDAyNDkwNj
+U1LC0yODI3ODY5NjIsLTEzMjMyNjk1MzQsLTcwMjM0Njg4NCwt
+Nzk4NDgzMTA4LDEzMDIzNjA3NDgsNzIyMDk3MDY4LDIwODExNT
+IzMzYsOTUwMjk4NjksLTE1NjQ1OTM1NTUsLTE5ODQ4Mjk5NzEs
+NDU0Njk1NTJdfQ==
 -->
