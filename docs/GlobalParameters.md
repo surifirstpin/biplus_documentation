@@ -38,6 +38,8 @@ BiPlus allows you to provide additional key values to manipulate the data in cal
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0d67f9ee78d4ee5a69d2e8b8ae127088b07972f0/images/save_globar.png) 
 
+**( Change screenshot )**
+
 >**Note :** By default all the columns in uploaded file will be saved as string type. 
 
 ## Change Column Name & Type (String / Number)
@@ -82,7 +84,7 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTA5MTg5MCwxNjk0Mzg3NTk1LC0zOT
-Y5NDIwMDEsMTIzMTM3MDI3OSwtMTkwNzc3Njg0MCwtMTgxMTEx
-Nzg2NSwtOTAwNTAxNjYxXX0=
+eyJoaXN0b3J5IjpbMjExNzYxNjkyMywtODk1MDkxODkwLDE2OT
+QzODc1OTUsLTM5Njk0MjAwMSwxMjMxMzcwMjc5LC0xOTA3Nzc2
+ODQwLC0xODExMTE3ODY1LC05MDA1MDE2NjFdfQ==
 -->
