@@ -48,6 +48,9 @@ Apply report filter **Sum count equals to 1** in Analysis section and The data i
 
    -  Select **Show data** to display data report.
    
+   ![
+](https://raw.githubusercontent.com/sv18042016/fp1/e936982e20971effbecba83e6088080a4ba6a465/images/show_data1.png)
+
    -  Select **Show Visualization** to view visualization of the report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d52bc64c5ef2973d8b81e9a4f8925e0e50686102/images/show_data.png)
@@ -101,7 +104,7 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjg5OTQzOSwtODExMTA2OTgyLC0xNT
-UwODI3ODU3LC0xMzIyMjM1Nzk4LDE3MzA5Nzk3OTgsLTEyNTY5
-NzQ0MTFdfQ==
+eyJoaXN0b3J5IjpbMzAwNjcwNzI1LDE4MjI4OTk0MzksLTgxMT
+EwNjk4MiwtMTU1MDgyNzg1NywtMTMyMjIzNTc5OCwxNzMwOTc5
+Nzk4LC0xMjU2OTc0NDExXX0=
 -->
