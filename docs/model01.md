@@ -56,6 +56,10 @@ A model is a customized gateway into the database for accessing data as per busi
 
 **3.** Once all the entries are made click on  **Save project**  to save the project created.
 
+
+
+
+
 ## Model and Customization
 
 After saving a project, BiPlus will display the views and relevant information of the project as a Model which can be customized as per the business requirement. 
@@ -654,10 +658,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzIxODEzNzIsMTE0MTczMDc5MSwtMj
-A2NjA2NjY4MiwtMTEzNTY2Mjk2MiwxMjQzNjU4OTQyLC0yMDAy
-NDkwNjU1LC0yODI3ODY5NjIsLTEzMjMyNjk1MzQsLTcwMjM0Nj
-g4NCwtNzk4NDgzMTA4LDEzMDIzNjA3NDgsNzIyMDk3MDY4LDIw
-ODExNTIzMzYsOTUwMjk4NjksLTE1NjQ1OTM1NTUsLTE5ODQ4Mj
-k5NzEsNDU0Njk1NTIsMTMyMDM5MDUxMF19
+eyJoaXN0b3J5IjpbOTc4NTczNTE2LC0xNTcyMTgxMzcyLDExND
+E3MzA3OTEsLTIwNjYwNjY2ODIsLTExMzU2NjI5NjIsMTI0MzY1
+ODk0MiwtMjAwMjQ5MDY1NSwtMjgyNzg2OTYyLC0xMzIzMjY5NT
+M0LC03MDIzNDY4ODQsLTc5ODQ4MzEwOCwxMzAyMzYwNzQ4LDcy
+MjA5NzA2OCwyMDgxMTUyMzM2LDk1MDI5ODY5LC0xNTY0NTkzNT
+U1LC0xOTg0ODI5OTcxLDQ1NDY5NTUyLDEzMjAzOTA1MTBdfQ==
+
 -->
