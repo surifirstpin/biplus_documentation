@@ -44,7 +44,8 @@ You can add different reports to the layout selected, depending on the requireme
    b. Click on **add** to add new layout to existing one.
    
 
-![image 4](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/add_rep%5Borts.png)
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/dd00678604bb2220939239b3abcd5e2e359936b3/images/dashboard_layout.png)
 **Image 4**
 
 ## Step 3: Dashboard Global Filters
@@ -137,10 +138,11 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTc2NDQ1NCwtMjEwOTA3OTQ2NSw0ND
-k5NjQzMzQsMTA2Njc5NDY2OCwtMTg3MzM1ODMyNiwtOTcwMTU0
-OTk4LC0yMDg3NTE5MDk5LC0xMTkxOTE0MDg2LC0yMTU4OTU0Mz
-UsMjE5NjA1MDk2LC0yMDY2ODM0Njc5LDE3OTgxODE4ODQsMTc5
-ODE4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC03NjY3MT
-I5NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1MF19
+eyJoaXN0b3J5IjpbODY2NTEzMjMwLDE3Mzk3NjQ0NTQsLTIxMD
+kwNzk0NjUsNDQ5OTY0MzM0LDEwNjY3OTQ2NjgsLTE4NzMzNTgz
+MjYsLTk3MDE1NDk5OCwtMjA4NzUxOTA5OSwtMTE5MTkxNDA4Ni
+wtMjE1ODk1NDM1LDIxOTYwNTA5NiwtMjA2NjgzNDY3OSwxNzk4
+MTgxODg0LDE3OTgxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OT
+U0MCwtNzY2NzEyOTQ5LDMzODkzNDUwLDE1NDkxODgxNTMsMzM4
+OTM0NTBdfQ==
 -->
