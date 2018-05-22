@@ -126,17 +126,17 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 12. To create a new dashboard report click on new dashboar icon.
 
-
+13. To set the dashboard to full screen select Full screen options listed in **Bars** Icon.
 
 ![](https://raw.githubusercontent.com/sv18042016/fp1/a739889b994c72f53a035bdab7b5641d6107687d/images/dash_edi3.png)
 **Image 7**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODk0MzExMSw0NDk5NjQzMzQsMTA2Nj
-c5NDY2OCwtMTg3MzM1ODMyNiwtOTcwMTU0OTk4LC0yMDg3NTE5
-MDk5LC0xMTkxOTE0MDg2LC0yMTU4OTU0MzUsMjE5NjA1MDk2LC
-0yMDY2ODM0Njc5LDE3OTgxODE4ODQsMTc5ODE4MTg4NCwtMjY2
-NzMyODg1LC0xOTY3NjY5NTQwLC03NjY3MTI5NDksMzM4OTM0NT
-AsMTU0OTE4ODE1MywzMzg5MzQ1MF19
+eyJoaXN0b3J5IjpbLTE0NDU1NTY3OTksNDQ5OTY0MzM0LDEwNj
+Y3OTQ2NjgsLTE4NzMzNTgzMjYsLTk3MDE1NDk5OCwtMjA4NzUx
+OTA5OSwtMTE5MTkxNDA4NiwtMjE1ODk1NDM1LDIxOTYwNTA5Ni
+wtMjA2NjgzNDY3OSwxNzk4MTgxODg0LDE3OTgxODE4ODQsLTI2
+NjczMjg4NSwtMTk2NzY2OTU0MCwtNzY2NzEyOTQ5LDMzODkzND
+UwLDE1NDkxODgxNTMsMzM4OTM0NTBdfQ==
 -->
