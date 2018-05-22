@@ -124,7 +124,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 **11.** Click on  **Delete icon**  to delete the dashboard created.
 
-**12.** To create a new dashboard report click on new dashboard icon.
+**12.** To create a new dashboard report click on **New dashboard** icon.
 
 **13.** To set the dashboard to full screen select **Full screen** options listed in **Bars** Icon.
 
@@ -136,10 +136,10 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3MDM5MTYyLC0yMTA5MDc5NDY1LDQ0OT
-k2NDMzNCwxMDY2Nzk0NjY4LC0xODczMzU4MzI2LC05NzAxNTQ5
-OTgsLTIwODc1MTkwOTksLTExOTE5MTQwODYsLTIxNTg5NTQzNS
-wyMTk2MDUwOTYsLTIwNjY4MzQ2NzksMTc5ODE4MTg4NCwxNzk4
-MTgxODg0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2NjcxMj
-k0OSwzMzg5MzQ1MCwxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
+eyJoaXN0b3J5IjpbMTMzNTg5NzMwNiwtMjEwOTA3OTQ2NSw0ND
+k5NjQzMzQsMTA2Njc5NDY2OCwtMTg3MzM1ODMyNiwtOTcwMTU0
+OTk4LC0yMDg3NTE5MDk5LC0xMTkxOTE0MDg2LC0yMTU4OTU0Mz
+UsMjE5NjA1MDk2LC0yMDY2ODM0Njc5LDE3OTgxODE4ODQsMTc5
+ODE4MTg4NCwtMjY2NzMyODg1LC0xOTY3NjY5NTQwLC03NjY3MT
+I5NDksMzM4OTM0NTAsMTU0OTE4ODE1MywzMzg5MzQ1MF19
 -->
