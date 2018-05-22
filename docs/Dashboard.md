@@ -128,6 +128,8 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 **10.** Click  **Edit**  Button to make changes to the dashboard created.
 
+> Note : after editing the dashboard click on 
+
 **11.** Click on  **Delete icon**  to delete the dashboard created.
 
 **12.** To create a new dashboard report click on **New dashboard** icon.
@@ -142,11 +144,11 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTIyMzUxNywtMTgwODM5Mzk4NSw3OT
-ExMzA5NDAsODY2NTEzMjMwLDE3Mzk3NjQ0NTQsLTIxMDkwNzk0
-NjUsNDQ5OTY0MzM0LDEwNjY3OTQ2NjgsLTE4NzMzNTgzMjYsLT
-k3MDE1NDk5OCwtMjA4NzUxOTA5OSwtMTE5MTkxNDA4NiwtMjE1
-ODk1NDM1LDIxOTYwNTA5NiwtMjA2NjgzNDY3OSwxNzk4MTgxOD
-g0LDE3OTgxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwt
-NzY2NzEyOTQ5XX0=
+eyJoaXN0b3J5IjpbLTE0ODU2NzEyMjMsMTU3MTIyMzUxNywtMT
+gwODM5Mzk4NSw3OTExMzA5NDAsODY2NTEzMjMwLDE3Mzk3NjQ0
+NTQsLTIxMDkwNzk0NjUsNDQ5OTY0MzM0LDEwNjY3OTQ2NjgsLT
+E4NzMzNTgzMjYsLTk3MDE1NDk5OCwtMjA4NzUxOTA5OSwtMTE5
+MTkxNDA4NiwtMjE1ODk1NDM1LDIxOTYwNTA5NiwtMjA2NjgzND
+Y3OSwxNzk4MTgxODg0LDE3OTgxODE4ODQsLTI2NjczMjg4NSwt
+MTk2NzY2OTU0MF19
 -->
