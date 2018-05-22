@@ -28,11 +28,10 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 Biplus has ability to create multiple report layouts, depending on the requirement. There layout formats are categorized in 2 ways.
 - **Flow Layout** in this layout it is provided with a scroll bar option to define your layout appropriately.
 - **Fixed Layout** in this layout all the reports will fit into single screen.
-a.
-b.
-
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4c3c6dabd96221095d0b54d5b2df37c49a919276/images/layout.png)
+a. to navigate to next page click right arrow.
+b. to navigate to previous page click left arrow.
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/df105942aecfbe1db3c5c4504b45a3444323caf9/images/layout.png)
 **Image 3**
 
 ## Step 2: Add Reports
@@ -141,11 +140,11 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDgzOTM5ODUsNzkxMTMwOTQwLDg2Nj
-UxMzIzMCwxNzM5NzY0NDU0LC0yMTA5MDc5NDY1LDQ0OTk2NDMz
-NCwxMDY2Nzk0NjY4LC0xODczMzU4MzI2LC05NzAxNTQ5OTgsLT
-IwODc1MTkwOTksLTExOTE5MTQwODYsLTIxNTg5NTQzNSwyMTk2
-MDUwOTYsLTIwNjY4MzQ2NzksMTc5ODE4MTg4NCwxNzk4MTgxOD
-g0LC0yNjY3MzI4ODUsLTE5Njc2Njk1NDAsLTc2NjcxMjk0OSwz
-Mzg5MzQ1MF19
+eyJoaXN0b3J5IjpbMTk2NTY3MzU2NSwtMTgwODM5Mzk4NSw3OT
+ExMzA5NDAsODY2NTEzMjMwLDE3Mzk3NjQ0NTQsLTIxMDkwNzk0
+NjUsNDQ5OTY0MzM0LDEwNjY3OTQ2NjgsLTE4NzMzNTgzMjYsLT
+k3MDE1NDk5OCwtMjA4NzUxOTA5OSwtMTE5MTkxNDA4NiwtMjE1
+ODk1NDM1LDIxOTYwNTA5NiwtMjA2NjgzNDY3OSwxNzk4MTgxOD
+g0LDE3OTgxODE4ODQsLTI2NjczMjg4NSwtMTk2NzY2OTU0MCwt
+NzY2NzEyOTQ5XX0=
 -->
