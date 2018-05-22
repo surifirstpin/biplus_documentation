@@ -85,7 +85,7 @@ Following are the different types of filters characteristics applicable ;
 |between                       | data in between the specified range                        |
 |not between                   | data not in between the specified range                    |
 
-##Date 
+## Date 
 
 |			Example            |						Description                         |                                                                                 
 |------------------------------|------------------------------------------------------------|
@@ -308,11 +308,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzMzOTA4NDMsLTEzODc4Nzg4MDIsLT
-EwNTkwNDg1OTUsMTIyNjE2MzkyNCwtNjU5NTYxNjYsMTkwMjc0
-ODc1MSwtMTgzNDI5OTgwNiwxMjUxOTA4MzYxLDUyNTM4MDE4Ny
-wxNjUwNTQzMzYzLDEyMTMxNTE3OTMsLTQ0MTkwNDYwMyw4MDQ5
-NzY2MjAsNTU4MTQxMjkwLDE3NzIzODIzMjIsNzM4MzY1MDA2LC
-03ODE4NjU0MzAsLTE2ODY1NDk1MTQsLTExOTQ4OTc4MDcsNzMw
-MTkyMTcyXX0=
+eyJoaXN0b3J5IjpbLTE5OTc3NzMwOSwtMTM4Nzg3ODgwMiwtMT
+A1OTA0ODU5NSwxMjI2MTYzOTI0LC02NTk1NjE2NiwxOTAyNzQ4
+NzUxLC0xODM0Mjk5ODA2LDEyNTE5MDgzNjEsNTI1MzgwMTg3LD
+E2NTA1NDMzNjMsMTIxMzE1MTc5MywtNDQxOTA0NjAzLDgwNDk3
+NjYyMCw1NTgxNDEyOTAsMTc3MjM4MjMyMiw3MzgzNjUwMDYsLT
+c4MTg2NTQzMCwtMTY4NjU0OTUxNCwtMTE5NDg5NzgwNyw3MzAx
+OTIxNzJdfQ==
 -->
