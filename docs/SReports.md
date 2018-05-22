@@ -41,7 +41,7 @@ Apply report filter **Sum count equals to 1** in Analysis section and The data i
 ](https://raw.githubusercontent.com/sv18042016/fp1/ff3c3a540e561e24e5ffdc94929079f309b5f3fc/images
 /filter_reports1.png)
 
-**For Example :**  in case if we are choosing timeline under date filters, you have an ability to check the present , previous or a specific range of data as per your business requirement ( Refer below image). You can also use
+**For Example :**  in case if we are choosing timeline under date filters, you have an ability to check the present , previous or a specific range of data as per your business requirement ( Refer below image). You can also make use of inclusive or exclusive braces to filter the data.
 
 
 
@@ -115,8 +115,8 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTQxMTkxMCwxNjE2MTk1MTA3LDE2Mj
-I4ODYzLDMwMDY3MDcyNSwxODIyODk5NDM5LC04MTExMDY5ODIs
-LTE1NTA4Mjc4NTcsLTEzMjIyMzU3OTgsMTczMDk3OTc5OCwtMT
-I1Njk3NDQxMV19
+eyJoaXN0b3J5IjpbNjkyNDg2MjA2LDE0MDk0MTE5MTAsMTYxNj
+E5NTEwNywxNjIyODg2MywzMDA2NzA3MjUsMTgyMjg5OTQzOSwt
+ODExMTA2OTgyLC0xNTUwODI3ODU3LC0xMzIyMjM1Nzk4LDE3Mz
+A5Nzk3OTgsLTEyNTY5NzQ0MTFdfQ==
 -->
