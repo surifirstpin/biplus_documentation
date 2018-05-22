@@ -124,15 +124,16 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 **11.** Click on  **Delete icon**  to delete the dashboard created.
 
+
 ![](https://raw.githubusercontent.com/sv18042016/fp1/a739889b994c72f53a035bdab7b5641d6107687d/images/dash_edi3.png)
 **Image 7**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5OTY0MzM0LDEwNjY3OTQ2NjgsLTE4Nz
-MzNTgzMjYsLTk3MDE1NDk5OCwtMjA4NzUxOTA5OSwtMTE5MTkx
-NDA4NiwtMjE1ODk1NDM1LDIxOTYwNTA5NiwtMjA2NjgzNDY3OS
-wxNzk4MTgxODg0LDE3OTgxODE4ODQsLTI2NjczMjg4NSwtMTk2
-NzY2OTU0MCwtNzY2NzEyOTQ5LDMzODkzNDUwLDE1NDkxODgxNT
-MsMzM4OTM0NTBdfQ==
+eyJoaXN0b3J5IjpbMzk2OTE5NjQ0LDQ0OTk2NDMzNCwxMDY2Nz
+k0NjY4LC0xODczMzU4MzI2LC05NzAxNTQ5OTgsLTIwODc1MTkw
+OTksLTExOTE5MTQwODYsLTIxNTg5NTQzNSwyMTk2MDUwOTYsLT
+IwNjY4MzQ2NzksMTc5ODE4MTg4NCwxNzk4MTgxODg0LC0yNjY3
+MzI4ODUsLTE5Njc2Njk1NDAsLTc2NjcxMjk0OSwzMzg5MzQ1MC
+wxNTQ5MTg4MTUzLDMzODkzNDUwXX0=
 -->
