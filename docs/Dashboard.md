@@ -128,7 +128,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 **10.** Click  **Edit**  Button to make changes to the dashboard created.
 
-> Note : after editing the dashboard click on 
+> **Note :** After editing the dashboard click on **update** button to save the changes made.
 
 **11.** Click on  **Delete icon**  to delete the dashboard created.
 
@@ -144,7 +144,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU2NzEyMjMsMTU3MTIyMzUxNywtMT
+eyJoaXN0b3J5IjpbLTE2OTY0MzY3ODEsMTU3MTIyMzUxNywtMT
 gwODM5Mzk4NSw3OTExMzA5NDAsODY2NTEzMjMwLDE3Mzk3NjQ0
 NTQsLTIxMDkwNzk0NjUsNDQ5OTY0MzM0LDEwNjY3OTQ2NjgsLT
 E4NzMzNTgzMjYsLTk3MDE1NDk5OCwtMjA4NzUxOTA5OSwtMTE5
