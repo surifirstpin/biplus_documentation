@@ -41,7 +41,8 @@ You can add different reports to the layout selected, depending on the requireme
 
    a. Click on report layout section and select the report you want to add to the layout.
 
-   b. Click on **add** to add newy layout to exist
+   b. Click on **add** to add new layout to existing one.
+   
 
 ![image 4](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/add_rep%5Borts.png)
 **Image 4**
@@ -136,7 +137,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDk5MjIzMSwtMjEwOTA3OTQ2NSw0ND
+eyJoaXN0b3J5IjpbMTczOTc2NDQ1NCwtMjEwOTA3OTQ2NSw0ND
 k5NjQzMzQsMTA2Njc5NDY2OCwtMTg3MzM1ODMyNiwtOTcwMTU0
 OTk4LC0yMDg3NTE5MDk5LC0xMTkxOTE0MDg2LC0yMTU4OTU0Mz
 UsMjE5NjA1MDk2LC0yMDY2ODM0Njc5LDE3OTgxODE4ODQsMTc5
