@@ -44,7 +44,7 @@ BiPlus allows you to provide additional key values to manipulate the data in cal
 
 ## Change Column Name & Type (String / Number)
 
-**4.** Select the column name and click on **Edit** button to change column name.
+**4.** Select the column name and click on **Edit** button to change column name. Similarly you candelete the column by selecting delete option
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9f487e8bcb13f913640bdce2a7030f7b519167a/images/para1.png)
  
@@ -84,7 +84,8 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzYxNjkyMywtODk1MDkxODkwLDE2OT
-QzODc1OTUsLTM5Njk0MjAwMSwxMjMxMzcwMjc5LC0xOTA3Nzc2
-ODQwLC0xODExMTE3ODY1LC05MDA1MDE2NjFdfQ==
+eyJoaXN0b3J5IjpbLTEyMjYwNTMyNjUsMjExNzYxNjkyMywtOD
+k1MDkxODkwLDE2OTQzODc1OTUsLTM5Njk0MjAwMSwxMjMxMzcw
+Mjc5LC0xOTA3Nzc2ODQwLC0xODExMTE3ODY1LC05MDA1MDE2Nj
+FdfQ==
 -->
