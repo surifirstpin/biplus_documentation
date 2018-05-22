@@ -128,14 +128,14 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 **13.** To set the dashboard to full screen select **Full screen** options listed in **Bars** Icon.
 
-> Note
+> Note : You can also edit, delete or create new dashboard by selecting them from **Bars icon** list.
 
 ![](https://raw.githubusercontent.com/sv18042016/fp1/a739889b994c72f53a035bdab7b5641d6107687d/images/dash_edi3.png)
 **Image 7**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY1OTc5MzksNDQ5OTY0MzM0LDEwNj
+eyJoaXN0b3J5IjpbLTIxMDkwNzk0NjUsNDQ5OTY0MzM0LDEwNj
 Y3OTQ2NjgsLTE4NzMzNTgzMjYsLTk3MDE1NDk5OCwtMjA4NzUx
 OTA5OSwtMTE5MTkxNDA4NiwtMjE1ODk1NDM1LDIxOTYwNTA5Ni
 wtMjA2NjgzNDY3OSwxNzk4MTgxODg0LDE3OTgxODE4ODQsLTI2
