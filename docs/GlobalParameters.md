@@ -65,6 +65,14 @@ Similarly edit column cell value by clicking on specific cell as shown below.
 
 The uploaded file will appear in **JSON** format under code view.
 
+> **Note :** 
+>- To undo the changes done for the code established click  **Undo** icon. 
+
+>-  To redo the changes done for the code click  **Redo** icon.
+
+> - To format the Code according to proper alignment click on **Format Code** Icon.
+
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/81d718b1b8f8fb86a5e9e622a08de17b9fde36a9/images/codeview.png)
 
 ## Check Case functionality On / Off
@@ -85,8 +93,8 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NzY3MjEzLDIxMTc2MTY5MjMsLTg5NT
-A5MTg5MCwxNjk0Mzg3NTk1LC0zOTY5NDIwMDEsMTIzMTM3MDI3
-OSwtMTkwNzc3Njg0MCwtMTgxMTExNzg2NSwtOTAwNTAxNjYxXX
-0=
+eyJoaXN0b3J5IjpbMjA0MTMzODE5MCwtMjY3NjcyMTMsMjExNz
+YxNjkyMywtODk1MDkxODkwLDE2OTQzODc1OTUsLTM5Njk0MjAw
+MSwxMjMxMzcwMjc5LC0xOTA3Nzc2ODQwLC0xODExMTE3ODY1LC
+05MDA1MDE2NjFdfQ==
 -->
