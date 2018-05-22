@@ -58,7 +58,8 @@ A model is a customized gateway into the database for accessing data as per busi
 
 ## Edit Project
 
-To Edit the createed project click on 
+- To Edit the createed project, select the desired project and click on edit button.
+After making necessary changes click on update and save.
 
 
 ## Model and Customization
@@ -659,11 +660,10 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzIxMjQzNzIsLTE1NzIxODEzNzIsMT
-E0MTczMDc5MSwtMjA2NjA2NjY4MiwtMTEzNTY2Mjk2MiwxMjQz
-NjU4OTQyLC0yMDAyNDkwNjU1LC0yODI3ODY5NjIsLTEzMjMyNj
-k1MzQsLTcwMjM0Njg4NCwtNzk4NDgzMTA4LDEzMDIzNjA3NDgs
-NzIyMDk3MDY4LDIwODExNTIzMzYsOTUwMjk4NjksLTE1NjQ1OT
-M1NTUsLTE5ODQ4Mjk5NzEsNDU0Njk1NTIsMTMyMDM5MDUxMF19
-
+eyJoaXN0b3J5IjpbMjYxMDM3NzMsLTE1NzIxODEzNzIsMTE0MT
+czMDc5MSwtMjA2NjA2NjY4MiwtMTEzNTY2Mjk2MiwxMjQzNjU4
+OTQyLC0yMDAyNDkwNjU1LC0yODI3ODY5NjIsLTEzMjMyNjk1Mz
+QsLTcwMjM0Njg4NCwtNzk4NDgzMTA4LDEzMDIzNjA3NDgsNzIy
+MDk3MDY4LDIwODExNTIzMzYsOTUwMjk4NjksLTE1NjQ1OTM1NT
+UsLTE5ODQ4Mjk5NzEsNDU0Njk1NTIsMTMyMDM5MDUxMF19
 -->
