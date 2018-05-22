@@ -41,14 +41,15 @@ Apply report filter **Sum count equals to 1** in Analysis section and The data i
 ](https://raw.githubusercontent.com/sv18042016/fp1/ff3c3a540e561e24e5ffdc94929079f309b5f3fc/images
 /filter_reports1.png)
 
-**For Example :**  in case if we are choosing timeline under date filters, you have an ability to check the present , previous or a specific range of data as per your business requirement ( Refer below image). You can also make use of inclusive or exclusive braces to filter the data.
-
-
+**For Example :**  in case if we are choosing timeline under date filters, you have an ability to check the present , previous or a specific range of data as per your business requirement ( Refer below image). 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9ef51de09e4e5f49959a15ca5cdbf8c130c792b3/images/time.png)
 
+- You can also make use of inclusive, exclusive braces, OR to filter the data.
 
+  - A closed interval [a,b] includes the end points.
+  - An open interval (a,b) excludes them.
 
 
 ## Explore Report
@@ -115,8 +116,8 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyNDg2MjA2LDE0MDk0MTE5MTAsMTYxNj
-E5NTEwNywxNjIyODg2MywzMDA2NzA3MjUsMTgyMjg5OTQzOSwt
-ODExMTA2OTgyLC0xNTUwODI3ODU3LC0xMzIyMjM1Nzk4LDE3Mz
-A5Nzk3OTgsLTEyNTY5NzQ0MTFdfQ==
+eyJoaXN0b3J5IjpbLTMzMjkwNzM3NSw2OTI0ODYyMDYsMTQwOT
+QxMTkxMCwxNjE2MTk1MTA3LDE2MjI4ODYzLDMwMDY3MDcyNSwx
+ODIyODk5NDM5LC04MTExMDY5ODIsLTE1NTA4Mjc4NTcsLTEzMj
+IyMzU3OTgsMTczMDk3OTc5OCwtMTI1Njk3NDQxMV19
 -->
