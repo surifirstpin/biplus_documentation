@@ -5,7 +5,7 @@ BiPlus has an ability to create graphics and charts based on the result obtained
 
 **Let us see in details how to configure visualization;**
 
-Using Analysis section you can creates an impressive and good looking charts simultaneously with the data obtained from a query, in fraction of seconds. Using BiPlus users can see the data and picture together for better understanding.
+Using Analysis section you can creates an impressive and good looking charts simultaneously with the data obtained from a query, in fraction of seconds for better understanding. 
 
 ## Getting Started With Visualization.
 
@@ -379,9 +379,9 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzYwMzEzLC01MzExNDY4NzAsLTIzOD
-E5MDk0MiwtMzExMzM1NzgsNDczODc2MjUwLC0xMjM3MTAzNDUz
-LDQ1MDM1NjMyMywtOTAxNDc4MjA1LDEwOTM5MDI1NjMsMTYyOD
-ExNDExNSwtMTE5ODI0MDM5OSw2ODY3Njk0NTcsMTA1NDc2NjY2
-MiwtODE1MDA1MTg0XX0=
+eyJoaXN0b3J5IjpbLTk1OTQwODY4NywtNzUzNjAzMTMsLTUzMT
+E0Njg3MCwtMjM4MTkwOTQyLC0zMTEzMzU3OCw0NzM4NzYyNTAs
+LTEyMzcxMDM0NTMsNDUwMzU2MzIzLC05MDE0NzgyMDUsMTA5Mz
+kwMjU2MywxNjI4MTE0MTE1LC0xMTk4MjQwMzk5LDY4Njc2OTQ1
+NywxMDU0NzY2NjYyLC04MTUwMDUxODRdfQ==
 -->
