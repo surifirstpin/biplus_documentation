@@ -142,19 +142,21 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b86a054406ca26550a23a1c524c998d71b60505/images/dashboard_fullscreen.png)
 **Image 7**
 
-## Dashboard on Mobile Device
+## Dashboard for Mobile Device
 
 BiPlus make it easier to view the dashboard list in mobile device easily and also it has following features;
 
 - Displays dashboard list.
 - Displays dashboard report data.
 - You can add more filters to report.
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzkyOTI3MiwtMTY5NjQzNjc4MSwxNT
-cxMjIzNTE3LC0xODA4MzkzOTg1LDc5MTEzMDk0MCw4NjY1MTMy
-MzAsMTczOTc2NDQ1NCwtMjEwOTA3OTQ2NSw0NDk5NjQzMzQsMT
-A2Njc5NDY2OCwtMTg3MzM1ODMyNiwtOTcwMTU0OTk4LC0yMDg3
-NTE5MDk5LC0xMTkxOTE0MDg2LC0yMTU4OTU0MzUsMjE5NjA1MD
-k2LC0yMDY2ODM0Njc5LDE3OTgxODE4ODQsMTc5ODE4MTg4NCwt
-MjY2NzMyODg1XX0=
+eyJoaXN0b3J5IjpbMjE0NDcxMTk5NCwxNTQzOTI5MjcyLC0xNj
+k2NDM2NzgxLDE1NzEyMjM1MTcsLTE4MDgzOTM5ODUsNzkxMTMw
+OTQwLDg2NjUxMzIzMCwxNzM5NzY0NDU0LC0yMTA5MDc5NDY1LD
+Q0OTk2NDMzNCwxMDY2Nzk0NjY4LC0xODczMzU4MzI2LC05NzAx
+NTQ5OTgsLTIwODc1MTkwOTksLTExOTE5MTQwODYsLTIxNTg5NT
+QzNSwyMTk2MDUwOTYsLTIwNjY4MzQ2NzksMTc5ODE4MTg4NCwx
+Nzk4MTgxODg0XX0=
 -->
