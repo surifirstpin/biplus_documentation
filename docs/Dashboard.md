@@ -144,9 +144,13 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 ## Dashboard on Mobile Device
 
-BiPlus make it easier to view the dashboard list in mobile device easily and also it ha
+BiPlus make it easier to view the dashboard list in mobile device easily and also it has following features;
+
+- Displays dashboard list.
+- Displays dashboard report data.
+- You can add more filters to report.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzgyMDM0MCwtMTY5NjQzNjc4MSwxNT
+eyJoaXN0b3J5IjpbMTU0MzkyOTI3MiwtMTY5NjQzNjc4MSwxNT
 cxMjIzNTE3LC0xODA4MzkzOTg1LDc5MTEzMDk0MCw4NjY1MTMy
 MzAsMTczOTc2NDQ1NCwtMjEwOTA3OTQ2NSw0NDk5NjQzMzQsMT
 A2Njc5NDY2OCwtMTg3MzM1ODMyNiwtOTcwMTU0OTk4LC0yMDg3
