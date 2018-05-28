@@ -42,7 +42,11 @@ BiPlus allows you to provide additional key values to manipulate the data in cal
 
 >**Note :** By default all the columns in uploaded file will be saved as string type. 
 
-To find specific cell value in global parameter click on field column header drop-down and select find. the
+## Find
+
+To find specific cell value in global parameter click on field column header drop-down and select find. Then enter the desired cell value as shown in below image.
+
+
 
 
 ## Change Column Name & Type (String / Number)
@@ -96,7 +100,7 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5OTM2OTY1LC0xMzQ1OTIyNzA2LDIwND
+eyJoaXN0b3J5IjpbNDgxNTI2NDE4LC0xMzQ1OTIyNzA2LDIwND
 EzMzgxOTAsLTI2NzY3MjEzLDIxMTc2MTY5MjMsLTg5NTA5MTg5
 MCwxNjk0Mzg3NTk1LC0zOTY5NDIwMDEsMTIzMTM3MDI3OSwtMT
 kwNzc3Njg0MCwtMTgxMTExNzg2NSwtOTAwNTAxNjYxXX0=
