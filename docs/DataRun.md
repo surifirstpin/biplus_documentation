@@ -358,11 +358,16 @@ Using drill down you can view the more deeper insights of the data.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ae2090f2d0635decef08a516ce8833252bee2822/images/drill_down_report.png)
+
+## Download Data
+
+To download the retreived data report click on download data button (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDEyNjA3OSwyMjI1MDExNTUsLTM3Mj
-UwMDYxOSwtMTkyOTU2NzQwMywxNzgxOTUzMDAzLDIxOTEyMjM0
-MCwtNTE0OTg4OTgyLC0yNzI1MzA1OSwtNDE2MTcyOTM5LDE3Mz
-gyOTgzMTIsMTE2Mzk3Njc4OSwxODYzMTE0OTYyLDQ5MDU4NTU1
-NSwxMTU0Njk5OTAxLDQzNjEyODgzNiwtOTkxNTI2NDYyLC0xOT
-EyODg0NDc4LDQyOTY0NDQwMSwyMTM4Mzg1NzAwXX0=
+eyJoaXN0b3J5IjpbNzA3NDcyMTUwLDEzNTAxMjYwNzksMjIyNT
+AxMTU1LC0zNzI1MDA2MTksLTE5Mjk1Njc0MDMsMTc4MTk1MzAw
+MywyMTkxMjIzNDAsLTUxNDk4ODk4MiwtMjcyNTMwNTksLTQxNj
+E3MjkzOSwxNzM4Mjk4MzEyLDExNjM5NzY3ODksMTg2MzExNDk2
+Miw0OTA1ODU1NTUsMTE1NDY5OTkwMSw0MzYxMjg4MzYsLTk5MT
+UyNjQ2MiwtMTkxMjg4NDQ3OCw0Mjk2NDQ0MDEsMjEzODM4NTcw
+MF19
 -->
