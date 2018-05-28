@@ -180,9 +180,9 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 ](https://raw.githubusercontent.com/sv18042016/fp1/f7de77576b380d0f00383c9e9212b895f66d1544/images/pivot_result.png)
 
 
-## Hide missing data 
+## Hide data in pivot 
 
-To hide the missing data after applying pivot to a report
+To hide data after applying pivot to a report
 
 
 ## Pin or Remove Pin
@@ -313,11 +313,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzg5NDgyNSwtMTk5Nzc3MzA5LC0xMz
-g3ODc4ODAyLC0xMDU5MDQ4NTk1LDEyMjYxNjM5MjQsLTY1OTU2
-MTY2LDE5MDI3NDg3NTEsLTE4MzQyOTk4MDYsMTI1MTkwODM2MS
-w1MjUzODAxODcsMTY1MDU0MzM2MywxMjEzMTUxNzkzLC00NDE5
-MDQ2MDMsODA0OTc2NjIwLDU1ODE0MTI5MCwxNzcyMzgyMzIyLD
-czODM2NTAwNiwtNzgxODY1NDMwLC0xNjg2NTQ5NTE0LC0xMTk0
-ODk3ODA3XX0=
+eyJoaXN0b3J5IjpbNTQ3MDM3MTc5LC0xOTk3NzczMDksLTEzOD
+c4Nzg4MDIsLTEwNTkwNDg1OTUsMTIyNjE2MzkyNCwtNjU5NTYx
+NjYsMTkwMjc0ODc1MSwtMTgzNDI5OTgwNiwxMjUxOTA4MzYxLD
+UyNTM4MDE4NywxNjUwNTQzMzYzLDEyMTMxNTE3OTMsLTQ0MTkw
+NDYwMyw4MDQ5NzY2MjAsNTU4MTQxMjkwLDE3NzIzODIzMjIsNz
+M4MzY1MDA2LC03ODE4NjU0MzAsLTE2ODY1NDk1MTQsLTExOTQ4
+OTc4MDddfQ==
 -->
