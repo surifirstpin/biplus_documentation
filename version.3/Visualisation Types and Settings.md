@@ -256,7 +256,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Negative colour-from & to** Specify colour for specific range of negative values.
 
-## Standard Editing Option in Charts
+## Standard Settings
 
 ### General Section 
 
@@ -358,5 +358,5 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0OTcyMjIyMl19
+eyJoaXN0b3J5IjpbLTEzNDQyMDI0NTYsLTY0OTcyMjIyMl19
 -->
