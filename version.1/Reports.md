@@ -180,6 +180,11 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 ](https://raw.githubusercontent.com/sv18042016/fp1/f7de77576b380d0f00383c9e9212b895f66d1544/images/pivot_result.png)
 
 
+## Hide missing data 
+
+To hide the missing data after applying pivot to a report
+
+
 ## Pin or Remove Pin
 
 **15.** To freeze the column field values while scrolling the data to right or left, click on **Pin** in field drop down provided and to release the same click on **Remove Pin.**
@@ -308,11 +313,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc3NzMwOSwtMTM4Nzg3ODgwMiwtMT
-A1OTA0ODU5NSwxMjI2MTYzOTI0LC02NTk1NjE2NiwxOTAyNzQ4
-NzUxLC0xODM0Mjk5ODA2LDEyNTE5MDgzNjEsNTI1MzgwMTg3LD
-E2NTA1NDMzNjMsMTIxMzE1MTc5MywtNDQxOTA0NjAzLDgwNDk3
-NjYyMCw1NTgxNDEyOTAsMTc3MjM4MjMyMiw3MzgzNjUwMDYsLT
-c4MTg2NTQzMCwtMTY4NjU0OTUxNCwtMTE5NDg5NzgwNyw3MzAx
-OTIxNzJdfQ==
+eyJoaXN0b3J5IjpbMTUwMzg5NDgyNSwtMTk5Nzc3MzA5LC0xMz
+g3ODc4ODAyLC0xMDU5MDQ4NTk1LDEyMjYxNjM5MjQsLTY1OTU2
+MTY2LDE5MDI3NDg3NTEsLTE4MzQyOTk4MDYsMTI1MTkwODM2MS
+w1MjUzODAxODcsMTY1MDU0MzM2MywxMjEzMTUxNzkzLC00NDE5
+MDQ2MDMsODA0OTc2NjIwLDU1ODE0MTI5MCwxNzcyMzgyMzIyLD
+czODM2NTAwNiwtNzgxODY1NDMwLC0xNjg2NTQ5NTE0LC0xMTk0
+ODk3ODA3XX0=
 -->
