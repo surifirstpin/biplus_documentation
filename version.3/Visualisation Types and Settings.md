@@ -278,7 +278,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 ### X-Axis Menu Options
 
-- **Axis type** specifies the how x-axis scale for Line, Bar,Bubble is calculated and displayed.
+- **Axis type** specifies the how x-axis scale for Line, Bar, Bubble is calculated and displayed.
 
   - **Indexed** specifies the data to be plotted in numeric values starting from zero on x-axis.
    
@@ -358,5 +358,5 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQyMDI0NTYsLTY0OTcyMjIyMl19
+eyJoaXN0b3J5IjpbLTM4NDY4ODg0NiwtNjQ5NzIyMjIyXX0=
 -->
