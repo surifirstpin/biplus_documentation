@@ -42,6 +42,9 @@ BiPlus allows you to provide additional key values to manipulate the data in cal
 
 >**Note :** By default all the columns in uploaded file will be saved as string type. 
 
+To find specific cell value
+
+
 ## Change Column Name & Type (String / Number)
 
 **4.** Select the column name and click on **Edit** button to change column name. 
@@ -93,8 +96,8 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU5MjI3MDYsMjA0MTMzODE5MCwtMj
-Y3NjcyMTMsMjExNzYxNjkyMywtODk1MDkxODkwLDE2OTQzODc1
-OTUsLTM5Njk0MjAwMSwxMjMxMzcwMjc5LC0xOTA3Nzc2ODQwLC
-0xODExMTE3ODY1LC05MDA1MDE2NjFdfQ==
+eyJoaXN0b3J5IjpbLTg0NjA3MDE4MSwtMTM0NTkyMjcwNiwyMD
+QxMzM4MTkwLC0yNjc2NzIxMywyMTE3NjE2OTIzLC04OTUwOTE4
+OTAsMTY5NDM4NzU5NSwtMzk2OTQyMDAxLDEyMzEzNzAyNzksLT
+E5MDc3NzY4NDAsLTE4MTExMTc4NjUsLTkwMDUwMTY2MV19
 -->
