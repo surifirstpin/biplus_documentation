@@ -363,12 +363,14 @@ Using drill down you can view the more deeper insights of the data.
 
 To download the retrieved data report click on **Download Data** button ( Download icon).
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODgyMDY3OCwxMzUwMTI2MDc5LDIyMj
-UwMTE1NSwtMzcyNTAwNjE5LC0xOTI5NTY3NDAzLDE3ODE5NTMw
-MDMsMjE5MTIyMzQwLC01MTQ5ODg5ODIsLTI3MjUzMDU5LC00MT
-YxNzI5MzksMTczODI5ODMxMiwxMTYzOTc2Nzg5LDE4NjMxMTQ5
-NjIsNDkwNTg1NTU1LDExNTQ2OTk5MDEsNDM2MTI4ODM2LC05OT
-E1MjY0NjIsLTE5MTI4ODQ0NzgsNDI5NjQ0NDAxLDIxMzgzODU3
-MDBdfQ==
+eyJoaXN0b3J5IjpbMTAzMjMzODIyNSwxNTk4ODIwNjc4LDEzNT
+AxMjYwNzksMjIyNTAxMTU1LC0zNzI1MDA2MTksLTE5Mjk1Njc0
+MDMsMTc4MTk1MzAwMywyMTkxMjIzNDAsLTUxNDk4ODk4MiwtMj
+cyNTMwNTksLTQxNjE3MjkzOSwxNzM4Mjk4MzEyLDExNjM5NzY3
+ODksMTg2MzExNDk2Miw0OTA1ODU1NTUsMTE1NDY5OTkwMSw0Mz
+YxMjg4MzYsLTk5MTUyNjQ2MiwtMTkxMjg4NDQ3OCw0Mjk2NDQ0
+MDFdfQ==
 -->
