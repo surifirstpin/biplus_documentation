@@ -46,7 +46,8 @@ BiPlus allows you to provide additional key values to manipulate the data in cal
 
 To find specific cell value in global parameter click on field column header drop-down and select find. Then enter the desired cell value as shown in below image.
 
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/e2bd3416a3b95a70d6d930540867035049373b02/images/find_gp.png)
 
 
 ## Change Column Name & Type (String / Number)
@@ -100,8 +101,9 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxNTI2NDE4LC0xMzQ1OTIyNzA2LDIwND
-EzMzgxOTAsLTI2NzY3MjEzLDIxMTc2MTY5MjMsLTg5NTA5MTg5
-MCwxNjk0Mzg3NTk1LC0zOTY5NDIwMDEsMTIzMTM3MDI3OSwtMT
-kwNzc3Njg0MCwtMTgxMTExNzg2NSwtOTAwNTAxNjYxXX0=
+eyJoaXN0b3J5IjpbLTE3MTU3NTMyNzUsNDgxNTI2NDE4LC0xMz
+Q1OTIyNzA2LDIwNDEzMzgxOTAsLTI2NzY3MjEzLDIxMTc2MTY5
+MjMsLTg5NTA5MTg5MCwxNjk0Mzg3NTk1LC0zOTY5NDIwMDEsMT
+IzMTM3MDI3OSwtMTkwNzc3Njg0MCwtMTgxMTExNzg2NSwtOTAw
+NTAxNjYxXX0=
 -->
