@@ -185,7 +185,7 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 
 | Order Received  |year  |month|Region|Name|
 |--|--|--|--|--|
-| 100 |2000  |January|north|john|
+|100 |2000|January|north|john|
 |200|2001|February|south|Steve|
 |300|2002 |march|east|Bob|
 |400|2003|April|west|Mecker|
@@ -366,11 +366,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjMzODIyNSwxNTk4ODIwNjc4LDEzNT
-AxMjYwNzksMjIyNTAxMTU1LC0zNzI1MDA2MTksLTE5Mjk1Njc0
-MDMsMTc4MTk1MzAwMywyMTkxMjIzNDAsLTUxNDk4ODk4MiwtMj
-cyNTMwNTksLTQxNjE3MjkzOSwxNzM4Mjk4MzEyLDExNjM5NzY3
-ODksMTg2MzExNDk2Miw0OTA1ODU1NTUsMTE1NDY5OTkwMSw0Mz
-YxMjg4MzYsLTk5MTUyNjQ2MiwtMTkxMjg4NDQ3OCw0Mjk2NDQ0
-MDFdfQ==
+eyJoaXN0b3J5IjpbMjA4NzU5MTMxMSwxMDMyMzM4MjI1LDE1OT
+g4MjA2NzgsMTM1MDEyNjA3OSwyMjI1MDExNTUsLTM3MjUwMDYx
+OSwtMTkyOTU2NzQwMywxNzgxOTUzMDAzLDIxOTEyMjM0MCwtNT
+E0OTg4OTgyLC0yNzI1MzA1OSwtNDE2MTcyOTM5LDE3MzgyOTgz
+MTIsMTE2Mzk3Njc4OSwxODYzMTE0OTYyLDQ5MDU4NTU1NSwxMT
+U0Njk5OTAxLDQzNjEyODgzNiwtOTkxNTI2NDYyLC0xOTEyODg0
+NDc4XX0=
 -->
