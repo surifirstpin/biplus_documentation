@@ -225,10 +225,10 @@ Table chart displays the data in series making it more feasible for comparing di
 To hide the first or last column field values in Visualization, Select hide first or hide last check box in Data section.
 To carry out this function you need to derive a expression in calculated column.
 
-For Example : Apply substraction for OrderValue_Sum and derive the exptression in calculated column as follow;
+**For Example** : Apply subtraction for Order_Value_Sum and derive the expression in calculated column as follow;
 
 ```
-pivot_offset(#{ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,0,-1)
+pivot_offset(#{ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE},0,-1)
 ```
 
 ![
@@ -405,7 +405,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjQ5OTcxOCwtMTYyNDU4Mjk2NCwtOT
+eyJoaXN0b3J5IjpbLTU2NjU5NTkxNiwtMTYyNDU4Mjk2NCwtOT
 U5NDA4Njg3LC03NTM2MDMxMywtNTMxMTQ2ODcwLC0yMzgxOTA5
 NDIsLTMxMTMzNTc4LDQ3Mzg3NjI1MCwtMTIzNzEwMzQ1Myw0NT
 AzNTYzMjMsLTkwMTQ3ODIwNSwxMDkzOTAyNTYzLDE2MjgxMTQx
