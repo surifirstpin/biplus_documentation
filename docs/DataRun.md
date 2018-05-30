@@ -208,6 +208,10 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ec488bd0bf7e068232945138e9ea20c018d013fa/images/pivot1.png)
 
+
+
+
+
 ## Pin or Remove Pin
 
 To freeze the column field values while scrolling the data to right or left, click on **Pin** in field drop down provided and to release the same click on **Remove Pin.**
@@ -226,6 +230,8 @@ The below image shows , the consolidated values after grouping is applied on fie
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/93c8d204507e325aea691be5e8a6e7662975fd3c/images/after_grouping.png)
+
+
 
 ## Multi-Level grouping
 
@@ -258,7 +264,7 @@ To remove a specific field column from the extracted list click on **Remove** in
 
 Table calculations enable you to easily create on-the-fly metrics, which are similar to formulas found in Excel sheets. These extracted columns will show up as green in the data table. Using calculated column you can perform mathematical, logical (true/false), lexical (text-based), and date-based calculations on the dimensions, measures, and other table calculations in your query. 
 
-Click on **Calculated column** button to enable table calculations as shown in below image,
+- Click on **Calculated column** button to enable table calculations as shown in below image,
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9dd01207f083d272ba2269a4c999dfa8976f1914/images/calculate%20column1.png)
@@ -366,11 +372,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NzU5MTMxMSwxMDMyMzM4MjI1LDE1OT
-g4MjA2NzgsMTM1MDEyNjA3OSwyMjI1MDExNTUsLTM3MjUwMDYx
-OSwtMTkyOTU2NzQwMywxNzgxOTUzMDAzLDIxOTEyMjM0MCwtNT
-E0OTg4OTgyLC0yNzI1MzA1OSwtNDE2MTcyOTM5LDE3MzgyOTgz
-MTIsMTE2Mzk3Njc4OSwxODYzMTE0OTYyLDQ5MDU4NTU1NSwxMT
-U0Njk5OTAxLDQzNjEyODgzNiwtOTkxNTI2NDYyLC0xOTEyODg0
-NDc4XX0=
+eyJoaXN0b3J5IjpbLTYxOTkyNDAzNCwyMDg3NTkxMzExLDEwMz
+IzMzgyMjUsMTU5ODgyMDY3OCwxMzUwMTI2MDc5LDIyMjUwMTE1
+NSwtMzcyNTAwNjE5LC0xOTI5NTY3NDAzLDE3ODE5NTMwMDMsMj
+E5MTIyMzQwLC01MTQ5ODg5ODIsLTI3MjUzMDU5LC00MTYxNzI5
+MzksMTczODI5ODMxMiwxMTYzOTc2Nzg5LDE4NjMxMTQ5NjIsND
+kwNTg1NTU1LDExNTQ2OTk5MDEsNDM2MTI4ODM2LC05OTE1MjY0
+NjJdfQ==
 -->
