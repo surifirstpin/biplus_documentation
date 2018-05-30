@@ -58,7 +58,8 @@ After navigating to Calculated Column Window, Enter all the below fields.
 
 Custom made mathematical operations can be added in calculated column section as shown in below Image;
 
-**To check number of working days in each month using calculated column expression :**
+
+**For Example :** To Calculate number of working days in each month using calculated column expression :**
 
 ```
 bi.days_in_month
@@ -443,9 +444,9 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU3NjA4MDIsNzUyNzA4NTMwLC0xND
-I3MDIyOTA2LC0xODc0OTc5NjAyLDIwODk2OTE0MzcsLTEwNTU2
-ODQwMDMsNjgyNTg1MDI1LC0xNTE5NjYxNjQwLC0xMjE2NDcwOT
-c0LC02MzkxNDY3ODcsLTU5ODI3ODMzMSwxMjIzOTIwMTUxLDU2
-NTg5MDgxMCwtNzc5MTIwOTcxXX0=
+eyJoaXN0b3J5IjpbMTE1MDg4OTA4OSw3NTI3MDg1MzAsLTE0Mj
+cwMjI5MDYsLTE4NzQ5Nzk2MDIsMjA4OTY5MTQzNywtMTA1NTY4
+NDAwMyw2ODI1ODUwMjUsLTE1MTk2NjE2NDAsLTEyMTY0NzA5Nz
+QsLTYzOTE0Njc4NywtNTk4Mjc4MzMxLDEyMjM5MjAxNTEsNTY1
+ODkwODEwLC03NzkxMjA5NzFdfQ==
 -->
