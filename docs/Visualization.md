@@ -230,6 +230,7 @@ For Example : Apply substraction for OrderValue_Sum and derive the exptression i
 ```
 pivot_offset(#{ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,0,-1)
 ```
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f5065fab3212580100d2bb0d06de4bd7085f18a7/images/hide_pivot1.png)
 
@@ -404,10 +405,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ1ODI5NjQsLTk1OTQwODY4NywtNz
-UzNjAzMTMsLTUzMTE0Njg3MCwtMjM4MTkwOTQyLC0zMTEzMzU3
-OCw0NzM4NzYyNTAsLTEyMzcxMDM0NTMsNDUwMzU2MzIzLC05MD
-E0NzgyMDUsMTA5MzkwMjU2MywxNjI4MTE0MTE1LC0xMTk4MjQw
-Mzk5LDY4Njc2OTQ1NywxMDU0NzY2NjYyLC04MTUwMDUxODRdfQ
-==
+eyJoaXN0b3J5IjpbLTkwNjQ5OTcxOCwtMTYyNDU4Mjk2NCwtOT
+U5NDA4Njg3LC03NTM2MDMxMywtNTMxMTQ2ODcwLC0yMzgxOTA5
+NDIsLTMxMTMzNTc4LDQ3Mzg3NjI1MCwtMTIzNzEwMzQ1Myw0NT
+AzNTYzMjMsLTkwMTQ3ODIwNSwxMDkzOTAyNTYzLDE2MjgxMTQx
+MTUsLTExOTgyNDAzOTksNjg2NzY5NDU3LDEwNTQ3NjY2NjIsLT
+gxNTAwNTE4NF19
 -->
