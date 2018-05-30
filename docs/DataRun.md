@@ -210,7 +210,7 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 
 ## Hide Pivot
 
-To hide the column field values in Visualization,
+To hide the column field values in Visualization, 
 
 
 
@@ -375,11 +375,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4ODY2NTY3LDI0OTMwOTUwMSwtNDUyMT
-Q5NDQ4LC02MzgzNDM4NDAsMjA4NzU5MTMxMSwxMDMyMzM4MjI1
-LDE1OTg4MjA2NzgsMTM1MDEyNjA3OSwyMjI1MDExNTUsLTM3Mj
-UwMDYxOSwtMTkyOTU2NzQwMywxNzgxOTUzMDAzLDIxOTEyMjM0
-MCwtNTE0OTg4OTgyLC0yNzI1MzA1OSwtNDE2MTcyOTM5LDE3Mz
-gyOTgzMTIsMTE2Mzk3Njc4OSwxODYzMTE0OTYyLDQ5MDU4NTU1
-NV19
+eyJoaXN0b3J5IjpbNjg1Njc1ODE3LDgxODg2NjU2NywyNDkzMD
+k1MDEsLTQ1MjE0OTQ0OCwtNjM4MzQzODQwLDIwODc1OTEzMTEs
+MTAzMjMzODIyNSwxNTk4ODIwNjc4LDEzNTAxMjYwNzksMjIyNT
+AxMTU1LC0zNzI1MDA2MTksLTE5Mjk1Njc0MDMsMTc4MTk1MzAw
+MywyMTkxMjIzNDAsLTUxNDk4ODk4MiwtMjcyNTMwNTksLTQxNj
+E3MjkzOSwxNzM4Mjk4MzEyLDExNjM5NzY3ODksMTg2MzExNDk2
+Ml19
 -->
