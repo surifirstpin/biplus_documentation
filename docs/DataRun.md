@@ -213,8 +213,12 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 To hide the first or last column field values in Visualization, Select hide first or hide last check box in Data section.
 To carry out this function you need to derive a expression in calculated column.
 
-For Example : Apply substraction for OrderValue_Sum and derive
+For Example : Apply substraction for OrderValue_Sum and derive the exptression in calculated column as follow;
 
+```
+pivot_offset(#{ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,0,-1)
+```
+The resultant for this 
 
 
 
@@ -380,11 +384,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzg5MjczNywxOTQ1MzI4MDIzLDY4NT
-Y3NTgxNyw4MTg4NjY1NjcsMjQ5MzA5NTAxLC00NTIxNDk0NDgs
-LTYzODM0Mzg0MCwyMDg3NTkxMzExLDEwMzIzMzgyMjUsMTU5OD
-gyMDY3OCwxMzUwMTI2MDc5LDIyMjUwMTE1NSwtMzcyNTAwNjE5
-LC0xOTI5NTY3NDAzLDE3ODE5NTMwMDMsMjE5MTIyMzQwLC01MT
-Q5ODg5ODIsLTI3MjUzMDU5LC00MTYxNzI5MzksMTczODI5ODMx
-Ml19
+eyJoaXN0b3J5IjpbODQwNjA1ODQyLDE5NDUzMjgwMjMsNjg1Nj
+c1ODE3LDgxODg2NjU2NywyNDkzMDk1MDEsLTQ1MjE0OTQ0OCwt
+NjM4MzQzODQwLDIwODc1OTEzMTEsMTAzMjMzODIyNSwxNTk4OD
+IwNjc4LDEzNTAxMjYwNzksMjIyNTAxMTU1LC0zNzI1MDA2MTks
+LTE5Mjk1Njc0MDMsMTc4MTk1MzAwMywyMTkxMjIzNDAsLTUxND
+k4ODk4MiwtMjcyNTMwNTksLTQxNjE3MjkzOSwxNzM4Mjk4MzEy
+XX0=
 -->
