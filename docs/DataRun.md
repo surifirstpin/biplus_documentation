@@ -211,7 +211,9 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 ## Hide Pivot
 
 To hide the first or last column field values in Visualization, Select hide first or hide last check box in Data section.
-T
+To carry out this function you need to derive a expression in calculated column.
+
+For Example : if you want to subtract the ordervalue sum
 
 
 
@@ -378,11 +380,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ3MDYwMiwxOTQ1MzI4MDIzLDY4NT
-Y3NTgxNyw4MTg4NjY1NjcsMjQ5MzA5NTAxLC00NTIxNDk0NDgs
-LTYzODM0Mzg0MCwyMDg3NTkxMzExLDEwMzIzMzgyMjUsMTU5OD
-gyMDY3OCwxMzUwMTI2MDc5LDIyMjUwMTE1NSwtMzcyNTAwNjE5
-LC0xOTI5NTY3NDAzLDE3ODE5NTMwMDMsMjE5MTIyMzQwLC01MT
-Q5ODg5ODIsLTI3MjUzMDU5LC00MTYxNzI5MzksMTczODI5ODMx
-Ml19
+eyJoaXN0b3J5IjpbLTIxMTI2MTc4MzYsMTk0NTMyODAyMyw2OD
+U2NzU4MTcsODE4ODY2NTY3LDI0OTMwOTUwMSwtNDUyMTQ5NDQ4
+LC02MzgzNDM4NDAsMjA4NzU5MTMxMSwxMDMyMzM4MjI1LDE1OT
+g4MjA2NzgsMTM1MDEyNjA3OSwyMjI1MDExNTUsLTM3MjUwMDYx
+OSwtMTkyOTU2NzQwMywxNzgxOTUzMDAzLDIxOTEyMjM0MCwtNT
+E0OTg4OTgyLC0yNzI1MzA1OSwtNDE2MTcyOTM5LDE3MzgyOTgz
+MTJdfQ==
 -->
