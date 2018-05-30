@@ -126,8 +126,8 @@ Model Customization can be done among views in the following ways.
 |   | Filter_sql | the query phrase which acts as a filter, Ex col name = “Employee Name’ |
 |   | Apply | to specify the applicability |
 |   | Position | describes the priority of the filter phrase with other data filters can be assigned as 'before" or 'after" |
-| |Bindkey|it is a string applied to a query to reduce the execution time of a custom span |
-| |filterViewName| |
+| |Bindkey|it is a string applied to a query in order to reduce the execution time of a custom query|
+| |filterViewName| Name of the custom view in which the bindkey is used|
 | |filterKey_mapping||
 |  2B | **Joins characteristics** |  |
 |   | join | derive the relationship between 2 views based on the condition. |
@@ -670,11 +670,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjMyOTkxNiwxNDE0NDM0NDQsLTE4MT
-AzOTA3OTUsMjA4NjU5NDc0NywtMTU3MjE4MTM3MiwxMTQxNzMw
-NzkxLC0yMDY2MDY2NjgyLC0xMTM1NjYyOTYyLDEyNDM2NTg5ND
-IsLTIwMDI0OTA2NTUsLTI4Mjc4Njk2MiwtMTMyMzI2OTUzNCwt
-NzAyMzQ2ODg0LC03OTg0ODMxMDgsMTMwMjM2MDc0OCw3MjIwOT
-cwNjgsMjA4MTE1MjMzNiw5NTAyOTg2OSwtMTU2NDU5MzU1NSwt
-MTk4NDgyOTk3MV19
+eyJoaXN0b3J5IjpbODA3OTc1ODcyLDE0MTQ0MzQ0NCwtMTgxMD
+M5MDc5NSwyMDg2NTk0NzQ3LC0xNTcyMTgxMzcyLDExNDE3MzA3
+OTEsLTIwNjYwNjY2ODIsLTExMzU2NjI5NjIsMTI0MzY1ODk0Mi
+wtMjAwMjQ5MDY1NSwtMjgyNzg2OTYyLC0xMzIzMjY5NTM0LC03
+MDIzNDY4ODQsLTc5ODQ4MzEwOCwxMzAyMzYwNzQ4LDcyMjA5Nz
+A2OCwyMDgxMTUyMzM2LDk1MDI5ODY5LC0xNTY0NTkzNTU1LC0x
+OTg0ODI5OTcxXX0=
 -->
