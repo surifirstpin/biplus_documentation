@@ -23,6 +23,8 @@ Click on **Calculated column** button to enable table calculations as shown in b
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9dd01207f083d272ba2269a4c999dfa8976f1914/images/calculate%20column1.png)
 
+After navigating to Calculated Column Window, Enter all the below fields.
+
 - **Field name** unique identifier name to refer calculated column.
 
 - **Label** labeling the calculated column.
@@ -436,8 +438,9 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjIyNTE2MSwtMTg3NDk3OTYwMiwyMD
-g5NjkxNDM3LC0xMDU1Njg0MDAzLDY4MjU4NTAyNSwtMTUxOTY2
-MTY0MCwtMTIxNjQ3MDk3NCwtNjM5MTQ2Nzg3LC01OTgyNzgzMz
-EsMTIyMzkyMDE1MSw1NjU4OTA4MTAsLTc3OTEyMDk3MV19
+eyJoaXN0b3J5IjpbLTE0MjcwMjI5MDYsLTE4NzQ5Nzk2MDIsMj
+A4OTY5MTQzNywtMTA1NTY4NDAwMyw2ODI1ODUwMjUsLTE1MTk2
+NjE2NDAsLTEyMTY0NzA5NzQsLTYzOTE0Njc4NywtNTk4Mjc4Mz
+MxLDEyMjM5MjAxNTEsNTY1ODkwODEwLC03NzkxMjA5NzFdfQ==
+
 -->
