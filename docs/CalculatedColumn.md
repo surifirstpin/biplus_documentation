@@ -33,8 +33,10 @@ After navigating to Calculated Column Window, Enter all the below fields.
 
 - **Field type** derives dimension or measure.
 
-- **Calculation** To derive a expressions. Enter $ symbol, it will display list of functions and fields available for executing arithmetical & logical Expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
+- **Calculation** To derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/aff2f17d1b5383de542a7b534df7caeb69c03b3d/images/calculated_col_window.png)
 
  
 
@@ -441,9 +443,9 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyNzA4NTMwLC0xNDI3MDIyOTA2LC0xOD
-c0OTc5NjAyLDIwODk2OTE0MzcsLTEwNTU2ODQwMDMsNjgyNTg1
-MDI1LC0xNTE5NjYxNjQwLC0xMjE2NDcwOTc0LC02MzkxNDY3OD
-csLTU5ODI3ODMzMSwxMjIzOTIwMTUxLDU2NTg5MDgxMCwtNzc5
-MTIwOTcxXX0=
+eyJoaXN0b3J5IjpbLTIwMDU3NjA4MDIsNzUyNzA4NTMwLC0xND
+I3MDIyOTA2LC0xODc0OTc5NjAyLDIwODk2OTE0MzcsLTEwNTU2
+ODQwMDMsNjgyNTg1MDI1LC0xNTE5NjYxNjQwLC0xMjE2NDcwOT
+c0LC02MzkxNDY3ODcsLTU5ODI3ODMzMSwxMjIzOTIwMTUxLDU2
+NTg5MDgxMCwtNzc5MTIwOTcxXX0=
 -->
