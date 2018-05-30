@@ -226,7 +226,7 @@ The resultant for this expression would be seen in green colour;
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot2.png)
 
-In the above image you can see, hide_pivot
+In the above image you can see, hide_pivot 1st column is seen empty, so in ioder to hide this you need to select check pivot hide first in data section to 
 
 
 
@@ -390,7 +390,7 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTk0NDQzOCwtMTg4MjUyMzc3MCwtNz
+eyJoaXN0b3J5IjpbLTIzOTY1Nzk2NiwtMTg4MjUyMzc3MCwtNz
 Q1NTk0Njk1LDE5NDUzMjgwMjMsNjg1Njc1ODE3LDgxODg2NjU2
 NywyNDkzMDk1MDEsLTQ1MjE0OTQ0OCwtNjM4MzQzODQwLDIwOD
 c1OTEzMTEsMTAzMjMzODIyNSwxNTk4ODIwNjc4LDEzNTAxMjYw
