@@ -70,13 +70,6 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e7895f0d4e17c8c8cbdccd25330829252949ae5b/images/cal_example.png)
 
-**Example 2 :**
-
-Similarly we can also calculate cubical values for the column fields use the below expression in calculation field window.
-
-```
-bi.cube(${ROOT.BI_ORDERS.count_AMOUNT})
-```
 
 **BiPlus supports following functionalities in calculated column:**
 
@@ -447,9 +440,10 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDI3MDA3NSwyMDU1MjcxNzM1LDc1Mj
-cwODUzMCwtMTQyNzAyMjkwNiwtMTg3NDk3OTYwMiwyMDg5Njkx
-NDM3LC0xMDU1Njg0MDAzLDY4MjU4NTAyNSwtMTUxOTY2MTY0MC
-wtMTIxNjQ3MDk3NCwtNjM5MTQ2Nzg3LC01OTgyNzgzMzEsMTIy
-MzkyMDE1MSw1NjU4OTA4MTAsLTc3OTEyMDk3MV19
+eyJoaXN0b3J5IjpbLTE4Nzk3MTkxNTEsLTk0NDI3MDA3NSwyMD
+U1MjcxNzM1LDc1MjcwODUzMCwtMTQyNzAyMjkwNiwtMTg3NDk3
+OTYwMiwyMDg5NjkxNDM3LC0xMDU1Njg0MDAzLDY4MjU4NTAyNS
+wtMTUxOTY2MTY0MCwtMTIxNjQ3MDk3NCwtNjM5MTQ2Nzg3LC01
+OTgyNzgzMzEsMTIyMzkyMDE1MSw1NjU4OTA4MTAsLTc3OTEyMD
+k3MV19
 -->
