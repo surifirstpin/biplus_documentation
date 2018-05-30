@@ -220,6 +220,9 @@ Table chart displays the data in series making it more feasible for comparing di
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b6e598ee67160c266bb9d4d30a423f520880bf63/images/table_chart.png)
 
+
+
+
 ## Widget chart 
 
 It displays one or more data series as a data graph. Widget chart is used to display the number of records created today. number of Incidents by status or department.
@@ -379,9 +382,9 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTQwODY4NywtNzUzNjAzMTMsLTUzMT
-E0Njg3MCwtMjM4MTkwOTQyLC0zMTEzMzU3OCw0NzM4NzYyNTAs
-LTEyMzcxMDM0NTMsNDUwMzU2MzIzLC05MDE0NzgyMDUsMTA5Mz
-kwMjU2MywxNjI4MTE0MTE1LC0xMTk4MjQwMzk5LDY4Njc2OTQ1
-NywxMDU0NzY2NjYyLC04MTUwMDUxODRdfQ==
+eyJoaXN0b3J5IjpbMTE5ODYxMTIyNywtOTU5NDA4Njg3LC03NT
+M2MDMxMywtNTMxMTQ2ODcwLC0yMzgxOTA5NDIsLTMxMTMzNTc4
+LDQ3Mzg3NjI1MCwtMTIzNzEwMzQ1Myw0NTAzNTYzMjMsLTkwMT
+Q3ODIwNSwxMDkzOTAyNTYzLDE2MjgxMTQxMTUsLTExOTgyNDAz
+OTksNjg2NzY5NDU3LDEwNTQ3NjY2NjIsLTgxNTAwNTE4NF19
 -->
