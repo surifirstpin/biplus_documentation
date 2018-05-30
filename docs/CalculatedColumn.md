@@ -33,7 +33,10 @@ After navigating to Calculated Column Window, Enter all the below fields.
 
 - **Field type** derives dimension or measure.
 
-- **Calculation** To derive a expressions. Enter $ symbol, it will display list of functions and fields available for excuting 
+- **Calculation** To derive a expressions. Enter $ symbol, it will display list of functions and fields available for executing arithmetical & logical Expressions in calculated column section.
+
+
+ 
 
 - **Calculate on the raw data** this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
 
@@ -438,7 +441,7 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDE3MTA1OCwtMTQyNzAyMjkwNiwtMT
+eyJoaXN0b3J5IjpbMjEwMDc5OTQ5OCwtMTQyNzAyMjkwNiwtMT
 g3NDk3OTYwMiwyMDg5NjkxNDM3LC0xMDU1Njg0MDAzLDY4MjU4
 NTAyNSwtMTUxOTY2MTY0MCwtMTIxNjQ3MDk3NCwtNjM5MTQ2Nz
 g3LC01OTgyNzgzMzEsMTIyMzkyMDE1MSw1NjU4OTA4MTAsLTc3
