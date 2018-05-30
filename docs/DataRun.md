@@ -218,10 +218,11 @@ For Example : Apply substraction for OrderValue_Sum and derive the exptression i
 ```
 pivot_offset(#{ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,0,-1)
 ```
-The resultant for this expression would be seen in green colour;
-
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f5065fab3212580100d2bb0d06de4bd7085f18a7/images/hide_pivot1.png)
+
+The resultant for this expression would be seen in green colour;
+
 
 
 
@@ -389,11 +390,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODI1MjM3NzAsLTc0NTU5NDY5NSwxOT
-Q1MzI4MDIzLDY4NTY3NTgxNyw4MTg4NjY1NjcsMjQ5MzA5NTAx
-LC00NTIxNDk0NDgsLTYzODM0Mzg0MCwyMDg3NTkxMzExLDEwMz
-IzMzgyMjUsMTU5ODgyMDY3OCwxMzUwMTI2MDc5LDIyMjUwMTE1
-NSwtMzcyNTAwNjE5LC0xOTI5NTY3NDAzLDE3ODE5NTMwMDMsMj
-E5MTIyMzQwLC01MTQ5ODg5ODIsLTI3MjUzMDU5LC00MTYxNzI5
-MzldfQ==
+eyJoaXN0b3J5IjpbLTE1MjIxNjUyOTIsLTE4ODI1MjM3NzAsLT
+c0NTU5NDY5NSwxOTQ1MzI4MDIzLDY4NTY3NTgxNyw4MTg4NjY1
+NjcsMjQ5MzA5NTAxLC00NTIxNDk0NDgsLTYzODM0Mzg0MCwyMD
+g3NTkxMzExLDEwMzIzMzgyMjUsMTU5ODgyMDY3OCwxMzUwMTI2
+MDc5LDIyMjUwMTE1NSwtMzcyNTAwNjE5LC0xOTI5NTY3NDAzLD
+E3ODE5NTMwMDMsMjE5MTIyMzQwLC01MTQ5ODg5ODIsLTI3MjUz
+MDU5XX0=
 -->
