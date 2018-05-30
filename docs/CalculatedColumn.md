@@ -16,6 +16,36 @@ Calculated column allows you to manipulate the retrieved data using arithmetical
  
 > **Note:** The functions support JavaScript API.
 
+### Deriving Expression
+
+Click on **Calculated column** button to enable table calculations as shown in below image,
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/9dd01207f083d272ba2269a4c999dfa8976f1914/images/calculate%20column1.png)
+
+- **Field name** unique identifier name to refer calculated column.
+
+- **Label** labeling the calculated column.
+
+- **Data type** data type used (string,number).
+
+- **Field type** derives dimension or measure.
+
+- **Calculation** derive arithmetical & logical expressions.
+
+- **Calculate on the raw data** this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
+
+- Click **ok** after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image,
+
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)
+
+
+
 
 ## Mathematical operation 
 
@@ -406,9 +436,8 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk5ODE4MTcsLTE4NzQ5Nzk2MDIsMj
-A4OTY5MTQzNywtMTA1NTY4NDAwMyw2ODI1ODUwMjUsLTE1MTk2
-NjE2NDAsLTEyMTY0NzA5NzQsLTYzOTE0Njc4NywtNTk4Mjc4Mz
-MxLDEyMjM5MjAxNTEsNTY1ODkwODEwLC03NzkxMjA5NzFdfQ==
-
+eyJoaXN0b3J5IjpbMTYyMjIyNTE2MSwtMTg3NDk3OTYwMiwyMD
+g5NjkxNDM3LC0xMDU1Njg0MDAzLDY4MjU4NTAyNSwtMTUxOTY2
+MTY0MCwtMTIxNjQ3MDk3NCwtNjM5MTQ2Nzg3LC01OTgyNzgzMz
+EsMTIyMzkyMDE1MSw1NjU4OTA4MTAsLTc3OTEyMDk3MV19
 -->
