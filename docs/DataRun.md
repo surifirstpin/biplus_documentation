@@ -210,7 +210,9 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 
 ## Hide Pivot
 
-To hide the first or last column field values in Visualization, Select hide first or hide last check box in Data section 
+To hide the first or last column field values in Visualization, Select hide first or hide last check box in Data section.
+T
+
 
 
 
@@ -376,7 +378,7 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjcwMDMzNiwxOTQ1MzI4MDIzLDY4NT
+eyJoaXN0b3J5IjpbLTIwODQ3MDYwMiwxOTQ1MzI4MDIzLDY4NT
 Y3NTgxNyw4MTg4NjY1NjcsMjQ5MzA5NTAxLC00NTIxNDk0NDgs
 LTYzODM0Mzg0MCwyMDg3NTkxMzExLDEwMzIzMzgyMjUsMTU5OD
 gyMDY3OCwxMzUwMTI2MDc5LDIyMjUwMTE1NSwtMzcyNTAwNjE5
