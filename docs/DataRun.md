@@ -215,6 +215,7 @@ To hide the column field values in Visualization,
 
 
 
+
 ## Pin or Remove Pin
 
 To freeze the column field values while scrolling the data to right or left, click on **Pin** in field drop down provided and to release the same click on **Remove Pin.**
@@ -375,11 +376,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1Njc1ODE3LDgxODg2NjU2NywyNDkzMD
-k1MDEsLTQ1MjE0OTQ0OCwtNjM4MzQzODQwLDIwODc1OTEzMTEs
-MTAzMjMzODIyNSwxNTk4ODIwNjc4LDEzNTAxMjYwNzksMjIyNT
-AxMTU1LC0zNzI1MDA2MTksLTE5Mjk1Njc0MDMsMTc4MTk1MzAw
-MywyMTkxMjIzNDAsLTUxNDk4ODk4MiwtMjcyNTMwNTksLTQxNj
-E3MjkzOSwxNzM4Mjk4MzEyLDExNjM5NzY3ODksMTg2MzExNDk2
-Ml19
+eyJoaXN0b3J5IjpbMTk0NTMyODAyMyw2ODU2NzU4MTcsODE4OD
+Y2NTY3LDI0OTMwOTUwMSwtNDUyMTQ5NDQ4LC02MzgzNDM4NDAs
+MjA4NzU5MTMxMSwxMDMyMzM4MjI1LDE1OTg4MjA2NzgsMTM1MD
+EyNjA3OSwyMjI1MDExNTUsLTM3MjUwMDYxOSwtMTkyOTU2NzQw
+MywxNzgxOTUzMDAzLDIxOTEyMjM0MCwtNTE0OTg4OTgyLC0yNz
+I1MzA1OSwtNDE2MTcyOTM5LDE3MzgyOTgzMTIsMTE2Mzk3Njc4
+OV19
 -->
