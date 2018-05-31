@@ -7,9 +7,9 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 Know let us see how to get started with SQL Runner:
 
-1.After loging into BiPlu
+1. After logging into BiPlus Click on SQL Runner,
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjE5Njc4Miw2NjIwNDcwODgsLTUxMT
+eyJoaXN0b3J5IjpbLTIzMTYzNzE1OSw2NjIwNDcwODgsLTUxMT
 YyNTM4N119
 -->
