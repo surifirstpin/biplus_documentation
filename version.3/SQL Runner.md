@@ -2,7 +2,10 @@
 <center><h1>SQL Runner </h1></center>
 
 
-QL Runner provides a way to directly access your database and leverage that access in a variety of ways. Using SQL Runner, you can easily navigate the tables in your schema, use an on-the-fly Explore from a SQL query, run pre-written descriptive queries on your data, see your SQL Runner history, download results, share queries, add to a LookML Project as a derived table, and perform other useful tasks.
+SQL Runner provides a way to directly access your database and leverage that access in a variety of ways. Using SQL Runner, you can easily navigate the tables in your schema, use an on-the-fly Explore from a SQL query, run pre-written descriptive queries on your data, see your SQL Runner history, download results, share queries, add to a LookML Project as a derived table, and perform other useful tasks.
+
+
+Using SQL Runner you can directly Acess the database 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTYyNTM4N119
+eyJoaXN0b3J5IjpbMTI0MDg2NDYwNiwtNTExNjI1Mzg3XX0=
 -->
