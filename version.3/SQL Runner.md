@@ -9,8 +9,9 @@ Know let us see how to get started with SQL Runner:
 
 1. After logging into BiPlus homepage, Click on SQL Runner section.
 
-it displays sql runner Screen as shown in below im
+it displays sql runner Screen as shown in below image.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjgyOTQzNjEsLTIzMTYzNzE1OSw2Nj
+eyJoaXN0b3J5IjpbLTE2NDY1MTE1NzgsLTIzMTYzNzE1OSw2Nj
 IwNDcwODgsLTUxMTYyNTM4N119
 -->
