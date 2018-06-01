@@ -21,17 +21,17 @@ Know let us see how to write sql query in sql runner:
 
 **5.** Click on **Download** to download the data retrieved.
 
-**6.** After Running the query it displays the time taken for the query to run and number of rows fetched.
+**6.** After Running the query it displays the **query time** taken to run the query and **Number of rows** fetched.
 
-7. A maximum record limit of 5000 can be fetched.
+**7.** A maximum **record limit** of 5000 can be fetched.
 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ce8e9fc79b080f9de55ebc3627f8c1f071efd6d5/images/sql_runner.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjI3NDk2LDExMjM4NTcwMjEsNDA2Nz
-A1NTMzLDQzMTk5NjE3NiwtMTUzMTA5ODIwMSwtNDEwMDE0Nzc3
-LC0yMDA3NzQ0MDYyLDEwODA2NDg1MDUsODU0MjQ2NDI4LC0xNj
-Q2NTExNTc4LC0yMzE2MzcxNTksNjYyMDQ3MDg4LC01MTE2MjUz
-ODddfQ==
+eyJoaXN0b3J5IjpbMTQ0ODc3OTU5NSwxMTIzODU3MDIxLDQwNj
+cwNTUzMyw0MzE5OTYxNzYsLTE1MzEwOTgyMDEsLTQxMDAxNDc3
+NywtMjAwNzc0NDA2MiwxMDgwNjQ4NTA1LDg1NDI0NjQyOCwtMT
+Y0NjUxMTU3OCwtMjMxNjM3MTU5LDY2MjA0NzA4OCwtNTExNjI1
+Mzg3XX0=
 -->
