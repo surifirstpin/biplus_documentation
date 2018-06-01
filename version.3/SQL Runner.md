@@ -5,14 +5,14 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 You can directly write the sql query from scratch and run it or build the sql query in analysis section. You can also use the history to pre-run the previous query.
 
-Know let us see how to get started with SQL Runner:
+Know let us see how to write sql query in sql runner:
 
 1. After logging into BiPlus homepage, Click on SQL Runner section.
 
 it displays sql runner Screen as shown in below image.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc3NDQwNjIsMTA4MDY0ODUwNSw4NT
-QyNDY0MjgsLTE2NDY1MTE1NzgsLTIzMTYzNzE1OSw2NjIwNDcw
-ODgsLTUxMTYyNTM4N119
+eyJoaXN0b3J5IjpbMTI1NTcxNTIzNSwtMjAwNzc0NDA2MiwxMD
+gwNjQ4NTA1LDg1NDI0NjQyOCwtMTY0NjUxMTU3OCwtMjMxNjM3
+MTU5LDY2MjA0NzA4OCwtNTExNjI1Mzg3XX0=
 -->
