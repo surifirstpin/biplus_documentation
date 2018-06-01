@@ -30,8 +30,12 @@ Know let us see how to write sql query in sql runner:
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ce8e9fc79b080f9de55ebc3627f8c1f071efd6d5/images/sql_runner.png)
+
+## Derived View
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTAzODE5MywtMTY0NDUzMDEyMyw0ND
-EzMDY3MjMsLTk2Mzg2MjkxOSwtMjMwOTc5MDMzLDE0NDg3Nzk1
-OTVdfQ==
+eyJoaXN0b3J5IjpbMTM1MTI3NTM4NywxNTc1MDM4MTkzLC0xNj
+Q0NTMwMTIzLDQ0MTMwNjcyMywtOTYzODYyOTE5LC0yMzA5Nzkw
+MzMsMTQ0ODc3OTU5NV19
 -->
