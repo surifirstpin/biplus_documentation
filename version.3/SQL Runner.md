@@ -11,9 +11,10 @@ Know let us see how to write sql query in sql runner:
 
 2.  Type your SQL command in SQL query area.
 3.  Now **Run** the query.
-4. The data is retreived below the query area as shown in the i
+4. The data is retreived below the query area as shown in the image. sql runner will load upto limit 5000 only.
+5. Click on Download to download the data retreived.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyNTA4NTMyLC0xNTMxMDk4MjAxLC00MT
+eyJoaXN0b3J5IjpbNDMxOTk2MTc2LC0xNTMxMDk4MjAxLC00MT
 AwMTQ3NzcsLTIwMDc3NDQwNjIsMTA4MDY0ODUwNSw4NTQyNDY0
 MjgsLTE2NDY1MTE1NzgsLTIzMTYzNzE1OSw2NjIwNDcwODgsLT
 UxMTYyNTM4N119
