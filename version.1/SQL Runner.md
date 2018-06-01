@@ -33,9 +33,9 @@ Know let us see how to write sql query in sql runner:
 
 ## Derived View
 
-
+SQL Runner can create a derived table from the query build.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTI3NTM4NywxNTc1MDM4MTkzLC0xNj
-Q0NTMwMTIzLDQ0MTMwNjcyMywtOTYzODYyOTE5LC0yMzA5Nzkw
-MzMsMTQ0ODc3OTU5NV19
+eyJoaXN0b3J5IjpbNzYzOTgwNDIyLDE1NzUwMzgxOTMsLTE2ND
+Q1MzAxMjMsNDQxMzA2NzIzLC05NjM4NjI5MTksLTIzMDk3OTAz
+MywxNDQ4Nzc5NTk1XX0=
 -->
