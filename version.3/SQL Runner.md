@@ -17,9 +17,15 @@ Know let us see how to write sql query in sql runner:
 3.  Now **Run** the query.
 4. The data is retrieved below the query area as shown in the image. sql runner will load upto limit 5000 only.
 5. Click on **Download** to download the data retrieved.
+6. After nunning the query it displays the time taken for the query to run and number of rows fetched.
+7. 
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/ce8e9fc79b080f9de55ebc3627f8c1f071efd6d5/images/sql_runner.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzg1NzAyMSw0MDY3MDU1MzMsNDMxOT
-k2MTc2LC0xNTMxMDk4MjAxLC00MTAwMTQ3NzcsLTIwMDc3NDQw
-NjIsMTA4MDY0ODUwNSw4NTQyNDY0MjgsLTE2NDY1MTE1NzgsLT
-IzMTYzNzE1OSw2NjIwNDcwODgsLTUxMTYyNTM4N119
+eyJoaXN0b3J5IjpbMjA4ODIwNjcwOSwxMTIzODU3MDIxLDQwNj
+cwNTUzMyw0MzE5OTYxNzYsLTE1MzEwOTgyMDEsLTQxMDAxNDc3
+NywtMjAwNzc0NDA2MiwxMDgwNjQ4NTA1LDg1NDI0NjQyOCwtMT
+Y0NjUxMTU3OCwtMjMxNjM3MTU5LDY2MjA0NzA4OCwtNTExNjI1
+Mzg3XX0=
 -->
