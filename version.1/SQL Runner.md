@@ -28,10 +28,9 @@ Know let us see how to write sql query in sql runner:
 
 **7.** A maximum **record limit** of 5000 can be fetched.
 
-
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ce8e9fc79b080f9de55ebc3627f8c1f071efd6d5/images/sql_runner.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxMzA2NzIzLC05NjM4NjI5MTksLTIzMD
-k3OTAzMywxNDQ4Nzc5NTk1XX0=
+eyJoaXN0b3J5IjpbLTE2NDQ1MzAxMjMsNDQxMzA2NzIzLC05Nj
+M4NjI5MTksLTIzMDk3OTAzMywxNDQ4Nzc5NTk1XX0=
 -->
