@@ -11,22 +11,25 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 Know let us see how to write sql query in sql runner:
 
-1. After logging into BiPlus homepage, Click on SQL Runner section.
+**1.** After logging into BiPlus homepage, Click on SQL Runner section.
 
-2.  Type your SQL command in SQL query area.
+**2.**  Type your SQL command in SQL query area.
 
-3.  Now **Run** the query.
+**3.**  Now **Run** the query.
 
-4. The data is retrieved below the query area as shown in the image. sql runner will load upto limit 5000 only.
-5. Click on **Download** to download the data retrieved.
-6. After nunning the query it displays the time taken for the query to run and number of rows fetched.
+**4.** The data is retrieved below the query area as shown in the image. sql runner will load upto limit 5000 only.
+
+**5.** Click on **Download** to download the data retrieved.
+
+**6.** After Running the query it displays the time taken for the query to run and number of rows fetched.
+
 7. A maximum record limit of 5000 can be fetched.
 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ce8e9fc79b080f9de55ebc3627f8c1f071efd6d5/images/sql_runner.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxNDcxNTAyLDExMjM4NTcwMjEsNDA2Nz
+eyJoaXN0b3J5IjpbMTUwMjI3NDk2LDExMjM4NTcwMjEsNDA2Nz
 A1NTMzLDQzMTk5NjE3NiwtMTUzMTA5ODIwMSwtNDEwMDE0Nzc3
 LC0yMDA3NzQ0MDYyLDEwODA2NDg1MDUsODU0MjQ2NDI4LC0xNj
 Q2NTExNTc4LC0yMzE2MzcxNTksNjYyMDQ3MDg4LC01MTE2MjUz
