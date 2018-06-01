@@ -7,7 +7,7 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 - You can also create sql query in analysis section. 
 
-- You can use the **history**  to Pre-run the previous query.
+- You can use the **history** section to Pre-run the previous query.
 
 Know let us see how to write sql query in sql runner:
 
@@ -15,11 +15,11 @@ Know let us see how to write sql query in sql runner:
 
 2.  Type your SQL command in SQL query area.
 3.  Now **Run** the query.
-4. The data is retreived below the query area as shown in the image. sql runner will load upto limit 5000 only.
-5. Click on Download to download the data retreived.
+4. The data is retrieved below the query area as shown in the image. sql runner will load upto limit 5000 only.
+5. Click on Download to download the data retrieved.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjE0NDU3OTAsNDMxOTk2MTc2LC0xNT
-MxMDk4MjAxLC00MTAwMTQ3NzcsLTIwMDc3NDQwNjIsMTA4MDY0
-ODUwNSw4NTQyNDY0MjgsLTE2NDY1MTE1NzgsLTIzMTYzNzE1OS
-w2NjIwNDcwODgsLTUxMTYyNTM4N119
+eyJoaXN0b3J5IjpbNDA2NzA1NTMzLDQzMTk5NjE3NiwtMTUzMT
+A5ODIwMSwtNDEwMDE0Nzc3LC0yMDA3NzQ0MDYyLDEwODA2NDg1
+MDUsODU0MjQ2NDI4LC0xNjQ2NTExNTc4LC0yMzE2MzcxNTksNj
+YyMDQ3MDg4LC01MTE2MjUzODddfQ==
 -->
