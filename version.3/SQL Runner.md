@@ -3,6 +3,8 @@
 
 Using SQL Runner you can directly Access your database and clout that access in variety of ways. In sql Runner you can easily set up the connection, and navigate the tables under your schema. You can run pre-written sql queries view the query run history. You can create your customs views here and perform useful task with them in model section.  
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/80de2f52f8761fc1d82c96a7234774b466cacacc/images/sql_ru.png)
 
 - You can directly write the sql query from scratch and run it make sure the dialects used in SQL runner should match the database dialects. 
 
@@ -30,9 +32,10 @@ Know let us see how to write sql query in sql runner:
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ce8e9fc79b080f9de55ebc3627f8c1f071efd6d5/images/sql_runner.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Mzg2MjkxOSwtMjMwOTc5MDMzLDE0ND
-g3Nzk1OTUsMTEyMzg1NzAyMSw0MDY3MDU1MzMsNDMxOTk2MTc2
-LC0xNTMxMDk4MjAxLC00MTAwMTQ3NzcsLTIwMDc3NDQwNjIsMT
-A4MDY0ODUwNSw4NTQyNDY0MjgsLTE2NDY1MTE1NzgsLTIzMTYz
-NzE1OSw2NjIwNDcwODgsLTUxMTYyNTM4N119
+eyJoaXN0b3J5IjpbNDQxMzA2NzIzLC05NjM4NjI5MTksLTIzMD
+k3OTAzMywxNDQ4Nzc5NTk1LDExMjM4NTcwMjEsNDA2NzA1NTMz
+LDQzMTk5NjE3NiwtMTUzMTA5ODIwMSwtNDEwMDE0Nzc3LC0yMD
+A3NzQ0MDYyLDEwODA2NDg1MDUsODU0MjQ2NDI4LC0xNjQ2NTEx
+NTc4LC0yMzE2MzcxNTksNjYyMDQ3MDg4LC01MTE2MjUzODddfQ
+==
 -->
