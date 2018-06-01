@@ -3,7 +3,7 @@
 
 Using SQL Runner you can directly Access your database and clout that access in variety of ways. In sql Runner you can easily set up the connection, and navigate the tables under your schema. You can run pre-written sql queries view the query run history. You can create your customs views here and perform useful task with them in model section.  
 
-You can directly write the sql query from scratch and run it or build the sql query in analysis section. You can also use the history to pre-run the previous query.
+You can directly write the sql query from scratch and run it or build the sql query in analysis section. You can also use the history to Pre-run the previous query.
 
 Know let us see how to write sql query in sql runner:
 
@@ -12,7 +12,8 @@ Know let us see how to write sql query in sql runner:
 2.  Type your SQL command in SQL query area run it.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDAxNDc3NywtMjAwNzc0NDA2MiwxMD
-gwNjQ4NTA1LDg1NDI0NjQyOCwtMTY0NjUxMTU3OCwtMjMxNjM3
-MTU5LDY2MjA0NzA4OCwtNTExNjI1Mzg3XX0=
+eyJoaXN0b3J5IjpbLTE1MzEwOTgyMDEsLTQxMDAxNDc3NywtMj
+AwNzc0NDA2MiwxMDgwNjQ4NTA1LDg1NDI0NjQyOCwtMTY0NjUx
+MTU3OCwtMjMxNjM3MTU5LDY2MjA0NzA4OCwtNTExNjI1Mzg3XX
+0=
 -->
