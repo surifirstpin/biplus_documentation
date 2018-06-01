@@ -8,11 +8,10 @@ You can directly write the sql query from scratch and run it or build the sql qu
 Know let us see how to write sql query in sql runner:
 
 1. After logging into BiPlus homepage, Click on SQL Runner section.
-
-it displays sql runner Screen as shown in below image.
+2.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTcxNTIzNSwtMjAwNzc0NDA2MiwxMD
-gwNjQ4NTA1LDg1NDI0NjQyOCwtMTY0NjUxMTU3OCwtMjMxNjM3
-MTU5LDY2MjA0NzA4OCwtNTExNjI1Mzg3XX0=
+eyJoaXN0b3J5IjpbLTE3Mzc0NTQyOTUsLTIwMDc3NDQwNjIsMT
+A4MDY0ODUwNSw4NTQyNDY0MjgsLTE2NDY1MTE1NzgsLTIzMTYz
+NzE1OSw2NjIwNDcwODgsLTUxMTYyNTM4N119
 -->
