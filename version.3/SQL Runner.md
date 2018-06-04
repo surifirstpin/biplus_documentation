@@ -28,6 +28,12 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 **7.** A maximum **Record limit** of 5000 can be fetched.
 
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/ce8e9fc79b080f9de55ebc3627f8c1f071efd6d5/images/sql_runner.png)
+
+
+
 ## Create SQL Query in Analysis
 
 You can make use of **Analysis Section** to create a query.
@@ -38,12 +44,6 @@ You can make use of **Analysis Section** to create a query.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
-
-
-
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/ce8e9fc79b080f9de55ebc3627f8c1f071efd6d5/images/sql_runner.png)
 
 
 ## SQl Runner History
@@ -69,11 +69,11 @@ In your query result you can view the data in ascending or descending order by a
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDExMDU4NSwtNjM3MTM0MzUxLC00MT
-M4NTQ3OCwxNTg3NTQxNzkzLDE2MjM4MzU1NDQsNTY5NzYxNiw1
-OTU3NTE5NDgsNTk2OTE1Nzk0LC02OTYzNDc5NzcsMTYyNzcwMD
-M0Nyw3NjM5ODA0MjIsMTU3NTAzODE5MywtMTY0NDUzMDEyMyw0
-NDEzMDY3MjMsLTk2Mzg2MjkxOSwtMjMwOTc5MDMzLDE0NDg3Nz
-k1OTUsMTEyMzg1NzAyMSw0MDY3MDU1MzMsNDMxOTk2MTc2XX0=
+eyJoaXN0b3J5IjpbMTg4Mzk1NzMxOSwtMjQwMTEwNTg1LC02Mz
+cxMzQzNTEsLTQxMzg1NDc4LDE1ODc1NDE3OTMsMTYyMzgzNTU0
+NCw1Njk3NjE2LDU5NTc1MTk0OCw1OTY5MTU3OTQsLTY5NjM0Nz
+k3NywxNjI3NzAwMzQ3LDc2Mzk4MDQyMiwxNTc1MDM4MTkzLC0x
+NjQ0NTMwMTIzLDQ0MTMwNjcyMywtOTYzODYyOTE5LC0yMzA5Nz
+kwMzMsMTQ0ODc3OTU5NSwxMTIzODU3MDIxLDQwNjcwNTUzM119
 
 -->
