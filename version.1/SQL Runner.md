@@ -40,7 +40,8 @@ To View the recent history, click on History tab available at the top right of t
 
 Click on **Run Query** in history section, to re-run the previous query.
 
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/5c48d711bf5f6b900a47397cc60d54a507bf0b2b/images/sql_history.png)
 
 
 
@@ -50,8 +51,8 @@ Click on **Run Query** in history section, to re-run the previous query.
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1NzUxOTQ4LDU5NjkxNTc5NCwtNjk2Mz
-Q3OTc3LDE2Mjc3MDAzNDcsNzYzOTgwNDIyLDE1NzUwMzgxOTMs
-LTE2NDQ1MzAxMjMsNDQxMzA2NzIzLC05NjM4NjI5MTksLTIzMD
-k3OTAzMywxNDQ4Nzc5NTk1XX0=
+eyJoaXN0b3J5IjpbNTY5NzYxNiw1OTU3NTE5NDgsNTk2OTE1Nz
+k0LC02OTYzNDc5NzcsMTYyNzcwMDM0Nyw3NjM5ODA0MjIsMTU3
+NTAzODE5MywtMTY0NDUzMDEyMyw0NDEzMDY3MjMsLTk2Mzg2Mj
+kxOSwtMjMwOTc5MDMzLDE0NDg3Nzk1OTVdfQ==
 -->
