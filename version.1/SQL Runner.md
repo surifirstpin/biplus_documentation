@@ -45,7 +45,7 @@ Click on **Run Query** in history section, to re-run the previous query.
 
 ## Sort Result
 
-In your query result you can sort the data retreived in ascending o
+In your query result you can view the data ascending or descending order by applying sorting. to enable sorting Click on column header
 
 
 
@@ -53,9 +53,9 @@ In your query result you can sort the data retreived in ascending o
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjE4OTgwMiw1Njk3NjE2LDU5NTc1MT
-k0OCw1OTY5MTU3OTQsLTY5NjM0Nzk3NywxNjI3NzAwMzQ3LDc2
-Mzk4MDQyMiwxNTc1MDM4MTkzLC0xNjQ0NTMwMTIzLDQ0MTMwNj
-cyMywtOTYzODYyOTE5LC0yMzA5NzkwMzMsMTQ0ODc3OTU5NV19
-
+eyJoaXN0b3J5IjpbLTE4MzAwODc2MDMsNTY5NzYxNiw1OTU3NT
+E5NDgsNTk2OTE1Nzk0LC02OTYzNDc5NzcsMTYyNzcwMDM0Nyw3
+NjM5ODA0MjIsMTU3NTAzODE5MywtMTY0NDUzMDEyMyw0NDEzMD
+Y3MjMsLTk2Mzg2MjkxOSwtMjMwOTc5MDMzLDE0NDg3Nzk1OTVd
+fQ==
 -->
