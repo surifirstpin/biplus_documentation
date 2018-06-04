@@ -43,13 +43,17 @@ Click on **Run Query** in history section, to re-run the previous query.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5c48d711bf5f6b900a47397cc60d54a507bf0b2b/images/sql_history.png)
 
+## Sort Result
+
+In your query result you can sort the data retreived in ascending o
+
 
 
 ## Derived View
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTAyMzc4OCw1Njk3NjE2LDU5NTc1MT
+eyJoaXN0b3J5IjpbLTk1NjE4OTgwMiw1Njk3NjE2LDU5NTc1MT
 k0OCw1OTY5MTU3OTQsLTY5NjM0Nzk3NywxNjI3NzAwMzQ3LDc2
 Mzk4MDQyMiwxNTc1MDM4MTkzLC0xNjQ0NTMwMTIzLDQ0MTMwNj
 cyMywtOTYzODYyOTE5LC0yMzA5NzkwMzMsMTQ0ODc3OTU5NV19
