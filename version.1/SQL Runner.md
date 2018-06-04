@@ -43,9 +43,9 @@ Click on **Run Query** in history section, to re-run the previous query.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5c48d711bf5f6b900a47397cc60d54a507bf0b2b/images/sql_history.png)
 
-## Sort Result
+## Sorting Query Result
 
-In your query result you can view the data ascending or descending order by applying sorting. to enable sorting Click on column header, to reverse the sorting order click for the second time.
+In your query result you can view the data in ascending or descending order by applying sorting. To enable sorting Click on column header, to reverse the sorting order click on column headerthe second time.
 
 
 
@@ -53,9 +53,9 @@ In your query result you can view the data ascending or descending order by appl
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1OTEzMTg0LDU2OTc2MTYsNTk1NzUxOT
-Q4LDU5NjkxNTc5NCwtNjk2MzQ3OTc3LDE2Mjc3MDAzNDcsNzYz
-OTgwNDIyLDE1NzUwMzgxOTMsLTE2NDQ1MzAxMjMsNDQxMzA2Nz
-IzLC05NjM4NjI5MTksLTIzMDk3OTAzMywxNDQ4Nzc5NTk1XX0=
+eyJoaXN0b3J5IjpbNDE5NTM4NjIsNTY5NzYxNiw1OTU3NTE5ND
+gsNTk2OTE1Nzk0LC02OTYzNDc5NzcsMTYyNzcwMDM0Nyw3NjM5
+ODA0MjIsMTU3NTAzODE5MywtMTY0NDUzMDEyMyw0NDEzMDY3Mj
+MsLTk2Mzg2MjkxOSwtMjMwOTc5MDMzLDE0NDg3Nzk1OTVdfQ==
 
 -->
