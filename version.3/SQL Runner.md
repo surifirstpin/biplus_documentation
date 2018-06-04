@@ -12,7 +12,7 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 - You can use the **history** section to Pre-run the previous query.
 
-## Create SQL Query in SQL Runner**
+## Create SQL Query in SQL Runner
 
 **1.** After logging into BiPlus homepage, Click on SQL Runner section.
 
@@ -28,8 +28,8 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 **7.** A maximum **Record limit** of 5000 can be fetched.
 
-## Create SQL Query From Analysis
-
+## Create SQL Query in Analysis
+You can make use of analysis section to create a query, and copy paste the same query i
 
 
 ![
@@ -59,11 +59,11 @@ In your query result you can view the data in ascending or descending order by a
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzg1NDc4LDE1ODc1NDE3OTMsMTYyMz
-gzNTU0NCw1Njk3NjE2LDU5NTc1MTk0OCw1OTY5MTU3OTQsLTY5
-NjM0Nzk3NywxNjI3NzAwMzQ3LDc2Mzk4MDQyMiwxNTc1MDM4MT
-kzLC0xNjQ0NTMwMTIzLDQ0MTMwNjcyMywtOTYzODYyOTE5LC0y
-MzA5NzkwMzMsMTQ0ODc3OTU5NSwxMTIzODU3MDIxLDQwNjcwNT
-UzMyw0MzE5OTYxNzYsLTE1MzEwOTgyMDEsLTQxMDAxNDc3N119
-
+eyJoaXN0b3J5IjpbLTE5NzA4MDIzMTYsLTQxMzg1NDc4LDE1OD
+c1NDE3OTMsMTYyMzgzNTU0NCw1Njk3NjE2LDU5NTc1MTk0OCw1
+OTY5MTU3OTQsLTY5NjM0Nzk3NywxNjI3NzAwMzQ3LDc2Mzk4MD
+QyMiwxNTc1MDM4MTkzLC0xNjQ0NTMwMTIzLDQ0MTMwNjcyMywt
+OTYzODYyOTE5LC0yMzA5NzkwMzMsMTQ0ODc3OTU5NSwxMTIzOD
+U3MDIxLDQwNjcwNTUzMyw0MzE5OTYxNzYsLTE1MzEwOTgyMDFd
+fQ==
 -->
