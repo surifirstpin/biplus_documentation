@@ -73,10 +73,10 @@ To get started with derived view, Click on List icon and Select Create Derived V
 
 Enter the below fields;
 
-- **Derived View Name** Enter Label for the new derived view.
+- **Derived View Name** Enter Label for identification the new derived view.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NzAyMTEwMSwtMTA4ODMyMzM5MywxOD
+eyJoaXN0b3J5IjpbLTYyMjY3NzA0OSwtMTA4ODMyMzM5MywxOD
 E0MTQyNzcyLDE0NjQxODYyMTEsMTg4Mzk1NzMxOSwtMjQwMTEw
 NTg1LC02MzcxMzQzNTEsLTQxMzg1NDc4LDE1ODc1NDE3OTMsMT
 YyMzgzNTU0NCw1Njk3NjE2LDU5NTc1MTk0OCw1OTY5MTU3OTQs
