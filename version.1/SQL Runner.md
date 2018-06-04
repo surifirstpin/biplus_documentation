@@ -29,7 +29,8 @@ Using SQL Runner you can directly Access your database and clout that access in 
 **7.** A maximum **Record limit** of 5000 can be fetched.
 
 ## Create SQL Query in Analysis
-You can make use of analysis section to create a query, and copy paste the same query in sql 
+
+You can make use of **Analysis Section** to create a query, and copy paste the same query in sql runner area and Run it.
 
 
 ![
@@ -59,9 +60,9 @@ In your query result you can view the data in ascending or descending order by a
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTk4ODk4NCwtNDEzODU0NzgsMTU4Nz
-U0MTc5MywxNjIzODM1NTQ0LDU2OTc2MTYsNTk1NzUxOTQ4LDU5
-NjkxNTc5NCwtNjk2MzQ3OTc3LDE2Mjc3MDAzNDcsNzYzOTgwND
-IyLDE1NzUwMzgxOTMsLTE2NDQ1MzAxMjMsNDQxMzA2NzIzLC05
-NjM4NjI5MTksLTIzMDk3OTAzMywxNDQ4Nzc5NTk1XX0=
+eyJoaXN0b3J5IjpbNjk1MDM4MjQ4LC00MTM4NTQ3OCwxNTg3NT
+QxNzkzLDE2MjM4MzU1NDQsNTY5NzYxNiw1OTU3NTE5NDgsNTk2
+OTE1Nzk0LC02OTYzNDc5NzcsMTYyNzcwMDM0Nyw3NjM5ODA0Mj
+IsMTU3NTAzODE5MywtMTY0NDUzMDEyMyw0NDEzMDY3MjMsLTk2
+Mzg2MjkxOSwtMjMwOTc5MDMzLDE0NDg3Nzk1OTVdfQ==
 -->
