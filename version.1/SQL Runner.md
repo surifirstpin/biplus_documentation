@@ -12,7 +12,7 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 - You can use the **history** section to Pre-run the previous query.
 
-**Know let us see how to write sql query in sql runner:**
+## Create SQL Query in SQL Runner**
 
 **1.** After logging into BiPlus homepage, Click on SQL Runner section.
 
@@ -59,9 +59,9 @@ In your query result you can view the data in ascending or descending order by a
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzU0MTc5MywxNjIzODM1NTQ0LDU2OT
-c2MTYsNTk1NzUxOTQ4LDU5NjkxNTc5NCwtNjk2MzQ3OTc3LDE2
-Mjc3MDAzNDcsNzYzOTgwNDIyLDE1NzUwMzgxOTMsLTE2NDQ1Mz
-AxMjMsNDQxMzA2NzIzLC05NjM4NjI5MTksLTIzMDk3OTAzMywx
-NDQ4Nzc5NTk1XX0=
+eyJoaXN0b3J5IjpbLTQxMzg1NDc4LDE1ODc1NDE3OTMsMTYyMz
+gzNTU0NCw1Njk3NjE2LDU5NTc1MTk0OCw1OTY5MTU3OTQsLTY5
+NjM0Nzk3NywxNjI3NzAwMzQ3LDc2Mzk4MDQyMiwxNTc1MDM4MT
+kzLC0xNjQ0NTMwMTIzLDQ0MTMwNjcyMywtOTYzODYyOTE5LC0y
+MzA5NzkwMzMsMTQ0ODc3OTU5NV19
 -->
