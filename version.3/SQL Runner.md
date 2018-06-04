@@ -12,7 +12,7 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 - You can use the **history** section to Pre-run the previous query.
 
-Know let us see how to write sql query in sql runner:
+**Know let us see how to write sql query in sql runner:**
 
 **1.** After logging into BiPlus homepage, Click on SQL Runner section.
 
@@ -20,7 +20,7 @@ Know let us see how to write sql query in sql runner:
 
 **3.**  Now **Run** the query.
 
-**4.** The data is retrieved below the query area as shown in the image. sql runner will load u limit 5000 only.
+**4.** The data is retrieved below the query area as shown in the image. sql runner will load up-to limit 5000 records only.
 
 **5.** Click on **Download** to download the data retrieved.
 
@@ -35,11 +35,11 @@ Know let us see how to write sql query in sql runner:
 
 SQL Runner can create a derived table from the query build.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxNDYyMzUzLDc2Mzk4MDQyMiwxNTc1MD
-M4MTkzLC0xNjQ0NTMwMTIzLDQ0MTMwNjcyMywtOTYzODYyOTE5
-LC0yMzA5NzkwMzMsMTQ0ODc3OTU5NSwxMTIzODU3MDIxLDQwNj
-cwNTUzMyw0MzE5OTYxNzYsLTE1MzEwOTgyMDEsLTQxMDAxNDc3
-NywtMjAwNzc0NDA2MiwxMDgwNjQ4NTA1LDg1NDI0NjQyOCwtMT
-Y0NjUxMTU3OCwtMjMxNjM3MTU5LDY2MjA0NzA4OCwtNTExNjI1
-Mzg3XX0=
+eyJoaXN0b3J5IjpbMTYyNzcwMDM0Nyw3NjM5ODA0MjIsMTU3NT
+AzODE5MywtMTY0NDUzMDEyMyw0NDEzMDY3MjMsLTk2Mzg2Mjkx
+OSwtMjMwOTc5MDMzLDE0NDg3Nzk1OTUsMTEyMzg1NzAyMSw0MD
+Y3MDU1MzMsNDMxOTk2MTc2LC0xNTMxMDk4MjAxLC00MTAwMTQ3
+NzcsLTIwMDc3NDQwNjIsMTA4MDY0ODUwNSw4NTQyNDY0MjgsLT
+E2NDY1MTE1NzgsLTIzMTYzNzE1OSw2NjIwNDcwODgsLTUxMTYy
+NTM4N119
 -->
