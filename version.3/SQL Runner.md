@@ -30,7 +30,9 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 ## Create SQL Query in Analysis
 
-You can make use of **Analysis Section** to create a query and select the text from SQL area and copy it Runner get SQL command.
+You can make use of **Analysis Section** to create a query and select the text from SQL area in Analysis and copy it SQL Runner.
+
+Once the Text is added to SQL area in SQL Runner than run it
 
 
 
@@ -62,11 +64,11 @@ In your query result you can view the data in ascending or descending order by a
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxNDEzNTI3LC00MTM4NTQ3OCwxNTg3NT
-QxNzkzLDE2MjM4MzU1NDQsNTY5NzYxNiw1OTU3NTE5NDgsNTk2
-OTE1Nzk0LC02OTYzNDc5NzcsMTYyNzcwMDM0Nyw3NjM5ODA0Mj
-IsMTU3NTAzODE5MywtMTY0NDUzMDEyMyw0NDEzMDY3MjMsLTk2
-Mzg2MjkxOSwtMjMwOTc5MDMzLDE0NDg3Nzk1OTUsMTEyMzg1Nz
-AyMSw0MDY3MDU1MzMsNDMxOTk2MTc2LC0xNTMxMDk4MjAxXX0=
+eyJoaXN0b3J5IjpbLTQ1MzI0OTA1OCwtNDEzODU0NzgsMTU4Nz
+U0MTc5MywxNjIzODM1NTQ0LDU2OTc2MTYsNTk1NzUxOTQ4LDU5
+NjkxNTc5NCwtNjk2MzQ3OTc3LDE2Mjc3MDAzNDcsNzYzOTgwND
+IyLDE1NzUwMzgxOTMsLTE2NDQ1MzAxMjMsNDQxMzA2NzIzLC05
+NjM4NjI5MTksLTIzMDk3OTAzMywxNDQ4Nzc5NTk1LDExMjM4NT
+cwMjEsNDA2NzA1NTMzLDQzMTk5NjE3NiwtMTUzMTA5ODIwMV19
 
 -->
