@@ -76,8 +76,10 @@ Enter the below fields;
 - **Derived View Name** Enter Label for identification to the new derived view.
  - **Projects** Select the dialects using the drop down button.
  - **Query** the query created in sql runner will be added here.
+ -  FOn selecting the dialects all the fields used in query are reflected here.
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODM4NDUzLC0xMDg4MzIzMzkzLDE4MT
+eyJoaXN0b3J5IjpbMjIwMzk2MjIwLC0xMDg4MzIzMzkzLDE4MT
 QxNDI3NzIsMTQ2NDE4NjIxMSwxODgzOTU3MzE5LC0yNDAxMTA1
 ODUsLTYzNzEzNDM1MSwtNDEzODU0NzgsMTU4NzU0MTc5MywxNj
 IzODM1NTQ0LDU2OTc2MTYsNTk1NzUxOTQ4LDU5NjkxNTc5NCwt
