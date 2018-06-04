@@ -32,9 +32,9 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 You can make use of **Analysis Section** to create a query.
 
-1. Select the text from SQL area in Analysis and copy it SQL Runner.
+**1.** Select the text from SQL area in Analysis and copy it SQL Runner.
 
-2. Once the Text is added to SQL area in SQL Runner, **Run** the SQL Runner to Query the database. You can also edit the text as per your business needs and run the Query
+**2.** Once the Text is added to SQL area in SQL Runner, **Run** the SQL Runner to Query the database. You can also customize the text as per your business needs and run the new query.
 
 
 
@@ -66,9 +66,9 @@ In your query result you can view the data in ascending or descending order by a
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA5ODA0ODAsLTQxMzg1NDc4LDE1OD
-c1NDE3OTMsMTYyMzgzNTU0NCw1Njk3NjE2LDU5NTc1MTk0OCw1
-OTY5MTU3OTQsLTY5NjM0Nzk3NywxNjI3NzAwMzQ3LDc2Mzk4MD
-QyMiwxNTc1MDM4MTkzLC0xNjQ0NTMwMTIzLDQ0MTMwNjcyMywt
-OTYzODYyOTE5LC0yMzA5NzkwMzMsMTQ0ODc3OTU5NV19
+eyJoaXN0b3J5IjpbLTYzNzEzNDM1MSwtNDEzODU0NzgsMTU4Nz
+U0MTc5MywxNjIzODM1NTQ0LDU2OTc2MTYsNTk1NzUxOTQ4LDU5
+NjkxNTc5NCwtNjk2MzQ3OTc3LDE2Mjc3MDAzNDcsNzYzOTgwND
+IyLDE1NzUwMzgxOTMsLTE2NDQ1MzAxMjMsNDQxMzA2NzIzLC05
+NjM4NjI5MTksLTIzMDk3OTAzMywxNDQ4Nzc5NTk1XX0=
 -->
