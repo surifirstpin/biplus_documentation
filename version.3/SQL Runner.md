@@ -38,8 +38,10 @@ You have an ability to view all the recent history of all the queries, which hav
 
 To View the recent history, click on History tab available at the top right of the sql query area. history section displays all the query run on sql runner. Green colour indicates successfully query and Red colour indicates query that did not run successfully due to the error.  
 
-Click on Run Query in history section, to re-run the previous query
-Click on a query in the history to populate that query into SQL Runner, then click  **Run**  to re-run the query:
+Click on **Run Query** in history section, to re-run the previous query.
+
+
+
 
 
 
@@ -48,11 +50,11 @@ Click on a query in the history to populate that query into SQL Runner, then cli
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQ0NTIwMzcsNTk2OTE1Nzk0LC02OT
-YzNDc5NzcsMTYyNzcwMDM0Nyw3NjM5ODA0MjIsMTU3NTAzODE5
-MywtMTY0NDUzMDEyMyw0NDEzMDY3MjMsLTk2Mzg2MjkxOSwtMj
-MwOTc5MDMzLDE0NDg3Nzk1OTUsMTEyMzg1NzAyMSw0MDY3MDU1
-MzMsNDMxOTk2MTc2LC0xNTMxMDk4MjAxLC00MTAwMTQ3NzcsLT
-IwMDc3NDQwNjIsMTA4MDY0ODUwNSw4NTQyNDY0MjgsLTE2NDY1
-MTE1NzhdfQ==
+eyJoaXN0b3J5IjpbNTk1NzUxOTQ4LDU5NjkxNTc5NCwtNjk2Mz
+Q3OTc3LDE2Mjc3MDAzNDcsNzYzOTgwNDIyLDE1NzUwMzgxOTMs
+LTE2NDQ1MzAxMjMsNDQxMzA2NzIzLC05NjM4NjI5MTksLTIzMD
+k3OTAzMywxNDQ4Nzc5NTk1LDExMjM4NTcwMjEsNDA2NzA1NTMz
+LDQzMTk5NjE3NiwtMTUzMTA5ODIwMSwtNDEwMDE0Nzc3LC0yMD
+A3NzQ0MDYyLDEwODA2NDg1MDUsODU0MjQ2NDI4LC0xNjQ2NTEx
+NTc4XX0=
 -->
