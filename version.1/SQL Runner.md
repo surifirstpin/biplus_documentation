@@ -45,7 +45,7 @@ Click on **Run Query** in history section, to re-run the previous query.
 
 ## Sorting Query Result
 
-In your query result you can view the data in ascending or descending order by applying sorting. To enable sorting Click on column header, to reverse the sorting order click on column headerthe second time.
+In your query result you can view the data in ascending or descending order by applying sorting. To enable sorting Click on column header, to reverse the sorting order click on column header for second time.
 
 
 
@@ -53,9 +53,9 @@ In your query result you can view the data in ascending or descending order by a
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5NTM4NjIsNTY5NzYxNiw1OTU3NTE5ND
-gsNTk2OTE1Nzk0LC02OTYzNDc5NzcsMTYyNzcwMDM0Nyw3NjM5
-ODA0MjIsMTU3NTAzODE5MywtMTY0NDUzMDEyMyw0NDEzMDY3Mj
-MsLTk2Mzg2MjkxOSwtMjMwOTc5MDMzLDE0NDg3Nzk1OTVdfQ==
+eyJoaXN0b3J5IjpbMTYyMzgzNTU0NCw1Njk3NjE2LDU5NTc1MT
+k0OCw1OTY5MTU3OTQsLTY5NjM0Nzk3NywxNjI3NzAwMzQ3LDc2
+Mzk4MDQyMiwxNTc1MDM4MTkzLC0xNjQ0NTMwMTIzLDQ0MTMwNj
+cyMywtOTYzODYyOTE5LC0yMzA5NzkwMzMsMTQ0ODc3OTU5NV19
 
 -->
