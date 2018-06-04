@@ -36,6 +36,9 @@ You can make use of **Analysis Section** to create a query.
 
 **2.** Once the Text is added to SQL area in SQL Runner, **Run** the SQL Runner to Query the database. You can also customize the text as per your business needs and run the new query.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
+
 
 
 
@@ -66,9 +69,10 @@ In your query result you can view the data in ascending or descending order by a
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzEzNDM1MSwtNDEzODU0NzgsMTU4Nz
-U0MTc5MywxNjIzODM1NTQ0LDU2OTc2MTYsNTk1NzUxOTQ4LDU5
-NjkxNTc5NCwtNjk2MzQ3OTc3LDE2Mjc3MDAzNDcsNzYzOTgwND
-IyLDE1NzUwMzgxOTMsLTE2NDQ1MzAxMjMsNDQxMzA2NzIzLC05
-NjM4NjI5MTksLTIzMDk3OTAzMywxNDQ4Nzc5NTk1XX0=
+eyJoaXN0b3J5IjpbLTI0MDExMDU4NSwtNjM3MTM0MzUxLC00MT
+M4NTQ3OCwxNTg3NTQxNzkzLDE2MjM4MzU1NDQsNTY5NzYxNiw1
+OTU3NTE5NDgsNTk2OTE1Nzk0LC02OTYzNDc5NzcsMTYyNzcwMD
+M0Nyw3NjM5ODA0MjIsMTU3NTAzODE5MywtMTY0NDUzMDEyMyw0
+NDEzMDY3MjMsLTk2Mzg2MjkxOSwtMjMwOTc5MDMzLDE0NDg3Nz
+k1OTVdfQ==
 -->
