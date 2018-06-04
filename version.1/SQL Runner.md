@@ -37,6 +37,8 @@ Using SQL Runner you can directly Access your database and clout that access in 
 You have an ability to view all the recent history of all the queries, which have been run in SQL Runner.
 
 To View the recent history, click on History tab available at the top right of the sql query area. history section displays all the query run on sql runner. Green colour indicates successfully query and Red colour indicates query that did not run successfully due to the error.  
+
+Click on Run Query in history section, to re-run the previous query
 Click on a query in the history to populate that query into SQL Runner, then click  **Run**  to re-run the query:
 
 
@@ -46,8 +48,8 @@ Click on a query in the history to populate that query into SQL Runner, then cli
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTE3NzY5NSw1OTY5MTU3OTQsLTY5Nj
-M0Nzk3NywxNjI3NzAwMzQ3LDc2Mzk4MDQyMiwxNTc1MDM4MTkz
-LC0xNjQ0NTMwMTIzLDQ0MTMwNjcyMywtOTYzODYyOTE5LC0yMz
-A5NzkwMzMsMTQ0ODc3OTU5NV19
+eyJoaXN0b3J5IjpbLTE0MjQ0NTIwMzcsNTk2OTE1Nzk0LC02OT
+YzNDc5NzcsMTYyNzcwMDM0Nyw3NjM5ODA0MjIsMTU3NTAzODE5
+MywtMTY0NDUzMDEyMyw0NDEzMDY3MjMsLTk2Mzg2MjkxOSwtMj
+MwOTc5MDMzLDE0NDg3Nzk1OTVdfQ==
 -->
