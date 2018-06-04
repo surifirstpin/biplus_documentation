@@ -34,9 +34,9 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 ## SQl Runner History
 
-You have an ability to view all the recent history 
+You have an ability to view all the recent history of all the queries, which have been run in SQL Runner.
 
-You can also see a recent history of all queries you have run in the SQL Runner.
+To View the recent history, click on 
 
 To see your history, click the  **History**  tab at the top of the navigation pane. SQL Runner displays all of the queries run on the database connection. Red indicates a query that did not run due to an error.
 
@@ -49,11 +49,11 @@ Click on a query in the history to populate that query into SQL Runner, then cli
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTUyNTg5NiwtNjk2MzQ3OTc3LDE2Mj
-c3MDAzNDcsNzYzOTgwNDIyLDE1NzUwMzgxOTMsLTE2NDQ1MzAx
-MjMsNDQxMzA2NzIzLC05NjM4NjI5MTksLTIzMDk3OTAzMywxND
-Q4Nzc5NTk1LDExMjM4NTcwMjEsNDA2NzA1NTMzLDQzMTk5NjE3
-NiwtMTUzMTA5ODIwMSwtNDEwMDE0Nzc3LC0yMDA3NzQ0MDYyLD
-EwODA2NDg1MDUsODU0MjQ2NDI4LC0xNjQ2NTExNTc4LC0yMzE2
-MzcxNTldfQ==
+eyJoaXN0b3J5IjpbLTczMTc3MTk0LC02OTYzNDc5NzcsMTYyNz
+cwMDM0Nyw3NjM5ODA0MjIsMTU3NTAzODE5MywtMTY0NDUzMDEy
+Myw0NDEzMDY3MjMsLTk2Mzg2MjkxOSwtMjMwOTc5MDMzLDE0ND
+g3Nzk1OTUsMTEyMzg1NzAyMSw0MDY3MDU1MzMsNDMxOTk2MTc2
+LC0xNTMxMDk4MjAxLC00MTAwMTQ3NzcsLTIwMDc3NDQwNjIsMT
+A4MDY0ODUwNSw4NTQyNDY0MjgsLTE2NDY1MTE1NzgsLTIzMTYz
+NzE1OV19
 -->
