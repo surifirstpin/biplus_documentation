@@ -67,13 +67,13 @@ In your query result you can view the data in ascending or descending order by a
 
 ## Derived View
 
-SQL Runner can create a derived view from the query build at the same time you can use this view in model section. the dialects used for the query should match the p
+SQL Runner can create a derived view from the query build at the same time you can use this view in model section. the dialects used for creating a derived view should be same as in sql runner.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTU0MDkwMSwxNDY0MTg2MjExLDE4OD
-M5NTczMTksLTI0MDExMDU4NSwtNjM3MTM0MzUxLC00MTM4NTQ3
-OCwxNTg3NTQxNzkzLDE2MjM4MzU1NDQsNTY5NzYxNiw1OTU3NT
-E5NDgsNTk2OTE1Nzk0LC02OTYzNDc5NzcsMTYyNzcwMDM0Nyw3
-NjM5ODA0MjIsMTU3NTAzODE5MywtMTY0NDUzMDEyMyw0NDEzMD
-Y3MjMsLTk2Mzg2MjkxOSwtMjMwOTc5MDMzLDE0NDg3Nzk1OTVd
-fQ==
+eyJoaXN0b3J5IjpbLTEzMjE0MjIwOTIsMTQ2NDE4NjIxMSwxOD
+gzOTU3MzE5LC0yNDAxMTA1ODUsLTYzNzEzNDM1MSwtNDEzODU0
+NzgsMTU4NzU0MTc5MywxNjIzODM1NTQ0LDU2OTc2MTYsNTk1Nz
+UxOTQ4LDU5NjkxNTc5NCwtNjk2MzQ3OTc3LDE2Mjc3MDAzNDcs
+NzYzOTgwNDIyLDE1NzUwMzgxOTMsLTE2NDQ1MzAxMjMsNDQxMz
+A2NzIzLC05NjM4NjI5MTksLTIzMDk3OTAzMywxNDQ4Nzc5NTk1
+XX0=
 -->
