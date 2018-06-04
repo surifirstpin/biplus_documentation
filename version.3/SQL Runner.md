@@ -73,14 +73,15 @@ To get started with derived view, Click on List icon and Select Create Derived V
 
 Enter the below fields;
 
-- **Derived View Name** Enter Label for identification the new derived view.
- 
+- **Derived View Name** Enter Label for identification to the new derived view.
+ - Projects Select the dialects using the drop down button.
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjY3NzA0OSwtMTA4ODMyMzM5MywxOD
-E0MTQyNzcyLDE0NjQxODYyMTEsMTg4Mzk1NzMxOSwtMjQwMTEw
-NTg1LC02MzcxMzQzNTEsLTQxMzg1NDc4LDE1ODc1NDE3OTMsMT
-YyMzgzNTU0NCw1Njk3NjE2LDU5NTc1MTk0OCw1OTY5MTU3OTQs
-LTY5NjM0Nzk3NywxNjI3NzAwMzQ3LDc2Mzk4MDQyMiwxNTc1MD
-M4MTkzLC0xNjQ0NTMwMTIzLDQ0MTMwNjcyMywtOTYzODYyOTE5
-XX0=
+eyJoaXN0b3J5IjpbNzI1NjAzODE4LC0xMDg4MzIzMzkzLDE4MT
+QxNDI3NzIsMTQ2NDE4NjIxMSwxODgzOTU3MzE5LC0yNDAxMTA1
+ODUsLTYzNzEzNDM1MSwtNDEzODU0NzgsMTU4NzU0MTc5MywxNj
+IzODM1NTQ0LDU2OTc2MTYsNTk1NzUxOTQ4LDU5NjkxNTc5NCwt
+Njk2MzQ3OTc3LDE2Mjc3MDAzNDcsNzYzOTgwNDIyLDE1NzUwMz
+gxOTMsLTE2NDQ1MzAxMjMsNDQxMzA2NzIzLC05NjM4NjI5MTld
+fQ==
 -->
