@@ -74,10 +74,10 @@ To get started with derived view, Click on List icon and Select Create Derived V
 Enter the below fields;
 
 - **Derived View Name** Enter Label for identification to the new derived view.
- - Projects Select the dialects using the drop down button.
- - Query
+ - **Projects** Select the dialects using the drop down button.
+ - **Query** the query created in sql runner will be added here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1NDA3NzQ2LC0xMDg4MzIzMzkzLDE4MT
+eyJoaXN0b3J5IjpbMTcyODM4NDUzLC0xMDg4MzIzMzkzLDE4MT
 QxNDI3NzIsMTQ2NDE4NjIxMSwxODgzOTU3MzE5LC0yNDAxMTA1
 ODUsLTYzNzEzNDM1MSwtNDEzODU0NzgsMTU4NzU0MTc5MywxNj
 IzODM1NTQ0LDU2OTc2MTYsNTk1NzUxOTQ4LDU5NjkxNTc5NCwt
