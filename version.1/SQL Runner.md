@@ -20,13 +20,13 @@ Know let us see how to write sql query in sql runner:
 
 **3.**  Now **Run** the query.
 
-**4.** The data is retrieved below the query area as shown in the image. sql runner will load upto limit 5000 only.
+**4.** The data is retrieved below the query area as shown in the image. sql runner will load up-to limit 5000 only.
 
 **5.** Click on **Download** to download the data retrieved.
 
-**6.** After Running the query it displays the **query time** taken to run the query and **Number of rows** fetched.
+**6.** After Running the query it displays the **Query Time** taken to run the query and **Number of rows** fetched.
 
-**7.** A maximum **record limit** of 5000 can be fetched.
+**7.** A maximum **Record limit** of 5000 can be fetched.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ce8e9fc79b080f9de55ebc3627f8c1f071efd6d5/images/sql_runner.png)
@@ -35,7 +35,7 @@ Know let us see how to write sql query in sql runner:
 
 SQL Runner can create a derived table from the query build.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzOTgwNDIyLDE1NzUwMzgxOTMsLTE2ND
-Q1MzAxMjMsNDQxMzA2NzIzLC05NjM4NjI5MTksLTIzMDk3OTAz
-MywxNDQ4Nzc5NTk1XX0=
+eyJoaXN0b3J5IjpbMjAxNTcwNjg0MSw3NjM5ODA0MjIsMTU3NT
+AzODE5MywtMTY0NDUzMDEyMyw0NDEzMDY3MjMsLTk2Mzg2Mjkx
+OSwtMjMwOTc5MDMzLDE0NDg3Nzk1OTVdfQ==
 -->
