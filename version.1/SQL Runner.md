@@ -87,16 +87,16 @@ To get started with derived view, Click on List icon and Select Create Derived V
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/custom_view.png)
 
-Click create, to create the New Custom view.
+Click on Create, to create the New Custom view. To view the new deived view. Goto Model sectio
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzcwMDUzNjgsLTY4MzI3OTAzOCwtMT
-A4ODMyMzM5MywxODE0MTQyNzcyLDE0NjQxODYyMTEsMTg4Mzk1
-NzMxOSwtMjQwMTEwNTg1LC02MzcxMzQzNTEsLTQxMzg1NDc4LD
-E1ODc1NDE3OTMsMTYyMzgzNTU0NCw1Njk3NjE2LDU5NTc1MTk0
-OCw1OTY5MTU3OTQsLTY5NjM0Nzk3NywxNjI3NzAwMzQ3LDc2Mz
-k4MDQyMiwxNTc1MDM4MTkzLC0xNjQ0NTMwMTIzLDQ0MTMwNjcy
-M119
+eyJoaXN0b3J5IjpbMTU4NTExMTQ1NywtNjgzMjc5MDM4LC0xMD
+g4MzIzMzkzLDE4MTQxNDI3NzIsMTQ2NDE4NjIxMSwxODgzOTU3
+MzE5LC0yNDAxMTA1ODUsLTYzNzEzNDM1MSwtNDEzODU0NzgsMT
+U4NzU0MTc5MywxNjIzODM1NTQ0LDU2OTc2MTYsNTk1NzUxOTQ4
+LDU5NjkxNTc5NCwtNjk2MzQ3OTc3LDE2Mjc3MDAzNDcsNzYzOT
+gwNDIyLDE1NzUwMzgxOTMsLTE2NDQ1MzAxMjMsNDQxMzA2NzIz
+XX0=
 -->
