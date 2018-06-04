@@ -83,16 +83,17 @@ To get started with derived view, Click on List icon and Select Create Derived V
  - **Query** the query created in sql runner will be added here.
  
  -  **Field List** On selecting the dialects all the fields used in query are reflected here.
+ Click on Create, to create the New Custom view. 
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/custom_view.png)
 
-Click on Create, to create the New Custom view. To view the new deived view. Goto Model sectio
+To view the new deived view. Goto Model section under the views list.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTExMTQ1NywtNjgzMjc5MDM4LC0xMD
+eyJoaXN0b3J5IjpbMTUzOTk2NTMxMCwtNjgzMjc5MDM4LC0xMD
 g4MzIzMzkzLDE4MTQxNDI3NzIsMTQ2NDE4NjIxMSwxODgzOTU3
 MzE5LC0yNDAxMTA1ODUsLTYzNzEzNDM1MSwtNDEzODU0NzgsMT
 U4NzU0MTc5MywxNjIzODM1NTQ0LDU2OTc2MTYsNTk1NzUxOTQ4
