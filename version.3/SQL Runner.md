@@ -71,6 +71,9 @@ SQL Runner can create a derived view from the query build at the same time you c
 
 To get started with derived view, Click on List icon and Select Create Derived View.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/derived%201.png)
+
 **Enter the below fields ;**
 
 - **Derived View Name** Enter Label for identification to the new derived view.
@@ -81,13 +84,19 @@ To get started with derived view, Click on List icon and Select Create Derived V
  
  -  **Field List** On selecting the dialects all the fields used in query are reflected here.
  
+ ![
+](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/custom_view.png)
+
 Click create, to create the New Custom view.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzI3OTAzOCwtMTA4ODMyMzM5MywxOD
-E0MTQyNzcyLDE0NjQxODYyMTEsMTg4Mzk1NzMxOSwtMjQwMTEw
-NTg1LC02MzcxMzQzNTEsLTQxMzg1NDc4LDE1ODc1NDE3OTMsMT
-YyMzgzNTU0NCw1Njk3NjE2LDU5NTc1MTk0OCw1OTY5MTU3OTQs
-LTY5NjM0Nzk3NywxNjI3NzAwMzQ3LDc2Mzk4MDQyMiwxNTc1MD
-M4MTkzLC0xNjQ0NTMwMTIzLDQ0MTMwNjcyMywtOTYzODYyOTE5
-XX0=
+eyJoaXN0b3J5IjpbLTE4MzcwMDUzNjgsLTY4MzI3OTAzOCwtMT
+A4ODMyMzM5MywxODE0MTQyNzcyLDE0NjQxODYyMTEsMTg4Mzk1
+NzMxOSwtMjQwMTEwNTg1LC02MzcxMzQzNTEsLTQxMzg1NDc4LD
+E1ODc1NDE3OTMsMTYyMzgzNTU0NCw1Njk3NjE2LDU5NTc1MTk0
+OCw1OTY5MTU3OTQsLTY5NjM0Nzk3NywxNjI3NzAwMzQ3LDc2Mz
+k4MDQyMiwxNTc1MDM4MTkzLC0xNjQ0NTMwMTIzLDQ0MTMwNjcy
+M119
 -->
