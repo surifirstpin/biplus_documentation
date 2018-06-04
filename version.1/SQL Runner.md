@@ -31,11 +31,26 @@ Using SQL Runner you can directly Access your database and clout that access in 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ce8e9fc79b080f9de55ebc3627f8c1f071efd6d5/images/sql_runner.png)
 
+
+## SQl Runner History
+
+You have an ability to view all the recent history a
+
+You can also see a recent history of all queries you have run in the SQL Runner.
+
+To see your history, click the  **History**  tab at the top of the navigation pane. SQL Runner displays all of the queries run on the database connection. Red indicates a query that did not run due to an error.
+
+Click on a query in the history to populate that query into SQL Runner, then click  **Run**  to re-run the query:
+
+
+
+
 ## Derived View
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjM0Nzk3NywxNjI3NzAwMzQ3LDc2Mz
-k4MDQyMiwxNTc1MDM4MTkzLC0xNjQ0NTMwMTIzLDQ0MTMwNjcy
-MywtOTYzODYyOTE5LC0yMzA5NzkwMzMsMTQ0ODc3OTU5NV19
+eyJoaXN0b3J5IjpbMzA0MDkyNjM3LC02OTYzNDc5NzcsMTYyNz
+cwMDM0Nyw3NjM5ODA0MjIsMTU3NTAzODE5MywtMTY0NDUzMDEy
+Myw0NDEzMDY3MjMsLTk2Mzg2MjkxOSwtMjMwOTc5MDMzLDE0ND
+g3Nzk1OTVdfQ==
 -->
