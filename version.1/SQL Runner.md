@@ -33,9 +33,9 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 ## Derived View
 
-SQL Runner can create a derived view from the query build at teh same time you can use this view in model section.
+SQL Runner can create a derived view from the query build at the same time you can use this view in model section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDgzNDA5LDE2Mjc3MDAzNDcsNzYzOT
-gwNDIyLDE1NzUwMzgxOTMsLTE2NDQ1MzAxMjMsNDQxMzA2NzIz
-LC05NjM4NjI5MTksLTIzMDk3OTAzMywxNDQ4Nzc5NTk1XX0=
+eyJoaXN0b3J5IjpbLTY5NjM0Nzk3NywxNjI3NzAwMzQ3LDc2Mz
+k4MDQyMiwxNTc1MDM4MTkzLC0xNjQ0NTMwMTIzLDQ0MTMwNjcy
+MywtOTYzODYyOTE5LC0yMzA5NzkwMzMsMTQ0ODc3OTU5NV19
 -->
