@@ -81,12 +81,13 @@ To get started with derived view, Click on List icon and Select Create Derived V
  
  -  **Field List** On selecting the dialects all the fields used in query are reflected here.
  
+Click create, to create the New Custom view.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTkwMDIzNjQsLTEwODgzMjMzOTMsMT
-gxNDE0Mjc3MiwxNDY0MTg2MjExLDE4ODM5NTczMTksLTI0MDEx
-MDU4NSwtNjM3MTM0MzUxLC00MTM4NTQ3OCwxNTg3NTQxNzkzLD
-E2MjM4MzU1NDQsNTY5NzYxNiw1OTU3NTE5NDgsNTk2OTE1Nzk0
-LC02OTYzNDc5NzcsMTYyNzcwMDM0Nyw3NjM5ODA0MjIsMTU3NT
-AzODE5MywtMTY0NDUzMDEyMyw0NDEzMDY3MjMsLTk2Mzg2Mjkx
-OV19
+eyJoaXN0b3J5IjpbLTY4MzI3OTAzOCwtMTA4ODMyMzM5MywxOD
+E0MTQyNzcyLDE0NjQxODYyMTEsMTg4Mzk1NzMxOSwtMjQwMTEw
+NTg1LC02MzcxMzQzNTEsLTQxMzg1NDc4LDE1ODc1NDE3OTMsMT
+YyMzgzNTU0NCw1Njk3NjE2LDU5NTc1MTk0OCw1OTY5MTU3OTQs
+LTY5NjM0Nzk3NywxNjI3NzAwMzQ3LDc2Mzk4MDQyMiwxNTc1MD
+M4MTkzLC0xNjQ0NTMwMTIzLDQ0MTMwNjcyMywtOTYzODYyOTE5
+XX0=
 -->
