@@ -10,7 +10,7 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 - You can also create SQL query in analysis section. 
 
-- You can use the **history** section to Pre-run the previous query.
+- Make use of **History** section to Pre-run the previous query.
 
 ## Create SQL Query in SQL Runner
 
@@ -93,11 +93,11 @@ To view the newly created derived view. Goto Model section under the views list 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5MDQwMDc3LC02ODMyNzkwMzgsLTEwOD
-gzMjMzOTMsMTgxNDE0Mjc3MiwxNDY0MTg2MjExLDE4ODM5NTcz
-MTksLTI0MDExMDU4NSwtNjM3MTM0MzUxLC00MTM4NTQ3OCwxNT
-g3NTQxNzkzLDE2MjM4MzU1NDQsNTY5NzYxNiw1OTU3NTE5NDgs
-NTk2OTE1Nzk0LC02OTYzNDc5NzcsMTYyNzcwMDM0Nyw3NjM5OD
-A0MjIsMTU3NTAzODE5MywtMTY0NDUzMDEyMyw0NDEzMDY3MjNd
-fQ==
+eyJoaXN0b3J5IjpbMTkxMzAxOTQ3NCw0MTkwNDAwNzcsLTY4Mz
+I3OTAzOCwtMTA4ODMyMzM5MywxODE0MTQyNzcyLDE0NjQxODYy
+MTEsMTg4Mzk1NzMxOSwtMjQwMTEwNTg1LC02MzcxMzQzNTEsLT
+QxMzg1NDc4LDE1ODc1NDE3OTMsMTYyMzgzNTU0NCw1Njk3NjE2
+LDU5NTc1MTk0OCw1OTY5MTU3OTQsLTY5NjM0Nzk3NywxNjI3Nz
+AwMzQ3LDc2Mzk4MDQyMiwxNTc1MDM4MTkzLC0xNjQ0NTMwMTIz
+XX0=
 -->
