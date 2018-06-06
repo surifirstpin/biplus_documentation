@@ -13,10 +13,10 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 - Make use of **History** section to Pre-run the previous query.
 
-## Getting started
+## Navigate To SQL Runner
 
 To Navigate to SQL Runner, Login to BiPlus homepage and click on SQL Runner.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODMxMjUxODhdfQ==
+eyJoaXN0b3J5IjpbMTE3MTgxOTkyNywtMTU4MzEyNTE4OF19
 -->
