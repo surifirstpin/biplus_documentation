@@ -17,8 +17,8 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 - To Navigate to SQL Runner, Login to BiPlus homepage and click on SQL Runner Section or,
 
-- In Analysis Section Click on SQL Tab to view the SQL query.
+- In Analysis Section, After Creating a report Click on SQL Tab to view the SQL query.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDkyNzk2MCwtMTU4MzEyNTE4OF19
+eyJoaXN0b3J5IjpbMTQyNTE3NTUwNCwtMTU4MzEyNTE4OF19
 -->
