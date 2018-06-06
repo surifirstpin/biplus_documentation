@@ -19,8 +19,9 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 - In Analysis Section, After Creating a report Click on SQL Tab to view the SQL query.
 
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/8301318bea750b7d048df7f5a8e06607d216dce7/images/navigate_sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjY3NzYzMCwxNDI1MTc1NTA0LC0xNT
-gzMTI1MTg4XX0=
+eyJoaXN0b3J5IjpbLTE1MDQzMjI0NjksMTUzMjY3NzYzMCwxND
+I1MTc1NTA0LC0xNTgzMTI1MTg4XX0=
 -->
