@@ -4,7 +4,8 @@
 
 Using SQL Runner you can directly Access your database and clout that access in variety of ways. In SQL Runner you can easily set up the connection, and navigate the tables under your schema. You can run pre-written SQL queries view the query run history. You can create your customs views here and perform useful task with them in model section.  
 
-- 
+- Select the Connection and Scheman you would like to Query.
+- Select the T
 
 
 ![
@@ -38,7 +39,7 @@ Using SQL Runner you can directly Access your database and clout that access in 
 5. From the data retreived 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDkxNDA3OCw0MzkxNTYzNjMsLTEyNj
+eyJoaXN0b3J5IjpbMTA0MjAxOTI5OSw0MzkxNTYzNjMsLTEyNj
 A3NDMwMTEsLTEzMjkyNTA3NzAsMTcyNDU5NjU4LDU4MzQzOTY1
 MiwxMDc0MjczNTU0LC0yMDcyODk0Njc0LC0zOTkxMzIyOTcsLT
 g2MDY4NDgzNywtMjAyMDgzMDMwOSwtMTUwNDMyMjQ2OSwxNTMy
