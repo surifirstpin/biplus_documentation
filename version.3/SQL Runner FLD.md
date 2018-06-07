@@ -52,9 +52,9 @@ select STATIONCODE,AMOUNT FROM ORDERS
 
    - From the data retrieved to view the particular field value click **Find** option available in the field column header drop-down list.
 
-    -  To group the data retrieved click on **Group** option available in drop down list of column header similarly,
+    -  To group the data retrieved click on **Group** option available in drop down list of column header similarly, or else,
 
-You can directly group it by writing following code in sql command this way;
+**You can directly group it by writing following code in sql command this way;**
 
 ```
 SELECT STATIONCODE,SUM(AMOUNT) FROM ORDERS GROUP BY STATIONCODE
@@ -118,8 +118,21 @@ To view the newly created derived view. Goto Model section under the views list 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/44c6a5e67268522711a49a43c55d04588892b5f0/images/derived_view.png)
 
+
+## Create Query in Analysis Section
+
+
+You can make use of **Analysis Section** to create a query.
+
+- Select the text from SQL area in Analysis and copy it SQL Runner.
+
+- Once the Text is added to SQL area in SQL Runner, **Run** the SQL Runner to Query the database. You can also customize the text as per your business needs and run the new query.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODMxNDYzOTAsMjA5NTM0OTQxOCwxOT
+eyJoaXN0b3J5IjpbLTEwMjE1NDI1ODUsMjA5NTM0OTQxOCwxOT
 MyOTk1Njg5LC0xMTkxMjAwMDc2LDg5MjAxMDU5MiwtMTQ3OTEz
 ODI0NiwtMTE1Nzg1OTkyMCwtMTc3NTQ5MjYzNSw2ODc0ODI3ND
 MsMTAxNTQzMDQ1NSw0MzkxNTYzNjMsLTEyNjA3NDMwMTEsLTEz
