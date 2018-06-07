@@ -48,7 +48,7 @@ select STATIONCODE,AMOUNT FROM ORDERS
 
 **3.**  Click on **Run** button to run the SQL command written.
 
-**4.** On running the sql command, it displays the data retrieved below the query area as shown in the image. 
+**4.On running the sql command, it displays the data retrieved below the query area as shown in the image. 
 
 > **Note :** SQL runner can fetch a maximum limit of 5000 records only.
 
@@ -57,12 +57,17 @@ select STATIONCODE,AMOUNT FROM ORDERS
 -  To group the data retrieved click on **Group** option available in drop down list of column header similarly,
 
 -  To Pin the the column values select **Pin** option available in the same list.
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/b86474022ef60bfa90365160155a02a2254aff13/images/find_sql.png)
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc4NTk5MjAsLTE3NzU0OTI2MzUsNj
-g3NDgyNzQzLDEwMTU0MzA0NTUsNDM5MTU2MzYzLC0xMjYwNzQz
-MDExLC0xMzI5MjUwNzcwLDE3MjQ1OTY1OCw1ODM0Mzk2NTIsMT
-A3NDI3MzU1NCwtMjA3Mjg5NDY3NCwtMzk5MTMyMjk3LC04NjA2
-ODQ4MzcsLTIwMjA4MzAzMDksLTE1MDQzMjI0NjksMTUzMjY3Nz
-YzMCwxNDI1MTc1NTA0LC0xNTgzMTI1MTg4XX0=
+eyJoaXN0b3J5IjpbMzQ4OTMyMjU1LC0xMTU3ODU5OTIwLC0xNz
+c1NDkyNjM1LDY4NzQ4Mjc0MywxMDE1NDMwNDU1LDQzOTE1NjM2
+MywtMTI2MDc0MzAxMSwtMTMyOTI1MDc3MCwxNzI0NTk2NTgsNT
+gzNDM5NjUyLDEwNzQyNzM1NTQsLTIwNzI4OTQ2NzQsLTM5OTEz
+MjI5NywtODYwNjg0ODM3LC0yMDIwODMwMzA5LC0xNTA0MzIyND
+Y5LDE1MzI2Nzc2MzAsMTQyNTE3NTUwNCwtMTU4MzEyNTE4OF19
+
 -->
