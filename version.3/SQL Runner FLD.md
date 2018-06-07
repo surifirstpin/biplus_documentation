@@ -7,7 +7,7 @@ Using SQL Runner you can directly Access your database and clout that access in 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/532dd8b61e94d1e08fe0b89afa6a5961336e8ad2/images/sql_ru.png)
 
-- You can directly write the SQL query from scratch and run it make sure the dialects used in SQL runner should match the database dialects. 
+- You can directly write the SQL query from scratch and run it but you need to make sure the dialects used in SQL runner should match the database dialects or,
 
 - You can also create SQL query in analysis section. 
 
@@ -22,11 +22,11 @@ Using SQL Runner you can directly Access your database and clout that access in 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/8301318bea750b7d048df7f5a8e06607d216dce7/images/navigate_sql.png)
 
-## Running SQL Query
+## Create SQL Query in SQl Runner
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzNDM5NjUyLDEwNzQyNzM1NTQsLTIwNz
-I4OTQ2NzQsLTM5OTEzMjI5NywtODYwNjg0ODM3LC0yMDIwODMw
-MzA5LC0xNTA0MzIyNDY5LDE1MzI2Nzc2MzAsMTQyNTE3NTUwNC
-wtMTU4MzEyNTE4OF19
+eyJoaXN0b3J5IjpbMjczNjQ2MTg2LDU4MzQzOTY1MiwxMDc0Mj
+czNTU0LC0yMDcyODk0Njc0LC0zOTkxMzIyOTcsLTg2MDY4NDgz
+NywtMjAyMDgzMDMwOSwtMTUwNDMyMjQ2OSwxNTMyNjc3NjMwLD
+E0MjUxNzU1MDQsLTE1ODMxMjUxODhdfQ==
 -->
