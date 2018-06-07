@@ -4,9 +4,9 @@
 
 Using SQL Runner you can directly Access your database and clout that access in variety of ways. In SQL Runner you can easily set up the connection, and navigate the tables under your schema. You can run pre-written SQL queries view the query run history. You can create your customs views here and perform useful task with them in model section.  
 
-- Select the Connection and Scheman you would like to Query.
-- Select the Table to display the column available in particular table.
-- Fields Sections displays the Fields t
+- Select the **Connection and Schema** you would like to Query.
+- Select the **Table** using using drop-down list, to display the numbcolumn available in particular table.
+- Fields Sections displays the Fields that fall under selected table.
 
 
 ![
@@ -40,9 +40,9 @@ Using SQL Runner you can directly Access your database and clout that access in 
 5. From the data retreived 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzQ2NjkzMSw0MzkxNTYzNjMsLTEyNj
-A3NDMwMTEsLTEzMjkyNTA3NzAsMTcyNDU5NjU4LDU4MzQzOTY1
-MiwxMDc0MjczNTU0LC0yMDcyODk0Njc0LC0zOTkxMzIyOTcsLT
-g2MDY4NDgzNywtMjAyMDgzMDMwOSwtMTUwNDMyMjQ2OSwxNTMy
-Njc3NjMwLDE0MjUxNzU1MDQsLTE1ODMxMjUxODhdfQ==
+eyJoaXN0b3J5IjpbLTE0MDc0Njg3MjYsNDM5MTU2MzYzLC0xMj
+YwNzQzMDExLC0xMzI5MjUwNzcwLDE3MjQ1OTY1OCw1ODM0Mzk2
+NTIsMTA3NDI3MzU1NCwtMjA3Mjg5NDY3NCwtMzk5MTMyMjk3LC
+04NjA2ODQ4MzcsLTIwMjA4MzAzMDksLTE1MDQzMjI0NjksMTUz
+MjY3NzYzMCwxNDI1MTc1NTA0LC0xNTgzMTI1MTg4XX0=
 -->
