@@ -62,21 +62,22 @@ select STATIONCODE,AMOUNT FROM ORDERS
 
 **5.** Dialects used while setting up connection will be displayed at top Right of the query area,
 
-**6.** To View the recent history, click on History tab available at the top right of the SQL query area. Green colour indicates successfully query and Red colour indicates query that did not run successfully due to the error.  ![
+![
+](!%5B%20%5D%28https://raw.githubusercontent.com/sv18042016/fp1/163409615d153a964fefc66224c6378d51e14661/images/commit.png%29)
+
+**6.** To View the recent history, click on History tab available at the top right of the SQL query area. Green colour indicates successfully query and Red colour indicates query that did not run successfully due to the error.  
+- ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/history%20sql.png)
 
-7. 
 
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/163409615d153a964fefc66224c6378d51e14661/images/commit.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3OTYyNTQ5LC0xMTkxMjAwMDc2LDg5Mj
-AxMDU5MiwtMTQ3OTEzODI0NiwtMTE1Nzg1OTkyMCwtMTc3NTQ5
-MjYzNSw2ODc0ODI3NDMsMTAxNTQzMDQ1NSw0MzkxNTYzNjMsLT
-EyNjA3NDMwMTEsLTEzMjkyNTA3NzAsMTcyNDU5NjU4LDU4MzQz
-OTY1MiwxMDc0MjczNTU0LC0yMDcyODk0Njc0LC0zOTkxMzIyOT
-csLTg2MDY4NDgzNywtMjAyMDgzMDMwOSwtMTUwNDMyMjQ2OSwx
-NTMyNjc3NjMwXX0=
+eyJoaXN0b3J5IjpbLTE4NDI2OTYwNzAsLTExOTEyMDAwNzYsOD
+kyMDEwNTkyLC0xNDc5MTM4MjQ2LC0xMTU3ODU5OTIwLC0xNzc1
+NDkyNjM1LDY4NzQ4Mjc0MywxMDE1NDMwNDU1LDQzOTE1NjM2My
+wtMTI2MDc0MzAxMSwtMTMyOTI1MDc3MCwxNzI0NTk2NTgsNTgz
+NDM5NjUyLDEwNzQyNzM1NTQsLTIwNzI4OTQ2NzQsLTM5OTEzMj
+I5NywtODYwNjg0ODM3LC0yMDIwODMwMzA5LC0xNTA0MzIyNDY5
+LDE1MzI2Nzc2MzBdfQ==
 -->
