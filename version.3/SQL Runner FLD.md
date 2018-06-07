@@ -50,12 +50,13 @@ select STATIONCODE,AMOUNT FROM ORDERS
 
 **4.** On running the sql command, it displays the data retrieved below the query area as shown in the image. SQL runner will fetch a maximum limit of 5000 records only.
 
-4. From the data retrieved to view the particular field value Click Find Option available in the field column header drop-down list.
-5. To group the data retreived click on Group option available in dropdown list of colukn header similarly,
-6. 
+**5.** From the data retrieved to view the particular field value Click Find Option available in the field column header drop-down list.
+**6.** To group the data retreived click on Group option available in dropdown list of colukn header similarly,
+
+**7.** To Pin the the column values select Pin option available in the same list.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQ4NDY3OTUsLTE3NzU0OTI2MzUsNj
+eyJoaXN0b3J5IjpbLTEyNzU3OTMxMjMsLTE3NzU0OTI2MzUsNj
 g3NDgyNzQzLDEwMTU0MzA0NTUsNDM5MTU2MzYzLC0xMjYwNzQz
 MDExLC0xMzI5MjUwNzcwLDE3MjQ1OTY1OCw1ODM0Mzk2NTIsMT
 A3NDI3MzU1NCwtMjA3Mjg5NDY3NCwtMzk5MTMyMjk3LC04NjA2
