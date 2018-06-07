@@ -23,10 +23,13 @@ Using SQL Runner you can directly Access your database and clout that access in 
 ](https://raw.githubusercontent.com/sv18042016/fp1/8301318bea750b7d048df7f5a8e06607d216dce7/images/navigate_sql.png)
 
 ## Create SQL Query in SQL Runner
+
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDU5NjU4LDU4MzQzOTY1MiwxMDc0Mj
-czNTU0LC0yMDcyODk0Njc0LC0zOTkxMzIyOTcsLTg2MDY4NDgz
-NywtMjAyMDgzMDMwOSwtMTUwNDMyMjQ2OSwxNTMyNjc3NjMwLD
-E0MjUxNzU1MDQsLTE1ODMxMjUxODhdfQ==
+eyJoaXN0b3J5IjpbLTEzMjkyNTA3NzAsMTcyNDU5NjU4LDU4Mz
+QzOTY1MiwxMDc0MjczNTU0LC0yMDcyODk0Njc0LC0zOTkxMzIy
+OTcsLTg2MDY4NDgzNywtMjAyMDgzMDMwOSwtMTUwNDMyMjQ2OS
+wxNTMyNjc3NjMwLDE0MjUxNzU1MDQsLTE1ODMxMjUxODhdfQ==
+
 -->
