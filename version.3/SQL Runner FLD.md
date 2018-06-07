@@ -65,15 +65,49 @@ select STATIONCODE,AMOUNT FROM ORDERS
 ![
 ](!%5B%20%5D%28https://raw.githubusercontent.com/sv18042016/fp1/163409615d153a964fefc66224c6378d51e14661/images/commit.png%29)
 
-**6.** To View the recent history, click on History tab available at the top right of the SQL query area. Green colour indicates successfully query and Red colour indicates query that did not run successfully due to the error.  
-- ![
+**6.** To View the recent history, click on **History tab** available at the top right of the SQL query area. 
+- Green colour indicates successfully query and Red colour indicates query that did not run successfully due to the error.  
+![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/history%20sql.png)
 
+## Apply Sorting
 
 
+In your query result you can view the data in ascending or descending order by applying sorting. To enable sorting Click on column header, to reverse the sorting order click on column header for second time.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/5f2f6b7d5ed9daf4222fd8da2636ecabbe2cabcd/images/sort_sql.png)
+
+
+## Derived View
+
+SQL Runner can create a derived view from the query build at the same time you can use this view in model section. the dialects used for creating a derived view should be same as in SQL runner.
+
+To get started with derived view, Click on List icon and Select Create Derived View.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/derived%201.png)
+
+**Enter the below fields ;**
+
+- **Derived View Name** Enter Label for identification to the new derived view.
+
+ - **Projects** Select the dialects using the drop down button.
+ 
+ - **Query** the query created in sql runner will be added here.
+ 
+ -  **Field List** On selecting the dialects all the fields used in query are reflected here.
+ Click on Create, to create the New Custom view. 
+ 
+ ![
+](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/custom_view.png)
+
+To view the newly created derived view. Goto Model section under the views list as shown in below image.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDI2OTYwNzAsLTExOTEyMDAwNzYsOD
+eyJoaXN0b3J5IjpbLTE1NDcyMTU3MzMsLTExOTEyMDAwNzYsOD
 kyMDEwNTkyLC0xNDc5MTM4MjQ2LC0xMTU3ODU5OTIwLC0xNzc1
 NDkyNjM1LDY4NzQ4Mjc0MywxMDE1NDMwNDU1LDQzOTE1NjM2My
 wtMTI2MDc0MzAxMSwtMTMyOTI1MDc3MCwxNzI0NTk2NTgsNTgz
