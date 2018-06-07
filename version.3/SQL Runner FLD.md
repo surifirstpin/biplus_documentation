@@ -42,17 +42,20 @@ select STATIONCODE,AMOUNT FROM ORDERS
 - To Redo the last written command click on **Redo** Icon specified in SQL Area.
 
 - To adjust the query according to Syntax select **Text Wrap** button. 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/acd887b4aec5663dca6969ad0004c73f4b351dc3/images/undo_sql.png)
 
-**3.**  Click on **Run** button to run the SQL command.
 
-**4.** On running the sql command it displays thee data is retrieved below the query area as shown in the image. SQL runner will fetch a maximum limit of 5000 records only.
+**3.**  Click on **Run** button to run the SQL command written.
+
+**4.** On running the sql command, it displays the data retrieved below the query area as shown in the image. SQL runner will fetch a maximum limit of 5000 records only.
 4. From the data retreived 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzU0OTI2MzUsNjg3NDgyNzQzLDEwMT
-U0MzA0NTUsNDM5MTU2MzYzLC0xMjYwNzQzMDExLC0xMzI5MjUw
-NzcwLDE3MjQ1OTY1OCw1ODM0Mzk2NTIsMTA3NDI3MzU1NCwtMj
-A3Mjg5NDY3NCwtMzk5MTMyMjk3LC04NjA2ODQ4MzcsLTIwMjA4
-MzAzMDksLTE1MDQzMjI0NjksMTUzMjY3NzYzMCwxNDI1MTc1NT
-A0LC0xNTgzMTI1MTg4XX0=
+eyJoaXN0b3J5IjpbLTEyMTM4NjI5NjIsLTE3NzU0OTI2MzUsNj
+g3NDgyNzQzLDEwMTU0MzA0NTUsNDM5MTU2MzYzLC0xMjYwNzQz
+MDExLC0xMzI5MjUwNzcwLDE3MjQ1OTY1OCw1ODM0Mzk2NTIsMT
+A3NDI3MzU1NCwtMjA3Mjg5NDY3NCwtMzk5MTMyMjk3LC04NjA2
+ODQ4MzcsLTIwMjA4MzAzMDksLTE1MDQzMjI0NjksMTUzMjY3Nz
+YzMCwxNDI1MTc1NTA0LC0xNTgzMTI1MTg4XX0=
 -->
