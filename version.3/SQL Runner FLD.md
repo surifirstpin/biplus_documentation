@@ -24,12 +24,12 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 ## Create SQL Query in SQL Runner
 
-
+To create a SQL query from scratch click on SQL Runner section after Loging in 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjkyNTA3NzAsMTcyNDU5NjU4LDU4Mz
-QzOTY1MiwxMDc0MjczNTU0LC0yMDcyODk0Njc0LC0zOTkxMzIy
-OTcsLTg2MDY4NDgzNywtMjAyMDgzMDMwOSwtMTUwNDMyMjQ2OS
-wxNTMyNjc3NjMwLDE0MjUxNzU1MDQsLTE1ODMxMjUxODhdfQ==
-
+eyJoaXN0b3J5IjpbLTE1NjE0ODg2NjEsLTEzMjkyNTA3NzAsMT
+cyNDU5NjU4LDU4MzQzOTY1MiwxMDc0MjczNTU0LC0yMDcyODk0
+Njc0LC0zOTkxMzIyOTcsLTg2MDY4NDgzNywtMjAyMDgzMDMwOS
+wtMTUwNDMyMjQ2OSwxNTMyNjc3NjMwLDE0MjUxNzU1MDQsLTE1
+ODMxMjUxODhdfQ==
 -->
