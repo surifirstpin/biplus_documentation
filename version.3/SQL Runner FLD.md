@@ -24,10 +24,15 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 ## Create SQL Query in SQL Runner
 
-To create a SQL query from scratch click on SQL Runner section after Loging in 
- 
+1. To create a SQL query from scratch click on SQL Runner section after Logging into BiPlus homepage.
+2. Type your SQL command in SQL query area.
+
+**3.**  Now **Run** the query.
+
+**4.** The data is retrieved below the query area as shown in the image. SQL runner will load up-to limit 5000 records only.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE0ODg2NjEsLTEzMjkyNTA3NzAsMT
+eyJoaXN0b3J5IjpbLTEyNjA3NDMwMTEsLTEzMjkyNTA3NzAsMT
 cyNDU5NjU4LDU4MzQzOTY1MiwxMDc0MjczNTU0LC0yMDcyODk0
 Njc0LC0zOTkxMzIyOTcsLTg2MDY4NDgzNywtMjAyMDgzMDMwOS
 wtMTUwNDMyMjQ2OSwxNTMyNjc3NjMwLDE0MjUxNzU1MDQsLTE1
