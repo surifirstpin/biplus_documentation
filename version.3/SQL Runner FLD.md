@@ -46,24 +46,26 @@ select STATIONCODE,AMOUNT FROM ORDERS
 ](https://raw.githubusercontent.com/sv18042016/fp1/acd887b4aec5663dca6969ad0004c73f4b351dc3/images/undo_sql.png)
 
 
-**3.**  Click on **Run** button to run the SQL command written. On running the sql command, it displays the data retrieved below the query area as shown in the image.
+**3.**  Click on **Run** button to run the SQL command written. On running the sql command, it displays the data retrieved below the query area as shown in the image. 
 
- - From the data retrieved to view the particular field value click **Find** option available in the field column header drop-down list.
+> **Note :** SQL runner can fetch a maximum limit of 5000 records only.
 
-      -  To group the data retrieved click on **Group** option available in drop down list of column header similarly,
+   - From the data retrieved to view the particular field value click **Find** option available in the field column header drop-down list.
 
-     -  To Pin the the column values select **Pin** option available in the same list.
- - ![
+    -  To group the data retrieved click on **Group** option available in drop down list of column header similarly,
+
+ -  To Pin the the column values select **Pin** option available in the same list.
+  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b86474022ef60bfa90365160155a02a2254aff13/images/find_sql.png)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDA3ODA5MiwtMTE1Nzg1OTkyMCwtMT
-c3NTQ5MjYzNSw2ODc0ODI3NDMsMTAxNTQzMDQ1NSw0MzkxNTYz
-NjMsLTEyNjA3NDMwMTEsLTEzMjkyNTA3NzAsMTcyNDU5NjU4LD
-U4MzQzOTY1MiwxMDc0MjczNTU0LC0yMDcyODk0Njc0LC0zOTkx
-MzIyOTcsLTg2MDY4NDgzNywtMjAyMDgzMDMwOSwtMTUwNDMyMj
-Q2OSwxNTMyNjc3NjMwLDE0MjUxNzU1MDQsLTE1ODMxMjUxODhd
-fQ==
+eyJoaXN0b3J5IjpbNzYxODk0MjUsLTExNTc4NTk5MjAsLTE3Nz
+U0OTI2MzUsNjg3NDgyNzQzLDEwMTU0MzA0NTUsNDM5MTU2MzYz
+LC0xMjYwNzQzMDExLC0xMzI5MjUwNzcwLDE3MjQ1OTY1OCw1OD
+M0Mzk2NTIsMTA3NDI3MzU1NCwtMjA3Mjg5NDY3NCwtMzk5MTMy
+Mjk3LC04NjA2ODQ4MzcsLTIwMjA4MzAzMDksLTE1MDQzMjI0Nj
+ksMTUzMjY3NzYzMCwxNDI1MTc1NTA0LC0xNTgzMTI1MTg4XX0=
+
 -->
