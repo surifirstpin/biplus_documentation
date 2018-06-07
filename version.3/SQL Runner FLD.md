@@ -30,9 +30,10 @@ Using SQL Runner you can directly Access your database and clout that access in 
 **3.**  Click on **Run** button to run the SQL command.
 
 **4.** on running the sql command it displays thee data is retrieved below the query area as shown in the image. SQL runner will fetch a maximum limit of 5000 records only.
+5. From the data retreived 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQ5OTQ0MjcsLTEyNjA3NDMwMTEsLT
+eyJoaXN0b3J5IjpbLTE3NDc4ODc0MTksLTEyNjA3NDMwMTEsLT
 EzMjkyNTA3NzAsMTcyNDU5NjU4LDU4MzQzOTY1MiwxMDc0Mjcz
 NTU0LC0yMDcyODk0Njc0LC0zOTkxMzIyOTcsLTg2MDY4NDgzNy
 wtMjAyMDgzMDMwOSwtMTUwNDMyMjQ2OSwxNTMyNjc3NjMwLDE0
