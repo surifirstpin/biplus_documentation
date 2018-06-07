@@ -64,12 +64,13 @@ select STATIONCODE,AMOUNT FROM ORDERS
 
 6. To View the recent history, click on History tab available at the top right of the SQL query area. Green colour indicates successfully query and Red colour indicates query that did not run successfully due to the error.  
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMDEwNTkyLC0xNDc5MTM4MjQ2LC0xMT
-U3ODU5OTIwLC0xNzc1NDkyNjM1LDY4NzQ4Mjc0MywxMDE1NDMw
-NDU1LDQzOTE1NjM2MywtMTI2MDc0MzAxMSwtMTMyOTI1MDc3MC
-wxNzI0NTk2NTgsNTgzNDM5NjUyLDEwNzQyNzM1NTQsLTIwNzI4
-OTQ2NzQsLTM5OTEzMjI5NywtODYwNjg0ODM3LC0yMDIwODMwMz
-A5LC0xNTA0MzIyNDY5LDE1MzI2Nzc2MzAsMTQyNTE3NTUwNCwt
-MTU4MzEyNTE4OF19
+eyJoaXN0b3J5IjpbMjYyMzA1NDIyLDg5MjAxMDU5MiwtMTQ3OT
+EzODI0NiwtMTE1Nzg1OTkyMCwtMTc3NTQ5MjYzNSw2ODc0ODI3
+NDMsMTAxNTQzMDQ1NSw0MzkxNTYzNjMsLTEyNjA3NDMwMTEsLT
+EzMjkyNTA3NzAsMTcyNDU5NjU4LDU4MzQzOTY1MiwxMDc0Mjcz
+NTU0LC0yMDcyODk0Njc0LC0zOTkxMzIyOTcsLTg2MDY4NDgzNy
+wtMjAyMDgzMDMwOSwtMTUwNDMyMjQ2OSwxNTMyNjc3NjMwLDE0
+MjUxNzU1MDRdfQ==
 -->
