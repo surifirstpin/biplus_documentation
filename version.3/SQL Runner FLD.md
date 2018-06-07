@@ -46,9 +46,7 @@ select STATIONCODE,AMOUNT FROM ORDERS
 ](https://raw.githubusercontent.com/sv18042016/fp1/acd887b4aec5663dca6969ad0004c73f4b351dc3/images/undo_sql.png)
 
 
-**3.**  Click on **Run** button to run the SQL command written.
-
-**4.On running the sql command, it displays the data retrieved below the query area as shown in the image. 
+**3.**  Click on **Run** button to run the SQL command written. On running the sql command, it displays the data retrieved below the query area as shown in the image. 
 
 > **Note :** SQL runner can fetch a maximum limit of 5000 records only.
 
@@ -63,11 +61,11 @@ select STATIONCODE,AMOUNT FROM ORDERS
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4OTMyMjU1LC0xMTU3ODU5OTIwLC0xNz
-c1NDkyNjM1LDY4NzQ4Mjc0MywxMDE1NDMwNDU1LDQzOTE1NjM2
-MywtMTI2MDc0MzAxMSwtMTMyOTI1MDc3MCwxNzI0NTk2NTgsNT
-gzNDM5NjUyLDEwNzQyNzM1NTQsLTIwNzI4OTQ2NzQsLTM5OTEz
-MjI5NywtODYwNjg0ODM3LC0yMDIwODMwMzA5LC0xNTA0MzIyND
-Y5LDE1MzI2Nzc2MzAsMTQyNTE3NTUwNCwtMTU4MzEyNTE4OF19
-
+eyJoaXN0b3J5IjpbMTY3Nzk0MzM3NSwtMTE1Nzg1OTkyMCwtMT
+c3NTQ5MjYzNSw2ODc0ODI3NDMsMTAxNTQzMDQ1NSw0MzkxNTYz
+NjMsLTEyNjA3NDMwMTEsLTEzMjkyNTA3NzAsMTcyNDU5NjU4LD
+U4MzQzOTY1MiwxMDc0MjczNTU0LC0yMDcyODk0Njc0LC0zOTkx
+MzIyOTcsLTg2MDY4NDgzNywtMjAyMDgzMDMwOSwtMTUwNDMyMj
+Q2OSwxNTMyNjc3NjMwLDE0MjUxNzU1MDQsLTE1ODMxMjUxODhd
+fQ==
 -->
