@@ -49,13 +49,14 @@ select STATIONCODE,AMOUNT FROM ORDERS
 **3.**  Click on **Run** button to run the SQL command written.
 
 **4.** On running the sql command, it displays the data retrieved below the query area as shown in the image. SQL runner will fetch a maximum limit of 5000 records only.
-4. From the data retreived 
+
+4. From the data retrieved to view the particular field value Click on
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTM4NjI5NjIsLTE3NzU0OTI2MzUsNj
-g3NDgyNzQzLDEwMTU0MzA0NTUsNDM5MTU2MzYzLC0xMjYwNzQz
-MDExLC0xMzI5MjUwNzcwLDE3MjQ1OTY1OCw1ODM0Mzk2NTIsMT
-A3NDI3MzU1NCwtMjA3Mjg5NDY3NCwtMzk5MTMyMjk3LC04NjA2
-ODQ4MzcsLTIwMjA4MzAzMDksLTE1MDQzMjI0NjksMTUzMjY3Nz
-YzMCwxNDI1MTc1NTA0LC0xNTgzMTI1MTg4XX0=
+eyJoaXN0b3J5IjpbMTYxMTExMTAzMCwtMTc3NTQ5MjYzNSw2OD
+c0ODI3NDMsMTAxNTQzMDQ1NSw0MzkxNTYzNjMsLTEyNjA3NDMw
+MTEsLTEzMjkyNTA3NzAsMTcyNDU5NjU4LDU4MzQzOTY1MiwxMD
+c0MjczNTU0LC0yMDcyODk0Njc0LC0zOTkxMzIyOTcsLTg2MDY4
+NDgzNywtMjAyMDgzMDMwOSwtMTUwNDMyMjQ2OSwxNTMyNjc3Nj
+MwLDE0MjUxNzU1MDQsLTE1ODMxMjUxODhdfQ==
 -->
