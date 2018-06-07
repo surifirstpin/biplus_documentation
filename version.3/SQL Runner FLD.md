@@ -104,13 +104,15 @@ To get started with derived view, Click on **List icon** and Select **Create Der
 
 To view the newly created derived view. Goto Model section under the views list as shown in below image.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/44c6a5e67268522711a49a43c55d04588892b5f0/images/derived_view.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTM0OTQxOCwxOTMyOTk1Njg5LC0xMT
-kxMjAwMDc2LDg5MjAxMDU5MiwtMTQ3OTEzODI0NiwtMTE1Nzg1
-OTkyMCwtMTc3NTQ5MjYzNSw2ODc0ODI3NDMsMTAxNTQzMDQ1NS
-w0MzkxNTYzNjMsLTEyNjA3NDMwMTEsLTEzMjkyNTA3NzAsMTcy
-NDU5NjU4LDU4MzQzOTY1MiwxMDc0MjczNTU0LC0yMDcyODk0Nj
-c0LC0zOTkxMzIyOTcsLTg2MDY4NDgzNywtMjAyMDgzMDMwOSwt
-MTUwNDMyMjQ2OV19
+eyJoaXN0b3J5IjpbMTE4MjgwODMwNSwyMDk1MzQ5NDE4LDE5Mz
+I5OTU2ODksLTExOTEyMDAwNzYsODkyMDEwNTkyLC0xNDc5MTM4
+MjQ2LC0xMTU3ODU5OTIwLC0xNzc1NDkyNjM1LDY4NzQ4Mjc0My
+wxMDE1NDMwNDU1LDQzOTE1NjM2MywtMTI2MDc0MzAxMSwtMTMy
+OTI1MDc3MCwxNzI0NTk2NTgsNTgzNDM5NjUyLDEwNzQyNzM1NT
+QsLTIwNzI4OTQ2NzQsLTM5OTEzMjI5NywtODYwNjg0ODM3LC0y
+MDIwODMwMzA5XX0=
 -->
