@@ -63,14 +63,15 @@ select STATIONCODE,AMOUNT FROM ORDERS
 5. Dialects used while setting up connection will be displayed at top Right of the query area,
 
 6. To View the recent history, click on History tab available at the top right of the SQL query area. Green colour indicates successfully query and Red colour indicates query that did not run successfully due to the error.  
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/163409615d153a964fefc66224c6378d51e14661/images/commit.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyMzA1NDIyLDg5MjAxMDU5MiwtMTQ3OT
-EzODI0NiwtMTE1Nzg1OTkyMCwtMTc3NTQ5MjYzNSw2ODc0ODI3
-NDMsMTAxNTQzMDQ1NSw0MzkxNTYzNjMsLTEyNjA3NDMwMTEsLT
-EzMjkyNTA3NzAsMTcyNDU5NjU4LDU4MzQzOTY1MiwxMDc0Mjcz
-NTU0LC0yMDcyODk0Njc0LC0zOTkxMzIyOTcsLTg2MDY4NDgzNy
-wtMjAyMDgzMDMwOSwtMTUwNDMyMjQ2OSwxNTMyNjc3NjMwLDE0
-MjUxNzU1MDRdfQ==
+eyJoaXN0b3J5IjpbMTY2NjQyMTc1Niw4OTIwMTA1OTIsLTE0Nz
+kxMzgyNDYsLTExNTc4NTk5MjAsLTE3NzU0OTI2MzUsNjg3NDgy
+NzQzLDEwMTU0MzA0NTUsNDM5MTU2MzYzLC0xMjYwNzQzMDExLC
+0xMzI5MjUwNzcwLDE3MjQ1OTY1OCw1ODM0Mzk2NTIsMTA3NDI3
+MzU1NCwtMjA3Mjg5NDY3NCwtMzk5MTMyMjk3LC04NjA2ODQ4Mz
+csLTIwMjA4MzAzMDksLTE1MDQzMjI0NjksMTUzMjY3NzYzMCwx
+NDI1MTc1NTA0XX0=
 -->
