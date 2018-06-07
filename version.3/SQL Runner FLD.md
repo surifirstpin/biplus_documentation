@@ -54,6 +54,12 @@ select STATIONCODE,AMOUNT FROM ORDERS
 
     -  To group the data retrieved click on **Group** option available in drop down list of column header similarly,
 
+You can directly group it by writing following code in sql command this way;
+
+```
+SELECT STATIONCODE,SUM(AMOUNT) FROM ORDERS GROUP BY STATIONCODE
+```
+
  -  To Pin the the column values select **Pin** option available in the same list.
   ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b86474022ef60bfa90365160155a02a2254aff13/images/find_sql.png)
@@ -108,7 +114,7 @@ To view the newly created derived view. Goto Model section under the views list 
 ](https://raw.githubusercontent.com/sv18042016/fp1/44c6a5e67268522711a49a43c55d04588892b5f0/images/derived_view.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MjgwODMwNSwyMDk1MzQ5NDE4LDE5Mz
+eyJoaXN0b3J5IjpbMTE3MTYwNTYwMiwyMDk1MzQ5NDE4LDE5Mz
 I5OTU2ODksLTExOTEyMDAwNzYsODkyMDEwNTkyLC0xNDc5MTM4
 MjQ2LC0xMTU3ODU5OTIwLC0xNzc1NDkyNjM1LDY4NzQ4Mjc0My
 wxMDE1NDMwNDU1LDQzOTE1NjM2MywtMTI2MDc0MzAxMSwtMTMy
