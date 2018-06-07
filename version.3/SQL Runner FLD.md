@@ -36,7 +36,8 @@ Using SQL Runner you can directly Access your database and clout that access in 
 ```
 select STATIONCODE,AMOUNT FROM ORDERS
 ```
-- To undo the SQL Command 
+- To undo the SQL Command written Click on UNDO-Icon specified in SQL Area.
+- To Redo the last written command click on Redo Icon specified 
 
 **3.**  Click on **Run** button to run the SQL command.
 
@@ -44,9 +45,9 @@ select STATIONCODE,AMOUNT FROM ORDERS
 4. From the data retreived 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5MjI4NjQ2LDQzOTE1NjM2MywtMTI2MD
-c0MzAxMSwtMTMyOTI1MDc3MCwxNzI0NTk2NTgsNTgzNDM5NjUy
-LDEwNzQyNzM1NTQsLTIwNzI4OTQ2NzQsLTM5OTEzMjI5NywtOD
-YwNjg0ODM3LC0yMDIwODMwMzA5LC0xNTA0MzIyNDY5LDE1MzI2
-Nzc2MzAsMTQyNTE3NTUwNCwtMTU4MzEyNTE4OF19
+eyJoaXN0b3J5IjpbLTE0MTk2NjIyMzcsNDM5MTU2MzYzLC0xMj
+YwNzQzMDExLC0xMzI5MjUwNzcwLDE3MjQ1OTY1OCw1ODM0Mzk2
+NTIsMTA3NDI3MzU1NCwtMjA3Mjg5NDY3NCwtMzk5MTMyMjk3LC
+04NjA2ODQ4MzcsLTIwMjA4MzAzMDksLTE1MDQzMjI0NjksMTUz
+MjY3NzYzMCwxNDI1MTc1NTA0LC0xNTgzMTI1MTg4XX0=
 -->
