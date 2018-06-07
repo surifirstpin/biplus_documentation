@@ -79,7 +79,12 @@ SELECT STATIONCODE,SUM(AMOUNT) FROM ORDERS GROUP BY STATIONCODE
 ## Apply Sorting
 
 
-In your query result you can view the data in ascending or descending order by applying sorting. To enable sorting Click on column header, to reverse the sorting order click on column header for second time.
+In your query result you can view the data in ascending or descending order by applying sorting. To enable sorting Click on column header, to reverse the sorting order click on column header for second time **or,**
+
+**Write the following code in sql command this way;**
+```
+ORDER BY STATIONCODE ASC
+```
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5f2f6b7d5ed9daf4222fd8da2636ecabbe2cabcd/images/sort_sql.png)
@@ -114,11 +119,11 @@ To view the newly created derived view. Goto Model section under the views list 
 ](https://raw.githubusercontent.com/sv18042016/fp1/44c6a5e67268522711a49a43c55d04588892b5f0/images/derived_view.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTYwNTYwMiwyMDk1MzQ5NDE4LDE5Mz
-I5OTU2ODksLTExOTEyMDAwNzYsODkyMDEwNTkyLC0xNDc5MTM4
-MjQ2LC0xMTU3ODU5OTIwLC0xNzc1NDkyNjM1LDY4NzQ4Mjc0My
-wxMDE1NDMwNDU1LDQzOTE1NjM2MywtMTI2MDc0MzAxMSwtMTMy
-OTI1MDc3MCwxNzI0NTk2NTgsNTgzNDM5NjUyLDEwNzQyNzM1NT
-QsLTIwNzI4OTQ2NzQsLTM5OTEzMjI5NywtODYwNjg0ODM3LC0y
-MDIwODMwMzA5XX0=
+eyJoaXN0b3J5IjpbLTE2ODMxNDYzOTAsMjA5NTM0OTQxOCwxOT
+MyOTk1Njg5LC0xMTkxMjAwMDc2LDg5MjAxMDU5MiwtMTQ3OTEz
+ODI0NiwtMTE1Nzg1OTkyMCwtMTc3NTQ5MjYzNSw2ODc0ODI3ND
+MsMTAxNTQzMDQ1NSw0MzkxNTYzNjMsLTEyNjA3NDMwMTEsLTEz
+MjkyNTA3NzAsMTcyNDU5NjU4LDU4MzQzOTY1MiwxMDc0MjczNT
+U0LC0yMDcyODk0Njc0LC0zOTkxMzIyOTcsLTg2MDY4NDgzNywt
+MjAyMDgzMDMwOV19
 -->
