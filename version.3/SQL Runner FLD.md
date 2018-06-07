@@ -29,13 +29,14 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 ## Create SQL Query in SQL Runner
 
-1. To create a SQL query from scratch click on SQL Runner section after Logging into BiPlus homepage.
+**1.** To create a SQL query from scratch click on SQL Runner section after Logging into BiPlus homepage.
 
-2. Type your SQL command in SQL query area.
-3. 
+**2.** Type your SQL command in SQL query area.
+
 ```
 select STATIONCODE,AMOUNT FROM ORDERS
-``
+```
+- To undo the SQL Command 
 
 **3.**  Click on **Run** button to run the SQL command.
 
@@ -43,9 +44,9 @@ select STATIONCODE,AMOUNT FROM ORDERS
 4. From the data retreived 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTI4NjMyNSw0MzkxNTYzNjMsLTEyNj
-A3NDMwMTEsLTEzMjkyNTA3NzAsMTcyNDU5NjU4LDU4MzQzOTY1
-MiwxMDc0MjczNTU0LC0yMDcyODk0Njc0LC0zOTkxMzIyOTcsLT
-g2MDY4NDgzNywtMjAyMDgzMDMwOSwtMTUwNDMyMjQ2OSwxNTMy
-Njc3NjMwLDE0MjUxNzU1MDQsLTE1ODMxMjUxODhdfQ==
+eyJoaXN0b3J5IjpbOTk5MjI4NjQ2LDQzOTE1NjM2MywtMTI2MD
+c0MzAxMSwtMTMyOTI1MDc3MCwxNzI0NTk2NTgsNTgzNDM5NjUy
+LDEwNzQyNzM1NTQsLTIwNzI4OTQ2NzQsLTM5OTEzMjI5NywtOD
+YwNjg0ODM3LC0yMDIwODMwMzA5LC0xNTA0MzIyNDY5LDE1MzI2
+Nzc2MzAsMTQyNTE3NTUwNCwtMTU4MzEyNTE4OF19
 -->
