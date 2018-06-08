@@ -125,13 +125,13 @@ You can also make use of **Analysis Section** to create a query.
 
 - Select the text from SQL area in Analysis and copy it to SQL Runner.
 
-- Add  text to SQL area under SQL Runner section, then **Run** the SQL Runner to Query the database. You can also customize the text as per your business needs and run the new query.
+- copy paste the text to SQL area  and **Run** the SQL Runner to Query the database. You can also customize the already existing text as per your business needs and run the new query.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxNTk2OTY1LDEwMzY4MTA3NzAsMjAzOD
+eyJoaXN0b3J5IjpbMTQ4NDQ5NDI5LDEwMzY4MTA3NzAsMjAzOD
 I3MTk5NywtNzMyNzc1NzU1LDE3MjE3MzQzNDMsLTEwMjE1NDI1
 ODUsMjA5NTM0OTQxOCwxOTMyOTk1Njg5LC0xMTkxMjAwMDc2LD
 g5MjAxMDU5MiwtMTQ3OTEzODI0NiwtMTE1Nzg1OTkyMCwtMTc3
