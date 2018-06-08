@@ -121,21 +121,21 @@ To view the newly created derived view. Goto Model section under the views list 
 
 ## Create Query in Analysis Section
 
-You can make use of **Analysis Section** to create a query.
+You can also make use of **Analysis Section** to create a query.
 
 - Select the text from SQL area in Analysis and copy it SQL Runner.
 
-- Once the Text is added to SQL area in SQL Runner, **Run** the SQL Runner to Query the database. You can also customize the text as per your business needs and run the new query.
+- Once the text is added to SQL area in SQL Runner, **Run** the SQL Runner to Query the database. You can also customize the text as per your business needs and run the new query.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjc3NTc1NSwxNzIxNzM0MzQzLC0xMD
-IxNTQyNTg1LDIwOTUzNDk0MTgsMTkzMjk5NTY4OSwtMTE5MTIw
-MDA3Niw4OTIwMTA1OTIsLTE0NzkxMzgyNDYsLTExNTc4NTk5Mj
-AsLTE3NzU0OTI2MzUsNjg3NDgyNzQzLDEwMTU0MzA0NTUsNDM5
-MTU2MzYzLC0xMjYwNzQzMDExLC0xMzI5MjUwNzcwLDE3MjQ1OT
-Y1OCw1ODM0Mzk2NTIsMTA3NDI3MzU1NCwtMjA3Mjg5NDY3NCwt
-Mzk5MTMyMjk3XX0=
+eyJoaXN0b3J5IjpbNzYzODk3MDQ4LC03MzI3NzU3NTUsMTcyMT
+czNDM0MywtMTAyMTU0MjU4NSwyMDk1MzQ5NDE4LDE5MzI5OTU2
+ODksLTExOTEyMDAwNzYsODkyMDEwNTkyLC0xNDc5MTM4MjQ2LC
+0xMTU3ODU5OTIwLC0xNzc1NDkyNjM1LDY4NzQ4Mjc0MywxMDE1
+NDMwNDU1LDQzOTE1NjM2MywtMTI2MDc0MzAxMSwtMTMyOTI1MD
+c3MCwxNzI0NTk2NTgsNTgzNDM5NjUyLDEwNzQyNzM1NTQsLTIw
+NzI4OTQ2NzRdfQ==
 -->
