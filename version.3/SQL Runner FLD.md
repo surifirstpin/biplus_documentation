@@ -81,7 +81,7 @@ SELECT STATIONCODE,SUM(AMOUNT) FROM ORDERS GROUP BY STATIONCODE
 
 In your query result you can view the data in ascending or descending order by applying sorting. To enable sorting Click on column header, to reverse the sorting order click on column header for second time **or,**
 
-**Write the following code in sql command this way;**
+Write the following code in sql command this way;
 ```
 ORDER BY STATIONCODE ASC
 ```
@@ -132,11 +132,11 @@ You can make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjE1NDI1ODUsMjA5NTM0OTQxOCwxOT
-MyOTk1Njg5LC0xMTkxMjAwMDc2LDg5MjAxMDU5MiwtMTQ3OTEz
-ODI0NiwtMTE1Nzg1OTkyMCwtMTc3NTQ5MjYzNSw2ODc0ODI3ND
-MsMTAxNTQzMDQ1NSw0MzkxNTYzNjMsLTEyNjA3NDMwMTEsLTEz
-MjkyNTA3NzAsMTcyNDU5NjU4LDU4MzQzOTY1MiwxMDc0MjczNT
-U0LC0yMDcyODk0Njc0LC0zOTkxMzIyOTcsLTg2MDY4NDgzNywt
-MjAyMDgzMDMwOV19
+eyJoaXN0b3J5IjpbMTcyMTczNDM0MywtMTAyMTU0MjU4NSwyMD
+k1MzQ5NDE4LDE5MzI5OTU2ODksLTExOTEyMDAwNzYsODkyMDEw
+NTkyLC0xNDc5MTM4MjQ2LC0xMTU3ODU5OTIwLC0xNzc1NDkyNj
+M1LDY4NzQ4Mjc0MywxMDE1NDMwNDU1LDQzOTE1NjM2MywtMTI2
+MDc0MzAxMSwtMTMyOTI1MDc3MCwxNzI0NTk2NTgsNTgzNDM5Nj
+UyLDEwNzQyNzM1NTQsLTIwNzI4OTQ2NzQsLTM5OTEzMjI5Nywt
+ODYwNjg0ODM3XX0=
 -->
