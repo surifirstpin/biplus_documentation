@@ -125,17 +125,17 @@ You can also make use of **Analysis Section** to create a query.
 
 - Select the text from SQL area in Analysis and copy it to SQL Runner.
 
-- Once the text is added to SQL area in SQL Runner, **Run** the SQL Runner to Query the database. You can also customize the text as per your business needs and run the new query.
+- Add your text to SQL area under SQL Runner, **Run** the SQL Runner to Query the database. You can also customize the text as per your business needs and run the new query.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODI3MTk5NywtNzMyNzc1NzU1LDE3Mj
-E3MzQzNDMsLTEwMjE1NDI1ODUsMjA5NTM0OTQxOCwxOTMyOTk1
-Njg5LC0xMTkxMjAwMDc2LDg5MjAxMDU5MiwtMTQ3OTEzODI0Ni
-wtMTE1Nzg1OTkyMCwtMTc3NTQ5MjYzNSw2ODc0ODI3NDMsMTAx
-NTQzMDQ1NSw0MzkxNTYzNjMsLTEyNjA3NDMwMTEsLTEzMjkyNT
-A3NzAsMTcyNDU5NjU4LDU4MzQzOTY1MiwxMDc0MjczNTU0LC0y
-MDcyODk0Njc0XX0=
+eyJoaXN0b3J5IjpbLTMxNzA4NDg3MiwyMDM4MjcxOTk3LC03Mz
+I3NzU3NTUsMTcyMTczNDM0MywtMTAyMTU0MjU4NSwyMDk1MzQ5
+NDE4LDE5MzI5OTU2ODksLTExOTEyMDAwNzYsODkyMDEwNTkyLC
+0xNDc5MTM4MjQ2LC0xMTU3ODU5OTIwLC0xNzc1NDkyNjM1LDY4
+NzQ4Mjc0MywxMDE1NDMwNDU1LDQzOTE1NjM2MywtMTI2MDc0Mz
+AxMSwtMTMyOTI1MDc3MCwxNzI0NTk2NTgsNTgzNDM5NjUyLDEw
+NzQyNzM1NTRdfQ==
 -->
