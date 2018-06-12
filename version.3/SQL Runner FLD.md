@@ -112,7 +112,7 @@ To get started with derived view, Click on **List icon** and Select **Create Der
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cdb0e5ca373edcb312536038651c1b8bbffb1f54/images/create_derived_view1.png)
 
-To view the newly created derived view. Goto Model section under the views list as shown in below image.
+To view the newly created derived view. Go to Model section under the views list as shown in below image.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/44c6a5e67268522711a49a43c55d04588892b5f0/images/derived_view.png)
@@ -131,11 +131,11 @@ You can also make use of **Analysis Section** to create a query.
 finally, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjkzODcwNCwtODAxNjA4ODAyLDEwMz
-I4MDg0MjQsNzg5NzE0NiwtNjI1MDQ2MzQ3LDE0ODQ0OTQyOSwx
-MDM2ODEwNzcwLDIwMzgyNzE5OTcsLTczMjc3NTc1NSwxNzIxNz
-M0MzQzLC0xMDIxNTQyNTg1LDIwOTUzNDk0MTgsMTkzMjk5NTY4
-OSwtMTE5MTIwMDA3Niw4OTIwMTA1OTIsLTE0NzkxMzgyNDYsLT
-ExNTc4NTk5MjAsLTE3NzU0OTI2MzUsNjg3NDgyNzQzLDEwMTU0
-MzA0NTVdfQ==
+eyJoaXN0b3J5IjpbLTE1MzQwMzA5MzAsLTg4NjkzODcwNCwtOD
+AxNjA4ODAyLDEwMzI4MDg0MjQsNzg5NzE0NiwtNjI1MDQ2MzQ3
+LDE0ODQ0OTQyOSwxMDM2ODEwNzcwLDIwMzgyNzE5OTcsLTczMj
+c3NTc1NSwxNzIxNzM0MzQzLC0xMDIxNTQyNTg1LDIwOTUzNDk0
+MTgsMTkzMjk5NTY4OSwtMTE5MTIwMDA3Niw4OTIwMTA1OTIsLT
+E0NzkxMzgyNDYsLTExNTc4NTk5MjAsLTE3NzU0OTI2MzUsNjg3
+NDgyNzQzXX0=
 -->
