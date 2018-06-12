@@ -89,7 +89,6 @@ ORDER BY STATIONCODE ASC
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5f2f6b7d5ed9daf4222fd8da2636ecabbe2cabcd/images/sort_sql.png)
 
-
 ## Derived View
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section. the dialects used for creating a derived view should be same as in SQL runner.
@@ -132,11 +131,11 @@ You can also make use of **Analysis Section** to create a query.
 finally, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTYwODgwMiwxMDMyODA4NDI0LDc4OT
-cxNDYsLTYyNTA0NjM0NywxNDg0NDk0MjksMTAzNjgxMDc3MCwy
-MDM4MjcxOTk3LC03MzI3NzU3NTUsMTcyMTczNDM0MywtMTAyMT
-U0MjU4NSwyMDk1MzQ5NDE4LDE5MzI5OTU2ODksLTExOTEyMDAw
-NzYsODkyMDEwNTkyLC0xNDc5MTM4MjQ2LC0xMTU3ODU5OTIwLC
-0xNzc1NDkyNjM1LDY4NzQ4Mjc0MywxMDE1NDMwNDU1LDQzOTE1
-NjM2M119
+eyJoaXN0b3J5IjpbLTg4NjkzODcwNCwtODAxNjA4ODAyLDEwMz
+I4MDg0MjQsNzg5NzE0NiwtNjI1MDQ2MzQ3LDE0ODQ0OTQyOSwx
+MDM2ODEwNzcwLDIwMzgyNzE5OTcsLTczMjc3NTc1NSwxNzIxNz
+M0MzQzLC0xMDIxNTQyNTg1LDIwOTUzNDk0MTgsMTkzMjk5NTY4
+OSwtMTE5MTIwMDA3Niw4OTIwMTA1OTIsLTE0NzkxMzgyNDYsLT
+ExNTc4NTk5MjAsLTE3NzU0OTI2MzUsNjg3NDgyNzQzLDEwMTU0
+MzA0NTVdfQ==
 -->
