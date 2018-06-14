@@ -1,5 +1,6 @@
 
 
+
 <center><h1>SQL Runner </h1></center>
 
 Using SQL Runner you can directly Access your database and clout that access in variety of ways. In SQL Runner you can easily set up the connection, and navigate the tables under your schema. You can run pre-written SQL queries view the query run history. You can create your customs views here and perform useful task with them in model section.  
@@ -132,11 +133,11 @@ You can also make use of **Analysis Section** to create a query.
 finally, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI2NzEyNjgsLTE1MzQwMzA5MzAsLT
-g4NjkzODcwNCwtODAxNjA4ODAyLDEwMzI4MDg0MjQsNzg5NzE0
-NiwtNjI1MDQ2MzQ3LDE0ODQ0OTQyOSwxMDM2ODEwNzcwLDIwMz
-gyNzE5OTcsLTczMjc3NTc1NSwxNzIxNzM0MzQzLC0xMDIxNTQy
-NTg1LDIwOTUzNDk0MTgsMTkzMjk5NTY4OSwtMTE5MTIwMDA3Ni
-w4OTIwMTA1OTIsLTE0NzkxMzgyNDYsLTExNTc4NTk5MjAsLTE3
-NzU0OTI2MzVdfQ==
+eyJoaXN0b3J5IjpbLTU0MDUxMTYzNCwtMTg1MjY3MTI2OCwtMT
+UzNDAzMDkzMCwtODg2OTM4NzA0LC04MDE2MDg4MDIsMTAzMjgw
+ODQyNCw3ODk3MTQ2LC02MjUwNDYzNDcsMTQ4NDQ5NDI5LDEwMz
+Y4MTA3NzAsMjAzODI3MTk5NywtNzMyNzc1NzU1LDE3MjE3MzQz
+NDMsLTEwMjE1NDI1ODUsMjA5NTM0OTQxOCwxOTMyOTk1Njg5LC
+0xMTkxMjAwMDc2LDg5MjAxMDU5MiwtMTQ3OTEzODI0NiwtMTE1
+Nzg1OTkyMF19
 -->
