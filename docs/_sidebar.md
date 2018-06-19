@@ -20,7 +20,7 @@
   - [Dashboard](Dashboard.md)
   
 - Sql Runner
-  -[Sql Runner]()
+  - [Sql Runner](SQL Runner.md)
   
 - Settings
   - [Admin Privileges](AdminPrivileges.md)
