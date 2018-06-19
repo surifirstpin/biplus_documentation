@@ -27,7 +27,7 @@
   - [Global Parameters](GlobalParameters.md)  
   - [Global Functions](GlobalFunctions.md)
   
- - User Manuals
+ - User Documentation(version.1)
    - [How to Login BiPlus](How to Login BiPlus.md)
    - [How to Browse Report](How to browse reports.md)
    - [How to Create Report](How to Create a Report.md)
