@@ -27,9 +27,17 @@
   - [Global Parameters](GlobalParameters.md)  
   - [Global Functions](GlobalFunctions.md)
   
- - User Documentation(version.1)
-   - [How to Login BiPlus](How to Login BiPlus.md)
-   - [How to Browse Report](How to browse reports.md)
-   - [How to Create Report](How to Create a Report.md)
-   - [How to Browse Dashboard](How to Browse Dashboard.md)
-   - [How to Create Dashboard](How to Create Dashboard.md)
+- User Documentation(version.1)
+  - [How to Login BiPlus](How to Login BiPlus.md)
+  - [How to Browse Report](How to browse reports.md)
+  - [How to Create Report](How to Create a Report.md)
+  - [How to Browse Dashboard](How to Browse Dashboard.md)
+  - [How to Create Dashboard](How to Create Dashboard.md)
+  
+- User Documentation(version.2)
+  - [How to Login BiPlus](How to Login BiPlus.md)
+  - [How to Browse Report](How to browse reports.md)
+  - [How to Create Report](How to Create a Report.md)
+  - [How to Browse Dashboard](How to Browse Dashboard.md)
+  - [How to Create Dashboard](How to Create Dashboard.md)
+
