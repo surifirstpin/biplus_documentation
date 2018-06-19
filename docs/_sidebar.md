@@ -19,7 +19,9 @@
   - [Reports](SReports.md)  
   - [Dashboard](Dashboard.md)
   
-
+- Sql Runner
+  -[Sql Runner]()
+  
 - Settings
   - [Admin Privileges](AdminPrivileges.md)
   - [Global Parameters](GlobalParameters.md)  
