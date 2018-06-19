@@ -1,7 +1,6 @@
  
 - Getting started 
-  - [Database Connection]
-    - [hello](DatabaseConnection.md)
+  - [Database Connection](DatabaseConnection.md)
   
   
 - Model
