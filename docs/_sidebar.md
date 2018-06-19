@@ -1,4 +1,4 @@
-* [Home](/[Database Connection](DatabaseConnection.md))
+* [Home]([Database Connection](DatabaseConnection.md))
  
 
 - Getting started 
