@@ -1,6 +1,6 @@
 - 
-  - [Techincal Documents]()
-  - [Database Connection](DatabaseConnection.md)
+  - [Techincal Documents][Database Connection](DatabaseConnection.md)
+  
   
   
 - Getting started
