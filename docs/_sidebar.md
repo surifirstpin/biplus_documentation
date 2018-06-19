@@ -1,5 +1,5 @@
 - 
-  - [Techincal Documents](/DatabaseConnection.md/model01.md)
+  - [Techincal Documents](/DatabaseConnection.md)
   
   
 - Getting started
