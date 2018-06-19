@@ -1,6 +1,6 @@
--[Techincal Documents](hello.md)
+  -[Techincal Documents](hello.md)
 - Getting started
-  - [Database Connection](DatabaseConnection.md)(DataRun.md) 
+  - [Database Connection](DatabaseConnection.md)
   
   
 - Model
