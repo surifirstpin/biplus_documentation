@@ -3,7 +3,7 @@
 
 <center><h1>Viewing Content</h1></center>
 
-This section provides information about the viewing the already existing data in BiPlus, You can view the visualization images in Dashboard Section and for exploring data you can take a look at Analysis Section.
+This section provides information on how to view the already existing data in BiPlus, You can view the visualization images in Dashboard Section and for exploring data you can take a look at Analysis Section.
 
 ## Navigating to Saved Content 
 
@@ -27,5 +27,5 @@ Click on the **Work Space** under Dashboard Section to view the content in BiPlu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTk2NDI4XX0=
+eyJoaXN0b3J5IjpbMTUzNjQ2OTI0OF19
 -->
