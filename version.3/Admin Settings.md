@@ -4,7 +4,7 @@
 
 BiPlus Administrative settings allows you to customize BiPlus for your Organisation.
 
-Here is how it get started with administrative settings.
+Here is how it get started with administrative settings and its features.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d61beb27f6c032b0573919bc8b1806668f9b6d97/images/full_admin1.png)
@@ -210,8 +210,8 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0NDA1MDEwLDE2NTE3MDE1MjYsLTE5MD
-g0NjYyMDUsLTEwNTQ0MDQ1MzYsLTEwMzgzNTM4NDMsMzU4ODgz
-MDczLDY4Mzk0OTg3MSwyMDUyMTA3NjcsNjY4MzIzNTUwLC0xMD
-k3NDkyOTI5LC0zMDQxNjQ4OV19
+eyJoaXN0b3J5IjpbLTI3MTUxMzM0OCwxNjUxNzAxNTI2LC0xOT
+A4NDY2MjA1LC0xMDU0NDA0NTM2LC0xMDM4MzUzODQzLDM1ODg4
+MzA3Myw2ODM5NDk4NzEsMjA1MjEwNzY3LDY2ODMyMzU1MCwtMT
+A5NzQ5MjkyOSwtMzA0MTY0ODldfQ==
 -->
