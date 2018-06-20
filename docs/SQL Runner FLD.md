@@ -122,7 +122,7 @@ To view the newly created derived view. Go to Model section under the views list
 
 You can also make use of **Analysis Section** to create a query.
 
-- Select the text from SQL area in Analysis section  and copy it to SQL Runner.
+- Select the text from SQL area in Analysis section after running a reports and copy it to SQL Runner.
 
 - Copy paste the text to SQL area  and **Run** the SQL Runner to Query the database. You can also customize the already existing text as per your business needs and run the new query.
 
@@ -130,5 +130,5 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyMzU1NDY2LC0xODUyNjcxMjY4XX0=
+eyJoaXN0b3J5IjpbLTEzNzQzMTI5NSwtMTg1MjY3MTI2OF19
 -->
