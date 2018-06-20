@@ -31,7 +31,7 @@ Steps to follow;
 
 - **Company** Enter name of the company.
 
-- **Role** Select the role from the drop down list ( Admin, Developer, User, Super Admin)
+- **Role** Select the suitable role from the drop down list ( Admin, Developer, User, Super Admin) .
 
 | User Role |  Access|
 |--|--|
@@ -208,9 +208,9 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2MjE2ODIyLC0xMjMxODk3OTY4LC01Nz
-k4MTQzMjksMTY1MTcwMTUyNiwtMTkwODQ2NjIwNSwtMTA1NDQw
-NDUzNiwtMTAzODM1Mzg0MywzNTg4ODMwNzMsNjgzOTQ5ODcxLD
-IwNTIxMDc2Nyw2NjgzMjM1NTAsLTEwOTc0OTI5MjksLTMwNDE2
-NDg5XX0=
+eyJoaXN0b3J5IjpbLTQxNjkwMzQxMyw1MzYyMTY4MjIsLTEyMz
+E4OTc5NjgsLTU3OTgxNDMyOSwxNjUxNzAxNTI2LC0xOTA4NDY2
+MjA1LC0xMDU0NDA0NTM2LC0xMDM4MzUzODQzLDM1ODg4MzA3My
+w2ODM5NDk4NzEsMjA1MjEwNzY3LDY2ODMyMzU1MCwtMTA5NzQ5
+MjkyOSwtMzA0MTY0ODldfQ==
 -->
