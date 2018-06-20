@@ -1,5 +1,4 @@
-
-
+ <center><h1>Calculated Column</h1></center>
 
 Table calculations enable you to easily create on-the-fly metrics, which are similar to formulas found in Excel sheets. These extracted columns will show up as green in the data table. Using calculated column you can perform mathematical, logical (true/false), lexical (text-based), and date-based calculations on the dimensions, measures, and other table calculations in your query. 
 
@@ -11,7 +10,7 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 
 - It controls or access the data with user wise calculations.
 
--  Optimize and transform the data using  **#plugin#**  functionality.
+- Optimize and transform the data using  **#plugin#**  functionality.
 
 - Define a function or use a global function to be applied on the required data fields.
  
@@ -19,5 +18,5 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjI0MTU0OF19
+eyJoaXN0b3J5IjpbLTE1OTkwMDM0LC0zMTIyNDE1NDhdfQ==
 -->
