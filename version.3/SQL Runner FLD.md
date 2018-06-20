@@ -106,7 +106,7 @@ To get started with derived view, Click on **List icon** and Select **Create Der
  
  - **Query** the query created in sql runner will be added here.
  
-  -  **Field List** On selecting the dialects all the fields used in query are reflected here.
+ -  **Field List** On selecting the dialects all the fields used in query are reflected here.
 
  **Click on Create, to create the New Custom view.** 
  
@@ -131,11 +131,11 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY2NTUyMzYsLTE4NTI2NzEyNjgsLT
-U0MDUxMTYzNCwtMTg1MjY3MTI2OCwtMTUzNDAzMDkzMCwtODg2
-OTM4NzA0LC04MDE2MDg4MDIsMTAzMjgwODQyNCw3ODk3MTQ2LC
-02MjUwNDYzNDcsMTQ4NDQ5NDI5LDEwMzY4MTA3NzAsMjAzODI3
-MTk5NywtNzMyNzc1NzU1LDE3MjE3MzQzNDMsLTEwMjE1NDI1OD
-UsMjA5NTM0OTQxOCwxOTMyOTk1Njg5LC0xMTkxMjAwMDc2LDg5
-MjAxMDU5Ml19
+eyJoaXN0b3J5IjpbLTY4NjUyNzE1MiwtMTgwNjY1NTIzNiwtMT
+g1MjY3MTI2OCwtNTQwNTExNjM0LC0xODUyNjcxMjY4LC0xNTM0
+MDMwOTMwLC04ODY5Mzg3MDQsLTgwMTYwODgwMiwxMDMyODA4ND
+I0LDc4OTcxNDYsLTYyNTA0NjM0NywxNDg0NDk0MjksMTAzNjgx
+MDc3MCwyMDM4MjcxOTk3LC03MzI3NzU3NTUsMTcyMTczNDM0My
+wtMTAyMTU0MjU4NSwyMDk1MzQ5NDE4LDE5MzI5OTU2ODksLTEx
+OTEyMDAwNzZdfQ==
 -->
