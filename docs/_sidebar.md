@@ -36,11 +36,11 @@
   
 - User Documentation(version.2)
   - [Admin Settings FLD](Admin Settings FLD.md)
-  - [View Content FLD](View Content FLD.md)
+  - [View Content FLD](Viewing Content FLD.md)
   - [Organize Content FLD](Organize Content FLD.md)
   - [Tag Structure FLD](Tag Structure FLD.md)
   - [Reports FLD](Reports FLD.md)
-  - [Calculated Column in detail FLD](Calculated Column in detail FLD.md)
+  - [Calculated Column in detail FLD](Calculated Column FLD.md)
   - [Visualisation Overview FLD](Visualisation Overview FLD.md)
   - [Visualisation Types and Settings FLD](Visualisation Types and Settings FLD.md)
   - [SQL Runner FLD](SQL Runner FLD.md)
