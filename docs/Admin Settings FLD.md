@@ -71,6 +71,8 @@ To create a group click on **Add Group**, and mention below details;
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3114f27feb369a1d0df91c6dd0e8dab965a0b6da/images/full_group.png)
 
+## Edit or Delete Group
+
 To Edit or Delete already existing group as per your business requirement, Go back to groups main screen ( Which display list of user existing )  and select **Edit** or **Delete** Icons.
 
 ## Global Parameters
@@ -210,7 +212,7 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Mzk4OTQ2MiwxNzE2NTM3MTYzLC0yMD
-MyNzkwOTAzLDUzNjIxNjgyMiwtMTIzMTg5Nzk2OCwtNTc5ODE0
-MzI5XX0=
+eyJoaXN0b3J5IjpbLTE2MTExMTQyNjksMTcxNjUzNzE2MywtMj
+AzMjc5MDkwMyw1MzYyMTY4MjIsLTEyMzE4OTc5NjgsLTU3OTgx
+NDMyOV19
 -->
