@@ -2,7 +2,7 @@
 
 <center><h1>Organize Content</h1></center>
 
-This Section Discuss how to move or copy contents to other locations. Using this you can organize Reports and Dashboard to specific tag Structure.
+This Section describes how to move or copy the contents from one location to another location. Using this you can organize Reports and Dashboard to specific tag Structure.
 
 Lets get into detail on this;
 
@@ -40,5 +40,5 @@ The circles icon display at far right of the screen shows what kind of privacy s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyMTE0NjUyXX0=
+eyJoaXN0b3J5IjpbMTg5MzY5OTA3Nl19
 -->
