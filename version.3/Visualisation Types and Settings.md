@@ -199,7 +199,7 @@ Table chart displays the data in series making it more feasible for comparing di
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b6e598ee67160c266bb9d4d30a423f520880bf63/images/table_chart.png)
 
-## Hide Pivot
+### Hide Pivot
 
 To hide the first or last column field values in Visualization, Select hide first or hide last check box in Data section.
 To carry out this function you need to derive a expression in calculated column.
@@ -382,6 +382,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzAxODg2OCwtMzg0Njg4ODQ2LC02ND
-k3MjIyMjJdfQ==
+eyJoaXN0b3J5IjpbLTEyNjg4MjcyNTMsLTM4NDY4ODg0NiwtNj
+Q5NzIyMjIyXX0=
 -->
