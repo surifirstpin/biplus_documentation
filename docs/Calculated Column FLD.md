@@ -364,7 +364,7 @@ bi._Fname(input_param1, input_param2,..input_paramN)
   bi.in_global_keys( ["Parameter_Column_Name "],["Reference string" ],"Global_parameter.field")
 ```
 
->**For Instance:**
+>**For Example:**
 ``` 
 bi.in_global_keys( ["Station_Name"],["Station_1" ],"Calc_ONRAW.value")
 ```
@@ -375,7 +375,7 @@ bi.in_global_keys( ["Station_Name"],["Station_1" ],"Calc_ONRAW.value")
   bi.in_global_keys( ["Parameter_Column_Name "],["database column" ],"Global_parameter.field")
 ```
 
->**For Instance:** 
+>**For Example:** 
 ```
 bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"Calc_ONRAW.value")
 ```
@@ -440,6 +440,6 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTk2NjI2MjYsLTE3MzY2MDk2NDQsLT
+eyJoaXN0b3J5IjpbLTE1Njg3NTkyNTIsLTE3MzY2MDk2NDQsLT
 MxMjI0MTU0OF19
 -->
