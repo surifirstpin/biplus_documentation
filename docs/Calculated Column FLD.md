@@ -56,7 +56,7 @@ After navigating to Calculated Column Window, Enter all the below fields.
 
 ## Mathematical operation 
 
-Custom made mathematical operations can be performed in calculated column section as shown in below Image;
+Custom made mathematical operations can be performed in calculated column section as shown below;
 
 
 **Example 1 :**
@@ -386,7 +386,7 @@ bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"
 bi.in_global_keys(["ParameterColumnName","ParameterUserID"],["DatabaseField","bi._globals("#userid#")"],"ParameterName.Field"])
 ```
 
->**For Instance:** 
+>**For Example:** 
 ```
 bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661} 
 ,bi._globals("#userid#")],"CalcCol_Stage2.SeizeLimit)
@@ -440,6 +440,6 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzY3NzEwNSwtMTczNjYwOTY0NCwtMz
-EyMjQxNTQ4XX0=
+eyJoaXN0b3J5IjpbLTEwNTk2NjI2MjYsLTE3MzY2MDk2NDQsLT
+MxMjI0MTU0OF19
 -->
