@@ -78,9 +78,9 @@ To get started with derived view, Click on List icon and Select Create Derived V
 
 - **Derived View Name** Enter Label for identification to the new derived view.
 
- - **Projects** Select the dialects using the drop down button.
+- **Projects** Select the dialects using the drop down button.
  
- - **Query** the query created in sql runner will be added here.
+- **Query** the query created in sql runner will be added here.
  
  -  **Field List** On selecting the dialects all the fields used in query are reflected here.
  Click on Create, to create the New Custom view. 
@@ -93,5 +93,5 @@ To view the newly created derived view. Goto Model section under the views list 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzAxOTQ3NF19
+eyJoaXN0b3J5IjpbLTQ0ODE0NjA5NiwxOTEzMDE5NDc0XX0=
 -->
