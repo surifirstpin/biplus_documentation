@@ -45,7 +45,7 @@ After navigating to Calculated Column Window, Enter all the below fields.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
 
-- Click **ok** after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image,
+- Click **Ok** after deriving an expression,  all the values based on calculation is shown up in green colour as shown in below image,
 
 
 ![
@@ -59,7 +59,7 @@ After navigating to Calculated Column Window, Enter all the below fields.
 Custom made mathematical operations can be performed in calculated column section as shown in below Image;
 
 
-** Example 1 :**
+**Example 1 :**
 
  To Calculate **Number of working days** in each month, use the following expression in calculation column window as shown in below ;
 
@@ -77,7 +77,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 | **Name**| **Description**  | **Usage and  Example**|
 |--|--|--|
 |Offset  |Return the row value of the column mentioned as before or after based on  -Ve or +Ve number given  | bi.offset(#{col_name}, row_difference) |
-|pivot_offset|Returns the cell value of pivot table based on the Row and Column position given respectively.Row number:  +Ve & -Ve are for below & above positions Column number : +Ve and -Ve are for after & before positions|bi.pivot_offset(#{col_name} ,m,n) for instance: m is row number & n is column number|
+|pivot_offset|Returns the cell value of pivot table based on the Row and Column position given respectively.Row number:  +Ve & -Ve are for below & above positions Column number : +Ve and -Ve are for after & before positions|bi.pivot_offset(#{col_name} ,m,n) for Example: m is row number & n is column number|
 |Contains|Returns true/ false after validating expression given inside|bi.contains(expression)|
 |row_total|Returns the total value in the row for the preceding measures (before the present column) |bi.row_total ( )|
 |col_total|Returns the total value of the column given inside ()|bi.column_total(#{col_name})|
@@ -440,6 +440,6 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDc5MjA4NiwtMTczNjYwOTY0NCwtMz
+eyJoaXN0b3J5IjpbMTIzNzY3NzEwNSwtMTczNjYwOTY0NCwtMz
 EyMjQxNTQ4XX0=
 -->
