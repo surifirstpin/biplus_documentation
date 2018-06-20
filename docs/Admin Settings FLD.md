@@ -2,7 +2,7 @@
 
  <center><h1>Admin Settings</h1></center>
 
-BiPlus Administrative settings allow many options to customize BiPlus for your Organisation.
+BiPlus Administrative settings allow you to customize BiPlus for your Organisation.
 The below Sections explains you clearly how to get started with administrative settings.
 
 ![
@@ -209,5 +209,5 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTcwMTUyNl19
+eyJoaXN0b3J5IjpbLTI4OTU1OTUzNl19
 -->
