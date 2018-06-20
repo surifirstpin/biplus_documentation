@@ -364,7 +364,7 @@ bi._Fname(input_param1, input_param2,..input_paramN)
   bi.in_global_keys( ["Parameter_Column_Name "],["Reference string" ],"Global_parameter.field")
 ```
 
->**For Instance:**
+>**For Example:**
 ``` 
 bi.in_global_keys( ["Station_Name"],["Station_1" ],"Calc_ONRAW.value")
 ```
@@ -375,7 +375,7 @@ bi.in_global_keys( ["Station_Name"],["Station_1" ],"Calc_ONRAW.value")
   bi.in_global_keys( ["Parameter_Column_Name "],["database column" ],"Global_parameter.field")
 ```
 
->**For Instance:** 
+>**For Example:** 
 ```
 bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"Calc_ONRAW.value")
 ```
@@ -386,7 +386,7 @@ bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"
 bi.in_global_keys(["ParameterColumnName","ParameterUserID"],["DatabaseField","bi._globals("#userid#")"],"ParameterName.Field"])
 ```
 
->**For E:** 
+>**For Example:** 
 ```
 bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661} 
 ,bi._globals("#userid#")],"CalcCol_Stage2.SeizeLimit)
@@ -440,6 +440,6 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjQ5NzA4NSwtMTczNjYwOTY0NCwtMz
-EyMjQxNTQ4XX0=
+eyJoaXN0b3J5IjpbLTE1Njg3NTkyNTIsLTE3MzY2MDk2NDQsLT
+MxMjI0MTU0OF19
 -->
