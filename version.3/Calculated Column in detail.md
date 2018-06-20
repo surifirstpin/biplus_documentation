@@ -61,7 +61,7 @@ Custom made mathematical operations can be performed in calculated column sectio
 
 ** Example 1 :**
 
- To Calculate **Number of working days** in each month, use the following expression in calculation column window as shown in below image; 
+ To Calculate **Number of working days** in each month, use the following expression in calculation column window as shown in below ;
 
 ```
 bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE}) 
@@ -71,7 +71,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 ](https://raw.githubusercontent.com/sv18042016/fp1/e7895f0d4e17c8c8cbdccd25330829252949ae5b/images/cal_example.png)
 
 
-**BiPlus supports following functionalities in calculated column:**
+**BiPlus supports following functionalities in calculated column :**
 
 ### General
 | **Name**| **Description**  | **Usage and  Example**|
@@ -292,7 +292,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 
 Perform Arithmetic operation on desired fields in calculated columns.
 
-> **For Instance:**
+ **For Example:**
  To add an amount 2000 to the column field **order value sum**, derive the following expression in calculated column screen.
  ```
 bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE},2000)
@@ -440,6 +440,6 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQ0MzY1NzgsLTE3MzY2MDk2NDQsLT
-MxMjI0MTU0OF19
+eyJoaXN0b3J5IjpbMTUzNDc5MjA4NiwtMTczNjYwOTY0NCwtMz
+EyMjQxNTQ4XX0=
 -->
