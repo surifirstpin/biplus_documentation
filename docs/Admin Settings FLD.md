@@ -13,7 +13,7 @@ Here is how to get started with administrative settings and its features.
 
 Steps to follow;
 
-**1.** Click on **Profile** from left side section to view the user profile. 
+**1.** To view the existing user profile, Click o 
 
 **2.** To change the password Click on **Forgot Password** on left side.
 
@@ -210,5 +210,5 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTgxNDMyOV19
+eyJoaXN0b3J5IjpbMTgyODY3NzE2NCwtNTc5ODE0MzI5XX0=
 -->
