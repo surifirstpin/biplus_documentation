@@ -47,6 +47,8 @@ Steps to follow;
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cdd2483566966ccdd9bf8fdb0404076c90a7fc09/images/full_userd.png)
 
+## Edit or Delete User
+
 To Edit or Delete already existing user as per your business requirement, Go back to Users main screen ( Which display list of user existing )  and select **Edit** or **Delete** Icons.
 
 ![
@@ -208,9 +210,9 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzU1MzEzOCw1MzYyMTY4MjIsLTEyMz
-E4OTc5NjgsLTU3OTgxNDMyOSwxNjUxNzAxNTI2LC0xOTA4NDY2
-MjA1LC0xMDU0NDA0NTM2LC0xMDM4MzUzODQzLDM1ODg4MzA3My
-w2ODM5NDk4NzEsMjA1MjEwNzY3LDY2ODMyMzU1MCwtMTA5NzQ5
-MjkyOSwtMzA0MTY0ODldfQ==
+eyJoaXN0b3J5IjpbLTE3NzYwMTczNTksNTM2MjE2ODIyLC0xMj
+MxODk3OTY4LC01Nzk4MTQzMjksMTY1MTcwMTUyNiwtMTkwODQ2
+NjIwNSwtMTA1NDQwNDUzNiwtMTAzODM1Mzg0MywzNTg4ODMwNz
+MsNjgzOTQ5ODcxLDIwNTIxMDc2Nyw2NjgzMjM1NTAsLTEwOTc0
+OTI5MjksLTMwNDE2NDg5XX0=
 -->
