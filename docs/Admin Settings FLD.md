@@ -13,9 +13,9 @@ Here is how to get started with administrative settings and its features.
 
 Steps to follow;
 
-**1.** To view the existing user profile, Click o 
+**1.** To view the existing user profile, Click on Profile section available on left hand side. 
 
-**2.** To change the password Click on **Forgot Password** on left side.
+**2.** To change the password Click on **Forgot Password** on left hand side.
 
 **3.** To create the user click on **Users** and Click **Add user** on top right of the screen. 
 
@@ -210,5 +210,5 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyODY3NzE2NCwtNTc5ODE0MzI5XX0=
+eyJoaXN0b3J5IjpbLTEyMzE4OTc5NjgsLTU3OTgxNDMyOV19
 -->
