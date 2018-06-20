@@ -40,7 +40,7 @@ Steps to follow;
 |**User**|view reports and can edit them if provided access to the specific model|
 |**Manager**|view reports and edit them if provided access to the specific model|
 
-- **Enabled** on selecting enabled check box the user login is accessed or it will be disabled for login.
+- **Enabled** on selecting enabled check box this specific user login is accessed or it will be disabled for login.
 
 - Click on **Save** button to save user.
 
@@ -208,6 +208,6 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjkwMzQxMyw1MzYyMTY4MjIsLTEyMz
+eyJoaXN0b3J5IjpbLTM4NzU1MzEzOCw1MzYyMTY4MjIsLTEyMz
 E4OTc5NjgsLTU3OTgxNDMyOV19
 -->
