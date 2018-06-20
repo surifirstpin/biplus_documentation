@@ -106,7 +106,7 @@ To get started with derived view, Click on **List icon** and Select **Create Der
  
  - **Query** the query created in sql runner will be added here.
  
-  -  **Field List** On selecting the dialects all the fields used in query are reflected here.
+ -  **Field List** On selecting the dialects all the fields used in query are reflected here.
 
  **Click on Create, to create the New Custom view.** 
  
@@ -131,6 +131,6 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY2NTUyMzYsLTE4NTI2NzEyNjhdfQ
-==
+eyJoaXN0b3J5IjpbLTY4NjUyNzE1MiwtMTgwNjY1NTIzNiwtMT
+g1MjY3MTI2OF19
 -->
