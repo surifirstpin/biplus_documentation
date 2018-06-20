@@ -56,12 +56,12 @@ After navigating to Calculated Column Window, Enter all the below fields.
 
 ## Mathematical operation 
 
-Custom made mathematical operations can be added in calculated column section as shown in below Image;
+Custom made mathematical operations can be performed in calculated column section as shown in below Image;
 
 
 ** Example 1 :**
 
- To Calculate **Number of working days** in each month, use the below expression in calculation field window as shown in below image; 
+ To Calculate **Number of working days** in each month, use the following expression in calculation column window as shown in below image; 
 
 ```
 bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE}) 
@@ -440,5 +440,6 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzY2MDk2NDQsLTMxMjI0MTU0OF19
+eyJoaXN0b3J5IjpbLTE2MTQ0MzY1NzgsLTE3MzY2MDk2NDQsLT
+MxMjI0MTU0OF19
 -->
