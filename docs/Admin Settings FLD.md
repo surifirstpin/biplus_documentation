@@ -56,7 +56,7 @@ To Edit or Delete already existing user as per your business requirement, Go bac
 
 ## Groups
 
- Providing access to particular content in database, for set of people in the the organisation, we need to create group with all the users falling under that particular group.
+ For providing access to particular content in database, for set of people in the the organisation, we need to create group with all the users falling under that particular group.
 
 Here are the steps on how to do this;
 
@@ -214,7 +214,7 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4MTg1NjkzLC0xOTQwMTM5Njk0LC0xNj
-ExMTE0MjY5LDE3MTY1MzcxNjMsLTIwMzI3OTA5MDMsNTM2MjE2
-ODIyLC0xMjMxODk3OTY4LC01Nzk4MTQzMjldfQ==
+eyJoaXN0b3J5IjpbMTY0MzE0Njg4NiwtMTk0MDEzOTY5NCwtMT
+YxMTExNDI2OSwxNzE2NTM3MTYzLC0yMDMyNzkwOTAzLDUzNjIx
+NjgyMiwtMTIzMTg5Nzk2OCwtNTc5ODE0MzI5XX0=
 -->
