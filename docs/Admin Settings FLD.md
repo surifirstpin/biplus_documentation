@@ -190,7 +190,7 @@ function _Addition(param1,param2)
 }
 /*END*/
 ```
- **Note** : Returns value 3, if we provide 1 and 2 in **Test** as shown in below image.
+ **Note** : Provide 1 and 2 in **Test** section, it results **3** as shown in below image.
 
 **2.** Click on **Test** Button  to run the function.
 
@@ -208,9 +208,9 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2Mzc1MzczMywtMTQzMjQ0MzMyMywyMD
-Y5NTc2NDYsMTk5NzY5MDkwOCwtMTQwNTg5NDgyNSwxNDMxNTYw
-NTY0LDE2NDMxNDY4ODYsLTE5NDAxMzk2OTQsLTE2MTExMTQyNj
-ksMTcxNjUzNzE2MywtMjAzMjc5MDkwMyw1MzYyMTY4MjIsLTEy
-MzE4OTc5NjgsLTU3OTgxNDMyOV19
+eyJoaXN0b3J5IjpbMzk4MzEzNDk2LC0xNDMyNDQzMzIzLDIwNj
+k1NzY0NiwxOTk3NjkwOTA4LC0xNDA1ODk0ODI1LDE0MzE1NjA1
+NjQsMTY0MzE0Njg4NiwtMTk0MDEzOTY5NCwtMTYxMTExNDI2OS
+wxNzE2NTM3MTYzLC0yMDMyNzkwOTAzLDUzNjIxNjgyMiwtMTIz
+MTg5Nzk2OCwtNTc5ODE0MzI5XX0=
 -->
