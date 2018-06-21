@@ -199,18 +199,18 @@ function _Addition(param1,param2)
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/2c15dfa03d8ed5eed5cdffdc1335c22ce759300c/images/global_functions.png)
 
-Global functions supports all the native java script supported functions and also refer other global functions using  **bi.function_name** ( param1, param2,....,paramN).
+Global functions supports all the native java script supported functions and also refer other global functions using  **bi.function_name** ( param1, param2, ...., paramN).
 
 **4.**  Enable edit key to **Edit** the function as per your requirements.
 
-**5.** Click on delete button to **Delete** the function.
+**5.** Click  delete button to **Delete** the function.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4MzEzNDk2LC0xNDMyNDQzMzIzLDIwNj
-k1NzY0NiwxOTk3NjkwOTA4LC0xNDA1ODk0ODI1LDE0MzE1NjA1
-NjQsMTY0MzE0Njg4NiwtMTk0MDEzOTY5NCwtMTYxMTExNDI2OS
-wxNzE2NTM3MTYzLC0yMDMyNzkwOTAzLDUzNjIxNjgyMiwtMTIz
-MTg5Nzk2OCwtNTc5ODE0MzI5XX0=
+eyJoaXN0b3J5IjpbLTIwOTM1ODE0MjMsMzk4MzEzNDk2LC0xND
+MyNDQzMzIzLDIwNjk1NzY0NiwxOTk3NjkwOTA4LC0xNDA1ODk0
+ODI1LDE0MzE1NjA1NjQsMTY0MzE0Njg4NiwtMTk0MDEzOTY5NC
+wtMTYxMTExNDI2OSwxNzE2NTM3MTYzLC0yMDMyNzkwOTAzLDUz
+NjIxNjgyMiwtMTIzMTg5Nzk2OCwtNTc5ODE0MzI5XX0=
 -->
