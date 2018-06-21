@@ -10,8 +10,7 @@ There are two ways you can work on organizing data,
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/93fab44572b6a9c124a7c80f1ec840cd0488f319/images/organise_full.png)
 
-
- - **Second,** editing and managing the access level this allows users to make changes to the content such as;
+ - **Second,** editing and managing access level, allows users to make changes to the content such as;
 
    - Editing Reports and Dashboards.
    -  Specifying which users and groups as  authority to access the data.
@@ -26,7 +25,7 @@ Now Let us see how to do this,
 
 ## Managing Access
 
-The circles icon on far right of the screen displays type of privacy setting ( Pu is enabled to the dashboard or report.
+The circles icon on far right of the screen displays type of privacy setting ( Public, Private or Share) is enabled to the dashboard or report.
 
  -   **Green** colour indicates dashboard or report is saved under public section.
  -   **Red** colour indicates dashboard or reports is saved under shared section.
@@ -37,6 +36,6 @@ The circles icon on far right of the screen displays type of privacy setting ( P
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTk2NTY5NCw4MTg1MDU4NCwxODkzNj
-k5MDc2XX0=
+eyJoaXN0b3J5IjpbLTE1NjQzMjc1MDcsODE4NTA1ODQsMTg5Mz
+Y5OTA3Nl19
 -->
