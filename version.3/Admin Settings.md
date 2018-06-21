@@ -80,13 +80,13 @@ To Edit or Delete already existing group as per your business requirement, Go ba
 
 BiPlus allows you to provide additional key values to manipulate the data in calculations column, control data etc. 
 
- **It can be used in the following ways:**
- 
+ **Existing Features of Global Parameters;**
 - Control data access based on login.
 - Provide access to predefined list of filter values based on login.
 - Manipulate data with external parameter based on a common reference.
 - View and manipulate data based on login.
 - Use global parameters in calculated column to perform mathematical calculations on existing data.
+
 
 To create a global parameters Click **Global Parameters**, and Click on **Add Key**.
 
@@ -213,7 +213,7 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzc2MDE4OCwxNDMxNTYwNTY0LDE2ND
+eyJoaXN0b3J5IjpbMTU2MDU3ODEyNywxNDMxNTYwNTY0LDE2ND
 MxNDY4ODYsLTE5NDAxMzk2OTQsLTE2MTExMTQyNjksMTcxNjUz
 NzE2MywtMjAzMjc5MDkwMyw1MzYyMTY4MjIsLTEyMzE4OTc5Nj
 gsLTU3OTgxNDMyOSwxNjUxNzAxNTI2LC0xOTA4NDY2MjA1LC0x
