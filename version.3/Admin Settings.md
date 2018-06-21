@@ -56,7 +56,7 @@ To Edit or Delete already existing user as per your business requirement, Go bac
 
 ## Groups
 
-To provide access to particular content with set of people in the the organisation, you need to create group.
+To provide access to any content for set of people in the the organisation, we need to create group with .
 
 To create a group click on **Add Group**, and mention below details;
 
@@ -212,10 +212,10 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzEzMTU5MzMsLTE2MTExMTQyNjksMT
-cxNjUzNzE2MywtMjAzMjc5MDkwMyw1MzYyMTY4MjIsLTEyMzE4
-OTc5NjgsLTU3OTgxNDMyOSwxNjUxNzAxNTI2LC0xOTA4NDY2Mj
-A1LC0xMDU0NDA0NTM2LC0xMDM4MzUzODQzLDM1ODg4MzA3Myw2
-ODM5NDk4NzEsMjA1MjEwNzY3LDY2ODMyMzU1MCwtMTA5NzQ5Mj
-kyOSwtMzA0MTY0ODldfQ==
+eyJoaXN0b3J5IjpbNzg5NzgyMTk0LC0xNjExMTE0MjY5LDE3MT
+Y1MzcxNjMsLTIwMzI3OTA5MDMsNTM2MjE2ODIyLC0xMjMxODk3
+OTY4LC01Nzk4MTQzMjksMTY1MTcwMTUyNiwtMTkwODQ2NjIwNS
+wtMTA1NDQwNDUzNiwtMTAzODM1Mzg0MywzNTg4ODMwNzMsNjgz
+OTQ5ODcxLDIwNTIxMDc2Nyw2NjgzMjM1NTAsLTEwOTc0OTI5Mj
+ksLTMwNDE2NDg5XX0=
 -->
