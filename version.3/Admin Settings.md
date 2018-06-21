@@ -150,7 +150,7 @@ If **check case** is enabled, global parameters become case sensitive for key ma
 
 ## Global Functions
 
-A common set of statements or operations can be defined globally as a function and it can be retrieved and used in any project. One global function shall be referred from another global function, But it should not be in circular reference.  
+A common set of statements or operations can be defined globally as a function. it can be retrieved and used in any project. One global function shall be referred from another global function, But it should not be in circular reference.  
 
 All the users have privilege to access global functions in calculated column, but admin and developer has an ability to create, edit and delete a global function.
 
@@ -208,11 +208,11 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTU3NjQ2LDE5OTc2OTA5MDgsLTE0MD
-U4OTQ4MjUsMTQzMTU2MDU2NCwxNjQzMTQ2ODg2LC0xOTQwMTM5
-Njk0LC0xNjExMTE0MjY5LDE3MTY1MzcxNjMsLTIwMzI3OTA5MD
-MsNTM2MjE2ODIyLC0xMjMxODk3OTY4LC01Nzk4MTQzMjksMTY1
-MTcwMTUyNiwtMTkwODQ2NjIwNSwtMTA1NDQwNDUzNiwtMTAzOD
-M1Mzg0MywzNTg4ODMwNzMsNjgzOTQ5ODcxLDIwNTIxMDc2Nyw2
-NjgzMjM1NTBdfQ==
+eyJoaXN0b3J5IjpbLTY5MzM3MDQ5NSwyMDY5NTc2NDYsMTk5Nz
+Y5MDkwOCwtMTQwNTg5NDgyNSwxNDMxNTYwNTY0LDE2NDMxNDY4
+ODYsLTE5NDAxMzk2OTQsLTE2MTExMTQyNjksMTcxNjUzNzE2My
+wtMjAzMjc5MDkwMyw1MzYyMTY4MjIsLTEyMzE4OTc5NjgsLTU3
+OTgxNDMyOSwxNjUxNzAxNTI2LC0xOTA4NDY2MjA1LC0xMDU0ND
+A0NTM2LC0xMDM4MzUzODQzLDM1ODg4MzA3Myw2ODM5NDk4NzEs
+MjA1MjEwNzY3XX0=
 -->
