@@ -2,11 +2,9 @@
 
 <center><h1>Organize Content</h1></center>
 
-This Section describes how to move or copy the contents from one location to another location. Using this you can organize Reports and Dashboard to specific tag Structure.
-
-Lets get into detail on this;
-
-There are two ways you can work on organising data 
+This Section describes how to move or copy the contents from one location to another location. Using this you can organize Reports and Dashboard in specific tag Structure.
+There are two ways you can work on organizing data,
+ 
  - **First,** Viewing the content and organizing reports and dashboards  available under **workspace** to selected tag structure using drag and drop mechanism.
 
 ![
@@ -40,5 +38,5 @@ The circles icon display at far right of the screen shows what kind of privacy s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzY5OTA3Nl19
+eyJoaXN0b3J5IjpbLTkxODU4MTk0NiwxODkzNjk5MDc2XX0=
 -->
