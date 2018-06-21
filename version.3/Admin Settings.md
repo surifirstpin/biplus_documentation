@@ -154,7 +154,7 @@ A common set of statements or operations can be defined globally as a function. 
 
 All the users have privilege to access global functions in calculated column, but admin and developer has an ability to create, edit and delete a global function.
 
-To Create a global Function Click on **Global function** section available.
+To create a global function Click on **Global function** section available.
 
 **1.**  Click on **Add-Functions** to create a new custom global function.
 
@@ -208,11 +208,11 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI0NDMzMjMsMjA2OTU3NjQ2LDE5OT
-c2OTA5MDgsLTE0MDU4OTQ4MjUsMTQzMTU2MDU2NCwxNjQzMTQ2
-ODg2LC0xOTQwMTM5Njk0LC0xNjExMTE0MjY5LDE3MTY1MzcxNj
-MsLTIwMzI3OTA5MDMsNTM2MjE2ODIyLC0xMjMxODk3OTY4LC01
-Nzk4MTQzMjksMTY1MTcwMTUyNiwtMTkwODQ2NjIwNSwtMTA1ND
-QwNDUzNiwtMTAzODM1Mzg0MywzNTg4ODMwNzMsNjgzOTQ5ODcx
-LDIwNTIxMDc2N119
+eyJoaXN0b3J5IjpbMTY2Mzc1MzczMywtMTQzMjQ0MzMyMywyMD
+Y5NTc2NDYsMTk5NzY5MDkwOCwtMTQwNTg5NDgyNSwxNDMxNTYw
+NTY0LDE2NDMxNDY4ODYsLTE5NDAxMzk2OTQsLTE2MTExMTQyNj
+ksMTcxNjUzNzE2MywtMjAzMjc5MDkwMyw1MzYyMTY4MjIsLTEy
+MzE4OTc5NjgsLTU3OTgxNDMyOSwxNjUxNzAxNTI2LC0xOTA4ND
+Y2MjA1LC0xMDU0NDA0NTM2LC0xMDM4MzUzODQzLDM1ODg4MzA3
+Myw2ODM5NDk4NzFdfQ==
 -->
