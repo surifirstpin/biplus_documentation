@@ -74,11 +74,11 @@ To create a group click on **Add Group**, and mention below details;
 
 ## Edit or Delete Group
 
-To Edit or Delete already existing group as per your business requirement, Go back to groups main screen ( Which display list of groups existing )  and select **Edit** icon to make chanor **Delete** Icons.
+To Edit or Delete already existing group as per your business requirement, Go back to groups main screen (Which display list of groups existing)  and select **Edit** icon to make changes to already existing group or click **Delete** to permanently delete the group from database.
 
 ## Global Parameters
 
-BiPlus allows you to provide additional key values to manipulate the data in calculations column,control data etc. 
+BiPlus allows you to provide additional key values to manipulate the data in calculations column, control data etc. 
 
  **It can be used in the following ways:**
  
@@ -213,11 +213,11 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE3ODgwLDE0MzE1NjA1NjQsMTY0Mz
-E0Njg4NiwtMTk0MDEzOTY5NCwtMTYxMTExNDI2OSwxNzE2NTM3
-MTYzLC0yMDMyNzkwOTAzLDUzNjIxNjgyMiwtMTIzMTg5Nzk2OC
-wtNTc5ODE0MzI5LDE2NTE3MDE1MjYsLTE5MDg0NjYyMDUsLTEw
-NTQ0MDQ1MzYsLTEwMzgzNTM4NDMsMzU4ODgzMDczLDY4Mzk0OT
-g3MSwyMDUyMTA3NjcsNjY4MzIzNTUwLC0xMDk3NDkyOTI5LC0z
-MDQxNjQ4OV19
+eyJoaXN0b3J5IjpbLTMxMzc2MDE4OCwxNDMxNTYwNTY0LDE2ND
+MxNDY4ODYsLTE5NDAxMzk2OTQsLTE2MTExMTQyNjksMTcxNjUz
+NzE2MywtMjAzMjc5MDkwMyw1MzYyMTY4MjIsLTEyMzE4OTc5Nj
+gsLTU3OTgxNDMyOSwxNjUxNzAxNTI2LC0xOTA4NDY2MjA1LC0x
+MDU0NDA0NTM2LC0xMDM4MzUzODQzLDM1ODg4MzA3Myw2ODM5ND
+k4NzEsMjA1MjEwNzY3LDY2ODMyMzU1MCwtMTA5NzQ5MjkyOSwt
+MzA0MTY0ODldfQ==
 -->
