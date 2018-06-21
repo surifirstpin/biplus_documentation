@@ -144,7 +144,6 @@ If **check case** is enabled, global parameters become case sensitive for key ma
 
 - To edit global parameters click on **Edit** button.
 
-- 
 - To delete global parameter click on **Delete** Button.
 
 ![
@@ -210,8 +209,8 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU4OTQ4MjUsMTQzMTU2MDU2NCwxNj
-QzMTQ2ODg2LC0xOTQwMTM5Njk0LC0xNjExMTE0MjY5LDE3MTY1
-MzcxNjMsLTIwMzI3OTA5MDMsNTM2MjE2ODIyLC0xMjMxODk3OT
-Y4LC01Nzk4MTQzMjldfQ==
+eyJoaXN0b3J5IjpbMTk5NzY5MDkwOCwtMTQwNTg5NDgyNSwxND
+MxNTYwNTY0LDE2NDMxNDY4ODYsLTE5NDAxMzk2OTQsLTE2MTEx
+MTQyNjksMTcxNjUzNzE2MywtMjAzMjc5MDkwMyw1MzYyMTY4Mj
+IsLTEyMzE4OTc5NjgsLTU3OTgxNDMyOV19
 -->
