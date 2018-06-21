@@ -10,7 +10,7 @@ There are two ways you can work on organizing data,
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/93fab44572b6a9c124a7c80f1ec840cd0488f319/images/organise_full.png)
 
- - **Second,** editing and managing access level, allows users to make changes to the content such as;
+ - **Second,** editing and managing access level, allows users to make necessary changes to the content such as;
 
    - Editing Reports and Dashboards.
    -  Specifying which users and groups as  authority to access the data.
@@ -36,8 +36,8 @@ The circles icon on far right of the screen displays type of privacy setting ( P
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQzMjc1MDcsODE4NTA1ODQsMTg5Mz
-Y5OTA3Niw3NDIxMTQ2NTIsMTEyNzE4MTkzOCwtNDc5NzM4MjQz
-LC0xMTU4MjkyMDEzLC0zMjc2MzYzMTUsNTUyNzU3NjM0LDIwOD
-Q2Mzg5MjAsMTExNzUxOTc5MF19
+eyJoaXN0b3J5IjpbMTg0NzI0NzMyNCw4MTg1MDU4NCwxODkzNj
+k5MDc2LDc0MjExNDY1MiwxMTI3MTgxOTM4LC00Nzk3MzgyNDMs
+LTExNTgyOTIwMTMsLTMyNzYzNjMxNSw1NTI3NTc2MzQsMjA4ND
+YzODkyMCwxMTE3NTE5NzkwXX0=
 -->
