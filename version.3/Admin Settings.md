@@ -58,7 +58,7 @@ To Edit or Delete already existing user as per your business requirement, Go bac
 
  For providing access to particular content in database, for set of people in the the organisation, we need to create group with all the users falling under that particular group.
 
-Here are the steps on how to do this;
+Here are the steps to follow;
 To create a group click on **Add Group**, and mention below details;
 
 **Enter the below information :**
@@ -74,7 +74,7 @@ To create a group click on **Add Group**, and mention below details;
 
 ## Edit or Delete Group
 
-To Edit or Delete already existing group as per your business requirement, Go back to groups main screen ( Which display list of user existing )  and select **Edit** or **Delete** Icons.
+To Edit or Delete already existing group as per your business requirement, Go back to groups main screen ( Which display list of groups existing )  and select **Edit** icon to make chanor **Delete** Icons.
 
 ## Global Parameters
 
@@ -213,11 +213,11 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTU2MDU2NCwxNjQzMTQ2ODg2LC0xOT
-QwMTM5Njk0LC0xNjExMTE0MjY5LDE3MTY1MzcxNjMsLTIwMzI3
-OTA5MDMsNTM2MjE2ODIyLC0xMjMxODk3OTY4LC01Nzk4MTQzMj
-ksMTY1MTcwMTUyNiwtMTkwODQ2NjIwNSwtMTA1NDQwNDUzNiwt
-MTAzODM1Mzg0MywzNTg4ODMwNzMsNjgzOTQ5ODcxLDIwNTIxMD
-c2Nyw2NjgzMjM1NTAsLTEwOTc0OTI5MjksLTMwNDE2NDg5XX0=
-
+eyJoaXN0b3J5IjpbLTE5NDE3ODgwLDE0MzE1NjA1NjQsMTY0Mz
+E0Njg4NiwtMTk0MDEzOTY5NCwtMTYxMTExNDI2OSwxNzE2NTM3
+MTYzLC0yMDMyNzkwOTAzLDUzNjIxNjgyMiwtMTIzMTg5Nzk2OC
+wtNTc5ODE0MzI5LDE2NTE3MDE1MjYsLTE5MDg0NjYyMDUsLTEw
+NTQ0MDQ1MzYsLTEwMzgzNTM4NDMsMzU4ODgzMDczLDY4Mzk0OT
+g3MSwyMDUyMTA3NjcsNjY4MzIzNTUwLC0xMDk3NDkyOTI5LC0z
+MDQxNjQ4OV19
 -->
