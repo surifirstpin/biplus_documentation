@@ -19,7 +19,6 @@ There are two ways you can work on organizing data,
     - Set Home page display
 
 Now Let us see how to do this,
-
 - To set dashboard on Home page Click on **Set Home page** Icon.
 - To edit the dashboard or report Click on  **Edit**  icon.
 
@@ -38,5 +37,5 @@ The circles icon display at far right of the screen shows what kind of privacy s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODU4MTk0NiwxODkzNjk5MDc2XX0=
+eyJoaXN0b3J5IjpbLTEzNzUzMDE0ODAsMTg5MzY5OTA3Nl19
 -->
