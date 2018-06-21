@@ -49,7 +49,7 @@ Steps to follow;
 
 ## Edit or Delete User
 
-To Edit or Delete already existing user as per your business requirement, Go back to Users main screen ( Which display list of user existing )  and select **Edit** or **Delete** Icons.
+To Edit or Delete already existing user as per your business requirement, Go back to Users main screen ( Which display list of user existing )  and select **Edit** to make any changes or **Delete** Icons.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1f49ce0c89ffb5873eef9fcb340937f15e101560/images/full_edit_user.png)
@@ -212,7 +212,7 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTExMTQyNjksMTcxNjUzNzE2MywtMj
-AzMjc5MDkwMyw1MzYyMTY4MjIsLTEyMzE4OTc5NjgsLTU3OTgx
-NDMyOV19
+eyJoaXN0b3J5IjpbODI0NDk4ODksLTE2MTExMTQyNjksMTcxNj
+UzNzE2MywtMjAzMjc5MDkwMyw1MzYyMTY4MjIsLTEyMzE4OTc5
+NjgsLTU3OTgxNDMyOV19
 -->
