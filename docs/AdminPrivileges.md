@@ -81,10 +81,11 @@ To reset password, Click on **forget password** button.
 - **Re-enter New password** re-enter the new password.
 - Click on **Update** button to save changes.
 
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODMzMjIxOCwtNjMxOTc1NTM3LC0xOT
-g2MzMxMDY4LDg2NzM1MDA0MCwxNjYyNzYwMzIwLC0xNzgwNzM4
-OTIyLDE3MDE3MDQzODksMTY5ODU1MTI2Niw0NjU3NjY4MTYsLT
-k3NDY2MDE4N119
+eyJoaXN0b3J5IjpbLTE4ODgxNjI3ODQsLTYzMTk3NTUzNywtMT
+k4NjMzMTA2OCw4NjczNTAwNDAsMTY2Mjc2MDMyMCwtMTc4MDcz
+ODkyMiwxNzAxNzA0Mzg5LDE2OTg1NTEyNjYsNDY1NzY2ODE2LC
+05NzQ2NjAxODddfQ==
 -->
