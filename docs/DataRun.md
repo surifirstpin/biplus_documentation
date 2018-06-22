@@ -207,7 +207,6 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ec488bd0bf7e068232945138e9ea20c018d013fa/images/pivot1.png)
 
-
 ## Pin or Remove Pin
 
 To freeze the column field values while scrolling the data to right or left, click on **Pin** in field drop down provided and to release the same click on **Remove Pin.**
@@ -368,11 +367,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0NTYyNTk0LDM4MjkwNDExNiwtMTg4Mj
-UyMzc3MCwtNzQ1NTk0Njk1LDE5NDUzMjgwMjMsNjg1Njc1ODE3
-LDgxODg2NjU2NywyNDkzMDk1MDEsLTQ1MjE0OTQ0OCwtNjM4Mz
-QzODQwLDIwODc1OTEzMTEsMTAzMjMzODIyNSwxNTk4ODIwNjc4
-LDEzNTAxMjYwNzksMjIyNTAxMTU1LC0zNzI1MDA2MTksLTE5Mj
-k1Njc0MDMsMTc4MTk1MzAwMywyMTkxMjIzNDAsLTUxNDk4ODk4
-Ml19
+eyJoaXN0b3J5IjpbLTUzNjEyMTEwMCwzMjQ1NjI1OTQsMzgyOT
+A0MTE2LC0xODgyNTIzNzcwLC03NDU1OTQ2OTUsMTk0NTMyODAy
+Myw2ODU2NzU4MTcsODE4ODY2NTY3LDI0OTMwOTUwMSwtNDUyMT
+Q5NDQ4LC02MzgzNDM4NDAsMjA4NzU5MTMxMSwxMDMyMzM4MjI1
+LDE1OTg4MjA2NzgsMTM1MDEyNjA3OSwyMjI1MDExNTUsLTM3Mj
+UwMDYxOSwtMTkyOTU2NzQwMywxNzgxOTUzMDAzLDIxOTEyMjM0
+MF19
 -->
