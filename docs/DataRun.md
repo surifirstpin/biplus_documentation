@@ -99,7 +99,6 @@ Following are the different types of filters characteristics applicable ;
 
 **4.**  Click on **Filter** to apply the filters and extract the data based on filter applied.
 
-
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/451979e37dcbf9fc459308e68773450b4452ed0f/images/filter_analysis.png)
 
@@ -369,11 +368,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyOTA0MTE2LC0xODgyNTIzNzcwLC03ND
-U1OTQ2OTUsMTk0NTMyODAyMyw2ODU2NzU4MTcsODE4ODY2NTY3
-LDI0OTMwOTUwMSwtNDUyMTQ5NDQ4LC02MzgzNDM4NDAsMjA4Nz
-U5MTMxMSwxMDMyMzM4MjI1LDE1OTg4MjA2NzgsMTM1MDEyNjA3
-OSwyMjI1MDExNTUsLTM3MjUwMDYxOSwtMTkyOTU2NzQwMywxNz
-gxOTUzMDAzLDIxOTEyMjM0MCwtNTE0OTg4OTgyLC0yNzI1MzA1
-OV19
+eyJoaXN0b3J5IjpbMzI0NTYyNTk0LDM4MjkwNDExNiwtMTg4Mj
+UyMzc3MCwtNzQ1NTk0Njk1LDE5NDUzMjgwMjMsNjg1Njc1ODE3
+LDgxODg2NjU2NywyNDkzMDk1MDEsLTQ1MjE0OTQ0OCwtNjM4Mz
+QzODQwLDIwODc1OTEzMTEsMTAzMjMzODIyNSwxNTk4ODIwNjc4
+LDEzNTAxMjYwNzksMjIyNTAxMTU1LC0zNzI1MDA2MTksLTE5Mj
+k1Njc0MDMsMTc4MTk1MzAwMywyMTkxMjIzNDAsLTUxNDk4ODk4
+Ml19
 -->
