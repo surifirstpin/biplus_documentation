@@ -182,7 +182,7 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 
 ## Hide data in pivot 
 
-To hide pivoted data in report, ch
+To hide pivoted data in report, choose pivot hide first ( 1st column data in list) or choose pivot hide last( last column data in a list)
 
 
 ## Pin or Remove Pin
@@ -313,5 +313,5 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjI0NDQ2LC0xNTA0OTgyNTQ1XX0=
+eyJoaXN0b3J5IjpbODUzMzQzNDExLC0xNTA0OTgyNTQ1XX0=
 -->
