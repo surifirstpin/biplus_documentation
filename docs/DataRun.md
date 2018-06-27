@@ -207,6 +207,11 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ec488bd0bf7e068232945138e9ea20c018d013fa/images/pivot1.png)
 
+## Hide data in pivot 
+
+To hide pivoted data in report, choose pivot hide first ( 1st column data in list) or choose pivot hide last( last column data in a list) in data section under datasets.
+
+
 ## Pin or Remove Pin
 
 To freeze the column field values while scrolling the data to right or left, click on **Pin** in field drop down provided and to release the same click on **Remove Pin.**
@@ -367,11 +372,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjEyMTEwMCwzMjQ1NjI1OTQsMzgyOT
-A0MTE2LC0xODgyNTIzNzcwLC03NDU1OTQ2OTUsMTk0NTMyODAy
-Myw2ODU2NzU4MTcsODE4ODY2NTY3LDI0OTMwOTUwMSwtNDUyMT
-Q5NDQ4LC02MzgzNDM4NDAsMjA4NzU5MTMxMSwxMDMyMzM4MjI1
-LDE1OTg4MjA2NzgsMTM1MDEyNjA3OSwyMjI1MDExNTUsLTM3Mj
-UwMDYxOSwtMTkyOTU2NzQwMywxNzgxOTUzMDAzLDIxOTEyMjM0
-MF19
+eyJoaXN0b3J5IjpbLTYyNDgzNTg1MywtNTM2MTIxMTAwLDMyND
+U2MjU5NCwzODI5MDQxMTYsLTE4ODI1MjM3NzAsLTc0NTU5NDY5
+NSwxOTQ1MzI4MDIzLDY4NTY3NTgxNyw4MTg4NjY1NjcsMjQ5Mz
+A5NTAxLC00NTIxNDk0NDgsLTYzODM0Mzg0MCwyMDg3NTkxMzEx
+LDEwMzIzMzgyMjUsMTU5ODgyMDY3OCwxMzUwMTI2MDc5LDIyMj
+UwMTE1NSwtMzcyNTAwNjE5LC0xOTI5NTY3NDAzLDE3ODE5NTMw
+MDNdfQ==
 -->
