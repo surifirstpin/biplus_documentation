@@ -35,7 +35,9 @@ After navigating to Calculated Column Window, Enter all the below fields.
 
 - **Calculation** To derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
 
-
+```
+$(Root.BI_DELIVERYREPORT.sum_ORDERVALUE}+2000
+```
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/aff2f17d1b5383de542a7b534df7caeb69c03b3d/images/calculated_col_window.png)
@@ -442,6 +444,6 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDg0MjU3NiwtMTU2ODc1OTI1MiwtMT
+eyJoaXN0b3J5IjpbLTk3NjA2ODIxMSwtMTU2ODc1OTI1MiwtMT
 czNjYwOTY0NCwtMzEyMjQxNTQ4XX0=
 -->
