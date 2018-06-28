@@ -305,7 +305,7 @@ bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE},2000)
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/8482aac4e08d59dd60a2b28e6d34302df3357ebd/images/calculated1.png)
 
-## Usage of #math#plugin# for Grid View
+## Usage of #plugin# for Grid View
 
 Plugin operators provides complete authority on creation,edition and deletion of raw data. It allows customization of data using JavaScript API language  as per the business requirement.
 
@@ -444,6 +444,6 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjA2ODIxMSwtMTU2ODc1OTI1MiwtMT
-czNjYwOTY0NCwtMzEyMjQxNTQ4XX0=
+eyJoaXN0b3J5IjpbLTEzMDg0NTEzMTAsLTk3NjA2ODIxMSwtMT
+U2ODc1OTI1MiwtMTczNjYwOTY0NCwtMzEyMjQxNTQ4XX0=
 -->
