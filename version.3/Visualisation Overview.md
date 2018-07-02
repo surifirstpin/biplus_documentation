@@ -26,6 +26,29 @@ Under **General** tab click on the type of chart you want to view.
 
 As shown in above image there multiple editing options provided to **Pie chart**, Similarly you can also view types of visualization available in BiPlus.
 
+## Hide Pivot
+
+To hide the first or last column field values in Visualization, Select hide first or hide last check box in Data section.
+To carry out this function you need to derive a expression in calculated column.
+
+For Example : Apply substraction for OrderValue_Sum and derive the exptression in calculated column as follow;
+
+```
+pivot_offset(#{ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,0,-1)
+```
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/f5065fab3212580100d2bb0d06de4bd7085f18a7/images/hide_pivot1.png)
+
+The resultant for this expression would be seen in green colour;
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot2.png)
+
+In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. ( Applicable only for table chart). 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot3.png)
+
+
 ## Build Visualization to Refine
 
 For better understanding of a user BiPlus has provided some customizing options. Let us go with Pie chart and select percentage checkbox, which displays the amount of share a customer holds in total value and also we can display customers participating at the bottom of the chart by selecting show legend checkbox.
@@ -39,5 +62,5 @@ Using BiPlus you can drill deeper into visualisation, to get more specific infor
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDgzNzA2N119
+eyJoaXN0b3J5IjpbLTE3MDMzMTkwMTMsMTczNDgzNzA2N119
 -->
