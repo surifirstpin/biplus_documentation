@@ -10,7 +10,7 @@ BiPlus is Collection of business analytics tools that provides a standard insigh
 
 ### Explore from any device
 
-BI+ is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices. it create, explore and operate on any device, directly at the point of decision.
+BiPlus is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices. it create, explore and operate on any device, directly at the point of decision.
 
 #### Variety of Reporting Components
 
@@ -22,7 +22,7 @@ Get a powerful BI tool installed within your own product, application, portal, o
 
 #### Smarter Visualization
 
-Bi+ delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
+BiPlus delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
 
 #### Beautiful Dashboards
 
@@ -33,9 +33,9 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
 When it comes to business establishment and success, Bi+ software is an innovation that has ability to share and collaborate ideas efficiently.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODA4NTkzOSwtMTQwNTA5NzMxMCwxMj
-UyOTE1MjE2LC0yNDE5MzcwNzMsODc2MTc1MTM3LDE4NDg4OTQ1
-NjcsLTE2MjE0NjU4MDMsLTM3NzQ5OTMxLDE4ODg3ODczMzksMT
-MxMTAxNzEzMCwxMzQzMzcwNTc4LC0yNjYwODc5MTUsLTIwNzI4
-NTEwODUsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbMzMwMjIxNTM5LC0xNDA1MDk3MzEwLDEyNT
+I5MTUyMTYsLTI0MTkzNzA3Myw4NzYxNzUxMzcsMTg0ODg5NDU2
+NywtMTYyMTQ2NTgwMywtMzc3NDk5MzEsMTg4ODc4NzMzOSwxMz
+ExMDE3MTMwLDEzNDMzNzA1NzgsLTI2NjA4NzkxNSwtMjA3Mjg1
+MTA4NSw0MjQzNTc4MzFdfQ==
 -->
