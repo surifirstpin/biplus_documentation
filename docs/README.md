@@ -19,10 +19,23 @@ Usage of different type of charts, widgets, pivot tables and tabular view compon
 #### Embedded Analytics
 
 Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
+
+#### Smarter Visualization
+
+Bi+ delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
+
+#### Beautiful Dashboards
+
+Join multiple report layouts into single good-looking dashboard, by customizing it as per your business needs.
+
+#### Customer Success
+
+When it comes to business establishment and success, Bi+ software is an innovation that has ability to share and collaborate ideas efficiently.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjM1NDk2OTMsLTE0MDUwOTczMTAsMT
-I1MjkxNTIxNiwtMjQxOTM3MDczLDg3NjE3NTEzNywxODQ4ODk0
-NTY3LC0xNjIxNDY1ODAzLC0zNzc0OTkzMSwxODg4Nzg3MzM5LD
-EzMTEwMTcxMzAsMTM0MzM3MDU3OCwtMjY2MDg3OTE1LC0yMDcy
-ODUxMDg1LDQyNDM1NzgzMV19
+eyJoaXN0b3J5IjpbLTQ3ODA4NTkzOSwtMTQwNTA5NzMxMCwxMj
+UyOTE1MjE2LC0yNDE5MzcwNzMsODc2MTc1MTM3LDE4NDg4OTQ1
+NjcsLTE2MjE0NjU4MDMsLTM3NzQ5OTMxLDE4ODg3ODczMzksMT
+MxMTAxNzEzMCwxMzQzMzcwNTc4LC0yNjYwODc5MTUsLTIwNzI4
+NTEwODUsNDI0MzU3ODMxXX0=
 -->
