@@ -12,17 +12,17 @@ BiPlus is Collection of business analytics tools that provides a standard insigh
 
 BI+ is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices. it create, explore and operate on any device, directly at the point of decision.
 
-### Secure Accessibility
+#### Variety of Reporting Components
 
-Share and collaborate reports with team members more securely and get the consent quickly.
+Usage of different type of charts, widgets, pivot tables and tabular view components to create smart and insightful reports and dashboards.
 
-### Customize data
+#### Embedded Analytics
 
-Bi+ has an ability to control the data obtained from server and optimize it.
+Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDUwOTczMTAsMTI1MjkxNTIxNiwtMj
-QxOTM3MDczLDg3NjE3NTEzNywxODQ4ODk0NTY3LC0xNjIxNDY1
-ODAzLC0zNzc0OTkzMSwxODg4Nzg3MzM5LDEzMTEwMTcxMzAsMT
-M0MzM3MDU3OCwtMjY2MDg3OTE1LC0yMDcyODUxMDg1LDQyNDM1
-NzgzMV19
+eyJoaXN0b3J5IjpbLTE3NjM1NDk2OTMsLTE0MDUwOTczMTAsMT
+I1MjkxNTIxNiwtMjQxOTM3MDczLDg3NjE3NTEzNywxODQ4ODk0
+NTY3LC0xNjIxNDY1ODAzLC0zNzc0OTkzMSwxODg4Nzg3MzM5LD
+EzMTEwMTcxMzAsMTM0MzM3MDU3OCwtMjY2MDg3OTE1LC0yMDcy
+ODUxMDg1LDQyNDM1NzgzMV19
 -->
