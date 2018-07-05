@@ -30,12 +30,12 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
 
 #### Customer Success
 
-When it comes to business establishment and success, Bi+ software is an innovation that has ability to share and collaborate ideas efficiently.
+When it comes to business establishment and success, BiPlus software is an innovation that has ability to share and collaborate ideas efficiently.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwMjIxNTM5LC0xNDA1MDk3MzEwLDEyNT
-I5MTUyMTYsLTI0MTkzNzA3Myw4NzYxNzUxMzcsMTg0ODg5NDU2
-NywtMTYyMTQ2NTgwMywtMzc3NDk5MzEsMTg4ODc4NzMzOSwxMz
-ExMDE3MTMwLDEzNDMzNzA1NzgsLTI2NjA4NzkxNSwtMjA3Mjg1
-MTA4NSw0MjQzNTc4MzFdfQ==
+eyJoaXN0b3J5IjpbMTkzNjE1ODIyNCwtMTQwNTA5NzMxMCwxMj
+UyOTE1MjE2LC0yNDE5MzcwNzMsODc2MTc1MTM3LDE4NDg4OTQ1
+NjcsLTE2MjE0NjU4MDMsLTM3NzQ5OTMxLDE4ODg3ODczMzksMT
+MxMTAxNzEzMCwxMzQzMzcwNTc4LC0yNjYwODc5MTUsLTIwNzI4
+NTEwODUsNDI0MzU3ODMxXX0=
 -->
