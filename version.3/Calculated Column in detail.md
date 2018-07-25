@@ -403,7 +403,7 @@ By enabling the field calculate on raw the calculation are applied directly on t
 >**For Instance:**  consider the below image, which represents calculated data with and without applying enabling calculate on raw.
 
 ```
-bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,2)
+bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE},2)
 ```
 
 ![
@@ -444,7 +444,7 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI0MzIyMzYsLTEzMDg0NTEzMTAsLT
+eyJoaXN0b3J5IjpbLTE0NjM0NDMyMDQsLTEzMDg0NTEzMTAsLT
 k3NjA2ODIxMSwtMTU2ODc1OTI1MiwtMTczNjYwOTY0NCwtMzEy
 MjQxNTQ4XX0=
 -->
