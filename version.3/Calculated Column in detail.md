@@ -437,14 +437,14 @@ Statement N;
 return `;   
 }
 /*END*/
-fname(value1, value2, value3, ..valueN)        * Call Function *
+fname(value1, value2, value3, ..valueN)         * Call Function *
 ```
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/52b7c4357f0c07e4a89b14f018cf3d877a5ba4f3/images/cal_local_fucntion.png)
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjM0NDMyMDQsLTEzMDg0NTEzMTAsLT
+eyJoaXN0b3J5IjpbLTIwOTM5OTk3MzAsLTEzMDg0NTEzMTAsLT
 k3NjA2ODIxMSwtMTU2ODc1OTI1MiwtMTczNjYwOTY0NCwtMzEy
 MjQxNTQ4XX0=
 -->
