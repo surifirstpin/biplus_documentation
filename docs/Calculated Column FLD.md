@@ -343,7 +343,7 @@ Statement 1;
 Statement 2;
 ......
 Statement N;
-return Outpur_value;
+return Output_value;
 }
 /*END*/
 bi._Fname(input_param1, input_param2,..input_paramN)
@@ -444,6 +444,7 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDg0NTEzMTAsLTk3NjA2ODIxMSwtMT
-U2ODc1OTI1MiwtMTczNjYwOTY0NCwtMzEyMjQxNTQ4XX0=
+eyJoaXN0b3J5IjpbLTE0MzI0MzIyMzYsLTEzMDg0NTEzMTAsLT
+k3NjA2ODIxMSwtMTU2ODc1OTI1MiwtMTczNjYwOTY0NCwtMzEy
+MjQxNTQ4XX0=
 -->
