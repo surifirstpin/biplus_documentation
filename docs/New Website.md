@@ -36,10 +36,6 @@ Get a powerful BI tool installed within your own product, application, portal, o
 Usage of different type of charts, widgets, pivot tables and tabular view components to create smart and insightful reports and dashboards.
 
   
-  
-
-
-
 
 ## BI+ Advantages
 
@@ -59,9 +55,16 @@ It's cloud architecture allows users, teams and IT departments to instantly shar
 
 Bi+ application is integrated into current software very easily and allows you to re-brand there dashboards reports as desired.
 
+
+# Customer Success
+
+When it comes to business establishment and success, Bi+ software is an innovation that has ability to share and collaborate ideas efficiently.
+
+
+
 Connect us
 
 Phone   Email  LinkedIn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzM2NDEyMywtNTAwMzU0MDg3XX0=
+eyJoaXN0b3J5IjpbLTE4MTU0OTQ3NjYsLTUwMDM1NDA4N119
 -->
