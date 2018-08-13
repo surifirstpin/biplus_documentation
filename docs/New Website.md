@@ -9,7 +9,6 @@ We create an ability to turn your actions into
 ## "Create Beautiful Dashboards And Visualizations"
  in fraction of minutes
 
- 
 We Provide 
 ## "Multi Device Accessibility"
 
@@ -66,6 +65,6 @@ Connect us
 
 Phone   Email  LinkedIn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDIwMjgxOTgsLTE4MTU0OTQ3NjYsLT
-UwMDM1NDA4N119
+eyJoaXN0b3J5IjpbLTExMDc5NzY5MjIsLTEwNDIwMjgxOTgsLT
+E4MTU0OTQ3NjYsLTUwMDM1NDA4N119
 -->
