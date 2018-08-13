@@ -56,7 +56,7 @@ It's cloud architecture allows users, teams and IT departments to instantly shar
 Bi+ application is integrated into current software very easily and allows you to re-brand there dashboards reports as desired.
 
 
-# Customer Success
+# We are obsessed with Customer Success
 
 When it comes to business establishment and success, Bi+ software is an innovation that has ability to share and collaborate ideas efficiently.
 
@@ -66,5 +66,6 @@ Connect us
 
 Phone   Email  LinkedIn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTU0OTQ3NjYsLTUwMDM1NDA4N119
+eyJoaXN0b3J5IjpbLTEwNDIwMjgxOTgsLTE4MTU0OTQ3NjYsLT
+UwMDM1NDA4N119
 -->
