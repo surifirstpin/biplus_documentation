@@ -38,9 +38,6 @@ Usage of different type of charts, widgets, pivot tables and tabular view compon
   
   
 
-## Customer Success
-
-When it comes to business establishment and success, Bi+ software is an innovation that has ability to share and collaborate ideas efficiently.
 
 
 
@@ -66,5 +63,5 @@ Connect us
 
 Phone   Email  LinkedIn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDM1NDA4N119
+eyJoaXN0b3J5IjpbLTc3MzM2NDEyMywtNTAwMzU0MDg3XX0=
 -->
