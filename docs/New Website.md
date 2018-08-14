@@ -45,13 +45,13 @@ Our application is integrated into current software very easily and allows you t
 When it comes to business establishment and success, Our software is an innovation that has ability to share and collaborate ideas efficiently.
 
 Connect us
-Phone   Email  LinkedIn
-
-
+Phone   			Email		  LinkedIn
+Address
+Map Location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxNDM1OTE2LC0xMjc5NDk1NjE0LDEwNz
-EzNDA5MTAsLTE0NTIzNzAzMCwtMTM3Nzg1OTYyLDEyMjQxOTAz
-OCwtMTg1MzU5OTA0MywtNTc4NTc1NzY5LC0xMTA3OTc2OTIyLC
-0xMDQyMDI4MTk4LC0xODE1NDk0NzY2LC01MDAzNTQwODddfQ==
+eyJoaXN0b3J5IjpbLTE5ODg3Mjg4NjUsLTEyNzk0OTU2MTQsMT
+A3MTM0MDkxMCwtMTQ1MjM3MDMwLC0xMzc3ODU5NjIsMTIyNDE5
+MDM4LC0xODUzNTk5MDQzLC01Nzg1NzU3NjksLTExMDc5NzY5Mj
+IsLTEwNDIwMjgxOTgsLTE4MTU0OTQ3NjYsLTUwMDM1NDA4N119
 
 -->
