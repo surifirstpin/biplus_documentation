@@ -42,16 +42,14 @@ Our application is integrated into current software very easily and allows you t
 
 # We are obsessed with Customer Success
 
-When it comes to business establishment and success, Bi+ software is an innovation that has ability to share and collaborate ideas efficiently.
-
-
+When it comes to business establishment and success, Our software is an innovation that has ability to share and collaborate ideas efficiently.
 
 Connect us
 
 Phone   Email  LinkedIn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTM0MDkxMCwtMTQ1MjM3MDMwLC0xMz
-c3ODU5NjIsMTIyNDE5MDM4LC0xODUzNTk5MDQzLC01Nzg1NzU3
-NjksLTExMDc5NzY5MjIsLTEwNDIwMjgxOTgsLTE4MTU0OTQ3Nj
-YsLTUwMDM1NDA4N119
+eyJoaXN0b3J5IjpbLTEyNzk0OTU2MTQsMTA3MTM0MDkxMCwtMT
+Q1MjM3MDMwLC0xMzc3ODU5NjIsMTIyNDE5MDM4LC0xODUzNTk5
+MDQzLC01Nzg1NzU3NjksLTExMDc5NzY5MjIsLTEwNDIwMjgxOT
+gsLTE4MTU0OTQ3NjYsLTUwMDM1NDA4N119
 -->
