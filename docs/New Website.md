@@ -31,13 +31,15 @@ Import data from files,databases, cloud drives, popular business applications an
 
 ### Embedded Analytics
 
-Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
+Get a powerful Business Intelligence tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
  
   ### Variety of Reporting Components
 
 Usage of different type of charts, widgets, pivot tables and tabular view components to create smart and insightful reports and dashboards.
 
-  
+  ### Beautiful Dashboards
+
+Join multiple report layouts into single good-looking dashboard, by customizing it as per your business needs.
 
 
 # We are obsessed with Customer Success
@@ -50,7 +52,7 @@ Connect us
 
 Phone   Email  LinkedIn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDE5MDM4LC0xODUzNTk5MDQzLC01Nz
-g1NzU3NjksLTExMDc5NzY5MjIsLTEwNDIwMjgxOTgsLTE4MTU0
-OTQ3NjYsLTUwMDM1NDA4N119
+eyJoaXN0b3J5IjpbLTEzNzc4NTk2MiwxMjI0MTkwMzgsLTE4NT
+M1OTkwNDMsLTU3ODU3NTc2OSwtMTEwNzk3NjkyMiwtMTA0MjAy
+ODE5OCwtMTgxNTQ5NDc2NiwtNTAwMzU0MDg3XX0=
 -->
