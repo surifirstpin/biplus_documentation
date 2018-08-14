@@ -25,8 +25,6 @@ We provide business analytical tools, that provides a standard insights througho
 ## We Provide High Quality Data Analytics and rapid Insights across all Domains
 
   
-  
-
 ### Connect to any Data Source
 
 Import data from files,databases, cloud drives, popular business applications and in-house apps. Its rapid setup connects people to data quickly and retrieve massive amount of data with an ease.
@@ -41,24 +39,6 @@ Usage of different type of charts, widgets, pivot tables and tabular view compon
 
   
 
-## BI+ Advantages
-
-### Analyse
-
-Interactive visual analytics, allows you to explore the data and instinctively get the answers you need.
-
-### Secure Accessibility
-
-Share and collaborate reports with team members more securely and get the consent quickly.
-
-### Cloud-Connected
-
-It's cloud architecture allows users, teams and IT departments to instantly share findings and data.
-
-### White Labeling
-
-Bi+ application is integrated into current software very easily and allows you to re-brand there dashboards reports as desired.
-
 
 # We are obsessed with Customer Success
 
@@ -70,7 +50,7 @@ Connect us
 
 Phone   Email  LinkedIn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE1MTg0NDYsLTE4NTM1OTkwNDMsLT
-U3ODU3NTc2OSwtMTEwNzk3NjkyMiwtMTA0MjAyODE5OCwtMTgx
-NTQ5NDc2NiwtNTAwMzU0MDg3XX0=
+eyJoaXN0b3J5IjpbMTIyNDE5MDM4LC0xODUzNTk5MDQzLC01Nz
+g1NzU3NjksLTExMDc5NzY5MjIsLTEwNDIwMjgxOTgsLTE4MTU0
+OTQ3NjYsLTUwMDM1NDA4N119
 -->
