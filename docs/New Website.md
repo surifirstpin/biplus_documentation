@@ -37,26 +37,7 @@ We provide cloud architecture allowing users, teams and IT departments to instan
 
 #### White Labeling
 
-Our application is integrated into current software very easily and allows you to re-brand the reports as per yo desired.
-
-## We Provide High Quality Data Analytics and rapid Insights across all Domains
-
-  
-### Connect to any Data Source
-
-Import data from files, databases, cloud drives, popular business applications and in-house apps. Its rapid setup connects people to data quickly and retrieve massive amount of data with an ease.
-
-### Embedded Analytics
-
-Get a powerful Business Intelligence tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
- 
-  ### Variety of Reporting Components
-
-Usage of different type of charts, widgets, pivot tables and tabular view components to create smart and insightful reports and dashboards.
-
-  ### Beautiful Dashboards
-
-Join multiple report layouts into single good-looking dashboard, by customizing it as per your business needs.
+Our application is integrated into current software very easily and allows you to re-brand the reports as per your business needs.
 
 
 # We are obsessed with Customer Success
@@ -69,7 +50,7 @@ Connect us
 
 Phone   Email  LinkedIn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTI0NjMzNywtMTQ1MjM3MDMwLC0xMz
+eyJoaXN0b3J5IjpbMTA3MTM0MDkxMCwtMTQ1MjM3MDMwLC0xMz
 c3ODU5NjIsMTIyNDE5MDM4LC0xODUzNTk5MDQzLC01Nzg1NzU3
 NjksLTExMDc5NzY5MjIsLTEwNDIwMjgxOTgsLTE4MTU0OTQ3Nj
 YsLTUwMDM1NDA4N119
