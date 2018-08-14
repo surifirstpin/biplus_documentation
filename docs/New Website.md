@@ -27,7 +27,7 @@ We provide business analytical tools, that provides a standard insights througho
   
 ### Connect to any Data Source
 
-Import data from files,databases, cloud drives, popular business applications and in-house apps. Its rapid setup connects people to data quickly and retrieve massive amount of data with an ease.
+Import data from files, databases, cloud drives, popular business applications and in-house apps. Its rapid setup connects people to data quickly and retrieve massive amount of data with an ease.
 
 ### Embedded Analytics
 
@@ -52,7 +52,8 @@ Connect us
 
 Phone   Email  LinkedIn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc4NTk2MiwxMjI0MTkwMzgsLTE4NT
-M1OTkwNDMsLTU3ODU3NTc2OSwtMTEwNzk3NjkyMiwtMTA0MjAy
-ODE5OCwtMTgxNTQ5NDc2NiwtNTAwMzU0MDg3XX0=
+eyJoaXN0b3J5IjpbLTE0NTIzNzAzMCwtMTM3Nzg1OTYyLDEyMj
+QxOTAzOCwtMTg1MzU5OTA0MywtNTc4NTc1NzY5LC0xMTA3OTc2
+OTIyLC0xMDQyMDI4MTk4LC0xODE1NDk0NzY2LC01MDAzNTQwOD
+ddfQ==
 -->
