@@ -16,9 +16,9 @@ We Provide
 
   
 
-## We Are FirstPin 
+## We re FirstPin 
 Your Technology Partner
-We are Product B 
+We are Product and Service based Company from India
 
 We Provide a business analytical tools that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of or clients business.
 
@@ -70,7 +70,7 @@ Connect us
 
 Phone   Email  LinkedIn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDQzODEwMiwtNTc4NTc1NzY5LC0xMT
-A3OTc2OTIyLC0xMDQyMDI4MTk4LC0xODE1NDk0NzY2LC01MDAz
-NTQwODddfQ==
+eyJoaXN0b3J5IjpbLTIwNjg1MjA0MzAsLTU3ODU3NTc2OSwtMT
+EwNzk3NjkyMiwtMTA0MjAyODE5OCwtMTgxNTQ5NDc2NiwtNTAw
+MzU0MDg3XX0=
 -->
