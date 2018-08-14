@@ -16,7 +16,8 @@ We Provide
 
   
 
-## Our Vision
+## We Are FirstPin 
+Your Technology Partner 
 
 We Provide a business analytical tools that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of or clients business.
 
@@ -68,7 +69,7 @@ Connect us
 
 Phone   Email  LinkedIn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTE1OTI0MSwtNTc4NTc1NzY5LC0xMT
+eyJoaXN0b3J5IjpbLTczMTYyOTQ0NSwtNTc4NTc1NzY5LC0xMT
 A3OTc2OTIyLC0xMDQyMDI4MTk4LC0xODE1NDk0NzY2LC01MDAz
 NTQwODddfQ==
 -->
