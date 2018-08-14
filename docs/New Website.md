@@ -22,6 +22,24 @@ We are Product and Service based Company from India
 
 We provide business analytical tools, that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the business by helping them to get there products into the market fast. We currently focusing on payment-processing, payment solutions and online-gaming domains. 
 
+## H
+
+#### Analyse
+
+Interactive visual analytics, allows you to explore the data and instinctively get the answers you need.
+
+#### Secure Accessibility
+
+Share and collaborate reports with team members more securely and get the consent quickly.
+
+#### Cloud-Connected
+
+It's cloud architecture allows users, teams and IT departments to instantly share findings and data.
+
+#### White Labeling
+
+Bi+ application is integrated into current software very easily and allows you to re-brand there dashboards reports as desired.
+
 ## We Provide High Quality Data Analytics and rapid Insights across all Domains
 
   
@@ -52,8 +70,8 @@ Connect us
 
 Phone   Email  LinkedIn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTIzNzAzMCwtMTM3Nzg1OTYyLDEyMj
-QxOTAzOCwtMTg1MzU5OTA0MywtNTc4NTc1NzY5LC0xMTA3OTc2
-OTIyLC0xMDQyMDI4MTk4LC0xODE1NDk0NzY2LC01MDAzNTQwOD
-ddfQ==
+eyJoaXN0b3J5IjpbNzgzMjI2NDc0LC0xNDUyMzcwMzAsLTEzNz
+c4NTk2MiwxMjI0MTkwMzgsLTE4NTM1OTkwNDMsLTU3ODU3NTc2
+OSwtMTEwNzk3NjkyMiwtMTA0MjAyODE5OCwtMTgxNTQ5NDc2Ni
+wtNTAwMzU0MDg3XX0=
 -->
