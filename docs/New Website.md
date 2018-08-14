@@ -16,7 +16,7 @@ We Provide
 
   
 
-## We re FirstPin 
+## Introducing FirstPin Technologies
 Your Technology Partner
 We are Product and Service based Company from India
 
@@ -70,7 +70,7 @@ Connect us
 
 Phone   Email  LinkedIn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg1MjA0MzAsLTU3ODU3NTc2OSwtMT
+eyJoaXN0b3J5IjpbLTE0NDM2MDkyOTMsLTU3ODU3NTc2OSwtMT
 EwNzk3NjkyMiwtMTA0MjAyODE5OCwtMTgxNTQ5NDc2NiwtNTAw
 MzU0MDg3XX0=
 -->
