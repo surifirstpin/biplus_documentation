@@ -1,7 +1,8 @@
 
 
 
-
+## Our Mission
+is to bring better insights and 
 We create an ability to turn your actions into
 ## "Opportunity In Hand"
 
@@ -66,7 +67,7 @@ Connect us
 
 Phone   Email  LinkedIn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzg4NDI5NywtNTc4NTc1NzY5LC0xMT
-A3OTc2OTIyLC0xMDQyMDI4MTk4LC0xODE1NDk0NzY2LC01MDAz
-NTQwODddfQ==
+eyJoaXN0b3J5IjpbNTg1NDYxNTAwLC01Nzg1NzU3NjksLTExMD
+c5NzY5MjIsLTEwNDIwMjgxOTgsLTE4MTU0OTQ3NjYsLTUwMDM1
+NDA4N119
 -->
