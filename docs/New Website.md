@@ -14,8 +14,9 @@ We Provide
 
   
 
-## Presenting Bi+
-Bi+ is a business analytical tool that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of or clients business.
+## Presenting FirstPin Technologies
+
+We Provide a business analytical tools that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of or clients business.
 
 ## We Provide High Quality Data Analytics and rapid Insights across all Domains
 
@@ -65,6 +66,6 @@ Connect us
 
 Phone   Email  LinkedIn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDc5NzY5MjIsLTEwNDIwMjgxOTgsLT
-E4MTU0OTQ3NjYsLTUwMDM1NDA4N119
+eyJoaXN0b3J5IjpbLTU3ODU3NTc2OSwtMTEwNzk3NjkyMiwtMT
+A0MjAyODE5OCwtMTgxNTQ5NDc2NiwtNTAwMzU0MDg3XX0=
 -->
