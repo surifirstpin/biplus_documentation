@@ -37,7 +37,7 @@ We provide cloud architecture allowing users, teams and IT departments to instan
 
 #### White Labeling
 
-Bi+ application is integrated into current software very easily and allows you to re-brand there dashboards reports as desired.
+Our application is integrated into current software very easily and allows you to re-brand the reports as per yo desired.
 
 ## We Provide High Quality Data Analytics and rapid Insights across all Domains
 
@@ -69,8 +69,8 @@ Connect us
 
 Phone   Email  LinkedIn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwMDQ3NzA0LC0xNDUyMzcwMzAsLTEzNz
-c4NTk2MiwxMjI0MTkwMzgsLTE4NTM1OTkwNDMsLTU3ODU3NTc2
-OSwtMTEwNzk3NjkyMiwtMTA0MjAyODE5OCwtMTgxNTQ5NDc2Ni
-wtNTAwMzU0MDg3XX0=
+eyJoaXN0b3J5IjpbMTEzOTI0NjMzNywtMTQ1MjM3MDMwLC0xMz
+c3ODU5NjIsMTIyNDE5MDM4LC0xODUzNTk5MDQzLC01Nzg1NzU3
+NjksLTExMDc5NzY5MjIsLTEwNDIwMjgxOTgsLTE4MTU0OTQ3Nj
+YsLTUwMDM1NDA4N119
 -->
