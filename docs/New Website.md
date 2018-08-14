@@ -46,12 +46,14 @@ When it comes to business establishment and success, Our software is an innovati
 
 Connect us
 Phone   			Email		  LinkedIn
+
+Contact us
 Address
 Map Location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODg3Mjg4NjUsLTEyNzk0OTU2MTQsMT
-A3MTM0MDkxMCwtMTQ1MjM3MDMwLC0xMzc3ODU5NjIsMTIyNDE5
-MDM4LC0xODUzNTk5MDQzLC01Nzg1NzU3NjksLTExMDc5NzY5Mj
-IsLTEwNDIwMjgxOTgsLTE4MTU0OTQ3NjYsLTUwMDM1NDA4N119
-
+eyJoaXN0b3J5IjpbMzAxODc3Njk3LC0xOTg4NzI4ODY1LC0xMj
+c5NDk1NjE0LDEwNzEzNDA5MTAsLTE0NTIzNzAzMCwtMTM3Nzg1
+OTYyLDEyMjQxOTAzOCwtMTg1MzU5OTA0MywtNTc4NTc1NzY5LC
+0xMTA3OTc2OTIyLC0xMDQyMDI4MTk4LC0xODE1NDk0NzY2LC01
+MDAzNTQwODddfQ==
 -->
