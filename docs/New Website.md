@@ -20,7 +20,7 @@ We Provide
 Your Technology Partner
 We are Product and Service based Company from India
 
-We Provide a business analytical tools, that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the business by helping them to get there products into the market fast.
+We Provide a business analytical tools, that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the business by helping them to get there products into the market fast. We currently focusing on online-gaming, 
 
 ## We Provide High Quality Data Analytics and rapid Insights across all Domains
 
@@ -70,7 +70,7 @@ Connect us
 
 Phone   Email  LinkedIn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjcxMjI1MywtNTc4NTc1NzY5LC0xMT
-A3OTc2OTIyLC0xMDQyMDI4MTk4LC0xODE1NDk0NzY2LC01MDAz
-NTQwODddfQ==
+eyJoaXN0b3J5IjpbLTE4NTM1OTkwNDMsLTU3ODU3NTc2OSwtMT
+EwNzk3NjkyMiwtMTA0MjAyODE5OCwtMTgxNTQ5NDc2NiwtNTAw
+MzU0MDg3XX0=
 -->
