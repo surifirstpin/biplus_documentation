@@ -22,19 +22,18 @@ We are Product and Service based Company from India
 
 We provide business analytical tools, that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the business by helping them to get there products into the market fast. We currently focusing on payment-processing, payment solutions and online-gaming domains. 
 
-## H
+## How We Work
 
 #### Analyse
 
-Interactive visual analytics, allows you to explore the data and instinctively get the answers you need.
+Our interactive visual analytics allows you to explore the data and instinctively get the answers you need.
 
 #### Secure Accessibility
-
 Share and collaborate reports with team members more securely and get the consent quickly.
 
 #### Cloud-Connected
 
-It's cloud architecture allows users, teams and IT departments to instantly share findings and data.
+We provide cloud architecture allowing users, teams and IT departments to instantly share findings and data.
 
 #### White Labeling
 
@@ -70,7 +69,7 @@ Connect us
 
 Phone   Email  LinkedIn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzMjI2NDc0LC0xNDUyMzcwMzAsLTEzNz
+eyJoaXN0b3J5IjpbMzQwMDQ3NzA0LC0xNDUyMzcwMzAsLTEzNz
 c4NTk2MiwxMjI0MTkwMzgsLTE4NTM1OTkwNDMsLTU3ODU3NTc2
 OSwtMTEwNzk3NjkyMiwtMTA0MjAyODE5OCwtMTgxNTQ5NDc2Ni
 wtNTAwMzU0MDg3XX0=
