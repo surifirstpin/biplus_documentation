@@ -14,7 +14,8 @@ We create an ability to turn your actions into opportunity In hand
 ## Introducing FirstPin Technologies
 ### A Company Built For You
 
-Our Technology will go far beyond supporting the business, It will advance it. We provide business analytical tools, that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the business, and helping them to get there products rele the market fast.Together lets make your product smarter. Your customer experiences more exceptional. Your people more productive. Your process more profitable and your system more powerful by choosing us.
+Our Technology will go far beyond supporting the business, It will advance it. We provide business analytical tools, that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the business, and helping them to get there products release into the market fast. 
+So, Together lets make your product smarter. Your customer experiences more exceptional. Your people more productive. Your process more profitable and your system more powerful by choosing us.
 
 ## How your business can get smarter
 
@@ -45,7 +46,7 @@ Contact us
 Address
 Map Location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTc2ODk0MiwtOTA0MDQ3NDQsLTEwMD
+eyJoaXN0b3J5IjpbLTk2MDQ3Mjg0NywtOTA0MDQ3NDQsLTEwMD
 Y0OTc1OTMsLTE4OTM0NTk3NDMsMTQ0MjA3NzE0NywtMTUxNTg2
 NDUyOSwzMDE4Nzc2OTcsLTE5ODg3Mjg4NjUsLTEyNzk0OTU2MT
 QsMTA3MTM0MDkxMCwtMTQ1MjM3MDMwLC0xMzc3ODU5NjIsMTIy
