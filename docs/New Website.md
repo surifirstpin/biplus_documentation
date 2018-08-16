@@ -2,7 +2,7 @@
 
 ## Our Vision and Mission
 
-At FirstPin, we live and breathe the philosophy that people matter and results count.
+We live and breathe the philosophy that people matter and results count.
 
 ## Knowledge is Power 
 Get Informed with the insights and resources provided by us. 
@@ -57,11 +57,11 @@ Contact us
 Address
 Map Location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3NTc0ODAsLTE2NTc3MDUyNiw3NzE3Nz
-I1NDMsNjE0OTAyNjQ3LC05NjA0NzI4NDcsLTkwNDA0NzQ0LC0x
-MDA2NDk3NTkzLC0xODkzNDU5NzQzLDE0NDIwNzcxNDcsLTE1MT
-U4NjQ1MjksMzAxODc3Njk3LC0xOTg4NzI4ODY1LC0xMjc5NDk1
-NjE0LDEwNzEzNDA5MTAsLTE0NTIzNzAzMCwtMTM3Nzg1OTYyLD
-EyMjQxOTAzOCwtMTg1MzU5OTA0MywtNTc4NTc1NzY5LC0xMTA3
-OTc2OTIyXX0=
+eyJoaXN0b3J5IjpbNDQwNjM5MTAwLDc2NzU3NDgwLC0xNjU3Nz
+A1MjYsNzcxNzcyNTQzLDYxNDkwMjY0NywtOTYwNDcyODQ3LC05
+MDQwNDc0NCwtMTAwNjQ5NzU5MywtMTg5MzQ1OTc0MywxNDQyMD
+c3MTQ3LC0xNTE1ODY0NTI5LDMwMTg3NzY5NywtMTk4ODcyODg2
+NSwtMTI3OTQ5NTYxNCwxMDcxMzQwOTEwLC0xNDUyMzcwMzAsLT
+EzNzc4NTk2MiwxMjI0MTkwMzgsLTE4NTM1OTkwNDMsLTU3ODU3
+NTc2OV19
 -->
