@@ -12,7 +12,7 @@ We create an ability to turn your actions into opportunity In hand
  
 
 ## Introducing FirstPin Technologies
-Your Technology Partner
+Your Technology 
 We are Product and Service based Company from India
 
 We provide business analytical tools, that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the business by helping them to get there products into the market fast. We currently focusing on payment-processing, payment solutions and online-gaming domains. 
@@ -46,10 +46,10 @@ Contact us
 Address
 Map Location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDY0OTc1OTMsLTE4OTM0NTk3NDMsMT
-Q0MjA3NzE0NywtMTUxNTg2NDUyOSwzMDE4Nzc2OTcsLTE5ODg3
-Mjg4NjUsLTEyNzk0OTU2MTQsMTA3MTM0MDkxMCwtMTQ1MjM3MD
-MwLC0xMzc3ODU5NjIsMTIyNDE5MDM4LC0xODUzNTk5MDQzLC01
-Nzg1NzU3NjksLTExMDc5NzY5MjIsLTEwNDIwMjgxOTgsLTE4MT
-U0OTQ3NjYsLTUwMDM1NDA4N119
+eyJoaXN0b3J5IjpbMjAzNjM3NjQyNSwtMTAwNjQ5NzU5MywtMT
+g5MzQ1OTc0MywxNDQyMDc3MTQ3LC0xNTE1ODY0NTI5LDMwMTg3
+NzY5NywtMTk4ODcyODg2NSwtMTI3OTQ5NTYxNCwxMDcxMzQwOT
+EwLC0xNDUyMzcwMzAsLTEzNzc4NTk2MiwxMjI0MTkwMzgsLTE4
+NTM1OTkwNDMsLTU3ODU3NTc2OSwtMTEwNzk3NjkyMiwtMTA0Mj
+AyODE5OCwtMTgxNTQ5NDc2NiwtNTAwMzU0MDg3XX0=
 -->
