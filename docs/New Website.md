@@ -17,7 +17,7 @@ We are Product and Service based Company from India
 
 We provide business analytical tools, that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the business by helping them to get there products into the market fast. We currently focusing on payment-processing, payment solutions and online-gaming domains. 
 
-## How your 
+## How your business can get smarter
 
 #### Analyse
 
@@ -46,10 +46,10 @@ Contact us
 Address
 Map Location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjcwODcyNSwtMTg5MzQ1OTc0MywxND
-QyMDc3MTQ3LC0xNTE1ODY0NTI5LDMwMTg3NzY5NywtMTk4ODcy
-ODg2NSwtMTI3OTQ5NTYxNCwxMDcxMzQwOTEwLC0xNDUyMzcwMz
-AsLTEzNzc4NTk2MiwxMjI0MTkwMzgsLTE4NTM1OTkwNDMsLTU3
-ODU3NTc2OSwtMTEwNzk3NjkyMiwtMTA0MjAyODE5OCwtMTgxNT
-Q5NDc2NiwtNTAwMzU0MDg3XX0=
+eyJoaXN0b3J5IjpbLTEwMDY0OTc1OTMsLTE4OTM0NTk3NDMsMT
+Q0MjA3NzE0NywtMTUxNTg2NDUyOSwzMDE4Nzc2OTcsLTE5ODg3
+Mjg4NjUsLTEyNzk0OTU2MTQsMTA3MTM0MDkxMCwtMTQ1MjM3MD
+MwLC0xMzc3ODU5NjIsMTIyNDE5MDM4LC0xODUzNTk5MDQzLC01
+Nzg1NzU3NjksLTExMDc5NzY5MjIsLTEwNDIwMjgxOTgsLTE4MT
+U0OTQ3NjYsLTUwMDM1NDA4N119
 -->
