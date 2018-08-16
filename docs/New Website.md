@@ -1,7 +1,7 @@
 
 
-## Our Mission
-bringing better insights and data-driven decisions to every business
+## Our Vision and Mission
+At first
  
 We create an ability to turn your actions into
 ## "Opportunity In Hand"
@@ -50,9 +50,9 @@ Contact us
 Address
 Map Location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU4NjQ1MjksMzAxODc3Njk3LC0xOT
-g4NzI4ODY1LC0xMjc5NDk1NjE0LDEwNzEzNDA5MTAsLTE0NTIz
-NzAzMCwtMTM3Nzg1OTYyLDEyMjQxOTAzOCwtMTg1MzU5OTA0My
-wtNTc4NTc1NzY5LC0xMTA3OTc2OTIyLC0xMDQyMDI4MTk4LC0x
-ODE1NDk0NzY2LC01MDAzNTQwODddfQ==
+eyJoaXN0b3J5IjpbMjk3MzI2NTM5LC0xNTE1ODY0NTI5LDMwMT
+g3NzY5NywtMTk4ODcyODg2NSwtMTI3OTQ5NTYxNCwxMDcxMzQw
+OTEwLC0xNDUyMzcwMzAsLTEzNzc4NTk2MiwxMjI0MTkwMzgsLT
+E4NTM1OTkwNDMsLTU3ODU3NTc2OSwtMTEwNzk3NjkyMiwtMTA0
+MjAyODE5OCwtMTgxNTQ5NDc2NiwtNTAwMzU0MDg3XX0=
 -->
