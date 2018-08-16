@@ -13,7 +13,7 @@ We create an ability to turn your actions into opportunity In hand
 
 ## Introducing FirstPin Technologies
 ### A Company Built For You
-FirstPin is a outsourced product based, business analytic and service oriented company. We harness  the power of cloud, data analytics. we are expertise in building web based gamings, mobile based products.
+FirstPin is a outsourced product based, business analytic and service oriented company. We harness  the power of cloud, data analytics. we are expertise in building web based gaming, mobile based products and applications.
 Our Technology will go far beyond supporting the business, It will advance it. We provide business analytical tools, that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the business, and helping them to get there products release into the market fast. 
 So, Together lets make your product smarter. Your customer experiences more exceptional. Your people more productive. Your process more profitable and your system more powerful by choosing us.
 
@@ -55,11 +55,11 @@ Contact us
 Address
 Map Location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5NjExNTA0LC0xNjU3NzA1MjYsNzcxNz
-cyNTQzLDYxNDkwMjY0NywtOTYwNDcyODQ3LC05MDQwNDc0NCwt
-MTAwNjQ5NzU5MywtMTg5MzQ1OTc0MywxNDQyMDc3MTQ3LC0xNT
-E1ODY0NTI5LDMwMTg3NzY5NywtMTk4ODcyODg2NSwtMTI3OTQ5
-NTYxNCwxMDcxMzQwOTEwLC0xNDUyMzcwMzAsLTEzNzc4NTk2Mi
-wxMjI0MTkwMzgsLTE4NTM1OTkwNDMsLTU3ODU3NTc2OSwtMTEw
-Nzk3NjkyMl19
+eyJoaXN0b3J5IjpbLTE4NjcyNTcxMjcsLTE2NTc3MDUyNiw3Nz
+E3NzI1NDMsNjE0OTAyNjQ3LC05NjA0NzI4NDcsLTkwNDA0NzQ0
+LC0xMDA2NDk3NTkzLC0xODkzNDU5NzQzLDE0NDIwNzcxNDcsLT
+E1MTU4NjQ1MjksMzAxODc3Njk3LC0xOTg4NzI4ODY1LC0xMjc5
+NDk1NjE0LDEwNzEzNDA5MTAsLTE0NTIzNzAzMCwtMTM3Nzg1OT
+YyLDEyMjQxOTAzOCwtMTg1MzU5OTA0MywtNTc4NTc1NzY5LC0x
+MTA3OTc2OTIyXX0=
 -->
