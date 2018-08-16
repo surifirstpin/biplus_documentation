@@ -14,7 +14,7 @@ We create an ability to turn your actions into opportunity In hand
 ## Introducing FirstPin Technologies
 Our Technology will go far beyond supporting the business, It will advance it.
 
-Together lets make your product smarter. Your customer experiences more exceptional. Your people more smarter productive. Your process more profitable and your system more powerful.
+Together lets make your product smarter. Your customer experiences more exceptional. Your people more productive. Your process more profitable and your system more powerful.
 
 We provide business analytical tools, that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the business by helping them to get there products into the market fast. We currently focusing on payment-processing, payment solutions and online-gaming domains. 
 
@@ -47,10 +47,11 @@ Contact us
 Address
 Map Location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDA0NzQ0LC0xMDA2NDk3NTkzLC0xOD
-kzNDU5NzQzLDE0NDIwNzcxNDcsLTE1MTU4NjQ1MjksMzAxODc3
-Njk3LC0xOTg4NzI4ODY1LC0xMjc5NDk1NjE0LDEwNzEzNDA5MT
-AsLTE0NTIzNzAzMCwtMTM3Nzg1OTYyLDEyMjQxOTAzOCwtMTg1
-MzU5OTA0MywtNTc4NTc1NzY5LC0xMTA3OTc2OTIyLC0xMDQyMD
-I4MTk4LC0xODE1NDk0NzY2LC01MDAzNTQwODddfQ==
+eyJoaXN0b3J5IjpbLTIwNjAyMjQzMCwtOTA0MDQ3NDQsLTEwMD
+Y0OTc1OTMsLTE4OTM0NTk3NDMsMTQ0MjA3NzE0NywtMTUxNTg2
+NDUyOSwzMDE4Nzc2OTcsLTE5ODg3Mjg4NjUsLTEyNzk0OTU2MT
+QsMTA3MTM0MDkxMCwtMTQ1MjM3MDMwLC0xMzc3ODU5NjIsMTIy
+NDE5MDM4LC0xODUzNTk5MDQzLC01Nzg1NzU3NjksLTExMDc5Nz
+Y5MjIsLTEwNDIwMjgxOTgsLTE4MTU0OTQ3NjYsLTUwMDM1NDA4
+N119
 -->
