@@ -38,7 +38,7 @@ Our application is integrated into current software very easily and allows you t
 
 Online Gaming
 Data-Analytics
-Product Development
+Product Based Development
 Web Application
 
 # We are obsessed with Customer Success
@@ -55,11 +55,11 @@ Contact us
 Address
 Map Location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTQ2MTY0NCw2MTQ5MDI2NDcsLTk2MD
-Q3Mjg0NywtOTA0MDQ3NDQsLTEwMDY0OTc1OTMsLTE4OTM0NTk3
-NDMsMTQ0MjA3NzE0NywtMTUxNTg2NDUyOSwzMDE4Nzc2OTcsLT
-E5ODg3Mjg4NjUsLTEyNzk0OTU2MTQsMTA3MTM0MDkxMCwtMTQ1
-MjM3MDMwLC0xMzc3ODU5NjIsMTIyNDE5MDM4LC0xODUzNTk5MD
-QzLC01Nzg1NzU3NjksLTExMDc5NzY5MjIsLTEwNDIwMjgxOTgs
-LTE4MTU0OTQ3NjZdfQ==
+eyJoaXN0b3J5IjpbNzcxNzcyNTQzLDYxNDkwMjY0NywtOTYwND
+cyODQ3LC05MDQwNDc0NCwtMTAwNjQ5NzU5MywtMTg5MzQ1OTc0
+MywxNDQyMDc3MTQ3LC0xNTE1ODY0NTI5LDMwMTg3NzY5NywtMT
+k4ODcyODg2NSwtMTI3OTQ5NTYxNCwxMDcxMzQwOTEwLC0xNDUy
+MzcwMzAsLTEzNzc4NTk2MiwxMjI0MTkwMzgsLTE4NTM1OTkwND
+MsLTU3ODU3NTc2OSwtMTEwNzk3NjkyMiwtMTA0MjAyODE5OCwt
+MTgxNTQ5NDc2Nl19
 -->
