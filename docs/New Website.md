@@ -14,7 +14,7 @@ We create an ability to turn your actions into opportunity In hand
 ## Introducing FirstPin Technologies
 ### A Company Built For You
 
-FirstPin is a outsourced product based, business analytic and service oriented company. We harness  the power of cloud, Automation, Data Analytics and all the emerging technologies to help our clients adapt to digital world and make them successful by helping them to  release there products into the market fast.  
+FirstPin is a outsourced product based, business analytic and service oriented company. we harness  the power of cloud, Automation, Data Analytics and all the Emerging Technologies to help our clients adapt to digital world and make them successful by helping them to release there products into the market fast.  
 
 So, Together lets make your product smarter. Your customer experiences more exceptional. Your people more productive. Your process more profitable and your system more powerful.
 
@@ -56,11 +56,11 @@ Contact us
 Address
 Map Location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Mzk3Mjk5MywtMTY1NzcwNTI2LDc3MT
-c3MjU0Myw2MTQ5MDI2NDcsLTk2MDQ3Mjg0NywtOTA0MDQ3NDQs
-LTEwMDY0OTc1OTMsLTE4OTM0NTk3NDMsMTQ0MjA3NzE0NywtMT
-UxNTg2NDUyOSwzMDE4Nzc2OTcsLTE5ODg3Mjg4NjUsLTEyNzk0
-OTU2MTQsMTA3MTM0MDkxMCwtMTQ1MjM3MDMwLC0xMzc3ODU5Nj
-IsMTIyNDE5MDM4LC0xODUzNTk5MDQzLC01Nzg1NzU3NjksLTEx
-MDc5NzY5MjJdfQ==
+eyJoaXN0b3J5IjpbLTEzMDgzMjYxMTMsLTE2NTc3MDUyNiw3Nz
+E3NzI1NDMsNjE0OTAyNjQ3LC05NjA0NzI4NDcsLTkwNDA0NzQ0
+LC0xMDA2NDk3NTkzLC0xODkzNDU5NzQzLDE0NDIwNzcxNDcsLT
+E1MTU4NjQ1MjksMzAxODc3Njk3LC0xOTg4NzI4ODY1LC0xMjc5
+NDk1NjE0LDEwNzEzNDA5MTAsLTE0NTIzNzAzMCwtMTM3Nzg1OT
+YyLDEyMjQxOTAzOCwtMTg1MzU5OTA0MywtNTc4NTc1NzY5LC0x
+MTA3OTc2OTIyXX0=
 -->
