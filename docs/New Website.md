@@ -39,6 +39,9 @@ Our application is integrated into current software very easily and allows you t
 
 When it comes to business establishment and success, Our software is an innovation that has ability to share and collaborate ideas efficiently.
 
+
+## TAKE THE FIRST STEP
+
 Connect us
 Phone   			Email		  LinkedIn
 
@@ -46,11 +49,11 @@ Contact us
 Address
 Map Location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDQ3Mjg0NywtOTA0MDQ3NDQsLTEwMD
-Y0OTc1OTMsLTE4OTM0NTk3NDMsMTQ0MjA3NzE0NywtMTUxNTg2
-NDUyOSwzMDE4Nzc2OTcsLTE5ODg3Mjg4NjUsLTEyNzk0OTU2MT
-QsMTA3MTM0MDkxMCwtMTQ1MjM3MDMwLC0xMzc3ODU5NjIsMTIy
-NDE5MDM4LC0xODUzNTk5MDQzLC01Nzg1NzU3NjksLTExMDc5Nz
-Y5MjIsLTEwNDIwMjgxOTgsLTE4MTU0OTQ3NjYsLTUwMDM1NDA4
-N119
+eyJoaXN0b3J5IjpbNjE0OTAyNjQ3LC05NjA0NzI4NDcsLTkwND
+A0NzQ0LC0xMDA2NDk3NTkzLC0xODkzNDU5NzQzLDE0NDIwNzcx
+NDcsLTE1MTU4NjQ1MjksMzAxODc3Njk3LC0xOTg4NzI4ODY1LC
+0xMjc5NDk1NjE0LDEwNzEzNDA5MTAsLTE0NTIzNzAzMCwtMTM3
+Nzg1OTYyLDEyMjQxOTAzOCwtMTg1MzU5OTA0MywtNTc4NTc1Nz
+Y5LC0xMTA3OTc2OTIyLC0xMDQyMDI4MTk4LC0xODE1NDk0NzY2
+LC01MDAzNTQwODddfQ==
 -->
