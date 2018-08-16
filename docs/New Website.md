@@ -7,8 +7,8 @@ At FirstPin, we live and breathe the philosophy that people matter and results c
 ## Knowledge is Power 
 Get Informed with the insights and resources provided by us. 
 
-We create an ability to turn your actions into
-## "Opportunity In Hand"
+## Instant Insights provide instant value
+We create an ability to turn your actions into opportunity In hand
 
 
 
@@ -49,9 +49,10 @@ Contact us
 Address
 Map Location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjA3NzE0NywtMTUxNTg2NDUyOSwzMD
-E4Nzc2OTcsLTE5ODg3Mjg4NjUsLTEyNzk0OTU2MTQsMTA3MTM0
-MDkxMCwtMTQ1MjM3MDMwLC0xMzc3ODU5NjIsMTIyNDE5MDM4LC
-0xODUzNTk5MDQzLC01Nzg1NzU3NjksLTExMDc5NzY5MjIsLTEw
-NDIwMjgxOTgsLTE4MTU0OTQ3NjYsLTUwMDM1NDA4N119
+eyJoaXN0b3J5IjpbLTM3NTQ4NjI2LDE0NDIwNzcxNDcsLTE1MT
+U4NjQ1MjksMzAxODc3Njk3LC0xOTg4NzI4ODY1LC0xMjc5NDk1
+NjE0LDEwNzEzNDA5MTAsLTE0NTIzNzAzMCwtMTM3Nzg1OTYyLD
+EyMjQxOTAzOCwtMTg1MzU5OTA0MywtNTc4NTc1NzY5LC0xMTA3
+OTc2OTIyLC0xMDQyMDI4MTk4LC0xODE1NDk0NzY2LC01MDAzNT
+QwODddfQ==
 -->
