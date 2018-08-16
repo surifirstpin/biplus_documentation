@@ -3,7 +3,11 @@
 ## Our Vision and Mission
 
 At FirstPin, we live and breathe the philosophy that people matter and results count.
- 
+
+## Knowledge is Power 
+
+Get Informed with the insights and  
+
 We create an ability to turn your actions into
 ## "Opportunity In Hand"
 
@@ -51,9 +55,9 @@ Contact us
 Address
 Map Location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0MjA5NTE3LC0xNTE1ODY0NTI5LDMwMT
-g3NzY5NywtMTk4ODcyODg2NSwtMTI3OTQ5NTYxNCwxMDcxMzQw
-OTEwLC0xNDUyMzcwMzAsLTEzNzc4NTk2MiwxMjI0MTkwMzgsLT
-E4NTM1OTkwNDMsLTU3ODU3NTc2OSwtMTEwNzk3NjkyMiwtMTA0
-MjAyODE5OCwtMTgxNTQ5NDc2NiwtNTAwMzU0MDg3XX0=
+eyJoaXN0b3J5IjpbLTIwNDcxMzM0OTEsLTE1MTU4NjQ1MjksMz
+AxODc3Njk3LC0xOTg4NzI4ODY1LC0xMjc5NDk1NjE0LDEwNzEz
+NDA5MTAsLTE0NTIzNzAzMCwtMTM3Nzg1OTYyLDEyMjQxOTAzOC
+wtMTg1MzU5OTA0MywtNTc4NTc1NzY5LC0xMTA3OTc2OTIyLC0x
+MDQyMDI4MTk4LC0xODE1NDk0NzY2LC01MDAzNTQwODddfQ==
 -->
