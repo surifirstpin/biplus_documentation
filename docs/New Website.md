@@ -7,12 +7,9 @@ At FirstPin, we live and breathe the philosophy that people matter and results c
 ## Knowledge is Power 
 Get Informed with the insights and resources provided by us. 
 
-## Instant Insights provide instant value
+## Our Instant Insights provide Instant values
 We create an ability to turn your actions into opportunity In hand
-
-
-
-  
+ 
 
 ## Introducing FirstPin Technologies
 Your Technology Partner
@@ -49,10 +46,10 @@ Contact us
 Address
 Map Location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTQ4NjI2LDE0NDIwNzcxNDcsLTE1MT
-U4NjQ1MjksMzAxODc3Njk3LC0xOTg4NzI4ODY1LC0xMjc5NDk1
-NjE0LDEwNzEzNDA5MTAsLTE0NTIzNzAzMCwtMTM3Nzg1OTYyLD
-EyMjQxOTAzOCwtMTg1MzU5OTA0MywtNTc4NTc1NzY5LC0xMTA3
-OTc2OTIyLC0xMDQyMDI4MTk4LC0xODE1NDk0NzY2LC01MDAzNT
-QwODddfQ==
+eyJoaXN0b3J5IjpbLTE4OTM0NTk3NDMsMTQ0MjA3NzE0NywtMT
+UxNTg2NDUyOSwzMDE4Nzc2OTcsLTE5ODg3Mjg4NjUsLTEyNzk0
+OTU2MTQsMTA3MTM0MDkxMCwtMTQ1MjM3MDMwLC0xMzc3ODU5Nj
+IsMTIyNDE5MDM4LC0xODUzNTk5MDQzLC01Nzg1NzU3NjksLTEx
+MDc5NzY5MjIsLTEwNDIwMjgxOTgsLTE4MTU0OTQ3NjYsLTUwMD
+M1NDA4N119
 -->
