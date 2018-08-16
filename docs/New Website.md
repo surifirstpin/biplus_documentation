@@ -5,18 +5,12 @@
 At FirstPin, we live and breathe the philosophy that people matter and results count.
 
 ## Knowledge is Power 
-
 Get Informed with the insights and resources provided by us. 
 
 We create an ability to turn your actions into
 ## "Opportunity In Hand"
 
- 
-## "Create Beautiful Dashboards And Visualizations"
- in fraction of minutes
 
-We Provide 
-## "Multi Device Accessibility"
 
   
 
@@ -55,7 +49,7 @@ Contact us
 Address
 Map Location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDg0OTk0MiwtMTUxNTg2NDUyOSwzMD
+eyJoaXN0b3J5IjpbMTQ0MjA3NzE0NywtMTUxNTg2NDUyOSwzMD
 E4Nzc2OTcsLTE5ODg3Mjg4NjUsLTEyNzk0OTU2MTQsMTA3MTM0
 MDkxMCwtMTQ1MjM3MDMwLC0xMzc3ODU5NjIsMTIyNDE5MDM4LC
 0xODUzNTk5MDQzLC01Nzg1NzU3NjksLTExMDc5NzY5MjIsLTEw
