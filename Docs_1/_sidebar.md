@@ -6,7 +6,7 @@
   - [Organize Content](OrganizeContent.md)
   - [Tag Structure](TagStructure.md)
   - [Reports](Reports.md)
-  - [Calculated Column in detail](CalculatedColumn.md)
+  - [Calculated Column](CalculatedColumn.md)
   - [Visualisation Overview](VisualisationOverview.md)
   - [Visualisation Types and Settings](VisualisationTypesandSettings.md)
   - [SQL Runner](SQL Runner.md)
