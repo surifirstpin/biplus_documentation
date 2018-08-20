@@ -1,12 +1,12 @@
 
   
 - User Documentation
-  - [Admin Settings](Admin Settings FLD.md)
-  - [View Content](Viewing Content FLD.md)
-  - [Organize Content](Organize Content FLD.md)
-  - [Tag Structure](Tag Structure FLD.md)
-  - [Reports](Reports FLD.md)
-  - [Calculated Column in detail](Calculated Column FLD.md)
-  - [Visualisation Overview](Visualisation Overview FLD.md)
-  - [Visualisation Types and Settings](Visualisation Types and Settings FLD.md)
-  - [SQL Runner](SQL Runner FLD.md)
+  - [Admin Settings](Admin Settings.md)
+  - [View Content](Viewing Content.md)
+  - [Organize Content](Organize Content.md)
+  - [Tag Structure](Tag Structure.md)
+  - [Reports](Reports.md)
+  - [Calculated Column in detail](Calculated Column.md)
+  - [Visualisation Overview](Visualisation Overview.md)
+  - [Visualisation Types and Settings](Visualisation Types and Settings.md)
+  - [SQL Runner](SQL Runner.md)
