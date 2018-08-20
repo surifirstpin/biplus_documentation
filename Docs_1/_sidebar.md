@@ -1,5 +1,5 @@
  
-- Getting started  
+- User Documentation  
   - [Admin Settings FLD](Admin Settings FLD.md)
   - [View Content FLD](Viewing Content FLD.md)
   - [Organize Content FLD](Organize Content FLD.md)
