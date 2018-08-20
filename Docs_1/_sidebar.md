@@ -2,11 +2,11 @@
   
 - User Documentation
   - [Admin Settings](AdminSettings.md)
-  - [View Content](Viewing Content.md)
-  - [Organize Content](Organize Content.md)
-  - [Tag Structure](Tag Structure.md)
+  - [View Content](ViewingContent.md)
+  - [Organize Content](OrganizeContent.md)
+  - [Tag Structure](TagStructure.md)
   - [Reports](Reports.md)
-  - [Calculated Column in detail](Calculated Column.md)
-  - [Visualisation Overview](Visualisation Overview.md)
-  - [Visualisation Types and Settings](Visualisation Types and Settings.md)
-  - [SQL Runner](SQL Runner.md)
+  - [Calculated Column in detail](CalculatedColumn.md)
+  - [Visualisation Overview](VisualisationOverview.md)
+  - [Visualisation Types and Settings](VisualisationTypesandSettings.md)
+  - [SQL Runner](SQLRunner.md)
