@@ -1,6 +1,6 @@
  
  - Getting started 
-  - [Database Connection](DatabaseConnection.md)
+  - [Database Connection]()
   
 - User Documentation
   - [Admin Settings](Admin Settings FLD.md)
