@@ -1,5 +1,5 @@
  
-- <h1>User Documentation</h1> 
+- <h1><b>User Documentation</b></h1> 
   - [Admin Settings](Admin Settings FLD.md)
   - [View Content](Viewing Content FLD.md)
   - [Organize Content](Organize Content FLD.md)
