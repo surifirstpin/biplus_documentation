@@ -3,7 +3,7 @@
 - User Documentation
   - [Admin Settings](AdminSettings .md)
   - [View Content](Viewing Content.md)
-  - [Organize Content](OrganizeContent.md)
+  - [Organize Content](Organize Content.md)
   - [Tag Structure](TagStructure.md)
   - [Reports](Reports.md)
   - [Calculated Column](CalculatedColumn.md)
