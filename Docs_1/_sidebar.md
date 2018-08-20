@@ -1,7 +1,7 @@
 
   
 - User Documentation
-  - [Admin Settings](AdminSettings .md)
+  - [Admin Settings](Admin Settings .md)
   - [View Content](Viewing Content.md)
   - [Organize Content](Organize Content.md)
   - [Tag Structure](Tag Structure .md)
