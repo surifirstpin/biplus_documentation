@@ -4,7 +4,7 @@
   - [Admin Settings](Admin Settings .md)
   - [View Content](Viewing Content.md)
   - [Organize Content](Organize Content.md)
-  - [Tag Structure](Tag Structure.md)
+  - [Tag Structure](Tag Structure .md)
   - [Reports](Reports.md)
   - [Calculated Column](Calculated Column.md)
   - [Visualisation Overview](Visualisation Overview.md)
