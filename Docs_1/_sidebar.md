@@ -1,4 +1,7 @@
  
+ - Getting started 
+  - [Database Connection](DatabaseConnection.md)
+  
 - User Documentation
   - [Admin Settings](Admin Settings FLD.md)
   - [View Content](Viewing Content FLD.md)
