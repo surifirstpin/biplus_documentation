@@ -208,5 +208,5 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM1ODE0MjNdfQ==
+eyJoaXN0b3J5IjpbMTQ3MzcwMDAzMCwtMjA5MzU4MTQyM119
 -->
