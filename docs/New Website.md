@@ -15,8 +15,7 @@ We create an ability to turn your actions into opportunity In hand
 ### A Company Built For You
 
 FirstPin Technologies is a outsourced product based, business analytic and service oriented company. we harness  the power of Cloud, Automation, Data Analytics and all the Emerging Technologies to help our clients adapt to digital world and make them successful by helping them to release there products into the market fast.  
-
-So, Together lets make your product smarter. Your customer experiences more exceptional. Your people more productive. Your process more profitable and your system more powerful.
+So, together lets make your product smarter. Your customer experiences more exceptional. Your people more productive. Your process more profitable and your system more powerful.
 
 # How your business can get smarter
 
@@ -57,11 +56,11 @@ Contact us
 Address
 Map Location
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDYwMzM1NzAsLTU2NTEwNDQyLDc2Nz
-U3NDgwLC0xNjU3NzA1MjYsNzcxNzcyNTQzLDYxNDkwMjY0Nywt
-OTYwNDcyODQ3LC05MDQwNDc0NCwtMTAwNjQ5NzU5MywtMTg5Mz
-Q1OTc0MywxNDQyMDc3MTQ3LC0xNTE1ODY0NTI5LDMwMTg3NzY5
-NywtMTk4ODcyODg2NSwtMTI3OTQ5NTYxNCwxMDcxMzQwOTEwLC
-0xNDUyMzcwMzAsLTEzNzc4NTk2MiwxMjI0MTkwMzgsLTE4NTM1
-OTkwNDNdfQ==
+eyJoaXN0b3J5IjpbLTE4MTYxMTMzMDAsLTIwNDYwMzM1NzAsLT
+U2NTEwNDQyLDc2NzU3NDgwLC0xNjU3NzA1MjYsNzcxNzcyNTQz
+LDYxNDkwMjY0NywtOTYwNDcyODQ3LC05MDQwNDc0NCwtMTAwNj
+Q5NzU5MywtMTg5MzQ1OTc0MywxNDQyMDc3MTQ3LC0xNTE1ODY0
+NTI5LDMwMTg3NzY5NywtMTk4ODcyODg2NSwtMTI3OTQ5NTYxNC
+wxMDcxMzQwOTEwLC0xNDUyMzcwMzAsLTEzNzc4NTk2MiwxMjI0
+MTkwMzhdfQ==
 -->
