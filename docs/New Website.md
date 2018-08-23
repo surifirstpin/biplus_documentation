@@ -7,7 +7,7 @@ We live and breathe the philosophy that people matter and results count.
 Get Informed with the insights and resources provided by us. 
 
 ## Our Instant Insights provide Instant values
-We create an ability to turn your actions into opportunity In hand
+We create an ability to turn your actions into opportunity In hand.
  
 
 ## Introducing FirstPin Technologies
@@ -49,11 +49,11 @@ Phone   			Email		  LinkedIn
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODMxOTkxNiwtMTgxNjExMzMwMCwtMj
-A0NjAzMzU3MCwtNTY1MTA0NDIsNzY3NTc0ODAsLTE2NTc3MDUy
-Niw3NzE3NzI1NDMsNjE0OTAyNjQ3LC05NjA0NzI4NDcsLTkwND
-A0NzQ0LC0xMDA2NDk3NTkzLC0xODkzNDU5NzQzLDE0NDIwNzcx
-NDcsLTE1MTU4NjQ1MjksMzAxODc3Njk3LC0xOTg4NzI4ODY1LC
-0xMjc5NDk1NjE0LDEwNzEzNDA5MTAsLTE0NTIzNzAzMCwtMTM3
-Nzg1OTYyXX0=
+eyJoaXN0b3J5IjpbLTEwODkzNzc4NDQsMTcwODMxOTkxNiwtMT
+gxNjExMzMwMCwtMjA0NjAzMzU3MCwtNTY1MTA0NDIsNzY3NTc0
+ODAsLTE2NTc3MDUyNiw3NzE3NzI1NDMsNjE0OTAyNjQ3LC05Nj
+A0NzI4NDcsLTkwNDA0NzQ0LC0xMDA2NDk3NTkzLC0xODkzNDU5
+NzQzLDE0NDIwNzcxNDcsLTE1MTU4NjQ1MjksMzAxODc3Njk3LC
+0xOTg4NzI4ODY1LC0xMjc5NDk1NjE0LDEwNzEzNDA5MTAsLTE0
+NTIzNzAzMF19
 -->
