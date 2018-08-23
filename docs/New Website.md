@@ -3,7 +3,6 @@
 ## Our Vision and Mission
 
 We live and breathe the philosophy that people matter and results count.
-
 ## Knowledge is Power 
 Get Informed with the insights and resources provided by us. 
 
@@ -50,11 +49,11 @@ Phone   			Email		  LinkedIn
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzUzMTM4MzAsLTE4MTYxMTMzMDAsLT
-IwNDYwMzM1NzAsLTU2NTEwNDQyLDc2NzU3NDgwLC0xNjU3NzA1
-MjYsNzcxNzcyNTQzLDYxNDkwMjY0NywtOTYwNDcyODQ3LC05MD
-QwNDc0NCwtMTAwNjQ5NzU5MywtMTg5MzQ1OTc0MywxNDQyMDc3
-MTQ3LC0xNTE1ODY0NTI5LDMwMTg3NzY5NywtMTk4ODcyODg2NS
-wtMTI3OTQ5NTYxNCwxMDcxMzQwOTEwLC0xNDUyMzcwMzAsLTEz
-Nzc4NTk2Ml19
+eyJoaXN0b3J5IjpbMTcwODMxOTkxNiwtMTgxNjExMzMwMCwtMj
+A0NjAzMzU3MCwtNTY1MTA0NDIsNzY3NTc0ODAsLTE2NTc3MDUy
+Niw3NzE3NzI1NDMsNjE0OTAyNjQ3LC05NjA0NzI4NDcsLTkwND
+A0NzQ0LC0xMDA2NDk3NTkzLC0xODkzNDU5NzQzLDE0NDIwNzcx
+NDcsLTE1MTU4NjQ1MjksMzAxODc3Njk3LC0xOTg4NzI4ODY1LC
+0xMjc5NDk1NjE0LDEwNzEzNDA5MTAsLTE0NTIzNzAzMCwtMTM3
+Nzg1OTYyXX0=
 -->
