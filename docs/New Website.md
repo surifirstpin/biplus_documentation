@@ -42,25 +42,19 @@ Product Based Development
 Web Application
 Mobile Based Application
 
-# We are obsessed with Customer Success
-
-When it comes to business establishment and success, Our software is an innovation that has ability to share and collaborate ideas efficiently.
-
 
 ## TAKE THE FIRST STEP
 
 Connect us
 Phone   			Email		  LinkedIn
 
-Contact us
-Address
-Map Location
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTYxMTMzMDAsLTIwNDYwMzM1NzAsLT
-U2NTEwNDQyLDc2NzU3NDgwLC0xNjU3NzA1MjYsNzcxNzcyNTQz
-LDYxNDkwMjY0NywtOTYwNDcyODQ3LC05MDQwNDc0NCwtMTAwNj
-Q5NzU5MywtMTg5MzQ1OTc0MywxNDQyMDc3MTQ3LC0xNTE1ODY0
-NTI5LDMwMTg3NzY5NywtMTk4ODcyODg2NSwtMTI3OTQ5NTYxNC
-wxMDcxMzQwOTEwLC0xNDUyMzcwMzAsLTEzNzc4NTk2MiwxMjI0
-MTkwMzhdfQ==
+eyJoaXN0b3J5IjpbLTE5NzUzMTM4MzAsLTE4MTYxMTMzMDAsLT
+IwNDYwMzM1NzAsLTU2NTEwNDQyLDc2NzU3NDgwLC0xNjU3NzA1
+MjYsNzcxNzcyNTQzLDYxNDkwMjY0NywtOTYwNDcyODQ3LC05MD
+QwNDc0NCwtMTAwNjQ5NzU5MywtMTg5MzQ1OTc0MywxNDQyMDc3
+MTQ3LC0xNTE1ODY0NTI5LDMwMTg3NzY5NywtMTk4ODcyODg2NS
+wtMTI3OTQ5NTYxNCwxMDcxMzQwOTEwLC0xNDUyMzcwMzAsLTEz
+Nzc4NTk2Ml19
 -->
