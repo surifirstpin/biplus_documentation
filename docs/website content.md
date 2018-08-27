@@ -244,5 +244,5 @@ Its Unique data modelling techniques will let you describe and transform raw dat
 
 Hence BiPlus reports need not to be Static and Rigid. Now let us see how to create a Report in BiPlus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTMwMzYyMDBdfQ==
+eyJoaXN0b3J5IjpbMTI0Mjg1NDUzNywtMTExMzAzNjIwMF19
 -->
