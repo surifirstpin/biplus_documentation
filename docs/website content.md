@@ -70,6 +70,7 @@ Bringing all your team and data together for data exploration and easy decision 
 ### Rule Your Data
 
 Convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis.  Easily combine all your data sources, no matter how large it is, into a single view. Bi+ Associative engines guide every possible relationship in your data by gaining immediate insights and explore in any direction. it also allows contextualized smart search and Intuitive interface helps all users to quickly author the data. Unlike query-based tools, there is no pre-aggregated data and predefined queries that hold you back.
+
 ## new ( Combine your data)
 
  Easily combine all your data sources, no matter how large it is, into a single view. Convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis.  Bi+ Associative engines guides every possible relationship in your data by gaining immediate insights and can explore in any direction.
@@ -246,6 +247,6 @@ Its Unique data modelling techniques will let you describe and transform raw dat
 
 Hence BiPlus reports need not to be Static and Rigid. Now let us see how to create a Report in BiPlus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzEyOTg0MywxMjQyODU0NTM3LC0xMT
-EzMDM2MjAwXX0=
+eyJoaXN0b3J5IjpbLTE1Njc4NDc4NDEsMTI0Mjg1NDUzNywtMT
+ExMzAzNjIwMF19
 -->
