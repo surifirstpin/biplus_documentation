@@ -111,28 +111,30 @@ Start transforming your data into live dashboards and reports in fraction of min
 
 key advantages:
 
-Analyse
+**Analyse**
 Interactive visual analytics allows you to explore your data and instinctively get the answers you need.
 
-Cloud-Connected
+**Cloud-Connected**
 its cloud architecture allows users, teams, departments and IT to instantly share findings and data.
 
 
 
 ### A Complete Business analytic Platform. ( pentaho website)
 
-Business Analytics
+**Business Analytics**
 
 Turn your information into data, and data into Insights with Embedded Analytics also empower your business by putting analytics where your employees, customers, partners, and suppliers need them.
 
-Data Blend
+**Data Blend**
 Access, Manipulate and join data from different sources easily to create reports and get more insights into your business.
 
-Big Data
+**Big Data**
 Set up Data with Hadoop and other big data.
 
-Deployment :
+**Deployment :**
 With Bi+ you have flexibility to integrate into your existing data infrastructure, No matter where it is either on-premise or in the cloud.
+
+timer website 
 
 ### Our Business Analytics Platform is all about Customer Retention
 
@@ -244,5 +246,6 @@ Its Unique data modelling techniques will let you describe and transform raw dat
 
 Hence BiPlus reports need not to be Static and Rigid. Now let us see how to create a Report in BiPlus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0Mjg1NDUzNywtMTExMzAzNjIwMF19
+eyJoaXN0b3J5IjpbLTEzNzEyOTg0MywxMjQyODU0NTM3LC0xMT
+EzMDM2MjAwXX0=
 -->
