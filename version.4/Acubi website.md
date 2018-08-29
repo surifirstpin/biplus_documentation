@@ -139,9 +139,12 @@ Anyone can use Bi+ to analyze, search, visualize, interact intuitively and get e
 
 # DIALECTS SUPPORTED
 
-Connect to number of data sources. it doesn’t matters what type of data you want to explore or where it stays, you can connects to hundreds of data sources with Acubi. More sources are yet to be added.
+It doesn’t matters what type of data you want to explore or where it stays, you can connects to hundreds of data sources with Acubi. More sources are yet to be added.
 
 ## SOLUTIONS
+
+Lets see how all the Business platforms use AcuBi to drive insight and innovate decisions. Browse by function and industry.
+
 
 #### Sales
 
@@ -166,6 +169,8 @@ Streamline workforce planning and get better insights into human capital perform
 #### Finance
 
 Automate financial planning and analyze business performance down to operations.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTMxNjI1M119
+eyJoaXN0b3J5IjpbLTE3MTI5MTk1MjksMTM3NTMxNjI1M119
 -->
