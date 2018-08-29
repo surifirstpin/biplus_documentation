@@ -37,7 +37,7 @@ Enable users to turn their raw data into actionable information by simplifying t
 
 #### Better Insights across all Domains
 
-Bi+ Streamline workforce Planning, performance tracking, Analysis and improves the quality in a dynamic regulatory environment for all domains.
+Acubi Streamline workforce Planning, performance tracking, Analysis and improves the quality in a dynamic regulatory environment for all domains.
 
 # **AcuBi** IN ACTION
 
@@ -57,7 +57,7 @@ Get a powerful BI tool installed within your own product, application, portal, o
 
 #### Smarter Visualization
 
-Bi+ delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
+Acubi delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
 
 #### Beautiful Dashboards
 
@@ -65,7 +65,7 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
 
 #### Customer Success
 
-When it comes to business establishment and success, Bi+ software is an innovation that has ability to share and collaborate ideas efficiently.
+When it comes to business establishment and success, Acubi software is an innovation that has ability to share and collaborate ideas efficiently.
 
 # FASTER AND SMARTER DECISION MAKING
 
@@ -101,7 +101,7 @@ Interactive visual analytics, allows you to explore the data and instinctively g
 
 ## Automation
 
-Incorporate powerful self-service BI , Without any manual data by making everyone a powerful analyst.
+Incorporate powerful self-service BI, without any manual data by making everyone a powerful analyst.
 
 ## Cloud-Connected
 
@@ -115,7 +115,7 @@ It is integrated into current software very easily and allows you to re-brand th
 
 ## Simple
 
-Bi+ has an ability to transform the complex data into meaningful insights and performs in-depth analyses with utmost simplicity.
+Acubi has an ability to transform the complex data into meaningful insights and performs in-depth analyses with utmost simplicity.
 
 [More info](http://192.168.0.7/Biplus_timer_website/#)
 
@@ -172,5 +172,5 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTI5MTk1MjksMTM3NTMxNjI1M119
+eyJoaXN0b3J5IjpbLTEyODA0ODc2MTEsMTM3NTMxNjI1M119
 -->
