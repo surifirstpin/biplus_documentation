@@ -132,7 +132,7 @@ Access, Manipulate and join data from different sources easily to create reports
 **Big Data**
 Set up Data with Hadoop and other big data.
 
-**Deployment :**
+**Deployment :**support@nykaa.com
 With Bi+ you have flexibility to integrate into your existing data infrastructure, No matter where it is either on-premise or in the cloud.
 
 timer website 
@@ -247,6 +247,6 @@ Its Unique data modelling techniques will let you describe and transform raw dat
 
 Hence BiPlus reports need not to be Static and Rigid. Now let us see how to create a Report in BiPlus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc4NDc4NDEsMTI0Mjg1NDUzNywtMT
-ExMzAzNjIwMF19
+eyJoaXN0b3J5IjpbMTMyOTM4MTU0NywtMTU2Nzg0Nzg0MSwxMj
+QyODU0NTM3LC0xMTEzMDM2MjAwXX0=
 -->
