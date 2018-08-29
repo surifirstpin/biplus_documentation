@@ -167,5 +167,5 @@ Streamline workforce planning and get better insights into human capital perform
 
 Automate financial planning and analyze business performance down to operations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTMyMTM1MF19
+eyJoaXN0b3J5IjpbMTM3NTMxNjI1MywxMDA5MzIxMzUwXX0=
 -->
