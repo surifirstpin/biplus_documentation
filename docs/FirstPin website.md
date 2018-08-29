@@ -18,7 +18,7 @@
 
 ## It Provides Flexibility Of Getting Connected To Data From Desktop,Tablet And Mobile Devices Where Ever You Are.
 
-# WHY  AcuBi
+# WHY  AcuBi 
 
 ## It Is Business Analytical Tool That Provides A Standard Insights Throughout The Organization And Streamline The Process By Providing An Ability To Use Live Data By Predicting Needs Of The Business.
 
@@ -172,6 +172,6 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTgxNDQ0NywxMzc1MzE2MjUzLDEwMD
-kzMjEzNTBdfQ==
+eyJoaXN0b3J5IjpbMTUyOTk1OTkxNywxMDgxODE0NDQ3LDEzNz
+UzMTYyNTMsMTAwOTMyMTM1MF19
 -->
