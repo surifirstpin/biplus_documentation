@@ -121,19 +121,19 @@ Acubi has an ability to transform the complex data into meaningful insights and 
 
 ## Secure
 
-Bi+ security is built to ensure that your data is safe and secure, by providing 100% data protection on all devices.
+Acubi security is built to ensure that your data is safe and secure, by providing 100% data protection on all devices.
 
 [More info](http://192.168.0.7/Biplus_timer_website/#)
 
 ## Scalable
 
-From one users to many, Bi+ scales seamlessly to meet your growing BI needs and progress to a new hardware easily or add more connection for increased redundancy and scope.
+From one users to many, Acubi scales seamlessly to meet your growing BI needs and progress to a new hardware easily or add more connection for increased redundancy and scope.
 
 [More info](http://192.168.0.7/Biplus_timer_website/#)
 
 ## Self-Serve
 
-Anyone can use Bi+ to analyze, search, visualize, interact intuitively and get entrusted with the right insights.
+Anyone can use Acubi to analyze, search, visualize, interact intuitively and get entrusted with the right insights.
 
 [More info](http://192.168.0.7/Biplus_timer_website/#)
 
@@ -172,5 +172,5 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA0ODc2MTEsMTM3NTMxNjI1M119
+eyJoaXN0b3J5IjpbMTA4MTgxNDQ0NywxMzc1MzE2MjUzXX0=
 -->
