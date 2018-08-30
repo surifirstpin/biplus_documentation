@@ -42,7 +42,7 @@ You can add different reports to the layout selected, depending on the requireme
 
 **4.** Click on **Update report** to add reports to layout. You can add reports to layout in 2 ways.(refer image 4)
 
-   a. Click on report layout section and select the report you want to add to the layout.
+   a. Click on report layout section then select the report you want to add in layout.
 
    b. Click on **add** to add new layout to existing one.
    
@@ -152,11 +152,11 @@ BiPlus make it easier to view the dashboard list in mobile device easily and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDcxMTk5NCwxNTQzOTI5MjcyLC0xNj
-k2NDM2NzgxLDE1NzEyMjM1MTcsLTE4MDgzOTM5ODUsNzkxMTMw
-OTQwLDg2NjUxMzIzMCwxNzM5NzY0NDU0LC0yMTA5MDc5NDY1LD
-Q0OTk2NDMzNCwxMDY2Nzk0NjY4LC0xODczMzU4MzI2LC05NzAx
-NTQ5OTgsLTIwODc1MTkwOTksLTExOTE5MTQwODYsLTIxNTg5NT
-QzNSwyMTk2MDUwOTYsLTIwNjY4MzQ2NzksMTc5ODE4MTg4NCwx
+eyJoaXN0b3J5IjpbMTU0ODI2ODI4MiwyMTQ0NzExOTk0LDE1ND
+M5MjkyNzIsLTE2OTY0MzY3ODEsMTU3MTIyMzUxNywtMTgwODM5
+Mzk4NSw3OTExMzA5NDAsODY2NTEzMjMwLDE3Mzk3NjQ0NTQsLT
+IxMDkwNzk0NjUsNDQ5OTY0MzM0LDEwNjY3OTQ2NjgsLTE4NzMz
+NTgzMjYsLTk3MDE1NDk5OCwtMjA4NzUxOTA5OSwtMTE5MTkxND
+A4NiwtMjE1ODk1NDM1LDIxOTYwNTA5NiwtMjA2NjgzNDY3OSwx
 Nzk4MTgxODg0XX0=
 -->
