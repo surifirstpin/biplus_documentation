@@ -160,7 +160,7 @@ Break functional silos: plan and analyze across the entire SCM.
 
 #### Gaming
 
-We make sure your players come back, we make it easy for everyone in the company to understand what is driving, game developers can see what features are used, difficulty level and players area of interests.
+To make your players come back, we made it easy for everyone in the company to understand what is currently driving, game developers can see what features are used, difficulty level and players area of interests.
 
 #### HR
 
@@ -172,6 +172,6 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODIxOTg3ODQsMTUyOTk1OTkxNywxMD
-gxODE0NDQ3LDEzNzUzMTYyNTMsMTAwOTMyMTM1MF19
+eyJoaXN0b3J5IjpbLTc0MTgyMzI0OSwxNTI5OTU5OTE3LDEwOD
+E4MTQ0NDcsMTM3NTMxNjI1MywxMDA5MzIxMzUwXX0=
 -->
