@@ -67,8 +67,9 @@ You can add different reports to the layout selected, depending on the requireme
 
     - **Date** For fields that contain dates.
 
-   - **Lookup** to view the lookup in dashboard filters it should be defined in lookup section.( Refer point 7)
--   **Operator**  filter operation that are applicable.
+    - **Lookup** to view the lookup in dashboard filters it should be defined in lookup section.( Refer point 7)
+   
+    -   **Operator**  filter operation that are applicable.
 
 **7.**   **Lookup**  Adding lookup to dashboard will refer set of query or list of items in filters.( Refer image 5)
 
@@ -152,7 +153,7 @@ BiPlus make it easier to view the dashboard list in mobile device easily and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODI2ODI4MiwyMTQ0NzExOTk0LDE1ND
+eyJoaXN0b3J5IjpbMTI5Mzc3MTEwOCwyMTQ0NzExOTk0LDE1ND
 M5MjkyNzIsLTE2OTY0MzY3ODEsMTU3MTIyMzUxNywtMTgwODM5
 Mzk4NSw3OTExMzA5NDAsODY2NTEzMjMwLDE3Mzk3NjQ0NTQsLT
 IxMDkwNzk0NjUsNDQ5OTY0MzM0LDEwNjY3OTQ2NjgsLTE4NzMz
