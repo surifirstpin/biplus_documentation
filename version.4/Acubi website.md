@@ -160,10 +160,8 @@ Break functional silos: plan and analyze across the entire SCM.
 
 #### Gaming
 
-To make decision that are right for the future of your business, You need business intelligence.
-Make it easy for everyone in your company to understand exactly what is driving your players to keep coming back.
+We make sure your players come back, we make it easy for everyone in the company to understand what is driving, game developers can see what features are used, difficulty level and players area of interests.
 
-To make your Players come back, we make it easy for everyone in the company to understand what is driving
 #### HR
 
 Streamline workforce planning and get better insights into human capital performance.
@@ -174,6 +172,6 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTExMDQzMSwxNTI5OTU5OTE3LDEwOD
-E4MTQ0NDcsMTM3NTMxNjI1M119
+eyJoaXN0b3J5IjpbLTE5ODIxOTg3ODQsMTUyOTk1OTkxNywxMD
+gxODE0NDQ3LDEzNzUzMTYyNTNdfQ==
 -->
