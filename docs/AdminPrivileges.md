@@ -87,14 +87,12 @@ To reset your password, Click on **Forget Password** section and enter below inf
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 
-Global functions and Global parameters are discussed separate sections.
-
-
+Global Functions and Global parameters are discussed as separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODc2NjE0OCwtMTAzMDk0MzcyLC0xOD
-E0MDc1ODM2LC03ODExMDQ0OCwyNTAwOTczNDIsLTExMzYxODc5
-NjIsMTkxNTE4NzkxLC0xNzgzMTYzODYsLTE4ODgxNjI3ODQsLT
-YzMTk3NTUzNywtMTk4NjMzMTA2OCw4NjczNTAwNDAsMTY2Mjc2
-MDMyMCwtMTc4MDczODkyMiwxNzAxNzA0Mzg5LDE2OTg1NTEyNj
-YsNDY1NzY2ODE2LC05NzQ2NjAxODddfQ==
+eyJoaXN0b3J5IjpbNzQ4NDYwNzkyLDEwMjg3NjYxNDgsLTEwMz
+A5NDM3MiwtMTgxNDA3NTgzNiwtNzgxMTA0NDgsMjUwMDk3MzQy
+LC0xMTM2MTg3OTYyLDE5MTUxODc5MSwtMTc4MzE2Mzg2LC0xOD
+g4MTYyNzg0LC02MzE5NzU1MzcsLTE5ODYzMzEwNjgsODY3MzUw
+MDQwLDE2NjI3NjAzMjAsLTE3ODA3Mzg5MjIsMTcwMTcwNDM4OS
+wxNjk4NTUxMjY2LDQ2NTc2NjgxNiwtOTc0NjYwMTg3XX0=
 -->
