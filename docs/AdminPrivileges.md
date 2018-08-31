@@ -77,9 +77,9 @@ To share particular content with set of people in the the organisation, you need
 
 ## Forgot Password
 
-To reset your password, Click on **Forget Password** section a.
+To reset your password, Click on **Forget Password** section and enter below information.
 
-- **Enter old Password** enter old password.
+- **Enter old Password** enter already existing password.
 - **Enter New Password** enter new password to be update.
 - **Re-enter New password** re-enter the new password.
 - Click on **Update** button to save changes.
@@ -87,7 +87,7 @@ To reset your password, Click on **Forget Password** section a.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTkyODA2OSwtMTgxNDA3NTgzNiwtNz
+eyJoaXN0b3J5IjpbLTEwMzA5NDM3MiwtMTgxNDA3NTgzNiwtNz
 gxMTA0NDgsMjUwMDk3MzQyLC0xMTM2MTg3OTYyLDE5MTUxODc5
 MSwtMTc4MzE2Mzg2LC0xODg4MTYyNzg0LC02MzE5NzU1MzcsLT
 E5ODYzMzEwNjgsODY3MzUwMDQwLDE2NjI3NjAzMjAsLTE3ODA3
