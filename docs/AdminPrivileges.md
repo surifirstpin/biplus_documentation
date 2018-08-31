@@ -49,7 +49,7 @@ To edit or delete a user, follow the below steps;
 
 ## Groups
 
-To share a particular content with set of people in the the organisation, you need to create group.
+To share particular content with set of people in the the organisation, you need to create group.
 
 >**Navigation : Settings→Groups→ Add Group**
 
@@ -86,8 +86,9 @@ To reset password, Click on **forget password** button.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTE4NzkxLC0xNzgzMTYzODYsLTE4OD
-gxNjI3ODQsLTYzMTk3NTUzNywtMTk4NjMzMTA2OCw4NjczNTAw
-NDAsMTY2Mjc2MDMyMCwtMTc4MDczODkyMiwxNzAxNzA0Mzg5LD
-E2OTg1NTEyNjYsNDY1NzY2ODE2LC05NzQ2NjAxODddfQ==
+eyJoaXN0b3J5IjpbLTExMzYxODc5NjIsMTkxNTE4NzkxLC0xNz
+gzMTYzODYsLTE4ODgxNjI3ODQsLTYzMTk3NTUzNywtMTk4NjMz
+MTA2OCw4NjczNTAwNDAsMTY2Mjc2MDMyMCwtMTc4MDczODkyMi
+wxNzAxNzA0Mzg5LDE2OTg1NTEyNjYsNDY1NzY2ODE2LC05NzQ2
+NjAxODddfQ==
 -->
