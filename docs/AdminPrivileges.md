@@ -23,12 +23,12 @@ BiPlus admin has an ability to manage all Users, User Groups, Global parameters 
 
 | User Role |  Access|
 |--|--|
-| Admin | Create, edit, delete users,groups,global parameter,global function |
-|Developer|Create,edit,delete reports or dashboards and change global parameters and functions|
+| Admin | Create, edit, delete users, groups, global parameter, global function |
+|Developer|Create, edit, delete reports or dashboards and change global parameters and functions|
 |User|view reports and can edit them if provided access to the specific model|
 |Manager|view reports and edit them if provided access to the specific model|
 
-- **Enabled** on selecting enabled check box the user login is accessed or it will be disabled for login.
+- **Enabled** on selecting enabled check box the user login is accessed, if not disabled for login.
 - Click on **Save** button to save user.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34ae99ea80597fc08c96c787a88d8951979862b1/images/users.png)
@@ -83,8 +83,8 @@ To reset password, Click on **forget password** button.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzU4NzA5LC0xNzgzMTYzODYsLTE4OD
-gxNjI3ODQsLTYzMTk3NTUzNywtMTk4NjMzMTA2OCw4NjczNTAw
-NDAsMTY2Mjc2MDMyMCwtMTc4MDczODkyMiwxNzAxNzA0Mzg5LD
-E2OTg1NTEyNjYsNDY1NzY2ODE2LC05NzQ2NjAxODddfQ==
+eyJoaXN0b3J5IjpbMTQyNTk5NDc2NiwtMTc4MzE2Mzg2LC0xOD
+g4MTYyNzg0LC02MzE5NzU1MzcsLTE5ODYzMzEwNjgsODY3MzUw
+MDQwLDE2NjI3NjAzMjAsLTE3ODA3Mzg5MjIsMTcwMTcwNDM4OS
+wxNjk4NTUxMjY2LDQ2NTc2NjgxNiwtOTc0NjYwMTg3XX0=
 -->
