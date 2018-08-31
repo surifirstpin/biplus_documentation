@@ -41,9 +41,9 @@ BiPlus admin has an ability to manage all Users, User Groups, Global parameters 
 
 To edit or delete a user, follow the below steps;
 
-**1.** Click on **Edit icon** on users page to edit the user.
+**1.** Click on **Edit icon** in users section page to edit the user.
 
-**2.** Click on **Delete icon** on users page to delete the user.
+**2.** Click on **Delete icon** in users section page to delete the user.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fed976f79b3ba765a8bc3b9ca665de4de0fd2681/images/user_edit.png)
 
@@ -68,7 +68,7 @@ To share particular content with set of people in the the organisation, you need
 ## Edit & Delete Group
 
 
-**3.**  Click on **Edit icon** to edit the group.
+**3.**  Click on **Edit icon** in groups  to edit the group.
 
 **4.**  Click on **Delete icon** to delete the Group.
 
@@ -87,9 +87,10 @@ To reset password, Click on **forget password** button.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTEwNDQ4LDI1MDA5NzM0MiwtMTEzNj
-E4Nzk2MiwxOTE1MTg3OTEsLTE3ODMxNjM4NiwtMTg4ODE2Mjc4
-NCwtNjMxOTc1NTM3LC0xOTg2MzMxMDY4LDg2NzM1MDA0MCwxNj
-YyNzYwMzIwLC0xNzgwNzM4OTIyLDE3MDE3MDQzODksMTY5ODU1
-MTI2Niw0NjU3NjY4MTYsLTk3NDY2MDE4N119
+eyJoaXN0b3J5IjpbNjk4ODczMTEzLC03ODExMDQ0OCwyNTAwOT
+czNDIsLTExMzYxODc5NjIsMTkxNTE4NzkxLC0xNzgzMTYzODYs
+LTE4ODgxNjI3ODQsLTYzMTk3NTUzNywtMTk4NjMzMTA2OCw4Nj
+czNTAwNDAsMTY2Mjc2MDMyMCwtMTc4MDczODkyMiwxNzAxNzA0
+Mzg5LDE2OTg1NTEyNjYsNDY1NzY2ODE2LC05NzQ2NjAxODddfQ
+==
 -->
