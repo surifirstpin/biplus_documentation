@@ -1,6 +1,6 @@
  <center><h1>Admin Privileges</h1></center>
  
-BiPlus admin has an ability to manage all Users, User Groups, Global parameters and Global functions.
+BiPlus admin has an ability to manage all Users, User Groups, Global parameters and Global functions. Let us see in detail how does how does it work
 
 ## Users
 
@@ -83,8 +83,8 @@ To reset password, Click on **forget password** button.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwNzAyOTIsLTE3ODMxNjM4NiwtMTg4OD
-E2Mjc4NCwtNjMxOTc1NTM3LC0xOTg2MzMxMDY4LDg2NzM1MDA0
-MCwxNjYyNzYwMzIwLC0xNzgwNzM4OTIyLDE3MDE3MDQzODksMT
-Y5ODU1MTI2Niw0NjU3NjY4MTYsLTk3NDY2MDE4N119
+eyJoaXN0b3J5IjpbLTExNzkxODY0MTIsLTE3ODMxNjM4NiwtMT
+g4ODE2Mjc4NCwtNjMxOTc1NTM3LC0xOTg2MzMxMDY4LDg2NzM1
+MDA0MCwxNjYyNzYwMzIwLC0xNzgwNzM4OTIyLDE3MDE3MDQzOD
+ksMTY5ODU1MTI2Niw0NjU3NjY4MTYsLTk3NDY2MDE4N119
 -->
