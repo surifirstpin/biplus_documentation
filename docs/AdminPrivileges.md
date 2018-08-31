@@ -4,12 +4,13 @@ BiPlus admin has an ability to manage all Users, User Groups, Global parameters 
 
 ## Users
 
-- Admin has privilege to create, edit and delete the users. below are they steps provide
-> **Navigation : Settings → Use →  Add Users.**
+ Admin has privilege to create, edit and delete the users. Below are the steps provided to create a user;
+ 
+ > **Navigation : Settings → Use →  Add Users.**
 
 - **Email** Enter email id for the user.
 
-- **Password** Enter a password to access.
+- **Password** Enter password to access.
 
 - **FirstName** Enter first-name of the user.
 
@@ -22,7 +23,7 @@ BiPlus admin has an ability to manage all Users, User Groups, Global parameters 
 
 | User Role |  Access|
 |--|--|
-| Admin | Create,edit,delete users,groups,global parameter,global function |
+| Admin | Create, edit, delete users,groups,global parameter,global function |
 |Developer|Create,edit,delete reports or dashboards and change global parameters and functions|
 |User|view reports and can edit them if provided access to the specific model|
 |Manager|view reports and edit them if provided access to the specific model|
@@ -82,8 +83,8 @@ To reset password, Click on **forget password** button.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0OTE4MTYsLTE3ODMxNjM4NiwtMTg4OD
-E2Mjc4NCwtNjMxOTc1NTM3LC0xOTg2MzMxMDY4LDg2NzM1MDA0
-MCwxNjYyNzYwMzIwLC0xNzgwNzM4OTIyLDE3MDE3MDQzODksMT
-Y5ODU1MTI2Niw0NjU3NjY4MTYsLTk3NDY2MDE4N119
+eyJoaXN0b3J5IjpbLTY4MzU4NzA5LC0xNzgzMTYzODYsLTE4OD
+gxNjI3ODQsLTYzMTk3NTUzNywtMTk4NjMzMTA2OCw4NjczNTAw
+NDAsMTY2Mjc2MDMyMCwtMTc4MDczODkyMiwxNzAxNzA0Mzg5LD
+E2OTg1NTEyNjYsNDY1NzY2ODE2LC05NzQ2NjAxODddfQ==
 -->
