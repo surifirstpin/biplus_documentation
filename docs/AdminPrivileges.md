@@ -1,6 +1,5 @@
  <center><h1>Admin Privileges</h1></center>
  
-
 Admin has an ability to manage Users, User Groups, Global parameters and Global functions.
 
 ## Users
@@ -19,7 +18,7 @@ Admin has an ability to manage Users, User Groups, Global parameters and Global 
 
 - **Company** Enter name of the company.
 
-- **Role** Select the role from the drop down list ( Admin,Developer,User,Super Admin)
+- **Role** Select the role from the drop down list ( Admin, Developer, User, Super Admin)
 
 
 | User Role |  Access|
@@ -84,8 +83,8 @@ To reset password, Click on **forget password** button.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODMxNjM4NiwtMTg4ODE2Mjc4NCwtNj
-MxOTc1NTM3LC0xOTg2MzMxMDY4LDg2NzM1MDA0MCwxNjYyNzYw
-MzIwLC0xNzgwNzM4OTIyLDE3MDE3MDQzODksMTY5ODU1MTI2Ni
-w0NjU3NjY4MTYsLTk3NDY2MDE4N119
+eyJoaXN0b3J5IjpbMTM3Njk4ODc1OCwtMTc4MzE2Mzg2LC0xOD
+g4MTYyNzg0LC02MzE5NzU1MzcsLTE5ODYzMzEwNjgsODY3MzUw
+MDQwLDE2NjI3NjAzMjAsLTE3ODA3Mzg5MjIsMTcwMTcwNDM4OS
+wxNjk4NTUxMjY2LDQ2NTc2NjgxNiwtOTc0NjYwMTg3XX0=
 -->
