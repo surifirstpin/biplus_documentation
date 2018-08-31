@@ -53,7 +53,7 @@ To share particular content with set of people in the the organisation, you need
 
 >**Navigation : Settings→Groups→ Add Group**
 
-**Enter the below information:**
+**Enter the below information :**
 
 - **Group Name** enter a group name.
 
@@ -86,9 +86,9 @@ To reset password, Click on **forget password** button.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzYxODc5NjIsMTkxNTE4NzkxLC0xNz
-gzMTYzODYsLTE4ODgxNjI3ODQsLTYzMTk3NTUzNywtMTk4NjMz
-MTA2OCw4NjczNTAwNDAsMTY2Mjc2MDMyMCwtMTc4MDczODkyMi
-wxNzAxNzA0Mzg5LDE2OTg1NTEyNjYsNDY1NzY2ODE2LC05NzQ2
-NjAxODddfQ==
+eyJoaXN0b3J5IjpbMjUwMDk3MzQyLC0xMTM2MTg3OTYyLDE5MT
+UxODc5MSwtMTc4MzE2Mzg2LC0xODg4MTYyNzg0LC02MzE5NzU1
+MzcsLTE5ODYzMzEwNjgsODY3MzUwMDQwLDE2NjI3NjAzMjAsLT
+E3ODA3Mzg5MjIsMTcwMTcwNDM4OSwxNjk4NTUxMjY2LDQ2NTc2
+NjgxNiwtOTc0NjYwMTg3XX0=
 -->
