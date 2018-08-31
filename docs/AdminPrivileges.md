@@ -68,9 +68,9 @@ To share particular content with set of people in the the organisation, you need
 ## Edit & Delete Group
 
 
-**3.**  Click on **Edit icon** in groups  to edit the group.
+**3.**  Click on **Edit icon** in groups section  to edit the group.
 
-**4.**  Click on **Delete icon** to delete the Group.
+**4.**  Click on **Delete icon** in group section to delete the Group.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/fd56add1685021d091d8ca9707727ef8f9658517/images/edit%20and%20delete.png)
@@ -87,7 +87,7 @@ To reset password, Click on **forget password** button.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU3NTg0NzYsLTc4MTEwNDQ4LDI1MD
+eyJoaXN0b3J5IjpbLTE4MTQwNzU4MzYsLTc4MTEwNDQ4LDI1MD
 A5NzM0MiwtMTEzNjE4Nzk2MiwxOTE1MTg3OTEsLTE3ODMxNjM4
 NiwtMTg4ODE2Mjc4NCwtNjMxOTc1NTM3LC0xOTg2MzMxMDY4LD
 g2NzM1MDA0MCwxNjYyNzYwMzIwLC0xNzgwNzM4OTIyLDE3MDE3
