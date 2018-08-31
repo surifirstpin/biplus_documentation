@@ -131,6 +131,6 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjUyNzE1MiwtMTgwNjY1NTIzNiwtMT
-g1MjY3MTI2OF19
+eyJoaXN0b3J5IjpbLTE0MjI3MzQ4NiwtNjg2NTI3MTUyLC0xOD
+A2NjU1MjM2LC0xODUyNjcxMjY4XX0=
 -->
