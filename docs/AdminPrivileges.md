@@ -77,7 +77,7 @@ To share particular content with set of people in the the organisation, you need
 
 ## Forgot Password
 
-To reset password, Click on **forget password** button.
+To reset your password, Click on **Forget Password** section a.
 
 - **Enter old Password** enter old password.
 - **Enter New Password** enter new password to be update.
@@ -87,10 +87,10 @@ To reset password, Click on **forget password** button.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQwNzU4MzYsLTc4MTEwNDQ4LDI1MD
-A5NzM0MiwtMTEzNjE4Nzk2MiwxOTE1MTg3OTEsLTE3ODMxNjM4
-NiwtMTg4ODE2Mjc4NCwtNjMxOTc1NTM3LC0xOTg2MzMxMDY4LD
-g2NzM1MDA0MCwxNjYyNzYwMzIwLC0xNzgwNzM4OTIyLDE3MDE3
-MDQzODksMTY5ODU1MTI2Niw0NjU3NjY4MTYsLTk3NDY2MDE4N1
-19
+eyJoaXN0b3J5IjpbLTMyNTkyODA2OSwtMTgxNDA3NTgzNiwtNz
+gxMTA0NDgsMjUwMDk3MzQyLC0xMTM2MTg3OTYyLDE5MTUxODc5
+MSwtMTc4MzE2Mzg2LC0xODg4MTYyNzg0LC02MzE5NzU1MzcsLT
+E5ODYzMzEwNjgsODY3MzUwMDQwLDE2NjI3NjAzMjAsLTE3ODA3
+Mzg5MjIsMTcwMTcwNDM4OSwxNjk4NTUxMjY2LDQ2NTc2NjgxNi
+wtOTc0NjYwMTg3XX0=
 -->
