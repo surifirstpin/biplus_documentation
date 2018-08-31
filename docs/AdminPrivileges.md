@@ -67,6 +67,7 @@ To share particular content with set of people in the the organisation, you need
 
 ## Edit & Delete Group
 
+
 **3.**  Click on **Edit icon** to edit the group.
 
 **4.**  Click on **Delete icon** to delete the Group.
@@ -86,9 +87,9 @@ To reset password, Click on **forget password** button.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwMDk3MzQyLC0xMTM2MTg3OTYyLDE5MT
-UxODc5MSwtMTc4MzE2Mzg2LC0xODg4MTYyNzg0LC02MzE5NzU1
-MzcsLTE5ODYzMzEwNjgsODY3MzUwMDQwLDE2NjI3NjAzMjAsLT
-E3ODA3Mzg5MjIsMTcwMTcwNDM4OSwxNjk4NTUxMjY2LDQ2NTc2
-NjgxNiwtOTc0NjYwMTg3XX0=
+eyJoaXN0b3J5IjpbLTc4MTEwNDQ4LDI1MDA5NzM0MiwtMTEzNj
+E4Nzk2MiwxOTE1MTg3OTEsLTE3ODMxNjM4NiwtMTg4ODE2Mjc4
+NCwtNjMxOTc1NTM3LC0xOTg2MzMxMDY4LDg2NzM1MDA0MCwxNj
+YyNzYwMzIwLC0xNzgwNzM4OTIyLDE3MDE3MDQzODksMTY5ODU1
+MTI2Niw0NjU3NjY4MTYsLTk3NDY2MDE4N119
 -->
