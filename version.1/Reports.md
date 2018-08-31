@@ -313,5 +313,5 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTAxNzU4NzRdfQ==
+eyJoaXN0b3J5IjpbMTk1MTYxNTYxNSwtMTA1MDE3NTg3NF19
 -->
