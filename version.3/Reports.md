@@ -3,7 +3,7 @@
 
 This section describes how to retrieves the data in the desired combinations as per your business needs and how to explore particular subject area it self. It has an ability on how to pull the data and modify the report as per the needs and drill down deeper into the report for more better insights across the report.
 
- To get started with section select **Analyse Section** to start exploring the data.
+ To create a reports, Click on **Analyse Section** and start exploring the data.
 
 **1.** All the connection established, databases and tables used for the Reports are defined in **Project**. Depending on your business requirement you can choose project.
 
@@ -313,11 +313,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjMwNTA1NSwxOTUxNjE1NjE1LC0xMD
-UwMTc1ODc0LDg1MzM0MzQxMSwtMTUwNDk4MjU0NSw1NDcwMzcx
-NzksLTE5OTc3NzMwOSwtMTM4Nzg3ODgwMiwtMTA1OTA0ODU5NS
-wxMjI2MTYzOTI0LC02NTk1NjE2NiwxOTAyNzQ4NzUxLC0xODM0
-Mjk5ODA2LDEyNTE5MDgzNjEsNTI1MzgwMTg3LDE2NTA1NDMzNj
-MsMTIxMzE1MTc5MywtNDQxOTA0NjAzLDgwNDk3NjYyMCw1NTgx
-NDEyOTBdfQ==
+eyJoaXN0b3J5IjpbMTUzOTU2MzgwMiwxMzU2MzA1MDU1LDE5NT
+E2MTU2MTUsLTEwNTAxNzU4NzQsODUzMzQzNDExLC0xNTA0OTgy
+NTQ1LDU0NzAzNzE3OSwtMTk5Nzc3MzA5LC0xMzg3ODc4ODAyLC
+0xMDU5MDQ4NTk1LDEyMjYxNjM5MjQsLTY1OTU2MTY2LDE5MDI3
+NDg3NTEsLTE4MzQyOTk4MDYsMTI1MTkwODM2MSw1MjUzODAxOD
+csMTY1MDU0MzM2MywxMjEzMTUxNzkzLC00NDE5MDQ2MDMsODA0
+OTc2NjIwXX0=
 -->
