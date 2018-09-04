@@ -56,8 +56,6 @@ $(Root.BI_DELIVERYREPORT.sum_ORDERVALUE}+2000
 ](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)
 
 
-
-
 ## Mathematical operation 
 
 Custom made mathematical operations can be performed in calculated column section as shown below;
@@ -444,7 +442,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzYyMjc4NCwxNTQzNTIxNTAsLTE0ND
+eyJoaXN0b3J5IjpbMTA2Njk0MjExNiwxNTQzNTIxNTAsLTE0ND
 A3NzUyNDgsMTMwMjYxNTc0OSwtMjQ1MTczOTA1LC0yMDkzOTk5
 NzMwLC0xMzA4NDUxMzEwLC05NzYwNjgyMTEsLTE1Njg3NTkyNT
 IsLTE3MzY2MDk2NDQsLTMxMjI0MTU0OF19
