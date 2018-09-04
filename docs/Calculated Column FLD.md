@@ -18,7 +18,7 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 
 ### Deriving Expression
 
-Click on **Calculated column** button to enable table calculations as shown in below image,
+Click on **Calculated Column** button it will navigate to calculated column window,ations as shown in below image,
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9dd01207f083d272ba2269a4c999dfa8976f1914/images/calculate%20column1.png)
@@ -444,8 +444,8 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzUyMTUwLC0xNDQwNzc1MjQ4LDEzMD
-I2MTU3NDksLTI0NTE3MzkwNSwtMjA5Mzk5OTczMCwtMTMwODQ1
-MTMxMCwtOTc2MDY4MjExLC0xNTY4NzU5MjUyLC0xNzM2NjA5Nj
-Q0LC0zMTIyNDE1NDhdfQ==
+eyJoaXN0b3J5IjpbMTUwMjg0MDQ3LDE1NDM1MjE1MCwtMTQ0MD
+c3NTI0OCwxMzAyNjE1NzQ5LC0yNDUxNzM5MDUsLTIwOTM5OTk3
+MzAsLTEzMDg0NTEzMTAsLTk3NjA2ODIxMSwtMTU2ODc1OTI1Mi
+wtMTczNjYwOTY0NCwtMzEyMjQxNTQ4XX0=
 -->
