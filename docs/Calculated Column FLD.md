@@ -4,9 +4,9 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 
 ### Functionalities of Calculated Column
 
-- It supports wide variety of arithmetical and logical functions, to be applied on the data.
+- It supports wide variety of arithmetical and logical functions to be applied on the data.
 
-- It calculates using the data from external parameters (through "Global parameters") by making reference to the database fields. 
+- It is  calculates using the data from external parameters (through "Global parameters") by making reference to the database fields. 
 
 - It controls or access the data with user wise calculations.
 
@@ -444,8 +444,8 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3MTQyNzg5LDEzMDI2MTU3NDksLTI0NT
-E3MzkwNSwtMjA5Mzk5OTczMCwtMTMwODQ1MTMxMCwtOTc2MDY4
-MjExLC0xNTY4NzU5MjUyLC0xNzM2NjA5NjQ0LC0zMTIyNDE1ND
-hdfQ==
+eyJoaXN0b3J5IjpbLTE5Nzg1NzM3MTMsMTMwMjYxNTc0OSwtMj
+Q1MTczOTA1LC0yMDkzOTk5NzMwLC0xMzA4NDUxMzEwLC05NzYw
+NjgyMTEsLTE1Njg3NTkyNTIsLTE3MzY2MDk2NDQsLTMxMjI0MT
+U0OF19
 -->
