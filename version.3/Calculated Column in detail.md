@@ -31,9 +31,9 @@ Once navigated to Calculated Column Window, Enter the below fields.
 
 - **Data type** data type format for the result (string,number).
 
-- **Field type** derives dimension or measure.
+- **Field type** derives whether the result is dimension or measure.
 
-- **Calculation** To derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
+- **Calculation** Derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
 
 ```
 $(Root.BI_DELIVERYREPORT.sum_ORDERVALUE}+2000
@@ -444,7 +444,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjQ1MTQ2MywxNTQzNTIxNTAsLTE0ND
+eyJoaXN0b3J5IjpbLTI4MDE2Njk4NSwxNTQzNTIxNTAsLTE0ND
 A3NzUyNDgsMTMwMjYxNTc0OSwtMjQ1MTczOTA1LC0yMDkzOTk5
 NzMwLC0xMzA4NDUxMzEwLC05NzYwNjgyMTEsLTE1Njg3NTkyNT
 IsLTE3MzY2MDk2NDQsLTMxMjI0MTU0OF19
