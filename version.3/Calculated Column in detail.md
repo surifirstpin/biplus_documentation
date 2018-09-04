@@ -397,7 +397,7 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 
 By enabling the field **calculate on raw** the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
  
->**For Instance:**  consider the below image, which represents calculated data with and without applying enabling calculate on raw.
+>**For Instance:**  consider the below image, which represents calculated data with disabling calculate on raw.
 
 ```
 bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE},2)
@@ -441,9 +441,9 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTk4ODgxOCw5NzUxMzE3MCwxMDY2OT
-QyMTE2LDE1NDM1MjE1MCwtMTQ0MDc3NTI0OCwxMzAyNjE1NzQ5
-LC0yNDUxNzM5MDUsLTIwOTM5OTk3MzAsLTEzMDg0NTEzMTAsLT
-k3NjA2ODIxMSwtMTU2ODc1OTI1MiwtMTczNjYwOTY0NCwtMzEy
-MjQxNTQ4XX0=
+eyJoaXN0b3J5IjpbNTk1OTE1ODk2LDk3NTEzMTcwLDEwNjY5ND
+IxMTYsMTU0MzUyMTUwLC0xNDQwNzc1MjQ4LDEzMDI2MTU3NDks
+LTI0NTE3MzkwNSwtMjA5Mzk5OTczMCwtMTMwODQ1MTMxMCwtOT
+c2MDY4MjExLC0xNTY4NzU5MjUyLC0xNzM2NjA5NjQ0LC0zMTIy
+NDE1NDhdfQ==
 -->
