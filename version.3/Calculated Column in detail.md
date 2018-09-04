@@ -29,7 +29,7 @@ Once navigated to Calculated Column Window, Enter the below fields.
 
 - **Label** specify a identifier name to calculated column the way it should be displayed in the data table.
 
-- **Data type** data type format used (string,number).
+- **Data type** data type format for the result (string,number).
 
 - **Field type** derives dimension or measure.
 
@@ -444,7 +444,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTQ5MjMwNywxNTQzNTIxNTAsLTE0ND
+eyJoaXN0b3J5IjpbLTQ5MjQ1MTQ2MywxNTQzNTIxNTAsLTE0ND
 A3NzUyNDgsMTMwMjYxNTc0OSwtMjQ1MTczOTA1LC0yMDkzOTk5
 NzMwLC0xMzA4NDUxMzEwLC05NzYwNjgyMTEsLTE1Njg3NTkyNT
 IsLTE3MzY2MDk2NDQsLTMxMjI0MTU0OF19
