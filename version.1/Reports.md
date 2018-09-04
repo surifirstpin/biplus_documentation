@@ -9,7 +9,7 @@ This section describes how to retrieves the data in the desired combinations as 
 
 **For Example :** If you want to create a project based on oracle connection select the project as **Oracle_Techdoc** from drop down list.
 
-- Model Section has different set of models developed for Orders, Customers, Delivery Report, Employees, Kitchen Process and Products.
+- Model Section has different set of models developed in Acubi for Orders, Customers, Delivery, Employees, Kitchen Process and Products.
 
 **For Example:** If you want to create a report for order based details, Select **Bi_Orders** for model using drop down list. 
  
@@ -313,6 +313,6 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTMwMDA2NDQsMTM1NjMwNTA1NSwxOT
-UxNjE1NjE1LC0xMDUwMTc1ODc0XX0=
+eyJoaXN0b3J5IjpbLTE1MzQwOTkzNTksLTE2NTMwMDA2NDQsMT
+M1NjMwNTA1NSwxOTUxNjE1NjE1LC0xMDUwMTc1ODc0XX0=
 -->
