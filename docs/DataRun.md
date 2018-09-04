@@ -280,6 +280,7 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 - **Calculation** derive arithmetical & logical expressions.
 
 - **Calculate on the raw data** this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
+- if thie is enabled the calculation is applied on all rows irrespective of grouping or pivot, if disabled calculation applied on ab
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
@@ -372,11 +373,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzIwODc0MTIsLTYyNDgzNTg1MywtNT
-M2MTIxMTAwLDMyNDU2MjU5NCwzODI5MDQxMTYsLTE4ODI1MjM3
-NzAsLTc0NTU5NDY5NSwxOTQ1MzI4MDIzLDY4NTY3NTgxNyw4MT
-g4NjY1NjcsMjQ5MzA5NTAxLC00NTIxNDk0NDgsLTYzODM0Mzg0
-MCwyMDg3NTkxMzExLDEwMzIzMzgyMjUsMTU5ODgyMDY3OCwxMz
-UwMTI2MDc5LDIyMjUwMTE1NSwtMzcyNTAwNjE5LC0xOTI5NTY3
-NDAzXX0=
+eyJoaXN0b3J5IjpbMTczNzI3MTU3NiwtNjI0ODM1ODUzLC01Mz
+YxMjExMDAsMzI0NTYyNTk0LDM4MjkwNDExNiwtMTg4MjUyMzc3
+MCwtNzQ1NTk0Njk1LDE5NDUzMjgwMjMsNjg1Njc1ODE3LDgxOD
+g2NjU2NywyNDkzMDk1MDEsLTQ1MjE0OTQ0OCwtNjM4MzQzODQw
+LDIwODc1OTEzMTEsMTAzMjMzODIyNSwxNTk4ODIwNjc4LDEzNT
+AxMjYwNzksMjIyNTAxMTU1LC0zNzI1MDA2MTksLTE5Mjk1Njc0
+MDNdfQ==
 -->
