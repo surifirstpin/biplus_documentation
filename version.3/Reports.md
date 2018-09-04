@@ -11,7 +11,7 @@ This section describes how to retrieves the data in the desired combinations as 
 
 - Model Section has different set of models developed for Orders, Customers, Delivery Report, Employees, Kitchen Process and Products.
 
-**For Example:** If you want to Analyse about orders, You will probably start Analyzing it by selecting **Bi_Orders** for model using drop down list. 
+**For Example:** If you want to create a report for order based details, Select **Bi_Orders** for model using drop down list. 
  
  **3.** To create a new Analysis report click on **Reset Visualization** ( refresh icon). 
 
@@ -313,7 +313,7 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzI4MTY1MTcsMTM1NjMwNTA1NSwxOT
+eyJoaXN0b3J5IjpbLTE2NTMwMDA2NDQsMTM1NjMwNTA1NSwxOT
 UxNjE1NjE1LC0xMDUwMTc1ODc0LDg1MzM0MzQxMSwtMTUwNDk4
 MjU0NSw1NDcwMzcxNzksLTE5OTc3NzMwOSwtMTM4Nzg3ODgwMi
 wtMTA1OTA0ODU5NSwxMjI2MTYzOTI0LC02NTk1NjE2NiwxOTAy
