@@ -18,12 +18,12 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 
 ### Deriving Expression
 
-Click on **Calculated Column** button it will navigate to calculated column window,ations as shown in below image,
+Click on **Calculated Column** button it will navigate to calculated column window,
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9dd01207f083d272ba2269a4c999dfa8976f1914/images/calculate%20column1.png)
 
-After navigating to Calculated Column Window, Enter all the below fields.
+Once navigated to Calculated Column Window, Enter the below fields.
 
 - **Field name** unique identifier name to refer calculated column.
 
@@ -444,8 +444,8 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjg0MDQ3LDE1NDM1MjE1MCwtMTQ0MD
-c3NTI0OCwxMzAyNjE1NzQ5LC0yNDUxNzM5MDUsLTIwOTM5OTk3
-MzAsLTEzMDg0NTEzMTAsLTk3NjA2ODIxMSwtMTU2ODc1OTI1Mi
-wtMTczNjYwOTY0NCwtMzEyMjQxNTQ4XX0=
+eyJoaXN0b3J5IjpbLTIxMzE1MjQ5NDYsMTU0MzUyMTUwLC0xND
+QwNzc1MjQ4LDEzMDI2MTU3NDksLTI0NTE3MzkwNSwtMjA5Mzk5
+OTczMCwtMTMwODQ1MTMxMCwtOTc2MDY4MjExLC0xNTY4NzU5Mj
+UyLC0xNzM2NjA5NjQ0LC0zMTIyNDE1NDhdfQ==
 -->
