@@ -12,7 +12,7 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 
 - Optimize and transform the data using  **#plugin#**  functionality.
 
-- Define a function or use a global function to be applied on the required data fields.
+- Define a function or use a global function, to be applied on the required data fields.
  
 > **Note:** The functions support JavaScript API.
 
@@ -444,8 +444,8 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDA3NzUyNDgsMTMwMjYxNTc0OSwtMj
-Q1MTczOTA1LC0yMDkzOTk5NzMwLC0xMzA4NDUxMzEwLC05NzYw
-NjgyMTEsLTE1Njg3NTkyNTIsLTE3MzY2MDk2NDQsLTMxMjI0MT
-U0OF19
+eyJoaXN0b3J5IjpbMTU0MzUyMTUwLC0xNDQwNzc1MjQ4LDEzMD
+I2MTU3NDksLTI0NTE3MzkwNSwtMjA5Mzk5OTczMCwtMTMwODQ1
+MTMxMCwtOTc2MDY4MjExLC0xNTY4NzU5MjUyLC0xNzM2NjA5Nj
+Q0LC0zMTIyNDE1NDhdfQ==
 -->
