@@ -395,8 +395,8 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 
 ## Calculate on Raw functionality
 
-By enabling the field calculate on raw the calculation are applied directly on the retrieved value of the fields, initially before pivot or grouping are applied.
-
+By enabling the field **calculate on raw** the calculation is applied on all the rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
+ 
 >**For Instance:**  consider the below image, which represents calculated data with and without applying enabling calculate on raw.
 
 ```
@@ -441,9 +441,9 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTk1ODYyMiw5NzUxMzE3MCwxMDY2OT
-QyMTE2LDE1NDM1MjE1MCwtMTQ0MDc3NTI0OCwxMzAyNjE1NzQ5
-LC0yNDUxNzM5MDUsLTIwOTM5OTk3MzAsLTEzMDg0NTEzMTAsLT
-k3NjA2ODIxMSwtMTU2ODc1OTI1MiwtMTczNjYwOTY0NCwtMzEy
-MjQxNTQ4XX0=
+eyJoaXN0b3J5IjpbNTY2NTY2MzczLDk3NTEzMTcwLDEwNjY5ND
+IxMTYsMTU0MzUyMTUwLC0xNDQwNzc1MjQ4LDEzMDI2MTU3NDks
+LTI0NTE3MzkwNSwtMjA5Mzk5OTczMCwtMTMwODQ1MTMxMCwtOT
+c2MDY4MjExLC0xNTY4NzU5MjUyLC0xNzM2NjA5NjQ0LC0zMTIy
+NDE1NDhdfQ==
 -->
