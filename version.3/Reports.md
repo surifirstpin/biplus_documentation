@@ -9,7 +9,7 @@ This section describes how to retrieves the data in the desired combinations as 
 
 **For Example :** If you want to create a project based on oracle connection select the project as **Oracle_Techdoc** from drop down list.
 
-**2.In Our Model Section we have different type of models developed for Orders, Customers, Delivery Report, Employees, Kitchen Process, Products.
+- Model Section has different set of models developed for Orders, Customers, Delivery Report, Employees, Kitchen Process and Products.
 
 **For Example:** If you want to Analyse about orders, You will probably start Analyzing it by selecting **Bi_Orders** for model using drop down list. 
  
@@ -21,7 +21,7 @@ The Data in Analyse sections is determined by dimensions and measures. Using Fie
 
 ## Getting Started
 
-Let us generate a query to displays Stationcode (Dimension) and Order Attendant ID (Dimension) with Quantity Sum for better understanding.
+Let us generate a query to display Stationcode (Dimension) and Order Attendant ID (Dimension) with Quantity Sum for better understanding.
 
 After Selecting dimensions and measures **Run** the report to extract the data.
 
@@ -313,7 +313,7 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTAxODUxNDEsMTM1NjMwNTA1NSwxOT
+eyJoaXN0b3J5IjpbLTExNzI4MTY1MTcsMTM1NjMwNTA1NSwxOT
 UxNjE1NjE1LC0xMDUwMTc1ODc0LDg1MzM0MzQxMSwtMTUwNDk4
 MjU0NSw1NDcwMzcxNzksLTE5OTc3NzMwOSwtMTM4Nzg3ODgwMi
 wtMTA1OTA0ODU5NSwxMjI2MTYzOTI0LC02NTk1NjE2NiwxOTAy
