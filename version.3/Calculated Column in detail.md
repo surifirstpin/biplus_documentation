@@ -60,7 +60,6 @@ $(Root.BI_DELIVERYREPORT.sum_ORDERVALUE}+2000
 
 Custom made mathematical operations can be performed in calculated column section as shown below;
 
-
 **Example 1 :**
 
  To Calculate **Number of working days** in each month, use the following expression in calculation column window as shown in below ;
@@ -442,8 +441,8 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Njk0MjExNiwxNTQzNTIxNTAsLTE0ND
-A3NzUyNDgsMTMwMjYxNTc0OSwtMjQ1MTczOTA1LC0yMDkzOTk5
-NzMwLC0xMzA4NDUxMzEwLC05NzYwNjgyMTEsLTE1Njg3NTkyNT
-IsLTE3MzY2MDk2NDQsLTMxMjI0MTU0OF19
+eyJoaXN0b3J5IjpbOTc1MTMxNzAsMTA2Njk0MjExNiwxNTQzNT
+IxNTAsLTE0NDA3NzUyNDgsMTMwMjYxNTc0OSwtMjQ1MTczOTA1
+LC0yMDkzOTk5NzMwLC0xMzA4NDUxMzEwLC05NzYwNjgyMTEsLT
+E1Njg3NTkyNTIsLTE3MzY2MDk2NDQsLTMxMjI0MTU0OF19
 -->
