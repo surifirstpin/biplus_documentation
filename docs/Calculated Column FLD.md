@@ -348,7 +348,7 @@ bi._Fname(input_param1, input_param2,..input_paramN)
 
 ## Access Global Parameters
  
- Global parameter is a flat file used to manipulate,control and organize the data which is not available in database and can be accessed in report, .
+ Global parameter is a flat file used to manipulate,control and organize the data which is not available in database and can be accessed in report.
  ```
  bi.in_global_keys(["ParameterColumnName"] ["DatabaseValue"],"ParameterName.Field"])
 ```
@@ -441,8 +441,9 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1MTMxNzAsMTA2Njk0MjExNiwxNTQzNT
-IxNTAsLTE0NDA3NzUyNDgsMTMwMjYxNTc0OSwtMjQ1MTczOTA1
-LC0yMDkzOTk5NzMwLC0xMzA4NDUxMzEwLC05NzYwNjgyMTEsLT
-E1Njg3NTkyNTIsLTE3MzY2MDk2NDQsLTMxMjI0MTU0OF19
+eyJoaXN0b3J5IjpbMTU4NTk1ODYyMiw5NzUxMzE3MCwxMDY2OT
+QyMTE2LDE1NDM1MjE1MCwtMTQ0MDc3NTI0OCwxMzAyNjE1NzQ5
+LC0yNDUxNzM5MDUsLTIwOTM5OTk3MzAsLTEzMDg0NTEzMTAsLT
+k3NjA2ODIxMSwtMTU2ODc1OTI1MiwtMTczNjYwOTY0NCwtMzEy
+MjQxNTQ4XX0=
 -->
