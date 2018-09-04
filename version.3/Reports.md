@@ -3,13 +3,13 @@
 
 This section describes how to retrieves the data in the desired combinations as per your business needs and how to explore particular subject area it self. It has an ability on how to pull the data and modify the report as per the needs and drill down deeper into the report for more better insights across the report.
 
- To create a reports, Click on **Analyse Section** and start exploring the data.
+ To create a report, Click on **Analyse Section** and start exploring the data.
 
-**1.** All the connection established, databases and tables used for the Reports are defined in **Project**. Depending on your business requirement you can choose project.
+-  All the connection established, databases and tables used for the Reports are defined under **Project**. Depending on your business requirement you can choose appropriate project.
 
 **For Example :** If you want to create a project based on oracle connection select the project as **Oracle_Techdoc** from drop down list.
 
-**2.** In Our Model Section we have different type of models developed for Orders, Customers, Delivery Report, Employees, Kitchen Process, Products.
+**2.In Our Model Section we have different type of models developed for Orders, Customers, Delivery Report, Employees, Kitchen Process, Products.
 
 **For Example:** If you want to Analyse about orders, You will probably start Analyzing it by selecting **Bi_Orders** for model using drop down list. 
  
@@ -313,11 +313,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTU2MzgwMiwxMzU2MzA1MDU1LDE5NT
-E2MTU2MTUsLTEwNTAxNzU4NzQsODUzMzQzNDExLC0xNTA0OTgy
-NTQ1LDU0NzAzNzE3OSwtMTk5Nzc3MzA5LC0xMzg3ODc4ODAyLC
-0xMDU5MDQ4NTk1LDEyMjYxNjM5MjQsLTY1OTU2MTY2LDE5MDI3
-NDg3NTEsLTE4MzQyOTk4MDYsMTI1MTkwODM2MSw1MjUzODAxOD
-csMTY1MDU0MzM2MywxMjEzMTUxNzkzLC00NDE5MDQ2MDMsODA0
-OTc2NjIwXX0=
+eyJoaXN0b3J5IjpbLTEwMTAxODUxNDEsMTM1NjMwNTA1NSwxOT
+UxNjE1NjE1LC0xMDUwMTc1ODc0LDg1MzM0MzQxMSwtMTUwNDk4
+MjU0NSw1NDcwMzcxNzksLTE5OTc3NzMwOSwtMTM4Nzg3ODgwMi
+wtMTA1OTA0ODU5NSwxMjI2MTYzOTI0LC02NTk1NjE2NiwxOTAy
+NzQ4NzUxLC0xODM0Mjk5ODA2LDEyNTE5MDgzNjEsNTI1MzgwMT
+g3LDE2NTA1NDMzNjMsMTIxMzE1MTc5MywtNDQxOTA0NjAzLDgw
+NDk3NjYyMF19
 -->
