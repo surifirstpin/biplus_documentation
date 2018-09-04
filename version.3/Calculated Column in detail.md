@@ -42,14 +42,14 @@ $(Root.BI_DELIVERYREPORT.sum_ORDERVALUE}+2000
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/aff2f17d1b5383de542a7b534df7caeb69c03b3d/images/calculated_col_window.png)
 
- 
 
-- **Calculate on the raw data** this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
+-  **Calculate on the raw data** if it is enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
+
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
 
-- Click **Ok** after deriving an expression,  all the values based on calculation is shown up in green colour as shown in below image,
+- Click **Ok** after deriving an expression,  all the values based on calculation, is shown up in green colour as shown in below image,
 
 
 ![
@@ -444,7 +444,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDE2Njk4NSwxNTQzNTIxNTAsLTE0ND
+eyJoaXN0b3J5IjpbMTk4NzYyMjc4NCwxNTQzNTIxNTAsLTE0ND
 A3NzUyNDgsMTMwMjYxNTc0OSwtMjQ1MTczOTA1LC0yMDkzOTk5
 NzMwLC0xMzA4NDUxMzEwLC05NzYwNjgyMTEsLTE1Njg3NTkyNT
 IsLTE3MzY2MDk2NDQsLTMxMjI0MTU0OF19
