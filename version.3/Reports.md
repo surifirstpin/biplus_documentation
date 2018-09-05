@@ -5,7 +5,7 @@ This section describes how to retrieves the data in the desired combinations as 
 
  To create a report, Click on **Analyse Section** and start exploring the data.
 
--  All the connection established, databases and tables used for the Reports are defined under **Project**. Depending on your business requirement you can choose appropriate project.
+- All the connection established, databases and tables used for the Reports are defined under **Project**. Depending on your business requirement you can choose appropriate project.
 
 **For Example :** If you want to create a project based on oracle connection select the project as **Oracle_Techdoc** from drop down list.
 
@@ -13,7 +13,7 @@ This section describes how to retrieves the data in the desired combinations as 
 
 **For Example:** If you want to create a report for order based details, Select **Bi_Orders** for model using drop down list. 
  
- **3.** To create a new Analysis report click on **Reset Visualization** ( refresh icon). 
+ To start with New Analysis report click on **Reset Visualization** ( refresh icon). 
 
 The Data in Analyse sections is determined by dimensions and measures. Using Field Picker. Select the dimension and Measures to retrieve the data based on selection. In BiPlus A dimension is derived as group of data and Measures are derived as information about group of data.
 
@@ -313,11 +313,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODQ1NDI0MiwtMTUzNDA5OTM1OSwtMT
-Y1MzAwMDY0NCwxMzU2MzA1MDU1LDE5NTE2MTU2MTUsLTEwNTAx
-NzU4NzQsODUzMzQzNDExLC0xNTA0OTgyNTQ1LDU0NzAzNzE3OS
-wtMTk5Nzc3MzA5LC0xMzg3ODc4ODAyLC0xMDU5MDQ4NTk1LDEy
-MjYxNjM5MjQsLTY1OTU2MTY2LDE5MDI3NDg3NTEsLTE4MzQyOT
-k4MDYsMTI1MTkwODM2MSw1MjUzODAxODcsMTY1MDU0MzM2Mywx
-MjEzMTUxNzkzXX0=
+eyJoaXN0b3J5IjpbMjA3NTU4ODc4OCwxNzU4NDU0MjQyLC0xNT
+M0MDk5MzU5LC0xNjUzMDAwNjQ0LDEzNTYzMDUwNTUsMTk1MTYx
+NTYxNSwtMTA1MDE3NTg3NCw4NTMzNDM0MTEsLTE1MDQ5ODI1ND
+UsNTQ3MDM3MTc5LC0xOTk3NzczMDksLTEzODc4Nzg4MDIsLTEw
+NTkwNDg1OTUsMTIyNjE2MzkyNCwtNjU5NTYxNjYsMTkwMjc0OD
+c1MSwtMTgzNDI5OTgwNiwxMjUxOTA4MzYxLDUyNTM4MDE4Nywx
+NjUwNTQzMzYzXX0=
 -->
