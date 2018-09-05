@@ -117,7 +117,7 @@ Following are the different types of filters characteristics applicable ;
 
 **6.** To Add more filters click on **Add Rule**.
 
-**7.** To Delete the filter applied Click **Ban Icon**.
+**7.** To Delete the filter applied Click **Ban Icon** as shown in the image.
 
 
 ![
@@ -312,7 +312,7 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjA1NjE4MDEsLTI5NTQ0ODg3Myw4ND
+eyJoaXN0b3J5IjpbLTE1MjE4OTUyNTksLTI5NTQ0ODg3Myw4ND
 g1NTMxOTMsMTYzOTc2ODg1MCwxNTQzODk2MTk2LDE3MjIwMjEy
 MTEsMTc1ODQ1NDI0MiwtMTUzNDA5OTM1OSwtMTY1MzAwMDY0NC
 wxMzU2MzA1MDU1LDE5NTE2MTU2MTUsLTEwNTAxNzU4NzRdfQ==
