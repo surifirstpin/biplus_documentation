@@ -134,14 +134,14 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 ## Local Sorting
 
-**10.** Sorting can also be applied directly to column header fields in data section. To enable this click on the desired field header to enable sorting.
+**10.** Sorting can also be applied after data is retrieved in data section, you can simply click on the desired field header to enable sorting.
 
 For  **Dimensions**
 
 -   Click on upper arrow to enable ascending order.
 -   Click on down arrow to enable descending order.
 
-For  **Measures** its totally opposite in direction.
+For  **Measures** use opposite in direction.
 
 -   Click on upper arrow to enable descending order.
 -   Click on down arrow to enable ascending order.
@@ -312,10 +312,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDA2Njk5NjYsNDc0Njc2NzYxLC0xMj
-M5NjE5NDEzLDEwNTM2Mjc4MTgsMTcyMTI4MDExOSwtMTQyMDg1
-NzkxMSwtMTUyMTg5NTI1OSwtMjk1NDQ4ODczLDg0ODU1MzE5My
-wxNjM5NzY4ODUwLDE1NDM4OTYxOTYsMTcyMjAyMTIxMSwxNzU4
-NDU0MjQyLC0xNTM0MDk5MzU5LC0xNjUzMDAwNjQ0LDEzNTYzMD
-UwNTUsMTk1MTYxNTYxNSwtMTA1MDE3NTg3NF19
+eyJoaXN0b3J5IjpbODgwNTQ1NTgwLC0xNjAwNjY5OTY2LDQ3ND
+Y3Njc2MSwtMTIzOTYxOTQxMywxMDUzNjI3ODE4LDE3MjEyODAx
+MTksLTE0MjA4NTc5MTEsLTE1MjE4OTUyNTksLTI5NTQ0ODg3My
+w4NDg1NTMxOTMsMTYzOTc2ODg1MCwxNTQzODk2MTk2LDE3MjIw
+MjEyMTEsMTc1ODQ1NDI0MiwtMTUzNDA5OTM1OSwtMTY1MzAwMD
+Y0NCwxMzU2MzA1MDU1LDE5NTE2MTU2MTUsLTEwNTAxNzU4NzRd
+fQ==
 -->
