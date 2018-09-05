@@ -48,7 +48,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 Following are the different types of filters characteristics applicable ;
 
 ## String 
-|			Example            |						Description                        |                                                                                 
+|			**Example**            |						**Description**                        |                                                                                 
 |------------------------------|-----------------------------------------------------------|
 |**is not null**                   | should not be equal to null                               |
 |**is null**                       | equal to null                                             |
@@ -60,29 +60,29 @@ Following are the different types of filters characteristics applicable ;
 |**not in**                        | excluding set of values                                   |
 |**begins with**                   | finds any value that starts with mentioned substring      |
 |**doesn’t begins with**           | finds a value that doesn't begin with mentioned sub-string|
-|**Contains**                      | contains mentioned sub-string                             |
+|**contains**                      | contains mentioned sub-string                             |
 |**doesn’t contain**               | finds a value which does not contain mentioned sub-string |
 |**ends with**                     | should end with mentioned sub-string                      |
-|doesn’t end with              | should not end with mentioned sub-string                  |
+|**doesn’t end with**              | should not end with mentioned sub-string                  |
 
 ## Integer
 
-|			Example            |						Description                         |                                                                                 
+|			**Example**            |						**Description**                         |                                                                                 
 |------------------------------|------------------------------------------------------------|
-|is not null                   | should not be equal to null value                          |                
-|is null                       | should be equal to null value                              |                                           
-|not empty                     | data is not empty                                          |
-|is empty                      | data is empty                                              |
-|equal                         | data equal to specified value                              |
-|not equal                     | data not equal to specified value                          |
-|in                            | data equal to specified values                             |
-|not in                        | data not equal to specified values                         |
-|less                          | data less than specified value                             |
-|less or equal                 | data less than or equal to specified value                 |
-|greater                       | data greater than specified value                          |
-|greater or equal              | data greater than or equal to specified value              |
-|between                       | data in between the specified range                        |
-|not between                   | data not in between the specified range                    |
+|**is not null**                   | should not be equal to null value                          |                
+|**is null**                       | should be equal to null value                              |                                           
+|**not empty**                     | data is not empty                                          |
+|**is empty**                      | data is empty                                              |
+|**equal**                         | data equal to specified value                              |
+|**not equal**                     | data not equal to specified value                          |
+|**in**                            | data equal to specified values                             |
+|**not in**                        | data not equal to specified values                         |
+|**less**                          | data less than specified value                             |
+|**less or equal**                 | data less than or equal to specified value                 |
+|**greater**                       | data greater than specified value                          |
+|**greater or equal**              | data greater than or equal to specified value              |
+|**between**                       | data in between the specified range                        |
+|**not between**                   | data not in between the specified range                    |
 
 ## Date 
 
@@ -312,9 +312,9 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzYwNjc5NDUsLTI5NTQ0ODg3Myw4ND
-g1NTMxOTMsMTYzOTc2ODg1MCwxNTQzODk2MTk2LDE3MjIwMjEy
-MTEsMTc1ODQ1NDI0MiwtMTUzNDA5OTM1OSwtMTY1MzAwMDY0NC
-wxMzU2MzA1MDU1LDE5NTE2MTU2MTUsLTEwNTAxNzU4NzQsODUz
-MzQzNDExLC0xNTA0OTgyNTQ1XX0=
+eyJoaXN0b3J5IjpbMTEyNjYzMDMyNywtMjk1NDQ4ODczLDg0OD
+U1MzE5MywxNjM5NzY4ODUwLDE1NDM4OTYxOTYsMTcyMjAyMTIx
+MSwxNzU4NDU0MjQyLC0xNTM0MDk5MzU5LC0xNjUzMDAwNjQ0LD
+EzNTYzMDUwNTUsMTk1MTYxNTYxNSwtMTA1MDE3NTg3NCw4NTMz
+NDM0MTEsLTE1MDQ5ODI1NDVdfQ==
 -->
