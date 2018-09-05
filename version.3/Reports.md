@@ -141,7 +141,7 @@ For  **Dimensions**
 -   Click on upper arrow to enable ascending order.
 -   Click on down arrow to enable descending order.
 
-For  **Measures** us opposite in direction.
+For  **Measures** use opposite direction.
 
 -   Click on upper arrow to enable descending order.
 -   Click on down arrow to enable ascending order.
@@ -312,11 +312,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxNTU4MjQ3LC0xNjAwNjY5OTY2LDQ3ND
-Y3Njc2MSwtMTIzOTYxOTQxMywxMDUzNjI3ODE4LDE3MjEyODAx
-MTksLTE0MjA4NTc5MTEsLTE1MjE4OTUyNTksLTI5NTQ0ODg3My
-w4NDg1NTMxOTMsMTYzOTc2ODg1MCwxNTQzODk2MTk2LDE3MjIw
-MjEyMTEsMTc1ODQ1NDI0MiwtMTUzNDA5OTM1OSwtMTY1MzAwMD
-Y0NCwxMzU2MzA1MDU1LDE5NTE2MTU2MTUsLTEwNTAxNzU4NzQs
-ODUzMzQzNDExXX0=
+eyJoaXN0b3J5IjpbLTY4NzY2MzAzNywtMTYwMDY2OTk2Niw0Nz
+Q2NzY3NjEsLTEyMzk2MTk0MTMsMTA1MzYyNzgxOCwxNzIxMjgw
+MTE5LC0xNDIwODU3OTExLC0xNTIxODk1MjU5LC0yOTU0NDg4Nz
+MsODQ4NTUzMTkzLDE2Mzk3Njg4NTAsMTU0Mzg5NjE5NiwxNzIy
+MDIxMjExLDE3NTg0NTQyNDIsLTE1MzQwOTkzNTksLTE2NTMwMD
+A2NDQsMTM1NjMwNTA1NSwxOTUxNjE1NjE1LC0xMDUwMTc1ODc0
+LDg1MzM0MzQxMV19
 -->
