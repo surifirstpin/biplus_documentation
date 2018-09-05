@@ -90,13 +90,13 @@ Following are the different types of filters characteristics applicable ;
 |------------------------------|------------------------------------------------------------|
 |**timeline**                      |data from specific time scale                               |
 |**equal**                         |data from specific date                                     |
-|not equal                     |data excluding from specific date
-|between                       |data in between the specified dates
-|not between                   |excluding the data between the specified range
-|less or equal                 |data up to specified date 
-|greater or equal              |data from the specified date 
-|is not null                   |data which is not equal to null
-|is null                       |data which is equal to null
+|**not equal**                     |data excluding from specific date
+|**between**                       |data in between the specified dates
+|**not between**                   |excluding the data between the specified range
+|**less or equal**                 |data up to specified date 
+|**greater or equal**              |data from the specified date 
+|**is not null**                   |data which is not equal to null
+|**is null**                       |data which is equal to null
 
 > **Note :** To View the **Timeline Filters** in details please go to Timeline filters document.
 
@@ -312,7 +312,7 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzAyMDAzMjksLTI5NTQ0ODg3Myw4ND
+eyJoaXN0b3J5IjpbLTE5NjA1NjE4MDEsLTI5NTQ0ODg3Myw4ND
 g1NTMxOTMsMTYzOTc2ODg1MCwxNTQzODk2MTk2LDE3MjIwMjEy
 MTEsMTc1ODQ1NDI0MiwtMTUzNDA5OTM1OSwtMTY1MzAwMDY0NC
 wxMzU2MzA1MDU1LDE5NTE2MTU2MTUsLTEwNTAxNzU4NzRdfQ==
