@@ -50,19 +50,19 @@ Following are the different types of filters characteristics applicable ;
 ## String 
 |			Example            |						Description                        |                                                                                 
 |------------------------------|-----------------------------------------------------------|
-|is not null                   | should not be equal to null                               |
-|is null                       | equal to null                                             |
-|is not empty                  | should not be empty                                       |
-|is empty                      | should be empty                                           |
-|equal                         | should be equals to specific value                        |
-|not equal                     | shouldn't be equal to specific value                      |
-|in                            | selection based on combination of filter values           |
-|not in                        | excluding set of values                                   |
-|begins with                   | finds any value that starts with mentioned substring      |
-|doesn’t begins with           | finds a value that doesn't begin with mentioned sub-string|
-|Contains                      | contains mentioned sub-string                             |
-|doesn’t contain               | finds a value which does not contain mentioned sub-string |
-|ends with                     | should end with mentioned sub-string                      |
+|**is not null**                   | should not be equal to null                               |
+|**is null**                       | equal to null                                             |
+|**is not empty**                  | should not be empty                                       |
+|**is empty**                      | should be empty                                           |
+|**equal**                         | should be equals to specific value                        |
+|**not equal**                     | shouldn't be equal to specific value                      |
+|**in**                            | selection based on combination of filter values           |
+|**not in**                        | excluding set of values                                   |
+|**begins with**                   | finds any value that starts with mentioned substring      |
+|**doesn’t begins with**           | finds a value that doesn't begin with mentioned sub-string|
+|**Contains**                      | contains mentioned sub-string                             |
+|**doesn’t contain**               | finds a value which does not contain mentioned sub-string |
+|**ends with**                     | should end with mentioned sub-string                      |
 |doesn’t end with              | should not end with mentioned sub-string                  |
 
 ## Integer
@@ -312,9 +312,9 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTQ0ODg3Myw4NDg1NTMxOTMsMTYzOT
-c2ODg1MCwxNTQzODk2MTk2LDE3MjIwMjEyMTEsMTc1ODQ1NDI0
-MiwtMTUzNDA5OTM1OSwtMTY1MzAwMDY0NCwxMzU2MzA1MDU1LD
-E5NTE2MTU2MTUsLTEwNTAxNzU4NzQsODUzMzQzNDExLC0xNTA0
-OTgyNTQ1XX0=
+eyJoaXN0b3J5IjpbLTEwNzYwNjc5NDUsLTI5NTQ0ODg3Myw4ND
+g1NTMxOTMsMTYzOTc2ODg1MCwxNTQzODk2MTk2LDE3MjIwMjEy
+MTEsMTc1ODQ1NDI0MiwtMTUzNDA5OTM1OSwtMTY1MzAwMDY0NC
+wxMzU2MzA1MDU1LDE5NTE2MTU2MTUsLTEwNTAxNzU4NzQsODUz
+MzQzNDExLC0xNTA0OTgyNTQ1XX0=
 -->
