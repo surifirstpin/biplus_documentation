@@ -15,7 +15,7 @@ This section describes how to retrieves the data in the desired combinations as 
  
  To start with **New Analysis** report click on **Reset Visualization**( refresh icon). 
 
-The data in analyse sections is determined by dimensions and measures. Using Field Picker, select Dimensions and Measures to retrieve the data. In BiPlus A dimension is derived as group of data and Measures are derived as information about group of data.
+The data in analyse sections is determined by dimensions and measures. Using **Field Picker**, select Dimensions and Measures to retrieve the data. In BiPlus A dimension is derived as group of data and Measures are derived as information about group of data.
 
  > **Note :** All the dimensions in Biplus appears in Grey colour and all the measures appears in Orange colour in your data table.
 
@@ -313,7 +313,7 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTYzNDgwMiwxNzU4NDU0MjQyLC0xNT
+eyJoaXN0b3J5IjpbMTAxOTc3MTc2MiwxNzU4NDU0MjQyLC0xNT
 M0MDk5MzU5LC0xNjUzMDAwNjQ0LDEzNTYzMDUwNTUsMTk1MTYx
 NTYxNSwtMTA1MDE3NTg3NCw4NTMzNDM0MTEsLTE1MDQ5ODI1ND
 VdfQ==
