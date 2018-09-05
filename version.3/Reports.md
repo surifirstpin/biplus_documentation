@@ -40,7 +40,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 | Type | Description |
 |--|--|
 | String | For fields that contain letters or special characters |
-|Numbers|For fields that contain numbers|
+|Numbers|For fields that contain numerics|
 |Date|For fields that contain dates|
 |Lookup| To view the lookup in Report filters it should be derived under lookup field in model section|
 
@@ -311,11 +311,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE1MjY5MiwxNjM5NzY4ODUwLDE1ND
-M4OTYxOTYsMTcyMjAyMTIxMSwxNzU4NDU0MjQyLC0xNTM0MDk5
-MzU5LC0xNjUzMDAwNjQ0LDEzNTYzMDUwNTUsMTk1MTYxNTYxNS
-wtMTA1MDE3NTg3NCw4NTMzNDM0MTEsLTE1MDQ5ODI1NDUsNTQ3
-MDM3MTc5LC0xOTk3NzczMDksLTEzODc4Nzg4MDIsLTEwNTkwND
-g1OTUsMTIyNjE2MzkyNCwtNjU5NTYxNjYsMTkwMjc0ODc1MSwt
-MTgzNDI5OTgwNl19
+eyJoaXN0b3J5IjpbMTc2MzYyNjgwLDE2Mzk3Njg4NTAsMTU0Mz
+g5NjE5NiwxNzIyMDIxMjExLDE3NTg0NTQyNDIsLTE1MzQwOTkz
+NTksLTE2NTMwMDA2NDQsMTM1NjMwNTA1NSwxOTUxNjE1NjE1LC
+0xMDUwMTc1ODc0LDg1MzM0MzQxMSwtMTUwNDk4MjU0NSw1NDcw
+MzcxNzksLTE5OTc3NzMwOSwtMTM4Nzg3ODgwMiwtMTA1OTA0OD
+U5NSwxMjI2MTYzOTI0LC02NTk1NjE2NiwxOTAyNzQ4NzUxLC0x
+ODM0Mjk5ODA2XX0=
 -->
