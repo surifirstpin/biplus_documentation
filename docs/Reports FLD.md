@@ -24,7 +24,7 @@ The data in analyse sections is determined by dimensions and measures. Using **F
 Let us generate a query to display Stationcode (Dimension) and Order Attendant ID (Dimension) with Quantity Sum. 
 
 After Selecting dimensions and measures **Run** the report to extract the data.
-In the following example we have selected **Two Dimensions and one measure field.**
+In the following example we have selected **Two Dimensions and One Measure Field.**
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5097c9d785e4562444bb51ed2695045c47873f8f/images/full_rep1.png)
@@ -311,7 +311,7 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjgwMjA2MiwxNTQzODk2MTk2LDE3Mj
+eyJoaXN0b3J5IjpbMTYzOTc2ODg1MCwxNTQzODk2MTk2LDE3Mj
 IwMjEyMTEsMTc1ODQ1NDI0MiwtMTUzNDA5OTM1OSwtMTY1MzAw
 MDY0NCwxMzU2MzA1MDU1LDE5NTE2MTU2MTUsLTEwNTAxNzU4Nz
 QsODUzMzQzNDExLC0xNTA0OTgyNTQ1XX0=
