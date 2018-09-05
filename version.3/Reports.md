@@ -48,7 +48,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 Following are the different types of filters characteristics applicable ;
 
 ## String 
-|			Example            |						Description                        |                                                                                 
+|			**Example**            |						**Description**                        |                                                                                 
 |------------------------------|-----------------------------------------------------------|
 |**is not null**                   | should not be equal to null                               |
 |**is null**                       | equal to null                                             |
@@ -60,35 +60,35 @@ Following are the different types of filters characteristics applicable ;
 |**not in**                        | excluding set of values                                   |
 |**begins with**                   | finds any value that starts with mentioned substring      |
 |**doesn’t begins with**           | finds a value that doesn't begin with mentioned sub-string|
-|**Contains**                      | contains mentioned sub-string                             |
+|**contains**                      | contains mentioned sub-string                             |
 |**doesn’t contain**               | finds a value which does not contain mentioned sub-string |
 |**ends with**                     | should end with mentioned sub-string                      |
-|doesn’t end with              | should not end with mentioned sub-string                  |
+|**doesn’t end with**              | should not end with mentioned sub-string                  |
 
 ## Integer
 
-|			Example            |						Description                         |                                                                                 
+|			**Example**            |						**Description**                         |                                                                                 
 |------------------------------|------------------------------------------------------------|
-|is not null                   | should not be equal to null value                          |                
-|is null                       | should be equal to null value                              |                                           
-|not empty                     | data is not empty                                          |
-|is empty                      | data is empty                                              |
-|equal                         | data equal to specified value                              |
-|not equal                     | data not equal to specified value                          |
-|in                            | data equal to specified values                             |
-|not in                        | data not equal to specified values                         |
-|less                          | data less than specified value                             |
-|less or equal                 | data less than or equal to specified value                 |
-|greater                       | data greater than specified value                          |
-|greater or equal              | data greater than or equal to specified value              |
-|between                       | data in between the specified range                        |
-|not between                   | data not in between the specified range                    |
+|**is not null**                   | should not be equal to null value                          |                
+|**is null**                       | should be equal to null value                              |                                           
+|**not empty**                     | data is not empty                                          |
+|**is empty**                      | data is empty                                              |
+|**equal**                         | data equal to specified value                              |
+|**not equal**                     | data not equal to specified value                          |
+|**in**                            | data equal to specified values                             |
+|**not in**                        | data not equal to specified values                         |
+|**less**                          | data less than specified value                             |
+|**less or equal**                 | data less than or equal to specified value                 |
+|**greater**                       | data greater than specified value                          |
+|**greater or equal**              | data greater than or equal to specified value              |
+|**between**                       | data in between the specified range                        |
+|**not between**                   | data not in between the specified range                    |
 
 ## Date 
 
 |			Example            |						Description                         |                                                                                 
 |------------------------------|------------------------------------------------------------|
-|timeline                      |data from specific time scale                               |
+|**timeline**                      |data from specific time scale                               |
 |equal                         |data from specific date                                     |
 |not equal                     |data excluding from specific date
 |between                       |data in between the specified dates
@@ -312,11 +312,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzYwNjc5NDUsLTI5NTQ0ODg3Myw4ND
-g1NTMxOTMsMTYzOTc2ODg1MCwxNTQzODk2MTk2LDE3MjIwMjEy
-MTEsMTc1ODQ1NDI0MiwtMTUzNDA5OTM1OSwtMTY1MzAwMDY0NC
-wxMzU2MzA1MDU1LDE5NTE2MTU2MTUsLTEwNTAxNzU4NzQsODUz
-MzQzNDExLC0xNTA0OTgyNTQ1LDU0NzAzNzE3OSwtMTk5Nzc3Mz
-A5LC0xMzg3ODc4ODAyLC0xMDU5MDQ4NTk1LDEyMjYxNjM5MjQs
-LTY1OTU2MTY2XX0=
+eyJoaXN0b3J5IjpbMTcyMjg2MTk5LC0yOTU0NDg4NzMsODQ4NT
+UzMTkzLDE2Mzk3Njg4NTAsMTU0Mzg5NjE5NiwxNzIyMDIxMjEx
+LDE3NTg0NTQyNDIsLTE1MzQwOTkzNTksLTE2NTMwMDA2NDQsMT
+M1NjMwNTA1NSwxOTUxNjE1NjE1LC0xMDUwMTc1ODc0LDg1MzM0
+MzQxMSwtMTUwNDk4MjU0NSw1NDcwMzcxNzksLTE5OTc3NzMwOS
+wtMTM4Nzg3ODgwMiwtMTA1OTA0ODU5NSwxMjI2MTYzOTI0LC02
+NTk1NjE2Nl19
 -->
