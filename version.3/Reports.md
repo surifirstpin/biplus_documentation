@@ -130,11 +130,11 @@ Report filters will narrow the reports results while allowing you to view the sp
  
 **b.** To delete, sorting for fields click **Ban Icon**.
 
-**9.** To hide the **Filter** or **Order** section click on angle-double-up icon on to far right of the order section. To un-hide the same click on angle-double-down icon at same location.
+**9.** To hide the **Filter** or **Order** section click on angle-double-up icon on to far right of the order section. To un-hide the same click on angle-double-down icon.
 
 ## Local Sorting
 
-**10.** Local Sorting can be applied directly to the data obtained for dimension and measure fields in the data section. To enable this Click on the desired field header to enable sorting.
+**10.** Local sorting can be applied directly to the data obtained for dimension and measure fields in the data section. To enable this click on the desired field header to enable sorting.
 
 For  **Dimensions**
 
@@ -312,11 +312,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzk2MTk0MTMsMTA1MzYyNzgxOCwxNz
-IxMjgwMTE5LC0xNDIwODU3OTExLC0xNTIxODk1MjU5LC0yOTU0
-NDg4NzMsODQ4NTUzMTkzLDE2Mzk3Njg4NTAsMTU0Mzg5NjE5Ni
-wxNzIyMDIxMjExLDE3NTg0NTQyNDIsLTE1MzQwOTkzNTksLTE2
-NTMwMDA2NDQsMTM1NjMwNTA1NSwxOTUxNjE1NjE1LC0xMDUwMT
-c1ODc0LDg1MzM0MzQxMSwtMTUwNDk4MjU0NSw1NDcwMzcxNzks
-LTE5OTc3NzMwOV19
+eyJoaXN0b3J5IjpbNDc0Njc2NzYxLC0xMjM5NjE5NDEzLDEwNT
+M2Mjc4MTgsMTcyMTI4MDExOSwtMTQyMDg1NzkxMSwtMTUyMTg5
+NTI1OSwtMjk1NDQ4ODczLDg0ODU1MzE5MywxNjM5NzY4ODUwLD
+E1NDM4OTYxOTYsMTcyMjAyMTIxMSwxNzU4NDU0MjQyLC0xNTM0
+MDk5MzU5LC0xNjUzMDAwNjQ0LDEzNTYzMDUwNTUsMTk1MTYxNT
+YxNSwtMTA1MDE3NTg3NCw4NTMzNDM0MTEsLTE1MDQ5ODI1NDUs
+NTQ3MDM3MTc5XX0=
 -->
