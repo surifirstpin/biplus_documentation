@@ -88,15 +88,15 @@ Following are the different types of filters characteristics applicable ;
 
 |			Example            |						Description                         |                                                                                 
 |------------------------------|------------------------------------------------------------|
-|timeline                      |data from specific time scale                               |
-|equal                         |data from specific date                                     |
-|not equal                     |data excluding from specific date
-|between                       |data in between the specified dates
-|not between                   |excluding the data between the specified range
-|less or equal                 |data up to specified date 
-|greater or equal              |data from the specified date 
-|is not null                   |data which is not equal to null
-|is null                       |data which is equal to null
+|**timeline**                      |data from specific time scale                               |
+|**equal**                         |data from specific date                                     |
+|**not equal**                     |data excluding from specific date
+|**between**                       |data in between the specified dates
+|**not between**                   |excluding the data between the specified range
+|**less or equal**                 |data up to specified date 
+|**greater or equal**              |data from the specified date 
+|**is not null**                   |data which is not equal to null
+|**is null**                       |data which is equal to null
 
 > **Note :** To View the **Timeline Filters** in details please go to Timeline filters document.
 
@@ -312,9 +312,9 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjYzMDMyNywtMjk1NDQ4ODczLDg0OD
-U1MzE5MywxNjM5NzY4ODUwLDE1NDM4OTYxOTYsMTcyMjAyMTIx
-MSwxNzU4NDU0MjQyLC0xNTM0MDk5MzU5LC0xNjUzMDAwNjQ0LD
-EzNTYzMDUwNTUsMTk1MTYxNTYxNSwtMTA1MDE3NTg3NCw4NTMz
-NDM0MTEsLTE1MDQ5ODI1NDVdfQ==
+eyJoaXN0b3J5IjpbLTE5NjA1NjE4MDEsLTI5NTQ0ODg3Myw4ND
+g1NTMxOTMsMTYzOTc2ODg1MCwxNTQzODk2MTk2LDE3MjIwMjEy
+MTEsMTc1ODQ1NDI0MiwtMTUzNDA5OTM1OSwtMTY1MzAwMDY0NC
+wxMzU2MzA1MDU1LDE5NTE2MTU2MTUsLTEwNTAxNzU4NzQsODUz
+MzQzNDExLC0xNTA0OTgyNTQ1XX0=
 -->
