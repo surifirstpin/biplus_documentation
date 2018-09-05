@@ -24,13 +24,12 @@ The data in analyse sections is determined by dimensions and measures. Using **F
 Let us generate a query to display Stationcode (Dimension) and Order Attendant ID (Dimension) with Quantity Sum. 
 
 After Selecting dimensions and measures **Run** the report to extract the data.
-In the following example we have selected two dimensions and one measure field.
+In the following example we have selected **Two Dimensions and onemeasure field.**
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5097c9d785e4562444bb51ed2695045c47873f8f/images/full_rep1.png)
 
 **Note :** To hide the Explore /visualize section that displays dimensions and measure click on  **angle double left** icon. to display the explore/visualize section click ** angle double right** icon available near dimensions and measure field list.
-
 
 ## Report Filters
 
@@ -312,11 +311,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Mzg5NjE5NiwxNzIyMDIxMjExLDE3NT
-g0NTQyNDIsLTE1MzQwOTkzNTksLTE2NTMwMDA2NDQsMTM1NjMw
-NTA1NSwxOTUxNjE1NjE1LC0xMDUwMTc1ODc0LDg1MzM0MzQxMS
-wtMTUwNDk4MjU0NSw1NDcwMzcxNzksLTE5OTc3NzMwOSwtMTM4
-Nzg3ODgwMiwtMTA1OTA0ODU5NSwxMjI2MTYzOTI0LC02NTk1Nj
-E2NiwxOTAyNzQ4NzUxLC0xODM0Mjk5ODA2LDEyNTE5MDgzNjEs
-NTI1MzgwMTg3XX0=
+eyJoaXN0b3J5IjpbMTAwMDY4Mzc0MiwxNTQzODk2MTk2LDE3Mj
+IwMjEyMTEsMTc1ODQ1NDI0MiwtMTUzNDA5OTM1OSwtMTY1MzAw
+MDY0NCwxMzU2MzA1MDU1LDE5NTE2MTU2MTUsLTEwNTAxNzU4Nz
+QsODUzMzQzNDExLC0xNTA0OTgyNTQ1LDU0NzAzNzE3OSwtMTk5
+Nzc3MzA5LC0xMzg3ODc4ODAyLC0xMDU5MDQ4NTk1LDEyMjYxNj
+M5MjQsLTY1OTU2MTY2LDE5MDI3NDg3NTEsLTE4MzQyOTk4MDYs
+MTI1MTkwODM2MV19
 -->
