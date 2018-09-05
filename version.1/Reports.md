@@ -40,7 +40,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 | Type | Description |
 |--|--|
 | String | For fields that contain letters or special characters |
-|Numbers|For fields that contain numerics|
+|Numbers|For fields that contain numeric|
 |Date|For fields that contain dates|
 |Lookup| To view the lookup in Report filters it should be derived under lookup field in model section|
 
@@ -311,7 +311,7 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzYyNjgwLDE2Mzk3Njg4NTAsMTU0Mz
+eyJoaXN0b3J5IjpbODQ4NTUzMTkzLDE2Mzk3Njg4NTAsMTU0Mz
 g5NjE5NiwxNzIyMDIxMjExLDE3NTg0NTQyNDIsLTE1MzQwOTkz
 NTksLTE2NTMwMDA2NDQsMTM1NjMwNTA1NSwxOTUxNjE1NjE1LC
 0xMDUwMTc1ODc0XX0=
