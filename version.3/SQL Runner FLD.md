@@ -5,8 +5,10 @@
 Using SQL Runner you can directly Access your database and clout that access in variety of ways. it can easily set up the connection, and navigate the tables under your schema. You can run pre-written SQL queries, view the query, run history. using sql runner can create your customs views and perform useful task with them in model section.  
 
 - Select the **Connection and Schema** using a drop-down based on which you would like to query.
+
 - Select the desired **Table** using drop-down.
-- **Fields** Sections displays the fields that fall under selected table.
+
+- **Fields** displays number of fields available in the table selected.
 
 
 ![
@@ -131,11 +133,11 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyNjkzOTQ4LC04MTIyNDg0LC0xMDMzMj
-UwNDE4LC0xNDIyNzM0ODYsLTY4NjUyNzE1MiwtMTgwNjY1NTIz
-NiwtMTg1MjY3MTI2OCwtNTQwNTExNjM0LC0xODUyNjcxMjY4LC
-0xNTM0MDMwOTMwLC04ODY5Mzg3MDQsLTgwMTYwODgwMiwxMDMy
-ODA4NDI0LDc4OTcxNDYsLTYyNTA0NjM0NywxNDg0NDk0MjksMT
-AzNjgxMDc3MCwyMDM4MjcxOTk3LC03MzI3NzU3NTUsMTcyMTcz
-NDM0M119
+eyJoaXN0b3J5IjpbLTc3ODMwMTczMCwtODEyMjQ4NCwtMTAzMz
+I1MDQxOCwtMTQyMjczNDg2LC02ODY1MjcxNTIsLTE4MDY2NTUy
+MzYsLTE4NTI2NzEyNjgsLTU0MDUxMTYzNCwtMTg1MjY3MTI2OC
+wtMTUzNDAzMDkzMCwtODg2OTM4NzA0LC04MDE2MDg4MDIsMTAz
+MjgwODQyNCw3ODk3MTQ2LC02MjUwNDYzNDcsMTQ4NDQ5NDI5LD
+EwMzY4MTA3NzAsMjAzODI3MTk5NywtNzMyNzc1NzU1LDE3MjE3
+MzQzNDNdfQ==
 -->
