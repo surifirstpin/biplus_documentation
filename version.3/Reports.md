@@ -166,7 +166,7 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 
  **You can apply pivot  in 2 ways :**
  
-**a.** Apply pivot **After Retrieving** the data by selecting the pivot in drop down of the field.
+**a.** Apply pivot **After Retrieving** the data by selecting the pivot option using field header drop down.
  
 **b.** Apply pivot **Before Retrieving** the data while selecting the fields by clicking on pivot icon.
 
@@ -314,11 +314,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODQ2MDQ5LDI5MjE4MTA5NSwxNTUyNj
-YzNDQ0LDE3MTQzOTM4NCw3Nzk5NjQ4NTMsLTY4NzY2MzAzNywt
-MTYwMDY2OTk2Niw0NzQ2NzY3NjEsLTEyMzk2MTk0MTMsMTA1Mz
-YyNzgxOCwxNzIxMjgwMTE5LC0xNDIwODU3OTExLC0xNTIxODk1
-MjU5LC0yOTU0NDg4NzMsODQ4NTUzMTkzLDE2Mzk3Njg4NTAsMT
-U0Mzg5NjE5NiwxNzIyMDIxMjExLDE3NTg0NTQyNDIsLTE1MzQw
-OTkzNTldfQ==
+eyJoaXN0b3J5IjpbNDEzOTkxMzgsLTUwODQ2MDQ5LDI5MjE4MT
+A5NSwxNTUyNjYzNDQ0LDE3MTQzOTM4NCw3Nzk5NjQ4NTMsLTY4
+NzY2MzAzNywtMTYwMDY2OTk2Niw0NzQ2NzY3NjEsLTEyMzk2MT
+k0MTMsMTA1MzYyNzgxOCwxNzIxMjgwMTE5LC0xNDIwODU3OTEx
+LC0xNTIxODk1MjU5LC0yOTU0NDg4NzMsODQ4NTUzMTkzLDE2Mz
+k3Njg4NTAsMTU0Mzg5NjE5NiwxNzIyMDIxMjExLDE3NTg0NTQy
+NDJdfQ==
 -->
