@@ -71,7 +71,7 @@ SELECT STATIONCODE,SUM(AMOUNT) FROM ORDERS GROUP BY STATIONCODE
 **5.** Dialects used while setting up connection will be displayed at top Right of the query area,
 
 ![
-](!%5B%20%5D%28https://raw.githubusercontent.com/sv18042016/fp1/163409615d153a964fefc66224c6378d51e14661/images/commit.png%29)
+](https://raw.githubusercontent.com/sv18042016/fp1/master/images/commit.png)
 
 
 **6.** To view the recent history, click on **History tab** available at the top right of the SQL query area. 
@@ -134,7 +134,7 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzM4MjE5MzIsNDYzMTkwOTc2LC03Nz
+eyJoaXN0b3J5IjpbLTE5NDA0NjQxNTEsNDYzMTkwOTc2LC03Nz
 gzMDE3MzAsLTgxMjI0ODQsLTEwMzMyNTA0MTgsLTE0MjI3MzQ4
 NiwtNjg2NTI3MTUyLC0xODA2NjU1MjM2LC0xODUyNjcxMjY4LC
 01NDA1MTE2MzQsLTE4NTI2NzEyNjgsLTE1MzQwMzA5MzAsLTg4
