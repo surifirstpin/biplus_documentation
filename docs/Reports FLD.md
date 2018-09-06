@@ -175,7 +175,7 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 
 > **Note :** incase if you are using more than one pivot, make sure you have at least one un-pivoted dimension and a measure value.
 
-**For Example** : if you want to view quantity sum based on station code then apply pivot for station code (Dimension).
+**Pivot Example** : if you want to view quantity sum based on station code then apply pivot for station code (Dimension) as shown in below image.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f7de77576b380d0f00383c9e9212b895f66d1544/images/pivot_result.png)
@@ -314,11 +314,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NzM0Njg4NywtMzI5Mjc1NTM5LC01MD
-g0NjA0OSwyOTIxODEwOTUsMTU1MjY2MzQ0NCwxNzE0MzkzODQs
-Nzc5OTY0ODUzLC02ODc2NjMwMzcsLTE2MDA2Njk5NjYsNDc0Nj
-c2NzYxLC0xMjM5NjE5NDEzLDEwNTM2Mjc4MTgsMTcyMTI4MDEx
-OSwtMTQyMDg1NzkxMSwtMTUyMTg5NTI1OSwtMjk1NDQ4ODczLD
-g0ODU1MzE5MywxNjM5NzY4ODUwLDE1NDM4OTYxOTYsMTcyMjAy
-MTIxMV19
+eyJoaXN0b3J5IjpbODEzNTM4OTYyLDE4ODczNDY4ODcsLTMyOT
+I3NTUzOSwtNTA4NDYwNDksMjkyMTgxMDk1LDE1NTI2NjM0NDQs
+MTcxNDM5Mzg0LDc3OTk2NDg1MywtNjg3NjYzMDM3LC0xNjAwNj
+Y5OTY2LDQ3NDY3Njc2MSwtMTIzOTYxOTQxMywxMDUzNjI3ODE4
+LDE3MjEyODAxMTksLTE0MjA4NTc5MTEsLTE1MjE4OTUyNTksLT
+I5NTQ0ODg3Myw4NDg1NTMxOTMsMTYzOTc2ODg1MCwxNTQzODk2
+MTk2XX0=
 -->
