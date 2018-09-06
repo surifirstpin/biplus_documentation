@@ -69,9 +69,10 @@ SELECT STATIONCODE,SUM(AMOUNT) FROM ORDERS GROUP BY STATIONCODE
 **4.**  Once the query is executed it displays the **Query Time** taken to run the query and **Number of rows** fetched.
 
 **5.** Dialects used while setting up connection will be displayed at top Right of the query area,
+
 ![
 ](!%5B%20%5D%28https://raw.githubusercontent.com/sv18042016/fp1/163409615d153a964fefc66224c6378d51e14661/images/commit.png%29)
-![
+
 
 **6.** To view the recent history, click on **History tab** available at the top right of the SQL query area. 
 - Green colour indicates successfully query and Red colour indicates query that did not run successfully due to the error.  
@@ -133,7 +134,7 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA1MDAwMjQsLTc3ODMwMTczMCwtOD
-EyMjQ4NCwtMTAzMzI1MDQxOCwtMTQyMjczNDg2LC02ODY1Mjcx
-NTIsLTE4MDY2NTUyMzYsLTE4NTI2NzEyNjhdfQ==
+eyJoaXN0b3J5IjpbNDYzMTkwOTc2LC03NzgzMDE3MzAsLTgxMj
+I0ODQsLTEwMzMyNTA0MTgsLTE0MjI3MzQ4NiwtNjg2NTI3MTUy
+LC0xODA2NjU1MjM2LC0xODUyNjcxMjY4XX0=
 -->
