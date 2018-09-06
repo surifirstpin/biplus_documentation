@@ -4,6 +4,17 @@
 
 Using SQL Runner you can directly Access your database and clout that access in variety of ways. it can easily set up the connection, and navigate the tables under your schema. You can run pre-written SQL queries, view the query, run history. using sql runner can create your customs views and perform useful task with them in model section.  
 
+## Navigate To SQL Runner
+
+- To Navigate to SQL Runner, Login to BiPlus homepage and click on **SQL Runner Section** or,
+
+- In **Analysis Section**, After Creating a report Click on **SQL Tab** to view the SQL query.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/8301318bea750b7d048df7f5a8e06607d216dce7/images/navigate_sql.png)
+
+
+
 - Select the **Connection and Schema** using a drop-down based on which you would like to query.
 
 - Select the desired **Table** using drop-down.
@@ -14,20 +25,9 @@ Using SQL Runner you can directly Access your database and clout that access in 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/532dd8b61e94d1e08fe0b89afa6a5961336e8ad2/images/sql_ru.png)
 
-- You can directly write the SQL query from scratch and run it but you need to make sure the dialects used in SQL runner should match the database dialects or,
-
-- You can also create SQL query in analysis section. 
+- You can directly write the SQL query from scratch and run it, but make sure the dialects used in SQL runner should match the database dialects or,
 
 - Make use of **History** section to Pre-run the previous query.
-
-## Navigate To SQL Runner
-
-- To Navigate to SQL Runner, Login to BiPlus homepage and click on **SQL Runner Section** or,
-
-- In **Analysis Section**, After Creating a report Click on **SQL Tab** to view the SQL query.
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/8301318bea750b7d048df7f5a8e06607d216dce7/images/navigate_sql.png)
 
 ## Create SQL Query in SQL Runner
 
@@ -133,7 +133,7 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODMwMTczMCwtODEyMjQ4NCwtMTAzMz
-I1MDQxOCwtMTQyMjczNDg2LC02ODY1MjcxNTIsLTE4MDY2NTUy
-MzYsLTE4NTI2NzEyNjhdfQ==
+eyJoaXN0b3J5IjpbMTgzMjk4MDk1OSwtNzc4MzAxNzMwLC04MT
+IyNDg0LC0xMDMzMjUwNDE4LC0xNDIyNzM0ODYsLTY4NjUyNzE1
+MiwtMTgwNjY1NTIzNiwtMTg1MjY3MTI2OF19
 -->
