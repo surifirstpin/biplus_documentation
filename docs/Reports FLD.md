@@ -158,6 +158,8 @@ For  **Measures** use opposite direction.
 
 **14.**  You can **limit** the rows to 100, 500, 1000, 5000, etc using given drop down list.
 
+(**Add Image**)
+
 ## Pivot
 
 Multiple dimensions in the report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. To **Pivot** a dimension click on pivot for dimension before or after running the query.
@@ -312,11 +314,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MjY2MzQ0NCwxNzE0MzkzODQsNzc5OT
-Y0ODUzLC02ODc2NjMwMzcsLTE2MDA2Njk5NjYsNDc0Njc2NzYx
-LC0xMjM5NjE5NDEzLDEwNTM2Mjc4MTgsMTcyMTI4MDExOSwtMT
-QyMDg1NzkxMSwtMTUyMTg5NTI1OSwtMjk1NDQ4ODczLDg0ODU1
-MzE5MywxNjM5NzY4ODUwLDE1NDM4OTYxOTYsMTcyMjAyMTIxMS
-wxNzU4NDU0MjQyLC0xNTM0MDk5MzU5LC0xNjUzMDAwNjQ0LDEz
-NTYzMDUwNTVdfQ==
+eyJoaXN0b3J5IjpbMjkyMTgxMDk1LDE1NTI2NjM0NDQsMTcxND
+M5Mzg0LDc3OTk2NDg1MywtNjg3NjYzMDM3LC0xNjAwNjY5OTY2
+LDQ3NDY3Njc2MSwtMTIzOTYxOTQxMywxMDUzNjI3ODE4LDE3Mj
+EyODAxMTksLTE0MjA4NTc5MTEsLTE1MjE4OTUyNTksLTI5NTQ0
+ODg3Myw4NDg1NTMxOTMsMTYzOTc2ODg1MCwxNTQzODk2MTk2LD
+E3MjIwMjEyMTEsMTc1ODQ1NDI0MiwtMTUzNDA5OTM1OSwtMTY1
+MzAwMDY0NF19
 -->
