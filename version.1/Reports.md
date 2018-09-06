@@ -154,10 +154,9 @@ For  **Measures** use opposite direction.
 
 **12.** The total number of rows fetched displayed just below that.
   
+**13.**  Select the  **check box** for totals, to display total sum values of the measure fields.
 
-**13.**  By selecting the  **check box** for totals, the report is displayed with total sum values of the measure fields obtained.
-
-**14.**  You can limit the rows extracted to 100, 500, 1000, 5000, etc. By selecting the limit value to your desired number from drop down list.
+**14.**  You can limit the rows extracted to 100, 500, 1000, 5000, etc. By selecting the limit value from given drop down list.
 
 ## Pivot
 
@@ -313,11 +312,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjM1NTUwMjgsNzc5OTY0ODUzLC02OD
-c2NjMwMzcsLTE2MDA2Njk5NjYsNDc0Njc2NzYxLC0xMjM5NjE5
-NDEzLDEwNTM2Mjc4MTgsMTcyMTI4MDExOSwtMTQyMDg1NzkxMS
-wtMTUyMTg5NTI1OSwtMjk1NDQ4ODczLDg0ODU1MzE5MywxNjM5
-NzY4ODUwLDE1NDM4OTYxOTYsMTcyMjAyMTIxMSwxNzU4NDU0Mj
-QyLC0xNTM0MDk5MzU5LC0xNjUzMDAwNjQ0LDEzNTYzMDUwNTUs
-MTk1MTYxNTYxNV19
+eyJoaXN0b3J5IjpbMTcxNDM5Mzg0LDc3OTk2NDg1MywtNjg3Nj
+YzMDM3LC0xNjAwNjY5OTY2LDQ3NDY3Njc2MSwtMTIzOTYxOTQx
+MywxMDUzNjI3ODE4LDE3MjEyODAxMTksLTE0MjA4NTc5MTEsLT
+E1MjE4OTUyNTksLTI5NTQ0ODg3Myw4NDg1NTMxOTMsMTYzOTc2
+ODg1MCwxNTQzODk2MTk2LDE3MjIwMjEyMTEsMTc1ODQ1NDI0Mi
+wtMTUzNDA5OTM1OSwtMTY1MzAwMDY0NCwxMzU2MzA1MDU1LDE5
+NTE2MTU2MTVdfQ==
 -->
