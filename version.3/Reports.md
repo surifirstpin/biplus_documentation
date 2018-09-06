@@ -168,7 +168,7 @@ Multiple dimensions in the report data are often easier to look at, when you piv
  
 **a.** Apply pivot **After Retrieving** the data by selecting the pivot option using field header drop down.
  
-**b.** You can also ** Apply pivot **Before Retrieving** the data, just click on pivot icon while field selection.
+**b.** You can also apply pivot **Before Retrieving** the data, just click on pivot icon during field selection.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e7d0e669ada7758b57dd89fdaa4442918156255f/images/full%20pivot.png)
@@ -314,7 +314,7 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NzkwNDk4NywtNTA4NDYwNDksMjkyMT
+eyJoaXN0b3J5IjpbLTMyOTI3NTUzOSwtNTA4NDYwNDksMjkyMT
 gxMDk1LDE1NTI2NjM0NDQsMTcxNDM5Mzg0LDc3OTk2NDg1Mywt
 Njg3NjYzMDM3LC0xNjAwNjY5OTY2LDQ3NDY3Njc2MSwtMTIzOT
 YxOTQxMywxMDUzNjI3ODE4LDE3MjEyODAxMTksLTE0MjA4NTc5
