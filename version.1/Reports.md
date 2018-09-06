@@ -183,12 +183,12 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 
 ## Hide data in pivot 
 
-To hide pivoted data in report, choose pivot hide first ( 1st column data in list) or choose pivot hide last (last column data in a list) in data section under datasets.
+To hide pivoted data in report output, choose pivot hide first ( hides 1st column data in list) or choose pivot hide last (hides last column data in a list) in data section under datasets.
 
 
 ## Pin or Remove Pin
 
-**15.** To freeze the column field values while scrolling the data to right or left, click on **Pin** in field drop down provided and to release the same click on **Remove Pin.**
+**15.** To freeze the column field values while scrolling the data to right or left, click on **Pin**usin in field drop down provided and to release the same click on **Remove Pin.**
 
 ## Group / Un-Group
 
@@ -314,7 +314,7 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDA5MjMyMzAsMTg4NzM0Njg4NywtMz
+eyJoaXN0b3J5IjpbLTEzMzM5OTQzNzYsMTg4NzM0Njg4NywtMz
 I5Mjc1NTM5LC01MDg0NjA0OSwyOTIxODEwOTUsMTU1MjY2MzQ0
 NCwxNzE0MzkzODQsNzc5OTY0ODUzLC02ODc2NjMwMzcsLTE2MD
 A2Njk5NjYsNDc0Njc2NzYxLC0xMjM5NjE5NDEzLDEwNTM2Mjc4
