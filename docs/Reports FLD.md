@@ -188,7 +188,7 @@ To hide pivoted data in report output, choose pivot hide first ( hides 1st colum
 
 ## Pin or Remove Pin
 
-**15.** To freeze the column field values while scrolling the data to right or left, click on **Pin** in field drop down provided and to release the same click on **Remove Pin.**
+**15.** To freeze the column field values while scrolling the data to right or left, click on **Pin** using drop down of the field and to release the same click on **Remove Pin.**
 
 ## Group / Un-Group
 
@@ -314,7 +314,7 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjAwNTgxMywxODg3MzQ2ODg3LC0zMj
+eyJoaXN0b3J5IjpbMTQ3NDk3NjA5NSwxODg3MzQ2ODg3LC0zMj
 kyNzU1MzksLTUwODQ2MDQ5LDI5MjE4MTA5NSwxNTUyNjYzNDQ0
 LDE3MTQzOTM4NCw3Nzk5NjQ4NTMsLTY4NzY2MzAzNywtMTYwMD
 Y2OTk2Niw0NzQ2NzY3NjEsLTEyMzk2MTk0MTMsMTA1MzYyNzgx
