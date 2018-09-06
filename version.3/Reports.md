@@ -218,7 +218,7 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 
 ## Calculated column
 
-Calculated column is a functionality that allows to manipulate the retrieved data using arithmetical, logical, text-based and date-based functions and then displays it in the required format. the data extracted using calculated column will show up in green colour in the data table. Just like regular dimensions and measures, calculated columns are controlled from display in visualizations.
+Calculated column functionality allows you to manipulate the retrieved data, using arithmetical, logical, text-based and date-based functions and then displays it in the required format. the data extracted using calculated column will show up in green colour in the data table. Just like regular dimensions and measures, calculated columns are controlled from display in visualizations.
 
 > **Note :** To understand the total functionality of Calculated column, **"Refer Calculated Column Document".**
 
@@ -314,11 +314,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDk2NDY2NSw1NDY0MDI1MDgsLTI1Nz
-I1MjEyNCwtMTU0MDY5NDM5LDE0NzQ5NzYwOTUsMTg4NzM0Njg4
-NywtMzI5Mjc1NTM5LC01MDg0NjA0OSwyOTIxODEwOTUsMTU1Mj
-Y2MzQ0NCwxNzE0MzkzODQsNzc5OTY0ODUzLC02ODc2NjMwMzcs
-LTE2MDA2Njk5NjYsNDc0Njc2NzYxLC0xMjM5NjE5NDEzLDEwNT
-M2Mjc4MTgsMTcyMTI4MDExOSwtMTQyMDg1NzkxMSwtMTUyMTg5
-NTI1OV19
+eyJoaXN0b3J5IjpbLTYwNzc2ODk2LC0yNTA5NjQ2NjUsNTQ2ND
+AyNTA4LC0yNTcyNTIxMjQsLTE1NDA2OTQzOSwxNDc0OTc2MDk1
+LDE4ODczNDY4ODcsLTMyOTI3NTUzOSwtNTA4NDYwNDksMjkyMT
+gxMDk1LDE1NTI2NjM0NDQsMTcxNDM5Mzg0LDc3OTk2NDg1Mywt
+Njg3NjYzMDM3LC0xNjAwNjY5OTY2LDQ3NDY3Njc2MSwtMTIzOT
+YxOTQxMywxMDUzNjI3ODE4LDE3MjEyODAxMTksLTE0MjA4NTc5
+MTFdfQ==
 -->
