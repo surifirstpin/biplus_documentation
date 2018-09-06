@@ -267,7 +267,6 @@ Data section under visualization is enabled based on the data retrieved on runni
 
 - **Legend** it will enable you to change the label for measure value in visualization charts as shown below.
 
-
 ##  Format
 
  **Format** enables different type of number format to the measure field value. Following are the list of number formats supported by BiPlus :
@@ -314,7 +313,7 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDgxMTcyNCwtODg3OTAwMjA0LDE1NT
+eyJoaXN0b3J5IjpbMTYyMzM2MzU1NCwtODg3OTAwMjA0LDE1NT
 A3MzI1MTcsLTE2Njk0MDQwMSwtMjUwOTY0NjY1LDU0NjQwMjUw
 OCwtMjU3MjUyMTI0LC0xNTQwNjk0MzksMTQ3NDk3NjA5NSwxOD
 g3MzQ2ODg3LC0zMjkyNzU1MzksLTUwODQ2MDQ5LDI5MjE4MTA5
