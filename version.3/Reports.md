@@ -246,14 +246,14 @@ After navigating to calculated column, enter below fields;
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b10da52fba77e866f8f30ae57fabe5c0d0f8c142/images/ful_calculated.png)
 
- Click **ok** after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image,
+ Click **ok** after deriving the expression, all the values based on calculation is shown up in green colour as shown in below image,
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d04e6cf056ed45cc004f6c0efcf0ceef32db9388/images/ful_calculated2.png)
 
 ## Data 
 
-Data section under visualization is enabled based on the data retrieved for fields.
+Data section under visualization is enabled based on the data retrieved on running a report.
 
  **Below are the parameters applicable on the data retrieved;**
 
@@ -314,11 +314,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzkwMDIwNCwxNTUwNzMyNTE3LC0xNj
-Y5NDA0MDEsLTI1MDk2NDY2NSw1NDY0MDI1MDgsLTI1NzI1MjEy
-NCwtMTU0MDY5NDM5LDE0NzQ5NzYwOTUsMTg4NzM0Njg4NywtMz
-I5Mjc1NTM5LC01MDg0NjA0OSwyOTIxODEwOTUsMTU1MjY2MzQ0
-NCwxNzE0MzkzODQsNzc5OTY0ODUzLC02ODc2NjMwMzcsLTE2MD
-A2Njk5NjYsNDc0Njc2NzYxLC0xMjM5NjE5NDEzLDEwNTM2Mjc4
-MThdfQ==
+eyJoaXN0b3J5IjpbMjY0ODE2MDExLC04ODc5MDAyMDQsMTU1MD
+czMjUxNywtMTY2OTQwNDAxLC0yNTA5NjQ2NjUsNTQ2NDAyNTA4
+LC0yNTcyNTIxMjQsLTE1NDA2OTQzOSwxNDc0OTc2MDk1LDE4OD
+czNDY4ODcsLTMyOTI3NTUzOSwtNTA4NDYwNDksMjkyMTgxMDk1
+LDE1NTI2NjM0NDQsMTcxNDM5Mzg0LDc3OTk2NDg1MywtNjg3Nj
+YzMDM3LC0xNjAwNjY5OTY2LDQ3NDY3Njc2MSwtMTIzOTYxOTQx
+M119
 -->
