@@ -257,7 +257,7 @@ Data section under visualization is enabled based on the data retrieved on runni
 
  **Below are the parameters applicable on the data retrieved;**
 
-- **Row Grouping** enables row grouping for fields values based on the field selected as shown in the below image.
+- **Row Grouping** enables row grouping for field values based on the field selected as shown in the below image.
 
 - **Explore Enabled** to explore the data which are grouped select the check box **Explore Enabled.**
 
@@ -314,11 +314,11 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0ODE2MDExLC04ODc5MDAyMDQsMTU1MD
-czMjUxNywtMTY2OTQwNDAxLC0yNTA5NjQ2NjUsNTQ2NDAyNTA4
-LC0yNTcyNTIxMjQsLTE1NDA2OTQzOSwxNDc0OTc2MDk1LDE4OD
-czNDY4ODcsLTMyOTI3NTUzOSwtNTA4NDYwNDksMjkyMTgxMDk1
-LDE1NTI2NjM0NDQsMTcxNDM5Mzg0LDc3OTk2NDg1MywtNjg3Nj
-YzMDM3LC0xNjAwNjY5OTY2LDQ3NDY3Njc2MSwtMTIzOTYxOTQx
-M119
+eyJoaXN0b3J5IjpbLTI0NDgxMTcyNCwtODg3OTAwMjA0LDE1NT
+A3MzI1MTcsLTE2Njk0MDQwMSwtMjUwOTY0NjY1LDU0NjQwMjUw
+OCwtMjU3MjUyMTI0LC0xNTQwNjk0MzksMTQ3NDk3NjA5NSwxOD
+g3MzQ2ODg3LC0zMjkyNzU1MzksLTUwODQ2MDQ5LDI5MjE4MTA5
+NSwxNTUyNjYzNDQ0LDE3MTQzOTM4NCw3Nzk5NjQ4NTMsLTY4Nz
+Y2MzAzNywtMTYwMDY2OTk2Niw0NzQ2NzY3NjEsLTEyMzk2MTk0
+MTNdfQ==
 -->
