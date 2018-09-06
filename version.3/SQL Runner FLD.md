@@ -69,6 +69,7 @@ SELECT STATIONCODE,SUM(AMOUNT) FROM ORDERS GROUP BY STATIONCODE
 **4.**  Once the query is executed it displays the **Query Time** taken to run the query and **Number of rows** fetched.
 
 **5.** Dialects used while setting up connection will be displayed at top Right of the query area,
+
 ![
 ](!%5B%20%5D%28https://raw.githubusercontent.com/sv18042016/fp1/163409615d153a964fefc66224c6378d51e14661/images/commit.png%29)
 
@@ -133,11 +134,11 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjEwMDMzNCwtNzc4MzAxNzMwLC04MT
-IyNDg0LC0xMDMzMjUwNDE4LC0xNDIyNzM0ODYsLTY4NjUyNzE1
-MiwtMTgwNjY1NTIzNiwtMTg1MjY3MTI2OCwtNTQwNTExNjM0LC
-0xODUyNjcxMjY4LC0xNTM0MDMwOTMwLC04ODY5Mzg3MDQsLTgw
-MTYwODgwMiwxMDMyODA4NDI0LDc4OTcxNDYsLTYyNTA0NjM0Ny
-wxNDg0NDk0MjksMTAzNjgxMDc3MCwyMDM4MjcxOTk3LC03MzI3
-NzU3NTVdfQ==
+eyJoaXN0b3J5IjpbNDYzMTkwOTc2LC03NzgzMDE3MzAsLTgxMj
+I0ODQsLTEwMzMyNTA0MTgsLTE0MjI3MzQ4NiwtNjg2NTI3MTUy
+LC0xODA2NjU1MjM2LC0xODUyNjcxMjY4LC01NDA1MTE2MzQsLT
+E4NTI2NzEyNjgsLTE1MzQwMzA5MzAsLTg4NjkzODcwNCwtODAx
+NjA4ODAyLDEwMzI4MDg0MjQsNzg5NzE0NiwtNjI1MDQ2MzQ3LD
+E0ODQ0OTQyOSwxMDM2ODEwNzcwLDIwMzgyNzE5OTcsLTczMjc3
+NTc1NV19
 -->
