@@ -308,16 +308,16 @@ Data section under visualization is enabled based on the data retrieved on runni
 
 ## SQL Query 
 
-To iew the SQL query built on retrieving data in report, click on **SQL** section.
+To view the SQL query built on retrieving data in report, click on **SQL** section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDk3NDgxNDAsLTg4NzkwMDIwNCwxNT
-UwNzMyNTE3LC0xNjY5NDA0MDEsLTI1MDk2NDY2NSw1NDY0MDI1
-MDgsLTI1NzI1MjEyNCwtMTU0MDY5NDM5LDE0NzQ5NzYwOTUsMT
-g4NzM0Njg4NywtMzI5Mjc1NTM5LC01MDg0NjA0OSwyOTIxODEw
-OTUsMTU1MjY2MzQ0NCwxNzE0MzkzODQsNzc5OTY0ODUzLC02OD
-c2NjMwMzcsLTE2MDA2Njk5NjYsNDc0Njc2NzYxLC0xMjM5NjE5
-NDEzXX0=
+eyJoaXN0b3J5IjpbNzEzNTE4MDE4LC04ODc5MDAyMDQsMTU1MD
+czMjUxNywtMTY2OTQwNDAxLC0yNTA5NjQ2NjUsNTQ2NDAyNTA4
+LC0yNTcyNTIxMjQsLTE1NDA2OTQzOSwxNDc0OTc2MDk1LDE4OD
+czNDY4ODcsLTMyOTI3NTUzOSwtNTA4NDYwNDksMjkyMTgxMDk1
+LDE1NTI2NjM0NDQsMTcxNDM5Mzg0LDc3OTk2NDg1MywtNjg3Nj
+YzMDM3LC0xNjAwNjY5OTY2LDQ3NDY3Njc2MSwtMTIzOTYxOTQx
+M119
 -->
