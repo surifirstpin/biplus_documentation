@@ -152,7 +152,8 @@ For  **Measures** use opposite direction.
 
 **11.** The total time taken to build a query for a report is displayed at top of the report screen.
 
-**12.**  dNumber of rows fetched while retrieving data is displayed  at top of the report screen.
+**12.** The  number of rows fetched displayed just below that.
+  
 
 **13.**  By selecting the  **check box** for totals, the report is displayed with total sum values of the measure fields obtained.
 
@@ -312,7 +313,7 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODQzOTY0NSw3Nzk5NjQ4NTMsLTY4Nz
+eyJoaXN0b3J5IjpbMTk0MDY3MjY2Niw3Nzk5NjQ4NTMsLTY4Nz
 Y2MzAzNywtMTYwMDY2OTk2Niw0NzQ2NzY3NjEsLTEyMzk2MTk0
 MTMsMTA1MzYyNzgxOCwxNzIxMjgwMTE5LC0xNDIwODU3OTExLC
 0xNTIxODk1MjU5LC0yOTU0NDg4NzMsODQ4NTUzMTkzLDE2Mzk3
