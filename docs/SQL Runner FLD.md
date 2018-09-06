@@ -31,7 +31,7 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 ## Create SQL Query in SQL Runner
 
-**1.** To create a SQL query from scratch click on SQL Runner section after Logging into BiPlus homepage.
+**1.** To create a SQL query from scratch click on SQL Runner section.
 
 **2.** Type your SQL command in SQL query area.
 
@@ -48,7 +48,7 @@ select STATIONCODE,AMOUNT FROM ORDERS
 ](https://raw.githubusercontent.com/sv18042016/fp1/acd887b4aec5663dca6969ad0004c73f4b351dc3/images/undo_sql.png)
 
 
-**3.**  Click on **Run** button to run the SQL command written. On running the sql command, it displays the data retrieved below the query area as shown in the image. 
+**3.**  Click on **Run** button to run the SQL command written. It displays the data retrieved below the query area as shown in the image. 
 
 > **Note :** SQL runner can fetch a maximum limit of 5000 records only.
 
@@ -66,7 +66,7 @@ SELECT STATIONCODE,SUM(AMOUNT) FROM ORDERS GROUP BY STATIONCODE
   ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b86474022ef60bfa90365160155a02a2254aff13/images/find_sql.png)
 
-**4.**  After Running the query it displays the **Query Time** taken to run the query and **Number of rows** fetched.
+**4.**  Once the query is executed it displays the **Query Time** taken to run the query and **Number of rows** fetched.
 
 **5.** Dialects used while setting up connection will be displayed at top Right of the query area,
 
@@ -133,7 +133,7 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjk4MDk1OSwtNzc4MzAxNzMwLC04MT
-IyNDg0LC0xMDMzMjUwNDE4LC0xNDIyNzM0ODYsLTY4NjUyNzE1
-MiwtMTgwNjY1NTIzNiwtMTg1MjY3MTI2OF19
+eyJoaXN0b3J5IjpbNjU1MDYyODYyLC03NzgzMDE3MzAsLTgxMj
+I0ODQsLTEwMzMyNTA0MTgsLTE0MjI3MzQ4NiwtNjg2NTI3MTUy
+LC0xODA2NjU1MjM2LC0xODUyNjcxMjY4XX0=
 -->
