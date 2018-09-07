@@ -39,11 +39,11 @@ Using SQL Runner you can directly Access your database and clout that access in 
 select STATIONCODE,AMOUNT FROM ORDERS
 ```
 
-- To undo the SQL Command written click on **Undo** Icon specified in SQL Area.
+- To undo the SQL Command written, click on **Undo** Icon specified in SQL Area.
 
-- To Redo the last written command click on **Redo** Icon specified in SQL Area.
+- To Redo the last written command, click on **Redo** Icon specified in SQL Area.
 
-- To adjust the query according to Syntax select **Text Wrap** button. 
+- To adjust the query according to Syntax, select **Text Wrap** button. 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/acd887b4aec5663dca6969ad0004c73f4b351dc3/images/undo_sql.png)
 
@@ -134,11 +134,11 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3ODE3Mjg5LC0xOTQwNDY0MTUxLDQ2Mz
-E5MDk3NiwtNzc4MzAxNzMwLC04MTIyNDg0LC0xMDMzMjUwNDE4
-LC0xNDIyNzM0ODYsLTY4NjUyNzE1MiwtMTgwNjY1NTIzNiwtMT
-g1MjY3MTI2OCwtNTQwNTExNjM0LC0xODUyNjcxMjY4LC0xNTM0
-MDMwOTMwLC04ODY5Mzg3MDQsLTgwMTYwODgwMiwxMDMyODA4ND
-I0LDc4OTcxNDYsLTYyNTA0NjM0NywxNDg0NDk0MjksMTAzNjgx
-MDc3MF19
+eyJoaXN0b3J5IjpbLTE5OTIwMDU0MSw1NTc4MTcyODksLTE5ND
+A0NjQxNTEsNDYzMTkwOTc2LC03NzgzMDE3MzAsLTgxMjI0ODQs
+LTEwMzMyNTA0MTgsLTE0MjI3MzQ4NiwtNjg2NTI3MTUyLC0xOD
+A2NjU1MjM2LC0xODUyNjcxMjY4LC01NDA1MTE2MzQsLTE4NTI2
+NzEyNjgsLTE1MzQwMzA5MzAsLTg4NjkzODcwNCwtODAxNjA4OD
+AyLDEwMzI4MDg0MjQsNzg5NzE0NiwtNjI1MDQ2MzQ3LDE0ODQ0
+OTQyOV19
 -->
