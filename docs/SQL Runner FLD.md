@@ -68,7 +68,10 @@ SELECT STATIONCODE,SUM(AMOUNT) FROM ORDERS GROUP BY STATIONCODE
 
 ## Download
 
-To download the data retreiv
+To download the data retrieved click on **Download** Icon as explained in below image.
+
+## Number of records
+Number 
   ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b86474022ef60bfa90365160155a02a2254aff13/images/find_sql.png)
 
@@ -140,7 +143,7 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjE4OTE5MDksLTUxMjUwNTA5MSwtMT
+eyJoaXN0b3J5IjpbLTEwMjI3ODMwMjYsLTUxMjUwNTA5MSwtMT
 k5MjAwNTQxLDU1NzgxNzI4OSwtMTk0MDQ2NDE1MSw0NjMxOTA5
 NzYsLTc3ODMwMTczMCwtODEyMjQ4NCwtMTAzMzI1MDQxOCwtMT
 QyMjczNDg2LC02ODY1MjcxNTIsLTE4MDY2NTUyMzYsLTE4NTI2
