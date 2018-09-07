@@ -86,12 +86,12 @@ Number of records fetched after running a query is displayed at right bottom of 
 
 
 **6.** To view the recent history, click on **History tab** available at the top right of the SQL query area. 
-- Green colour indicates query has been executed successfully and Red colour indicates error.
+- Green colour indicates query has been executed successfully and Red indicates error.
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/history%20sql.png)
 
 ## Apply Sorting
-
 
 In your query result you can view the data in ascending or descending order by applying sorting. To enable sorting click on column header, to reverse the sorting order click on column header for second time **or,**
 
@@ -145,11 +145,11 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjg2NzYwMDEsLTgxNzQ0ODI4MiwtNT
-EyNTA1MDkxLC0xOTkyMDA1NDEsNTU3ODE3Mjg5LC0xOTQwNDY0
-MTUxLDQ2MzE5MDk3NiwtNzc4MzAxNzMwLC04MTIyNDg0LC0xMD
-MzMjUwNDE4LC0xNDIyNzM0ODYsLTY4NjUyNzE1MiwtMTgwNjY1
-NTIzNiwtMTg1MjY3MTI2OCwtNTQwNTExNjM0LC0xODUyNjcxMj
-Y4LC0xNTM0MDMwOTMwLC04ODY5Mzg3MDQsLTgwMTYwODgwMiwx
-MDMyODA4NDI0XX0=
+eyJoaXN0b3J5IjpbMTkyODU5ODQ1MSwtMTE2ODY3NjAwMSwtOD
+E3NDQ4MjgyLC01MTI1MDUwOTEsLTE5OTIwMDU0MSw1NTc4MTcy
+ODksLTE5NDA0NjQxNTEsNDYzMTkwOTc2LC03NzgzMDE3MzAsLT
+gxMjI0ODQsLTEwMzMyNTA0MTgsLTE0MjI3MzQ4NiwtNjg2NTI3
+MTUyLC0xODA2NjU1MjM2LC0xODUyNjcxMjY4LC01NDA1MTE2Mz
+QsLTE4NTI2NzEyNjgsLTE1MzQwMzA5MzAsLTg4NjkzODcwNCwt
+ODAxNjA4ODAyXX0=
 -->
