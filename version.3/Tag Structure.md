@@ -48,6 +48,6 @@ In order to change the privacy option for a saved tag and to change the child ta
 ](https://raw.githubusercontent.com/sv18042016/fp1/8170dc06ffe7bf872e20e1530d9f2d2c50b6f6f3/images/edit_tag_full.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODUyMjY4MywzODk5MzYzODksLTE3Mz
-QxOTI4OTVdfQ==
+eyJoaXN0b3J5IjpbLTY1MjgyNTQ0MSwtMzI4NTIyNjgzLDM4OT
+kzNjM4OSwtMTczNDE5Mjg5NV19
 -->
