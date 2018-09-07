@@ -71,7 +71,9 @@ SELECT STATIONCODE,SUM(AMOUNT) FROM ORDERS GROUP BY STATIONCODE
 To download the data retrieved click on **Download** Icon as explained in below image.
 
 ## Number of records
-Number 
+
+Number of records fetched after running a query is displayed at right bottom of the page as shown in the image.
+
   ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b86474022ef60bfa90365160155a02a2254aff13/images/find_sql.png)
 
@@ -143,9 +145,9 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjI3ODMwMjYsLTUxMjUwNTA5MSwtMT
-k5MjAwNTQxLDU1NzgxNzI4OSwtMTk0MDQ2NDE1MSw0NjMxOTA5
-NzYsLTc3ODMwMTczMCwtODEyMjQ4NCwtMTAzMzI1MDQxOCwtMT
-QyMjczNDg2LC02ODY1MjcxNTIsLTE4MDY2NTUyMzYsLTE4NTI2
-NzEyNjhdfQ==
+eyJoaXN0b3J5IjpbLTgxNzQ0ODI4MiwtNTEyNTA1MDkxLC0xOT
+kyMDA1NDEsNTU3ODE3Mjg5LC0xOTQwNDY0MTUxLDQ2MzE5MDk3
+NiwtNzc4MzAxNzMwLC04MTIyNDg0LC0xMDMzMjUwNDE4LC0xND
+IyNzM0ODYsLTY4NjUyNzE1MiwtMTgwNjY1NTIzNiwtMTg1MjY3
+MTI2OF19
 -->
