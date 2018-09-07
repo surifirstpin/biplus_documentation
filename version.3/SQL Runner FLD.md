@@ -31,7 +31,7 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 ## Create SQL Query in SQL Runner
 
-**1.** To create a SQL query from scratch click on SQL Runner section.
+**1.** To create a SQL query from scratch, click on SQL Runner section.
 
 **2.** Type your SQL command in SQL query area.
 
@@ -134,11 +134,11 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDYxNzQ2MywtMTk0MDQ2NDE1MSw0Nj
-MxOTA5NzYsLTc3ODMwMTczMCwtODEyMjQ4NCwtMTAzMzI1MDQx
-OCwtMTQyMjczNDg2LC02ODY1MjcxNTIsLTE4MDY2NTUyMzYsLT
-E4NTI2NzEyNjgsLTU0MDUxMTYzNCwtMTg1MjY3MTI2OCwtMTUz
-NDAzMDkzMCwtODg2OTM4NzA0LC04MDE2MDg4MDIsMTAzMjgwOD
-QyNCw3ODk3MTQ2LC02MjUwNDYzNDcsMTQ4NDQ5NDI5LDEwMzY4
-MTA3NzBdfQ==
+eyJoaXN0b3J5IjpbNTU3ODE3Mjg5LC0xOTQwNDY0MTUxLDQ2Mz
+E5MDk3NiwtNzc4MzAxNzMwLC04MTIyNDg0LC0xMDMzMjUwNDE4
+LC0xNDIyNzM0ODYsLTY4NjUyNzE1MiwtMTgwNjY1NTIzNiwtMT
+g1MjY3MTI2OCwtNTQwNTExNjM0LC0xODUyNjcxMjY4LC0xNTM0
+MDMwOTMwLC04ODY5Mzg3MDQsLTgwMTYwODgwMiwxMDMyODA4ND
+I0LDc4OTcxNDYsLTYyNTA0NjM0NywxNDg0NDk0MjksMTAzNjgx
+MDc3MF19
 -->
