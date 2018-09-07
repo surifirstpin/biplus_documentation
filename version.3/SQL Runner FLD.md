@@ -48,7 +48,7 @@ select STATIONCODE,AMOUNT FROM ORDERS
 ](https://raw.githubusercontent.com/sv18042016/fp1/acd887b4aec5663dca6969ad0004c73f4b351dc3/images/undo_sql.png)
 
 
-**3.**  Click on **Run** button to run the SQL command written. It displays the data retrieved below the query area as shown in the image. 
+**3.**  Hit **Run** button to run the SQL command written. It displays the data retrieved below the query area as shown in the image. 
 
 > **Note :** SQL runner can fetch a maximum limit of 5000 records only.
 
@@ -134,11 +134,11 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTIwMDU0MSw1NTc4MTcyODksLTE5ND
-A0NjQxNTEsNDYzMTkwOTc2LC03NzgzMDE3MzAsLTgxMjI0ODQs
-LTEwMzMyNTA0MTgsLTE0MjI3MzQ4NiwtNjg2NTI3MTUyLC0xOD
-A2NjU1MjM2LC0xODUyNjcxMjY4LC01NDA1MTE2MzQsLTE4NTI2
-NzEyNjgsLTE1MzQwMzA5MzAsLTg4NjkzODcwNCwtODAxNjA4OD
-AyLDEwMzI4MDg0MjQsNzg5NzE0NiwtNjI1MDQ2MzQ3LDE0ODQ0
-OTQyOV19
+eyJoaXN0b3J5IjpbLTUxMjUwNTA5MSwtMTk5MjAwNTQxLDU1Nz
+gxNzI4OSwtMTk0MDQ2NDE1MSw0NjMxOTA5NzYsLTc3ODMwMTcz
+MCwtODEyMjQ4NCwtMTAzMzI1MDQxOCwtMTQyMjczNDg2LC02OD
+Y1MjcxNTIsLTE4MDY2NTUyMzYsLTE4NTI2NzEyNjgsLTU0MDUx
+MTYzNCwtMTg1MjY3MTI2OCwtMTUzNDAzMDkzMCwtODg2OTM4Nz
+A0LC04MDE2MDg4MDIsMTAzMjgwODQyNCw3ODk3MTQ2LC02MjUw
+NDYzNDddfQ==
 -->
