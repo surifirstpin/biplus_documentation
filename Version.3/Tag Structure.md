@@ -1,7 +1,7 @@
 
 <center><h1>Tag Structure</h1></center>
 
-Tag structure in BiPlus is a nested layered structure that provides an opportunity to save a report in any of the hierarchical tag location. Depending on your business requirements, you can create number of parent and child tags save the files.
+Tag structure in BiPlus is a nested layered structure that provides an opportunity to save a report in any of the hierarchical tag location. Depending on your business requirements, you can create number of parent and child tags in order to save the reports generated.
 
 **For Instance :** If you have total 200 reports on customer information and salary information, For that you can create 2 layers of tag one for customer information and another for sales information and save the reports separately in different tags for easy access of reports.
 
@@ -47,6 +47,6 @@ In order to change the privacy option for a saved tag and to change the child ta
 ](https://raw.githubusercontent.com/sv18042016/fp1/8170dc06ffe7bf872e20e1530d9f2d2c50b6f6f3/images/edit_tag_full.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjAwNzY5Miw3OTQxNTIxMjcsLTY1Mj
-gyNTQ0MSwtMzI4NTIyNjgzXX0=
+eyJoaXN0b3J5IjpbMjI0NjE2NTA5LDc5NDE1MjEyNywtNjUyOD
+I1NDQxLC0zMjg1MjI2ODNdfQ==
 -->
