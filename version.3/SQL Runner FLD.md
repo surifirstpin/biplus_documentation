@@ -70,7 +70,7 @@ SELECT STATIONCODE,SUM(AMOUNT) FROM ORDERS GROUP BY STATIONCODE
 
 To download the data retrieved click on **Download** Icon as explained in below image.
 
-## Number of records
+## Number of records fetched
 
 Number of records fetched after running a query is displayed at right bottom of the page as shown in the image.
 
@@ -79,7 +79,7 @@ Number of records fetched after running a query is displayed at right bottom of 
 
 **4.**  Once the query is executed it displays the **Query Time**  and **Number of rows** fetched.
 
-**5.** Dialects used while setting up connection will be displayed at top Right of the query area,
+**5.** Dialects used while setting up connection will be displayed at top right of the query area,
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/commit.png)
@@ -93,7 +93,7 @@ Number of records fetched after running a query is displayed at right bottom of 
 ## Apply Sorting
 
 
-In your query result you can view the data in ascending or descending order by applying sorting. To enable sorting Click on column header, to reverse the sorting order click on column header for second time **or,**
+In your query result you can view the data in ascending or descending order by applying sorting. To enable sorting click on column header, to reverse the sorting order click on column header for second time **or,**
 
 Write the following code in sql command this way;
 ```
@@ -145,11 +145,11 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzQ0ODI4MiwtNTEyNTA1MDkxLC0xOT
-kyMDA1NDEsNTU3ODE3Mjg5LC0xOTQwNDY0MTUxLDQ2MzE5MDk3
-NiwtNzc4MzAxNzMwLC04MTIyNDg0LC0xMDMzMjUwNDE4LC0xND
-IyNzM0ODYsLTY4NjUyNzE1MiwtMTgwNjY1NTIzNiwtMTg1MjY3
-MTI2OCwtNTQwNTExNjM0LC0xODUyNjcxMjY4LC0xNTM0MDMwOT
-MwLC04ODY5Mzg3MDQsLTgwMTYwODgwMiwxMDMyODA4NDI0LDc4
-OTcxNDZdfQ==
+eyJoaXN0b3J5IjpbLTExNjg2NzYwMDEsLTgxNzQ0ODI4MiwtNT
+EyNTA1MDkxLC0xOTkyMDA1NDEsNTU3ODE3Mjg5LC0xOTQwNDY0
+MTUxLDQ2MzE5MDk3NiwtNzc4MzAxNzMwLC04MTIyNDg0LC0xMD
+MzMjUwNDE4LC0xNDIyNzM0ODYsLTY4NjUyNzE1MiwtMTgwNjY1
+NTIzNiwtMTg1MjY3MTI2OCwtNTQwNTExNjM0LC0xODUyNjcxMj
+Y4LC0xNTM0MDMwOTMwLC04ODY5Mzg3MDQsLTgwMTYwODgwMiwx
+MDMyODA4NDI0XX0=
 -->
