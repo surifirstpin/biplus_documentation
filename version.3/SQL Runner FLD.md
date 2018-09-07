@@ -118,7 +118,7 @@ To get started with derived view, Click on **List icon** and select **Create Der
 
 **Enter the below fields ;**
 
-- **Derived View Name** Enter Label for identification to the new derived view.
+- **Derived View Name** Enter Label for identification of new derived view.
 
  - **Projects** Select the dialects using the drop down button.
  
@@ -149,11 +149,11 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU3MTM1NzYsMTE0NDQxMzI0MCw5MT
-gxNjgxNzMsLTExNjg2NzYwMDEsLTgxNzQ0ODI4MiwtNTEyNTA1
-MDkxLC0xOTkyMDA1NDEsNTU3ODE3Mjg5LC0xOTQwNDY0MTUxLD
-Q2MzE5MDk3NiwtNzc4MzAxNzMwLC04MTIyNDg0LC0xMDMzMjUw
-NDE4LC0xNDIyNzM0ODYsLTY4NjUyNzE1MiwtMTgwNjY1NTIzNi
-wtMTg1MjY3MTI2OCwtNTQwNTExNjM0LC0xODUyNjcxMjY4LC0x
-NTM0MDMwOTMwXX0=
+eyJoaXN0b3J5IjpbMTMxMDQwODg2NywtMTc4NTcxMzU3NiwxMT
+Q0NDEzMjQwLDkxODE2ODE3MywtMTE2ODY3NjAwMSwtODE3NDQ4
+MjgyLC01MTI1MDUwOTEsLTE5OTIwMDU0MSw1NTc4MTcyODksLT
+E5NDA0NjQxNTEsNDYzMTkwOTc2LC03NzgzMDE3MzAsLTgxMjI0
+ODQsLTEwMzMyNTA0MTgsLTE0MjI3MzQ4NiwtNjg2NTI3MTUyLC
+0xODA2NjU1MjM2LC0xODUyNjcxMjY4LC01NDA1MTE2MzQsLTE4
+NTI2NzEyNjhdfQ==
 -->
