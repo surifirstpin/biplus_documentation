@@ -139,18 +139,18 @@ To view the newly created derived view. Navigate to **Model section** under the 
 ## Create Query in Analysis Section
 
 Now, let us see how to create a query in **Analysis Section**.
+
 - Select the fields in analysis section and run the report.
 
-- Click on SQL tab and copy the query build in Analysis section after running a reports
--  and copy it to SQL Runner.
+- Click on SQL tab and copy the query build on running the report, then copy it to SQL Runner.
 
-- Copy paste the text to SQL area  and **Run** the SQL Runner to Query the database. You can also customize the already existing text as per your business needs and run the new query.
+- Once copied **Run** SQL Runner to Query the database. You can also customize the already existing text as per your business needs and run the new query.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODI5NDM4OCwtMTc4NTcxMzU3NiwxMT
+eyJoaXN0b3J5IjpbMjEyODU2Mzg0MCwtMTc4NTcxMzU3NiwxMT
 Q0NDEzMjQwLDkxODE2ODE3MywtMTE2ODY3NjAwMSwtODE3NDQ4
 MjgyLC01MTI1MDUwOTEsLTE5OTIwMDU0MSw1NTc4MTcyODksLT
 E5NDA0NjQxNTEsNDYzMTkwOTc2LC03NzgzMDE3MzAsLTgxMjI0
