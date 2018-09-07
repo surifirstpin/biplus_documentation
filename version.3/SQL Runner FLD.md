@@ -57,15 +57,14 @@ To view a specific value from the data retrieved, select **Find** option availab
 
 ## Group
 
- To apply group the data retrieved click on **Group** option available in drop down list of column header similarly, or else,
-
-**You can directly group it by writing following code in sql command this way;**
+ To apply grouping for the data retrieved, select **Group** option available in drop down list of column header, or else, you can directly group it by writing following code in sql command.
 
 ```
 SELECT STATIONCODE,SUM(AMOUNT) FROM ORDERS GROUP BY STATIONCODE
 ```
+## Pin
 
- -  To Pin the the column values select **Pin** option available in the same list.
+   To Pin the the column values select **Pin** option available in the same list.
   ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b86474022ef60bfa90365160155a02a2254aff13/images/find_sql.png)
 
@@ -137,11 +136,11 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI2NzMyMDAsLTUxMjUwNTA5MSwtMT
-k5MjAwNTQxLDU1NzgxNzI4OSwtMTk0MDQ2NDE1MSw0NjMxOTA5
-NzYsLTc3ODMwMTczMCwtODEyMjQ4NCwtMTAzMzI1MDQxOCwtMT
-QyMjczNDg2LC02ODY1MjcxNTIsLTE4MDY2NTUyMzYsLTE4NTI2
-NzEyNjgsLTU0MDUxMTYzNCwtMTg1MjY3MTI2OCwtMTUzNDAzMD
-kzMCwtODg2OTM4NzA0LC04MDE2MDg4MDIsMTAzMjgwODQyNCw3
-ODk3MTQ2XX0=
+eyJoaXN0b3J5IjpbNTIwMTEyOTY2LC01MTI1MDUwOTEsLTE5OT
+IwMDU0MSw1NTc4MTcyODksLTE5NDA0NjQxNTEsNDYzMTkwOTc2
+LC03NzgzMDE3MzAsLTgxMjI0ODQsLTEwMzMyNTA0MTgsLTE0Mj
+I3MzQ4NiwtNjg2NTI3MTUyLC0xODA2NjU1MjM2LC0xODUyNjcx
+MjY4LC01NDA1MTE2MzQsLTE4NTI2NzEyNjgsLTE1MzQwMzA5Mz
+AsLTg4NjkzODcwNCwtODAxNjA4ODAyLDEwMzI4MDg0MjQsNzg5
+NzE0Nl19
 -->
