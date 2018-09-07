@@ -120,7 +120,7 @@ To get started with derived view, Click on **List icon** and select **Create Der
 
 - **Derived View Name** Enter Label for identification of new derived view.
 
- - **Projects** Select the dialects using the drop down button.
+ - **Projects** Select the dialects from drop down list.
  
  - **Query** the query created in sql runner will be added here.
  
@@ -131,7 +131,7 @@ To get started with derived view, Click on **List icon** and select **Create Der
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cdb0e5ca373edcb312536038651c1b8bbffb1f54/images/create_derived_view1.png)
 
-To view the newly created derived view. Go to Model section under the views list as shown in below image.
+To view the newly created derived view. Navigate to **Model section** under the views list as shown in below image.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/44c6a5e67268522711a49a43c55d04588892b5f0/images/derived_view.png)
@@ -149,7 +149,7 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDQwODg2NywtMTc4NTcxMzU3NiwxMT
+eyJoaXN0b3J5IjpbMTA1MjcwNzYyMSwtMTc4NTcxMzU3NiwxMT
 Q0NDEzMjQwLDkxODE2ODE3MywtMTE2ODY3NjAwMSwtODE3NDQ4
 MjgyLC01MTI1MDUwOTEsLTE5OTIwMDU0MSw1NTc4MTcyODksLT
 E5NDA0NjQxNTEsNDYzMTkwOTc2LC03NzgzMDE3MzAsLTgxMjI0
