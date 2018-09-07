@@ -52,6 +52,7 @@ select STATIONCODE,AMOUNT FROM ORDERS
 
 > **Note :** SQL runner can fetch a maximum limit of 5000 records only.
 
+To Find a specific value from the data retreived click on  f
    - From the data retrieved to view the particular field value click **Find** option available in the field column header drop-down list.
 
     -  To group the data retrieved click on **Group** option available in drop down list of column header similarly, or else,
@@ -134,8 +135,9 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjUwNTA5MSwtMTk5MjAwNTQxLDU1Nz
-gxNzI4OSwtMTk0MDQ2NDE1MSw0NjMxOTA5NzYsLTc3ODMwMTcz
-MCwtODEyMjQ4NCwtMTAzMzI1MDQxOCwtMTQyMjczNDg2LC02OD
-Y1MjcxNTIsLTE4MDY2NTUyMzYsLTE4NTI2NzEyNjhdfQ==
+eyJoaXN0b3J5IjpbLTE0MTAwOTc4MTUsLTUxMjUwNTA5MSwtMT
+k5MjAwNTQxLDU1NzgxNzI4OSwtMTk0MDQ2NDE1MSw0NjMxOTA5
+NzYsLTc3ODMwMTczMCwtODEyMjQ4NCwtMTAzMzI1MDQxOCwtMT
+QyMjczNDg2LC02ODY1MjcxNTIsLTE4MDY2NTUyMzYsLTE4NTI2
+NzEyNjhdfQ==
 -->
