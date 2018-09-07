@@ -93,9 +93,7 @@ Number of records fetched after running a query is displayed at right bottom of 
 
 ## Apply Sorting
 
-In your query result you can view the data in ascending or descending order by applying sorting. To enable sorting click on column header, to reverse the sorting order click on column header for second time **or,**
-
-Write the following code in sql command this way;
+The query result can be viewed in ascending or descending order by applying sorting. To enable sorting click on column header, to reverse the sorting order click on column header for second time, or else you can write the following code in sql command ;
 ```
 ORDER BY STATIONCODE ASC
 ```
@@ -145,11 +143,11 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODU5ODQ1MSwtMTE2ODY3NjAwMSwtOD
-E3NDQ4MjgyLC01MTI1MDUwOTEsLTE5OTIwMDU0MSw1NTc4MTcy
-ODksLTE5NDA0NjQxNTEsNDYzMTkwOTc2LC03NzgzMDE3MzAsLT
-gxMjI0ODQsLTEwMzMyNTA0MTgsLTE0MjI3MzQ4NiwtNjg2NTI3
-MTUyLC0xODA2NjU1MjM2LC0xODUyNjcxMjY4LC01NDA1MTE2Mz
-QsLTE4NTI2NzEyNjgsLTE1MzQwMzA5MzAsLTg4NjkzODcwNCwt
-ODAxNjA4ODAyXX0=
+eyJoaXN0b3J5IjpbNjgzMDQ0OTQ3LC0xMTY4Njc2MDAxLC04MT
+c0NDgyODIsLTUxMjUwNTA5MSwtMTk5MjAwNTQxLDU1NzgxNzI4
+OSwtMTk0MDQ2NDE1MSw0NjMxOTA5NzYsLTc3ODMwMTczMCwtOD
+EyMjQ4NCwtMTAzMzI1MDQxOCwtMTQyMjczNDg2LC02ODY1Mjcx
+NTIsLTE4MDY2NTUyMzYsLTE4NTI2NzEyNjgsLTU0MDUxMTYzNC
+wtMTg1MjY3MTI2OCwtMTUzNDAzMDkzMCwtODg2OTM4NzA0LC04
+MDE2MDg4MDJdfQ==
 -->
