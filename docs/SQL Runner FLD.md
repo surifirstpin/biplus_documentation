@@ -94,8 +94,14 @@ Number of records fetched after running a query is displayed at right bottom of 
 ## Apply Sorting
 
 The query result can be viewed in ascending or descending order by applying sorting. To enable sorting click on column header, to reverse the sorting order click on column header for second time, or else you can write the following code in sql command ;
+
+### Ascending Order
 ```
 ORDER BY STATIONCODE ASC
+```
+### Descending Order
+```
+ORDER BY STATIONCODE DSC
 ```
 
 ![
@@ -143,7 +149,7 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzMDQ0OTQ3LC0xMTY4Njc2MDAxLC04MT
+eyJoaXN0b3J5IjpbOTE4MTY4MTczLC0xMTY4Njc2MDAxLC04MT
 c0NDgyODIsLTUxMjUwNTA5MSwtMTk5MjAwNTQxLDU1NzgxNzI4
 OSwtMTk0MDQ2NDE1MSw0NjMxOTA5NzYsLTc3ODMwMTczMCwtOD
 EyMjQ4NCwtMTAzMzI1MDQxOCwtMTQyMjczNDg2LC02ODY1Mjcx
