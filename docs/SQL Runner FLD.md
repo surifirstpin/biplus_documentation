@@ -52,9 +52,12 @@ select STATIONCODE,AMOUNT FROM ORDERS
 
 > **Note :** SQL runner can fetch a maximum limit of 5000 records only.
 
-To view a specific value from the data retrieved, use **Find** option available in the field column header drop-down list.
+## Find
+To view a specific value from the data retrieved, select **Find** option available in the field header drop-down list.
 
-    -  To group the data retrieved click on **Group** option available in drop down list of column header similarly, or else,
+## Group
+
+ To apply group the data retrieved click on **Group** option available in drop down list of column header similarly, or else,
 
 **You can directly group it by writing following code in sql command this way;**
 
@@ -134,9 +137,9 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Nzc2MTY0MCwtNTEyNTA1MDkxLC0xOT
-kyMDA1NDEsNTU3ODE3Mjg5LC0xOTQwNDY0MTUxLDQ2MzE5MDk3
-NiwtNzc4MzAxNzMwLC04MTIyNDg0LC0xMDMzMjUwNDE4LC0xND
-IyNzM0ODYsLTY4NjUyNzE1MiwtMTgwNjY1NTIzNiwtMTg1MjY3
-MTI2OF19
+eyJoaXN0b3J5IjpbLTExNjI2NzMyMDAsLTUxMjUwNTA5MSwtMT
+k5MjAwNTQxLDU1NzgxNzI4OSwtMTk0MDQ2NDE1MSw0NjMxOTA5
+NzYsLTc3ODMwMTczMCwtODEyMjQ4NCwtMTAzMzI1MDQxOCwtMT
+QyMjczNDg2LC02ODY1MjcxNTIsLTE4MDY2NTUyMzYsLTE4NTI2
+NzEyNjhdfQ==
 -->
