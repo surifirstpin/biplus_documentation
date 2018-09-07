@@ -65,10 +65,14 @@ SELECT STATIONCODE,SUM(AMOUNT) FROM ORDERS GROUP BY STATIONCODE
 ## Pin
 
    To Pin the the data, select **Pin** from drop-down list of the field header.
+
+## Download
+
+To download the data retreived click
   ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b86474022ef60bfa90365160155a02a2254aff13/images/find_sql.png)
 
-**4.**  Once the query is executed it displays the **Query Time** taken to run the query and **Number of rows** fetched.
+**4.**  Once the query is executed it displays the **Query Time**  and **Number of rows** fetched.
 
 **5.** Dialects used while setting up connection will be displayed at top Right of the query area,
 
@@ -136,11 +140,11 @@ You can also make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4Mzc0MzE4LC01MTI1MDUwOTEsLTE5OT
-IwMDU0MSw1NTc4MTcyODksLTE5NDA0NjQxNTEsNDYzMTkwOTc2
-LC03NzgzMDE3MzAsLTgxMjI0ODQsLTEwMzMyNTA0MTgsLTE0Mj
-I3MzQ4NiwtNjg2NTI3MTUyLC0xODA2NjU1MjM2LC0xODUyNjcx
-MjY4LC01NDA1MTE2MzQsLTE4NTI2NzEyNjgsLTE1MzQwMzA5Mz
-AsLTg4NjkzODcwNCwtODAxNjA4ODAyLDEwMzI4MDg0MjQsNzg5
-NzE0Nl19
+eyJoaXN0b3J5IjpbLTM2MTMzMDU0MCwtNTEyNTA1MDkxLC0xOT
+kyMDA1NDEsNTU3ODE3Mjg5LC0xOTQwNDY0MTUxLDQ2MzE5MDk3
+NiwtNzc4MzAxNzMwLC04MTIyNDg0LC0xMDMzMjUwNDE4LC0xND
+IyNzM0ODYsLTY4NjUyNzE1MiwtMTgwNjY1NTIzNiwtMTg1MjY3
+MTI2OCwtNTQwNTExNjM0LC0xODUyNjcxMjY4LC0xNTM0MDMwOT
+MwLC04ODY5Mzg3MDQsLTgwMTYwODgwMiwxMDMyODA4NDI0LDc4
+OTcxNDZdfQ==
 -->
