@@ -12,7 +12,7 @@ To view the saved content or files in BiPlus, Click on dashboard section all the
 **Now Lets Get Started :**
 
 **TAGS**
-- Click on any specific tag which you would like to view.To 
+- Click on any specific tag which you would like to view. it will navigate to tag location and displays the child tag, reports and dashboard saved under that particulate tag location.
 
 
 - Click on any of the Report to view it.
@@ -26,6 +26,6 @@ To view the saved content or files in BiPlus, Click on dashboard section all the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjI1NDEyNDksMTE5NTI1MzUxMSw3MD
-E0NzkwNDIsMTUzNjQ2OTI0OF19
+eyJoaXN0b3J5IjpbMzM0NDQ4NzQyLDExOTUyNTM1MTEsNzAxND
+c5MDQyLDE1MzY0NjkyNDhdfQ==
 -->
