@@ -8,9 +8,9 @@ Visualization in BiPlus creates impressive graphs and charts based on query resu
 
 In Analysis section you can configure data and visualization together, So once you share a query user will get a picture and data as well.
 
-**For Instance** : Let us create a pictorial representation for Customer details dashboard for better understanding. In this example we will query  **Customer_name, customer_address and order_value_sum.** Let us filter order_value_sum to limit our result less than or equal to 200000. ( Pie chart supports maximum 20 division)
+**For Instance** : Let us create reports to fetch customer details  In this example we will query  **Customer_name, customer_address and order_value_sum.** Let us filter order_value_sum to limit our result less than or equal to 200000. ( Pie chart supports maximum 20 division)
 
-After selecting dimensions and measure run the report to display the fetched data for customer details.
+After selecting dimensions and measure, run the report to display the fetched data for customer details.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b8aad43c522f9e3f211ee64e97819bb66b98ff81/images/full_vis1.png)
@@ -18,7 +18,7 @@ After selecting dimensions and measure run the report to display the fetched dat
 
 ## Visualization Adds Life to Data
 
-On Analysis page Click on **charts** tab to configure different type of visualization images for your query. Select the suitable chart that matches your data requirement.
+On Analysis page Click on **Charts** tab to configure different type of visualization images for your query. Select the suitable chart that matches your data requirement.
 Under **General** tab click on the type of chart you want to view.
 
 **For instance** : Let us take **Pie Chart**, for better understanding.
@@ -66,7 +66,7 @@ Using BiPlus you can drill deeper into visualisation, to get more specific infor
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3OTM2NzUyLC0zOTk5NTkwNywxNTUzMj
-k4MzUsLTY0MTg0MjIyMywyMzUwNjE5MjMsLTE3MDMzMTkwMTNd
-fQ==
+eyJoaXN0b3J5IjpbLTEyOTU5MTEwNzksLTM5OTk1OTA3LDE1NT
+MyOTgzNSwtNjQxODQyMjIzLDIzNTA2MTkyMywtMTcwMzMxOTAx
+M119
 -->
