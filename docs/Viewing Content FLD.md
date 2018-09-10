@@ -7,7 +7,7 @@ This section provides information on how to view the existing files in BiPlus.
 
 ## Navigating to Saved Content 
 
-To view the saved content, Click on Dashboard section you can view the data either in 
+To view the saved content, Click on dashboard section you can view the data either in folder view or list view
 **Now Lets Get Started :**
 
 Click on the **Work Space** under Dashboard Section to view the content in BiPlus.
@@ -26,6 +26,6 @@ Click on the **Work Space** under Dashboard Section to view the content in BiPlu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2OTU0MjAyLDcwMTQ3OTA0MiwxNTM2ND
-Y5MjQ4XX0=
+eyJoaXN0b3J5IjpbMTE5NTI1MzUxMSw3MDE0NzkwNDIsMTUzNj
+Q2OTI0OF19
 -->
