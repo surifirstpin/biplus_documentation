@@ -47,7 +47,7 @@ The resultant for this expression would be seen in green colour;
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot2.png)
 
-In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. ( Applicable only for table chart). 
+In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. Similarly you can hide last column by selecting the check box pihide lat ( Applicable only for table chart). 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot3.png)
 
@@ -66,7 +66,7 @@ Using BiPlus you can drill deeper into visualisation, to get more specific infor
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxMTU2MjkyLDQyMTEzNjgzNiwtMTI5NT
-kxMTA3OSwtMzk5OTU5MDcsMTU1MzI5ODM1LC02NDE4NDIyMjMs
-MjM1MDYxOTIzLC0xNzAzMzE5MDEzLDE3MzQ4MzcwNjddfQ==
+eyJoaXN0b3J5IjpbLTQyNDcwNDIwNCw0MjExMzY4MzYsLTEyOT
+U5MTEwNzksLTM5OTk1OTA3LDE1NTMyOTgzNSwtNjQxODQyMjIz
+LDIzNTA2MTkyMywtMTcwMzMxOTAxMywxNzM0ODM3MDY3XX0=
 -->
