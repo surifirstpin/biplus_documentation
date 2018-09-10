@@ -26,7 +26,7 @@ immediately, It will pop-up a **Add Tag** page, Enter below information in Pop-u
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c1b8fc9522826986d90afc6df61df3f988227475/images/child_tag.png)
 
-Before saving the tag select the privacy option to enable the Access to tag.
+Before saving the tag created, Select the privacy option to enable the access to tag as explained below;
 
 - **Enable Privacy** select privacy options for tag.
 
@@ -47,7 +47,7 @@ In order to change the privacy option for a saved tag and to change the child ta
 ](https://raw.githubusercontent.com/sv18042016/fp1/8170dc06ffe7bf872e20e1530d9f2d2c50b6f6f3/images/edit_tag_full.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTk4MDk5NiwtMTI0OTgzNjA0MiwyMj
-Q2MTY1MDksNzk0MTUyMTI3LC02NTI4MjU0NDEsLTMyODUyMjY4
-M119
+eyJoaXN0b3J5IjpbNTc1MzUxNjk2LC0xMjQ5ODM2MDQyLDIyND
+YxNjUwOSw3OTQxNTIxMjcsLTY1MjgyNTQ0MSwtMzI4NTIyNjgz
+XX0=
 -->
