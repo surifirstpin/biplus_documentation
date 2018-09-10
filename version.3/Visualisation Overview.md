@@ -27,7 +27,7 @@ Under **General** tab click on the type of chart you want to view.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/eafbc564010f8906e66589373f5039607a0e68b6/images/visu_pie_chart1.png)
 
-As shown in above image there multiple editing options provided to **Pie chart**, Similarly you can also view types of visualization optionss \available in BiPlus.
+As shown in above image there multiple editing options provided to **Pie chart**, Similarly you can also view types of visualization options available in BiPlus.
 
 ## Hide Pivot
 
@@ -66,7 +66,7 @@ Using BiPlus you can drill deeper into visualisation, to get more specific infor
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzIwNzE5NywtMTI5NTkxMTA3OSwtMz
-k5OTU5MDcsMTU1MzI5ODM1LC02NDE4NDIyMjMsMjM1MDYxOTIz
-LC0xNzAzMzE5MDEzLDE3MzQ4MzcwNjddfQ==
+eyJoaXN0b3J5IjpbNDIxMTM2ODM2LC0xMjk1OTExMDc5LC0zOT
+k5NTkwNywxNTUzMjk4MzUsLTY0MTg0MjIyMywyMzUwNjE5MjMs
+LTE3MDMzMTkwMTMsMTczNDgzNzA2N119
 -->
