@@ -1,6 +1,7 @@
 
 <center><h1>Visualization Overview</h1></center>
 
+Visualization in BiPlus creates impressive graphs and charts based 
 In BiPlus it is easy to create graphs and charts based on query result obtained. This section describes the data visualization and displays an eye-caching pictorial representation of the data obtained. Depending on your requirement you can visualize the data in different chart types. Now let us see in detail how does visualization works in BiPlus.
 
 In BiPlus analysis section you can configure data and visualization together, So once you share a query user will get a picture and data as well.
@@ -62,7 +63,7 @@ Using BiPlus you can drill deeper into visualisation, to get more specific infor
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTk1OTA3LDE1NTMyOTgzNSwtNjQxOD
-QyMjIzLDIzNTA2MTkyMywtMTcwMzMxOTAxMywxNzM0ODM3MDY3
-XX0=
+eyJoaXN0b3J5IjpbLTkzMDUyODE2MSwtMzk5OTU5MDcsMTU1Mz
+I5ODM1LC02NDE4NDIyMjMsMjM1MDYxOTIzLC0xNzAzMzE5MDEz
+LDE3MzQ4MzcwNjddfQ==
 -->
