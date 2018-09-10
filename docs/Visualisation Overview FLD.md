@@ -63,6 +63,6 @@ Using BiPlus you can drill deeper into visualisation, to get more specific infor
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTg0MjIyMywyMzUwNjE5MjMsLTE3MD
-MzMTkwMTNdfQ==
+eyJoaXN0b3J5IjpbMTU1MzI5ODM1LC02NDE4NDIyMjMsMjM1MD
+YxOTIzLC0xNzAzMzE5MDEzXX0=
 -->
