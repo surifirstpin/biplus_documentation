@@ -18,7 +18,7 @@ After selecting dimensions and measure, run the report to display the fetched da
 
 ## Visualization Adds Life to Data
 
-Click on **Charts** tab to configure different type of visualization images for your query. Select the suitable chart that matches your data requirement.
+Click on **Charts** tab, to configure different type of visualization images for your query. Select the suitable chart that matches your data requirement.
 
 Under **General** tab click on the type of chart you want to view.
 
@@ -67,7 +67,7 @@ Using BiPlus you can drill deeper into visualisation, to get more specific infor
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM2MTYyNDEsLTEyOTU5MTEwNzksLT
-M5OTk1OTA3LDE1NTMyOTgzNSwtNjQxODQyMjIzLDIzNTA2MTky
-MywtMTcwMzMxOTAxM119
+eyJoaXN0b3J5IjpbLTExMTEyMjQxMywtMTI5NTkxMTA3OSwtMz
+k5OTU5MDcsMTU1MzI5ODM1LC02NDE4NDIyMjMsMjM1MDYxOTIz
+LC0xNzAzMzE5MDEzXX0=
 -->
