@@ -19,9 +19,9 @@ immediately, It will pop-up a **Add Tag** page, Enter below information in Pop-u
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/457c21c373c4db9d2f1ae47344146723ffe79d2d/images/tag_2.png)
 
-- To create a new **Parent Tag** Select the workspace and click **Ok** to save save as parent tag.
+- To create a new **Parent Tag** Select the workspace and click **OK** to save save as parent tag.
 
-- To create a **Child Tag** select under the desired parent tag. You can add multiple child tags in parent tag.
+- To create a **Child Tag** select the desired parent tag and click **OK** to save it has child tag. You can add multiple child tags in parent tag.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c1b8fc9522826986d90afc6df61df3f988227475/images/child_tag.png)
@@ -47,7 +47,7 @@ In order to change the privacy option for a saved tag and to change the child ta
 ](https://raw.githubusercontent.com/sv18042016/fp1/8170dc06ffe7bf872e20e1530d9f2d2c50b6f6f3/images/edit_tag_full.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDUxMTc0MTYsLTEyNDk4MzYwNDIsMj
-I0NjE2NTA5LDc5NDE1MjEyNywtNjUyODI1NDQxLC0zMjg1MjI2
-ODNdfQ==
+eyJoaXN0b3J5IjpbMTQ4NTk4MDk5NiwtMTI0OTgzNjA0MiwyMj
+Q2MTY1MDksNzk0MTUyMTI3LC02NTI4MjU0NDEsLTMyODUyMjY4
+M119
 -->
