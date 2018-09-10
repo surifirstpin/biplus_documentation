@@ -17,25 +17,28 @@ immediately, It will pop-up a **Add Tag** page, Enter below information in Pop-u
 
 - **Tag Name**  identifier name for the new tag.
 
+
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/457c21c373c4db9d2f1ae47344146723ffe79d2d/images/tag_2.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/572c5cee7ab90c2d6e74d3d9b78e60020cf2f5eb/images/Parent_tag.png)
 
 - To create a new **Parent Tag** Select the workspace and click **OK** to save save as parent tag.
 
 - To create a **Child Tag** select the desired parent tag and click **OK** to save it has child tag. You can add multiple child tags in parent tag.
 
+
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/c1b8fc9522826986d90afc6df61df3f988227475/images/child_tag.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/572c5cee7ab90c2d6e74d3d9b78e60020cf2f5eb/images/child_tag.png)
 
 Before saving the tag created, Select the privacy option to enable the access to tag as explained below;
 
-- **Enable Privacy** select privacy options for tag.
+
+Select any of the below privacy options for new tag.
 
   -  **Private** Tag saved in private section is accessed by the user itself.
   -  **Public**  Tag saved in public section is accessed by all the users. 
   -  **Share** Tag saved under share section is accessed by specific set of users.
 
-All the saved tags are visible in tree view as shown below.
+All the saved tags are visible in List view or Folder view
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/191f8906591a719bb70c33b807cb4c3dabf4ed4e/images/tree_view.png)
@@ -48,7 +51,7 @@ Use setting icon, available at far right of the tag created to **Edit, Delete** 
 ](https://raw.githubusercontent.com/sv18042016/fp1/8170dc06ffe7bf872e20e1530d9f2d2c50b6f6f3/images/edit_tag_full.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTk1NDAwOCwtMTYwMDUyMzY5MSw3MT
-M1MjY5OSwtMTI0OTgzNjA0MiwyMjQ2MTY1MDksNzk0MTUyMTI3
-LC02NTI4MjU0NDEsLTMyODUyMjY4M119
+eyJoaXN0b3J5IjpbNDY3MDg5ODUxLC0xNjAwNTIzNjkxLDcxMz
+UyNjk5LC0xMjQ5ODM2MDQyLDIyNDYxNjUwOSw3OTQxNTIxMjcs
+LTY1MjgyNTQ0MSwtMzI4NTIyNjgzXX0=
 -->
