@@ -3,12 +3,11 @@
 
 <center><h1>Viewing Content</h1></center>
 
-This section provides information on how to view the existing files in BiPlus,
+This section provides information on how to view the existing files in BiPlus.
 
 ## Navigating to Saved Content 
 
-All the saved content is available in Hierarchical tag structure. Tag includes dashboard and Reports that can be accessed to view.
-
+To view the saved content, Click on Dashboard section you can view the data either in 
 **Now Lets Get Started :**
 
 Click on the **Work Space** under Dashboard Section to view the content in BiPlus.
@@ -27,6 +26,6 @@ Click on the **Work Space** under Dashboard Section to view the content in BiPlu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTA4MDU4NCw3MDE0NzkwNDIsMTUzNj
-Q2OTI0OF19
+eyJoaXN0b3J5IjpbNjM2OTU0MjAyLDcwMTQ3OTA0MiwxNTM2ND
+Y5MjQ4XX0=
 -->
