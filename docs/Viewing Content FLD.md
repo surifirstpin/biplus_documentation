@@ -17,9 +17,9 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 ### Dashbord
  Click on any Dashboard to view it. it will display the dashboard layouts and global filters used in the dashboard reports.
 > **Note** : Reports in work space are identified with **Tachometer icon.**
-> 
+
  ### Reports
- Click on any specific report. it will display the dashboard layouts and global filters used in the dashboard reports.
+ Click on any specific report. it will display the report output and global filters used in the dashboard reports.
  Click on any of the Report to view it.
 > **Note** : Reports in work space are identified with **Line-Chart Icon.**
 
@@ -31,6 +31,6 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzU5MjM0NDIsMTE5NTI1MzUxMSw3MD
-E0NzkwNDIsMTUzNjQ2OTI0OF19
+eyJoaXN0b3J5IjpbLTIwMzY3NjY0NCwxMTk1MjUzNTExLDcwMT
+Q3OTA0MiwxNTM2NDY5MjQ4XX0=
 -->
