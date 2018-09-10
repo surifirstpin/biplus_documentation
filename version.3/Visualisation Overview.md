@@ -4,7 +4,8 @@
 This section provides a basic overview on visualization and its functionality.
 Visualization in BiPlus creates impressive graphs and charts based on query result obtained and displays an eye-caching pictorial representation of the data obtained. Based on your requirement, you can visualize the data in different chart formats.
 
-Getting Started with Visulai
+**Basic overview on how visualization works ;**
+
 In BiPlus analysis section you can configure data and visualization together, So once you share a query user will get a picture and data as well.
 **For Instance** : Let us create a pictorial representation for Customer details dashboard for better understanding. In this example we will query  **Customer_name, customer_address and order_value_sum.** Let us filter order_value_sum to limit our result less than or equal to 200000. ( Pie chart supports maximum 20 division)
 
@@ -64,7 +65,7 @@ Using BiPlus you can drill deeper into visualisation, to get more specific infor
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzA0NjEzOCwtMzk5OTU5MDcsMTU1Mz
-I5ODM1LC02NDE4NDIyMjMsMjM1MDYxOTIzLC0xNzAzMzE5MDEz
-LDE3MzQ4MzcwNjddfQ==
+eyJoaXN0b3J5IjpbNDQzMTQ0Nzc1LC0zOTk5NTkwNywxNTUzMj
+k4MzUsLTY0MTg0MjIyMywyMzUwNjE5MjMsLTE3MDMzMTkwMTMs
+MTczNDgzNzA2N119
 -->
