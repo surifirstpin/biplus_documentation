@@ -22,16 +22,21 @@ Click on any specific tag which you would like to view. it will navigate to tag 
  Click on any Dashboard to view it. it will display the dashboard layouts and global filters used in the dashboard reports.
 > **Note** : Dashboard are identified with **Tachometer icon.**
 
+Image
+
+
  ### Reports
  Click on any specific report. it will display the report output and global filters used in reports.
 > **Note** : Reports are identified with **Line-Chart Icon.**
 
 
+Image
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTE0NTAwLC0xODEzMTQwMTc5LDExNT
-k2NDM0OTAsMTE5NTI1MzUxMSw3MDE0NzkwNDIsMTUzNjQ2OTI0
-OF19
+eyJoaXN0b3J5IjpbMTI3MzI5OTY2NCwtMTgxMzE0MDE3OSwxMT
+U5NjQzNDkwLDExOTUyNTM1MTEsNzAxNDc5MDQyLDE1MzY0Njky
+NDhdfQ==
 -->
