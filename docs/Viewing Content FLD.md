@@ -11,21 +11,24 @@ To view the saved content or files in BiPlus, Click on dashboard section all the
 
 **Now Lets Get Started :**
 
-**TAGS**
-- Click on any specific tag which you would like to view. it will navigate to tag location and displays the child tag, reports and dashboard saved under that particulate tag location.
+### TAGS
+Click on any specific tag which you would like to view. it will navigate to tag location and displays the child tag, reports and dashboard saved under that particulate tag location.
 
+### Dashbord
+ Click on any Dashboard to view it.
+> **Note** : Reports in work space are identified with **Tachometer icon.**
 
-- Click on any of the Report to view it.
+ Click on any of the Report to view it.
 > **Note** : Reports in work space are identified with **Line-Chart Icon.**
 
-- Click on any Dashboard to view it.
-> **Note** : Reports in work space are identified with **Tachometer icon.**
+-
+
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/acecb4718f4fcc87c3245fbb9a955c19c1bf9370/images/view_list1.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0NDQ4NzQyLDExOTUyNTM1MTEsNzAxND
-c5MDQyLDE1MzY0NjkyNDhdfQ==
+eyJoaXN0b3J5IjpbLTkwNzE0NzkzOSwxMTk1MjUzNTExLDcwMT
+Q3OTA0MiwxNTM2NDY5MjQ4XX0=
 -->
