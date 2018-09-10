@@ -38,20 +38,12 @@ Select any of the below privacy options for new tag.
   -  **Public**  Tag saved in public section is accessed by all the users. 
   -  **Share** Tag saved under share section is accessed by specific set of users.
 
-All the saved tags are visible in List view or Folder view
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/191f8906591a719bb70c33b807cb4c3dabf4ed4e/images/tree_view.png)
-
+All the saved tags are visible in List view or Folder view,
 Use setting icon, available at far right of the tag created to **Edit, Delete** and to add the **Thumbnail** to tag.
 
-> **Note :** You can view the dashboard content in List view or Folder view as per your convenience
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/8170dc06ffe7bf872e20e1530d9f2d2c50b6f6f3/images/edit_tag_full.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3MDg5ODUxLC0xNjAwNTIzNjkxLDcxMz
-UyNjk5LC0xMjQ5ODM2MDQyLDIyNDYxNjUwOSw3OTQxNTIxMjcs
-LTY1MjgyNTQ0MSwtMzI4NTIyNjgzXX0=
+eyJoaXN0b3J5IjpbLTcwMjgyMzMyOCwtMTYwMDUyMzY5MSw3MT
+M1MjY5OSwtMTI0OTgzNjA0MiwyMjQ2MTY1MDksNzk0MTUyMTI3
+LC02NTI4MjU0NDEsLTMyODUyMjY4M119
 -->
