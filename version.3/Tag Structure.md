@@ -38,16 +38,17 @@ Select any of the below privacy options for new tag.
   -  **Share** Tag saved under share section is accessed by specific set of users.
 
 All the saved tags are visible in List view or Folder view,
-Use setting icon, available at far right of the tag created to **Edit, Delete** and to add the **Thumbnail** to tag.
+Use setting icon, available at far right of the tag created to **Edit, Delete** and to add the **Thumbnail** to Parent tag.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cebf774f6f7807b17ff6d702c0f86d83d3e96e1e/images/Tag_listview.png)
 
-Click on Parent Tag to View the child_tag saved under parent tag.
+Click on Parent Tag, to view the child_tag saved under parent tag.
+Use setting icon, available at far right of the tag created to **Edit, Delete** and to add the **Thumbnail** to Child tag.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cebf774f6f7807b17ff6d702c0f86d83d3e96e1e/images/child_tag_in%20parent.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDMxODI4OCwtNzAyODIzMzI4LC0xNj
+eyJoaXN0b3J5IjpbLTE1NTQyMzg2OCwtNzAyODIzMzI4LC0xNj
 AwNTIzNjkxLDcxMzUyNjk5LC0xMjQ5ODM2MDQyLDIyNDYxNjUw
 OSw3OTQxNTIxMjcsLTY1MjgyNTQ0MSwtMzI4NTIyNjgzLDM4OT
 kzNjM4OSwtMTczNDE5Mjg5NV19
