@@ -39,14 +39,14 @@ All the saved tags are visible in tree view as shown below.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/191f8906591a719bb70c33b807cb4c3dabf4ed4e/images/tree_view.png)
 
-Use setting icon, available at far right of the tag created to Edit , Delete and to add the tu
-In order to change the privacy option for a saved tag and to change the child tag to parent tag or a parent tag to child tag you can make use of **Setting Icon.**
+Use setting icon, available at far right of the tag created to **Edit, Delete** and to add the **Thumbnail** to tag.
+> Note : You can view the dashbopard content in L
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/8170dc06ffe7bf872e20e1530d9f2d2c50b6f6f3/images/edit_tag_full.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzkxNTk4MDgsNzEzNTI2OTksLTEyND
+eyJoaXN0b3J5IjpbLTE4MjgyMzcwNDksNzEzNTI2OTksLTEyND
 k4MzYwNDIsMjI0NjE2NTA5LDc5NDE1MjEyNywtNjUyODI1NDQx
 LC0zMjg1MjI2ODNdfQ==
 -->
