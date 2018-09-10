@@ -31,7 +31,6 @@ immediately, It will pop-up a **Add Tag** page, Enter below information in Pop-u
 
 Before saving the tag created, Select the privacy option to enable the access to tag as explained below;
 
-
 Select any of the below privacy options for new tag.
 
   -  **Private** Tag saved in private section is accessed by the user itself.
@@ -41,10 +40,15 @@ Select any of the below privacy options for new tag.
 All the saved tags are visible in List view or Folder view,
 Use setting icon, available at far right of the tag created to **Edit, Delete** and to add the **Thumbnail** to tag.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/cebf774f6f7807b17ff6d702c0f86d83d3e96e1e/images/Tag_listview.png)
 
+Click on Parent Tag to View the child_tag saved under parent tag.
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/cebf774f6f7807b17ff6d702c0f86d83d3e96e1e/images/child_tag_in%20parent.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjgyMzMyOCwtMTYwMDUyMzY5MSw3MT
-M1MjY5OSwtMTI0OTgzNjA0MiwyMjQ2MTY1MDksNzk0MTUyMTI3
-LC02NTI4MjU0NDEsLTMyODUyMjY4MywzODk5MzYzODksLTE3Mz
-QxOTI4OTVdfQ==
+eyJoaXN0b3J5IjpbLTY2NDMxODI4OCwtNzAyODIzMzI4LC0xNj
+AwNTIzNjkxLDcxMzUyNjk5LC0xMjQ5ODM2MDQyLDIyNDYxNjUw
+OSw3OTQxNTIxMjcsLTY1MjgyNTQ0MSwtMzI4NTIyNjgzLDM4OT
+kzNjM4OSwtMTczNDE5Mjg5NV19
 -->
