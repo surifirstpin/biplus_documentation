@@ -31,7 +31,7 @@ As shown in above image there multiple editing options provided to **Pie chart**
 
 ## Hide Pivot
 
-To hide the first or last column field values in Visualization, Select hide first or hide last check box in Data section.
+To hide the first or last column field data obtained after running the report in visualization, Select hide first or hide last check box in Data section.
 To carry out this function you need to derive a expression in calculated column.
 
 For Example : Apply substraction for OrderValue_Sum and derive the exptression in calculated column as follow;
@@ -66,7 +66,7 @@ Using BiPlus you can drill deeper into visualisation, to get more specific infor
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxMTM2ODM2LC0xMjk1OTExMDc5LC0zOT
-k5NTkwNywxNTUzMjk4MzUsLTY0MTg0MjIyMywyMzUwNjE5MjMs
-LTE3MDMzMTkwMTMsMTczNDgzNzA2N119
+eyJoaXN0b3J5IjpbMTcxNTU4OTI5Niw0MjExMzY4MzYsLTEyOT
+U5MTEwNzksLTM5OTk1OTA3LDE1NTMyOTgzNSwtNjQxODQyMjIz
+LDIzNTA2MTkyMywtMTcwMzMxOTAxMywxNzM0ODM3MDY3XX0=
 -->
