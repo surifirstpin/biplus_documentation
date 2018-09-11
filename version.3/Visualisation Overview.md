@@ -55,7 +55,7 @@ In the above image you can see, hide_pivot 1st column is seen empty, so in order
 
 ## Refine Visualization
 
-To refine and enhance the data obtained, BiPlus as provided with some customizing options for better understanding. for instance consider a Pie chart example and select percentage checkbox, which displays the amount of share a customer holds in total value and display customers participating at the bottom of the chart by selecting show legend checkbox.
+To refine and enhance the data obtained, BiPlus is provided with customizing options. Consider a Pie chart example, and select percentage checkbox, which displays the amount of share, a customer holds in total value and display customers participating at the bottom of the chart by selecting show legend checkbox.
 
 ## Deeper insights of visualisation
 
@@ -66,8 +66,8 @@ Using BiPlus you can drill deeper into visualisation, to get more specific infor
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0NTI5ODMxLDgxOTA0MzE1NSw0MjExMz
-Y4MzYsLTEyOTU5MTEwNzksLTM5OTk1OTA3LDE1NTMyOTgzNSwt
-NjQxODQyMjIzLDIzNTA2MTkyMywtMTcwMzMxOTAxMywxNzM0OD
-M3MDY3XX0=
+eyJoaXN0b3J5IjpbNzY1OTg3MDc0LDYxNDUyOTgzMSw4MTkwND
+MxNTUsNDIxMTM2ODM2LC0xMjk1OTExMDc5LC0zOTk5NTkwNywx
+NTUzMjk4MzUsLTY0MTg0MjIyMywyMzUwNjE5MjMsLTE3MDMzMT
+kwMTMsMTczNDgzNzA2N119
 -->
