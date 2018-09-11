@@ -16,8 +16,7 @@ BiPlus Provides an ability to visualize the data in 10 different types of charts
  - **Widget**
  - **World**
 
-> **Note :** Some of the options in editing list might be hidden or grayed, in a 
-> situations where they would conflict with other settings you have chosen.
+> **Note :** Some of the options in editing list might be hidden or grayed,  where they would conflict with other settings you have chosen.
 
 ## Line Chart
 
@@ -386,6 +385,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTk4NTc2MCwtMTc3NjUyMjM4OCwtOD
-A0NzQzMzMwLC0xMjY4ODI3MjUzXX0=
+eyJoaXN0b3J5IjpbLTUyNjIwMDAxNywtMTU5OTg1NzYwLC0xNz
+c2NTIyMzg4LC04MDQ3NDMzMzAsLTEyNjg4MjcyNTNdfQ==
 -->
