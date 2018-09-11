@@ -382,6 +382,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg4MjcyNTMsLTM4NDY4ODg0NiwtNj
-Q5NzIyMjIyXX0=
+eyJoaXN0b3J5IjpbLTgwNDc0MzMzMCwtMTI2ODgyNzI1MywtMz
+g0Njg4ODQ2LC02NDk3MjIyMjJdfQ==
 -->
