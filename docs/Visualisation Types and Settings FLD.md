@@ -153,9 +153,9 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  
  - **Dynamic Height** on selecting this check box it will display the height as per the values in funnel chart. For example higher value is referred with more height and lower value is referred with low height.
  
- - **Dynamic Slope** on selecting the checkbox it will display the potential covered based on the value.For example higher value is referred with bigger slope and lower value is referred with smaller slope.
+ - **Dynamic Slope** on selecting this checkbox it will display the potential covered based on the value. For example higher value is referred with bigger slope and lower value is referred with smaller slope.
 
- - **Load Animation** on selecting the check box the column values in funnel chart will appear as moving image.
+ - **Load Animation** on selecting this check box the column values in funnel chart will appear as moving image.
 
 
 ##  Gauge Chart 
@@ -385,7 +385,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjg1NjgyLDc5NzM4Nzc0LC01MjYyMD
-AwMTcsLTE1OTk4NTc2MCwtMTc3NjUyMjM4OCwtODA0NzQzMzMw
-LC0xMjY4ODI3MjUzXX0=
+eyJoaXN0b3J5IjpbLTE1ODMyNTE5MzgsNzk3Mzg3NzQsLTUyNj
+IwMDAxNywtMTU5OTg1NzYwLC0xNzc2NTIyMzg4LC04MDQ3NDMz
+MzAsLTEyNjg4MjcyNTNdfQ==
 -->
