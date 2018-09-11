@@ -2,9 +2,11 @@
 <center><h1>Visualization Types and Settings</h1></center>
 
 
-BiPlus Provides an ability to visualize the data in 10 different types of charts with some standard editing options. Based on priority to view specific information about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. Types of Visualiza
- - Line
- - Bar
+BiPlus Provides an ability to visualize the data in 10 different types of charts with some standard editing options. Based on priority to view specific information about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. 
+
+**Types of visualization available in BiPlus;**
+ - **Line**
+ - **Bar**
  - Pie
  - Radar
  - Bubble
@@ -383,6 +385,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTk4Njc4NSwtODA0NzQzMzMwLC0xMj
+eyJoaXN0b3J5IjpbLTYyMzAwNjg2OSwtODA0NzQzMzMwLC0xMj
 Y4ODI3MjUzLC0zODQ2ODg4NDYsLTY0OTcyMjIyMl19
 -->
