@@ -220,7 +220,7 @@ The resultant for this expression would be seen in green colour;
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot2.png)
 
-In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. ( Applicable only for table chart). 
+In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. Similarly you can hide last column by selecting the check box pivot hide last ( Applicable only for table chart). 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot3.png)
 
@@ -385,7 +385,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTkzMTg3ODYsNzk3Mzg3NzQsLTUyNj
+eyJoaXN0b3J5IjpbLTE5OTY2NDYzMTAsNzk3Mzg3NzQsLTUyNj
 IwMDAxNywtMTU5OTg1NzYwLC0xNzc2NTIyMzg4LC04MDQ3NDMz
 MzAsLTEyNjg4MjcyNTMsLTM4NDY4ODg0NiwtNjQ5NzIyMjIyXX
 0=
