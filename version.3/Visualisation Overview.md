@@ -61,15 +61,15 @@ Add Image
 
 ## Deeper insights in visualization
 
-You can drill deeper into visualization to get more specific information about the data. To carry out this just click on the data point for which you want more deeper insight.
+You can drill deeper into visualization, to get more specific information about the data. in order to carry out this function, click on the data which will drill down to more deeper insight.
 
 **For Instance**: In below chart, when you click on country it will display the states that fall under that country, for more deeper insight on clicking on State_Name it will display the list of cities that fall under that states as shown clearly in below image.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjIzMzA5OTUsLTE0NjUyMTA1NTIsNj
-E0NTI5ODMxLDgxOTA0MzE1NSw0MjExMzY4MzYsLTEyOTU5MTEw
-NzksLTM5OTk1OTA3LDE1NTMyOTgzNSwtNjQxODQyMjIzLDIzNT
-A2MTkyMywtMTcwMzMxOTAxMywxNzM0ODM3MDY3XX0=
+eyJoaXN0b3J5IjpbMTY4MjUyNzc2NiwtMTQ2NTIxMDU1Miw2MT
+Q1Mjk4MzEsODE5MDQzMTU1LDQyMTEzNjgzNiwtMTI5NTkxMTA3
+OSwtMzk5OTU5MDcsMTU1MzI5ODM1LC02NDE4NDIyMjMsMjM1MD
+YxOTIzLC0xNzAzMzE5MDEzLDE3MzQ4MzcwNjddfQ==
 -->
