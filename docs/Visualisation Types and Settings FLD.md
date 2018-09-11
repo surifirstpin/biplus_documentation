@@ -53,9 +53,9 @@ BiPlus Provides an ability to visualize the data in 10 different types of charts
 
 ## Bar Chart 
 
-Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the Rows and a measure on the Columns area.
+Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on rows and measure on columns area.
 
- **2.** Click on **Bar** tab under **General** section  to compare the data in Bar chart.
+ **2.** Click on **Bar** tab under **General** section  to compare the data in bar chart.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c21c91b0c8f9e243362fbefc44279936c6021d12/images/bar_chart.png)
@@ -385,7 +385,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Mjk1NjQ0OCwtNTI2MjAwMDE3LC0xNT
-k5ODU3NjAsLTE3NzY1MjIzODgsLTgwNDc0MzMzMCwtMTI2ODgy
-NzI1M119
+eyJoaXN0b3J5IjpbLTEyODA2MTUxOTksLTUyNjIwMDAxNywtMT
+U5OTg1NzYwLC0xNzc2NTIyMzg4LC04MDQ3NDMzMzAsLTEyNjg4
+MjcyNTNdfQ==
 -->
