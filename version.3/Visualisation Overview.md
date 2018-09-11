@@ -64,14 +64,16 @@ Add Image
 You can drill deeper into visualization, to get more specific information about the data. In order to carry out this function, click on the data for which you want more deeper insight.
 
 **For Instance**: In below chart, when you click on country it will display the states that fall under that country, for more deeper insight on clicking on State_Name it will display the list of cities that fall under that states as shown clearly in below image.
- > Note:  To carryout this function you need 
+ > Note:  To carryout this function you need derive it in model first.
+
+A more detailed explanation on visualization is given in Visualisation types and settings Dcuments
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTk0NDg2OSwtMTExMzIwNDUwNiwtOD
-MzMTM3ODY0LC0xNDY1MjEwNTUyLDYxNDUyOTgzMSw4MTkwNDMx
-NTUsNDIxMTM2ODM2LC0xMjk1OTExMDc5LC0zOTk5NTkwNywxNT
-UzMjk4MzUsLTY0MTg0MjIyMywyMzUwNjE5MjMsLTE3MDMzMTkw
-MTMsMTczNDgzNzA2N119
+eyJoaXN0b3J5IjpbNDgxNDE5MzYwLC0xMTEzMjA0NTA2LC04Mz
+MxMzc4NjQsLTE0NjUyMTA1NTIsNjE0NTI5ODMxLDgxOTA0MzE1
+NSw0MjExMzY4MzYsLTEyOTU5MTEwNzksLTM5OTk1OTA3LDE1NT
+MyOTgzNSwtNjQxODQyMjIzLDIzNTA2MTkyMywtMTcwMzMxOTAx
+MywxNzM0ODM3MDY3XX0=
 -->
