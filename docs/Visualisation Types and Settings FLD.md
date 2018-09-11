@@ -82,7 +82,7 @@ This section describes the editing option for Pie chart in visualization.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ca8620aee571293baafa06532397667001086ceb/images/polar_area.png)
 
--  **Donut** donut chart are equal to pie chart. they show relationships of parts to a whole. select **Check Box** to enables the donut view.
+-  **Donut** donut chart are equal to pie chart. They show relationships of parts to a whole. select **Check Box** to enables the donut view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/donut.png)
 
@@ -385,7 +385,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA2MTUxOTksLTUyNjIwMDAxNywtMT
+eyJoaXN0b3J5IjpbLTE2MjAwMTM4ODcsLTUyNjIwMDAxNywtMT
 U5OTg1NzYwLC0xNzc2NTIyMzg4LC04MDQ3NDMzMzAsLTEyNjg4
 MjcyNTNdfQ==
 -->
