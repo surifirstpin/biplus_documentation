@@ -34,7 +34,7 @@ As shown in above image there multiple editing options provided to **Pie chart**
 To hide the first or last column field data  in visualization, Select hide first or hide last check box in Data section.
 To carry out this function you need to derive a expression in calculated column.
 
-**For Example :** Apply subtraction for OrderValue_Sum and derive the exptression in calculated column as follow;
+**For Example :** Apply subtraction for Order Value_Sum and derive the expression in calculated column as follow;
 
 ```
 pivot_offset(#{ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,0,-1)
@@ -53,7 +53,7 @@ In the above image you can see, hide_pivot 1st column is seen empty, so in order
 ](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot3.png)
 
 
-## Build Visualization to Refine
+## Refine Visualization
 
 To refine and enhance the data obtained, BiPlus as provided with some customizing options for better understanding. for instance consider a Pie chart example and select percentage checkbox, which displays the amount of share a customer holds in total value and display customers participating at the bottom of the chart by selecting show legend checkbox.
 
@@ -66,8 +66,8 @@ Using BiPlus you can drill deeper into visualisation, to get more specific infor
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjU2ODM2MTAsODE5MDQzMTU1LDQyMT
-EzNjgzNiwtMTI5NTkxMTA3OSwtMzk5OTU5MDcsMTU1MzI5ODM1
-LC02NDE4NDIyMjMsMjM1MDYxOTIzLC0xNzAzMzE5MDEzLDE3Mz
-Q4MzcwNjddfQ==
+eyJoaXN0b3J5IjpbNjE0NTI5ODMxLDgxOTA0MzE1NSw0MjExMz
+Y4MzYsLTEyOTU5MTEwNzksLTM5OTk1OTA3LDE1NTMyOTgzNSwt
+NjQxODQyMjIzLDIzNTA2MTkyMywtMTcwMzMxOTAxMywxNzM0OD
+M3MDY3XX0=
 -->
