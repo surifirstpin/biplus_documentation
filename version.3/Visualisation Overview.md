@@ -67,14 +67,14 @@ You can drill deeper into visualization, to get more specific information about 
  
  > **Note:**  To carryout this function you need derive it in model first.
 
-A more detailed explanation on visualization is given in Visualization types and settings ocuments.
+A more detailed explanation on visualization is given in Visualization types and settings documents.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODAwODk3OTQsMTM4OTY2NDI5NiwtMT
-ExMzIwNDUwNiwtODMzMTM3ODY0LC0xNDY1MjEwNTUyLDYxNDUy
-OTgzMSw4MTkwNDMxNTUsNDIxMTM2ODM2LC0xMjk1OTExMDc5LC
-0zOTk5NTkwNywxNTUzMjk4MzUsLTY0MTg0MjIyMywyMzUwNjE5
-MjMsLTE3MDMzMTkwMTMsMTczNDgzNzA2N119
+eyJoaXN0b3J5IjpbMzgxNDMzOTI4LDEzODk2NjQyOTYsLTExMT
+MyMDQ1MDYsLTgzMzEzNzg2NCwtMTQ2NTIxMDU1Miw2MTQ1Mjk4
+MzEsODE5MDQzMTU1LDQyMTEzNjgzNiwtMTI5NTkxMTA3OSwtMz
+k5OTU5MDcsMTU1MzI5ODM1LC02NDE4NDIyMjMsMjM1MDYxOTIz
+LC0xNzAzMzE5MDEzLDE3MzQ4MzcwNjddfQ==
 -->
