@@ -38,7 +38,7 @@ BiPlus Provides an ability to visualize the data in 10 different types of charts
    - Area-Step
    - Scatter
     
-- **Points**  will display the the data by specifying the points on the chart.
+- **Points**  will display the data by specifying the points on the chart.
 
 - **Point style** will specify how the data points will appear on chart. below are the following options available. 
   - Circle
@@ -385,7 +385,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjIwMDAxNywtMTU5OTg1NzYwLC0xNz
-c2NTIyMzg4LC04MDQ3NDMzMzAsLTEyNjg4MjcyNTMsLTM4NDY4
-ODg0NiwtNjQ5NzIyMjIyXX0=
+eyJoaXN0b3J5IjpbLTc0Mjk1NjQ0OCwtNTI2MjAwMDE3LC0xNT
+k5ODU3NjAsLTE3NzY1MjIzODgsLTgwNDc0MzMzMCwtMTI2ODgy
+NzI1MywtMzg0Njg4ODQ2LC02NDk3MjIyMjJdfQ==
 -->
