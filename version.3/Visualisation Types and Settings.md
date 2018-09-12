@@ -310,7 +310,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
   
   - **Timeseries** specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
  
-- **Label field**  specify a dimension field to be displayed on X-axis.
+- **Label field**  specify a dimension field to be displayed on x-axis.
 
 - **Show Grid** enables the grid display for dimension fields on x-axis.
 
@@ -349,7 +349,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 **Reference Lines** enables the creation of reference lines in a chart.
 
-- **Name** specify a reference name for specific information on y-axis.
+- **Name** specify a reference name, for specific information on y-axis.
   
  - **Type** specify  Linear, Polynomial, Exponential, Logarithmic, Average, Median, Minimum, Maximum, Deviation, Variance, Custom Line, Custom Area on Y-axis.
   
@@ -382,9 +382,9 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzg4NTY0NzQsNDU5MDU1MDY0LC0xOT
-czMTY1NTE3LC0xNjkzNDc1MzE1LC0xOTk2NjQ2MzEwLDc5NzM4
-Nzc0LC01MjYyMDAwMTcsLTE1OTk4NTc2MCwtMTc3NjUyMjM4OC
-wtODA0NzQzMzMwLC0xMjY4ODI3MjUzLC0zODQ2ODg4NDYsLTY0
-OTcyMjIyMl19
+eyJoaXN0b3J5IjpbMTQxNTkwMjA0LC0xNzM4ODU2NDc0LDQ1OT
+A1NTA2NCwtMTk3MzE2NTUxNywtMTY5MzQ3NTMxNSwtMTk5NjY0
+NjMxMCw3OTczODc3NCwtNTI2MjAwMDE3LC0xNTk5ODU3NjAsLT
+E3NzY1MjIzODgsLTgwNDc0MzMzMCwtMTI2ODgyNzI1MywtMzg0
+Njg4ODQ2LC02NDk3MjIyMjJdfQ==
 -->
