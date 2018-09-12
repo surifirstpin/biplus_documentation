@@ -290,7 +290,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Label** specify label text.
 
-- **Padding** specifies spacing at the top, bottom,left and right side of the charts.
+- **Padding** specifies spacing at the top, bottom, left and right side of the charts.
 
 - **Tooltips** points the first measure value of the column field.
 
@@ -382,8 +382,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5MDU1MDY0LC0xOTczMTY1NTE3LC0xNj
-kzNDc1MzE1LC0xOTk2NjQ2MzEwLDc5NzM4Nzc0LC01MjYyMDAw
-MTcsLTE1OTk4NTc2MCwtMTc3NjUyMjM4OCwtODA0NzQzMzMwLC
-0xMjY4ODI3MjUzXX0=
+eyJoaXN0b3J5IjpbLTE3Mzg4NTY0NzQsNDU5MDU1MDY0LC0xOT
+czMTY1NTE3LC0xNjkzNDc1MzE1LC0xOTk2NjQ2MzEwLDc5NzM4
+Nzc0LC01MjYyMDAwMTcsLTE1OTk4NTc2MCwtMTc3NjUyMjM4OC
+wtODA0NzQzMzMwLC0xMjY4ODI3MjUzXX0=
 -->
