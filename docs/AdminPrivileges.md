@@ -37,7 +37,7 @@ BiPlus admin has an ability to manage all Users, User Groups, Global parameters 
 
 ## Edit & Delete User
 
-To edit or delete user, follow the below steps;
+To edit or delete user, follow the below steps ;
 
 **1.** Click on **Edit icon** in users page to edit the user.
 
@@ -47,7 +47,9 @@ To edit or delete user, follow the below steps;
 
 ## Groups
 
-To share particular content with set of people in the the organisation, you need to create group. Follow below steps to create group.
+To share particular content with set of people in the the organisation, you need to create group. 
+
+Steps to create a new Group;
 
 >**Navigation : Settings → Groups → Add Group**
 
@@ -87,7 +89,7 @@ To reset your password, Click on **Forget Password** section and enter below inf
 
 Global Functions and Global parameters are discussed as separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzQ4NTgxMiwtMTcwMzQ0MTM0NCw3ND
+eyJoaXN0b3J5IjpbLTU3MTU5OTI5NiwtMTcwMzQ0MTM0NCw3ND
 g0NjA3OTIsMTAyODc2NjE0OCwtMTAzMDk0MzcyLC0xODE0MDc1
 ODM2LC03ODExMDQ0OCwyNTAwOTczNDIsLTExMzYxODc5NjIsMT
 kxNTE4NzkxLC0xNzgzMTYzODYsLTE4ODgxNjI3ODQsLTYzMTk3
