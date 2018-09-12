@@ -228,12 +228,12 @@ In the above image you can see, hide_pivot 1st column is seen empty, so in order
 
 It displays one or more data series as a data graph. Widget chart is used to display the number of records created recently. Number of Incidents by status or department.
 
- **9.** Click on **Widget** tab under **General** section to display the total record of the data in widget chart.
+ **9.** Click **Widget** tab under **General** section to display the total record of the data in widget chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0fffbbc444991a973205bc030a0485bfc9ef592a/images/widget_chart.png)
 
-- **Value** select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step.
+- **Value** select the measure to display in widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step.
 
 - **Format** select the number format for the measure field.
 
@@ -245,7 +245,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Title** specify widget title.
 
-- **Label** specify the widget label.
+- **Label** specify the widget identifier name.
 
 - **Style** specify a status indicator for measure value such as default, primary, success, warning, info, danger.
 
@@ -383,7 +383,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTQzNDI1MiwtMTk5NjY0NjMxMCw3OT
-czODc3NCwtNTI2MjAwMDE3LC0xNTk5ODU3NjAsLTE3NzY1MjIz
-ODgsLTgwNDc0MzMzMCwtMTI2ODgyNzI1M119
+eyJoaXN0b3J5IjpbMzk3OTI4Nzc5LC0xOTk2NjQ2MzEwLDc5Nz
+M4Nzc0LC01MjYyMDAwMTcsLTE1OTk4NTc2MCwtMTc3NjUyMjM4
+OCwtODA0NzQzMzMwLC0xMjY4ODI3MjUzXX0=
 -->
