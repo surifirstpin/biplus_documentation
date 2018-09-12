@@ -204,10 +204,8 @@ Table chart displays the data in series making it more feasible for comparing di
 
 ### Hide Pivot
 
-To hide the first or last column field values in visualization, Select hide first or hide last check box in Data section.
-To carry out this function you need to derive a expression in calculated column.
-
-For Example : Apply substraction for OrderValue_Sum and derive the exptression in calculated column as follow;
+To hide the first or last column field values in visualization, Select hide first or hide last check box in Data section, to carry out this function you need to derive a expression in calculated column.
+**For Example** : Apply subtraction for OrderValue_Sum and derive the expression in calculated column as follow;
 
 ```
 pivot_offset(#{ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,0,-1)
@@ -220,7 +218,7 @@ The resultant for this expression would be seen in green colour;
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot2.png)
 
-In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. Similarly you can hide last column by selecting the check box pivot hide last ( Applicable only for table chart). 
+In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **Pivot Hide First** in **Data Section** to hide it in visualization charts. Similarly you can hide last column by selecting the check box pivot hide last ( Applicable only for table chart). 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot3.png)
 
@@ -385,8 +383,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTY2NDYzMTAsNzk3Mzg3NzQsLTUyNj
-IwMDAxNywtMTU5OTg1NzYwLC0xNzc2NTIyMzg4LC04MDQ3NDMz
-MzAsLTEyNjg4MjcyNTMsLTM4NDY4ODg0NiwtNjQ5NzIyMjIyXX
-0=
+eyJoaXN0b3J5IjpbMTE0MDYzMzI2NSwtMTk5NjY0NjMxMCw3OT
+czODc3NCwtNTI2MjAwMDE3LC0xNTk5ODU3NjAsLTE3NzY1MjIz
+ODgsLTgwNDc0MzMzMCwtMTI2ODgyNzI1MywtMzg0Njg4ODQ2LC
+02NDk3MjIyMjJdfQ==
 -->
