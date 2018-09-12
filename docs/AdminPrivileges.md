@@ -49,7 +49,7 @@ To edit or delete user, follow the below steps ;
 
 To share particular content with set of people in the the organisation, you need to create group. 
 
-Steps to create a new Group;
+**Steps to create a new Group;**
 
 >**Navigation : Settings → Groups → Add Group**
 
@@ -89,11 +89,11 @@ To reset your password, Click on **Forget Password** section and enter below inf
 
 Global Functions and Global parameters are discussed as separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTU5OTI5NiwtMTcwMzQ0MTM0NCw3ND
-g0NjA3OTIsMTAyODc2NjE0OCwtMTAzMDk0MzcyLC0xODE0MDc1
-ODM2LC03ODExMDQ0OCwyNTAwOTczNDIsLTExMzYxODc5NjIsMT
-kxNTE4NzkxLC0xNzgzMTYzODYsLTE4ODgxNjI3ODQsLTYzMTk3
-NTUzNywtMTk4NjMzMTA2OCw4NjczNTAwNDAsMTY2Mjc2MDMyMC
-wtMTc4MDczODkyMiwxNzAxNzA0Mzg5LDE2OTg1NTEyNjYsNDY1
-NzY2ODE2XX0=
+eyJoaXN0b3J5IjpbLTEwMjE1NTQwNDgsLTE3MDM0NDEzNDQsNz
+Q4NDYwNzkyLDEwMjg3NjYxNDgsLTEwMzA5NDM3MiwtMTgxNDA3
+NTgzNiwtNzgxMTA0NDgsMjUwMDk3MzQyLC0xMTM2MTg3OTYyLD
+E5MTUxODc5MSwtMTc4MzE2Mzg2LC0xODg4MTYyNzg0LC02MzE5
+NzU1MzcsLTE5ODYzMzEwNjgsODY3MzUwMDQwLDE2NjI3NjAzMj
+AsLTE3ODA3Mzg5MjIsMTcwMTcwNDM4OSwxNjk4NTUxMjY2LDQ2
+NTc2NjgxNl19
 -->
