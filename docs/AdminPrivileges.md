@@ -28,20 +28,20 @@ BiPlus admin has an ability to manage all Users, User Groups, Global parameters 
 |User|view reports and can edit them if provided access to the specific model|
 |Manager|view reports and edit them if provided access to the specific model|
 
-- **Enabled** on selecting **Enabled check box** the user can access or else disabled for user login.
+- **Enabled** on selecting **Enabled check box** the user can access the information or else disabled for user login.
 
-- Click on **Save** button to save user created.
+- Click **Save** button to save the newly created user.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34ae99ea80597fc08c96c787a88d8951979862b1/images/users.png)
 
 
 ## Edit & Delete User
 
-To edit or delete a user, follow the below steps;
+To edit or delete user, follow the below steps;
 
-**1.** Click on **Edit icon** in users section page to edit the user.
+**1.** Click on **Edit icon** in users page to edit the user.
 
-**2.** Click on **Delete icon** in users section page to delete the user.
+**2.** Click on **Delete icon** in users page to delete the user.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fed976f79b3ba765a8bc3b9ca665de4de0fd2681/images/user_edit.png)
 
@@ -49,7 +49,7 @@ To edit or delete a user, follow the below steps;
 
 To share particular content with set of people in the the organisation, you need to create group. Follow below steps to create group.
 
->**Navigation : Settings→Groups→ Add Group**
+>**Navigation : Settings → Groups → Add Group**
 
 **Enter the below information :**
 
@@ -87,7 +87,7 @@ To reset your password, Click on **Forget Password** section and enter below inf
 
 Global Functions and Global parameters are discussed as separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTQ3MjA0MSwtMTcwMzQ0MTM0NCw3ND
+eyJoaXN0b3J5IjpbLTMwNzQ4NTgxMiwtMTcwMzQ0MTM0NCw3ND
 g0NjA3OTIsMTAyODc2NjE0OCwtMTAzMDk0MzcyLC0xODE0MDc1
 ODM2LC03ODExMDQ0OCwyNTAwOTczNDIsLTExMzYxODc5NjIsMT
 kxNTE4NzkxLC0xNzgzMTYzODYsLTE4ODgxNjI3ODQsLTYzMTk3
