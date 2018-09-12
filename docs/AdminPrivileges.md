@@ -4,7 +4,7 @@ BiPlus admin has an ability to manage all Users, User Groups, Global parameters 
 
 ## Users
 
- Admin has privilege to create, edit and delete the users. Below are the steps provided to create a user;
+ **Admin** has privilege to create, edit and delete the users. Below are the steps provided to create a user;
  
  > **Navigation : Settings → Use →  Add Users.**
 
@@ -87,11 +87,11 @@ To reset your password, Click on **Forget Password** section and enter below inf
 
 Global Functions and Global parameters are discussed as separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzM5MDc4OSw3NDg0NjA3OTIsMTAyOD
-c2NjE0OCwtMTAzMDk0MzcyLC0xODE0MDc1ODM2LC03ODExMDQ0
-OCwyNTAwOTczNDIsLTExMzYxODc5NjIsMTkxNTE4NzkxLC0xNz
-gzMTYzODYsLTE4ODgxNjI3ODQsLTYzMTk3NTUzNywtMTk4NjMz
-MTA2OCw4NjczNTAwNDAsMTY2Mjc2MDMyMCwtMTc4MDczODkyMi
-wxNzAxNzA0Mzg5LDE2OTg1NTEyNjYsNDY1NzY2ODE2LC05NzQ2
-NjAxODddfQ==
+eyJoaXN0b3J5IjpbNDQ0NjA0MTU1LDc0ODQ2MDc5MiwxMDI4Nz
+Y2MTQ4LC0xMDMwOTQzNzIsLTE4MTQwNzU4MzYsLTc4MTEwNDQ4
+LDI1MDA5NzM0MiwtMTEzNjE4Nzk2MiwxOTE1MTg3OTEsLTE3OD
+MxNjM4NiwtMTg4ODE2Mjc4NCwtNjMxOTc1NTM3LC0xOTg2MzMx
+MDY4LDg2NzM1MDA0MCwxNjYyNzYwMzIwLC0xNzgwNzM4OTIyLD
+E3MDE3MDQzODksMTY5ODU1MTI2Niw0NjU3NjY4MTYsLTk3NDY2
+MDE4N119
 -->
