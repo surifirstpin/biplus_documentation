@@ -284,7 +284,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 ### General Section 
 
-- **Title** specify title for the chart selected.
+- **Title** specify title for chart selected.
 
 - **Position** align title to top, bottom, left, right position.
 
@@ -382,8 +382,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDgzNjkwNSwtMTk3MzE2NTUxNywtMT
-Y5MzQ3NTMxNSwtMTk5NjY0NjMxMCw3OTczODc3NCwtNTI2MjAw
-MDE3LC0xNTk5ODU3NjAsLTE3NzY1MjIzODgsLTgwNDc0MzMzMC
-wtMTI2ODgyNzI1M119
+eyJoaXN0b3J5IjpbNDU5MDU1MDY0LC0xOTczMTY1NTE3LC0xNj
+kzNDc1MzE1LC0xOTk2NjQ2MzEwLDc5NzM4Nzc0LC01MjYyMDAw
+MTcsLTE1OTk4NTc2MCwtMTc3NjUyMjM4OCwtODA0NzQzMzMwLC
+0xMjY4ODI3MjUzXX0=
 -->
