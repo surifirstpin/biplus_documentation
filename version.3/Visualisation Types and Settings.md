@@ -377,13 +377,12 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 **For Example :** Consider below image, which displays the format section for table chart.
 
-
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwMjMyMTUsLTE3Mzg4NTY0NzQsNDU5MD
-U1MDY0LC0xOTczMTY1NTE3LC0xNjkzNDc1MzE1LC0xOTk2NjQ2
-MzEwLDc5NzM4Nzc0LC01MjYyMDAwMTcsLTE1OTk4NTc2MCwtMT
-c3NjUyMjM4OCwtODA0NzQzMzMwLC0xMjY4ODI3MjUzLC0zODQ2
-ODg4NDYsLTY0OTcyMjIyMl19
+eyJoaXN0b3J5IjpbMjM0NTM3MTUzLDc2MDIzMjE1LC0xNzM4OD
+U2NDc0LDQ1OTA1NTA2NCwtMTk3MzE2NTUxNywtMTY5MzQ3NTMx
+NSwtMTk5NjY0NjMxMCw3OTczODc3NCwtNTI2MjAwMDE3LC0xNT
+k5ODU3NjAsLTE3NzY1MjIzODgsLTgwNDc0MzMzMCwtMTI2ODgy
+NzI1MywtMzg0Njg4ODQ2LC02NDk3MjIyMjJdfQ==
 -->
