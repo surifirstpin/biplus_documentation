@@ -8,7 +8,7 @@ BiPlus admin has an ability to manage all Users, User Groups, Global parameters 
  
  > **Navigation : Settings → Users →  Add Users.**
 
-- **Email** Prescribe a email a id for user.
+- **Email** Prescribe a email address for user.
 
 - **Password** Enter password to access.
 
@@ -87,11 +87,11 @@ To reset your password, Click on **Forget Password** section and enter below inf
 
 Global Functions and Global parameters are discussed as separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNzEzNTY0Niw3NDg0NjA3OTIsMTAyOD
-c2NjE0OCwtMTAzMDk0MzcyLC0xODE0MDc1ODM2LC03ODExMDQ0
-OCwyNTAwOTczNDIsLTExMzYxODc5NjIsMTkxNTE4NzkxLC0xNz
-gzMTYzODYsLTE4ODgxNjI3ODQsLTYzMTk3NTUzNywtMTk4NjMz
-MTA2OCw4NjczNTAwNDAsMTY2Mjc2MDMyMCwtMTc4MDczODkyMi
-wxNzAxNzA0Mzg5LDE2OTg1NTEyNjYsNDY1NzY2ODE2LC05NzQ2
-NjAxODddfQ==
+eyJoaXN0b3J5IjpbLTE3MDM0NDEzNDQsNzQ4NDYwNzkyLDEwMj
+g3NjYxNDgsLTEwMzA5NDM3MiwtMTgxNDA3NTgzNiwtNzgxMTA0
+NDgsMjUwMDk3MzQyLC0xMTM2MTg3OTYyLDE5MTUxODc5MSwtMT
+c4MzE2Mzg2LC0xODg4MTYyNzg0LC02MzE5NzU1MzcsLTE5ODYz
+MzEwNjgsODY3MzUwMDQwLDE2NjI3NjAzMjAsLTE3ODA3Mzg5Mj
+IsMTcwMTcwNDM4OSwxNjk4NTUxMjY2LDQ2NTc2NjgxNiwtOTc0
+NjYwMTg3XX0=
 -->
