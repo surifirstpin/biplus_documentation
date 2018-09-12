@@ -286,9 +286,9 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Title** specify title for the chart selected.
 
-- **Position** align title to top,bottom,left,right position.
+- **Position** align title to top, bottom, left, right position.
 
-- **Label** Specify label text.
+- **Label** specify label text.
 
 - **Padding** specifies spacing at the top, bottom,left and right side of the charts.
 
@@ -382,8 +382,9 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzMxNjU1MTcsLTE2OTM0NzUzMTUsLT
-E5OTY2NDYzMTAsNzk3Mzg3NzQsLTUyNjIwMDAxNywtMTU5OTg1
-NzYwLC0xNzc2NTIyMzg4LC04MDQ3NDMzMzAsLTEyNjg4MjcyNT
-MsLTM4NDY4ODg0NiwtNjQ5NzIyMjIyXX0=
+eyJoaXN0b3J5IjpbMTQzMDgzNjkwNSwtMTk3MzE2NTUxNywtMT
+Y5MzQ3NTMxNSwtMTk5NjY0NjMxMCw3OTczODc3NCwtNTI2MjAw
+MDE3LC0xNTk5ODU3NjAsLTE3NzY1MjIzODgsLTgwNDc0MzMzMC
+wtMTI2ODgyNzI1MywtMzg0Njg4ODQ2LC02NDk3MjIyMjJdfQ==
+
 -->
