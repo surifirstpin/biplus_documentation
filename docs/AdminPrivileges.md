@@ -28,7 +28,7 @@ BiPlus admin has an ability to manage all Users, User Groups, Global parameters 
 |User|view reports and can edit them if provided access to the specific model|
 |Manager|view reports and edit them if provided access to the specific model|
 
-- **Enabled** on selecting **Enabled check box** the user login can access or else disabled for user login.
+- **Enabled** on selecting **Enabled check box** the user can access or else disabled for user login.
 
 - Click on **Save** button to save user created.
 
@@ -87,11 +87,11 @@ To reset your password, Click on **Forget Password** section and enter below inf
 
 Global Functions and Global parameters are discussed as separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDM0NDEzNDQsNzQ4NDYwNzkyLDEwMj
-g3NjYxNDgsLTEwMzA5NDM3MiwtMTgxNDA3NTgzNiwtNzgxMTA0
-NDgsMjUwMDk3MzQyLC0xMTM2MTg3OTYyLDE5MTUxODc5MSwtMT
-c4MzE2Mzg2LC0xODg4MTYyNzg0LC02MzE5NzU1MzcsLTE5ODYz
-MzEwNjgsODY3MzUwMDQwLDE2NjI3NjAzMjAsLTE3ODA3Mzg5Mj
-IsMTcwMTcwNDM4OSwxNjk4NTUxMjY2LDQ2NTc2NjgxNiwtOTc0
-NjYwMTg3XX0=
+eyJoaXN0b3J5IjpbMTc4MTQ3MjA0MSwtMTcwMzQ0MTM0NCw3ND
+g0NjA3OTIsMTAyODc2NjE0OCwtMTAzMDk0MzcyLC0xODE0MDc1
+ODM2LC03ODExMDQ0OCwyNTAwOTczNDIsLTExMzYxODc5NjIsMT
+kxNTE4NzkxLC0xNzgzMTYzODYsLTE4ODgxNjI3ODQsLTYzMTk3
+NTUzNywtMTk4NjMzMTA2OCw4NjczNTAwNDAsMTY2Mjc2MDMyMC
+wtMTc4MDczODkyMiwxNzAxNzA0Mzg5LDE2OTg1NTEyNjYsNDY1
+NzY2ODE2XX0=
 -->
