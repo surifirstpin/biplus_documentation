@@ -226,7 +226,7 @@ In the above image you can see, hide_pivot 1st column is seen empty, so in order
 
 ## Widget chart 
 
-It displays one or more data series as a data graph. Widget chart is used to display the number of records created today. number of Incidents by status or department.
+It displays one or more data series as a data graph. Widget chart is used to display the number of records created recently. Number of Incidents by status or department.
 
  **9.** Click on **Widget** tab under **General** section to display the total record of the data in widget chart.
  
@@ -383,7 +383,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDYzMzI2NSwtMTk5NjY0NjMxMCw3OT
+eyJoaXN0b3J5IjpbMTA5NTQzNDI1MiwtMTk5NjY0NjMxMCw3OT
 czODc3NCwtNTI2MjAwMDE3LC0xNTk5ODU3NjAsLTE3NzY1MjIz
 ODgsLTgwNDc0MzMzMCwtMTI2ODgyNzI1MywtMzg0Njg4ODQ2LC
 02NDk3MjIyMjJdfQ==
