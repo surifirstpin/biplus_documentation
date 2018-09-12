@@ -367,14 +367,13 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Value** Specify a value to measure the condition.
 
-- **BG (background colour)** Select the background colour for the data which is retrieved using condition.
+- **BG (background colour)** Select the background colour for data which is retrieved using condition.
 
 - **Font** Select the font colour for the data retrieved based on condition.
 
-- **Icon** Select a icon for the data retrieved based on condition.
+- **Icon** Select a icon for data retrieved based on condition.
 
-- **Before number** Align the icon before or after the data.
-
+- **Before number** Align the icon at before or after data value.
 
 **For Example :** Consider below image, which displays the format section for table chart.
 
@@ -382,8 +381,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTkwMjA0LC0xNzM4ODU2NDc0LDQ1OT
-A1NTA2NCwtMTk3MzE2NTUxNywtMTY5MzQ3NTMxNSwtMTk5NjY0
-NjMxMCw3OTczODc3NCwtNTI2MjAwMDE3LC0xNTk5ODU3NjAsLT
-E3NzY1MjIzODgsLTgwNDc0MzMzMCwtMTI2ODgyNzI1M119
+eyJoaXN0b3J5IjpbNzYwMjMyMTUsLTE3Mzg4NTY0NzQsNDU5MD
+U1MDY0LC0xOTczMTY1NTE3LC0xNjkzNDc1MzE1LC0xOTk2NjQ2
+MzEwLDc5NzM4Nzc0LC01MjYyMDAwMTcsLTE1OTk4NTc2MCwtMT
+c3NjUyMjM4OCwtODA0NzQzMzMwLC0xMjY4ODI3MjUzXX0=
 -->
