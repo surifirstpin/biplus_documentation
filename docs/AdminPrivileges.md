@@ -6,9 +6,9 @@ BiPlus admin has an ability to manage all Users, User Groups, Global parameters 
 
  **Admin** has privilege to create, edit and delete the users. Below are the steps provided to create a user;
  
- > **Navigation : Settings → Use →  Add Users.**
+ > **Navigation : Settings → Users →  Add Users.**
 
-- **Email** Enter email id for the user.
+- **Email** prescribe a email id for user.
 
 - **Password** Enter password to access.
 
@@ -87,11 +87,11 @@ To reset your password, Click on **Forget Password** section and enter below inf
 
 Global Functions and Global parameters are discussed as separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0NjA0MTU1LDc0ODQ2MDc5MiwxMDI4Nz
-Y2MTQ4LC0xMDMwOTQzNzIsLTE4MTQwNzU4MzYsLTc4MTEwNDQ4
-LDI1MDA5NzM0MiwtMTEzNjE4Nzk2MiwxOTE1MTg3OTEsLTE3OD
-MxNjM4NiwtMTg4ODE2Mjc4NCwtNjMxOTc1NTM3LC0xOTg2MzMx
-MDY4LDg2NzM1MDA0MCwxNjYyNzYwMzIwLC0xNzgwNzM4OTIyLD
-E3MDE3MDQzODksMTY5ODU1MTI2Niw0NjU3NjY4MTYsLTk3NDY2
-MDE4N119
+eyJoaXN0b3J5IjpbLTExMTg4MzM4NTUsNzQ4NDYwNzkyLDEwMj
+g3NjYxNDgsLTEwMzA5NDM3MiwtMTgxNDA3NTgzNiwtNzgxMTA0
+NDgsMjUwMDk3MzQyLC0xMTM2MTg3OTYyLDE5MTUxODc5MSwtMT
+c4MzE2Mzg2LC0xODg4MTYyNzg0LC02MzE5NzU1MzcsLTE5ODYz
+MzEwNjgsODY3MzUwMDQwLDE2NjI3NjAzMjAsLTE3ODA3Mzg5Mj
+IsMTcwMTcwNDM4OSwxNjk4NTUxMjY2LDQ2NTc2NjgxNiwtOTc0
+NjYwMTg3XX0=
 -->
