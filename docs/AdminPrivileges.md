@@ -35,8 +35,6 @@ BiPlus admin has an ability to manage all Users, User Groups, Global parameters 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34ae99ea80597fc08c96c787a88d8951979862b1/images/users.png)
 
 
-
-
 ## Edit & Delete User
 
 To edit or delete a user, follow the below steps;
@@ -89,7 +87,7 @@ To reset your password, Click on **Forget Password** section and enter below inf
 
 Global Functions and Global parameters are discussed as separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjcyODg2NSw3NDg0NjA3OTIsMTAyOD
+eyJoaXN0b3J5IjpbLTI4MzM5MDc4OSw3NDg0NjA3OTIsMTAyOD
 c2NjE0OCwtMTAzMDk0MzcyLC0xODE0MDc1ODM2LC03ODExMDQ0
 OCwyNTAwOTczNDIsLTExMzYxODc5NjIsMTkxNTE4NzkxLC0xNz
 gzMTYzODYsLTE4ODgxNjI3ODQsLTYzMTk3NTUzNywtMTk4NjMz
