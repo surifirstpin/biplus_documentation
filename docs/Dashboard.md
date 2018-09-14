@@ -53,9 +53,9 @@ You can add different reports to the layout selected, depending on the requireme
 
 ## Step 3: Dashboard Global Filters
 
-**5.**  Click on **Apply Filters** to add global dashboard filters and lookups.( Refer image 4)
+**5.**  Click on **Apply Filters** to add global dashboard filters and lookups. **(Refer image 4)**
  
- **6.** **Dashboard global Filters** allows user to view limited data by applying filters on dashboard reports.(Refer Image 5)
+ **6.** **Dashboard global Filters** allows user to view limited data by applying filters on dashboard reports. **(Refer Image 5)**
 -   **Filter Name**  identifier name for the filter applicable.
 
 -   **Filter Type**  type of filter used (String,date,number).
@@ -66,11 +66,11 @@ You can add different reports to the layout selected, depending on the requireme
 
     - **Date** For fields that contain dates.
 
-    - **Lookup** to view the lookup in dashboard filters it should be defined in lookup section. ( Refer point 7)
+    - **Lookup** to view the lookup in dashboard filters it should be defined in lookup section. **( Refer point 7)**
    
     -   **Operator**  filter operation applicable on data.
 
-**7.**   **Lookup**  Adding lookup to dashboard will refer set of query or list of items in filters.( Refer image 5)
+**7.**   **Lookup**  Adding lookup to dashboard will refer set of query or list of items in filters.**( Refer image 5)**
 
    -   **Lookup name**  name of the lookup field.
    
@@ -83,7 +83,7 @@ You can add different reports to the layout selected, depending on the requireme
    -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the referred data.
   >  **For Instance** if we want to refer to country A then all states falling under that country will be updated based on the selection made.
 
-**8.**     **Report Listeners** ( Refer image 5)
+**8.**     **Report Listeners** **( Refer image 5)**
 
   BiPlus has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report 1 it results in filter applied on report 1 it self and report 2 will remain unaffected.
 
@@ -152,11 +152,11 @@ BiPlus make it easier to view the dashboard list in mobile device easily and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Mjc5NTM5MywtMzcwMzk5MjE2LDE1MT
-g4ODE5MjEsMTI5Mzc3MTEwOCwyMTQ0NzExOTk0LDE1NDM5Mjky
-NzIsLTE2OTY0MzY3ODEsMTU3MTIyMzUxNywtMTgwODM5Mzk4NS
-w3OTExMzA5NDAsODY2NTEzMjMwLDE3Mzk3NjQ0NTQsLTIxMDkw
-Nzk0NjUsNDQ5OTY0MzM0LDEwNjY3OTQ2NjgsLTE4NzMzNTgzMj
-YsLTk3MDE1NDk5OCwtMjA4NzUxOTA5OSwtMTE5MTkxNDA4Niwt
-MjE1ODk1NDM1XX0=
+eyJoaXN0b3J5IjpbMTk5ODAxNzM1LC0zNzAzOTkyMTYsMTUxOD
+g4MTkyMSwxMjkzNzcxMTA4LDIxNDQ3MTE5OTQsMTU0MzkyOTI3
+MiwtMTY5NjQzNjc4MSwxNTcxMjIzNTE3LC0xODA4MzkzOTg1LD
+c5MTEzMDk0MCw4NjY1MTMyMzAsMTczOTc2NDQ1NCwtMjEwOTA3
+OTQ2NSw0NDk5NjQzMzQsMTA2Njc5NDY2OCwtMTg3MzM1ODMyNi
+wtOTcwMTU0OTk4LC0yMDg3NTE5MDk5LC0xMTkxOTE0MDg2LC0y
+MTU4OTU0MzVdfQ==
 -->
