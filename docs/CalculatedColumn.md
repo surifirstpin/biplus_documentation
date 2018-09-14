@@ -64,7 +64,6 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e7895f0d4e17c8c8cbdccd25330829252949ae5b/images/cal_example.png)
 
-
 **BiPlus supports following functionalities in calculated column:**
 
 ### General
@@ -434,11 +433,11 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTY1NzcyOCwxODE2OTgwNjQwLC0zMz
-cwNzc4NjQsLTE0MDcwNjUyMTUsLTE3MTgzNzc3MjAsMjA4Njk4
-MTkxNCwtMTU0NzcxNjI3NCwtMTg3OTcxOTE1MSwtOTQ0MjcwMD
-c1LDIwNTUyNzE3MzUsNzUyNzA4NTMwLC0xNDI3MDIyOTA2LC0x
-ODc0OTc5NjAyLDIwODk2OTE0MzcsLTEwNTU2ODQwMDMsNjgyNT
-g1MDI1LC0xNTE5NjYxNjQwLC0xMjE2NDcwOTc0LC02MzkxNDY3
-ODcsLTU5ODI3ODMzMV19
+eyJoaXN0b3J5IjpbLTY4OTY3MjIzOCwxOTA5NjU3NzI4LDE4MT
+Y5ODA2NDAsLTMzNzA3Nzg2NCwtMTQwNzA2NTIxNSwtMTcxODM3
+NzcyMCwyMDg2OTgxOTE0LC0xNTQ3NzE2Mjc0LC0xODc5NzE5MT
+UxLC05NDQyNzAwNzUsMjA1NTI3MTczNSw3NTI3MDg1MzAsLTE0
+MjcwMjI5MDYsLTE4NzQ5Nzk2MDIsMjA4OTY5MTQzNywtMTA1NT
+Y4NDAwMyw2ODI1ODUwMjUsLTE1MTk2NjE2NDAsLTEyMTY0NzA5
+NzQsLTYzOTE0Njc4N119
 -->
