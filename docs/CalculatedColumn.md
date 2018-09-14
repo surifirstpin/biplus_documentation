@@ -414,7 +414,7 @@ ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} 
 
 ## Local Function
 
-Custom function is a block of code (Series of statements which intended to a particular task) with submitted inputs and derivable output. It will ease-up the process of calculations when a series of statements or actions to be repeated on a set of values and output to be derived. BiPlus supports local function which can be written inside the function body:
+Custom function is a block of code (Series of statements which intended to a particular task) with submitted inputs and derivable output. It will ease-up the process of calculations when a series of statements or actions to be repeated on set of values and output to be derived. BiPlus supports local function which can be written inside the function body:
 ```
 /*START*/
 function fname(param1, param2, param3 ..ParamN)
@@ -434,11 +434,11 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDYxMjQwNDEsLTExODE5MDE0OTAsLT
-Y4OTY3MjIzOCwxOTA5NjU3NzI4LDE4MTY5ODA2NDAsLTMzNzA3
-Nzg2NCwtMTQwNzA2NTIxNSwtMTcxODM3NzcyMCwyMDg2OTgxOT
-E0LC0xNTQ3NzE2Mjc0LC0xODc5NzE5MTUxLC05NDQyNzAwNzUs
-MjA1NTI3MTczNSw3NTI3MDg1MzAsLTE0MjcwMjI5MDYsLTE4Nz
-Q5Nzk2MDIsMjA4OTY5MTQzNywtMTA1NTY4NDAwMyw2ODI1ODUw
-MjUsLTE1MTk2NjE2NDBdfQ==
+eyJoaXN0b3J5IjpbLTEyMTgyMjY2MDAsLTE3NDYxMjQwNDEsLT
+ExODE5MDE0OTAsLTY4OTY3MjIzOCwxOTA5NjU3NzI4LDE4MTY5
+ODA2NDAsLTMzNzA3Nzg2NCwtMTQwNzA2NTIxNSwtMTcxODM3Nz
+cyMCwyMDg2OTgxOTE0LC0xNTQ3NzE2Mjc0LC0xODc5NzE5MTUx
+LC05NDQyNzAwNzUsMjA1NTI3MTczNSw3NTI3MDg1MzAsLTE0Mj
+cwMjI5MDYsLTE4NzQ5Nzk2MDIsMjA4OTY5MTQzNywtMTA1NTY4
+NDAwMyw2ODI1ODUwMjVdfQ==
 -->
