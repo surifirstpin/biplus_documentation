@@ -45,7 +45,7 @@
   - SSH port of the database server
   - Database port number
   
-**b)** If connecting with separate database host, **provide following information to BiPlus analyst:**
+**b)** If connecting with separate database host, provide following information to BiPlus analyst:
   
   - IP address or DNS name of the database server as seen from the tunnel server.
   - Database port number as seen from the tunnel server.
@@ -80,6 +80,7 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjMzNDczNDUsMTMzMzY0MTMzLDM0OD
-Q2NjgwNywtMTEyMDQxMTQ5MywxNjUzNDgzMjhdfQ==
+eyJoaXN0b3J5IjpbLTE0NDk2NzY2ODksLTEyMjMzNDczNDUsMT
+MzMzY0MTMzLDM0ODQ2NjgwNywtMTEyMDQxMTQ5MywxNjUzNDgz
+MjhdfQ==
 -->
