@@ -38,14 +38,12 @@ After navigating to Calculated Column Window, Enter all the below fields.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/aff2f17d1b5383de542a7b534df7caeb69c03b3d/images/calculated_col_window.png)
 
- 
-
 - **Calculate on the raw data** this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
 
-- Click **ok** after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image,
+- Click **OK** after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image,
 
 
 ![
@@ -440,10 +438,11 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Njk4MTkxNCwtMTU0NzcxNjI3NCwtMT
-g3OTcxOTE1MSwtOTQ0MjcwMDc1LDIwNTUyNzE3MzUsNzUyNzA4
-NTMwLC0xNDI3MDIyOTA2LC0xODc0OTc5NjAyLDIwODk2OTE0Mz
-csLTEwNTU2ODQwMDMsNjgyNTg1MDI1LC0xNTE5NjYxNjQwLC0x
-MjE2NDcwOTc0LC02MzkxNDY3ODcsLTU5ODI3ODMzMSwxMjIzOT
-IwMTUxLDU2NTg5MDgxMCwtNzc5MTIwOTcxXX0=
+eyJoaXN0b3J5IjpbLTE3MTgzNzc3MjAsMjA4Njk4MTkxNCwtMT
+U0NzcxNjI3NCwtMTg3OTcxOTE1MSwtOTQ0MjcwMDc1LDIwNTUy
+NzE3MzUsNzUyNzA4NTMwLC0xNDI3MDIyOTA2LC0xODc0OTc5Nj
+AyLDIwODk2OTE0MzcsLTEwNTU2ODQwMDMsNjgyNTg1MDI1LC0x
+NTE5NjYxNjQwLC0xMjE2NDcwOTc0LC02MzkxNDY3ODcsLTU5OD
+I3ODMzMSwxMjIzOTIwMTUxLDU2NTg5MDgxMCwtNzc5MTIwOTcx
+XX0=
 -->
