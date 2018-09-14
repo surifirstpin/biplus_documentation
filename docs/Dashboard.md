@@ -8,9 +8,9 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
    
 **1.**  To set the dashboard to home page click on **Set on homepage** icon.
 
-**2.** To edit the dashboard click on **Edit** icon.
+**2.** To edit dashboard click on **Edit** icon.
 
-**3.** To delete the dashboard click on **Delete** icon.
+**3.** To delete dashboard click on **Delete** icon.
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b56b16b1de0a7088433221a92efcb565b3baae2e/images/view%20-dash.png)
@@ -153,7 +153,7 @@ BiPlus make it easier to view the dashboard list in mobile device easily and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTg3MDk5NCwxNTE4ODgxOTIxLDEyOT
+eyJoaXN0b3J5IjpbLTM3MDM5OTIxNiwxNTE4ODgxOTIxLDEyOT
 M3NzExMDgsMjE0NDcxMTk5NCwxNTQzOTI5MjcyLC0xNjk2NDM2
 NzgxLDE1NzEyMjM1MTcsLTE4MDgzOTM5ODUsNzkxMTMwOTQwLD
 g2NjUxMzIzMCwxNzM5NzY0NDU0LC0yMTA5MDc5NDY1LDQ0OTk2
