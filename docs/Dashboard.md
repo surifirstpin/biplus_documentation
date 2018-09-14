@@ -62,7 +62,7 @@ You can add different reports to the layout selected, depending on the requireme
 
     - **String** For fields that contain letters or special characters.
 
-    - **Number** For fields that contain numbers.
+    - **Number** For fields that contain numeric values.
 
     - **Date** For fields that contain dates.
 
@@ -152,11 +152,11 @@ BiPlus make it easier to view the dashboard list in mobile device easily and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjAxNjA1NDIsLTM3MDM5OTIxNiwxNT
-E4ODgxOTIxLDEyOTM3NzExMDgsMjE0NDcxMTk5NCwxNTQzOTI5
-MjcyLC0xNjk2NDM2NzgxLDE1NzEyMjM1MTcsLTE4MDgzOTM5OD
-UsNzkxMTMwOTQwLDg2NjUxMzIzMCwxNzM5NzY0NDU0LC0yMTA5
-MDc5NDY1LDQ0OTk2NDMzNCwxMDY2Nzk0NjY4LC0xODczMzU4Mz
-I2LC05NzAxNTQ5OTgsLTIwODc1MTkwOTksLTExOTE5MTQwODYs
-LTIxNTg5NTQzNV19
+eyJoaXN0b3J5IjpbMzMzNjAzODUxLC0zNzAzOTkyMTYsMTUxOD
+g4MTkyMSwxMjkzNzcxMTA4LDIxNDQ3MTE5OTQsMTU0MzkyOTI3
+MiwtMTY5NjQzNjc4MSwxNTcxMjIzNTE3LC0xODA4MzkzOTg1LD
+c5MTEzMDk0MCw4NjY1MTMyMzAsMTczOTc2NDQ1NCwtMjEwOTA3
+OTQ2NSw0NDk5NjQzMzQsMTA2Njc5NDY2OCwtMTg3MzM1ODMyNi
+wtOTcwMTU0OTk4LC0yMDg3NTE5MDk5LC0xMTkxOTE0MDg2LC0y
+MTU4OTU0MzVdfQ==
 -->
