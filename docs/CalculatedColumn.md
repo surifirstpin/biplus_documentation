@@ -45,7 +45,6 @@ After navigating to Calculated Column Window, Enter all the below fields.
 
 - Click **OK** after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image,
 
-
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)
 
@@ -53,7 +52,6 @@ After navigating to Calculated Column Window, Enter all the below fields.
 ## Mathematical operation 
 
 Custom made mathematical operations can be added in calculated column section as shown in below Image;
-
 
 ** Example 1 :**
 
@@ -436,7 +434,7 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTA4NTA2OCwtMzM3MDc3ODY0LC0xND
+eyJoaXN0b3J5IjpbLTQ3MzYyMzQwOCwtMzM3MDc3ODY0LC0xND
 A3MDY1MjE1LC0xNzE4Mzc3NzIwLDIwODY5ODE5MTQsLTE1NDc3
 MTYyNzQsLTE4Nzk3MTkxNTEsLTk0NDI3MDA3NSwyMDU1MjcxNz
 M1LDc1MjcwODUzMCwtMTQyNzAyMjkwNiwtMTg3NDk3OTYwMiwy
