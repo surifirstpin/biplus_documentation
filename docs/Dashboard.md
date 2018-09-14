@@ -132,9 +132,9 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 **11.** Click on  **Delete icon**  to delete the dashboard created.
 
-**12.** To create a new dashboard report click on **New dashboard** icon.
+**12.** To create a new dashboard report click on **New Dashboard** icon.
 
-**13.** To set the dashboard to full screen select **Full screen** options listed in **Bars** Icon.
+**13.** To set a dashboard to full screen select **Full screen** options listed in Bars Icon.
 
 > **Note :** You can also edit, delete or create new dashboard by selecting them from **Bars icon** 
 
@@ -152,11 +152,11 @@ BiPlus make it easier to view the dashboard list in mobile device easily and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDUwNzk2MywxNzcwOTA3OTQ3LDE4Nj
-U4MTM0OSwtMzcwMzk5MjE2LDE1MTg4ODE5MjEsMTI5Mzc3MTEw
-OCwyMTQ0NzExOTk0LDE1NDM5MjkyNzIsLTE2OTY0MzY3ODEsMT
-U3MTIyMzUxNywtMTgwODM5Mzk4NSw3OTExMzA5NDAsODY2NTEz
-MjMwLDE3Mzk3NjQ0NTQsLTIxMDkwNzk0NjUsNDQ5OTY0MzM0LD
-EwNjY3OTQ2NjgsLTE4NzMzNTgzMjYsLTk3MDE1NDk5OCwtMjA4
-NzUxOTA5OV19
+eyJoaXN0b3J5IjpbLTEwODIxMTA4MzcsMTM3NDUwNzk2MywxNz
+cwOTA3OTQ3LDE4NjU4MTM0OSwtMzcwMzk5MjE2LDE1MTg4ODE5
+MjEsMTI5Mzc3MTEwOCwyMTQ0NzExOTk0LDE1NDM5MjkyNzIsLT
+E2OTY0MzY3ODEsMTU3MTIyMzUxNywtMTgwODM5Mzk4NSw3OTEx
+MzA5NDAsODY2NTEzMjMwLDE3Mzk3NjQ0NTQsLTIxMDkwNzk0Nj
+UsNDQ5OTY0MzM0LDEwNjY3OTQ2NjgsLTE4NzMzNTgzMjYsLTk3
+MDE1NDk5OF19
 -->
