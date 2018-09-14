@@ -55,7 +55,7 @@ Custom made mathematical operations can be added in calculated column section as
 
 **Example 1 :**
 
- To Calculate **Number of working days** in each month, use the below expression in calculation field window as shown in below image; 
+ To calculate **Number of working days** in each month, use the below expression in calculation field window as shown in below image; 
 
 ```
 bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE}) 
@@ -434,11 +434,11 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjk4MDY0MCwtMzM3MDc3ODY0LC0xND
-A3MDY1MjE1LC0xNzE4Mzc3NzIwLDIwODY5ODE5MTQsLTE1NDc3
-MTYyNzQsLTE4Nzk3MTkxNTEsLTk0NDI3MDA3NSwyMDU1MjcxNz
-M1LDc1MjcwODUzMCwtMTQyNzAyMjkwNiwtMTg3NDk3OTYwMiwy
-MDg5NjkxNDM3LC0xMDU1Njg0MDAzLDY4MjU4NTAyNSwtMTUxOT
-Y2MTY0MCwtMTIxNjQ3MDk3NCwtNjM5MTQ2Nzg3LC01OTgyNzgz
-MzEsMTIyMzkyMDE1MV19
+eyJoaXN0b3J5IjpbMTkwOTY1NzcyOCwxODE2OTgwNjQwLC0zMz
+cwNzc4NjQsLTE0MDcwNjUyMTUsLTE3MTgzNzc3MjAsMjA4Njk4
+MTkxNCwtMTU0NzcxNjI3NCwtMTg3OTcxOTE1MSwtOTQ0MjcwMD
+c1LDIwNTUyNzE3MzUsNzUyNzA4NTMwLC0xNDI3MDIyOTA2LC0x
+ODc0OTc5NjAyLDIwODk2OTE0MzcsLTEwNTU2ODQwMDMsNjgyNT
+g1MDI1LC0xNTE5NjYxNjQwLC0xMjE2NDcwOTc0LC02MzkxNDY3
+ODcsLTU5ODI3ODMzMV19
 -->
