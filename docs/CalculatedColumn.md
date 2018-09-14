@@ -53,7 +53,7 @@ After navigating to Calculated Column Window, Enter all the below fields.
 
 Custom made mathematical operations can be added in calculated column section as shown in below Image;
 
-** Example 1 :**
+**Example 1 :**
 
  To Calculate **Number of working days** in each month, use the below expression in calculation field window as shown in below image; 
 
@@ -434,7 +434,7 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzYyMzQwOCwtMzM3MDc3ODY0LC0xND
+eyJoaXN0b3J5IjpbMTgxNjk4MDY0MCwtMzM3MDc3ODY0LC0xND
 A3MDY1MjE1LC0xNzE4Mzc3NzIwLDIwODY5ODE5MTQsLTE1NDc3
 MTYyNzQsLTE4Nzk3MTkxNTEsLTk0NDI3MDA3NSwyMDU1MjcxNz
 M1LDc1MjcwODUzMCwtMTQyNzAyMjkwNiwtMTg3NDk3OTYwMiwy
