@@ -56,7 +56,7 @@ You can add different reports to the layout selected, depending on the requireme
 **5.**  Click on **Apply Filters** to add global dashboard filters and lookups.( Refer image 4)
  
  **6.** **Dashboard global Filters** allows user to view limited data by applying filters on dashboard reports.(Refer Image 5)
--   **Filter Name**  identifier name to the filter applicable.
+-   **Filter Name**  identifier name for the filter applicable.
 
 -   **Filter Type**  type of filter user (String,date,number).
 
@@ -152,7 +152,7 @@ BiPlus make it easier to view the dashboard list in mobile device easily and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzNjAzODUxLC0zNzAzOTkyMTYsMTUxOD
+eyJoaXN0b3J5IjpbODMyNjAxMDE5LC0zNzAzOTkyMTYsMTUxOD
 g4MTkyMSwxMjkzNzcxMTA4LDIxNDQ3MTE5OTQsMTU0MzkyOTI3
 MiwtMTY5NjQzNjc4MSwxNTcxMjIzNTE3LC0xODA4MzkzOTg1LD
 c5MTEzMDk0MCw4NjY1MTMyMzAsMTczOTc2NDQ1NCwtMjEwOTA3
