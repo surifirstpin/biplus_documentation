@@ -69,7 +69,7 @@ To share particular content with set of people in the the organisation, you need
 
 **3.**  Click **Edit icon** in groups section  to edit the group.
 
-**4.**  Click  **Delete icon** in groups section to delete the Group.
+**4.**  Click  **Delete icon** in groups section to delete the group.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/fd56add1685021d091d8ca9707727ef8f9658517/images/edit%20and%20delete.png)
@@ -86,13 +86,13 @@ To reset your password, Click **Forget Password** section and enter below inform
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f683be669b3d7c4820801c33ab6b96cf3aed5a7c/images/forgot_password.png)
 
-**Note :** Global Functions and Global parameters are discussed briefly in separate sections.
+**Note :** **Global Functions** and **Global parameters** are discussed briefly in separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTg4NDI3MjgsLTE3MDM0NDEzNDQsNz
-Q4NDYwNzkyLDEwMjg3NjYxNDgsLTEwMzA5NDM3MiwtMTgxNDA3
-NTgzNiwtNzgxMTA0NDgsMjUwMDk3MzQyLC0xMTM2MTg3OTYyLD
-E5MTUxODc5MSwtMTc4MzE2Mzg2LC0xODg4MTYyNzg0LC02MzE5
-NzU1MzcsLTE5ODYzMzEwNjgsODY3MzUwMDQwLDE2NjI3NjAzMj
-AsLTE3ODA3Mzg5MjIsMTcwMTcwNDM4OSwxNjk4NTUxMjY2LDQ2
-NTc2NjgxNl19
+eyJoaXN0b3J5IjpbMTU0ODgxNjYzMiwtMTA5ODg0MjcyOCwtMT
+cwMzQ0MTM0NCw3NDg0NjA3OTIsMTAyODc2NjE0OCwtMTAzMDk0
+MzcyLC0xODE0MDc1ODM2LC03ODExMDQ0OCwyNTAwOTczNDIsLT
+ExMzYxODc5NjIsMTkxNTE4NzkxLC0xNzgzMTYzODYsLTE4ODgx
+NjI3ODQsLTYzMTk3NTUzNywtMTk4NjMzMTA2OCw4NjczNTAwND
+AsMTY2Mjc2MDMyMCwtMTc4MDczODkyMiwxNzAxNzA0Mzg5LDE2
+OTg1NTEyNjZdfQ==
 -->
