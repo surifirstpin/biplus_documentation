@@ -79,7 +79,7 @@ You can add different reports to the layout selected, depending on the requireme
    -   **Test Lookup**  to test the lookup.
    
    -   **Multiple Selections**  refers to selection of list of multiple data.
-   
+
    -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the referred data.
   >  **For Instance** if we want to refer to country A then all states falling under that country will be updated based on the selection made.
 
@@ -152,7 +152,7 @@ BiPlus make it easier to view the dashboard list in mobile device easily and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODAxNzM1LC0zNzAzOTkyMTYsMTUxOD
+eyJoaXN0b3J5IjpbMTg2NTgxMzQ5LC0zNzAzOTkyMTYsMTUxOD
 g4MTkyMSwxMjkzNzcxMTA4LDIxNDQ3MTE5OTQsMTU0MzkyOTI3
 MiwtMTY5NjQzNjc4MSwxNTcxMjIzNTE3LC0xODA4MzkzOTg1LD
 c5MTEzMDk0MCw4NjY1MTMyMzAsMTczOTc2NDQ1NCwtMjEwOTA3
