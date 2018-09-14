@@ -95,8 +95,8 @@ You can add different reports to the layout selected, depending on the requireme
    
    - **Add Listener**  adds multiple filters to reports.
    
-**9.**    Click on  **Save Button**  to save the dashboard
- ( Refer image 5).
+**9.**    Click **Save Button**  to save the dashboard
+ **( Refer image 5).**
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
@@ -104,7 +104,7 @@ You can add different reports to the layout selected, depending on the requireme
 
 ## Step 4: Privacy & Share option for Dashboards 
 
-Select the tag in which you want to save  **Dashboard Reports**  and click on  **Save.** (Refer image 6)
+Select the tag in which you want to save  **Dashboard Reports**  and click on  **Save.** **(Refer image 6)**
 
 -   **Name**  name identifier for dashboard created.
 
@@ -152,11 +152,11 @@ BiPlus make it easier to view the dashboard list in mobile device easily and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDkwNzk0NywxODY1ODEzNDksLTM3MD
-M5OTIxNiwxNTE4ODgxOTIxLDEyOTM3NzExMDgsMjE0NDcxMTk5
-NCwxNTQzOTI5MjcyLC0xNjk2NDM2NzgxLDE1NzEyMjM1MTcsLT
-E4MDgzOTM5ODUsNzkxMTMwOTQwLDg2NjUxMzIzMCwxNzM5NzY0
-NDU0LC0yMTA5MDc5NDY1LDQ0OTk2NDMzNCwxMDY2Nzk0NjY4LC
-0xODczMzU4MzI2LC05NzAxNTQ5OTgsLTIwODc1MTkwOTksLTEx
-OTE5MTQwODZdfQ==
+eyJoaXN0b3J5IjpbNzE0MzQwMDQ0LDE3NzA5MDc5NDcsMTg2NT
+gxMzQ5LC0zNzAzOTkyMTYsMTUxODg4MTkyMSwxMjkzNzcxMTA4
+LDIxNDQ3MTE5OTQsMTU0MzkyOTI3MiwtMTY5NjQzNjc4MSwxNT
+cxMjIzNTE3LC0xODA4MzkzOTg1LDc5MTEzMDk0MCw4NjY1MTMy
+MzAsMTczOTc2NDQ1NCwtMjEwOTA3OTQ2NSw0NDk5NjQzMzQsMT
+A2Njc5NDY2OCwtMTg3MzM1ODMyNiwtOTcwMTU0OTk4LC0yMDg3
+NTE5MDk5XX0=
 -->
