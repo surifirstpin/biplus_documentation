@@ -28,8 +28,8 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 Biplus has ability to create multiple report layouts, depending on the requirement. There layout formats are categorized in 2 ways.
 - **Flow Layout** in this layout it is provided with a scroll bar option to define your layout appropriately.
 - **Fixed Layout** in this layout all the reports will fit into single screen.
-a. To navigate to next page click right arrow.
-b. To navigate to previous page click left arrow.
+**a.** To navigate to next page click right arrow.
+**b.** To navigate to previous page click left arrow.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/df105942aecfbe1db3c5c4504b45a3444323caf9/images/layout.png)
@@ -152,7 +152,7 @@ BiPlus make it easier to view the dashboard list in mobile device easily and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjE0NjQ2MiwtMzcwMzk5MjE2LDE1MT
+eyJoaXN0b3J5IjpbLTQxNTQwNDM4MiwtMzcwMzk5MjE2LDE1MT
 g4ODE5MjEsMTI5Mzc3MTEwOCwyMTQ0NzExOTk0LDE1NDM5Mjky
 NzIsLTE2OTY0MzY3ODEsMTU3MTIyMzUxNywtMTgwODM5Mzk4NS
 w3OTExMzA5NDAsODY2NTEzMjMwLDE3Mzk3NjQ0NTQsLTIxMDkw
