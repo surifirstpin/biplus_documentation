@@ -27,9 +27,9 @@
  - **Database (dialect)** choose appropriate dialect based on  connection. 
 >**Note:** As per your requirement, we can include the dialects needed to run the business.
 
-- **Host**  database host path.
+- **Host**  Database host path.
 
-- **Database** name of the database.
+- **Database** Name of the database.
 
 - **Username and Password** are the credentials used to connect the database.
 
@@ -80,6 +80,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODc5ODk3MSwxMzMzNjQxMzMsMzQ4ND
+eyJoaXN0b3J5IjpbMjAwNjIyNjQ5MSwxMzMzNjQxMzMsMzQ4ND
 Y2ODA3LC0xMTIwNDExNDkzLDE2NTM0ODMyOF19
 -->
