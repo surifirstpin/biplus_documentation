@@ -134,9 +134,9 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 **12.** To create a new dashboard report click on **New Dashboard** icon.
 
-**13.** To set a dashboard to full screen select **Full screen** options listed in Bars Icon.
+**13.** To set a dashboard to full screen select **Full screen** options listed in Bars Icon on top right of the screen.
 
-> **Note :** You can also edit, delete or create new dashboard by selecting them from **Bars icon** 
+> **Note :** You can also edit, delete or create new dashboard  using **Bars icon** 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b86a054406ca26550a23a1c524c998d71b60505/images/dashboard_fullscreen.png)
@@ -144,7 +144,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 ## Dashboard for Mobile Device
 
-BiPlus make it easier to view the dashboard list in mobile device easily and also it has following features;
+BiPlus make it easier to view the dashboard list, in mobile devices easily and it consist of following features;
 
 - Displays dashboard list.
 - Displays dashboard report data.
@@ -152,7 +152,7 @@ BiPlus make it easier to view the dashboard list in mobile device easily and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODIxMTA4MzcsMTM3NDUwNzk2MywxNz
+eyJoaXN0b3J5IjpbLTIwOTcwNzEwNjIsMTM3NDUwNzk2MywxNz
 cwOTA3OTQ3LDE4NjU4MTM0OSwtMzcwMzk5MjE2LDE1MTg4ODE5
 MjEsMTI5Mzc3MTEwOCwyMTQ0NzExOTk0LDE1NDM5MjkyNzIsLT
 E2OTY0MzY3ODEsMTU3MTIyMzUxNywtMTgwODM5Mzk4NSw3OTEx
