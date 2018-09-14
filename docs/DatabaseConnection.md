@@ -29,17 +29,17 @@
 
 - **Host**  Database host path.
 
-- **Database** Name of the database.
+- **Database** Name of the database used.
 
-- **Username and Password** are the credentials used to connect the database.
+- **Username and Password** Credentials used to connect the database.
 
-- **Maximum connection** concurrent connection used by  database.
+- **Maximum connection** Concurrent connection used by  database.
 
-- **Additional Parameters** includes any additional JDBC parameter.
+- **Additional Parameters** Additional JDBC parameter used.
 
 ## SSH 
 
-**a)**  To connect BiPlus SSH tunnel with same database host, **provide following information to BiPlus analyst :**
+**a)**  To connect BiPlus SSH tunnel with same database host, provide following information to BiPlus analyst :
  
   - IP address or DNS name of the database server
   - SSH port of the database server
@@ -80,6 +80,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjIyNjQ5MSwxMzMzNjQxMzMsMzQ4ND
-Y2ODA3LC0xMTIwNDExNDkzLDE2NTM0ODMyOF19
+eyJoaXN0b3J5IjpbLTEyMjMzNDczNDUsMTMzMzY0MTMzLDM0OD
+Q2NjgwNywtMTEyMDQxMTQ5MywxNjUzNDgzMjhdfQ==
 -->
