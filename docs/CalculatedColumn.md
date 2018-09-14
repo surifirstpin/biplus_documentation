@@ -6,7 +6,7 @@ Calculated Column allows user to manipulate the retrieved data using arithmetica
 
 - It supports wide variety of arithmetical and logical operations, to be applied on the data.
 
-- It calculates the using the data from external parameters (through "Global parameters") by making reference to the database fields. 
+- Perform calculation, using data from external parameters (through "Global parameters") by using reference to the database fields. 
 
 - It controls or access the data with user wise calculations.
 
@@ -438,7 +438,7 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzExMTMwNzAsLTE3MTgzNzc3MjAsMj
+eyJoaXN0b3J5IjpbLTE0MDcwNjUyMTUsLTE3MTgzNzc3MjAsMj
 A4Njk4MTkxNCwtMTU0NzcxNjI3NCwtMTg3OTcxOTE1MSwtOTQ0
 MjcwMDc1LDIwNTUyNzE3MzUsNzUyNzA4NTMwLC0xNDI3MDIyOT
 A2LC0xODc0OTc5NjAyLDIwODk2OTE0MzcsLTEwNTU2ODQwMDMs
