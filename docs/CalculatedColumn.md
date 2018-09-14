@@ -388,10 +388,8 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 
 ## Calculate on Raw functionality
 
-By enabling the field **calculate on raw** the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
+By enabling the field **Calculate On Raw** the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
  
-By enabling the field **Calculate On Raw,** the calculation are applied directly on the retrieved value of the fields, initially before pivot or grouping are applied.
-
 >**For Instance:**  consider the below image, which represents calculated data with and without applying enabling calculate on raw.
 
 ```
@@ -403,7 +401,7 @@ bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,2)
 
 ## Calculate column with Pivot Offset
 
->**For Instance:** To view the order-value sum and average w.r.t each station code, then apply pivot to station-code and run the report.
+>**For Instance:** To view the order-value sum and average w.r.t each station code, apply pivot to station-code and run the report.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5993c1fa2683f7ecb11c313b45e40254e525f625/images/pivot_stationcoed.png)
@@ -436,7 +434,7 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDk1NTkzMzEsLTExODE5MDE0OTAsLT
+eyJoaXN0b3J5IjpbLTE3NDYxMjQwNDEsLTExODE5MDE0OTAsLT
 Y4OTY3MjIzOCwxOTA5NjU3NzI4LDE4MTY5ODA2NDAsLTMzNzA3
 Nzg2NCwtMTQwNzA2NTIxNSwtMTcxODM3NzcyMCwyMDg2OTgxOT
 E0LC0xNTQ3NzE2Mjc0LC0xODc5NzE5MTUxLC05NDQyNzAwNzUs
