@@ -126,7 +126,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
  
 ## Edit / Delete Dashboard
 
-**10.** Click  **Edit**  Button to make changes to the dashboard created.
+**10.** Click  **Edit**  Button to make changes to dashboard created.
 
 > **Note :** After editing the dashboard click on **update** button to save the changes made.
 
@@ -152,11 +152,11 @@ BiPlus make it easier to view the dashboard list in mobile device easily and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0MzQwMDQ0LDE3NzA5MDc5NDcsMTg2NT
-gxMzQ5LC0zNzAzOTkyMTYsMTUxODg4MTkyMSwxMjkzNzcxMTA4
-LDIxNDQ3MTE5OTQsMTU0MzkyOTI3MiwtMTY5NjQzNjc4MSwxNT
-cxMjIzNTE3LC0xODA4MzkzOTg1LDc5MTEzMDk0MCw4NjY1MTMy
-MzAsMTczOTc2NDQ1NCwtMjEwOTA3OTQ2NSw0NDk5NjQzMzQsMT
-A2Njc5NDY2OCwtMTg3MzM1ODMyNiwtOTcwMTU0OTk4LC0yMDg3
-NTE5MDk5XX0=
+eyJoaXN0b3J5IjpbMTM3NDUwNzk2MywxNzcwOTA3OTQ3LDE4Nj
+U4MTM0OSwtMzcwMzk5MjE2LDE1MTg4ODE5MjEsMTI5Mzc3MTEw
+OCwyMTQ0NzExOTk0LDE1NDM5MjkyNzIsLTE2OTY0MzY3ODEsMT
+U3MTIyMzUxNywtMTgwODM5Mzk4NSw3OTExMzA5NDAsODY2NTEz
+MjMwLDE3Mzk3NjQ0NTQsLTIxMDkwNzk0NjUsNDQ5OTY0MzM0LD
+EwNjY3OTQ2NjgsLTE4NzMzNTgzMjYsLTk3MDE1NDk5OCwtMjA4
+NzUxOTA5OV19
 -->
