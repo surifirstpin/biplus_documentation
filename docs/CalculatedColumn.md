@@ -4,9 +4,9 @@ Calculated Column allows user to manipulate the retrieved data using arithmetica
 
 ### Functionalities of Calculated Column
 
-- It supports wide variety of arithmetical and logical functions to be applied on the data.
+- It supports wide variety of arithmetical and logical operations, to be applied on the data.
 
-- It calculates using the data from external parameters (through "Global parameters") by making reference to the database fields. 
+- It calculates the using the data from external parameters (through "Global parameters") by making reference to the database fields. 
 
 - It controls or access the data with user wise calculations.
 
@@ -438,11 +438,11 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTgzNzc3MjAsMjA4Njk4MTkxNCwtMT
-U0NzcxNjI3NCwtMTg3OTcxOTE1MSwtOTQ0MjcwMDc1LDIwNTUy
-NzE3MzUsNzUyNzA4NTMwLC0xNDI3MDIyOTA2LC0xODc0OTc5Nj
-AyLDIwODk2OTE0MzcsLTEwNTU2ODQwMDMsNjgyNTg1MDI1LC0x
-NTE5NjYxNjQwLC0xMjE2NDcwOTc0LC02MzkxNDY3ODcsLTU5OD
-I3ODMzMSwxMjIzOTIwMTUxLDU2NTg5MDgxMCwtNzc5MTIwOTcx
-XX0=
+eyJoaXN0b3J5IjpbLTEzNzExMTMwNzAsLTE3MTgzNzc3MjAsMj
+A4Njk4MTkxNCwtMTU0NzcxNjI3NCwtMTg3OTcxOTE1MSwtOTQ0
+MjcwMDc1LDIwNTUyNzE3MzUsNzUyNzA4NTMwLC0xNDI3MDIyOT
+A2LC0xODc0OTc5NjAyLDIwODk2OTE0MzcsLTEwNTU2ODQwMDMs
+NjgyNTg1MDI1LC0xNTE5NjYxNjQwLC0xMjE2NDcwOTc0LC02Mz
+kxNDY3ODcsLTU5ODI3ODMzMSwxMjIzOTIwMTUxLDU2NTg5MDgx
+MCwtNzc5MTIwOTcxXX0=
 -->
