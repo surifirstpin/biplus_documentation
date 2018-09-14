@@ -50,8 +50,6 @@ After navigating to Calculated Column Window, Enter all the below fields.
 ](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)
 
 
-
-
 ## Mathematical operation 
 
 Custom made mathematical operations can be added in calculated column section as shown in below Image;
@@ -438,11 +436,11 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzA3Nzg2NCwtMTQwNzA2NTIxNSwtMT
-cxODM3NzcyMCwyMDg2OTgxOTE0LC0xNTQ3NzE2Mjc0LC0xODc5
-NzE5MTUxLC05NDQyNzAwNzUsMjA1NTI3MTczNSw3NTI3MDg1Mz
-AsLTE0MjcwMjI5MDYsLTE4NzQ5Nzk2MDIsMjA4OTY5MTQzNywt
-MTA1NTY4NDAwMyw2ODI1ODUwMjUsLTE1MTk2NjE2NDAsLTEyMT
-Y0NzA5NzQsLTYzOTE0Njc4NywtNTk4Mjc4MzMxLDEyMjM5MjAx
-NTEsNTY1ODkwODEwXX0=
+eyJoaXN0b3J5IjpbLTYwNTA4NTA2OCwtMzM3MDc3ODY0LC0xND
+A3MDY1MjE1LC0xNzE4Mzc3NzIwLDIwODY5ODE5MTQsLTE1NDc3
+MTYyNzQsLTE4Nzk3MTkxNTEsLTk0NDI3MDA3NSwyMDU1MjcxNz
+M1LDc1MjcwODUzMCwtMTQyNzAyMjkwNiwtMTg3NDk3OTYwMiwy
+MDg5NjkxNDM3LC0xMDU1Njg0MDAzLDY4MjU4NTAyNSwtMTUxOT
+Y2MTY0MCwtMTIxNjQ3MDk3NCwtNjM5MTQ2Nzg3LC01OTgyNzgz
+MzEsMTIyMzkyMDE1MV19
 -->
