@@ -1,6 +1,6 @@
 <center><h1>Dashboard</h1></center>
 
-Dashboard provides access to view multiple reports in single dashboard layout, in this way it provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive and can re-arrange the titles. After configuring a dashboard to your interest, you can share it with your team. You can create as many dashboards as you want, so you can alter each dashboard to the specific needs of the people who use it.
+Dashboard provides access to view multiple reports in single dashboard layout, in this way it provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive and can re-arrange the titles. After configuring a dashboard to your interest, you can share it with your team. You can create as many dashboards as you want, so you can alter each dashboard as per your business requirement.
 
 ## View Dashboard
 
@@ -153,11 +153,11 @@ BiPlus make it easier to view the dashboard list in mobile device easily and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Mzc3MTEwOCwyMTQ0NzExOTk0LDE1ND
-M5MjkyNzIsLTE2OTY0MzY3ODEsMTU3MTIyMzUxNywtMTgwODM5
-Mzk4NSw3OTExMzA5NDAsODY2NTEzMjMwLDE3Mzk3NjQ0NTQsLT
-IxMDkwNzk0NjUsNDQ5OTY0MzM0LDEwNjY3OTQ2NjgsLTE4NzMz
-NTgzMjYsLTk3MDE1NDk5OCwtMjA4NzUxOTA5OSwtMTE5MTkxND
-A4NiwtMjE1ODk1NDM1LDIxOTYwNTA5NiwtMjA2NjgzNDY3OSwx
-Nzk4MTgxODg0XX0=
+eyJoaXN0b3J5IjpbMTUxODg4MTkyMSwxMjkzNzcxMTA4LDIxND
+Q3MTE5OTQsMTU0MzkyOTI3MiwtMTY5NjQzNjc4MSwxNTcxMjIz
+NTE3LC0xODA4MzkzOTg1LDc5MTEzMDk0MCw4NjY1MTMyMzAsMT
+czOTc2NDQ1NCwtMjEwOTA3OTQ2NSw0NDk5NjQzMzQsMTA2Njc5
+NDY2OCwtMTg3MzM1ODMyNiwtOTcwMTU0OTk4LC0yMDg3NTE5MD
+k5LC0xMTkxOTE0MDg2LC0yMTU4OTU0MzUsMjE5NjA1MDk2LC0y
+MDY2ODM0Njc5XX0=
 -->
