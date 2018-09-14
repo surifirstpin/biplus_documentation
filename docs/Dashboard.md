@@ -85,7 +85,7 @@ You can add different reports to the layout selected, depending on the requireme
 
 **8.**     **Report Listeners** **( Refer image 5)**
 
-  BiPlus has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report 1 it results in filter applied on report 1 it self and report 2 will remain unaffected.
+  BiPlus has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report 1, it is applicable only on report 1 and report 2 will remain unaffected.
 
    -  **Dashboard Report**  selects reports to add filters.
    
@@ -152,11 +152,11 @@ BiPlus make it easier to view the dashboard list in mobile device easily and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTgxMzQ5LC0zNzAzOTkyMTYsMTUxOD
-g4MTkyMSwxMjkzNzcxMTA4LDIxNDQ3MTE5OTQsMTU0MzkyOTI3
-MiwtMTY5NjQzNjc4MSwxNTcxMjIzNTE3LC0xODA4MzkzOTg1LD
-c5MTEzMDk0MCw4NjY1MTMyMzAsMTczOTc2NDQ1NCwtMjEwOTA3
-OTQ2NSw0NDk5NjQzMzQsMTA2Njc5NDY2OCwtMTg3MzM1ODMyNi
-wtOTcwMTU0OTk4LC0yMDg3NTE5MDk5LC0xMTkxOTE0MDg2LC0y
-MTU4OTU0MzVdfQ==
+eyJoaXN0b3J5IjpbMTc3MDkwNzk0NywxODY1ODEzNDksLTM3MD
+M5OTIxNiwxNTE4ODgxOTIxLDEyOTM3NzExMDgsMjE0NDcxMTk5
+NCwxNTQzOTI5MjcyLC0xNjk2NDM2NzgxLDE1NzEyMjM1MTcsLT
+E4MDgzOTM5ODUsNzkxMTMwOTQwLDg2NjUxMzIzMCwxNzM5NzY0
+NDU0LC0yMTA5MDc5NDY1LDQ0OTk2NDMzNCwxMDY2Nzk0NjY4LC
+0xODczMzU4MzI2LC05NzAxNTQ5OTgsLTIwODc1MTkwOTksLTEx
+OTE5MTQwODZdfQ==
 -->
