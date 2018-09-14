@@ -19,13 +19,13 @@
  **1.** Click on **Database Section** to setup a database connection.
 
  **2.** Click on **New Connection**  button to start setting up the connection to database. In general, specify the below mentioned fields:
+ 
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/demo%20image.png)
 
 -  **Name** specify a name to define connection.
  
- - **Database(dialect)** choose appropriate dialect based on  connection. 
- 
->Note: As per your requirement we can include the dialects needed to run the business.
+ - **Database (dialect)** choose appropriate dialect based on  connection. 
+>**Note:** As per your requirement, we can include the dialects needed to run the business.
 
 - **Host**  database host path.
 
@@ -80,6 +80,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTAwMTM1MTUsMTMzMzY0MTMzLDM0OD
-Q2NjgwNywtMTEyMDQxMTQ5MywxNjUzNDgzMjhdfQ==
+eyJoaXN0b3J5IjpbMTkwODc5ODk3MSwxMzMzNjQxMzMsMzQ4ND
+Y2ODA3LC0xMTIwNDExNDkzLDE2NTM0ODMyOF19
 -->
