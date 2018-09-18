@@ -2,7 +2,7 @@
 
 <center><h1>Why BiPlus </h1></center> 
 
-BiPlus is Collection of business analytics tools that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the Business. BiPlus is a single integrated analytical platform that delivers faster and better insights for entire business process, Regardless of any action or industry.
+BiPlus is collection of business analytics tools that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the Business. BiPlus is a single integrated analytical platform that delivers faster and better insights for entire business process, Regardless of any action or industry.
 
 ## BiPlus Advantages
 
@@ -31,9 +31,10 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
 When it comes to business establishment and success, BiPlus software is an innovation that has ability to share and collaborate ideas efficiently.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MzA1NDMyLC04NjgyODcxNCwtMTQwNT
-A5NzMxMCwxMjUyOTE1MjE2LC0yNDE5MzcwNzMsODc2MTc1MTM3
-LDE4NDg4OTQ1NjcsLTE2MjE0NjU4MDMsLTM3NzQ5OTMxLDE4OD
-g3ODczMzksMTMxMTAxNzEzMCwxMzQzMzcwNTc4LC0yNjYwODc5
-MTUsLTIwNzI4NTEwODUsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTE3NDQwMTY4MjQsLTI3MzA1NDMyLC04Nj
+gyODcxNCwtMTQwNTA5NzMxMCwxMjUyOTE1MjE2LC0yNDE5Mzcw
+NzMsODc2MTc1MTM3LDE4NDg4OTQ1NjcsLTE2MjE0NjU4MDMsLT
+M3NzQ5OTMxLDE4ODg3ODczMzksMTMxMTAxNzEzMCwxMzQzMzcw
+NTc4LC0yNjYwODc5MTUsLTIwNzI4NTEwODUsNDI0MzU3ODMxXX
+0=
 -->
