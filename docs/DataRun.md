@@ -3,7 +3,7 @@
 Analysis section is a starting point, for building query.  it is designed in such a way, that it retrieves the data in desired combinations as per your business needs and explores particular subject area it self. It also provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight.
  
 **Let see in detail, How BiPlus helps you in retrieving the 
-data as per your business needs :**
+-data as per your business needs :**
  
 **1.** Click on **Analysis section** and select the desired **Project** and **Model** based on which the data is retrieved.
 
@@ -27,7 +27,7 @@ A **Dimension** is a group of data and **Measure** is a information about group 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/fc61997d3a6999b632b7b6e9dfdfdcd3f93b5507/images/analysis1.png)
   
-  > Note : To hide the Explore /visualise section that displays dimensions and measure click on  **angle double left** icon. to display the explore/visualise section click ** angle double right** icon available near dimensions and measure field list.
+  > **Note :** To hide the Explore /visualize section that displays dimensions and measure click on  **angle double left** icon. to display the explore/visualize section click ** angle double right** icon available near dimensions and measure field list.
 
                                                                                                                                                                                                                       
 ## Filters 
@@ -373,7 +373,7 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzMDg0MjQxLDExNTg3NjQwOTUsLTExOT
+eyJoaXN0b3J5IjpbMjkxOTI2OTY0LDExNTg3NjQwOTUsLTExOT
 M5NzQ2MzAsLTYyNDgzNTg1MywtNTM2MTIxMTAwLDMyNDU2MjU5
 NCwzODI5MDQxMTYsLTE4ODI1MjM3NzAsLTc0NTU5NDY5NSwxOT
 Q1MzI4MDIzLDY4NTY3NTgxNyw4MTg4NjY1NjcsMjQ5MzA5NTAx
