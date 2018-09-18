@@ -2,7 +2,8 @@
 
 Analysis section is a starting point, for building query.  it is designed in such a way, that it retrieves the data in desired combinations as per your business needs and explores particular subject area it self. It also provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight.
  
-**Let see in detail, How BiPlus helps you in retrieving the data as per your business needs :**
+**Let see in detail, How BiPlus helps you in retrieving the 
+data as per your business needs :**
  
 **1.** Click on **Analysis section** and select the desired **Project** and **Model** based on which the data is retrieved.
 
@@ -372,11 +373,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODc2NDA5NSwtMTE5Mzk3NDYzMCwtNj
-I0ODM1ODUzLC01MzYxMjExMDAsMzI0NTYyNTk0LDM4MjkwNDEx
-NiwtMTg4MjUyMzc3MCwtNzQ1NTk0Njk1LDE5NDUzMjgwMjMsNj
-g1Njc1ODE3LDgxODg2NjU2NywyNDkzMDk1MDEsLTQ1MjE0OTQ0
-OCwtNjM4MzQzODQwLDIwODc1OTEzMTEsMTAzMjMzODIyNSwxNT
-k4ODIwNjc4LDEzNTAxMjYwNzksMjIyNTAxMTU1LC0zNzI1MDA2
-MTldfQ==
+eyJoaXN0b3J5IjpbNTIzMDg0MjQxLDExNTg3NjQwOTUsLTExOT
+M5NzQ2MzAsLTYyNDgzNTg1MywtNTM2MTIxMTAwLDMyNDU2MjU5
+NCwzODI5MDQxMTYsLTE4ODI1MjM3NzAsLTc0NTU5NDY5NSwxOT
+Q1MzI4MDIzLDY4NTY3NTgxNyw4MTg4NjY1NjcsMjQ5MzA5NTAx
+LC00NTIxNDk0NDgsLTYzODM0Mzg0MCwyMDg3NTkxMzExLDEwMz
+IzMzgyMjUsMTU5ODgyMDY3OCwxMzUwMTI2MDc5LDIyMjUwMTE1
+NV19
 -->
