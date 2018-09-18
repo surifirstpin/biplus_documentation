@@ -14,7 +14,7 @@ Analysis section is a starting point, for building query.  it is designed in suc
 
 ## Add Dimension and Measure
 
-A **Dimension** is a group of data and **Measure** is a information about group of data and they collectively acts as fundamental building blocks for a query.
+A **Dimension** is a group of data and **Measure** is information about group of data and they collectively acts as fundamental building blocks for a query.
 
 > **For Instance:** **Name of the Employee** is defined as dimension and **Salary of the Employee** is defined as Measure.
  
@@ -27,7 +27,7 @@ A **Dimension** is a group of data and **Measure** is a information about group 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/fc61997d3a6999b632b7b6e9dfdfdcd3f93b5507/images/analysis1.png)
   
-  > **Note :** To hide the Explore /visualize section that displays dimensions and measure click on  **angle double left** icon. to display the explore/visualize section click ** angle double right** icon available near dimensions and measure field list.
+  > **Note :** To hide the Explore /Visualize section that displays dimensions and measure click on  **angle double left** icon. to display the explore/visualize section click ** angle double right** icon available near dimensions and measure field list.
 
                                                                                                                                                                                                                       
 ## Filters 
@@ -373,11 +373,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxOTI2OTY0LDExNTg3NjQwOTUsLTExOT
-M5NzQ2MzAsLTYyNDgzNTg1MywtNTM2MTIxMTAwLDMyNDU2MjU5
-NCwzODI5MDQxMTYsLTE4ODI1MjM3NzAsLTc0NTU5NDY5NSwxOT
-Q1MzI4MDIzLDY4NTY3NTgxNyw4MTg4NjY1NjcsMjQ5MzA5NTAx
-LC00NTIxNDk0NDgsLTYzODM0Mzg0MCwyMDg3NTkxMzExLDEwMz
-IzMzgyMjUsMTU5ODgyMDY3OCwxMzUwMTI2MDc5LDIyMjUwMTE1
-NV19
+eyJoaXN0b3J5IjpbLTEzNDM3NjkzNTUsMjkxOTI2OTY0LDExNT
+g3NjQwOTUsLTExOTM5NzQ2MzAsLTYyNDgzNTg1MywtNTM2MTIx
+MTAwLDMyNDU2MjU5NCwzODI5MDQxMTYsLTE4ODI1MjM3NzAsLT
+c0NTU5NDY5NSwxOTQ1MzI4MDIzLDY4NTY3NTgxNyw4MTg4NjY1
+NjcsMjQ5MzA5NTAxLC00NTIxNDk0NDgsLTYzODM0Mzg0MCwyMD
+g3NTkxMzExLDEwMzIzMzgyMjUsMTU5ODgyMDY3OCwxMzUwMTI2
+MDc5XX0=
 -->
