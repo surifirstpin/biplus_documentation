@@ -32,7 +32,7 @@ A **Dimension** is a group of data and **Measure** is information about group of
                                                                                                                                                                                                                       
 ## Filters 
 
-Filters removes all the data except the one you want to retrieve. filter expressions are the advanced way to limit the data. 
+Filters removes all the data except the one you want to retrieve. Filter expressions are the advanced way to limit the data. 
 
 **The following are the various types of filter expressions used.**
 
@@ -373,11 +373,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwMTUyMjUsLTE0MzU3NTQ2NDUsLTEyND
-UyODAzNDksMjkxOTI2OTY0LDExNTg3NjQwOTUsLTExOTM5NzQ2
-MzAsLTYyNDgzNTg1MywtNTM2MTIxMTAwLDMyNDU2MjU5NCwzOD
-I5MDQxMTYsLTE4ODI1MjM3NzAsLTc0NTU5NDY5NSwxOTQ1MzI4
-MDIzLDY4NTY3NTgxNyw4MTg4NjY1NjcsMjQ5MzA5NTAxLC00NT
-IxNDk0NDgsLTYzODM0Mzg0MCwyMDg3NTkxMzExLDEwMzIzMzgy
-MjVdfQ==
+eyJoaXN0b3J5IjpbLTExNzgxNDk5MjcsLTE0MzU3NTQ2NDUsLT
+EyNDUyODAzNDksMjkxOTI2OTY0LDExNTg3NjQwOTUsLTExOTM5
+NzQ2MzAsLTYyNDgzNTg1MywtNTM2MTIxMTAwLDMyNDU2MjU5NC
+wzODI5MDQxMTYsLTE4ODI1MjM3NzAsLTc0NTU5NDY5NSwxOTQ1
+MzI4MDIzLDY4NTY3NTgxNyw4MTg4NjY1NjcsMjQ5MzA5NTAxLC
+00NTIxNDk0NDgsLTYzODM0Mzg0MCwyMDg3NTkxMzExLDEwMzIz
+MzgyMjVdfQ==
 -->
