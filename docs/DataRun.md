@@ -29,19 +29,19 @@ A **Dimension** is a group of data and **Measure** is information about group of
   
   > **Note :** To hide Explore /Visualize sections  click on  **angle double left ** icon. To display the explore/visualize section click **angle double right  (»)** icon available near dimensions and measure field list.
 
-                                                                                                                                                                                                                      
+                                                                                                                                                                                                                    
 ## Filters 
 
 Filters removes all the data except the one you want to retrieve. Filter expressions are the advanced way to limit the data. 
 
-**The following are the various types of filter expressions used.**
+**The following are the various types of filter expressions used:**
 
 | Type | Description |
 |--|--|
 | String | For fields that contain letters or special characters |
-|Numbers|For fields that contain numbers|
+|Numbers|For fields that contain numeric values|
 |Date|For fields that contain dates|
-|Lookup| To view the lookup in Report filters it should be derived under lookup field in model section|
+|Lookup| To view the lookup in Report filters it should be derived first,under lookup field in model section|
 
 Following are the different types of filters characteristics applicable ;
 
@@ -373,11 +373,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzgxNDk5MjcsLTE0MzU3NTQ2NDUsLT
-EyNDUyODAzNDksMjkxOTI2OTY0LDExNTg3NjQwOTUsLTExOTM5
-NzQ2MzAsLTYyNDgzNTg1MywtNTM2MTIxMTAwLDMyNDU2MjU5NC
-wzODI5MDQxMTYsLTE4ODI1MjM3NzAsLTc0NTU5NDY5NSwxOTQ1
-MzI4MDIzLDY4NTY3NTgxNyw4MTg4NjY1NjcsMjQ5MzA5NTAxLC
-00NTIxNDk0NDgsLTYzODM0Mzg0MCwyMDg3NTkxMzExLDEwMzIz
-MzgyMjVdfQ==
+eyJoaXN0b3J5IjpbLTY4Mzg0MDgyNiwtMTE3ODE0OTkyNywtMT
+QzNTc1NDY0NSwtMTI0NTI4MDM0OSwyOTE5MjY5NjQsMTE1ODc2
+NDA5NSwtMTE5Mzk3NDYzMCwtNjI0ODM1ODUzLC01MzYxMjExMD
+AsMzI0NTYyNTk0LDM4MjkwNDExNiwtMTg4MjUyMzc3MCwtNzQ1
+NTk0Njk1LDE5NDUzMjgwMjMsNjg1Njc1ODE3LDgxODg2NjU2Ny
+wyNDkzMDk1MDEsLTQ1MjE0OTQ0OCwtNjM4MzQzODQwLDIwODc1
+OTEzMTFdfQ==
 -->
