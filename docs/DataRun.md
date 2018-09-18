@@ -27,7 +27,7 @@ A **Dimension** is a group of data and **Measure** is information about group of
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/fc61997d3a6999b632b7b6e9dfdfdcd3f93b5507/images/analysis1.png)
   
-  > **Note :** To hide the Explore /Visualize section that displays dimensions and measure click on  **angle double left** icon. to display the explore/visualize section click ** angle double right** icon available near dimensions and measure field list.
+  > **Note :** To hide the Explore /Visualize section that displays dimensions and measure click on  **angle double left ** icon. to display the explore/visualize section click **angle double right  (») icon** available near dimensions and measure field list.
 
                                                                                                                                                                                                                       
 ## Filters 
@@ -373,11 +373,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDM3NjkzNTUsMjkxOTI2OTY0LDExNT
-g3NjQwOTUsLTExOTM5NzQ2MzAsLTYyNDgzNTg1MywtNTM2MTIx
-MTAwLDMyNDU2MjU5NCwzODI5MDQxMTYsLTE4ODI1MjM3NzAsLT
-c0NTU5NDY5NSwxOTQ1MzI4MDIzLDY4NTY3NTgxNyw4MTg4NjY1
-NjcsMjQ5MzA5NTAxLC00NTIxNDk0NDgsLTYzODM0Mzg0MCwyMD
-g3NTkxMzExLDEwMzIzMzgyMjUsMTU5ODgyMDY3OCwxMzUwMTI2
-MDc5XX0=
+eyJoaXN0b3J5IjpbMTgxODI1MTE3OSwyOTE5MjY5NjQsMTE1OD
+c2NDA5NSwtMTE5Mzk3NDYzMCwtNjI0ODM1ODUzLC01MzYxMjEx
+MDAsMzI0NTYyNTk0LDM4MjkwNDExNiwtMTg4MjUyMzc3MCwtNz
+Q1NTk0Njk1LDE5NDUzMjgwMjMsNjg1Njc1ODE3LDgxODg2NjU2
+NywyNDkzMDk1MDEsLTQ1MjE0OTQ0OCwtNjM4MzQzODQwLDIwOD
+c1OTEzMTEsMTAzMjMzODIyNSwxNTk4ODIwNjc4LDEzNTAxMjYw
+NzldfQ==
 -->
