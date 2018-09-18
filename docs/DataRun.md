@@ -105,11 +105,11 @@ Following are the different types of filters characteristics applicable :
 
 ## Hidden Filters
 
-The data can also be retrieved based on the applied hidden filters .
+The data can also be retrieved based on the applied hidden filters.
 
 > **Note :** this hidden filters are visible in the list of filter expression but are not visible while retrieving the data in data section. 
 
-**To carry out this function you can follow the following steps;**
+**To carry out this function you can follow the following steps:**
 
 **a.** Apply hidden filters to data fields in dimensions.
 
@@ -373,7 +373,7 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzA1NTMwMywtMTE3ODE0OTkyNywtMT
+eyJoaXN0b3J5IjpbMTk0MDY3MDEzMCwtMTE3ODE0OTkyNywtMT
 QzNTc1NDY0NSwtMTI0NTI4MDM0OSwyOTE5MjY5NjQsMTE1ODc2
 NDA5NSwtMTE5Mzk3NDYzMCwtNjI0ODM1ODUzLC01MzYxMjExMD
 AsMzI0NTYyNTk0LDM4MjkwNDExNiwtMTg4MjUyMzc3MCwtNzQ1
