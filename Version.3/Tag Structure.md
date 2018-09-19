@@ -9,7 +9,6 @@ Tag structure in BiPlus, it is a nested layered structure that provides an oppor
 
 To create a **New Tag** Click on **Add Tag** in dashboard section. 
 
-
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/tag_n.png)
 
@@ -48,7 +47,8 @@ Use setting icon, available at far right of the tag created to **Edit, Delete** 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cebf774f6f7807b17ff6d702c0f86d83d3e96e1e/images/child_tag_in%20parent.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQyMzg2OCwtNzAyODIzMzI4LC0xNj
-AwNTIzNjkxLDcxMzUyNjk5LC0xMjQ5ODM2MDQyLDIyNDYxNjUw
-OSw3OTQxNTIxMjcsLTY1MjgyNTQ0MSwtMzI4NTIyNjgzXX0=
+eyJoaXN0b3J5IjpbMTE2NTU5Njk3OCwtMTU1NDIzODY4LC03MD
+I4MjMzMjgsLTE2MDA1MjM2OTEsNzEzNTI2OTksLTEyNDk4MzYw
+NDIsMjI0NjE2NTA5LDc5NDE1MjEyNywtNjUyODI1NDQxLC0zMj
+g1MjI2ODNdfQ==
 -->
