@@ -70,7 +70,7 @@ This functions supports all the native java script supported functions and also 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY1MDg3NCwxNDU0ODcwMDgsLTExMz
-MxNjM1OTYsNTc4NDkyMDgzLDY1OTY5MzEyNywxNjUwNTMyNzYx
-XX0=
+eyJoaXN0b3J5IjpbMTE4NjU0MzY0OSwtMTUyNjUwODc0LDE0NT
+Q4NzAwOCwtMTEzMzE2MzU5Niw1Nzg0OTIwODMsNjU5NjkzMTI3
+LDE2NTA1MzI3NjFdfQ==
 -->
