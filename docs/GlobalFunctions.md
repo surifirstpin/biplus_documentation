@@ -40,11 +40,10 @@ function _Addition(param1,param2)
                                            * Returns value 3, if we give 1 and 2 in Test*
 ```
 
->  **Note :** To undo the changes done for the code established click  **Undo** icon.  To redo the changes done for the code click  **Redo** icon.
+>  **Note :** To undo the changes done, click  **Undo** icon.  To redo the changes made, click  **Redo** icon.
 
 
 **2.** Click on **Test** Button  to run the function.
-
 **3.** Click on **Save** Button to save the function.
 
 
@@ -63,14 +62,14 @@ This functions supports all the native java script supported functions and also 
 
 ## Delete Function
 
-**5.** Click on delete button to **Delete** the function.
+**5.** Click delete button to **Delete** the function.
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3e9f75a909b59664ffe91af0ad16c2c9859586cf/images/del_func.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDU0MTYyNSwxMTg2NTQzNjQ5LC0xNT
-I2NTA4NzQsMTQ1NDg3MDA4LC0xMTMzMTYzNTk2LDU3ODQ5MjA4
-Myw2NTk2OTMxMjcsMTY1MDUzMjc2MV19
+eyJoaXN0b3J5IjpbMTcxODM2NDUyNywtMzAwNTQxNjI1LDExOD
+Y1NDM2NDksLTE1MjY1MDg3NCwxNDU0ODcwMDgsLTExMzMxNjM1
+OTYsNTc4NDkyMDgzLDY1OTY5MzEyNywxNjUwNTMyNzYxXX0=
 -->
