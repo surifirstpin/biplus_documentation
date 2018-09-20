@@ -37,7 +37,7 @@ A model is a customized gateway into the database for accessing data as per busi
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/add_tables.png)
 
-**2.** **Auto Build Joins (check box)** On selecting this checkbox,  it will adopt all the defined mappings or relations between different tables of a database and displays it in model. Else only tables with no mappings will be adopted as views in model.
+**2.** **Auto Build Joins (check box)** On selecting auto build checkbox,  it will adopt all the defined mappings or relations between different tables of a database and displays it in model. Else only tables with no mappings will be adopted as views in model.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model%204.png)
@@ -670,11 +670,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NzMyNzE1NSwtMzM5OTcwNjY1LC0xOT
-M1MjA3Nzc5LDExOTgxMTM3MzMsMTQxNDQzNDQ0LC0xODEwMzkw
-Nzk1LDIwODY1OTQ3NDcsLTE1NzIxODEzNzIsMTE0MTczMDc5MS
-wtMjA2NjA2NjY4MiwtMTEzNTY2Mjk2MiwxMjQzNjU4OTQyLC0y
-MDAyNDkwNjU1LC0yODI3ODY5NjIsLTEzMjMyNjk1MzQsLTcwMj
-M0Njg4NCwtNzk4NDgzMTA4LDEzMDIzNjA3NDgsNzIyMDk3MDY4
-LDIwODExNTIzMzZdfQ==
+eyJoaXN0b3J5IjpbLTIwNDkzMTEyMTQsMjE0NzMyNzE1NSwtMz
+M5OTcwNjY1LC0xOTM1MjA3Nzc5LDExOTgxMTM3MzMsMTQxNDQz
+NDQ0LC0xODEwMzkwNzk1LDIwODY1OTQ3NDcsLTE1NzIxODEzNz
+IsMTE0MTczMDc5MSwtMjA2NjA2NjY4MiwtMTEzNTY2Mjk2Miwx
+MjQzNjU4OTQyLC0yMDAyNDkwNjU1LC0yODI3ODY5NjIsLTEzMj
+MyNjk1MzQsLTcwMjM0Njg4NCwtNzk4NDgzMTA4LDEzMDIzNjA3
+NDgsNzIyMDk3MDY4XX0=
 -->
