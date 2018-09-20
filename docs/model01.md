@@ -77,7 +77,7 @@ To delete the project created click on delete icon, on far right of the project 
 After saving a project, BiPlus will display the views and relevant information of the project as a Model which can be customized as per the business requirement. 
 
 After Saving a project, model screen is triggered as shown in below image.
-Depending on the table joins applied the code is retrieved in JSON format. To refresh, click on the refresh icon prescribed at model,project and tables.
+Depending on the table joins applied the code is retrieved in JSON format. To refresh the data, click on the refresh icon of model, project and tables.
 
 **4.**  To undo the changes done for the code established in json format click  **Undo** icon.
 
@@ -670,11 +670,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5Njk1NTEzLDIxNDczMjcxNTUsLTMzOT
-k3MDY2NSwtMTkzNTIwNzc3OSwxMTk4MTEzNzMzLDE0MTQ0MzQ0
-NCwtMTgxMDM5MDc5NSwyMDg2NTk0NzQ3LC0xNTcyMTgxMzcyLD
-ExNDE3MzA3OTEsLTIwNjYwNjY2ODIsLTExMzU2NjI5NjIsMTI0
-MzY1ODk0MiwtMjAwMjQ5MDY1NSwtMjgyNzg2OTYyLC0xMzIzMj
-Y5NTM0LC03MDIzNDY4ODQsLTc5ODQ4MzEwOCwxMzAyMzYwNzQ4
-LDcyMjA5NzA2OF19
+eyJoaXN0b3J5IjpbLTE0NDU1Njk1MjMsMjE0NzMyNzE1NSwtMz
+M5OTcwNjY1LC0xOTM1MjA3Nzc5LDExOTgxMTM3MzMsMTQxNDQz
+NDQ0LC0xODEwMzkwNzk1LDIwODY1OTQ3NDcsLTE1NzIxODEzNz
+IsMTE0MTczMDc5MSwtMjA2NjA2NjY4MiwtMTEzNTY2Mjk2Miwx
+MjQzNjU4OTQyLC0yMDAyNDkwNjU1LC0yODI3ODY5NjIsLTEzMj
+MyNjk1MzQsLTcwMjM0Njg4NCwtNzk4NDgzMTA4LDEzMDIzNjA3
+NDgsNzIyMDk3MDY4XX0=
 -->
