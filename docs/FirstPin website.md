@@ -138,7 +138,7 @@ Anyone can use BiPlus to analyze, search, visualize, interact intuitively and ge
 
 # DIALECTS SUPPORTED
 
-It doesn’t matters what type of data you want to explore or where it stays, you can connects to hundreds of data sources with Acubi. More sources are yet to be added.
+It doesn’t matters what type of data you want to explore or where it stays, you can connects to hundreds of data sources with BiPlus. More sources are yet to be added.
 
 ## SOLUTIONS
 
@@ -171,7 +171,7 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDk1NjkzODQsLTU3OTk0Mzc1MSwtNz
-QxODIzMjQ5LDE1Mjk5NTk5MTcsMTA4MTgxNDQ0NywxMzc1MzE2
-MjUzLDEwMDkzMjEzNTBdfQ==
+eyJoaXN0b3J5IjpbOTU5MjE1NzEsLTU3OTk0Mzc1MSwtNzQxOD
+IzMjQ5LDE1Mjk5NTk5MTcsMTA4MTgxNDQ0NywxMzc1MzE2MjUz
+LDEwMDkzMjEzNTBdfQ==
 -->
