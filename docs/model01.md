@@ -114,8 +114,8 @@ Depending on the table joins applied the code is retrieved in JSON format. To re
 |  1 | **For Model** |  |
 |   | project | displays the project name |
 |   | info | allows to describe the project with meaning full information |
-|   | connections | displays the connection name erf the selected project |
-|   | explore | displays the views (the tabes selected in the project) with the selected charecteristics |
+|   | connections | displays the connection name with the selected project |
+|   | explore | displays the views (the tables selected in the project) with the selected characteristics |
 |  2 | **For View** |  |
 |   | name | name of the table name in database |
 |   | label | allows to customize the dts play name of the view in BiPlus |
@@ -670,7 +670,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTkxMTcwMiwyMTQ3MzI3MTU1LC0zMz
+eyJoaXN0b3J5IjpbMTU4OTU1OTU1MywyMTQ3MzI3MTU1LC0zMz
 k5NzA2NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMywxNDE0NDM0
 NDQsLTE4MTAzOTA3OTUsMjA4NjU5NDc0NywtMTU3MjE4MTM3Mi
 wxMTQxNzMwNzkxLC0yMDY2MDY2NjgyLC0xMTM1NjYyOTYyLDEy
