@@ -1,10 +1,9 @@
 <center><h1>Global Parameter</h1></center>
 
 It is a flat file data in JSON format which can be used to manipulate, control and set predefined values.
-BiPlus allows you to provide additional key values to manipulate the data in calculations column,control data etc. 
+BiPlus allows you to provide additional key values to manipulate the data in calculations column, control data etc. 
  
- **It can be used in the following ways:**
- 
+ **It can be used in the following ways:** 
 - Control data access based on login.
 - Provide access to predefined list of filter values based on login.
 - Manipulate data with external parameter based on a common reference.
@@ -101,9 +100,9 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTU3NTMyNzUsNDgxNTI2NDE4LC0xMz
-Q1OTIyNzA2LDIwNDEzMzgxOTAsLTI2NzY3MjEzLDIxMTc2MTY5
-MjMsLTg5NTA5MTg5MCwxNjk0Mzg3NTk1LC0zOTY5NDIwMDEsMT
-IzMTM3MDI3OSwtMTkwNzc3Njg0MCwtMTgxMTExNzg2NSwtOTAw
-NTAxNjYxXX0=
+eyJoaXN0b3J5IjpbLTM0ODgyODE3OSwtMTcxNTc1MzI3NSw0OD
+E1MjY0MTgsLTEzNDU5MjI3MDYsMjA0MTMzODE5MCwtMjY3Njcy
+MTMsMjExNzYxNjkyMywtODk1MDkxODkwLDE2OTQzODc1OTUsLT
+M5Njk0MjAwMSwxMjMxMzcwMjc5LC0xOTA3Nzc2ODQwLC0xODEx
+MTE3ODY1LC05MDA1MDE2NjFdfQ==
 -->
