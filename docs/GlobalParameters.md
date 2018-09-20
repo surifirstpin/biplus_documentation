@@ -10,7 +10,7 @@ BiPlus allows you to provide additional key values to manipulate the data in cal
 - View and manipulate data based on login.
 - Use global parameters in calculated column to perform mathematical calculations on existing data.
  
-## Create  Global Parameters
+## Create Global Parameters
 
 >**Navigation : Settings → Global Parameters.**
 
@@ -100,9 +100,9 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODgyODE3OSwtMTcxNTc1MzI3NSw0OD
-E1MjY0MTgsLTEzNDU5MjI3MDYsMjA0MTMzODE5MCwtMjY3Njcy
-MTMsMjExNzYxNjkyMywtODk1MDkxODkwLDE2OTQzODc1OTUsLT
-M5Njk0MjAwMSwxMjMxMzcwMjc5LC0xOTA3Nzc2ODQwLC0xODEx
-MTE3ODY1LC05MDA1MDE2NjFdfQ==
+eyJoaXN0b3J5IjpbOTk3NTgzOTk1LC0zNDg4MjgxNzksLTE3MT
+U3NTMyNzUsNDgxNTI2NDE4LC0xMzQ1OTIyNzA2LDIwNDEzMzgx
+OTAsLTI2NzY3MjEzLDIxMTc2MTY5MjMsLTg5NTA5MTg5MCwxNj
+k0Mzg3NTk1LC0zOTY5NDIwMDEsMTIzMTM3MDI3OSwtMTkwNzc3
+Njg0MCwtMTgxMTExNzg2NSwtOTAwNTAxNjYxXX0=
 -->
