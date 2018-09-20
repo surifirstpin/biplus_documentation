@@ -116,25 +116,24 @@ It is integrated into current software very easily and allows you to re-brand th
 
 BiPlus has an ability to transform the complex data into meaningful insights and performs in-depth analyses with utmost simplicity.
 
-[More info](http://192.168.0.7/Biplus_timer_website/#)
+
 
 ## Secure
 
 BiPlus security is built to ensure that your data is safe and secure, by providing 100% data protection on all devices.
 
-[More info](http://192.168.0.7/Biplus_timer_website/#)
+
 
 ## Scalable
 
 From one users to many, BiPlus scales seamlessly to meet your growing BI needs and progress to a new hardware easily or add more connection for increased redundancy and scope.
 
-[More info](http://192.168.0.7/Biplus_timer_website/#)
+
 
 ## Self-Serve
 
 Anyone can use BiPlus to analyze, search, visualize, interact intuitively and get entrusted with the right insights.
 
-[More info](http://192.168.0.7/Biplus_timer_website/#)
 
 # DIALECTS SUPPORTED
 
@@ -171,7 +170,7 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5MjE1NzEsLTU3OTk0Mzc1MSwtNzQxOD
-IzMjQ5LDE1Mjk5NTk5MTcsMTA4MTgxNDQ0NywxMzc1MzE2MjUz
-XX0=
+eyJoaXN0b3J5IjpbLTExNDc4MDMyNzEsLTU3OTk0Mzc1MSwtNz
+QxODIzMjQ5LDE1Mjk5NTk5MTcsMTA4MTgxNDQ0NywxMzc1MzE2
+MjUzXX0=
 -->
