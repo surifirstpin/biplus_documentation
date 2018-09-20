@@ -206,7 +206,7 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 
 ## Hide data in pivot 
 
-To hide pivoted data in report, choose pivot hide first ( 1st column data in list) or choose pivot hide last( last column data in a list) in data section under datasets.
+To hide pivoted data 1st column in visualization, choose pivot hide first, to hide the last column choose pivot hide last in data section under datasets.
 
 
 ## Pin or Remove Pin
@@ -369,11 +369,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODYyNzYwOSwxNjgzMzQyOTA1LDY2Nz
-g1OTEzOSw5MTAzODY0NDQsMTk0MDY3MDEzMCwtMTE3ODE0OTky
-NywtMTQzNTc1NDY0NSwtMTI0NTI4MDM0OSwyOTE5MjY5NjQsMT
-E1ODc2NDA5NSwtMTE5Mzk3NDYzMCwtNjI0ODM1ODUzLC01MzYx
-MjExMDAsMzI0NTYyNTk0LDM4MjkwNDExNiwtMTg4MjUyMzc3MC
-wtNzQ1NTk0Njk1LDE5NDUzMjgwMjMsNjg1Njc1ODE3LDgxODg2
-NjU2N119
+eyJoaXN0b3J5IjpbLTQ0NzEwMzk5MSwxNjU4NjI3NjA5LDE2OD
+MzNDI5MDUsNjY3ODU5MTM5LDkxMDM4NjQ0NCwxOTQwNjcwMTMw
+LC0xMTc4MTQ5OTI3LC0xNDM1NzU0NjQ1LC0xMjQ1MjgwMzQ5LD
+I5MTkyNjk2NCwxMTU4NzY0MDk1LC0xMTkzOTc0NjMwLC02MjQ4
+MzU4NTMsLTUzNjEyMTEwMCwzMjQ1NjI1OTQsMzgyOTA0MTE2LC
+0xODgyNTIzNzcwLC03NDU1OTQ2OTUsMTk0NTMyODAyMyw2ODU2
+NzU4MTddfQ==
 -->
