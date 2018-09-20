@@ -223,7 +223,7 @@ By selecting group option for fields you can group the data and display the cons
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/93c8d204507e325aea691be5e8a6e7662975fd3c/images/group.png)
 
-The below image shows , the consolidated values after grouping is applied on fields.
+The below image shows the consolidated values after grouping is applied on fields.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/93c8d204507e325aea691be5e8a6e7662975fd3c/images/after_grouping.png)
@@ -369,7 +369,7 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk3MzcxNDMyLDE2NTg2Mjc2MDksMTY4Mz
+eyJoaXN0b3J5IjpbMzc3NDI0NDM2LDE2NTg2Mjc2MDksMTY4Mz
 M0MjkwNSw2Njc4NTkxMzksOTEwMzg2NDQ0LDE5NDA2NzAxMzAs
 LTExNzgxNDk5MjcsLTE0MzU3NTQ2NDUsLTEyNDUyODAzNDksMj
 kxOTI2OTY0LDExNTg3NjQwOTUsLTExOTM5NzQ2MzAsLTYyNDgz
