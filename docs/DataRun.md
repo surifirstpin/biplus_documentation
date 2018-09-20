@@ -301,7 +301,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - **Datasets** this section enables you to perform alignment, set currency formats, group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
 
-- **Legend** it will enable the user to label  measure value in visualization charts as shown below.
+- **Legend** it will enable the user to label a measure field value in visualization charts as shown below.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/49bb2a07efd42d5b6f9a7f648e8f705e5f63bc4d/images/legend_label.png)
@@ -333,7 +333,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 |  #.000% | Percent with three decimals (1.000%). Please note multiplication by 100 happens automatically |
 |  # k | Number in thousand (1.234 k). Please note division by 1 thousand happens automatically |
 |  # M | Number in Millions (0.001234 M).please note division by 1 million happens automatically |
-|  *00#  | Number zeropadded to 3 places (001) |
+|  *00#  | Number zero-padded to 3 places (001) |
 |  *00#.00 | Number zeropadded to 3 places and exactly 2 decimals |
 |  $# | Dollar with 0 decimal |
 |  $#.00  | Dollar with 2 decimal |
@@ -369,11 +369,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTk5NTQ2LC05MzMyMTM5NzksMzc3ND
-I0NDM2LDE2NTg2Mjc2MDksMTY4MzM0MjkwNSw2Njc4NTkxMzks
-OTEwMzg2NDQ0LDE5NDA2NzAxMzAsLTExNzgxNDk5MjcsLTE0Mz
-U3NTQ2NDUsLTEyNDUyODAzNDksMjkxOTI2OTY0LDExNTg3NjQw
-OTUsLTExOTM5NzQ2MzAsLTYyNDgzNTg1MywtNTM2MTIxMTAwLD
-MyNDU2MjU5NCwzODI5MDQxMTYsLTE4ODI1MjM3NzAsLTc0NTU5
-NDY5NV19
+eyJoaXN0b3J5IjpbLTE0NjU0NDQwMzgsLTkzMzIxMzk3OSwzNz
+c0MjQ0MzYsMTY1ODYyNzYwOSwxNjgzMzQyOTA1LDY2Nzg1OTEz
+OSw5MTAzODY0NDQsMTk0MDY3MDEzMCwtMTE3ODE0OTkyNywtMT
+QzNTc1NDY0NSwtMTI0NTI4MDM0OSwyOTE5MjY5NjQsMTE1ODc2
+NDA5NSwtMTE5Mzk3NDYzMCwtNjI0ODM1ODUzLC01MzYxMjExMD
+AsMzI0NTYyNTk0LDM4MjkwNDExNiwtMTg4MjUyMzc3MCwtNzQ1
+NTk0Njk1XX0=
 -->
