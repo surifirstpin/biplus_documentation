@@ -28,16 +28,16 @@ A model is a customized gateway into the database for accessing data as per busi
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model2.png)
 
-- **Database** Choose the databases for configuration from databases section. All the selected databases are visible under **Selected Databases** section.
+- **Database** Choose the database for configuration. All the selected databases are visible under **Selected Databases** section.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model3.png)
 
-- **Tables** Select the required tables from which the data to be retrieved. Select the desired table fields from Table section, All the selected tables are visible under **Selected Tables** section.
+- **Tables** Select the required tables from which data should be retrieved. Select the desired table fields from table section, All the selected tables are visible under **Selected Tables** section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/add_tables.png)
 
-**2.** **Auto Build Joins(check box)** On selecting this checkbox,  it will adopt all the defined mappings or relations between different tables of a database and displays it in model. Else only tables with no mappings will be adopted as views in model.
+**2.** **Auto Build Joins (check box)** On selecting this checkbox,  it will adopt all the defined mappings or relations between different tables of a database and displays it in model. Else only tables with no mappings will be adopted as views in model.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model%204.png)
@@ -670,11 +670,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDMxMjY5ODIsLTMzOTk3MDY2NSwtMT
-kzNTIwNzc3OSwxMTk4MTEzNzMzLDE0MTQ0MzQ0NCwtMTgxMDM5
-MDc5NSwyMDg2NTk0NzQ3LC0xNTcyMTgxMzcyLDExNDE3MzA3OT
-EsLTIwNjYwNjY2ODIsLTExMzU2NjI5NjIsMTI0MzY1ODk0Miwt
-MjAwMjQ5MDY1NSwtMjgyNzg2OTYyLC0xMzIzMjY5NTM0LC03MD
-IzNDY4ODQsLTc5ODQ4MzEwOCwxMzAyMzYwNzQ4LDcyMjA5NzA2
-OCwyMDgxMTUyMzM2XX0=
+eyJoaXN0b3J5IjpbMjE0NzMyNzE1NSwtMzM5OTcwNjY1LC0xOT
+M1MjA3Nzc5LDExOTgxMTM3MzMsMTQxNDQzNDQ0LC0xODEwMzkw
+Nzk1LDIwODY1OTQ3NDcsLTE1NzIxODEzNzIsMTE0MTczMDc5MS
+wtMjA2NjA2NjY4MiwtMTEzNTY2Mjk2MiwxMjQzNjU4OTQyLC0y
+MDAyNDkwNjU1LC0yODI3ODY5NjIsLTEzMjMyNjk1MzQsLTcwMj
+M0Njg4NCwtNzk4NDgzMTA4LDEzMDIzNjA3NDgsNzIyMDk3MDY4
+LDIwODExNTIzMzZdfQ==
 -->
