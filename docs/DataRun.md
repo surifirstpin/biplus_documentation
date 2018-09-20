@@ -193,7 +193,7 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 |100|200|300|400|
 |2000|2001|2002|2003|
 |North|south|east|west|
-|john|steve|bob|Mecker|
+|john|Steve|bob|Mecker|
 
  **You can apply pivot to fields in 2 ways :**
  
@@ -369,11 +369,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzM0MjkwNSw2Njc4NTkxMzksOTEwMz
-g2NDQ0LDE5NDA2NzAxMzAsLTExNzgxNDk5MjcsLTE0MzU3NTQ2
-NDUsLTEyNDUyODAzNDksMjkxOTI2OTY0LDExNTg3NjQwOTUsLT
-ExOTM5NzQ2MzAsLTYyNDgzNTg1MywtNTM2MTIxMTAwLDMyNDU2
-MjU5NCwzODI5MDQxMTYsLTE4ODI1MjM3NzAsLTc0NTU5NDY5NS
-wxOTQ1MzI4MDIzLDY4NTY3NTgxNyw4MTg4NjY1NjcsMjQ5MzA5
-NTAxXX0=
+eyJoaXN0b3J5IjpbMTY1ODYyNzYwOSwxNjgzMzQyOTA1LDY2Nz
+g1OTEzOSw5MTAzODY0NDQsMTk0MDY3MDEzMCwtMTE3ODE0OTky
+NywtMTQzNTc1NDY0NSwtMTI0NTI4MDM0OSwyOTE5MjY5NjQsMT
+E1ODc2NDA5NSwtMTE5Mzk3NDYzMCwtNjI0ODM1ODUzLC01MzYx
+MjExMDAsMzI0NTYyNTk0LDM4MjkwNDExNiwtMTg4MjUyMzc3MC
+wtNzQ1NTk0Njk1LDE5NDUzMjgwMjMsNjg1Njc1ODE3LDgxODg2
+NjU2N119
 -->
