@@ -138,13 +138,13 @@ Local Sorting can be applied directly to the data obtained for dimension and mea
 
 For **Dimensions**
 
-- Click on upper arrow to enable  ascending order.
-- Click on down arrow to enable descending order.  
+- Click upper arrow, to enable  ascending order.
+- Click down arrow, to enable descending order.  
 
 For **Measures**
 
-- Click on upper arrow to enable  descending order.
-- Click on down arrow to enable ascending order.
+- Click upper arrow, to enable  descending order.
+- Click down arrow, to enable ascending order.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/local_sorting.png)
@@ -152,16 +152,16 @@ For **Measures**
 
 ## Query Time
 
-**6.** Total time taken to build the query of a report.
+**6.** Display total time taken to build the query of a report.
 
 ## Display number of rows
 
-**7.** Number of rows fetched while retrieving data.
+**7.** Display number of rows fetched while retrieving data.
 
 
 ## Display Totals
 
-**8.**    By selecting the  **check box** for totals, the report is displayed with total sum values of the measure fields obtained.
+**8.**    On selecting  **check box** for totals, the report is displayed with total sum values of the measure fields obtained.
 
 
  ## Display  Row Limit
@@ -369,11 +369,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwMzg2NDQ0LDE5NDA2NzAxMzAsLTExNz
-gxNDk5MjcsLTE0MzU3NTQ2NDUsLTEyNDUyODAzNDksMjkxOTI2
-OTY0LDExNTg3NjQwOTUsLTExOTM5NzQ2MzAsLTYyNDgzNTg1My
-wtNTM2MTIxMTAwLDMyNDU2MjU5NCwzODI5MDQxMTYsLTE4ODI1
-MjM3NzAsLTc0NTU5NDY5NSwxOTQ1MzI4MDIzLDY4NTY3NTgxNy
-w4MTg4NjY1NjcsMjQ5MzA5NTAxLC00NTIxNDk0NDgsLTYzODM0
-Mzg0MF19
+eyJoaXN0b3J5IjpbNjY3ODU5MTM5LDkxMDM4NjQ0NCwxOTQwNj
+cwMTMwLC0xMTc4MTQ5OTI3LC0xNDM1NzU0NjQ1LC0xMjQ1Mjgw
+MzQ5LDI5MTkyNjk2NCwxMTU4NzY0MDk1LC0xMTkzOTc0NjMwLC
+02MjQ4MzU4NTMsLTUzNjEyMTEwMCwzMjQ1NjI1OTQsMzgyOTA0
+MTE2LC0xODgyNTIzNzcwLC03NDU1OTQ2OTUsMTk0NTMyODAyMy
+w2ODU2NzU4MTcsODE4ODY2NTY3LDI0OTMwOTUwMSwtNDUyMTQ5
+NDQ4XX0=
 -->
