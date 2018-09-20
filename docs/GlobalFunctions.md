@@ -37,7 +37,7 @@ function _Addition(param1,param2)
   return add;
 }
 /*END*/
-                                           * Returns value 3, if we provide 1 and 2 in Test*
+                                           * Returns value 3, if we give 1 and 2 in Test*
 ```
 
 >  **Note :** To undo the changes done for the code established click  **Undo** icon.  To redo the changes done for the code click  **Redo** icon.
@@ -70,7 +70,7 @@ This functions supports all the native java script supported functions and also 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjU0MzY0OSwtMTUyNjUwODc0LDE0NT
-Q4NzAwOCwtMTEzMzE2MzU5Niw1Nzg0OTIwODMsNjU5NjkzMTI3
-LDE2NTA1MzI3NjFdfQ==
+eyJoaXN0b3J5IjpbLTMwMDU0MTYyNSwxMTg2NTQzNjQ5LC0xNT
+I2NTA4NzQsMTQ1NDg3MDA4LC0xMTMzMTYzNTk2LDU3ODQ5MjA4
+Myw2NTk2OTMxMjcsMTY1MDUzMjc2MV19
 -->
