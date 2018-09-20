@@ -3,7 +3,7 @@
 
 # TURN YOUR INSIGHTS INTO ACTIONS
 
-AcuBi Provides A Single, Integrated Enterprise Analytics Platform By Delivering Faster And Better Insights For The Whole Business, Regardless Any Action Or Industry.
+BiPlus Provides A Single, Integrated Enterprise Analytics Platform By Delivering Faster And Better Insights For The Whole Business, Regardless Any Action Or Industry.
 
 # TURN DATA INTO OPPORTUNITY IN HAND  
 
@@ -18,7 +18,7 @@ Start Transforming Your Data Into Live Dashboards And Reports In Minutes, By Hel
 
 It Provides Flexibility Of Getting Connected To Data From Desktop,Tablet And Mobile Devices Where Ever You Are.
 
-# WHY  AcuBi 
+# WHY  BiPlus
  It Is Business Analytical Tool That Provides A Standard Insights Throughout The Organization And Streamline The Process By Providing An Ability To Use Live Data By Predicting Needs Of The Business.
 
 # HIGH QUALITY DATA ANALYTICS AND REPORTING FOR ALL
@@ -38,7 +38,7 @@ Enable users to turn their raw data into actionable information by simplifying t
 
 Acubi Streamline workforce Planning, performance tracking, Analysis and improves the quality in a dynamic regulatory environment for all domains.
 
-# **AcuBi** IN ACTION
+# **BiPlus** IN ACTION
 
 #### Connect to any Data Source
 
@@ -171,7 +171,7 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTk0Mzc1MSwtNzQxODIzMjQ5LDE1Mj
-k5NTk5MTcsMTA4MTgxNDQ0NywxMzc1MzE2MjUzLDEwMDkzMjEz
-NTBdfQ==
+eyJoaXN0b3J5IjpbLTYwNjE0NjcyMiwtNTc5OTQzNzUxLC03ND
+E4MjMyNDksMTUyOTk1OTkxNywxMDgxODE0NDQ3LDEzNzUzMTYy
+NTMsMTAwOTMyMTM1MF19
 -->
