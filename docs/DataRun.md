@@ -177,7 +177,7 @@ Multiple dimensions in the report data are often easier to look at, when you piv
 
 > **Note :** you can add more pivots to other dimension fields but make sure you have at least one un-pivoted dimension and a measure value.
 
->**For instance,** if you want to view the number of order received  based on the month  it displays in following way:
+>**For instance,** To view number of orders received based on the month it displays in following way:
 
 | Order Received  |year  |month|Region|Name|
 |--|--|--|--|--|
@@ -369,11 +369,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3ODU5MTM5LDkxMDM4NjQ0NCwxOTQwNj
-cwMTMwLC0xMTc4MTQ5OTI3LC0xNDM1NzU0NjQ1LC0xMjQ1Mjgw
-MzQ5LDI5MTkyNjk2NCwxMTU4NzY0MDk1LC0xMTkzOTc0NjMwLC
-02MjQ4MzU4NTMsLTUzNjEyMTEwMCwzMjQ1NjI1OTQsMzgyOTA0
-MTE2LC0xODgyNTIzNzcwLC03NDU1OTQ2OTUsMTk0NTMyODAyMy
-w2ODU2NzU4MTcsODE4ODY2NTY3LDI0OTMwOTUwMSwtNDUyMTQ5
-NDQ4XX0=
+eyJoaXN0b3J5IjpbMTY4MzM0MjkwNSw2Njc4NTkxMzksOTEwMz
+g2NDQ0LDE5NDA2NzAxMzAsLTExNzgxNDk5MjcsLTE0MzU3NTQ2
+NDUsLTEyNDUyODAzNDksMjkxOTI2OTY0LDExNTg3NjQwOTUsLT
+ExOTM5NzQ2MzAsLTYyNDgzNTg1MywtNTM2MTIxMTAwLDMyNDU2
+MjU5NCwzODI5MDQxMTYsLTE4ODI1MjM3NzAsLTc0NTU5NDY5NS
+wxOTQ1MzI4MDIzLDY4NTY3NTgxNyw4MTg4NjY1NjcsMjQ5MzA5
+NTAxXX0=
 -->
