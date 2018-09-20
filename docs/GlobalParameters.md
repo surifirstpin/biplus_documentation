@@ -86,7 +86,7 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 ## Edit Global Parameters
 
-**6.** To edit global parameters click on edit button.
+**6.** To edit global parameters click **Edit** button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f62789b75b84744ac187a098b61d4fc8fb752053/images/edit_para.png)
 
@@ -98,9 +98,10 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTY2OTA5MSwtMzQ4ODI4MTc5LC0xNz
-E1NzUzMjc1LDQ4MTUyNjQxOCwtMTM0NTkyMjcwNiwyMDQxMzM4
-MTkwLC0yNjc2NzIxMywyMTE3NjE2OTIzLC04OTUwOTE4OTAsMT
-Y5NDM4NzU5NSwtMzk2OTQyMDAxLDEyMzEzNzAyNzksLTE5MDc3
-NzY4NDAsLTE4MTExMTc4NjUsLTkwMDUwMTY2MV19
+eyJoaXN0b3J5IjpbLTMwNjQzNjY1OCwxMjM5NjY5MDkxLC0zND
+g4MjgxNzksLTE3MTU3NTMyNzUsNDgxNTI2NDE4LC0xMzQ1OTIy
+NzA2LDIwNDEzMzgxOTAsLTI2NzY3MjEzLDIxMTc2MTY5MjMsLT
+g5NTA5MTg5MCwxNjk0Mzg3NTk1LC0zOTY5NDIwMDEsMTIzMTM3
+MDI3OSwtMTkwNzc3Njg0MCwtMTgxMTExNzg2NSwtOTAwNTAxNj
+YxXX0=
 -->
