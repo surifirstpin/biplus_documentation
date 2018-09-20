@@ -117,10 +117,10 @@ Depending on the table joins applied the code is retrieved in JSON format. To re
 |   | connections | displays the connection name with the selected project |
 |   | explore | displays the views (the tables selected in the project) with the selected characteristics |
 |  2 | **For View** |  |
-|   | name | name of the table name in database |
-|   | label | allows to customize the dts play name of the view in BiPlus |
+|   | name | name of the table used in database |
+|   | label | allows you to customize the dts play name of the view in BiPlus |
 |   | filters | the list of filters to be applied on the data from the view and respective mapped views defined in the 'joins"section |
-|   | joins | specifies the list of associated views which are mapped with the current view & mention the mappng criteria |
+|   | joins | specifies the list of associated views which are mapped with the current view & mention the mapping criteria |
 |  2A | **Filter characteristics** | Filters can be date-based, string-based, value-based & user-based |
 |   | name | name of the filter |
 |   | Filter_sql | the query phrase which acts as a filter, Ex col name = “Employee Name’ |
@@ -670,7 +670,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTU1OTU1MywyMTQ3MzI3MTU1LC0zMz
+eyJoaXN0b3J5IjpbLTU1NzkyMjQwNywyMTQ3MzI3MTU1LC0zMz
 k5NzA2NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMywxNDE0NDM0
 NDQsLTE4MTAzOTA3OTUsMjA4NjU5NDc0NywtMTU3MjE4MTM3Mi
 wxMTQxNzMwNzkxLC0yMDY2MDY2NjgyLC0xMTM1NjYyOTYyLDEy
