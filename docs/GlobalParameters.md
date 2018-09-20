@@ -56,10 +56,10 @@ To find specific cell value in global parameter click on field column header dro
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9f487e8bcb13f913640bdce2a7030f7b519167a/images/para1.png)
  
- Change the column type as shown in below image :
+ **Change the column type as shown in below image :**
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9f487e8bcb13f913640bdce2a7030f7b519167a/images/para2.png)
 
-Similarly edit column cell value by clicking on specific cell as shown below.
+**Similarly edit column cell value by clicking on specific cell as shown below:**
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/90ce2c5c848ba57722a38cdfb7623b6037e12058/images/para3.png)
 
@@ -72,12 +72,10 @@ Similarly edit column cell value by clicking on specific cell as shown below.
 
 The uploaded file will appear in **JSON** format under code view.
 
-> **Note :** 
->- To undo the changes done for the code established click  **Undo** icon. 
-
->-  To redo the changes done for the code click  **Redo** icon.
-
-> - To format the code according to proper alignment click on **Format Code** Icon.
+ **Note :** 
+- To undo the changes done for the code established click  **Undo** icon. 
+-  To redo the changes done for the code click  **Redo** icon.
+ - To format the code according to proper alignment click on **Format Code** Icon.
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/81d718b1b8f8fb86a5e9e622a08de17b9fde36a9/images/codeview.png)
@@ -100,9 +98,9 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3NTgzOTk1LC0zNDg4MjgxNzksLTE3MT
-U3NTMyNzUsNDgxNTI2NDE4LC0xMzQ1OTIyNzA2LDIwNDEzMzgx
-OTAsLTI2NzY3MjEzLDIxMTc2MTY5MjMsLTg5NTA5MTg5MCwxNj
-k0Mzg3NTk1LC0zOTY5NDIwMDEsMTIzMTM3MDI3OSwtMTkwNzc3
-Njg0MCwtMTgxMTExNzg2NSwtOTAwNTAxNjYxXX0=
+eyJoaXN0b3J5IjpbMTIzOTY2OTA5MSwtMzQ4ODI4MTc5LC0xNz
+E1NzUzMjc1LDQ4MTUyNjQxOCwtMTM0NTkyMjcwNiwyMDQxMzM4
+MTkwLC0yNjc2NzIxMywyMTE3NjE2OTIzLC04OTUwOTE4OTAsMT
+Y5NDM4NzU5NSwtMzk2OTQyMDAxLDEyMzEzNzAyNzksLTE5MDc3
+NzY4NDAsLTE4MTExMTc4NjUsLTkwMDUwMTY2MV19
 -->
