@@ -334,7 +334,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 |  # k | Number in thousand (1.234 k). Please note division by 1 thousand happens automatically |
 |  # M | Number in Millions (0.001234 M).please note division by 1 million happens automatically |
 |  *00#  | Number zero-padded to 3 places (001) |
-|  *00#.00 | Number zeropadded to 3 places and exactly 2 decimals |
+|  *00#.00 | Number zero-padded to 3 places and exactly 2 decimals |
 |  $# | Dollar with 0 decimal |
 |  $#.00  | Dollar with 2 decimal |
 |  $#,##0.00 | Dollars with comma between thousands and 2 decimals ($1,234.00) |
@@ -353,9 +353,9 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 
 ## Drill Down display
 
-Using drill down you can view the more deeper insights of the data.
+Using drill down you can view more deeper insights of the data.
 
-**For example:** On clicking country name, it will open prescribed states that fall under the particular country. on clicking statename, it will display the cityname that falls under the state.
+**For example:** On clicking country name, it will display states that fall under the particular country. on clicking state-name, it will display the city-name that falls under the state.
 
 > **Note :** to attain drill down features it need to be specified in model section refer model document for more information about drill down feature.
 
@@ -369,11 +369,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjU0NDQwMzgsLTkzMzIxMzk3OSwzNz
-c0MjQ0MzYsMTY1ODYyNzYwOSwxNjgzMzQyOTA1LDY2Nzg1OTEz
-OSw5MTAzODY0NDQsMTk0MDY3MDEzMCwtMTE3ODE0OTkyNywtMT
-QzNTc1NDY0NSwtMTI0NTI4MDM0OSwyOTE5MjY5NjQsMTE1ODc2
-NDA5NSwtMTE5Mzk3NDYzMCwtNjI0ODM1ODUzLC01MzYxMjExMD
-AsMzI0NTYyNTk0LDM4MjkwNDExNiwtMTg4MjUyMzc3MCwtNzQ1
-NTk0Njk1XX0=
+eyJoaXN0b3J5IjpbMTA1ODI1MDg4OSwtOTMzMjEzOTc5LDM3Nz
+QyNDQzNiwxNjU4NjI3NjA5LDE2ODMzNDI5MDUsNjY3ODU5MTM5
+LDkxMDM4NjQ0NCwxOTQwNjcwMTMwLC0xMTc4MTQ5OTI3LC0xND
+M1NzU0NjQ1LC0xMjQ1MjgwMzQ5LDI5MTkyNjk2NCwxMTU4NzY0
+MDk1LC0xMTkzOTc0NjMwLC02MjQ4MzU4NTMsLTUzNjEyMTEwMC
+wzMjQ1NjI1OTQsMzgyOTA0MTE2LC0xODgyNTIzNzcwLC03NDU1
+OTQ2OTVdfQ==
 -->
