@@ -232,9 +232,9 @@ The below image shows the consolidated values after grouping is applied on field
 
 ## Multi-Level grouping
 
-To carry out Multi-level grouping on the data extracted. Select group option for the column fields in field drop down list. 
+To carry out Multi-level grouping on extracted data. Select group option for the column fields in field drop down list. 
 
-> **For instance** : In the below image grouping has been applied to 2 dimension fields Country Name and  State Name. In retrieved data on expanding Country Name it displays the perspective State Names that fall under specific country and on Further Expansion it displays City Names that fall under the specific state  as shown in below image.
+> **For instance** : In the below image grouping has been applied to 2 dimension fields Country Name and  State Name. In retrieved data on expanding country name it displays the perspective State Names that fall under specific country and on Further Expansion it displays city names that fall under the specific state  as shown in below image.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a07734d0424a3c19e040fdd95a93464d057df5f3/images/multi_level_grouping.png) 
@@ -369,11 +369,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3NDI0NDM2LDE2NTg2Mjc2MDksMTY4Mz
-M0MjkwNSw2Njc4NTkxMzksOTEwMzg2NDQ0LDE5NDA2NzAxMzAs
-LTExNzgxNDk5MjcsLTE0MzU3NTQ2NDUsLTEyNDUyODAzNDksMj
-kxOTI2OTY0LDExNTg3NjQwOTUsLTExOTM5NzQ2MzAsLTYyNDgz
-NTg1MywtNTM2MTIxMTAwLDMyNDU2MjU5NCwzODI5MDQxMTYsLT
-E4ODI1MjM3NzAsLTc0NTU5NDY5NSwxOTQ1MzI4MDIzLDY4NTY3
-NTgxN119
+eyJoaXN0b3J5IjpbLTkzMzIxMzk3OSwzNzc0MjQ0MzYsMTY1OD
+YyNzYwOSwxNjgzMzQyOTA1LDY2Nzg1OTEzOSw5MTAzODY0NDQs
+MTk0MDY3MDEzMCwtMTE3ODE0OTkyNywtMTQzNTc1NDY0NSwtMT
+I0NTI4MDM0OSwyOTE5MjY5NjQsMTE1ODc2NDA5NSwtMTE5Mzk3
+NDYzMCwtNjI0ODM1ODUzLC01MzYxMjExMDAsMzI0NTYyNTk0LD
+M4MjkwNDExNiwtMTg4MjUyMzc3MCwtNzQ1NTk0Njk1LDE5NDUz
+MjgwMjNdfQ==
 -->
