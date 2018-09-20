@@ -111,20 +111,16 @@ The data can also be retrieved based on the applied hidden filters.
 
 **To carry out this function you can follow the following steps:**
 
-**a.** Apply hidden filters, to data fields in dimensions.
-
+**a.**  Apply hidden filters, to data fields in dimensions.
 **b.** Fields to which hidden filters applied are visible in filter expression of filter section.
-
 **c.** The data is retrieved, based on the applied hidden filters.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/603d0055942c97790066aa8195ad659038778ad2/images/hidden_filter.png)
 
 
--  To Add more filters click on **Add Rule**.
-
-- To Delete the filter applied Click **Ban Icon**.
-
+- To add more filters click on **Add Rule**.
+- To delete the filter applied Click **Ban Icon**.
 - To hide the **Filter** or **Order** section Click on angle-double-up icon on to far right of the order section. To unhide click on angle-double-down icon at same location.
 
 **5.**  Click on **Run** to display the data retrieved ( refer image 3).
@@ -138,7 +134,7 @@ To view the column data in ascending or descending orders , to carry out this fu
 
 ## Local Sorting
 
-Local Sorting can be applied directly to the data obtained for dimension and measure fields in the data section. To enabl;e this Click on the desired field header to enable sorting.
+Local Sorting can be applied directly to the data obtained for dimension and measure fields in the data section. To enable this Click on the desired field header to enable sorting.
 
 For **Dimensions**
 
@@ -373,7 +369,7 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDM5NzY5MiwxOTQwNjcwMTMwLC0xMT
+eyJoaXN0b3J5IjpbLTU5MDIxODgxNSwxOTQwNjcwMTMwLC0xMT
 c4MTQ5OTI3LC0xNDM1NzU0NjQ1LC0xMjQ1MjgwMzQ5LDI5MTky
 Njk2NCwxMTU4NzY0MDk1LC0xMTkzOTc0NjMwLC02MjQ4MzU4NT
 MsLTUzNjEyMTEwMCwzMjQ1NjI1OTQsMzgyOTA0MTE2LC0xODgy
