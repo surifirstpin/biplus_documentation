@@ -62,11 +62,11 @@ A model is a customized gateway into the database for accessing data as per busi
 
 - After making necessary changes click on **Update.**
 
-- To Cancel the changes made to project click  on **Cancel** button.
+- To cancel the changes made to project click  on **Cancel** button.
 
 ## Delete Project
 
-To delete the project created click on delete icons on far right of the project name.
+To delete the project created click on delete icon, on far right of the project name.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4f558666a7432cd24c9c87474855b50c6b9996b4/images/edit_project.png)
@@ -670,11 +670,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDkzMTEyMTQsMjE0NzMyNzE1NSwtMz
-M5OTcwNjY1LC0xOTM1MjA3Nzc5LDExOTgxMTM3MzMsMTQxNDQz
-NDQ0LC0xODEwMzkwNzk1LDIwODY1OTQ3NDcsLTE1NzIxODEzNz
-IsMTE0MTczMDc5MSwtMjA2NjA2NjY4MiwtMTEzNTY2Mjk2Miwx
-MjQzNjU4OTQyLC0yMDAyNDkwNjU1LC0yODI3ODY5NjIsLTEzMj
-MyNjk1MzQsLTcwMjM0Njg4NCwtNzk4NDgzMTA4LDEzMDIzNjA3
-NDgsNzIyMDk3MDY4XX0=
+eyJoaXN0b3J5IjpbOTE5Njk1NTEzLDIxNDczMjcxNTUsLTMzOT
+k3MDY2NSwtMTkzNTIwNzc3OSwxMTk4MTEzNzMzLDE0MTQ0MzQ0
+NCwtMTgxMDM5MDc5NSwyMDg2NTk0NzQ3LC0xNTcyMTgxMzcyLD
+ExNDE3MzA3OTEsLTIwNjYwNjY2ODIsLTExMzU2NjI5NjIsMTI0
+MzY1ODk0MiwtMjAwMjQ5MDY1NSwtMjgyNzg2OTYyLC0xMzIzMj
+Y5NTM0LC03MDIzNDY4ODQsLTc5ODQ4MzEwOCwxMzAyMzYwNzQ4
+LDcyMjA5NzA2OF19
 -->
