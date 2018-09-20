@@ -301,7 +301,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - **Datasets** this section enables you to perform alignment, set currency formats, group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
 
-- **Legend** it will enable you to change the label for measure value in visualization charts as shown below.
+- **Legend** it will enable the user to label  measure value in visualization charts as shown below.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/49bb2a07efd42d5b6f9a7f648e8f705e5f63bc4d/images/legend_label.png)
@@ -321,8 +321,8 @@ Data section under visualization is enabled based on the data retrieved for fiel
 |  #,##0.00 | Number with comma between thousands and two decimal(1,234.00) |
 |  #,##0.000 | Number with comma between thousands and three decimal(1,234.000) |
 |  ###,###.0 | Number with comma between hundreds and one decimal(123,456.0) |
-|  ###,###.00 | Number with comma between hunderds and two decimal(123,456.00) |
-|  ###,###.000 | Number with comma between hunderds and three decimal(123,456.000) |
+|  ###,###.00 | Number with comma between hundreds and two decimal(123,456.00) |
+|  ###,###.000 | Number with comma between hundreds and three decimal(123,456.000) |
 |  ###.###,0 | Number with dot between hundreds and comma one decimal(123.456,0) |
 |  ###.###,00 | Number with dot between hundreds and comma two decimal(123.456,00) |
 |  ###.###,000 | Number with dot between hundreds and comma three decimal(123.456,0) |
@@ -369,11 +369,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzY3NTgxNywtOTMzMjEzOTc5LDM3Nz
-QyNDQzNiwxNjU4NjI3NjA5LDE2ODMzNDI5MDUsNjY3ODU5MTM5
-LDkxMDM4NjQ0NCwxOTQwNjcwMTMwLC0xMTc4MTQ5OTI3LC0xND
-M1NzU0NjQ1LC0xMjQ1MjgwMzQ5LDI5MTkyNjk2NCwxMTU4NzY0
-MDk1LC0xMTkzOTc0NjMwLC02MjQ4MzU4NTMsLTUzNjEyMTEwMC
-wzMjQ1NjI1OTQsMzgyOTA0MTE2LC0xODgyNTIzNzcwLC03NDU1
-OTQ2OTVdfQ==
+eyJoaXN0b3J5IjpbMTM0NTk5NTQ2LC05MzMyMTM5NzksMzc3ND
+I0NDM2LDE2NTg2Mjc2MDksMTY4MzM0MjkwNSw2Njc4NTkxMzks
+OTEwMzg2NDQ0LDE5NDA2NzAxMzAsLTExNzgxNDk5MjcsLTE0Mz
+U3NTQ2NDUsLTEyNDUyODAzNDksMjkxOTI2OTY0LDExNTg3NjQw
+OTUsLTExOTM5NzQ2MzAsLTYyNDgzNTg1MywtNTM2MTIxMTAwLD
+MyNDU2MjU5NCwzODI5MDQxMTYsLTE4ODI1MjM3NzAsLTc0NTU5
+NDY5NV19
 -->
