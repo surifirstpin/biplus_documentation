@@ -3,24 +3,23 @@
 
 # TURN YOUR INSIGHTS INTO ACTIONS
 
-## AcuBi Provides A Single, Integrated Enterprise Analytics Platform By Delivering Faster And Better Insights For The Whole Business, Regardless Any Action Or Industry.
+AcuBi Provides A Single, Integrated Enterprise Analytics Platform By Delivering Faster And Better Insights For The Whole Business, Regardless Any Action Or Industry.
 
 # TURN DATA INTO OPPORTUNITY IN HAND  
 
-## Check Out How Our Business Intelligence Products And Applications Can Help You In Achieving Better Decision Making At Every Level Of Your Organization.
+ Check Out How Our Business Intelligence Products And Applications Can Help You In Achieving Better Decision Making At Every Level Of Your Organization.
 
 # CREATE BEAUTIFUL DASHBOARDS AND VISUALIZATIONS IN MINUTES
 
-## Start Transforming Your Data Into Live Dashboards And Reports In Minutes, By Helping You To Find Answers To Your Most Important Business Queries.
+Start Transforming Your Data Into Live Dashboards And Reports In Minutes, By Helping You To Find Answers To Your Most Important Business Queries.
 
 # MULTI DEVICE ACCESSIBILITY  
 **DESKTOP****MOBILE****TABLET**
 
-## It Provides Flexibility Of Getting Connected To Data From Desktop,Tablet And Mobile Devices Where Ever You Are.
+It Provides Flexibility Of Getting Connected To Data From Desktop,Tablet And Mobile Devices Where Ever You Are.
 
 # WHY  AcuBi 
-
-## It Is Business Analytical Tool That Provides A Standard Insights Throughout The Organization And Streamline The Process By Providing An Ability To Use Live Data By Predicting Needs Of The Business.
+ It Is Business Analytical Tool That Provides A Standard Insights Throughout The Organization And Streamline The Process By Providing An Ability To Use Live Data By Predicting Needs Of The Business.
 
 # HIGH QUALITY DATA ANALYTICS AND REPORTING FOR ALL
 
@@ -172,6 +171,6 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTgyMzI0OSwxNTI5OTU5OTE3LDEwOD
-E4MTQ0NDcsMTM3NTMxNjI1M119
+eyJoaXN0b3J5IjpbLTU3OTk0Mzc1MSwtNzQxODIzMjQ5LDE1Mj
+k5NTk5MTcsMTA4MTgxNDQ0NywxMzc1MzE2MjUzXX0=
 -->
