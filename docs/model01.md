@@ -90,14 +90,14 @@ Depending on the table joins applied the code is retrieved in JSON format. To re
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/119fba7d6d3e4b7292a732f554eaf74d3270d668/images/model_new1.png)
 
-**8.** To view list of models and views click on **angle double right** Icon.
+**8.** To view list of models and views click on **angle double right** icon.
 
-**9.** To save the model click on save button.
+**9.** To save the model click on **Save** button.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/2f6c93abe9911466191907d22275ea75f778c0e4/images/model_new2.png)
 
-Model Customization can be done among views in the following ways.
+**Customization for a model can be done among the views in the following ways :**
 
 -  A new mapping or relation can be defined among views based on a specific condition.
 
@@ -670,7 +670,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTU2MTQ2NSwyMTQ3MzI3MTU1LC0zMz
+eyJoaXN0b3J5IjpbLTI5MTkxMTcwMiwyMTQ3MzI3MTU1LC0zMz
 k5NzA2NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMywxNDE0NDM0
 NDQsLTE4MTAzOTA3OTUsMjA4NjU5NDc0NywtMTU3MjE4MTM3Mi
 wxMTQxNzMwNzkxLC0yMDY2MDY2NjgyLC0xMTM1NjYyOTYyLDEy
