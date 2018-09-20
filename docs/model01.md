@@ -79,11 +79,11 @@ After saving a project, BiPlus will display the views and relevant information o
 After Saving a project, model screen is triggered as shown in below image.
 Depending on the table joins applied the code is retrieved in JSON format. To refresh the data, click on the refresh icon of model, project and tables.
 
-**4.**  To undo the changes done for the code established in json format click  **Undo** icon.
+**4.**  To undo the changes done click **Undo**.
 
-**5.**  To redo the changes done for the code established in json format click  **Redo** icon.
+**5.**  To redo the changes click  **Redo**.
 
-**6.** To format the Code according to proper alignment click on **Format Code** Icon.
+**6.** To format the code according to proper alignment, click **Format Code**.
 
 **7.**  To hide list of model and views visible click on **angle double left** Icon.
 
@@ -670,11 +670,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU1Njk1MjMsMjE0NzMyNzE1NSwtMz
-M5OTcwNjY1LC0xOTM1MjA3Nzc5LDExOTgxMTM3MzMsMTQxNDQz
-NDQ0LC0xODEwMzkwNzk1LDIwODY1OTQ3NDcsLTE1NzIxODEzNz
-IsMTE0MTczMDc5MSwtMjA2NjA2NjY4MiwtMTEzNTY2Mjk2Miwx
-MjQzNjU4OTQyLC0yMDAyNDkwNjU1LC0yODI3ODY5NjIsLTEzMj
-MyNjk1MzQsLTcwMjM0Njg4NCwtNzk4NDgzMTA4LDEzMDIzNjA3
-NDgsNzIyMDk3MDY4XX0=
+eyJoaXN0b3J5IjpbMTYyOTU2MTQ2NSwyMTQ3MzI3MTU1LC0zMz
+k5NzA2NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMywxNDE0NDM0
+NDQsLTE4MTAzOTA3OTUsMjA4NjU5NDc0NywtMTU3MjE4MTM3Mi
+wxMTQxNzMwNzkxLC0yMDY2MDY2NjgyLC0xMTM1NjYyOTYyLDEy
+NDM2NTg5NDIsLTIwMDI0OTA2NTUsLTI4Mjc4Njk2MiwtMTMyMz
+I2OTUzNCwtNzAyMzQ2ODg0LC03OTg0ODMxMDgsMTMwMjM2MDc0
+OCw3MjIwOTcwNjhdfQ==
 -->
