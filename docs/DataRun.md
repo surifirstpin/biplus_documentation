@@ -211,7 +211,7 @@ To hide pivoted data 1st column in visualization, choose pivot hide first, to hi
 
 ## Pin or Remove Pin
 
-To freeze the column field values while scrolling the data to right or left, click on **Pin** in field drop down provided and to release the same click on **Remove Pin.**
+To freeze the column field values while scrolling the data from right or left, click **Pin** in field drop down provided and to release the same click **Remove Pin.**
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/83983da3cd4f0b19f0ed84550fc2151b0619fc36/images/pin.png)
@@ -369,11 +369,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzEwMzk5MSwxNjU4NjI3NjA5LDE2OD
-MzNDI5MDUsNjY3ODU5MTM5LDkxMDM4NjQ0NCwxOTQwNjcwMTMw
-LC0xMTc4MTQ5OTI3LC0xNDM1NzU0NjQ1LC0xMjQ1MjgwMzQ5LD
-I5MTkyNjk2NCwxMTU4NzY0MDk1LC0xMTkzOTc0NjMwLC02MjQ4
-MzU4NTMsLTUzNjEyMTEwMCwzMjQ1NjI1OTQsMzgyOTA0MTE2LC
-0xODgyNTIzNzcwLC03NDU1OTQ2OTUsMTk0NTMyODAyMyw2ODU2
-NzU4MTddfQ==
+eyJoaXN0b3J5IjpbODk3MzcxNDMyLDE2NTg2Mjc2MDksMTY4Mz
+M0MjkwNSw2Njc4NTkxMzksOTEwMzg2NDQ0LDE5NDA2NzAxMzAs
+LTExNzgxNDk5MjcsLTE0MzU3NTQ2NDUsLTEyNDUyODAzNDksMj
+kxOTI2OTY0LDExNTg3NjQwOTUsLTExOTM5NzQ2MzAsLTYyNDgz
+NTg1MywtNTM2MTIxMTAwLDMyNDU2MjU5NCwzODI5MDQxMTYsLT
+E4ODI1MjM3NzAsLTc0NTU5NDY5NSwxOTQ1MzI4MDIzLDY4NTY3
+NTgxN119
 -->
