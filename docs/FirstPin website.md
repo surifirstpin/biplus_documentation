@@ -36,7 +36,7 @@ Enable users to turn their raw data into actionable information by simplifying t
 
 #### Better Insights across all Domains
 
-Acubi Streamline workforce Planning, performance tracking, Analysis and improves the quality in a dynamic regulatory environment for all domains.
+BiPlus Streamline workforce Planning, performance tracking, Analysis and improves the quality in a dynamic regulatory environment for all domains.
 
 # **BiPlus** IN ACTION
 
@@ -56,7 +56,7 @@ Get a powerful BI tool installed within your own product, application, portal, o
 
 #### Smarter Visualization
 
-Acubi delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
+BiPlus delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
 
 #### Beautiful Dashboards
 
@@ -64,13 +64,13 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
 
 #### Customer Success
 
-When it comes to business establishment and success, Acubi software is an innovation that has ability to share and collaborate ideas efficiently.
+When it comes to business establishment and success, BiPlus software is an innovation that has ability to share and collaborate ideas efficiently.
 
 # FASTER AND SMARTER DECISION MAKING
 
 #### Benefits of Live Data
 
-Acubi retrieves the most recent data and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time in data management.
+BiPlus retrieves the most recent data and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time in data management.
 
 #### Data Manipulation
 
@@ -86,13 +86,13 @@ It is one of the best software platform that consistently Join Business intellig
 
 #### Deployment
 
-With Acubi you have flexibility to integrate into your existing data infrastructure, no matter where it is either on-premise or in the cloud.
+With BiPlus you have flexibility to integrate into your existing data infrastructure, no matter where it is either on-premise or in the cloud.
 
 #### Speed
 
-The component has been designed in such a way, that it ensure maximum speed and high performance by making calculation part more easy, with the help of powerful math engine in Acubi.
+The component has been designed in such a way, that it ensure maximum speed and high performance by making calculation part more easy, with the help of powerful math engine in BiPlus.
 
-# **AcuBi** ADVANTAGES
+# **BiPlus** ADVANTAGES
 
 ## Analyse
 
@@ -114,25 +114,25 @@ It is integrated into current software very easily and allows you to re-brand th
 
 ## Simple
 
-Acubi has an ability to transform the complex data into meaningful insights and performs in-depth analyses with utmost simplicity.
+BiPlus has an ability to transform the complex data into meaningful insights and performs in-depth analyses with utmost simplicity.
 
 [More info](http://192.168.0.7/Biplus_timer_website/#)
 
 ## Secure
 
-Acubi security is built to ensure that your data is safe and secure, by providing 100% data protection on all devices.
+BiPlus security is built to ensure that your data is safe and secure, by providing 100% data protection on all devices.
 
 [More info](http://192.168.0.7/Biplus_timer_website/#)
 
 ## Scalable
 
-From one users to many, Acubi scales seamlessly to meet your growing BI needs and progress to a new hardware easily or add more connection for increased redundancy and scope.
+From one users to many, BiPlus scales seamlessly to meet your growing BI needs and progress to a new hardware easily or add more connection for increased redundancy and scope.
 
 [More info](http://192.168.0.7/Biplus_timer_website/#)
 
 ## Self-Serve
 
-Anyone can use Acubi to analyze, search, visualize, interact intuitively and get entrusted with the right insights.
+Anyone can use BiPlus to analyze, search, visualize, interact intuitively and get entrusted with the right insights.
 
 [More info](http://192.168.0.7/Biplus_timer_website/#)
 
@@ -142,7 +142,7 @@ It doesn’t matters what type of data you want to explore or where it stays, yo
 
 ## SOLUTIONS
 
-Lets see how all the Business platforms use AcuBi to drive insight and innovate decisions. Browse by function and industry.
+Lets see how all the Business platforms use BiPlus to drive insight and innovate decisions. Browse by function and industry.
 
 
 #### Sales
@@ -171,7 +171,7 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjE0NjcyMiwtNTc5OTQzNzUxLC03ND
-E4MjMyNDksMTUyOTk1OTkxNywxMDgxODE0NDQ3LDEzNzUzMTYy
-NTMsMTAwOTMyMTM1MF19
+eyJoaXN0b3J5IjpbLTEyNDk1NjkzODQsLTU3OTk0Mzc1MSwtNz
+QxODIzMjQ5LDE1Mjk5NTk5MTcsMTA4MTgxNDQ0NywxMzc1MzE2
+MjUzLDEwMDkzMjEzNTBdfQ==
 -->
