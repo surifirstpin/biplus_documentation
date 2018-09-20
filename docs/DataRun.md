@@ -111,7 +111,7 @@ The data can also be retrieved based on the applied hidden filters.
 
 **To carry out this function you can follow the following steps:**
 
-**a.** Apply hidden filters to data fields in dimensions.
+**a.** Apply hidden filters, to data fields in dimensions.
 
 **b.** Fields to which hidden filters applied are visible in filter expression of filter section.
 
@@ -373,11 +373,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDY3MDEzMCwtMTE3ODE0OTkyNywtMT
-QzNTc1NDY0NSwtMTI0NTI4MDM0OSwyOTE5MjY5NjQsMTE1ODc2
-NDA5NSwtMTE5Mzk3NDYzMCwtNjI0ODM1ODUzLC01MzYxMjExMD
-AsMzI0NTYyNTk0LDM4MjkwNDExNiwtMTg4MjUyMzc3MCwtNzQ1
-NTk0Njk1LDE5NDUzMjgwMjMsNjg1Njc1ODE3LDgxODg2NjU2Ny
-wyNDkzMDk1MDEsLTQ1MjE0OTQ0OCwtNjM4MzQzODQwLDIwODc1
-OTEzMTFdfQ==
+eyJoaXN0b3J5IjpbLTM2MDM5NzY5MiwxOTQwNjcwMTMwLC0xMT
+c4MTQ5OTI3LC0xNDM1NzU0NjQ1LC0xMjQ1MjgwMzQ5LDI5MTky
+Njk2NCwxMTU4NzY0MDk1LC0xMTkzOTc0NjMwLC02MjQ4MzU4NT
+MsLTUzNjEyMTEwMCwzMjQ1NjI1OTQsMzgyOTA0MTE2LC0xODgy
+NTIzNzcwLC03NDU1OTQ2OTUsMTk0NTMyODAyMyw2ODU2NzU4MT
+csODE4ODY2NTY3LDI0OTMwOTUwMSwtNDUyMTQ5NDQ4LC02Mzgz
+NDM4NDBdfQ==
 -->
