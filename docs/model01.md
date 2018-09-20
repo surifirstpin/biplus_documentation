@@ -23,7 +23,7 @@ A model is a customized gateway into the database for accessing data as per busi
 
 -   **Project Name**  Enter the project name.
     
--   **Connection**  Select the database connection from the list provided.
+-   **Connection**  Choose the database connection from the drop-down list provided.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model2.png)
@@ -670,11 +670,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTk3MDY2NSwtMTkzNTIwNzc3OSwxMT
-k4MTEzNzMzLDE0MTQ0MzQ0NCwtMTgxMDM5MDc5NSwyMDg2NTk0
-NzQ3LC0xNTcyMTgxMzcyLDExNDE3MzA3OTEsLTIwNjYwNjY2OD
-IsLTExMzU2NjI5NjIsMTI0MzY1ODk0MiwtMjAwMjQ5MDY1NSwt
-MjgyNzg2OTYyLC0xMzIzMjY5NTM0LC03MDIzNDY4ODQsLTc5OD
-Q4MzEwOCwxMzAyMzYwNzQ4LDcyMjA5NzA2OCwyMDgxMTUyMzM2
-LDk1MDI5ODY5XX0=
+eyJoaXN0b3J5IjpbLTEwNjcwNTY4NzgsLTMzOTk3MDY2NSwtMT
+kzNTIwNzc3OSwxMTk4MTEzNzMzLDE0MTQ0MzQ0NCwtMTgxMDM5
+MDc5NSwyMDg2NTk0NzQ3LC0xNTcyMTgxMzcyLDExNDE3MzA3OT
+EsLTIwNjYwNjY2ODIsLTExMzU2NjI5NjIsMTI0MzY1ODk0Miwt
+MjAwMjQ5MDY1NSwtMjgyNzg2OTYyLC0xMzIzMjY5NTM0LC03MD
+IzNDY4ODQsLTc5ODQ4MzEwOCwxMzAyMzYwNzQ4LDcyMjA5NzA2
+OCwyMDgxMTUyMzM2XX0=
 -->
