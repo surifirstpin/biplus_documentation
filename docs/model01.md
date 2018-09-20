@@ -28,7 +28,7 @@ A model is a customized gateway into the database for accessing data as per busi
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model2.png)
 
-- **Database** Select the database for configuration from databases section. All the selected databases are visible under **Selected Databases** section.
+- **Database** Choose the databases for configuration from databases section. All the selected databases are visible under **Selected Databases** section.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model3.png)
 
@@ -670,7 +670,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjcwNTY4NzgsLTMzOTk3MDY2NSwtMT
+eyJoaXN0b3J5IjpbLTE4MDMxMjY5ODIsLTMzOTk3MDY2NSwtMT
 kzNTIwNzc3OSwxMTk4MTEzNzMzLDE0MTQ0MzQ0NCwtMTgxMDM5
 MDc5NSwyMDg2NTk0NzQ3LC0xNTcyMTgxMzcyLDExNDE3MzA3OT
 EsLTIwNjYwNjY2ODIsLTExMzU2NjI5NjIsMTI0MzY1ODk0Miwt
