@@ -1,7 +1,7 @@
 
 <center><h1>Tag Structure</h1></center>
 
-Tag structure in BiPlus, it is a nested layered structure that provides an opportunity to save a report in any of the hierarchical tag location. Depending on your business requirements, you can create number of parent and child tags in order to save the reports generated.
+Tag structure in AcuBi, it is a nested layered structure that provides an opportunity to save a report in any of the hierarchical tag location. Depending on your business requirements, you can create number of parent and child tags in order to save the reports generated.
 
 **For Instance :** If you have total 200 reports on customer information and salary information, For which you can create two layers of tag structure, one to save reports on customer information and other to save reports on sales information separately for easy accessing.
 
@@ -47,8 +47,8 @@ Use setting icon, available at far right of the tag created to **Edit, Delete** 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cebf774f6f7807b17ff6d702c0f86d83d3e96e1e/images/child_tag_in%20parent.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTU5Njk3OCwtMTU1NDIzODY4LC03MD
-I4MjMzMjgsLTE2MDA1MjM2OTEsNzEzNTI2OTksLTEyNDk4MzYw
-NDIsMjI0NjE2NTA5LDc5NDE1MjEyNywtNjUyODI1NDQxLC0zMj
-g1MjI2ODNdfQ==
+eyJoaXN0b3J5IjpbLTE2MzI5NDM4NDcsMTE2NTU5Njk3OCwtMT
+U1NDIzODY4LC03MDI4MjMzMjgsLTE2MDA1MjM2OTEsNzEzNTI2
+OTksLTEyNDk4MzYwNDIsMjI0NjE2NTA5LDc5NDE1MjEyNywtNj
+UyODI1NDQxLC0zMjg1MjI2ODNdfQ==
 -->
