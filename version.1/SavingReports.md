@@ -42,18 +42,18 @@ Filter are used to extract only specific data you want to view. This function is
 
 ## Enable Cache 
 
-Cache saves the data, to pull the data with inspecific time limit.
+Cache saves the data, to pull the data with in specific time limit.
 
 - **Enable cache** multiple users can pull the report from the cache in given time frame.
 
 - **Time frame** Enables a time limit.
 
-- **Repeat every** Enables automatic repeat in specified time range.
+- **Repeat every** Enables automatic repeat with specified time range.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NjAyNzk2MSwxOTgyNTU2MTAsNzM2Nz
-M2Nzc4LDM2NTcxOTY4MywxOTIzMDc3OTEyLC04ODg5NTg4NTgs
-LTMzNzI2MjAyXX0=
+eyJoaXN0b3J5IjpbNzQ1ODQ5NDQsMTk4MjU1NjEwLDczNjczNj
+c3OCwzNjU3MTk2ODMsMTkyMzA3NzkxMiwtODg4OTU4ODU4LC0z
+MzcyNjIwMl19
 -->
