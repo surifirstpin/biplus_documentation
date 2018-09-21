@@ -359,7 +359,7 @@ Where condition is an expression on the fields of self view and Expression_1, Ex
  "sql": "(case when (condition) then Expression_1 else Expression_2 end) "
 ```
 
-Where condition is an expression can be on the fields of self view or mapped view and Expression_1, Expression_2 are expressions which include fields of self view or mapped view.
+Where condition is an expression defined on the fields of self view or mapped view and Expression_1, Expression_2 are expressions which include fields of self view or mapped view.
 
 > **For Instance:** 
   “sql”: “(CASE WHEN (${[Customers.ID](http://customers.id/)} is not null) THEN ${TABLE}.Amount ELSE 0 END)”
@@ -368,7 +368,6 @@ Where condition is an expression can be on the fields of self view or mapped vie
 
 ```
    "sql": "(${TABLE}.Field * ${DB}.function_name(parameters)) "
-
 ```
 
 > **Example**  “sql” : “(${TABLE}.Amount  KaTeX parse error: Expected 'EOF', got '​' at position 51: …te(DB.exchanger​̲ate({TABLE}.OrderDate,${TABLE}.CurrencyID))”
@@ -656,11 +655,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjIxNjcxMjAsLTE3Mjc0MzUyMjAsND
-c1OTEwMzgwLDEwMTEwNTczNzUsNzEzMjc1NDI4LDc2ODQ1ODY4
-NSwyMDQ4NzgxMzMyLC0xNDA2Njg5OTYwLC01MTQ5MzYxMjgsMT
-kyMzA4OTg3NSwtNTU3OTIyNDA3LDIxNDczMjcxNTUsLTMzOTk3
-MDY2NSwtMTkzNTIwNzc3OSwxMTk4MTEzNzMzLDE0MTQ0MzQ0NC
-wtMTgxMDM5MDc5NSwyMDg2NTk0NzQ3LC0xNTcyMTgxMzcyLDEx
-NDE3MzA3OTFdfQ==
+eyJoaXN0b3J5IjpbLTQ5ODMyNDA5NiwtMTcyNzQzNTIyMCw0Nz
+U5MTAzODAsMTAxMTA1NzM3NSw3MTMyNzU0MjgsNzY4NDU4Njg1
+LDIwNDg3ODEzMzIsLTE0MDY2ODk5NjAsLTUxNDkzNjEyOCwxOT
+IzMDg5ODc1LC01NTc5MjI0MDcsMjE0NzMyNzE1NSwtMzM5OTcw
+NjY1LC0xOTM1MjA3Nzc5LDExOTgxMTM3MzMsMTQxNDQzNDQ0LC
+0xODEwMzkwNzk1LDIwODY1OTQ3NDcsLTE1NzIxODEzNzIsMTE0
+MTczMDc5MV19
 -->
