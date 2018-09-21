@@ -68,7 +68,7 @@ In your query result you can view the data in ascending or descending order by a
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section. the dialects used for creating a derived view should be same as in SQL runner.
 
-To get started with derived view, Click on List icon and Select Create Derived View.
+To get started with derived view, Click on list icon and Select Create Derived View.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/derived%201.png)
@@ -92,11 +92,11 @@ To view the newly created derived view. Goto Model section under the views list 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTI3ODA3LDQ4NTY1MzU5NCwxOTc4OD
-IwNzMwLDc1OTMyODk0NiwtNDQ4MTQ2MDk2LDE5MTMwMTk0NzQs
-NDE5MDQwMDc3LC02ODMyNzkwMzgsLTEwODgzMjMzOTMsMTgxND
-E0Mjc3MiwxNDY0MTg2MjExLDE4ODM5NTczMTksLTI0MDExMDU4
-NSwtNjM3MTM0MzUxLC00MTM4NTQ3OCwxNTg3NTQxNzkzLDE2Mj
-M4MzU1NDQsNTY5NzYxNiw1OTU3NTE5NDgsNTk2OTE1Nzk0XX0=
+eyJoaXN0b3J5IjpbLTYyOTAzNDkxMSwtMzE1Mjc4MDcsNDg1Nj
+UzNTk0LDE5Nzg4MjA3MzAsNzU5MzI4OTQ2LC00NDgxNDYwOTYs
+MTkxMzAxOTQ3NCw0MTkwNDAwNzcsLTY4MzI3OTAzOCwtMTA4OD
+MyMzM5MywxODE0MTQyNzcyLDE0NjQxODYyMTEsMTg4Mzk1NzMx
+OSwtMjQwMTEwNTg1LC02MzcxMzQzNTEsLTQxMzg1NDc4LDE1OD
+c1NDE3OTMsMTYyMzgzNTU0NCw1Njk3NjE2LDU5NTc1MTk0OF19
 
 -->
