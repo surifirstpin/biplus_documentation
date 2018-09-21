@@ -1,6 +1,6 @@
 <center><h1>Model</h1></center>
 
-A model is a customized gateway into the database for accessing data as per business logic. BiPlus provides an IDE, which allows mappings between views (database tables) and apply several filters on the data as per business requirement. It is designed in such a way that it provides a spontaneous data analysis to specific business users.
+A model is a customized gateway into the database for accessing data as per business logic. AcuBi provides an IDE, which allows mappings between views (database tables) and apply several filters on the data as per business requirement. It is designed in such a way that it provides a spontaneous data analysis to specific business users.
 
 **A Model can be defined in 3 steps :**
 
@@ -115,7 +115,7 @@ Depending on the table joins applied the code is retrieved in JSON format. To re
 |   | explore | displays the views (the tables selected in the project) with the selected characteristics |
 |  2 | **For View** |  |
 |   | name | name of the table used in database |
-|   | label | allows you to customize the display name of the view in BiPlus |
+|   | label | allows you to customize the display name of the view in AcuBi|
 |   | filters | the list of filters to be applied on the data from the view and respective mapped views defined in the 'joins"section |
 |   | joins | specifies the list of associated views which are mapped with the current view & mention the mapping criteria |
 |  2A | **Filter characteristics** | Filters can be date-based, string-based, value-based & user-based |
@@ -166,7 +166,7 @@ To filter data from a view and the respective mapping views, the filter criteria
 ```
 ROOT.BI_Orders.Amount IS NOT NULL
 ```
--   **User-based :**  BiPlus allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users i.e for a particular user login, the data retrievable in analyze section will be constrained with a list of pre-defined values.
+-   **User-based :** AcuBi allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users i.e for a particular user login, the data retrievable in analyze section will be constrained with a list of pre-defined values.
 ```
  " DB.TABLE.COLUMN IN (#{GlobalParam.Ref_field,#userid#,gp_username_field})" 
 ```
@@ -208,7 +208,7 @@ ROOT.BI_Orders.Amount IS NOT NULL
 
 Views are independent tables chosen while creating a project. All the columns in the table are called fields of view and will be adopted with relevant features.
 
-**BiPlus allows various actions to performed in views as follows:**
+**AcuBi allows various actions to performed in views as follows:**
 
 -  Creating a new field (User Defined Fields).
 
@@ -226,7 +226,7 @@ The Associated keywords with the views are flowing :
 
 |  **S. No** | **Name** | **Identifier of a custom field** |
 |  :------ | :------: | :------: |
-|  1 | label | allows to customize the display name of the view in BiPlus |
+|  1 | label | allows to customize the display name of the view in AcuBi |
 |  2 | data_type | the outcome of the field from database it can be string, date or number |
 |  3 | type | either of the two values dimension or measure, string and date belongs to dimension and number belongs to measure |
 |  4 | time_frame | feature that extract different formats from the date field, for instance: hour,day,week, month quarter; year, date. week_day,date_ month date_quarter date_hour, year_week |
@@ -244,7 +244,7 @@ The Associated keywords with the views are flowing :
 
 **Among the above stated list, the following are the special attributes for user convenience :**
 
-**I.**  **lookup and operator :**  Using “lookup” feature, BiPlus allows you to define a set of filter values for a field. The assignment can be made in the following two ways:
+**I.**  **lookup and operator :**  Using “lookup” feature, AcuBi allows you to define a set of filter values for a field. The assignment can be made in the following two ways:
 
 -   **Query**  an sql query returning a set of values can be written in **“lookup”** for a field. It will be useful if the filter values are large in number and becomes tedious to mention all of them as a list.
 ```
@@ -255,7 +255,7 @@ The Associated keywords with the views are flowing :
 > **For Instance** :
  “lookup” : “Antonio, Bessanio, Portia”
 
--   **Operator**  Sometimes, data to be retrieved from multiple filter values. BiPlus provides an option associated with lookup which can be defined to select single or multiple filter values. For selecting more than one filter value, operator should be defined as **“multiple”** or else leave it empty.
+-   **Operator**  Sometimes, data to be retrieved from multiple filter values. AcuBi provides an option associated with lookup which can be defined to select single or multiple filter values. For selecting more than one filter value, operator should be defined as **“multiple”** or else leave it empty.
 
 ```
 operator:"",                        **Single operator**
@@ -296,14 +296,14 @@ Consider Number = 12345679
 |  21 | #K | 12345 678566999999k |
 |  22 | #M | 12.345678567IM |
 
--   **Currency**  BiPlus supports following currency formats “$”, “€”, “£”, “₹”.
+-   **Currency**  AcuBi supports following currency formats “$”, “€”, “£”, “₹”.
 
 ```
 currency : currency_symbol
 ```
  **Example** : “currency” : “$”
 
-**III.**  **Time_frame:** BiPlus provides an option to extract different components associated with time stamp for user convenience.
+**III.**  **Time_frame:** AcuBi provides an option to extract different components associated with time stamp for user convenience.
 
 **Below are the formats adopted by default :**
 
@@ -324,7 +324,7 @@ currency : currency_symbol
 
 ## User Defined Fields (UDF)
 
-BiPlus has an ability to create new fields in a view with all attributes that are applicable to a database field and with return value (“sql” section of the field) as any of the following options:
+AcuBi has an ability to create new fields in a view with all attributes that are applicable to a database field and with return value (“sql” section of the field) as any of the following options:
 
 **1.**  As a resultant of arithmetical operations done on fields of the same view.
 ```
@@ -513,7 +513,7 @@ Custom fields are user defined fields for which we apply arithmetic  and logical
 
 ## Drill-down 
 
-Drill-down is used for exploring the data further with respect to a field value. BiPlus has an ability to define drill option for a field with a set of derivable fields and when clicked on a particular value of an assigned field, the individual records that make up that cell will be displayed by limiting the query with the clicked value.
+Drill-down is used for exploring the data further with respect to a field value. AcuBi has an ability to define drill option for a field with a set of derivable fields and when clicked on a particular value of an assigned field, the individual records that make up that cell will be displayed by limiting the query with the clicked value.
 
 ## Show drill-down measures
 
@@ -645,11 +645,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjQ1ODQwLDE5ODQ5OTQ1MTYsLTQ5OD
-MyNDA5NiwtMTcyNzQzNTIyMCw0NzU5MTAzODAsMTAxMTA1NzM3
-NSw3MTMyNzU0MjgsNzY4NDU4Njg1LDIwNDg3ODEzMzIsLTE0MD
-Y2ODk5NjAsLTUxNDkzNjEyOCwxOTIzMDg5ODc1LC01NTc5MjI0
-MDcsMjE0NzMyNzE1NSwtMzM5OTcwNjY1LC0xOTM1MjA3Nzc5LD
-ExOTgxMTM3MzMsMTQxNDQzNDQ0LC0xODEwMzkwNzk1LDIwODY1
-OTQ3NDddfQ==
+eyJoaXN0b3J5IjpbLTEzMTg3NDA0NzcsMTk4NDk5NDUxNiwtND
+k4MzI0MDk2LC0xNzI3NDM1MjIwLDQ3NTkxMDM4MCwxMDExMDU3
+Mzc1LDcxMzI3NTQyOCw3Njg0NTg2ODUsMjA0ODc4MTMzMiwtMT
+QwNjY4OTk2MCwtNTE0OTM2MTI4LDE5MjMwODk4NzUsLTU1Nzky
+MjQwNywyMTQ3MzI3MTU1LC0zMzk5NzA2NjUsLTE5MzUyMDc3Nz
+ksMTE5ODExMzczMywxNDE0NDM0NDQsLTE4MTAzOTA3OTUsMjA4
+NjU5NDc0N119
 -->
