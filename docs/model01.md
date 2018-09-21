@@ -541,11 +541,11 @@ BiPlus provides an additional attribute to drill down as  **Show drill down meas
  “visualise”: “true”  
  }
 ```
-In the above example, Drill down option is defined over field “State Name” with two fields of self view City Name, No_of_Employees. On Clicking on any of “State Name”, then filter will be applied on that value and relevant values of fields “City Name” and “No_of_Employees” will be displayed.
+In the above example, Drill down option is defined over field “**State Name**” with two fields of self view City Name, No_of_Employees. On Clicking on any of “State Name”, then filter will be applied on that value and relevant values of fields **“City Name”** and **“No_of_Employees”** will be displayed.
 
 As  **Show drill down measures**  is set  **TRUE**, the associated measures (if exists) of the field “State Name” will also be brought to the next stage along with drill fields City Name and No_of_Employees.
 
-### Maps
+# Maps
 
 BiPlus provides map view by covering various number of countries. Also, there are special attributes like colour change for specific range of values.
  **For Model, Views and for a specific field the map co-ordinates  may be assigned as follows :**
@@ -651,7 +651,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTcyNTM3NCwxOTg0OTk0NTE2LC00OT
+eyJoaXN0b3J5IjpbLTYzNTM0ODc3MCwxOTg0OTk0NTE2LC00OT
 gzMjQwOTYsLTE3Mjc0MzUyMjAsNDc1OTEwMzgwLDEwMTEwNTcz
 NzUsNzEzMjc1NDI4LDc2ODQ1ODY4NSwyMDQ4NzgxMzMyLC0xND
 A2Njg5OTYwLC01MTQ5MzYxMjgsMTkyMzA4OTg3NSwtNTU3OTIy
