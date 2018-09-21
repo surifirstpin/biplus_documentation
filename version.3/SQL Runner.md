@@ -14,20 +14,19 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 ## Create SQL Query in SQL Runner
 
-**1.** After logging into AcuBi homepage, Click on SQL Runner section.
+**1.** After logging into AcuBi, Click SQL Runner section.
 
 **2.**  Type your SQL command in SQL query area.
 
 **3.**  Now **Run** the query.
 
-**4.** The data is retrieved below the query area as shown in the image. SQL runner will load up-to limit 5000 records only.
+**4.** The data retrieved below the query area as shown in the image. SQL runner will load up-to limit 5000 records only.
 
-**5.** Click on **Download** to download the data retrieved.
+**5.** Click **Download** to download the data retrieved.
 
 **6.** After Running the query it displays the **Query Time** taken to run the query and **Number of rows** fetched.
 
 **7.** A maximum **Record limit** of 5000 can be fetched at a time.
-
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ce8e9fc79b080f9de55ebc3627f8c1f071efd6d5/images/sql_runner.png)
@@ -93,11 +92,11 @@ To view the newly created derived view. Goto Model section under the views list 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1NjUzNTk0LDE5Nzg4MjA3MzAsNzU5Mz
-I4OTQ2LC00NDgxNDYwOTYsMTkxMzAxOTQ3NCw0MTkwNDAwNzcs
-LTY4MzI3OTAzOCwtMTA4ODMyMzM5MywxODE0MTQyNzcyLDE0Nj
-QxODYyMTEsMTg4Mzk1NzMxOSwtMjQwMTEwNTg1LC02MzcxMzQz
-NTEsLTQxMzg1NDc4LDE1ODc1NDE3OTMsMTYyMzgzNTU0NCw1Nj
-k3NjE2LDU5NTc1MTk0OCw1OTY5MTU3OTQsLTY5NjM0Nzk3N119
-
+eyJoaXN0b3J5IjpbLTExODkwMzAyMzQsNDg1NjUzNTk0LDE5Nz
+g4MjA3MzAsNzU5MzI4OTQ2LC00NDgxNDYwOTYsMTkxMzAxOTQ3
+NCw0MTkwNDAwNzcsLTY4MzI3OTAzOCwtMTA4ODMyMzM5MywxOD
+E0MTQyNzcyLDE0NjQxODYyMTEsMTg4Mzk1NzMxOSwtMjQwMTEw
+NTg1LC02MzcxMzQzNTEsLTQxMzg1NDc4LDE1ODc1NDE3OTMsMT
+YyMzgzNTU0NCw1Njk3NjE2LDU5NTc1MTk0OCw1OTY5MTU3OTRd
+fQ==
 -->
