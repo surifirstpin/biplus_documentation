@@ -247,10 +247,9 @@ The Associated keywords with the views are flowing :
 **I.**  **lookup and operator :**  Using “lookup” feature, BiPlus allows you to define a set of filter values for a field. The assignment can be made in the following two ways:
 
 -   **Query**  an sql query returning a set of values can be written in “lookup” for a field. It will be useful if the filter values are large in number and becomes tedious to mention all of them as a list.
-
-> **For Instance :**
+```
  “lookup” : “SELECT DISTINCT Name FROM ROOT.Employees”
-
+```
 -   **Items**  known set of values can be given with comma separation. It may be useful if the list is small and the items are known exactly to the user.
 
 > **For Instance** :
@@ -668,7 +667,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0NDQ5ODgyLDEwMTEwNTczNzUsNzEzMj
+eyJoaXN0b3J5IjpbNDc1OTEwMzgwLDEwMTEwNTczNzUsNzEzMj
 c1NDI4LDc2ODQ1ODY4NSwyMDQ4NzgxMzMyLC0xNDA2Njg5OTYw
 LC01MTQ5MzYxMjgsMTkyMzA4OTg3NSwtNTU3OTIyNDA3LDIxND
 czMjcxNTUsLTMzOTk3MDY2NSwtMTkzNTIwNzc3OSwxMTk4MTEz
