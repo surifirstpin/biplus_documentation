@@ -59,9 +59,9 @@ A model is a customized gateway into the database for accessing data as per busi
 
 - Click on Projects, select the desired project and hit the **Edit** button.
 
-- After making necessary changes hit **Update.**
+- After making necessary changes hit the **Update** button.
 
-- To cancel the changes made to project click  **Cancel** button.
+- To cancel the changes made to a project hit **Cancel** button.
 
 ## Delete Project
 
@@ -669,7 +669,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDQ5OTEwNywxOTIzMDg5ODc1LC01NT
+eyJoaXN0b3J5IjpbLTIzOTcwNTA5MiwxOTIzMDg5ODc1LC01NT
 c5MjI0MDcsMjE0NzMyNzE1NSwtMzM5OTcwNjY1LC0xOTM1MjA3
 Nzc5LDExOTgxMTM3MzMsMTQxNDQzNDQ0LC0xODEwMzkwNzk1LD
 IwODY1OTQ3NDcsLTE1NzIxODEzNzIsMTE0MTczMDc5MSwtMjA2
