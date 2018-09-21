@@ -216,7 +216,7 @@ Views are independent tables chosen while creating a project. All the columns in
 
 -  Assigning currency & number format for measure fields.
 
--  Extracting different date formats from the date field permissible formats like hour,day,week,month,quarter, year,date, week_day,date_month,date_quarter, date_hour, year_week.
+-  Extracting different date formats from the date field permissible formats like hour, day, week, month, quarter, year, date, week_day, date_month,date_quarter, date_hour, year_week.
 
 -  You can create new custom views.
 -  Assigning drill down fields for a field.
@@ -668,11 +668,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1NDQ2NzEzLDcxMzI3NTQyOCw3Njg0NT
-g2ODUsMjA0ODc4MTMzMiwtMTQwNjY4OTk2MCwtNTE0OTM2MTI4
-LDE5MjMwODk4NzUsLTU1NzkyMjQwNywyMTQ3MzI3MTU1LC0zMz
-k5NzA2NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMywxNDE0NDM0
-NDQsLTE4MTAzOTA3OTUsMjA4NjU5NDc0NywtMTU3MjE4MTM3Mi
-wxMTQxNzMwNzkxLC0yMDY2MDY2NjgyLC0xMTM1NjYyOTYyLDEy
-NDM2NTg5NDJdfQ==
+eyJoaXN0b3J5IjpbMTAxMTA1NzM3NSw3MTMyNzU0MjgsNzY4ND
+U4Njg1LDIwNDg3ODEzMzIsLTE0MDY2ODk5NjAsLTUxNDkzNjEy
+OCwxOTIzMDg5ODc1LC01NTc5MjI0MDcsMjE0NzMyNzE1NSwtMz
+M5OTcwNjY1LC0xOTM1MjA3Nzc5LDExOTgxMTM3MzMsMTQxNDQz
+NDQ0LC0xODEwMzkwNzk1LDIwODY1OTQ3NDcsLTE1NzIxODEzNz
+IsMTE0MTczMDc5MSwtMjA2NjA2NjY4MiwtMTEzNTY2Mjk2Miwx
+MjQzNjU4OTQyXX0=
 -->
