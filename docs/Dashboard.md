@@ -25,7 +25,7 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 
  ## Step 1:  Customize Layout 
    
-Biplus has ability to create multiple report layouts, depending on the requirement. There layout formats are categorized in 2 ways.
+AcuBi has ability to create multiple report layouts, depending on the requirement. There layout formats are categorized in 2 ways.
 - **Flow Layout** in this layout it is provided with a scroll bar option to define your layout appropriately.
 - **Fixed Layout** in this layout all the reports will fit into single screen.
 **a.** To navigate to next page click right arrow.
@@ -85,7 +85,7 @@ You can add different reports to the layout selected, depending on the requireme
 
 **8.**     **Report Listeners** **( Refer image 5)**
 
-  BiPlus has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report 1, it is applicable only on report 1 and report 2 will remain unaffected.
+  AcuBi has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report 1, it is applicable only on report 1 and report 2 will remain unaffected.
 
    -  **Dashboard Report**  selects reports to add filters.
    
@@ -144,7 +144,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 ## Dashboard for Mobile Device
 
-BiPlus make it easier to view the dashboard list, in mobile devices easily and it consist of following features;
+AcuBi make it easier to view the dashboard list, in mobile devices easily and it consist of following features;
 
 - Displays dashboard list.
 - Displays dashboard report data.
@@ -152,7 +152,7 @@ BiPlus make it easier to view the dashboard list, in mobile devices easily and i
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTcwNzEwNjIsMTM3NDUwNzk2MywxNz
+eyJoaXN0b3J5IjpbLTE3MjQ1NjYyMDMsMTM3NDUwNzk2MywxNz
 cwOTA3OTQ3LDE4NjU4MTM0OSwtMzcwMzk5MjE2LDE1MTg4ODE5
 MjEsMTI5Mzc3MTEwOCwyMTQ0NzExOTk0LDE1NDM5MjkyNzIsLT
 E2OTY0MzY3ODEsMTU3MTIyMzUxNywtMTgwODM5Mzk4NSw3OTEx
