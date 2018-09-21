@@ -490,7 +490,7 @@ Custom fields are user defined fields for which we apply arithmetic  and logical
 ```	
 
 - **Name** identifier for the field in custom table.
-- **label**  the way derived field should appear in custom table.
+- **label**  the way derived field should display in custom table.
 - **Data_type** define supporting parameters and string is used as  default parameter while deriving the fields for custom table.
    - **String** for measures that contain letters or special characters.
   - **Date** measures that contain dates.
@@ -503,7 +503,7 @@ Custom fields are user defined fields for which we apply arithmetic  and logical
 
 - **lookup** retrieve list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization).
 - **Operator** is used to retrieve single or multiple values in the filter section while using lookup.
- - **SQL** parameter is used define a valid SQL expression that results in a field value.
+ - **SQL** parameter is used to define a valid SQL expression that results in a field value.
  - **Summary** is used to retrieve the aggregate field values of the measures using the following options,
    - Sum 
    - Count
@@ -653,11 +653,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDk5NDUxNiwtNDk4MzI0MDk2LC0xNz
-I3NDM1MjIwLDQ3NTkxMDM4MCwxMDExMDU3Mzc1LDcxMzI3NTQy
-OCw3Njg0NTg2ODUsMjA0ODc4MTMzMiwtMTQwNjY4OTk2MCwtNT
-E0OTM2MTI4LDE5MjMwODk4NzUsLTU1NzkyMjQwNywyMTQ3MzI3
-MTU1LC0zMzk5NzA2NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMy
-wxNDE0NDM0NDQsLTE4MTAzOTA3OTUsMjA4NjU5NDc0NywtMTU3
-MjE4MTM3Ml19
+eyJoaXN0b3J5IjpbLTE5MTU5OTQ2MjYsMTk4NDk5NDUxNiwtND
+k4MzI0MDk2LC0xNzI3NDM1MjIwLDQ3NTkxMDM4MCwxMDExMDU3
+Mzc1LDcxMzI3NTQyOCw3Njg0NTg2ODUsMjA0ODc4MTMzMiwtMT
+QwNjY4OTk2MCwtNTE0OTM2MTI4LDE5MjMwODk4NzUsLTU1Nzky
+MjQwNywyMTQ3MzI3MTU1LC0zMzk5NzA2NjUsLTE5MzUyMDc3Nz
+ksMTE5ODExMzczMywxNDE0NDM0NDQsLTE4MTAzOTA3OTUsMjA4
+NjU5NDc0N119
 -->
