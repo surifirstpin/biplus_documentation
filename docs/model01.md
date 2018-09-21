@@ -338,17 +338,14 @@ BiPlus has an ability to create new fields in a view with all attributes that ar
 
 ```
 "sql": "(${TABLE}.Field1 arithmetical operation ${Mapped_View.Field})"
-
 ```
 
 >**For Instance:** 
 “sql”: “(${TABLE}.Amount) / ${Customers.Total_number})”
 
-**3.**  As a resultant of logical operations(like case statement) done on fields of the same view.
-
+**3.**  As a resultant of logical operations ( like case statement ) done on fields of the same view.
 ```
  "sql": "(case when (condition) then Expression_1 else Expression_2 end) "
-
 ```
 
 Where condition is an expression on the fields of self view and Expression_1, Expression_2 are expressions which include fields of self view.
@@ -356,11 +353,10 @@ Where condition is an expression on the fields of self view and Expression_1, Ex
 > **For Instance:** 
  “sql”: “(CASE WHEN (${TABLE}.Name is not null) THEN ${TABLE}.Salary ELSE 0 END)”
 
-**4.**  As a resultant of logical operations (like case statement) done on fields of a mapped view.
+**4.**  As a resultant of logical operations ( like case statement ) done on fields of a mapped view.
 
 ```
  "sql": "(case when (condition) then Expression_1 else Expression_2 end) "
-
 ```
 
 Where condition is an expression can be on the fields of self view or mapped view and Expression_1, Expression_2 are expressions which include fields of self view or mapped view.
@@ -660,11 +656,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTE0MDEwMCwtMTcyNzQzNTIyMCw0Nz
-U5MTAzODAsMTAxMTA1NzM3NSw3MTMyNzU0MjgsNzY4NDU4Njg1
-LDIwNDg3ODEzMzIsLTE0MDY2ODk5NjAsLTUxNDkzNjEyOCwxOT
-IzMDg5ODc1LC01NTc5MjI0MDcsMjE0NzMyNzE1NSwtMzM5OTcw
-NjY1LC0xOTM1MjA3Nzc5LDExOTgxMTM3MzMsMTQxNDQzNDQ0LC
-0xODEwMzkwNzk1LDIwODY1OTQ3NDcsLTE1NzIxODEzNzIsMTE0
-MTczMDc5MV19
+eyJoaXN0b3J5IjpbLTEzNjIxNjcxMjAsLTE3Mjc0MzUyMjAsND
+c1OTEwMzgwLDEwMTEwNTczNzUsNzEzMjc1NDI4LDc2ODQ1ODY4
+NSwyMDQ4NzgxMzMyLC0xNDA2Njg5OTYwLC01MTQ5MzYxMjgsMT
+kyMzA4OTg3NSwtNTU3OTIyNDA3LDIxNDczMjcxNTUsLTMzOTk3
+MDY2NSwtMTkzNTIwNzc3OSwxMTk4MTEzNzMzLDE0MTQ0MzQ0NC
+wtMTgxMDM5MDc5NSwyMDg2NTk0NzQ3LC0xNTcyMTgxMzcyLDEx
+NDE3MzA3OTFdfQ==
 -->
