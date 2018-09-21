@@ -246,7 +246,7 @@ The Associated keywords with the views are flowing :
 
 **I.**  **lookup and operator :**  Using “lookup” feature, BiPlus allows you to define a set of filter values for a field. The assignment can be made in the following two ways:
 
--   **Query**  an sql query returning a set of values can be written in “lookup” for a field. It will be useful if the filter values are large in number and becomes tedious to mention all of them as a list.
+-   **Query**  an sql query returning a set of values can be written in **“lookup”** for a field. It will be useful if the filter values are large in number and becomes tedious to mention all of them as a list.
 ```
  “lookup” : “SELECT DISTINCT Name FROM ROOT.Employees”
 ```
@@ -255,15 +255,13 @@ The Associated keywords with the views are flowing :
 > **For Instance** :
  “lookup” : “Antonio, Bessanio, Portia”
 
--   **Operator**  Sometimes, data to be retrieved from multiple filter values. BiPlus provides an option associated with lookup which can be defined to select single or multiple filter values. For selecting more than one filter value, operator should be defined as “multiple” or else leave it empty.
+-   **Operator**  Sometimes, data to be retrieved from multiple filter values. BiPlus provides an option associated with lookup which can be defined to select single or multiple filter values. For selecting more than one filter value, operator should be defined as **“multiple”** or else leave it empty.
 
 ```
 operator:"",                        **Single operator**
-
 ```
 ```
 operator:multiple.                  **Multiple operator**
-
 ```
 **II.**  **Number_format & currency**  for reports convenience, a particular number format and currency can be assigned to a particular field so that whenever the report is created using this field, the number_format and currency will automatically displayed.
 
@@ -667,11 +665,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1OTEwMzgwLDEwMTEwNTczNzUsNzEzMj
-c1NDI4LDc2ODQ1ODY4NSwyMDQ4NzgxMzMyLC0xNDA2Njg5OTYw
-LC01MTQ5MzYxMjgsMTkyMzA4OTg3NSwtNTU3OTIyNDA3LDIxND
-czMjcxNTUsLTMzOTk3MDY2NSwtMTkzNTIwNzc3OSwxMTk4MTEz
-NzMzLDE0MTQ0MzQ0NCwtMTgxMDM5MDc5NSwyMDg2NTk0NzQ3LC
-0xNTcyMTgxMzcyLDExNDE3MzA3OTEsLTIwNjYwNjY2ODIsLTEx
-MzU2NjI5NjJdfQ==
+eyJoaXN0b3J5IjpbLTE3Mjc0MzUyMjAsNDc1OTEwMzgwLDEwMT
+EwNTczNzUsNzEzMjc1NDI4LDc2ODQ1ODY4NSwyMDQ4NzgxMzMy
+LC0xNDA2Njg5OTYwLC01MTQ5MzYxMjgsMTkyMzA4OTg3NSwtNT
+U3OTIyNDA3LDIxNDczMjcxNTUsLTMzOTk3MDY2NSwtMTkzNTIw
+Nzc3OSwxMTk4MTEzNzMzLDE0MTQ0MzQ0NCwtMTgxMDM5MDc5NS
+wyMDg2NTk0NzQ3LC0xNTcyMTgxMzcyLDExNDE3MzA3OTEsLTIw
+NjYwNjY2ODJdfQ==
 -->
