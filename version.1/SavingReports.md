@@ -42,7 +42,7 @@ Filter are used to extract only specific data you want to view. This function is
 
 ## Enable Cache 
 
-Cache saves the data, so the future request for the data is provided faster.
+Cache saves the data, to pull the data with inspecific time limit.
 
 - **Enable cache** multiple users can pull the report from the cache in given time frame.
 
@@ -53,7 +53,7 @@ Cache saves the data, so the future request for the data is provided faster.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTkxNzI3MCwxOTgyNTU2MTAsNzM2Nz
+eyJoaXN0b3J5IjpbMTA1NjAyNzk2MSwxOTgyNTU2MTAsNzM2Nz
 M2Nzc4LDM2NTcxOTY4MywxOTIzMDc3OTEyLC04ODg5NTg4NTgs
 LTMzNzI2MjAyXX0=
 -->
