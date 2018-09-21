@@ -1,6 +1,6 @@
 <center><h1>Tags</h1></center>
 
-BiPlus Provides a nested layered structure by providing you an ability to save the Reports in any of the hierarchical tag location depending on your business requirements. You can create your own number of parent and child tags to save the files.
+AcuBi Provides a nested layered structure by providing you an ability to save the Reports in any of the hierarchical tag location depending on your business requirements. You can create your own number of parent and child tags to save the files.
 
 ## Create a new tag
 
@@ -47,7 +47,8 @@ To **Delete** the tag click on delete icon.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e571af6fdf36fb0e58a5248a84669f5f73f5703f/images/delete_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Mzg5NTgxNCw2MDkyNzAyOCwxMzUzOD
-k1ODE0LDE1MTU1ODIzNzQsLTEyMTA0MDAwMzIsMTc2MTM0NDI0
-NCwtODE2Njg3NjksMTE1NTYyOTQzMyw5OTIzMDM2MTNdfQ==
+eyJoaXN0b3J5IjpbMTk3MjU3OTgyNSwxMzUzODk1ODE0LDYwOT
+I3MDI4LDEzNTM4OTU4MTQsMTUxNTU4MjM3NCwtMTIxMDQwMDAz
+MiwxNzYxMzQ0MjQ0LC04MTY2ODc2OSwxMTU1NjI5NDMzLDk5Mj
+MwMzYxM119
 -->
