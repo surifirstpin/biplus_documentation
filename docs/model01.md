@@ -170,16 +170,16 @@ ROOT.BI_Orders.Amount IS NOT NULL
 ```
  " DB.TABLE.COLUMN IN (#{GlobalParam.Ref_field,#userid#,gp_username_field})" 
 ```
--   **GlobalParam**  the name of the global parameter which contains the user based list of values.
--   **Ref_field**  the column name in global parameter which contains the filter values.
+-   **globalparam**  the name of the global parameter which contains the user based list of values.
+-   **ref_field**  the column name in global parameter which contains the filter values.
 -   **gp_username_field**  the column name in global parameter which contains the usernames.
-
-> **For Instance:**  
+```
 " ROOT.Orders.StationCode IN (#{ModelParams.StationCode,#userid#,Username})"
+```
 
 II.  **Position**  It is the priority of the filter and can be “before” or “after”.
 
--   **Before**  the filter will be applied first to the data, before any other filters on data are applied in Analyze section.
+-   **Before**  the filter will be applied first to the data, before any other filters on data are applied in analyze section.
 -   **After**  the filter will be applied to the data only after other filters are applied in Analyze section.
 
 **2.B. Join Characteristics**
@@ -671,11 +671,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzI1MjcwNCw3Njg0NTg2ODUsMjA0OD
-c4MTMzMiwtMTQwNjY4OTk2MCwtNTE0OTM2MTI4LDE5MjMwODk4
-NzUsLTU1NzkyMjQwNywyMTQ3MzI3MTU1LC0zMzk5NzA2NjUsLT
-E5MzUyMDc3NzksMTE5ODExMzczMywxNDE0NDM0NDQsLTE4MTAz
-OTA3OTUsMjA4NjU5NDc0NywtMTU3MjE4MTM3MiwxMTQxNzMwNz
-kxLC0yMDY2MDY2NjgyLC0xMTM1NjYyOTYyLDEyNDM2NTg5NDIs
-LTIwMDI0OTA2NTVdfQ==
+eyJoaXN0b3J5IjpbLTE1NDE4MjI1NDYsNzY4NDU4Njg1LDIwND
+g3ODEzMzIsLTE0MDY2ODk5NjAsLTUxNDkzNjEyOCwxOTIzMDg5
+ODc1LC01NTc5MjI0MDcsMjE0NzMyNzE1NSwtMzM5OTcwNjY1LC
+0xOTM1MjA3Nzc5LDExOTgxMTM3MzMsMTQxNDQzNDQ0LC0xODEw
+MzkwNzk1LDIwODY1OTQ3NDcsLTE1NzIxODEzNzIsMTE0MTczMD
+c5MSwtMjA2NjA2NjY4MiwtMTEzNTY2Mjk2MiwxMjQzNjU4OTQy
+LC0yMDAyNDkwNjU1XX0=
 -->
