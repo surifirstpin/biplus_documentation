@@ -83,10 +83,10 @@ Depending on the table joins applied the code is retrieved in JSON format. To re
 
 **6.** To format the code to a proper alignment, click **Format Code**.
 
-**7.**  To hide list of model and views visible click on **angle double left** Icon.
-
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/119fba7d6d3e4b7292a732f554eaf74d3270d668/images/model_new1.png)
+
+**7.**  To hide list of model and views visible click on **angle double left** Icon.
 
 **8.** To view list of models and views click on **angle double right** icon.
 
@@ -668,11 +668,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Mjc0MDU2OCwtNTE0OTM2MTI4LDE5Mj
-MwODk4NzUsLTU1NzkyMjQwNywyMTQ3MzI3MTU1LC0zMzk5NzA2
-NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMywxNDE0NDM0NDQsLT
-E4MTAzOTA3OTUsMjA4NjU5NDc0NywtMTU3MjE4MTM3MiwxMTQx
-NzMwNzkxLC0yMDY2MDY2NjgyLC0xMTM1NjYyOTYyLDEyNDM2NT
-g5NDIsLTIwMDI0OTA2NTUsLTI4Mjc4Njk2MiwtMTMyMzI2OTUz
-NCwtNzAyMzQ2ODg0XX0=
+eyJoaXN0b3J5IjpbLTE0MDY2ODk5NjAsLTUxNDkzNjEyOCwxOT
+IzMDg5ODc1LC01NTc5MjI0MDcsMjE0NzMyNzE1NSwtMzM5OTcw
+NjY1LC0xOTM1MjA3Nzc5LDExOTgxMTM3MzMsMTQxNDQzNDQ0LC
+0xODEwMzkwNzk1LDIwODY1OTQ3NDcsLTE1NzIxODEzNzIsMTE0
+MTczMDc5MSwtMjA2NjA2NjY4MiwtMTEzNTY2Mjk2MiwxMjQzNj
+U4OTQyLC0yMDAyNDkwNjU1LC0yODI3ODY5NjIsLTEzMjMyNjk1
+MzQsLTcwMjM0Njg4NF19
 -->
