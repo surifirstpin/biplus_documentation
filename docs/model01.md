@@ -523,11 +523,9 @@ BiPlus provides an additional attribute to drill down as  **Show drill down meas
 
 ```
 "drill_down_fields": "Field1,Field2,...FieldN."
-
 ```
 
 “show_drill_down_measures”: “true / false”  
-
 ```
  {  
  “name”: “StateName”,  
@@ -653,11 +651,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU5OTQ2MjYsMTk4NDk5NDUxNiwtND
-k4MzI0MDk2LC0xNzI3NDM1MjIwLDQ3NTkxMDM4MCwxMDExMDU3
-Mzc1LDcxMzI3NTQyOCw3Njg0NTg2ODUsMjA0ODc4MTMzMiwtMT
-QwNjY4OTk2MCwtNTE0OTM2MTI4LDE5MjMwODk4NzUsLTU1Nzky
-MjQwNywyMTQ3MzI3MTU1LC0zMzk5NzA2NjUsLTE5MzUyMDc3Nz
-ksMTE5ODExMzczMywxNDE0NDM0NDQsLTE4MTAzOTA3OTUsMjA4
-NjU5NDc0N119
+eyJoaXN0b3J5IjpbMTc3MTcyNTM3NCwxOTg0OTk0NTE2LC00OT
+gzMjQwOTYsLTE3Mjc0MzUyMjAsNDc1OTEwMzgwLDEwMTEwNTcz
+NzUsNzEzMjc1NDI4LDc2ODQ1ODY4NSwyMDQ4NzgxMzMyLC0xND
+A2Njg5OTYwLC01MTQ5MzYxMjgsMTkyMzA4OTg3NSwtNTU3OTIy
+NDA3LDIxNDczMjcxNTUsLTMzOTk3MDY2NSwtMTkzNTIwNzc3OS
+wxMTk4MTEzNzMzLDE0MTQ0MzQ0NCwtMTgxMDM5MDc5NSwyMDg2
+NTk0NzQ3XX0=
 -->
