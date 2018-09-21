@@ -14,7 +14,7 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 ## Create SQL Query in SQL Runner
 
-**1.** After logging into AcuBi homepage, Click on SQL Runner section.
+**1.** After logging into AcuBi Click on SQL Runner section.
 
 **2.**  Type your SQL command in SQL query area.
 
@@ -93,11 +93,11 @@ To view the newly created derived view. Goto Model section under the views list 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1NjUzNTk0LDE5Nzg4MjA3MzAsNzU5Mz
-I4OTQ2LC00NDgxNDYwOTYsMTkxMzAxOTQ3NCw0MTkwNDAwNzcs
-LTY4MzI3OTAzOCwtMTA4ODMyMzM5MywxODE0MTQyNzcyLDE0Nj
-QxODYyMTEsMTg4Mzk1NzMxOSwtMjQwMTEwNTg1LC02MzcxMzQz
-NTEsLTQxMzg1NDc4LDE1ODc1NDE3OTMsMTYyMzgzNTU0NCw1Nj
-k3NjE2LDU5NTc1MTk0OCw1OTY5MTU3OTQsLTY5NjM0Nzk3N119
+eyJoaXN0b3J5IjpbMTEzNzA4NzkyLDQ4NTY1MzU5NCwxOTc4OD
+IwNzMwLDc1OTMyODk0NiwtNDQ4MTQ2MDk2LDE5MTMwMTk0NzQs
+NDE5MDQwMDc3LC02ODMyNzkwMzgsLTEwODgzMjMzOTMsMTgxND
+E0Mjc3MiwxNDY0MTg2MjExLDE4ODM5NTczMTksLTI0MDExMDU4
+NSwtNjM3MTM0MzUxLC00MTM4NTQ3OCwxNTg3NTQxNzkzLDE2Mj
+M4MzU1NDQsNTY5NzYxNiw1OTU3NTE5NDgsNTk2OTE1Nzk0XX0=
 
 -->
