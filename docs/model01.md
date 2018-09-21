@@ -156,7 +156,7 @@ I.  **filter_sql :**  the filter expression or condition. Filter expression can 
 
 -   **Date-based, String-based, Number-based :**  standard filters which are applicable on date, string, number fields in database are allowed.
 
-> **For Instance :**  
+ **For Instance :**  
 **Date based** : ROOT.Orders.OrderDate < TRUNC(SYSDATE)  
 **String based** : ROOT.Orders.PaymentMode IN (‘Cash’,’PayTM’)  
 **Number based** : ROOT.BI_Orders.Amount IS NOT NULL
@@ -667,11 +667,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODc4MTMzMiwtMTQwNjY4OTk2MCwtNT
-E0OTM2MTI4LDE5MjMwODk4NzUsLTU1NzkyMjQwNywyMTQ3MzI3
-MTU1LC0zMzk5NzA2NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMy
-wxNDE0NDM0NDQsLTE4MTAzOTA3OTUsMjA4NjU5NDc0NywtMTU3
-MjE4MTM3MiwxMTQxNzMwNzkxLC0yMDY2MDY2NjgyLC0xMTM1Nj
-YyOTYyLDEyNDM2NTg5NDIsLTIwMDI0OTA2NTUsLTI4Mjc4Njk2
-MiwtMTMyMzI2OTUzNF19
+eyJoaXN0b3J5IjpbMTkwNDM4MjM4MiwyMDQ4NzgxMzMyLC0xND
+A2Njg5OTYwLC01MTQ5MzYxMjgsMTkyMzA4OTg3NSwtNTU3OTIy
+NDA3LDIxNDczMjcxNTUsLTMzOTk3MDY2NSwtMTkzNTIwNzc3OS
+wxMTk4MTEzNzMzLDE0MTQ0MzQ0NCwtMTgxMDM5MDc5NSwyMDg2
+NTk0NzQ3LC0xNTcyMTgxMzcyLDExNDE3MzA3OTEsLTIwNjYwNj
+Y2ODIsLTExMzU2NjI5NjIsMTI0MzY1ODk0MiwtMjAwMjQ5MDY1
+NSwtMjgyNzg2OTYyXX0=
 -->
