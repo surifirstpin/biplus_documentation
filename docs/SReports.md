@@ -1,16 +1,16 @@
 <center><h1> Reports</h1></center>
 
- Reports in AcuBi can extract the data effectively and collaborate more efficiently instead of of accessing the data in a regular traditional manner. Just in matters of seconds, you can confess a story in what way your organisation is making a difference in the world.
+ Reports in **AcuBi** extract the data effectively and collaborate more efficiently instead of accessing the data in a regular traditional manner. Just in matters of seconds, you can confess a story in what way your organisation is making a difference in the world.
 
 ## View Report
 
 To view a saved report click on specific report in dashboard section and it will navigate to the report created.
 
-**1.**  To Set a report to home page  click on **Set on homepage** icon.
+**1.**  To set a report to home page  click on **Set on homepage** icon.
 
-**2.** To edit a report click on **Edit** icon.
+**2.** To edit a report click **Edit** icon.
 
-**3.**  To delete a report click on **Delete** icon.
+**3.**  To delete a report click **Delete** icon.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a617b3ae958c069a99a9a91df6097bda5762d6aa/images/savwe.png)
 
@@ -118,9 +118,9 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNzQyMjM0NywxMTI3MDMwODU5LC0zMz
-I5MDczNzUsNjkyNDg2MjA2LDE0MDk0MTE5MTAsMTYxNjE5NTEw
-NywxNjIyODg2MywzMDA2NzA3MjUsMTgyMjg5OTQzOSwtODExMT
-A2OTgyLC0xNTUwODI3ODU3LC0xMzIyMjM1Nzk4LDE3MzA5Nzk3
-OTgsLTEyNTY5NzQ0MTFdfQ==
+eyJoaXN0b3J5IjpbLTE4NzM0MDMyMTIsMTEyNzAzMDg1OSwtMz
+MyOTA3Mzc1LDY5MjQ4NjIwNiwxNDA5NDExOTEwLDE2MTYxOTUx
+MDcsMTYyMjg4NjMsMzAwNjcwNzI1LDE4MjI4OTk0MzksLTgxMT
+EwNjk4MiwtMTU1MDgyNzg1NywtMTMyMjIzNTc5OCwxNzMwOTc5
+Nzk4LC0xMjU2OTc0NDExXX0=
 -->
