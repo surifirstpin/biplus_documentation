@@ -154,23 +154,18 @@ To filter data from a view and the respective mapping views, the filter criteria
 
 I.  **filter_sql :**  the filter expression or condition. Filter expression can be date-based, string-based, number-based and even login-based.
 
--  **Date-based** standard filters which are applicable on date.
+-  **Date-based** standard filters which are applicable on dates.
 ```
  ROOT.Orders.OrderDate < TRUNC(SYSDATE)  
 ```
--  **String-based** standard filters which are applicable on string.
+-  **String-based** standard filters which are applicable on strings.
 ```
  ROOT.Orders.PaymentMode IN (‘Cash’,’PayTM’)
  ```
--  **Number-based** :**  Number fields in database are allowed.
+-  **Number-based** :**  standard filters which are applicable on numbers.
 ```
 ROOT.BI_Orders.Amount IS NOT NULL
 ```
- **For Instance :**  
- 
-**
-**String based** :  
-**Number based** : 
 -   **User-based :**  BiPlus allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users. That means, for a particular user login, the data retrievable in Analyze section will be constrained with a list of pre-defined values.
 
 ```
@@ -677,7 +672,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTQ0NzkwLDIwNDg3ODEzMzIsLTE0MD
+eyJoaXN0b3J5IjpbNzY4NDU4Njg1LDIwNDg3ODEzMzIsLTE0MD
 Y2ODk5NjAsLTUxNDkzNjEyOCwxOTIzMDg5ODc1LC01NTc5MjI0
 MDcsMjE0NzMyNzE1NSwtMzM5OTcwNjY1LC0xOTM1MjA3Nzc5LD
 ExOTgxMTM3MzMsMTQxNDQzNDQ0LC0xODEwMzkwNzk1LDIwODY1
