@@ -15,7 +15,7 @@ This section describes how to retrieves the data in the desired combinations as 
  
  **3.** To start with **New Analysis** report click on **Reset Visualization**( refresh icon). 
 
-The data in analyse sections is determined by dimensions and measures. Using **Field Picker**, select Dimensions and Measures to retrieve the data. In BiPlus a dimension is derived as group of data and Measure is derived as information about group of data.
+The data in analyse sections is determined by dimensions and measures. Using **Field Picker**, select Dimensions and Measures to retrieve the data. In AcuBi a dimension is derived as group of data and Measure is derived as information about group of data.
 
  > **Note :** All the dimensions appear in Grey colour and all the measures appear in Orange colour in your data table.
 
@@ -269,7 +269,7 @@ Data section under visualization is enabled based on the data retrieved on runni
 
 ##  Format
 
- **Format** enables different type of number format to the measure field value. Following are the list of number formats supported by BiPlus :
+ **Format** enables different type of number format to the measure field value. Following are the list of number formats supported by AcuBi:
 
 |  Example | Description |
 |  ------ | :------ |
@@ -301,7 +301,7 @@ Data section under visualization is enabled based on the data retrieved on runni
 |  $#,##0.00 | Dollars with comma between thousands and 2 decimals ($1,234.00) |
 
 
-- **Currency** BiPlus supports following currency formats $,   ₹  ,   €  ,  £.
+- **Currency** AcuBi supports following currency formats $,   ₹  ,   €  ,  £.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/2300d0f85947e474f369d3b074655040658bd753/images/full_datasection.png)
@@ -313,11 +313,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzNTE4MDE4LC04ODc5MDAyMDQsMTU1MD
-czMjUxNywtMTY2OTQwNDAxLC0yNTA5NjQ2NjUsNTQ2NDAyNTA4
-LC0yNTcyNTIxMjQsLTE1NDA2OTQzOSwxNDc0OTc2MDk1LDE4OD
-czNDY4ODcsLTMyOTI3NTUzOSwtNTA4NDYwNDksMjkyMTgxMDk1
-LDE1NTI2NjM0NDQsMTcxNDM5Mzg0LDc3OTk2NDg1MywtNjg3Nj
-YzMDM3LC0xNjAwNjY5OTY2LDQ3NDY3Njc2MSwtMTIzOTYxOTQx
-M119
+eyJoaXN0b3J5IjpbLTIwNzU5Mzc5NzUsNzEzNTE4MDE4LC04OD
+c5MDAyMDQsMTU1MDczMjUxNywtMTY2OTQwNDAxLC0yNTA5NjQ2
+NjUsNTQ2NDAyNTA4LC0yNTcyNTIxMjQsLTE1NDA2OTQzOSwxND
+c0OTc2MDk1LDE4ODczNDY4ODcsLTMyOTI3NTUzOSwtNTA4NDYw
+NDksMjkyMTgxMDk1LDE1NTI2NjM0NDQsMTcxNDM5Mzg0LDc3OT
+k2NDg1MywtNjg3NjYzMDM3LC0xNjAwNjY5OTY2LDQ3NDY3Njc2
+MV19
 -->
