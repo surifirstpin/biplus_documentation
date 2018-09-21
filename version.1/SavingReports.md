@@ -1,6 +1,6 @@
 <center><h1>Saving Reports</h1></center>
 
-In AcuBi you can save the report build for retrieving the data, in specific location under a specific tag or share them with team members for better collaboration.
+The report generated in AcuBi can be saved in specific location under a specific tag or share them with team members for better collaboration.
 
 **1.** After extracting the data click on **Save button** in Analysis section to save the report, it will navigate to Save Explore section.
 
@@ -53,7 +53,7 @@ Cache saves the data, so the future request for the data is provided faster.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjU1NjEwLDczNjczNjc3OCwzNjU3MT
-k2ODMsMTkyMzA3NzkxMiwtODg4OTU4ODU4LC0zMzcyNjIwMl19
-
+eyJoaXN0b3J5IjpbMTcyMzAwMDQ1MiwxOTgyNTU2MTAsNzM2Nz
+M2Nzc4LDM2NTcxOTY4MywxOTIzMDc3OTEyLC04ODg5NTg4NTgs
+LTMzNzI2MjAyXX0=
 -->
