@@ -46,7 +46,7 @@ Apply report filter **Sum count equals to 1** in Analysis section and the data r
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9ef51de09e4e5f49959a15ca5cdbf8c130c792b3/images/time.png)
 
-- You can also make use of inclusive, exclusive braces, OR to filter the data.
+- You can also make use of inclusive, exclusive braces to filter the data.
 
   - A closed interval [a,b] includes the end points.
   - An open interval (a,b) excludes them.
@@ -58,7 +58,7 @@ Apply report filter **Sum count equals to 1** in Analysis section and the data r
 
 **7.** To view the data flow of the report click on the **Setting icon**.
 
-**8.** To view the data in a graph Click on **Show data** in the drop down.
+**8.** To view the data in a graph click on **Show data** in the drop down.
 
    -  Select **Show data** to display data report.
    
@@ -75,7 +75,7 @@ Apply report filter **Sum count equals to 1** in Analysis section and the data r
 
 - **Hard Refresh**  displays the most recent data information by clearing the cache for specific dashboard or report.
 
-## Download CSV & Image formats
+## Download CSV & Image Formats
 
 - **Download CSV** download the dashboard report in CSV format.
 
@@ -118,7 +118,7 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzkwNjMzNCwxMTI3MDMwODU5LC0zMz
+eyJoaXN0b3J5IjpbMTU3ODE5NzkwOSwxMTI3MDMwODU5LC0zMz
 I5MDczNzUsNjkyNDg2MjA2LDE0MDk0MTE5MTAsMTYxNjE5NTEw
 NywxNjIyODg2MywzMDA2NzA3MjUsMTgyMjg5OTQzOSwtODExMT
 A2OTgyLC0xNTUwODI3ODU3LC0xMzIyMjM1Nzk4LDE3MzA5Nzk3
