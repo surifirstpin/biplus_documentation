@@ -3,7 +3,7 @@
 
 # TURN YOUR INSIGHTS INTO ACTIONS
 
-BiPlus Provides A Single, Integrated Enterprise Analytics Platform By Delivering Faster And Better Insights For The Whole Business, Regardless Any Action Or Industry.
+AcuBi Provides A Single, Integrated Enterprise Analytics Platform By Delivering Faster And Better Insights For The Whole Business, Regardless Any Action Or Industry.
 
 # TURN DATA INTO OPPORTUNITY IN HAND  
 
@@ -18,7 +18,7 @@ Start Transforming Your Data Into Live Dashboards And Reports In Minutes, By Hel
 
 It Provides Flexibility Of Getting Connected To Data From Desktop,Tablet And Mobile Devices Where Ever You Are.
 
-# WHY  BiPlus
+# WHY  AcuBi
  It Is Business Analytical Tool That Provides A Standard Insights Throughout The Organization And Streamline The Process By Providing An Ability To Use Live Data By Predicting Needs Of The Business.
 
 # HIGH QUALITY DATA ANALYTICS AND REPORTING FOR ALL
@@ -36,7 +36,7 @@ Enable users to turn their raw data into actionable information by simplifying t
 
 #### Better Insights across all Domains
 
-BiPlus Streamline workforce Planning, performance tracking, Analysis and improves the quality in a dynamic regulatory environment for all domains.
+AcuBi Streamline workforce Planning, performance tracking, Analysis and improves the quality in a dynamic regulatory environment for all domains.
 
 # **BiPlus** IN ACTION
 
@@ -52,11 +52,10 @@ Usage of different type of charts, widgets, pivot tables and tabular view compon
 
 Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
 
-![dashboard](http://192.168.0.7/Biplus_timer_website/images/perspective.png)
 
 #### Smarter Visualization
 
-BiPlus delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
+AcuBi delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
 
 #### Beautiful Dashboards
 
@@ -64,13 +63,13 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
 
 #### Customer Success
 
-When it comes to business establishment and success, BiPlus software is an innovation that has ability to share and collaborate ideas efficiently.
+When it comes to business establishment and success, AcuBi software is an innovation that has ability to share and collaborate ideas efficiently.
 
 # FASTER AND SMARTER DECISION MAKING
 
 #### Benefits of Live Data
 
-BiPlus retrieves the most recent data and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time in data management.
+AcuBi retrieves the most recent data and assist your financial advisor to focus on analyzing and controlling spontaneously rather than wasting time in data management.
 
 #### Data Manipulation
 
@@ -86,13 +85,13 @@ It is one of the best software platform that consistently Join Business intellig
 
 #### Deployment
 
-With BiPlus you have flexibility to integrate into your existing data infrastructure, no matter where it is either on-premise or in the cloud.
+With AcuBi you have flexibility to integrate into your existing data infrastructure, no matter where it is either on-premise or in the cloud.
 
 #### Speed
 
-The component has been designed in such a way, that it ensure maximum speed and high performance by making calculation part more easy, with the help of powerful math engine in BiPlus.
+The component has been designed in such a way, that it ensure maximum speed and high performance by making calculation part more easy, with the help of powerful math engine in AcuBi.
 
-# **BiPlus** ADVANTAGES
+# **AcuBi** ADVANTAGES
 
 ## Analyse
 
@@ -114,34 +113,34 @@ It is integrated into current software very easily and allows you to re-brand th
 
 ## Simple
 
-BiPlus has an ability to transform the complex data into meaningful insights and performs in-depth analyses with utmost simplicity.
+AcuBi has an ability to transform the complex data into meaningful insights and performs in-depth analyses with utmost simplicity.
 
 
 
 ## Secure
 
-BiPlus security is built to ensure that your data is safe and secure, by providing 100% data protection on all devices.
+AcuBi security is built to ensure that your data is safe and secure, by providing 100% data protection on all devices.
 
 
 
 ## Scalable
 
-From one users to many, BiPlus scales seamlessly to meet your growing BI needs and progress to a new hardware easily or add more connection for increased redundancy and scope.
+From one users to many, AcuBi scales seamlessly to meet your growing BI needs and progress to a new hardware easily or add more connection for increased redundancy and scope.
 
 
 
 ## Self-Serve
 
-Anyone can use BiPlus to analyze, search, visualize, interact intuitively and get entrusted with the right insights.
+Anyone can use AcuBi to analyze, search, visualize, interact intuitively and get entrusted with the right insights.
 
 
 # DIALECTS SUPPORTED
 
-It doesn’t matters what type of data you want to explore or where it stays, you can connects to hundreds of data sources with BiPlus. More sources are yet to be added.
+It doesn’t matters what type of data you want to explore or where it stays, you can connects to hundreds of data sources with AcuBi. More sources are yet to be added.
 
 ## SOLUTIONS
 
-Lets see how all the Business platforms use BiPlus to drive insight and innovate decisions. Browse by function and industry.
+Lets see how all the Business platforms use AcuBi to drive insight and innovate decisions. Browse by function and industry.
 
 
 #### Sales
@@ -170,7 +169,7 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc4MDMyNzEsLTU3OTk0Mzc1MSwtNz
-QxODIzMjQ5LDE1Mjk5NTk5MTcsMTA4MTgxNDQ0NywxMzc1MzE2
-MjUzXX0=
+eyJoaXN0b3J5IjpbMTEyMTk1NTQ5MywtMTE0NzgwMzI3MSwtNT
+c5OTQzNzUxLC03NDE4MjMyNDksMTUyOTk1OTkxNywxMDgxODE0
+NDQ3LDEzNzUzMTYyNTNdfQ==
 -->
