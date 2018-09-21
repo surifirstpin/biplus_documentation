@@ -208,7 +208,7 @@ ROOT.BI_Orders.Amount IS NOT NULL
 
 Views are independent tables chosen while creating a project. All the columns in the table are called fields of view and will be adopted with relevant features.
 
-BiPlus allows various actions to performed in views as follows:
+**BiPlus allows various actions to performed in views as follows:**
 
 -  Creating a new field (User Defined Fields).
 
@@ -219,16 +219,14 @@ BiPlus allows various actions to performed in views as follows:
 -  Extracting different date formats from the date field permissible formats like hour,day,week,month,quarter, year,date, week_day,date_month,date_quarter, date_hour, year_week.
 
 -  You can create new custom views.
-
 -  Assigning drill down fields for a field.
-
 -  Defining values for different map co-ordinates.
 
 The Associated keywords with the views are flowing :
 
 |  **S. No** | **Name** | **Identifier of a custom field** |
 |  :------ | :------: | :------: |
-|  1 | label | allows to customise the display name of the view in BiPlus |
+|  1 | label | allows to customize the display name of the view in BiPlus |
 |  2 | data_type | the outcome of the field from database it can be string, date or number |
 |  3 | type | either of the two values dimension or measure, string and date belongs to dimension and number belongs to measure |
 |  4 | time_frame | feature that extract different formats from the date field, for instance: hour,day,week, month quarter; year, date. week_day,date_ month date_quarter date_hour, year_week |
@@ -670,7 +668,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1MDc0NzIwLDcxMzI3NTQyOCw3Njg0NT
+eyJoaXN0b3J5IjpbMjY1NDQ2NzEzLDcxMzI3NTQyOCw3Njg0NT
 g2ODUsMjA0ODc4MTMzMiwtMTQwNjY4OTk2MCwtNTE0OTM2MTI4
 LDE5MjMwODk4NzUsLTU1NzkyMjQwNywyMTQ3MzI3MTU1LC0zMz
 k5NzA2NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMywxNDE0NDM0
