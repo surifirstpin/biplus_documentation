@@ -375,8 +375,7 @@ Where condition is an expression defined on the fields of self view or mapped vi
 **6.**  As a resultant of string, date, number based sql functions on fields
 
 ```
-    "sql" : "sql_function(${TABLE}.Field)"
-
+  "sql" : "sql_function(${TABLE}.Field)"
 ```
 
 > **For Instance:** 
@@ -387,16 +386,15 @@ String → “sql” : “CONCAT('Date : ',${TABLE}.OrderDate)”
 **7.**  As a resultant of single value returning sql query
 
 ```
-     "sql" : "(select Expression from Database.Table)"
-
+   "sql" : "(select Expression from Database.Table)"
 ```
 
 Where the expression contain the fields of self view and should result a single value.
-
-> **For Instance:** 
+```
  “sql”: "(select sum(x.Amount) from Orders)”
-
+```
 ## Custom View
+
 Custom fields are user defined fields for which we apply arithmetic  and logical operations that are supported by database.
 A view may join other views and there relationship are defined as part of data analysis section of model file.
 
@@ -655,11 +653,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODMyNDA5NiwtMTcyNzQzNTIyMCw0Nz
-U5MTAzODAsMTAxMTA1NzM3NSw3MTMyNzU0MjgsNzY4NDU4Njg1
-LDIwNDg3ODEzMzIsLTE0MDY2ODk5NjAsLTUxNDkzNjEyOCwxOT
-IzMDg5ODc1LC01NTc5MjI0MDcsMjE0NzMyNzE1NSwtMzM5OTcw
-NjY1LC0xOTM1MjA3Nzc5LDExOTgxMTM3MzMsMTQxNDQzNDQ0LC
-0xODEwMzkwNzk1LDIwODY1OTQ3NDcsLTE1NzIxODEzNzIsMTE0
-MTczMDc5MV19
+eyJoaXN0b3J5IjpbOTUzNzMzODIwLC00OTgzMjQwOTYsLTE3Mj
+c0MzUyMjAsNDc1OTEwMzgwLDEwMTEwNTczNzUsNzEzMjc1NDI4
+LDc2ODQ1ODY4NSwyMDQ4NzgxMzMyLC0xNDA2Njg5OTYwLC01MT
+Q5MzYxMjgsMTkyMzA4OTg3NSwtNTU3OTIyNDA3LDIxNDczMjcx
+NTUsLTMzOTk3MDY2NSwtMTkzNTIwNzc3OSwxMTk4MTEzNzMzLD
+E0MTQ0MzQ0NCwtMTgxMDM5MDc5NSwyMDg2NTk0NzQ3LC0xNTcy
+MTgxMzcyXX0=
 -->
