@@ -2,7 +2,7 @@
 
 Analysis section is a starting point, for building query.  it is designed in such a way, that it retrieves the data in desired combinations as per your business needs and explores particular subject area it self. It also provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight.
  
-**Let see in detail, How BiPlus helps you in retrieving the 
+**Let see in detail, How AcuBi helps you in retrieving the 
 -data as per your business needs :**
  
 **1.** Click on **Analysis section** and select the desired **Project** and **Model** based on which the data is retrieved.
@@ -308,7 +308,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 ##  Format
 
-  - **Format** enables different type of number format to the measure field value. Following are the list of number formats supported by BiPlus ;
+  - **Format** enables different type of number format to the measure field value. Following are the list of number formats supported by AcuBi ;
 
 |  Example | Description |
 |  ------ | :------ |
@@ -340,7 +340,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 |  $#,##0.00 | Dollars with comma between thousands and 2 decimals ($1,234.00) |
 
 
-- **Currency**  BiPlus supports following currency formats $,   ₹  ,   €  ,  £.
+- **Currency**  AcuBi supports following currency formats $,   ₹  ,   €  ,  £.
 
 ![
 ](!%5B%20%5D%28https://raw.githubusercontent.com/sv18042016/fp1/e1bd201419a03bfb1375b64b9e74fb8e06830061/images/data_section_analysis.png%29)
@@ -369,11 +369,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODI1MDg4OSwtOTMzMjEzOTc5LDM3Nz
-QyNDQzNiwxNjU4NjI3NjA5LDE2ODMzNDI5MDUsNjY3ODU5MTM5
-LDkxMDM4NjQ0NCwxOTQwNjcwMTMwLC0xMTc4MTQ5OTI3LC0xND
-M1NzU0NjQ1LC0xMjQ1MjgwMzQ5LDI5MTkyNjk2NCwxMTU4NzY0
-MDk1LC0xMTkzOTc0NjMwLC02MjQ4MzU4NTMsLTUzNjEyMTEwMC
-wzMjQ1NjI1OTQsMzgyOTA0MTE2LC0xODgyNTIzNzcwLC03NDU1
-OTQ2OTVdfQ==
+eyJoaXN0b3J5IjpbLTE3NTE1NzQ4NDAsMTA1ODI1MDg4OSwtOT
+MzMjEzOTc5LDM3NzQyNDQzNiwxNjU4NjI3NjA5LDE2ODMzNDI5
+MDUsNjY3ODU5MTM5LDkxMDM4NjQ0NCwxOTQwNjcwMTMwLC0xMT
+c4MTQ5OTI3LC0xNDM1NzU0NjQ1LC0xMjQ1MjgwMzQ5LDI5MTky
+Njk2NCwxMTU4NzY0MDk1LC0xMTkzOTc0NjMwLC02MjQ4MzU4NT
+MsLTUzNjEyMTEwMCwzMjQ1NjI1OTQsMzgyOTA0MTE2LC0xODgy
+NTIzNzcwXX0=
 -->
