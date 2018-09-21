@@ -3,11 +3,11 @@
 
 <center><h1>Viewing Content</h1></center>
 
-This section provides information on how to view the existing files in BiPlus.
+This section provides information on how to view the existing files in AcuBi.
 
 ## Navigating to Saved Content 
 
-To view the saved content or files in BiPlus, Click on dashboard section all the files are visible either in folder or list view.
+To view the saved content or files in AcuBi, Click on dashboard section all the files are visible either in folder or list view.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/65a7a2016e969da008299fa05bf06e3a17cffa5d/images/view_content.png)
 **Now Lets Get Started :**
@@ -36,7 +36,7 @@ Image
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzI5OTY2NCwtMTgxMzE0MDE3OSwxMT
-U5NjQzNDkwLDExOTUyNTM1MTEsNzAxNDc5MDQyLDE1MzY0Njky
-NDhdfQ==
+eyJoaXN0b3J5IjpbMTM5OTczNjAsLTE4MTMxNDAxNzksMTE1OT
+Y0MzQ5MCwxMTk1MjUzNTExLDcwMTQ3OTA0MiwxNTM2NDY5MjQ4
+XX0=
 -->
