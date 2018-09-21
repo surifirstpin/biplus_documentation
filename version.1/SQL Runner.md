@@ -45,11 +45,11 @@ You can make use of **Analysis Section** to create a query.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 
-## SQl Runner History
+## SQL Runner History
 
 You have an ability to view all the recent history of all the queries, which have been run in SQL Runner.
 
-To View the recent history, click on History tab available at the top right of the SQL query area. history section displays all the query run on SQL runner. Green colour indicates successfully query and Red colour indicates query that did not run successfully due to the error.  
+To view the recent history, click on History tab available at the top right of the SQL query area. history section displays all the query run on SQL runner. Green colour indicates successfully query and Red colour indicates query that did not run successfully due to the error.  
 
 Click on **Run Query** in history section, to re-run the previous query.
 
@@ -92,11 +92,11 @@ To view the newly created derived view. Goto Model section under the views list 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODkwMzAyMzQsNDg1NjUzNTk0LDE5Nz
-g4MjA3MzAsNzU5MzI4OTQ2LC00NDgxNDYwOTYsMTkxMzAxOTQ3
-NCw0MTkwNDAwNzcsLTY4MzI3OTAzOCwtMTA4ODMyMzM5MywxOD
-E0MTQyNzcyLDE0NjQxODYyMTEsMTg4Mzk1NzMxOSwtMjQwMTEw
-NTg1LC02MzcxMzQzNTEsLTQxMzg1NDc4LDE1ODc1NDE3OTMsMT
-YyMzgzNTU0NCw1Njk3NjE2LDU5NTc1MTk0OCw1OTY5MTU3OTRd
-fQ==
+eyJoaXN0b3J5IjpbLTM5MjcwNjM5NCw0ODU2NTM1OTQsMTk3OD
+gyMDczMCw3NTkzMjg5NDYsLTQ0ODE0NjA5NiwxOTEzMDE5NDc0
+LDQxOTA0MDA3NywtNjgzMjc5MDM4LC0xMDg4MzIzMzkzLDE4MT
+QxNDI3NzIsMTQ2NDE4NjIxMSwxODgzOTU3MzE5LC0yNDAxMTA1
+ODUsLTYzNzEzNDM1MSwtNDEzODU0NzgsMTU4NzU0MTc5MywxNj
+IzODM1NTQ0LDU2OTc2MTYsNTk1NzUxOTQ4LDU5NjkxNTc5NF19
+
 -->
