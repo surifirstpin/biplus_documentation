@@ -38,11 +38,11 @@
 <p><img src="https://raw.githubusercontent.com/sv18042016/fp1/63d935c622e04e8e13416ae4bfe54db3e8bb0af5/images/privacy_dash.png" alt="enter image description here"></p>
 
 <h2 id="dragdrop">Drag &amp; Drop</h2>
-<p>BiPlus has an ability to drag and drop the dashboard and reports into the selected privacy tag structure.</p>
+<p>AcuBi has an ability to drag and drop the dashboard and reports into the selected privacy tag structure.</p>
 <p><img src="https://raw.githubusercontent.com/sv18042016/fp1/759c68367cac74f2715f1c407d74d73a3fda3c09/images/drag&amp;drop.png" alt="enter image description here"></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM4NzUxMTUsLTE2MDIwMzU1NjEsLT
-Y3NTk0MTk3NSwtMTExNDAyNDYwNSwyMDkyMjY5Njg0LDEzNTY0
-Mzk4MDRdfQ==
+eyJoaXN0b3J5IjpbNDk0NDAyODY4LC0yMTEzODc1MTE1LC0xNj
+AyMDM1NTYxLC02NzU5NDE5NzUsLTExMTQwMjQ2MDUsMjA5MjI2
+OTY4NCwxMzU2NDM5ODA0XX0=
 -->
