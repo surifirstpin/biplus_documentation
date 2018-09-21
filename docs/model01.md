@@ -548,8 +548,8 @@ As  **Show drill down measures**  is set  **TRUE**, the associated measures (if 
 # Maps
 
 BiPlus provides map view by covering various number of countries. Also, there are special attributes like colour change for specific range of values.
- **For Model, Views and for a specific field the map co-ordinates  may be assigned as follows :**
 
+ **For Model, Views and for a specific field the map co-ordinates  may be assigned as follows :**
 ```
 {
 "name": "Field",
@@ -566,11 +566,8 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 "Field_Value_2": "AUS",
 "Field_Value_N": "Country",   
                }
-
 }
-
 ```
-
 ```
 {
 			"name": "SC",
@@ -587,7 +584,6 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 				"Station_2": "AUS"
 			               }
 }
-
 ```
 
 **The allowed List of country codes are :**
@@ -648,14 +644,12 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTM0ODc3MCwxOTg0OTk0NTE2LC00OT
-gzMjQwOTYsLTE3Mjc0MzUyMjAsNDc1OTEwMzgwLDEwMTEwNTcz
-NzUsNzEzMjc1NDI4LDc2ODQ1ODY4NSwyMDQ4NzgxMzMyLC0xND
-A2Njg5OTYwLC01MTQ5MzYxMjgsMTkyMzA4OTg3NSwtNTU3OTIy
-NDA3LDIxNDczMjcxNTUsLTMzOTk3MDY2NSwtMTkzNTIwNzc3OS
-wxMTk4MTEzNzMzLDE0MTQ0MzQ0NCwtMTgxMDM5MDc5NSwyMDg2
-NTk0NzQ3XX0=
+eyJoaXN0b3J5IjpbMTEyNjQ1ODQwLDE5ODQ5OTQ1MTYsLTQ5OD
+MyNDA5NiwtMTcyNzQzNTIyMCw0NzU5MTAzODAsMTAxMTA1NzM3
+NSw3MTMyNzU0MjgsNzY4NDU4Njg1LDIwNDg3ODEzMzIsLTE0MD
+Y2ODk5NjAsLTUxNDkzNjEyOCwxOTIzMDg5ODc1LC01NTc5MjI0
+MDcsMjE0NzMyNzE1NSwtMzM5OTcwNjY1LC0xOTM1MjA3Nzc5LD
+ExOTgxMTM3MzMsMTQxNDQzNDQ0LC0xODEwMzkwNzk1LDIwODY1
+OTQ3NDddfQ==
 -->
