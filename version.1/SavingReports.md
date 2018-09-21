@@ -22,7 +22,7 @@ You will be navigated to **Save Explore** page. Enter all the below information 
 
   - **Private ()** report saved in private section and accessed by the user itself.
   - **Public ()** the report is saved in public section and accessed by all the users.
-  -  **Share ()** the report saved under share section and accessed by specific set of users.
+  -  **Share ()** the report saved under share section and accessed by specific set of users or groups.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/8d50b81c2f7d831fa967d3e3476fbb5eb6d622f9/images/save_tag.png)
@@ -33,7 +33,7 @@ All the reports build in analysis section are saved under **my space** tag.
 
 ## Defining Filter fields
 
-Filter are used to extract only specific data you want to view. this function is carried out by applying filters to reports.
+Filter are used to extract only specific data you want to view. This function is carried out by applying filters to reports.
  
 - **Filter**  filters added in this section is automatically reflected in the filter section of dashboard reports.
 
@@ -53,7 +53,7 @@ Cache saves the data, so the future request for the data is provided faster.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNDI5OTkxLDE5ODI1NTYxMCw3MzY3Mz
-Y3NzgsMzY1NzE5NjgzLDE5MjMwNzc5MTIsLTg4ODk1ODg1OCwt
-MzM3MjYyMDJdfQ==
+eyJoaXN0b3J5IjpbMTA4OTkxNzI3MCwxOTgyNTU2MTAsNzM2Nz
+M2Nzc4LDM2NTcxOTY4MywxOTIzMDc3OTEyLC04ODg5NTg4NTgs
+LTMzNzI2MjAyXX0=
 -->
