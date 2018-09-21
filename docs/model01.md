@@ -122,7 +122,7 @@ Depending on the table joins applied the code is retrieved in JSON format. To re
 |   | name | name of the filter |
 |   | Filter_sql | the query phrase which acts as a filter, eg: col name = “Employee Name’ |
 |   | Apply | to specify the applicability |
-|   | Position | describes the priority of the filter phrases with other data filters can be assigned as 'before" or 'after" |
+|   | Position | describes the priority of the filter phrases to be assigned as 'before" or 'after" |
 | |Bindkey|it is a string applied to a query in order to reduce the execution time of a custom query|
 | |filterViewName| Name of the custom view in which the bindkey is used|
 | |filterKey_mapping|The column mapping for a field against which the bindkey is used|
@@ -667,11 +667,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2MzM3NDQwLC0xNDA2Njg5OTYwLC01MT
-Q5MzYxMjgsMTkyMzA4OTg3NSwtNTU3OTIyNDA3LDIxNDczMjcx
-NTUsLTMzOTk3MDY2NSwtMTkzNTIwNzc3OSwxMTk4MTEzNzMzLD
-E0MTQ0MzQ0NCwtMTgxMDM5MDc5NSwyMDg2NTk0NzQ3LC0xNTcy
-MTgxMzcyLDExNDE3MzA3OTEsLTIwNjYwNjY2ODIsLTExMzU2Nj
-I5NjIsMTI0MzY1ODk0MiwtMjAwMjQ5MDY1NSwtMjgyNzg2OTYy
-LC0xMzIzMjY5NTM0XX0=
+eyJoaXN0b3J5IjpbMjA0ODc4MTMzMiwtMTQwNjY4OTk2MCwtNT
+E0OTM2MTI4LDE5MjMwODk4NzUsLTU1NzkyMjQwNywyMTQ3MzI3
+MTU1LC0zMzk5NzA2NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMy
+wxNDE0NDM0NDQsLTE4MTAzOTA3OTUsMjA4NjU5NDc0NywtMTU3
+MjE4MTM3MiwxMTQxNzMwNzkxLC0yMDY2MDY2NjgyLC0xMTM1Nj
+YyOTYyLDEyNDM2NTg5NDIsLTIwMDI0OTA2NTUsLTI4Mjc4Njk2
+MiwtMTMyMzI2OTUzNF19
 -->
