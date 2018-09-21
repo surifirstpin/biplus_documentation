@@ -44,9 +44,8 @@ A model is a customized gateway into the database for accessing data as per busi
 
 -   **Privacy** you can save the project in any one of the following privacy option.
 
-    -   **Private**  report saved in private section and accessed by the user itself.
-    
-    -   **Public**  the report is saved in public section and accessed by all the users.
+    -   **Private**  report saved in private section are accessed by the existing user only.
+    -   **Public**  report is saved in public section and accessed by all the users.
     
     -   **Share**  the report saved under share section and accessed by specific set of users.
 
@@ -670,11 +669,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzkyMjQwNywyMTQ3MzI3MTU1LC0zMz
-k5NzA2NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMywxNDE0NDM0
-NDQsLTE4MTAzOTA3OTUsMjA4NjU5NDc0NywtMTU3MjE4MTM3Mi
-wxMTQxNzMwNzkxLC0yMDY2MDY2NjgyLC0xMTM1NjYyOTYyLDEy
-NDM2NTg5NDIsLTIwMDI0OTA2NTUsLTI4Mjc4Njk2MiwtMTMyMz
-I2OTUzNCwtNzAyMzQ2ODg0LC03OTg0ODMxMDgsMTMwMjM2MDc0
-OCw3MjIwOTcwNjhdfQ==
+eyJoaXN0b3J5IjpbMzk1Njg1NjA1LC01NTc5MjI0MDcsMjE0Nz
+MyNzE1NSwtMzM5OTcwNjY1LC0xOTM1MjA3Nzc5LDExOTgxMTM3
+MzMsMTQxNDQzNDQ0LC0xODEwMzkwNzk1LDIwODY1OTQ3NDcsLT
+E1NzIxODEzNzIsMTE0MTczMDc5MSwtMjA2NjA2NjY4MiwtMTEz
+NTY2Mjk2MiwxMjQzNjU4OTQyLC0yMDAyNDkwNjU1LC0yODI3OD
+Y5NjIsLTEzMjMyNjk1MzQsLTcwMjM0Njg4NCwtNzk4NDgzMTA4
+LDEzMDIzNjA3NDhdfQ==
 -->
