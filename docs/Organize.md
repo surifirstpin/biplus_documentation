@@ -24,7 +24,7 @@
 <p><img src="https://raw.githubusercontent.com/sv18042016/fp1/63d935c622e04e8e13416ae4bfe54db3e8bb0af5/images/del_dash1.png" alt="enter image description here"></p>
 <h2 id="check-privacy-for-dashboard">Check Privacy for Dashboard</h2>
 <ol start="5">
-<li>the circles displays under what privacy setting is the dashboard saved.</li>
+<li>The circles displays under what privacy setting is the dashboard saved.</li>
 </ol>
 <blockquote>
 <p>Consider the below image where,</p>
@@ -42,7 +42,7 @@
 <p><img src="https://raw.githubusercontent.com/sv18042016/fp1/759c68367cac74f2715f1c407d74d73a3fda3c09/images/drag&amp;drop.png" alt="enter image description here"></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0NDAyODY4LC0yMTEzODc1MTE1LC0xNj
-AyMDM1NTYxLC02NzU5NDE5NzUsLTExMTQwMjQ2MDUsMjA5MjI2
-OTY4NCwxMzU2NDM5ODA0XX0=
+eyJoaXN0b3J5IjpbLTE0MDgzODY3MzIsLTIxMTM4NzUxMTUsLT
+E2MDIwMzU1NjEsLTY3NTk0MTk3NSwtMTExNDAyNDYwNSwyMDky
+MjY5Njg0LDEzNTY0Mzk4MDRdfQ==
 -->
