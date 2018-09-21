@@ -2,9 +2,9 @@
 <center><h1>Visualization Types and Settings</h1></center>
 
 
-BiPlus Provides an ability to visualize the data in 10 different types of charts with some standard editing options. Based on priority to view specific information about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. 
+AcuBi Provides an ability to visualize the data in 10 different types of charts with some standard editing options. Based on priority to view specific information about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. 
 
-**Types of visualization available in BiPlus;**
+**Types of visualization available in AcuBi;**
  - **Line**
  - **Bar**
  - **Pie**
@@ -139,7 +139,7 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caca3ad67049c43bc60a5fccae26182c81762732/images/funnel_chart.png)
 
-**Using BiPlus you can view the funnel charts in different formats using the below check boxes:**
+**Using AcuBi you can view the funnel charts in different formats using the below check boxes:**
 
  - **Sort** on selecting this check box it enables data in the sorted order in funnel chart.
   
@@ -337,7 +337,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Format** it enables number format for numeric values.
 
-- **Currency** Using this field, you can specify the formatting for currency as of now BiPlus supports $,   ₹  ,   €  ,  £.
+- **Currency** Using this field, you can specify the formatting for currency as of now AcuBi supports $,   ₹  ,   €  ,  £.
 
 - **Y-Axis** display measure values on Y-axis. 
 
@@ -380,9 +380,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0NTM3MTUzLDc2MDIzMjE1LC0xNzM4OD
-U2NDc0LDQ1OTA1NTA2NCwtMTk3MzE2NTUxNywtMTY5MzQ3NTMx
-NSwtMTk5NjY0NjMxMCw3OTczODc3NCwtNTI2MjAwMDE3LC0xNT
-k5ODU3NjAsLTE3NzY1MjIzODgsLTgwNDc0MzMzMCwtMTI2ODgy
-NzI1MywtMzg0Njg4ODQ2LC02NDk3MjIyMjJdfQ==
+eyJoaXN0b3J5IjpbLTE4MTE2NTI5MzMsMjM0NTM3MTUzLDc2MD
+IzMjE1LC0xNzM4ODU2NDc0LDQ1OTA1NTA2NCwtMTk3MzE2NTUx
+NywtMTY5MzQ3NTMxNSwtMTk5NjY0NjMxMCw3OTczODc3NCwtNT
+I2MjAwMDE3LC0xNTk5ODU3NjAsLTE3NzY1MjIzODgsLTgwNDc0
+MzMzMCwtMTI2ODgyNzI1MywtMzg0Njg4ODQ2LC02NDk3MjIyMj
+JdfQ==
 -->
