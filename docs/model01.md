@@ -95,7 +95,7 @@ Depending on the table joins applied the code is retrieved in JSON format. To re
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/2f6c93abe9911466191907d22275ea75f778c0e4/images/model_new2.png)
 
-**Customization for a model can be done among the views in the following ways :**
+**Customization for a model can be done among the views:**
 
 -  A new mapping or relation can be defined among views based on a specific condition.
 
@@ -668,11 +668,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDY2ODk5NjAsLTUxNDkzNjEyOCwxOT
-IzMDg5ODc1LC01NTc5MjI0MDcsMjE0NzMyNzE1NSwtMzM5OTcw
-NjY1LC0xOTM1MjA3Nzc5LDExOTgxMTM3MzMsMTQxNDQzNDQ0LC
-0xODEwMzkwNzk1LDIwODY1OTQ3NDcsLTE1NzIxODEzNzIsMTE0
-MTczMDc5MSwtMjA2NjA2NjY4MiwtMTEzNTY2Mjk2MiwxMjQzNj
-U4OTQyLC0yMDAyNDkwNjU1LC0yODI3ODY5NjIsLTEzMjMyNjk1
-MzQsLTcwMjM0Njg4NF19
+eyJoaXN0b3J5IjpbMTE4MDA0ODk1NywtMTQwNjY4OTk2MCwtNT
+E0OTM2MTI4LDE5MjMwODk4NzUsLTU1NzkyMjQwNywyMTQ3MzI3
+MTU1LC0zMzk5NzA2NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMy
+wxNDE0NDM0NDQsLTE4MTAzOTA3OTUsMjA4NjU5NDc0NywtMTU3
+MjE4MTM3MiwxMTQxNzMwNzkxLC0yMDY2MDY2NjgyLC0xMTM1Nj
+YyOTYyLDEyNDM2NTg5NDIsLTIwMDI0OTA2NTUsLTI4Mjc4Njk2
+MiwtMTMyMzI2OTUzNF19
 -->
