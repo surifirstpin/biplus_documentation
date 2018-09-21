@@ -65,7 +65,7 @@ A model is a customized gateway into the database for accessing data as per busi
 
 ## Delete Project
 
-To delete the project created click on delete icon, on far right of the project name.
+To delete the project created hit the **Delete** icon, on far right of the project list.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4f558666a7432cd24c9c87474855b50c6b9996b4/images/edit_project.png)
@@ -669,7 +669,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTcwNTA5MiwxOTIzMDg5ODc1LC01NT
+eyJoaXN0b3J5IjpbLTUxNDkzNjEyOCwxOTIzMDg5ODc1LC01NT
 c5MjI0MDcsMjE0NzMyNzE1NSwtMzM5OTcwNjY1LC0xOTM1MjA3
 Nzc5LDExOTgxMTM3MzMsMTQxNDQzNDQ0LC0xODEwMzkwNzk1LD
 IwODY1OTQ3NDcsLTE1NzIxODEzNzIsMTE0MTczMDc5MSwtMjA2
