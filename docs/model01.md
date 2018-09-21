@@ -268,7 +268,6 @@ operator:multiple.                  **Multiple operator**
 -   **Number_format**  There are various formats designed based on the common business usage.
 
 **The permissible list are :**
-
 > **For Instance:**
 Consider Number = 12345679
 
@@ -301,10 +300,8 @@ Consider Number = 12345679
 
 ```
 currency : currency_symbol
-
 ```
-
-> Example : “currency” : “$”
+ **Example** : “currency” : “$”
 
 **III.**  **Time_frame:** BiPlus provides an option to extract different components associated with time stamp for user convenience.
 
@@ -330,10 +327,8 @@ currency : currency_symbol
 BiPlus has an ability to create new fields in a view with all attributes that are applicable to a database field and with return value (“sql” section of the field) as any of the following options:
 
 **1.**  As a resultant of arithmetical operations done on fields of the same view.
-
 ```
 "sql": "(${TABLE}.Field1 arithmetical operation ${TABLE}.Field2)"
-
 ```
 
 >**For Instance:** 
@@ -665,11 +660,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjc0MzUyMjAsNDc1OTEwMzgwLDEwMT
-EwNTczNzUsNzEzMjc1NDI4LDc2ODQ1ODY4NSwyMDQ4NzgxMzMy
-LC0xNDA2Njg5OTYwLC01MTQ5MzYxMjgsMTkyMzA4OTg3NSwtNT
-U3OTIyNDA3LDIxNDczMjcxNTUsLTMzOTk3MDY2NSwtMTkzNTIw
-Nzc3OSwxMTk4MTEzNzMzLDE0MTQ0MzQ0NCwtMTgxMDM5MDc5NS
-wyMDg2NTk0NzQ3LC0xNTcyMTgxMzcyLDExNDE3MzA3OTEsLTIw
-NjYwNjY2ODJdfQ==
+eyJoaXN0b3J5IjpbMTE3MTE0MDEwMCwtMTcyNzQzNTIyMCw0Nz
+U5MTAzODAsMTAxMTA1NzM3NSw3MTMyNzU0MjgsNzY4NDU4Njg1
+LDIwNDg3ODEzMzIsLTE0MDY2ODk5NjAsLTUxNDkzNjEyOCwxOT
+IzMDg5ODc1LC01NTc5MjI0MDcsMjE0NzMyNzE1NSwtMzM5OTcw
+NjY1LC0xOTM1MjA3Nzc5LDExOTgxMTM3MzMsMTQxNDQzNDQ0LC
+0xODEwMzkwNzk1LDIwODY1OTQ3NDcsLTE1NzIxODEzNzIsMTE0
+MTczMDc5MV19
 -->
