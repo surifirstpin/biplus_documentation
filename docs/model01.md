@@ -74,14 +74,14 @@ To delete the project created hit the **Delete** icon, on far right of the proje
 ## Model and Customization
 
 After saving a project, AcuBi will display the views and relevant information of the project as a **Model**, which can be further customized as per the business requirement. 
-Once project, model screen is triggered as shown in below image.
-Depending on the table joins applied the code is retrieved in JSON format. To refresh the data, click on the refresh icon of model, project and tables.
+Once the project is saved, model screen is triggered as shown in below image.
+Depending on the table joins applied the code is retrieved in JSON format. To refresh the data, hit the refresh icon of model, project and tables.
 
 **4.**  To undo the changes done click **Undo**.
 
 **5.**  To redo the changes click  **Redo**.
 
-**6.** To format the code according to proper alignment, click **Format Code**.
+**6.** To format the code to a proper alignment, click **Format Code**.
 
 **7.**  To hide list of model and views visible click on **angle double left** Icon.
 
@@ -668,7 +668,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjQ1OTA5NSwtNTE0OTM2MTI4LDE5Mj
+eyJoaXN0b3J5IjpbMTM0Mjc0MDU2OCwtNTE0OTM2MTI4LDE5Mj
 MwODk4NzUsLTU1NzkyMjQwNywyMTQ3MzI3MTU1LC0zMzk5NzA2
 NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMywxNDE0NDM0NDQsLT
 E4MTAzOTA3OTUsMjA4NjU5NDc0NywtMTU3MjE4MTM3MiwxMTQx
