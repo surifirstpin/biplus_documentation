@@ -115,7 +115,7 @@ Depending on the table joins applied the code is retrieved in JSON format. To re
 |   | explore | displays the views (the tables selected in the project) with the selected characteristics |
 |  2 | **For View** |  |
 |   | name | name of the table used in database |
-|   | label | allows you to customize the dts play name of the view in BiPlus |
+|   | label | allows you to customize the dis name of the view in BiPlus |
 |   | filters | the list of filters to be applied on the data from the view and respective mapped views defined in the 'joins"section |
 |   | joins | specifies the list of associated views which are mapped with the current view & mention the mapping criteria |
 |  2A | **Filter characteristics** | Filters can be date-based, string-based, value-based & user-based |
@@ -667,11 +667,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTUyNDMwNywtMTQwNjY4OTk2MCwtNT
-E0OTM2MTI4LDE5MjMwODk4NzUsLTU1NzkyMjQwNywyMTQ3MzI3
-MTU1LC0zMzk5NzA2NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMy
-wxNDE0NDM0NDQsLTE4MTAzOTA3OTUsMjA4NjU5NDc0NywtMTU3
-MjE4MTM3MiwxMTQxNzMwNzkxLC0yMDY2MDY2NjgyLC0xMTM1Nj
-YyOTYyLDEyNDM2NTg5NDIsLTIwMDI0OTA2NTUsLTI4Mjc4Njk2
-MiwtMTMyMzI2OTUzNF19
+eyJoaXN0b3J5IjpbNjY2ODM1MjkyLC0xNDA2Njg5OTYwLC01MT
+Q5MzYxMjgsMTkyMzA4OTg3NSwtNTU3OTIyNDA3LDIxNDczMjcx
+NTUsLTMzOTk3MDY2NSwtMTkzNTIwNzc3OSwxMTk4MTEzNzMzLD
+E0MTQ0MzQ0NCwtMTgxMDM5MDc5NSwyMDg2NTk0NzQ3LC0xNTcy
+MTgxMzcyLDExNDE3MzA3OTEsLTIwNjYwNjY2ODIsLTExMzU2Nj
+I5NjIsMTI0MzY1ODk0MiwtMjAwMjQ5MDY1NSwtMjgyNzg2OTYy
+LC0xMzIzMjY5NTM0XX0=
 -->
