@@ -166,8 +166,7 @@ I.  **filter_sql :**  the filter expression or condition. Filter expression can 
 ```
 ROOT.BI_Orders.Amount IS NOT NULL
 ```
--   **User-based :**  BiPlus allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users. That means, for a particular user login, the data retrievable in Analyze section will be constrained with a list of pre-defined values.
-
+-   **User-based :**  BiPlus allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users i.e for a particular user login, the data retrievable in analyze section will be constrained with a list of pre-defined values.
 ```
  " DB.TABLE.COLUMN IN (#{GlobalParam.Ref_field,#userid#,gp_username_field})" 
 ```
@@ -672,11 +671,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4NDU4Njg1LDIwNDg3ODEzMzIsLTE0MD
-Y2ODk5NjAsLTUxNDkzNjEyOCwxOTIzMDg5ODc1LC01NTc5MjI0
-MDcsMjE0NzMyNzE1NSwtMzM5OTcwNjY1LC0xOTM1MjA3Nzc5LD
-ExOTgxMTM3MzMsMTQxNDQzNDQ0LC0xODEwMzkwNzk1LDIwODY1
-OTQ3NDcsLTE1NzIxODEzNzIsMTE0MTczMDc5MSwtMjA2NjA2Nj
-Y4MiwtMTEzNTY2Mjk2MiwxMjQzNjU4OTQyLC0yMDAyNDkwNjU1
-LC0yODI3ODY5NjJdfQ==
+eyJoaXN0b3J5IjpbMTEwNzI1MjcwNCw3Njg0NTg2ODUsMjA0OD
+c4MTMzMiwtMTQwNjY4OTk2MCwtNTE0OTM2MTI4LDE5MjMwODk4
+NzUsLTU1NzkyMjQwNywyMTQ3MzI3MTU1LC0zMzk5NzA2NjUsLT
+E5MzUyMDc3NzksMTE5ODExMzczMywxNDE0NDM0NDQsLTE4MTAz
+OTA3OTUsMjA4NjU5NDc0NywtMTU3MjE4MTM3MiwxMTQxNzMwNz
+kxLC0yMDY2MDY2NjgyLC0xMTM1NjYyOTYyLDEyNDM2NTg5NDIs
+LTIwMDI0OTA2NTVdfQ==
 -->
