@@ -187,7 +187,7 @@ ROOT.BI_Orders.Amount IS NOT NULL
 
 -   **join** the view name to be joined with the primary view.
 -   **join_type**  the method of joining two views. Either left or right is similar to “**Join**” functionality.
--   **join_on**  the specific criteria of joining to views with a relation among relevant fields.
+-   **join_on**  the specific criteria of joining the views with a relation among relevant fields.
 
 ```
 {
@@ -670,11 +670,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjcwNzk5NCw3Njg0NTg2ODUsMjA0OD
-c4MTMzMiwtMTQwNjY4OTk2MCwtNTE0OTM2MTI4LDE5MjMwODk4
-NzUsLTU1NzkyMjQwNywyMTQ3MzI3MTU1LC0zMzk5NzA2NjUsLT
-E5MzUyMDc3NzksMTE5ODExMzczMywxNDE0NDM0NDQsLTE4MTAz
-OTA3OTUsMjA4NjU5NDc0NywtMTU3MjE4MTM3MiwxMTQxNzMwNz
-kxLC0yMDY2MDY2NjgyLC0xMTM1NjYyOTYyLDEyNDM2NTg5NDIs
-LTIwMDI0OTA2NTVdfQ==
+eyJoaXN0b3J5IjpbNzEzMjc1NDI4LDc2ODQ1ODY4NSwyMDQ4Nz
+gxMzMyLC0xNDA2Njg5OTYwLC01MTQ5MzYxMjgsMTkyMzA4OTg3
+NSwtNTU3OTIyNDA3LDIxNDczMjcxNTUsLTMzOTk3MDY2NSwtMT
+kzNTIwNzc3OSwxMTk4MTEzNzMzLDE0MTQ0MzQ0NCwtMTgxMDM5
+MDc5NSwyMDg2NTk0NzQ3LC0xNTcyMTgxMzcyLDExNDE3MzA3OT
+EsLTIwNjYwNjY2ODIsLTExMzU2NjI5NjIsMTI0MzY1ODk0Miwt
+MjAwMjQ5MDY1NV19
 -->
