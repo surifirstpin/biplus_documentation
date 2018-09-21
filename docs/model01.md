@@ -218,7 +218,7 @@ BiPlus allows various actions to performed in views as follows:
 
 -  Extracting different date formats from the date field permissible formats like hour,day,week,month,quarter, year,date, week_day,date_month,date_quarter, date_hour, year_week.
 
-- You can create new custom views.
+-  You can create new custom views.
 
 -  Assigning drill down fields for a field.
 
@@ -670,11 +670,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzMjc1NDI4LDc2ODQ1ODY4NSwyMDQ4Nz
-gxMzMyLC0xNDA2Njg5OTYwLC01MTQ5MzYxMjgsMTkyMzA4OTg3
-NSwtNTU3OTIyNDA3LDIxNDczMjcxNTUsLTMzOTk3MDY2NSwtMT
-kzNTIwNzc3OSwxMTk4MTEzNzMzLDE0MTQ0MzQ0NCwtMTgxMDM5
-MDc5NSwyMDg2NTk0NzQ3LC0xNTcyMTgxMzcyLDExNDE3MzA3OT
-EsLTIwNjYwNjY2ODIsLTExMzU2NjI5NjIsMTI0MzY1ODk0Miwt
-MjAwMjQ5MDY1NV19
+eyJoaXN0b3J5IjpbNzk1MDc0NzIwLDcxMzI3NTQyOCw3Njg0NT
+g2ODUsMjA0ODc4MTMzMiwtMTQwNjY4OTk2MCwtNTE0OTM2MTI4
+LDE5MjMwODk4NzUsLTU1NzkyMjQwNywyMTQ3MzI3MTU1LC0zMz
+k5NzA2NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMywxNDE0NDM0
+NDQsLTE4MTAzOTA3OTUsMjA4NjU5NDc0NywtMTU3MjE4MTM3Mi
+wxMTQxNzMwNzkxLC0yMDY2MDY2NjgyLC0xMTM1NjYyOTYyLDEy
+NDM2NTg5NDJdfQ==
 -->
