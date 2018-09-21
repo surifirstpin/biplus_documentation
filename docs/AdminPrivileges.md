@@ -1,6 +1,6 @@
  <center><h1>Admin Privileges</h1></center>
  
-BiPlus admin has an ability to manage all Users, User Groups, Global parameters and Global functions. Let us see in detail how each of them work.
+AcuBi admin has an ability to manage all Users, User Groups, Global parameters and Global functions. Let us see in detail how each of them work.
 
 ## Users
 
@@ -88,11 +88,11 @@ To reset your password, Click **Forget Password** section and enter below inform
 
 **Note :** **Global Functions** and **Global parameters** are discussed briefly in separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODgxNjYzMiwtMTA5ODg0MjcyOCwtMT
-cwMzQ0MTM0NCw3NDg0NjA3OTIsMTAyODc2NjE0OCwtMTAzMDk0
-MzcyLC0xODE0MDc1ODM2LC03ODExMDQ0OCwyNTAwOTczNDIsLT
-ExMzYxODc5NjIsMTkxNTE4NzkxLC0xNzgzMTYzODYsLTE4ODgx
-NjI3ODQsLTYzMTk3NTUzNywtMTk4NjMzMTA2OCw4NjczNTAwND
-AsMTY2Mjc2MDMyMCwtMTc4MDczODkyMiwxNzAxNzA0Mzg5LDE2
-OTg1NTEyNjZdfQ==
+eyJoaXN0b3J5IjpbLTE2NzA2MDk4MjMsMTU0ODgxNjYzMiwtMT
+A5ODg0MjcyOCwtMTcwMzQ0MTM0NCw3NDg0NjA3OTIsMTAyODc2
+NjE0OCwtMTAzMDk0MzcyLC0xODE0MDc1ODM2LC03ODExMDQ0OC
+wyNTAwOTczNDIsLTExMzYxODc5NjIsMTkxNTE4NzkxLC0xNzgz
+MTYzODYsLTE4ODgxNjI3ODQsLTYzMTk3NTUzNywtMTk4NjMzMT
+A2OCw4NjczNTAwNDAsMTY2Mjc2MDMyMCwtMTc4MDczODkyMiwx
+NzAxNzA0Mzg5XX0=
 -->
