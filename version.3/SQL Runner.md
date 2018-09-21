@@ -1,7 +1,7 @@
 
 <center><h1>SQL Runner </h1></center>
 
-Using SQL Runner you can directly Access your database and clout that access in variety of ways. In SQL Runner you can easily set up the connection, and navigate the tables under your schema. You can run pre-written SQL queries view the query run history. You can create your customs views here and perform useful task with them in model section.  
+Using SQL Runner you can directly Access your database and clout that access in variety of ways. In SQL Runner you can easily set up the connection, and navigate the tables under your schema. You can **Run** pre-written SQL queries and also view the query run history. You can create your customs views here and perform useful task with them in model section.  
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/532dd8b61e94d1e08fe0b89afa6a5961336e8ad2/images/sql_ru.png)
@@ -93,11 +93,11 @@ To view the newly created derived view. Goto Model section under the views list 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5MzI4OTQ2LC00NDgxNDYwOTYsMTkxMz
-AxOTQ3NCw0MTkwNDAwNzcsLTY4MzI3OTAzOCwtMTA4ODMyMzM5
-MywxODE0MTQyNzcyLDE0NjQxODYyMTEsMTg4Mzk1NzMxOSwtMj
-QwMTEwNTg1LC02MzcxMzQzNTEsLTQxMzg1NDc4LDE1ODc1NDE3
-OTMsMTYyMzgzNTU0NCw1Njk3NjE2LDU5NTc1MTk0OCw1OTY5MT
-U3OTQsLTY5NjM0Nzk3NywxNjI3NzAwMzQ3LDc2Mzk4MDQyMl19
-
+eyJoaXN0b3J5IjpbMTk3ODgyMDczMCw3NTkzMjg5NDYsLTQ0OD
+E0NjA5NiwxOTEzMDE5NDc0LDQxOTA0MDA3NywtNjgzMjc5MDM4
+LC0xMDg4MzIzMzkzLDE4MTQxNDI3NzIsMTQ2NDE4NjIxMSwxOD
+gzOTU3MzE5LC0yNDAxMTA1ODUsLTYzNzEzNDM1MSwtNDEzODU0
+NzgsMTU4NzU0MTc5MywxNjIzODM1NTQ0LDU2OTc2MTYsNTk1Nz
+UxOTQ4LDU5NjkxNTc5NCwtNjk2MzQ3OTc3LDE2Mjc3MDAzNDdd
+fQ==
 -->
