@@ -95,14 +95,13 @@ Depending on the table joins applied the code is retrieved in JSON format. To re
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/2f6c93abe9911466191907d22275ea75f778c0e4/images/model_new2.png)
 
-**Customization for a model can be carried out in following way :**
+**Customization for a model can be carried out in following ways :**
 
--  A new mapping or relation can be defined among views based on a specific condition.
+-  Add a new mapping or relations among the views based on a specific condition.
 
--  Edit the join criteria between views.
+- Edit the join criteria between views.
 
 -  Define filters on the data with different mapped views.
-
 
 
 **The list of keywords used in Model are:**
@@ -668,7 +667,7 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTIyNzU1NywtMTQwNjY4OTk2MCwtNT
+eyJoaXN0b3J5IjpbMjA3OTUyNDMwNywtMTQwNjY4OTk2MCwtNT
 E0OTM2MTI4LDE5MjMwODk4NzUsLTU1NzkyMjQwNywyMTQ3MzI3
 MTU1LC0zMzk5NzA2NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMy
 wxNDE0NDM0NDQsLTE4MTAzOTA3OTUsMjA4NjU5NDc0NywtMTU3
