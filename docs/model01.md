@@ -519,7 +519,7 @@ Drill-down is used for exploring the data further with respect to a field value.
 
 Sometimes, it may be necessary to bring the current stage measure fields to the next drill stage along with the drill fields.
 
-BiPlus provides an additional attribute to drill down as  **Show drill down measures**  which can be defined as  **TRUE or FALSE**. If mentioned TRUE, then system will carry forward the measures of the current stage to the immediate drill level.
+AcuBi provides an additional attribute to drill down as  **Show drill down measures**  which can be defined as  **TRUE or FALSE**. If mentioned TRUE, then system will carry forward the measures of the current stage to the immediate drill level.
 
 ```
 "drill_down_fields": "Field1,Field2,...FieldN."
@@ -547,7 +547,7 @@ As  **Show drill down measures**  is set  **TRUE**, the associated measures (if 
 
 # Maps
 
-BiPlus provides map view by covering various number of countries. Also, there are special attributes like colour change for specific range of values.
+AcuBi provides map view by covering various number of countries. Also, there are special attributes like colour change for specific range of values.
 
  **For Model, Views and for a specific field the map co-ordinates  may be assigned as follows :**
 ```
@@ -645,11 +645,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTg3NDA0NzcsMTk4NDk5NDUxNiwtND
-k4MzI0MDk2LC0xNzI3NDM1MjIwLDQ3NTkxMDM4MCwxMDExMDU3
-Mzc1LDcxMzI3NTQyOCw3Njg0NTg2ODUsMjA0ODc4MTMzMiwtMT
-QwNjY4OTk2MCwtNTE0OTM2MTI4LDE5MjMwODk4NzUsLTU1Nzky
-MjQwNywyMTQ3MzI3MTU1LC0zMzk5NzA2NjUsLTE5MzUyMDc3Nz
-ksMTE5ODExMzczMywxNDE0NDM0NDQsLTE4MTAzOTA3OTUsMjA4
-NjU5NDc0N119
+eyJoaXN0b3J5IjpbLTEyNzQwNDQ3NSwxOTg0OTk0NTE2LC00OT
+gzMjQwOTYsLTE3Mjc0MzUyMjAsNDc1OTEwMzgwLDEwMTEwNTcz
+NzUsNzEzMjc1NDI4LDc2ODQ1ODY4NSwyMDQ4NzgxMzMyLC0xND
+A2Njg5OTYwLC01MTQ5MzYxMjgsMTkyMzA4OTg3NSwtNTU3OTIy
+NDA3LDIxNDczMjcxNTUsLTMzOTk3MDY2NSwtMTkzNTIwNzc3OS
+wxMTk4MTEzNzMzLDE0MTQ0MzQ0NCwtMTgxMDM5MDc5NSwyMDg2
+NTk0NzQ3XX0=
 -->
