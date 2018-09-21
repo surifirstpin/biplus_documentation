@@ -73,7 +73,7 @@ To delete the project created hit the **Delete** icon, on far right of the proje
 
 ## Model and Customization
 
-After saving a project, BiPlus will display the views and relevant information of the project as a Model which can be customized as per the business requirement. 
+After saving a project, Acubi will display the views and relevant information of the project as a Model which can be customized as per the business requirement. 
 
 After Saving a project, model screen is triggered as shown in below image.
 Depending on the table joins applied the code is retrieved in JSON format. To refresh the data, click on the refresh icon of model, project and tables.
@@ -669,11 +669,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDkzNjEyOCwxOTIzMDg5ODc1LC01NT
-c5MjI0MDcsMjE0NzMyNzE1NSwtMzM5OTcwNjY1LC0xOTM1MjA3
-Nzc5LDExOTgxMTM3MzMsMTQxNDQzNDQ0LC0xODEwMzkwNzk1LD
-IwODY1OTQ3NDcsLTE1NzIxODEzNzIsMTE0MTczMDc5MSwtMjA2
-NjA2NjY4MiwtMTEzNTY2Mjk2MiwxMjQzNjU4OTQyLC0yMDAyND
-kwNjU1LC0yODI3ODY5NjIsLTEzMjMyNjk1MzQsLTcwMjM0Njg4
-NCwtNzk4NDgzMTA4XX0=
+eyJoaXN0b3J5IjpbLTEwMzUzMTQyNzksLTUxNDkzNjEyOCwxOT
+IzMDg5ODc1LC01NTc5MjI0MDcsMjE0NzMyNzE1NSwtMzM5OTcw
+NjY1LC0xOTM1MjA3Nzc5LDExOTgxMTM3MzMsMTQxNDQzNDQ0LC
+0xODEwMzkwNzk1LDIwODY1OTQ3NDcsLTE1NzIxODEzNzIsMTE0
+MTczMDc5MSwtMjA2NjA2NjY4MiwtMTEzNTY2Mjk2MiwxMjQzNj
+U4OTQyLC0yMDAyNDkwNjU1LC0yODI3ODY5NjIsLTEzMjMyNjk1
+MzQsLTcwMjM0Njg4NF19
 -->
