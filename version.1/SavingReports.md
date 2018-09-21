@@ -37,8 +37,6 @@ Filter are used to extract only specific data you want to view. this function is
  
 - **Filter**  filters added in this section is automatically reflected in the filter section of dashboard reports.
 
->Image 3
-
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0cd869712c2e2db47b176cb6dda6dc83d8b0db1e/images/filter_reports.png)
 
@@ -51,12 +49,11 @@ Cache saves the data, so the future request for the data is provided faster.
 - **Time frame** Enables a time limit.
 
 - **Repeat every** Enables automatic repeat in specified time range.
->Image 4
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjQ0OTc2OSw3MzY3MzY3NzgsMzY1Nz
-E5NjgzLDE5MjMwNzc5MTIsLTg4ODk1ODg1OCwtMzM3MjYyMDJd
-fQ==
+eyJoaXN0b3J5IjpbMTk4MjU1NjEwLDczNjczNjc3OCwzNjU3MT
+k2ODMsMTkyMzA3NzkxMiwtODg4OTU4ODU4LC0zMzcyNjIwMl19
+
 -->
