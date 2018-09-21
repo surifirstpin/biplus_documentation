@@ -68,21 +68,22 @@ In your query result you can view the data in ascending or descending order by a
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section. the dialects used for creating a derived view should be same as in SQL runner.
 
-To get started with derived view, Click on list icon and select Create Derived View.
+To get started with derived view, Click on list icon and select create Derived View.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/derived%201.png)
 
-**Enter the below fields ;**
+**Enter the below fields :**
 
-- **Derived View Name** Enter Label for identification to the new derived view.
+- **Derived View Name** Enter Label for identification of new derived view.
 
 - **Projects** Select the dialects using the drop down button.
  
 - **Query** the query created in sql runner will be added here.
  
  -  **Field List** On selecting the dialects all the fields used in query are reflected here.
- Click on Create, to create the New Custom view. 
+ 
+ -  Click  on **Create**, to create a new custom view. 
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/custom_view.png)
@@ -92,7 +93,7 @@ To view the newly created derived view. Goto Model section under the views list 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzNDc5ODczLC0zMTUyNzgwNyw0ODU2NT
-M1OTQsMTk3ODgyMDczMCw3NTkzMjg5NDYsLTQ0ODE0NjA5Niwx
-OTEzMDE5NDc0XX0=
+eyJoaXN0b3J5IjpbMTU4NDExNjM5OCwtMzE1Mjc4MDcsNDg1Nj
+UzNTk0LDE5Nzg4MjA3MzAsNzU5MzI4OTQ2LC00NDgxNDYwOTYs
+MTkxMzAxOTQ3NF19
 -->
