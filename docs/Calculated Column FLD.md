@@ -72,7 +72,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 ](https://raw.githubusercontent.com/sv18042016/fp1/e7895f0d4e17c8c8cbdccd25330829252949ae5b/images/cal_example.png)
 
 
-**BiPlus supports following functionalities in calculated column :**
+**AcuBi supports following functionalities in calculated column :**
 
 ### General
 | **Name**| **Description**  | **Usage and  Example**|
@@ -421,7 +421,7 @@ ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} 
 
 ## Local Function
 
-Custom function is a block of code (Series of statements which intended to a particular task) with submitted inputs and derivable output. It will ease-up the process of calculations when a series of statements or actions to be repeated on a set of values and output to be derived. BiPlus supports local function which can be written inside the function body:
+Custom function is a block of code (Series of statements which intended to a particular task) with submitted inputs and derivable output. It will ease-up the process of calculations when a series of statements or actions to be repeated on a set of values and output to be derived. AcuBi supports local function which can be written inside the function body:
 ```
 /*START*/
 function fname(param1, param2, param3 ..ParamN)
@@ -441,9 +441,9 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1OTE1ODk2LDk3NTEzMTcwLDEwNjY5ND
-IxMTYsMTU0MzUyMTUwLC0xNDQwNzc1MjQ4LDEzMDI2MTU3NDks
-LTI0NTE3MzkwNSwtMjA5Mzk5OTczMCwtMTMwODQ1MTMxMCwtOT
-c2MDY4MjExLC0xNTY4NzU5MjUyLC0xNzM2NjA5NjQ0LC0zMTIy
-NDE1NDhdfQ==
+eyJoaXN0b3J5IjpbLTg3Nzc1MTUwMCw5NzUxMzE3MCwxMDY2OT
+QyMTE2LDE1NDM1MjE1MCwtMTQ0MDc3NTI0OCwxMzAyNjE1NzQ5
+LC0yNDUxNzM5MDUsLTIwOTM5OTk3MzAsLTEzMDg0NTEzMTAsLT
+k3NjA2ODIxMSwtMTU2ODc1OTI1MiwtMTczNjYwOTY0NCwtMzEy
+MjQxNTQ4XX0=
 -->
