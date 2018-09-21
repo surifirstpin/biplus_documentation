@@ -395,12 +395,12 @@ Where the expression contain the fields of self view and should result a single 
 ```
 ## Custom View
 
-Custom fields are user defined fields for which we apply arithmetic  and logical operations that are supported by database.
-A view may join other views and there relationship are defined as part of data analysis section of model file.
+Custom fields are user defined fields for which we apply arithmetic  and logical operations that are supported by database. A view may join other views and there relationship are defined as part of data analysis section of model file.
 
 ### New Custom View
 
 **1.** Click on **New Empty view** to create or derive a new custom view table.
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3b50165c4cf02e474b87d097aa2f8b0897fae1ae/images/custom_table.png)
 
@@ -653,11 +653,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzNzMzODIwLC00OTgzMjQwOTYsLTE3Mj
-c0MzUyMjAsNDc1OTEwMzgwLDEwMTEwNTczNzUsNzEzMjc1NDI4
-LDc2ODQ1ODY4NSwyMDQ4NzgxMzMyLC0xNDA2Njg5OTYwLC01MT
-Q5MzYxMjgsMTkyMzA4OTg3NSwtNTU3OTIyNDA3LDIxNDczMjcx
-NTUsLTMzOTk3MDY2NSwtMTkzNTIwNzc3OSwxMTk4MTEzNzMzLD
-E0MTQ0MzQ0NCwtMTgxMDM5MDc5NSwyMDg2NTk0NzQ3LC0xNTcy
-MTgxMzcyXX0=
+eyJoaXN0b3J5IjpbMTk4NDk5NDUxNiwtNDk4MzI0MDk2LC0xNz
+I3NDM1MjIwLDQ3NTkxMDM4MCwxMDExMDU3Mzc1LDcxMzI3NTQy
+OCw3Njg0NTg2ODUsMjA0ODc4MTMzMiwtMTQwNjY4OTk2MCwtNT
+E0OTM2MTI4LDE5MjMwODk4NzUsLTU1NzkyMjQwNywyMTQ3MzI3
+MTU1LC0zMzk5NzA2NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMy
+wxNDE0NDM0NDQsLTE4MTAzOTA3OTUsMjA4NjU5NDc0NywtMTU3
+MjE4MTM3Ml19
 -->
