@@ -155,14 +155,22 @@ To filter data from a view and the respective mapping views, the filter criteria
 I.  **filter_sql :**  the filter expression or condition. Filter expression can be date-based, string-based, number-based and even login-based.
 
 -  **Date-based** standard filters which are applicable on date.
--  String-based standard filters which are applicable on string.
--  Number-based :**  number fields in database are allowed.
+```
+ ROOT.Orders.OrderDate < TRUNC(SYSDATE)  
+```
+-  **String-based** standard filters which are applicable on string.
+```
+ ROOT.Orders.PaymentMode IN (‘Cash’,’PayTM’)
+ ```
+-  **Number-based** :**  Number fields in database are allowed.
+```
+ROOT.BI_Orders.Amount IS NOT NULL
+```
  **For Instance :**  
  
-**Date based** : ROOT.Orders.OrderDate < TRUNC(SYSDATE)  
-**String based** : ROOT.Orders.PaymentMode IN (‘Cash’,’PayTM’)  
-**Number based** : ROOT.BI_Orders.Amount IS NOT NULL
-
+**
+**String based** :  
+**Number based** : 
 -   **User-based :**  BiPlus allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users. That means, for a particular user login, the data retrievable in Analyze section will be constrained with a list of pre-defined values.
 
 ```
@@ -669,11 +677,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0MTQxNTcsMjA0ODc4MTMzMiwtMTQwNj
-Y4OTk2MCwtNTE0OTM2MTI4LDE5MjMwODk4NzUsLTU1NzkyMjQw
-NywyMTQ3MzI3MTU1LC0zMzk5NzA2NjUsLTE5MzUyMDc3NzksMT
-E5ODExMzczMywxNDE0NDM0NDQsLTE4MTAzOTA3OTUsMjA4NjU5
-NDc0NywtMTU3MjE4MTM3MiwxMTQxNzMwNzkxLC0yMDY2MDY2Nj
-gyLC0xMTM1NjYyOTYyLDEyNDM2NTg5NDIsLTIwMDI0OTA2NTUs
-LTI4Mjc4Njk2Ml19
+eyJoaXN0b3J5IjpbMTk2NTQ0NzkwLDIwNDg3ODEzMzIsLTE0MD
+Y2ODk5NjAsLTUxNDkzNjEyOCwxOTIzMDg5ODc1LC01NTc5MjI0
+MDcsMjE0NzMyNzE1NSwtMzM5OTcwNjY1LC0xOTM1MjA3Nzc5LD
+ExOTgxMTM3MzMsMTQxNDQzNDQ0LC0xODEwMzkwNzk1LDIwODY1
+OTQ3NDcsLTE1NzIxODEzNzIsMTE0MTczMDc5MSwtMjA2NjA2Nj
+Y4MiwtMTEzNTY2Mjk2MiwxMjQzNjU4OTQyLC0yMDAyNDkwNjU1
+LC0yODI3ODY5NjJdfQ==
 -->
