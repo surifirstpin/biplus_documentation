@@ -177,8 +177,7 @@ ROOT.BI_Orders.Amount IS NOT NULL
 " ROOT.Orders.StationCode IN (#{ModelParams.StationCode,#userid#,Username})"
 ```
 
-II.  **Position**  It is the priority of the filter and can be “before” or “after”.
-
+**II.**  **Position**  It is the priority to apply the filter “before” or “after”.
 -   **Before**  the filter will be applied first to the data, before any other filters on data are applied in analyze section.
 -   **After**  the filter will be applied to the data only after other filters are applied in Analyze section.
 
@@ -671,11 +670,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDE4MjI1NDYsNzY4NDU4Njg1LDIwND
-g3ODEzMzIsLTE0MDY2ODk5NjAsLTUxNDkzNjEyOCwxOTIzMDg5
-ODc1LC01NTc5MjI0MDcsMjE0NzMyNzE1NSwtMzM5OTcwNjY1LC
-0xOTM1MjA3Nzc5LDExOTgxMTM3MzMsMTQxNDQzNDQ0LC0xODEw
-MzkwNzk1LDIwODY1OTQ3NDcsLTE1NzIxODEzNzIsMTE0MTczMD
-c5MSwtMjA2NjA2NjY4MiwtMTEzNTY2Mjk2MiwxMjQzNjU4OTQy
-LC0yMDAyNDkwNjU1XX0=
+eyJoaXN0b3J5IjpbMjIzNDI5MTk0LDc2ODQ1ODY4NSwyMDQ4Nz
+gxMzMyLC0xNDA2Njg5OTYwLC01MTQ5MzYxMjgsMTkyMzA4OTg3
+NSwtNTU3OTIyNDA3LDIxNDczMjcxNTUsLTMzOTk3MDY2NSwtMT
+kzNTIwNzc3OSwxMTk4MTEzNzMzLDE0MTQ0MzQ0NCwtMTgxMDM5
+MDc5NSwyMDg2NTk0NzQ3LC0xNTcyMTgxMzcyLDExNDE3MzA3OT
+EsLTIwNjYwNjY2ODIsLTExMzU2NjI5NjIsMTI0MzY1ODk0Miwt
+MjAwMjQ5MDY1NV19
 -->
