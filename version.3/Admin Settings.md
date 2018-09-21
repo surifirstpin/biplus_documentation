@@ -2,7 +2,7 @@
 
  <center><h1>Admin Settings</h1></center>
 
-BiPlus Administrative settings allows you to customize BiPlus for your Organisation.
+AcuBi Administrative settings allows you to customize AcuBi for your Organisation.
 
 Here is how to get started with administrative settings and its features.
 
@@ -78,7 +78,7 @@ To Edit or Delete already existing group as per your business requirement, Go ba
 
 ## Global Parameters
 
-BiPlus allows you to provide additional key values to manipulate the data in calculations column, control data etc. 
+AcuBi allows you to provide additional key values to manipulate the data in calculations column, control data etc. 
 
  **Existing Features of Global Parameters;**
 - Control data access based on login.
@@ -208,5 +208,6 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzcwMDAzMCwtMjA5MzU4MTQyM119
+eyJoaXN0b3J5IjpbMjAxNjQ0MTM2OSwxNDczNzAwMDMwLC0yMD
+kzNTgxNDIzXX0=
 -->
