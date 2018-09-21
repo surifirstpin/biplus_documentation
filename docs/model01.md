@@ -53,7 +53,7 @@ A model is a customized gateway into the database for accessing data as per busi
 ](https://raw.githubusercontent.com/sv18042016/fp1/8dcf17faa6e3f50d5f3f79ae269a02c1eb7237c9/images/save_project.png)
 
 
-**3.** Once all the entries are made click on  **Save project**  to save the project created.
+**3.** Once all the entries are made, click on  **Save Project**  to save the project created.
 
 ## Edit Project
 
@@ -669,11 +669,11 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzA4OTg3NSwtNTU3OTIyNDA3LDIxND
-czMjcxNTUsLTMzOTk3MDY2NSwtMTkzNTIwNzc3OSwxMTk4MTEz
-NzMzLDE0MTQ0MzQ0NCwtMTgxMDM5MDc5NSwyMDg2NTk0NzQ3LC
-0xNTcyMTgxMzcyLDExNDE3MzA3OTEsLTIwNjYwNjY2ODIsLTEx
-MzU2NjI5NjIsMTI0MzY1ODk0MiwtMjAwMjQ5MDY1NSwtMjgyNz
-g2OTYyLC0xMzIzMjY5NTM0LC03MDIzNDY4ODQsLTc5ODQ4MzEw
-OCwxMzAyMzYwNzQ4XX0=
+eyJoaXN0b3J5IjpbLTE4OTg2OTIxNDcsMTkyMzA4OTg3NSwtNT
+U3OTIyNDA3LDIxNDczMjcxNTUsLTMzOTk3MDY2NSwtMTkzNTIw
+Nzc3OSwxMTk4MTEzNzMzLDE0MTQ0MzQ0NCwtMTgxMDM5MDc5NS
+wyMDg2NTk0NzQ3LC0xNTcyMTgxMzcyLDExNDE3MzA3OTEsLTIw
+NjYwNjY2ODIsLTExMzU2NjI5NjIsMTI0MzY1ODk0MiwtMjAwMj
+Q5MDY1NSwtMjgyNzg2OTYyLC0xMzIzMjY5NTM0LC03MDIzNDY4
+ODQsLTc5ODQ4MzEwOF19
 -->
