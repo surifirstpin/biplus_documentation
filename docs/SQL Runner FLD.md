@@ -6,7 +6,7 @@ Using SQL Runner you can directly Access your database and clout that access in 
 
 ## Navigate To SQL Runner
 
-- To Navigate to SQL Runner, Login to BiPlus homepage and click on **SQL Runner Section** or,
+- To Navigate to SQL Runner, Login to AcuBi homepage and click on **SQL Runner Section** or,
 
 - In **Analysis Section**, After Creating a report Click on **SQL Tab** to view the SQL query.
 
@@ -150,10 +150,10 @@ Now, let us see how to create a query in **Analysis Section**.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODU2Mzg0MCwtMTc4NTcxMzU3NiwxMT
-Q0NDEzMjQwLDkxODE2ODE3MywtMTE2ODY3NjAwMSwtODE3NDQ4
-MjgyLC01MTI1MDUwOTEsLTE5OTIwMDU0MSw1NTc4MTcyODksLT
-E5NDA0NjQxNTEsNDYzMTkwOTc2LC03NzgzMDE3MzAsLTgxMjI0
-ODQsLTEwMzMyNTA0MTgsLTE0MjI3MzQ4NiwtNjg2NTI3MTUyLC
-0xODA2NjU1MjM2LC0xODUyNjcxMjY4XX0=
+eyJoaXN0b3J5IjpbMTk0ODQ4ODQ1LDIxMjg1NjM4NDAsLTE3OD
+U3MTM1NzYsMTE0NDQxMzI0MCw5MTgxNjgxNzMsLTExNjg2NzYw
+MDEsLTgxNzQ0ODI4MiwtNTEyNTA1MDkxLC0xOTkyMDA1NDEsNT
+U3ODE3Mjg5LC0xOTQwNDY0MTUxLDQ2MzE5MDk3NiwtNzc4MzAx
+NzMwLC04MTIyNDg0LC0xMDMzMjUwNDE4LC0xNDIyNzM0ODYsLT
+Y4NjUyNzE1MiwtMTgwNjY1NTIzNiwtMTg1MjY3MTI2OF19
 -->
