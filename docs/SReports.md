@@ -1,6 +1,6 @@
 <center><h1> Reports</h1></center>
 
- Reports in BiPlus can extract the data effectively and collaborate more efficiently instead of of accessing the data in a regular traditional manner. Just in matters of seconds, you can confess a story in what way your organisation is making a difference in the world.
+ Reports in AcuBi can extract the data effectively and collaborate more efficiently instead of of accessing the data in a regular traditional manner. Just in matters of seconds, you can confess a story in what way your organisation is making a difference in the world.
 
 ## View Report
 
@@ -118,9 +118,9 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzAzMDg1OSwtMzMyOTA3Mzc1LDY5Mj
-Q4NjIwNiwxNDA5NDExOTEwLDE2MTYxOTUxMDcsMTYyMjg4NjMs
-MzAwNjcwNzI1LDE4MjI4OTk0MzksLTgxMTEwNjk4MiwtMTU1MD
-gyNzg1NywtMTMyMjIzNTc5OCwxNzMwOTc5Nzk4LC0xMjU2OTc0
-NDExXX0=
+eyJoaXN0b3J5IjpbMTMwNzQyMjM0NywxMTI3MDMwODU5LC0zMz
+I5MDczNzUsNjkyNDg2MjA2LDE0MDk0MTE5MTAsMTYxNjE5NTEw
+NywxNjIyODg2MywzMDA2NzA3MjUsMTgyMjg5OTQzOSwtODExMT
+A2OTgyLC0xNTUwODI3ODU3LC0xMzIyMjM1Nzk4LDE3MzA5Nzk3
+OTgsLTEyNTY5NzQ0MTFdfQ==
 -->
