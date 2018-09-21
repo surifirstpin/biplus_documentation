@@ -49,7 +49,7 @@ You can make use of **Analysis Section** to create a query.
 
 You have an ability to view all the recent history of all the queries, which have been run in SQL Runner.
 
-To view the recent history, click on history tab available at the top right of the SQL query area. history section displays all the query run on SQL runner. Green colour indicates successfully query and Red colour indicates query that did not run successfully due to the error.  
+To view the recent history, click on history tab available at the top right of the SQL query area. history section displays all the query run on SQL runner. Green colour indicates query is successful and Red colour indicates unsuccessful query due to the error.  
 
 Click on **Run Query** in history section, to re-run the previous query.
 
@@ -92,7 +92,7 @@ To view the newly created derived view. Goto Model section under the views list 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxNzc0NzI2LDQ4NTY1MzU5NCwxOTc4OD
+eyJoaXN0b3J5IjpbLTMxNTI3ODA3LDQ4NTY1MzU5NCwxOTc4OD
 IwNzMwLDc1OTMyODk0NiwtNDQ4MTQ2MDk2LDE5MTMwMTk0NzRd
 fQ==
 -->
