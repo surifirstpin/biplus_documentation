@@ -97,9 +97,9 @@ Apply report filter **Sum count equals to 1** in Analysis section and the data r
 
 ## Save As / Update option for a saved report in Edit
 
-**9.**  To update the changes made to report click on **Update** button.
+**9.**  To update the changes made to report click **Update** button.
 
-**10.**  To save the updated report click on **Save as** button.
+**10.**  To save the updated report click **Save as** button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ec5304fcf5a159a2da18bfa3ac9681b06328b291/images/update_report2.png)
 
@@ -118,9 +118,9 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODE5NzkwOSwxMTI3MDMwODU5LC0zMz
-I5MDczNzUsNjkyNDg2MjA2LDE0MDk0MTE5MTAsMTYxNjE5NTEw
-NywxNjIyODg2MywzMDA2NzA3MjUsMTgyMjg5OTQzOSwtODExMT
-A2OTgyLC0xNTUwODI3ODU3LC0xMzIyMjM1Nzk4LDE3MzA5Nzk3
-OTgsLTEyNTY5NzQ0MTFdfQ==
+eyJoaXN0b3J5IjpbLTEyMDUyMjk0OTEsMTEyNzAzMDg1OSwtMz
+MyOTA3Mzc1LDY5MjQ4NjIwNiwxNDA5NDExOTEwLDE2MTYxOTUx
+MDcsMTYyMjg4NjMsMzAwNjcwNzI1LDE4MjI4OTk0MzksLTgxMT
+EwNjk4MiwtMTU1MDgyNzg1NywtMTMyMjIzNTc5OCwxNzMwOTc5
+Nzk4LC0xMjU2OTc0NDExXX0=
 -->
