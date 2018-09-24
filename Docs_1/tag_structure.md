@@ -1,52 +1,51 @@
 
 <center><h1>Tag Structure</h1></center>
 
+Tag structure in AcuBi, it is a nested layered structure that provides an opportunity to save a report in any of the hierarchical tag location. Depending on your business requirements, you can create number of parent and child tags in order to save the reports generated.
 
-BiPlus Provides a nested layered structure by providing you an ability to save the Reports in any of the hierarchical tag location depending on your business requirements. You can create your own number of parent and child tags to save the files.
-
-**For Instance :** If you have total 200 reports on customer information and salary information, For that you can create 2 layers of tag one for customer information and another for sales information and save the reports separately in different tags for easy access of reports.
+**For Instance :** If you have total 200 reports on customer information and salary information, For which you can create two layers of tag structure, one to save reports on customer information and other to save reports on sales information separately for easy accessing.
 
 **Now Let us see how to create a Tag ;**
 
 To create a **New Tag** Click on **Add Tag** in dashboard section. 
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/43977e0aacf8e6d3700e11bd453bddafbcc0d2cd/images/add%20tag.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/master/images/tag_n.png)
 
-It will navigate to Add Tag **Pop-up Screen**, Enter the below information in Pop-up Screen.
+immediately, It will pop-up a **Add Tag** page, Enter below information in Pop-up page.
 
 - **Tag Name**  identifier name for the new tag.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/457c21c373c4db9d2f1ae47344146723ffe79d2d/images/tag_2.png)
-
-- To Create a new **Parent Tag** Select the workspace and click **Ok.**
-
-- To create a **Child Tag** save it under the desired parent tag. You can add multiple child tags in parent tag.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/c1b8fc9522826986d90afc6df61df3f988227475/images/child_tag.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/572c5cee7ab90c2d6e74d3d9b78e60020cf2f5eb/images/Parent_tag.png)
 
-Before saving the tag select the privacy option to enable the Access to tag.
+- To create a new **Parent Tag** Select the workspace and click **OK** to save save as parent tag.
 
-- **Enable Privacy** select privacy options for tag.
+- To create a **Child Tag** select the desired parent tag and click **OK** to save it has child tag. You can add multiple child tags in parent tag.
+
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/572c5cee7ab90c2d6e74d3d9b78e60020cf2f5eb/images/child_tag.png)
+
+Before saving the tag created, Select the privacy option to enable the access to tag as explained below;
+
+Select any of the below privacy options for new tag.
 
   -  **Private** Tag saved in private section is accessed by the user itself.
   -  **Public**  Tag saved in public section is accessed by all the users. 
   -  **Share** Tag saved under share section is accessed by specific set of users.
 
-All the saved tags are visible in tree view as shown below.
+All the saved tags are visible in List view or Folder view,
+Use setting icon, available at far right of the tag created to **Edit, Delete** and to add the **Thumbnail** to Parent tag.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/191f8906591a719bb70c33b807cb4c3dabf4ed4e/images/tree_view.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/cebf774f6f7807b17ff6d702c0f86d83d3e96e1e/images/Tag_listview.png)
 
-To **Edit** or **Delete** a Tag Click on the Specified Icon prescribed for Editing and Deleting.
-
-In order to change the privacy option for a saved tag and to change the child tag to parent tag or a parent tag to child tag you can make use of **Setting Icon.**
-
+Click on Parent Tag, to view the child_tag saved under parent tag.
+Use setting icon, available at far right of the tag created to **Edit, Delete** and to add the **Thumbnail** to Child tag.
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/8170dc06ffe7bf872e20e1530d9f2d2c50b6f6f3/images/edit_tag_full.png)
-
+](https://raw.githubusercontent.com/sv18042016/fp1/cebf774f6f7807b17ff6d702c0f86d83d3e96e1e/images/child_tag_in%20parent.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODUyMjY4M119
+eyJoaXN0b3J5IjpbLTE2MzI5NDM4NDddfQ==
 -->
