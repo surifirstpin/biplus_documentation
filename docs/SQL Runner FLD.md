@@ -151,9 +151,13 @@ Now, let us see how to create a query in **Analysis Section**.
 
 ## Tagged
 
-Tagged section is used to save the pre-written query and use it later as per the business requirement
+Tagged section is used to save the pre-written query and use it later as per the business requirement.
+
+All the created tags are visible in tagged section.
+**Follow the below steps to create TAG:**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTk0ODY2NjEsMTk0ODQ4ODQ1LDIxMj
+eyJoaXN0b3J5IjpbLTEwMDUzNDE2MDEsMTk0ODQ4ODQ1LDIxMj
 g1NjM4NDAsLTE3ODU3MTM1NzYsMTE0NDQxMzI0MCw5MTgxNjgx
 NzMsLTExNjg2NzYwMDEsLTgxNzQ0ODI4MiwtNTEyNTA1MDkxLC
 0xOTkyMDA1NDEsNTU3ODE3Mjg5LC0xOTQwNDY0MTUxLDQ2MzE5
