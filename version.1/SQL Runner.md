@@ -120,13 +120,13 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1a7f8565de46814dd5aab91b5cfe32b61e4252e5/images/Tag2.png)
 
-- All the created tags are visible in Tagged Section.
+- All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA1Nzc0OSwtMTY0MTQ4NDE3MywtMz
-E1Mjc4MDcsNDg1NjUzNTk0LDE5Nzg4MjA3MzAsNzU5MzI4OTQ2
-LC00NDgxNDYwOTYsMTkxMzAxOTQ3NCw0MTkwNDAwNzcsLTY4Mz
-I3OTAzOCwtMTA4ODMyMzM5MywxODE0MTQyNzcyLDE0NjQxODYy
-MTEsMTg4Mzk1NzMxOSwtMjQwMTEwNTg1LC02MzcxMzQzNTEsLT
-QxMzg1NDc4LDE1ODc1NDE3OTMsMTYyMzgzNTU0NCw1Njk3NjE2
-XX0=
+eyJoaXN0b3J5IjpbODE3MTEzMzksLTE2NDE0ODQxNzMsLTMxNT
+I3ODA3LDQ4NTY1MzU5NCwxOTc4ODIwNzMwLDc1OTMyODk0Niwt
+NDQ4MTQ2MDk2LDE5MTMwMTk0NzQsNDE5MDQwMDc3LC02ODMyNz
+kwMzgsLTEwODgzMjMzOTMsMTgxNDE0Mjc3MiwxNDY0MTg2MjEx
+LDE4ODM5NTczMTksLTI0MDExMDU4NSwtNjM3MTM0MzUxLC00MT
+M4NTQ3OCwxNTg3NTQxNzkzLDE2MjM4MzU1NDQsNTY5NzYxNl19
+
 -->
