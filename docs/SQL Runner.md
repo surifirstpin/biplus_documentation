@@ -6,7 +6,7 @@ Using SQL Runner, you can directly Access your database and clout that access in
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/532dd8b61e94d1e08fe0b89afa6a5961336e8ad2/images/sql_ru.png)
 
-- You can directly write the SQL query from scratch and run the same make sure the dialects used in SQL runner should match the database dialects. 
+- You can directly write the SQL query from scratch and run the same, make sure the dialects used in SQL runner should match the database dialects. 
 
 - You can also create SQL query in analysis section. 
 
@@ -122,8 +122,8 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDcyOTc3LDEzODQ2MTAwMTEsODE3MT
-EzMzksLTE2NDE0ODQxNzMsLTMxNTI3ODA3LDQ4NTY1MzU5NCwx
-OTc4ODIwNzMwLDc1OTMyODk0NiwtNDQ4MTQ2MDk2LDE5MTMwMT
-k0NzRdfQ==
+eyJoaXN0b3J5IjpbMTg4MzIwMzQwNSwxMzg0NjEwMDExLDgxNz
+ExMzM5LC0xNjQxNDg0MTczLC0zMTUyNzgwNyw0ODU2NTM1OTQs
+MTk3ODgyMDczMCw3NTkzMjg5NDYsLTQ0ODE0NjA5NiwxOTEzMD
+E5NDc0XX0=
 -->
