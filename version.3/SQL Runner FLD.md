@@ -158,7 +158,7 @@ All the created tags are visible in tagged section.
 
 Under query section Click **Tag** Button, it will pop up Create query Tag window :
 
-Enter Below Information :
+**Enter Below Information :**
 
 **Tag Name** Enter tag name
 
@@ -173,11 +173,11 @@ Enter Below Information :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjUwODM3ODYsMTk0ODQ4ODQ1LDIxMj
-g1NjM4NDAsLTE3ODU3MTM1NzYsMTE0NDQxMzI0MCw5MTgxNjgx
-NzMsLTExNjg2NzYwMDEsLTgxNzQ0ODI4MiwtNTEyNTA1MDkxLC
-0xOTkyMDA1NDEsNTU3ODE3Mjg5LC0xOTQwNDY0MTUxLDQ2MzE5
-MDk3NiwtNzc4MzAxNzMwLC04MTIyNDg0LC0xMDMzMjUwNDE4LC
-0xNDIyNzM0ODYsLTY4NjUyNzE1MiwtMTgwNjY1NTIzNiwtMTg1
-MjY3MTI2OF19
+eyJoaXN0b3J5IjpbLTgxMjAxNDkyMiwtMjA2NTA4Mzc4NiwxOT
+Q4NDg4NDUsMjEyODU2Mzg0MCwtMTc4NTcxMzU3NiwxMTQ0NDEz
+MjQwLDkxODE2ODE3MywtMTE2ODY3NjAwMSwtODE3NDQ4MjgyLC
+01MTI1MDUwOTEsLTE5OTIwMDU0MSw1NTc4MTcyODksLTE5NDA0
+NjQxNTEsNDYzMTkwOTc2LC03NzgzMDE3MzAsLTgxMjI0ODQsLT
+EwMzMyNTA0MTgsLTE0MjI3MzQ4NiwtNjg2NTI3MTUyLC0xODA2
+NjU1MjM2XX0=
 -->
