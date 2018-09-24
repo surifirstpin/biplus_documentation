@@ -14,7 +14,7 @@ Using SQL Runner you can directly access database and clout the access in variet
 ](https://raw.githubusercontent.com/sv18042016/fp1/8301318bea750b7d048df7f5a8e06607d216dce7/images/navigate_sql.png)
 
 
-- Select the **Connection and Schema** using a drop-down based on which you would like to query.
+- Select the **Connection and Schema** using a drop-down list based on which you would like to query.
 
 - Select the desired **Table** using drop-down.
 
@@ -177,11 +177,11 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTU5NzQwMCwtODEyMDE0OTIyLC0yMD
-Y1MDgzNzg2LDE5NDg0ODg0NSwyMTI4NTYzODQwLC0xNzg1NzEz
-NTc2LDExNDQ0MTMyNDAsOTE4MTY4MTczLC0xMTY4Njc2MDAxLC
-04MTc0NDgyODIsLTUxMjUwNTA5MSwtMTk5MjAwNTQxLDU1Nzgx
-NzI4OSwtMTk0MDQ2NDE1MSw0NjMxOTA5NzYsLTc3ODMwMTczMC
-wtODEyMjQ4NCwtMTAzMzI1MDQxOCwtMTQyMjczNDg2LC02ODY1
-MjcxNTJdfQ==
+eyJoaXN0b3J5IjpbMTI2NzA2OTg1MiwxNDc1NTk3NDAwLC04MT
+IwMTQ5MjIsLTIwNjUwODM3ODYsMTk0ODQ4ODQ1LDIxMjg1NjM4
+NDAsLTE3ODU3MTM1NzYsMTE0NDQxMzI0MCw5MTgxNjgxNzMsLT
+ExNjg2NzYwMDEsLTgxNzQ0ODI4MiwtNTEyNTA1MDkxLC0xOTky
+MDA1NDEsNTU3ODE3Mjg5LC0xOTQwNDY0MTUxLDQ2MzE5MDk3Ni
+wtNzc4MzAxNzMwLC04MTIyNDg0LC0xMDMzMjUwNDE4LC0xNDIy
+NzM0ODZdfQ==
 -->
