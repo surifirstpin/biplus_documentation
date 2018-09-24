@@ -160,12 +160,18 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 Enter Below Information :
 
+**Tag Name** Enter tag name
 
+**Connection** displays the connections established for query.
+
+**Query** displays the query established.
+
+**Info**
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwMjcwNDQ4LDE5NDg0ODg0NSwyMTI4NT
+eyJoaXN0b3J5IjpbOTY4MDc4Mzc0LDE5NDg0ODg0NSwyMTI4NT
 YzODQwLC0xNzg1NzEzNTc2LDExNDQ0MTMyNDAsOTE4MTY4MTcz
 LC0xMTY4Njc2MDAxLC04MTc0NDgyODIsLTUxMjUwNTA5MSwtMT
 k5MjAwNTQxLDU1NzgxNzI4OSwtMTk0MDQ2NDE1MSw0NjMxOTA5
