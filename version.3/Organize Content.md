@@ -1,7 +1,7 @@
 
 
 <center><h1>Organize Content</h1></center>
-
+dfsgdgsg
 This Section describes how to move or copy the contents from one location to another location. Using this you can organize Reports and Dashboard in specific tag Structure.
 There are two ways you can work on organizing data,
  
@@ -36,8 +36,9 @@ The circles icon on far right of the screen displays type of privacy setting ( P
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDY0NjIxNiwxODQ3MjQ3MzI0LDgxOD
-UwNTg0LDE4OTM2OTkwNzYsNzQyMTE0NjUyLDExMjcxODE5Mzgs
-LTQ3OTczODI0MywtMTE1ODI5MjAxMywtMzI3NjM2MzE1LDU1Mj
-c1NzYzNCwyMDg0NjM4OTIwLDExMTc1MTk3OTBdfQ==
+eyJoaXN0b3J5IjpbMTc4Mjk1MDg0MywxNzI0NjQ2MjE2LDE4ND
+cyNDczMjQsODE4NTA1ODQsMTg5MzY5OTA3Niw3NDIxMTQ2NTIs
+MTEyNzE4MTkzOCwtNDc5NzM4MjQzLC0xMTU4MjkyMDEzLC0zMj
+c2MzYzMTUsNTUyNzU3NjM0LDIwODQ2Mzg5MjAsMTExNzUxOTc5
+MF19
 -->
