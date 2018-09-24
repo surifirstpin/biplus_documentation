@@ -1,14 +1,15 @@
                           
 
-<center><h1>Why BiPlus </h1></center> 
+<center><h1>Why AcuBi  </h1></center> 
 
 AcuBi is collection of business analytics tools that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the Business. AcuBi  is a single integrated analytical platform that delivers faster and better insights for entire business process, Regardless of any action or industry.
 
-##AcuBi  Advantages
+
+## AcuBi  Advantages
 
 ### Explore from any device
 
-BiPlus is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices. it create, explore and operate on any device, directly at the point of decision.
+AcuBi  is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices. it create, explore and operate on any device, directly at the point of decision.
 
 #### Embedded Analytics
 
@@ -20,7 +21,7 @@ Usage of different type of charts, widgets, pivot tables and tabular view compon
 
 #### Smarter Visualization
 
-BiPlus delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
+AcuBi  delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
 
 #### Beautiful Dashboards
 
@@ -28,10 +29,10 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
 
 #### Customer Success
 
-When it comes to business establishment and success, BiPlus software is an innovation that has ability to share and collaborate ideas efficiently.
+When it comes to business establishment and success, AcuBi  software is an innovation that has ability to share and collaborate ideas efficiently.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjA3MDA5LC0xNzQ0MDE2ODI0LC0yNz
+eyJoaXN0b3J5IjpbMTQ2NzczNDk3LC0xNzQ0MDE2ODI0LC0yNz
 MwNTQzMiwtODY4Mjg3MTQsLTE0MDUwOTczMTAsMTI1MjkxNTIx
 NiwtMjQxOTM3MDczLDg3NjE3NTEzNywxODQ4ODk0NTY3LC0xNj
 IxNDY1ODAzLC0zNzc0OTkzMSwxODg4Nzg3MzM5LDEzMTEwMTcx
