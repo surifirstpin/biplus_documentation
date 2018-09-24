@@ -1,39 +1,39 @@
  <center><h1>Calculated Column</h1></center>
 
-Table calculations enable you to easily create on-the-fly metrics, which are similar to formulas found in Excel sheets. These extracted columns will show up as green in the data table. Using calculated column you can perform mathematical, logical (true/false), lexical (text-based), and date-based calculations on the dimensions, measures, and other table calculations in your query. 
+Table calculations enable you to easily create on-the-fly metrics, which are similar to formulas found in Excel sheets. These extracted columns will be shown up in green colour, in the data table. Using calculated column you can perform mathematical, logical (true/false), lexical (text-based), and date-based calculations on the dimensions, measures, and other table calculations in your query. 
 
 ### Functionalities of Calculated Column
 
 - It supports wide variety of arithmetical and logical functions to be applied on the data.
 
-- It calculates using the data from external parameters (through "Global parameters") by making reference to the database fields. 
+- It is calculated, using the data from external parameters (through "Global parameters") by making reference to the database fields. 
 
 - It controls or access the data with user wise calculations.
 
 - Optimize and transform the data using  **#plugin#**  functionality.
 
-- Define a function or use a global function to be applied on the required data fields.
+- Define a function or use a global function, to be applied on the required data fields.
  
 > **Note:** The functions support JavaScript API.
 
 ### Deriving Expression
 
-Click on **Calculated column** button to enable table calculations as shown in below image,
+Click on **Calculated Column** button it will navigate to calculated column window,
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9dd01207f083d272ba2269a4c999dfa8976f1914/images/calculate%20column1.png)
 
-After navigating to Calculated Column Window, Enter all the below fields.
+Once navigated to Calculated Column Window, Enter the below fields.
 
 - **Field name** unique identifier name to refer calculated column.
 
-- **Label** labeling the calculated column.
+- **Label** specify a identifier name to calculated column the way it should be displayed in the data table.
 
-- **Data type** data type used (string,number).
+- **Data type** data type format for the result (string,number).
 
-- **Field type** derives dimension or measure.
+- **Field type** derives whether the result is dimension or measure.
 
-- **Calculation** To derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
+- **Calculation** Derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
 
 ```
 $(Root.BI_DELIVERYREPORT.sum_ORDERVALUE}+2000
@@ -42,26 +42,23 @@ $(Root.BI_DELIVERYREPORT.sum_ORDERVALUE}+2000
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/aff2f17d1b5383de542a7b534df7caeb69c03b3d/images/calculated_col_window.png)
 
- 
 
-- **Calculate on the raw data** this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
+-  **Calculate on the raw data** if it is enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
+
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
 
-- Click **Ok** after deriving an expression,  all the values based on calculation is shown up in green colour as shown in below image,
+- Click **Ok** after deriving an expression,  all the values based on calculation, is shown up in green colour as shown in below image,
 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)
 
 
-
-
 ## Mathematical operation 
 
 Custom made mathematical operations can be performed in calculated column section as shown below;
-
 
 **Example 1 :**
 
@@ -75,7 +72,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 ](https://raw.githubusercontent.com/sv18042016/fp1/e7895f0d4e17c8c8cbdccd25330829252949ae5b/images/cal_example.png)
 
 
-**BiPlus supports following functionalities in calculated column :**
+**AcuBi supports following functionalities in calculated column :**
 
 ### General
 | **Name**| **Description**  | **Usage and  Example**|
@@ -351,7 +348,7 @@ bi._Fname(input_param1, input_param2,..input_paramN)
 
 ## Access Global Parameters
  
- Global parameter is a flat file used to manipulate,control and organize the data which is not available in database and can be accessed in report, .
+ Global parameter is a flat file used to manipulate,control and organize the data which is not available in database and can be accessed in report.
  ```
  bi.in_global_keys(["ParameterColumnName"] ["DatabaseValue"],"ParameterName.Field"])
 ```
@@ -398,9 +395,9 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 
 ## Calculate on Raw functionality
 
-By enabling the field calculate on raw the calculation are applied directly on the retrieved value of the fields, initially before pivot or grouping are applied.
-
->**For Instance:**  consider the below image, which represents calculated data with and without applying enabling calculate on raw.
+By enabling the field **calculate on raw** the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
+ 
+>**For Instance:**  consider the below image, which represents calculated data with disabling calculate on raw.
 
 ```
 bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE},2)
@@ -409,7 +406,7 @@ bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE},2)
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/457490d3185941046566d493017e4f95c2b8b18a/images/calculate_on_raw.png)
 
-## Calculate column with Pivot Offset
+## Calculate Column with Pivot Offset
 
 >**For Instance:** To view the order-value sum and average w.r.t each station code, then apply pivot to station-code and run the report.
 
@@ -424,7 +421,7 @@ ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} 
 
 ## Local Function
 
-Custom function is a block of code (Series of statements which intended to a particular task) with submitted inputs and derivable output. It will ease-up the process of calculations when a series of statements or actions to be repeated on a set of values and output to be derived. BiPlus supports local function which can be written inside the function body:
+Custom function is a block of code (Series of statements which intended to a particular task) with submitted inputs and derivable output. It will ease-up the process of calculations when a series of statements or actions to be repeated on a set of values and output to be derived. AcuBi supports local function which can be written inside the function body:
 ```
 /*START*/
 function fname(param1, param2, param3 ..ParamN)
@@ -444,7 +441,5 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM5OTk3MzAsLTEzMDg0NTEzMTAsLT
-k3NjA2ODIxMSwtMTU2ODc1OTI1MiwtMTczNjYwOTY0NCwtMzEy
-MjQxNTQ4XX0=
+eyJoaXN0b3J5IjpbLTg3Nzc1MTUwMF19
 -->
