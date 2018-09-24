@@ -149,6 +149,11 @@ Now, let us see how to create a query in **Analysis Section**.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
+## Tagged
+
+Tagged section is used to save the pre-written query and use it later as per the business requirement.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODQ4ODQ1XX0=
+eyJoaXN0b3J5IjpbLTkwNjc0ODMxMywxOTQ4NDg4NDVdfQ==
 -->
