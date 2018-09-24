@@ -3,29 +3,38 @@
 
 <center><h1>Viewing Content</h1></center>
 
-This section provides information on how to view the already existing data in BiPlus, You can view the visualization images in Dashboard Section and for exploring data you can take a look at Analysis Section.
+This section provides information on how to view the existing files in AcuBi.
 
 ## Navigating to Saved Content 
 
-All the saved content is available in Hierarchical tag structure. Tag includes dashboard and Reports that can be accessed to view.
-
+To view the saved content or files in AcuBi, Click on dashboard section all the files are visible either in folder or list view.
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/65a7a2016e969da008299fa05bf06e3a17cffa5d/images/view_content.png)
 **Now Lets Get Started :**
 
-Click on the **Work Space** under Dashboard Section to view the content in BiPlus.
-
-- Click on any Tag to view it.
-> **Note** : Tags under work space are identified with **Plus-Square-o icon.**
-
-- Click on any of the Report to view it.
-> **Note** : Reports in work space are identified with **Line-Chart Icon.**
-
-- Click on any Dashboard to view it.
-> **Note** : Reports in work space are identified with **Tachometer icon.**
-
+### TAGS
+Click on any specific tag which you would like to view. it will navigate to tag location and displays the child tag, reports and dashboard saved under that particulate tag location.
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/acecb4718f4fcc87c3245fbb9a955c19c1bf9370/images/view_list1.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/65a7a2016e969da008299fa05bf06e3a17cffa5d/images/tag.png)
+
+### Dashboard
+
+ Click on any Dashboard to view it. it will display the dashboard layouts and global filters used in the dashboard reports.
+> **Note** : Dashboard are identified with **Tachometer icon.**
+
+Image
+
+
+ ### Reports
+ Click on any specific report. it will display the report output and global filters used in reports.
+> **Note** : Reports are identified with **Line-Chart Icon.**
+
+
+Image
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjQ2OTI0OF19
+eyJoaXN0b3J5IjpbMTM5OTczNjBdfQ==
 -->
