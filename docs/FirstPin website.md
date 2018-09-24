@@ -38,7 +38,7 @@ Enable users to turn their raw data into actionable information by simplifying t
 
 AcuBi Streamline workforce Planning, performance tracking, Analysis and improves the quality in a dynamic regulatory environment for all domains.
 
-# **BiPlus** IN ACTION
+# **AcuBi** IN ACTION
 
 #### Connect to any Data Source
 
@@ -169,7 +169,7 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTk1NTQ5MywtMTE0NzgwMzI3MSwtNT
-c5OTQzNzUxLC03NDE4MjMyNDksMTUyOTk1OTkxNywxMDgxODE0
-NDQ3LDEzNzUzMTYyNTMsMTAwOTMyMTM1MF19
+eyJoaXN0b3J5IjpbLTkzNjk1MzI2LC0xMTQ3ODAzMjcxLC01Nz
+k5NDM3NTEsLTc0MTgyMzI0OSwxNTI5OTU5OTE3LDEwODE4MTQ0
+NDcsMTM3NTMxNjI1MywxMDA5MzIxMzUwXX0=
 -->
