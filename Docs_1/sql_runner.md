@@ -156,6 +156,9 @@ Tagged section is used to save the pre-written query and use it later as per the
 All the created tags are visible in tagged section.
 **Follow the below steps to create TAG:**
 
+Under query section Click Tag Button :
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDUzNDE2MDEsMTk0ODQ4ODQ1XX0=
+eyJoaXN0b3J5IjpbLTY5OTg5MjE4OCwxOTQ4NDg4NDVdfQ==
 -->
