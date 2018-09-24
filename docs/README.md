@@ -2,9 +2,9 @@
 
 <center><h1>Why BiPlus </h1></center> 
 
-BiPlus is collection of business analytics tools that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the Business. BiPlus is a single integrated analytical platform that delivers faster and better insights for entire business process, Regardless of any action or industry.
+AcuBi is collection of business analytics tools that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the Business. AcuBi  is a single integrated analytical platform that delivers faster and better insights for entire business process, Regardless of any action or industry.
 
-## BiPlus Advantages
+##AcuBi  Advantages
 
 ### Explore from any device
 
@@ -31,10 +31,10 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
 When it comes to business establishment and success, BiPlus software is an innovation that has ability to share and collaborate ideas efficiently.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQwMTY4MjQsLTI3MzA1NDMyLC04Nj
-gyODcxNCwtMTQwNTA5NzMxMCwxMjUyOTE1MjE2LC0yNDE5Mzcw
-NzMsODc2MTc1MTM3LDE4NDg4OTQ1NjcsLTE2MjE0NjU4MDMsLT
-M3NzQ5OTMxLDE4ODg3ODczMzksMTMxMTAxNzEzMCwxMzQzMzcw
-NTc4LC0yNjYwODc5MTUsLTIwNzI4NTEwODUsNDI0MzU3ODMxXX
-0=
+eyJoaXN0b3J5IjpbLTc2NjA3MDA5LC0xNzQ0MDE2ODI0LC0yNz
+MwNTQzMiwtODY4Mjg3MTQsLTE0MDUwOTczMTAsMTI1MjkxNTIx
+NiwtMjQxOTM3MDczLDg3NjE3NTEzNywxODQ4ODk0NTY3LC0xNj
+IxNDY1ODAzLC0zNzc0OTkzMSwxODg4Nzg3MzM5LDEzMTEwMTcx
+MzAsMTM0MzM3MDU3OCwtMjY2MDg3OTE1LC0yMDcyODUxMDg1LD
+QyNDM1NzgzMV19
 -->
