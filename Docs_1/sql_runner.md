@@ -166,10 +166,12 @@ Enter Below Information :
 
 **Query** displays the query established.
 
-**Info** enter qu
+**Info** enter query tag information.
+
+ Finally Hit **Create Tag button**.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3MDYwOTE4LDE5NDg0ODg0NV19
+eyJoaXN0b3J5IjpbLTIwNjUwODM3ODYsMTk0ODQ4ODQ1XX0=
 -->
