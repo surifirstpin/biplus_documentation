@@ -160,16 +160,22 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 Enter Below Information :
 
+**Tag Name** Enter tag name
 
+**Connection** displays the connections established for query.
+
+**Query** displays the query established.
+
+**Info** e
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwMjcwNDQ4LDE5NDg0ODg0NSwyMTI4NT
-YzODQwLC0xNzg1NzEzNTc2LDExNDQ0MTMyNDAsOTE4MTY4MTcz
-LC0xMTY4Njc2MDAxLC04MTc0NDgyODIsLTUxMjUwNTA5MSwtMT
-k5MjAwNTQxLDU1NzgxNzI4OSwtMTk0MDQ2NDE1MSw0NjMxOTA5
-NzYsLTc3ODMwMTczMCwtODEyMjQ4NCwtMTAzMzI1MDQxOCwtMT
-QyMjczNDg2LC02ODY1MjcxNTIsLTE4MDY2NTUyMzYsLTE4NTI2
-NzEyNjhdfQ==
+eyJoaXN0b3J5IjpbLTI4OTc2NzM1OSwxOTQ4NDg4NDUsMjEyOD
+U2Mzg0MCwtMTc4NTcxMzU3NiwxMTQ0NDEzMjQwLDkxODE2ODE3
+MywtMTE2ODY3NjAwMSwtODE3NDQ4MjgyLC01MTI1MDUwOTEsLT
+E5OTIwMDU0MSw1NTc4MTcyODksLTE5NDA0NjQxNTEsNDYzMTkw
+OTc2LC03NzgzMDE3MzAsLTgxMjI0ODQsLTEwMzMyNTA0MTgsLT
+E0MjI3MzQ4NiwtNjg2NTI3MTUyLC0xODA2NjU1MjM2LC0xODUy
+NjcxMjY4XX0=
 -->
