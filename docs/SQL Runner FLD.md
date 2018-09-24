@@ -149,11 +149,15 @@ Now, let us see how to create a query in **Analysis Section**.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
 
+## Tagged
+
+Tagged section is used to save the pre-written query and use it later as per the business requirement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODQ4ODQ1LDIxMjg1NjM4NDAsLTE3OD
-U3MTM1NzYsMTE0NDQxMzI0MCw5MTgxNjgxNzMsLTExNjg2NzYw
-MDEsLTgxNzQ0ODI4MiwtNTEyNTA1MDkxLC0xOTkyMDA1NDEsNT
-U3ODE3Mjg5LC0xOTQwNDY0MTUxLDQ2MzE5MDk3NiwtNzc4MzAx
-NzMwLC04MTIyNDg0LC0xMDMzMjUwNDE4LC0xNDIyNzM0ODYsLT
-Y4NjUyNzE1MiwtMTgwNjY1NTIzNiwtMTg1MjY3MTI2OF19
+eyJoaXN0b3J5IjpbLTE3OTk0ODY2NjEsMTk0ODQ4ODQ1LDIxMj
+g1NjM4NDAsLTE3ODU3MTM1NzYsMTE0NDQxMzI0MCw5MTgxNjgx
+NzMsLTExNjg2NzYwMDEsLTgxNzQ0ODI4MiwtNTEyNTA1MDkxLC
+0xOTkyMDA1NDEsNTU3ODE3Mjg5LC0xOTQwNDY0MTUxLDQ2MzE5
+MDk3NiwtNzc4MzAxNzMwLC04MTIyNDg0LC0xMDMzMjUwNDE4LC
+0xNDIyNzM0ODYsLTY4NjUyNzE1MiwtMTgwNjY1NTIzNiwtMTg1
+MjY3MTI2OF19
 -->
