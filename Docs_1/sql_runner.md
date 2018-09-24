@@ -158,7 +158,7 @@ All the created tags are visible in tagged section.
 
 Under query section Click **Tag** Button, it will pop up Create query Tag window :
 
-Enter Below Information :
+**Enter Below Information :**
 
 **Tag Name** Enter tag name
 
@@ -173,5 +173,6 @@ Enter Below Information :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjUwODM3ODYsMTk0ODQ4ODQ1XX0=
+eyJoaXN0b3J5IjpbLTgxMjAxNDkyMiwtMjA2NTA4Mzc4NiwxOT
+Q4NDg4NDVdfQ==
 -->
