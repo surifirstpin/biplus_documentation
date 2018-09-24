@@ -14,7 +14,7 @@ Using SQL Runner you can directly access database and clout the access in variet
 ](https://raw.githubusercontent.com/sv18042016/fp1/8301318bea750b7d048df7f5a8e06607d216dce7/images/navigate_sql.png)
 
 
-- Select the **Connection and Schema** using a drop-down based on which you would like to query.
+- Select the **Connection and Schema** using a drop-down list based on which you would like to query.
 
 - Select the desired **Table** using drop-down.
 
@@ -177,6 +177,6 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTU5NzQwMCwtODEyMDE0OTIyLC0yMD
-Y1MDgzNzg2LDE5NDg0ODg0NV19
+eyJoaXN0b3J5IjpbMTI2NzA2OTg1MiwxNDc1NTk3NDAwLC04MT
+IwMTQ5MjIsLTIwNjUwODM3ODYsMTk0ODQ4ODQ1XX0=
 -->
