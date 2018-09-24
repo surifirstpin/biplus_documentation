@@ -92,8 +92,37 @@ To view the newly created derived view. Navigate to Model section under the view
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png)
+
+## Tagged
+
+Tagged section is used to save the pre-written query and use it later as per the business requirement.
+
+All the created tags are visible in tagged section.
+**Follow the below steps to create TAG:**
+
+Under query section Click **Tag** Button, it will pop up Create query Tag window :
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/1a7f8565de46814dd5aab91b5cfe32b61e4252e5/images/tag1.png)
+
+**Enter Below Information :**
+
+**Tag Name** Enter tag name
+
+**Connection** displays the connections established for query.
+
+**Query** displays the query established.
+
+**Info** enter query tag information.
+
+ Finally Hit **Create Tag button**.
+ 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/1a7f8565de46814dd5aab91b5cfe32b61e4252e5/images/Tag2.png)
+
+- All the created tags are visible in Tagged Section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDE0ODQxNzMsLTMxNTI3ODA3LDQ4NT
-Y1MzU5NCwxOTc4ODIwNzMwLDc1OTMyODk0NiwtNDQ4MTQ2MDk2
-LDE5MTMwMTk0NzRdfQ==
+eyJoaXN0b3J5IjpbLTE3MTA1Nzc0OSwtMTY0MTQ4NDE3MywtMz
+E1Mjc4MDcsNDg1NjUzNTk0LDE5Nzg4MjA3MzAsNzU5MzI4OTQ2
+LC00NDgxNDYwOTYsMTkxMzAxOTQ3NF19
 -->
