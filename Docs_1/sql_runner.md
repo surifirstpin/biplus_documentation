@@ -175,7 +175,9 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1a7f8565de46814dd5aab91b5cfe32b61e4252e5/images/Tag2.png)
 
+
+- All the created tags are visible in Tagged Section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjYwMDIzNTYsLTgxMjAxNDkyMiwtMj
-A2NTA4Mzc4NiwxOTQ4NDg4NDVdfQ==
+eyJoaXN0b3J5IjpbMTkyNzg2OTc4LC04MTIwMTQ5MjIsLTIwNj
+UwODM3ODYsMTk0ODQ4ODQ1XX0=
 -->
