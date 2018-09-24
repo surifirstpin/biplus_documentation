@@ -153,13 +153,15 @@ Now, let us see how to create a query in **Analysis Section**.
 
 Tagged section is used to save the pre-written query and use it later as per the business requirement.
 
+All the created tags are visible in tagged section.
+**Follow the below steps to create TAG:**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjc0ODMxMywxOTQ4NDg4NDUsMjEyOD
-U2Mzg0MCwtMTc4NTcxMzU3NiwxMTQ0NDEzMjQwLDkxODE2ODE3
-MywtMTE2ODY3NjAwMSwtODE3NDQ4MjgyLC01MTI1MDUwOTEsLT
-E5OTIwMDU0MSw1NTc4MTcyODksLTE5NDA0NjQxNTEsNDYzMTkw
-OTc2LC03NzgzMDE3MzAsLTgxMjI0ODQsLTEwMzMyNTA0MTgsLT
-E0MjI3MzQ4NiwtNjg2NTI3MTUyLC0xODA2NjU1MjM2LC0xODUy
-NjcxMjY4XX0=
+eyJoaXN0b3J5IjpbLTEwMDUzNDE2MDEsMTk0ODQ4ODQ1LDIxMj
+g1NjM4NDAsLTE3ODU3MTM1NzYsMTE0NDQxMzI0MCw5MTgxNjgx
+NzMsLTExNjg2NzYwMDEsLTgxNzQ0ODI4MiwtNTEyNTA1MDkxLC
+0xOTkyMDA1NDEsNTU3ODE3Mjg5LC0xOTQwNDY0MTUxLDQ2MzE5
+MDk3NiwtNzc4MzAxNzMwLC04MTIyNDg0LC0xMDMzMjUwNDE4LC
+0xNDIyNzM0ODYsLTY4NjUyNzE1MiwtMTgwNjY1NTIzNiwtMTg1
+MjY3MTI2OF19
 -->
