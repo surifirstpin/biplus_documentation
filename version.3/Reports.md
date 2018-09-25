@@ -98,7 +98,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 |**is not null**                   |data which is not equal to null
 |**is null**                       |data which is equal to null
 
-> **Note :** To View the **Timeline Filters** in details please go to Timeline filters document.
+> **Note :** To view the **Timeline Filters** in details please go to Timeline filters document.
 
 
 **4.** The report data is retrieved based on **filter** applied. all the fields selected are visible in filter expression list using which you can apply filters.
@@ -312,11 +312,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTIwNTgwMiwxMjg1OTUyMDUxLDcxMz
-UxODAxOCwtODg3OTAwMjA0LDE1NTA3MzI1MTcsLTE2Njk0MDQw
-MSwtMjUwOTY0NjY1LDU0NjQwMjUwOCwtMjU3MjUyMTI0LC0xNT
-QwNjk0MzksMTQ3NDk3NjA5NSwxODg3MzQ2ODg3LC0zMjkyNzU1
-MzksLTUwODQ2MDQ5LDI5MjE4MTA5NSwxNTUyNjYzNDQ0LDE3MT
-QzOTM4NCw3Nzk5NjQ4NTMsLTY4NzY2MzAzNywtMTYwMDY2OTk2
-Nl19
+eyJoaXN0b3J5IjpbNzE2MTgwMjk4LDEyODU5NTIwNTEsNzEzNT
+E4MDE4LC04ODc5MDAyMDQsMTU1MDczMjUxNywtMTY2OTQwNDAx
+LC0yNTA5NjQ2NjUsNTQ2NDAyNTA4LC0yNTcyNTIxMjQsLTE1ND
+A2OTQzOSwxNDc0OTc2MDk1LDE4ODczNDY4ODcsLTMyOTI3NTUz
+OSwtNTA4NDYwNDksMjkyMTgxMDk1LDE1NTI2NjM0NDQsMTcxND
+M5Mzg0LDc3OTk2NDg1MywtNjg3NjYzMDM3LC0xNjAwNjY5OTY2
+XX0=
 -->
