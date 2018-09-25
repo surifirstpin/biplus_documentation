@@ -50,26 +50,28 @@ After login into AcuBi Home Page Click on Dashboard section.
 |  Date | For fields that contain dates. |
 |  Lookup | To view the lookup in dashboard filters it should be defined in lookup section. |
 
-Fill up the dashboard global section;
+**Fill up the dashboard global section;**
 
--   **Filter Name**  identifier name to the filter applicable.
+  -   **Filter Name**  identifier name to the filter applicable.
 
--   **Filter Type**  type of filter user (Eg: string, date, number).
+  -   **Filter Type**  type of filter user (Eg: string, date, number).
 
--   **Operator**  filter operation that are applicable.
+  -   **Operator**  filter operation that are applicable.
 
 **6.** Adding lookup to dashboard will refer set of query or list of items in filters.
 
 **Fill up the lookup section ;**
-  -   **Lookup name**  name of the lookup field.
+
+   -   **Lookup name**  name of the lookup field.
    
-   -   **Lookup Type**  refers to item or query type.
+    -   **Lookup Type**  refers to item or query type.
    
-   -   **Test Lookup**  to test the lookup.
+    -   **Test Lookup**  to test the lookup.
    
-   -   **Multiple Selections**  refers to selection of list of multiple data.
+    -   **Multiple Selections**  refers to selection of list of multiple data.
    
-   -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the referred data.
+    -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the referred data.
+    
   > **For Instance**  if we want to **refer** to country A then all states falling under that country will be updated based on the selection made.
 
 **7.** **Report Listeners** are used to assign a defined filters to report column (fields of views based on which the report is created). 
@@ -78,26 +80,26 @@ Fill up the dashboard global section;
 
 **Fill up Report Listener section ;**
 
--  **Add Listener**  adds multiple filters to reports.
+   -  **Add Listener**  adds multiple filters to reports.
 
--   **Dashboard Report**  selects reports to add filters.
+   -   **Dashboard Report**  selects reports to add filters.
     
--   **Listen Filter**  refers to filter option available.
+   -   **Listen Filter**  refers to filter option available.
     
--   **Apply to field**  applies filter options to field column in a report.
+   -   **Apply to field**  applies filter options to field column in a report.
     
 **8**. Finally Click **Save** It will navigate to **save dashboard** section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_3.png)
 
-Fill up save dashboard section;
+**Fill up save dashboard section;**
 
--   **Name**  name identifier for dashboard created.
+   -   **Name**  name identifier for dashboard created.
     
--   **Title**  title to refer the dashboard.
+   -   **Title**  title to refer the dashboard.
     
--   **Info**  summary information of the dashboard created.
+   -   **Info**  summary information of the dashboard created.
     
 -   **Privacy**  you can save the report in any one of the following privacy option.
     
@@ -114,6 +116,6 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzU3NTY3NDIsLTIxMDQ3OTIxMiw1MD
-g1NTM1LDIyMjA3MjcyMV19
+eyJoaXN0b3J5IjpbNDA0MDk1Mjg4LC0yMTA0NzkyMTIsNTA4NT
+UzNSwyMjIwNzI3MjFdfQ==
 -->
