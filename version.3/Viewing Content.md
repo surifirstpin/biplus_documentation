@@ -7,7 +7,7 @@ This section provides information on how to view the existing files in AcuBi.
 
 ## Navigating to Saved Content 
 
-To view the saved content or files in AcuBi, Click on dashboard section. To view the files either in folder or list view.
+To view the saved content or files in AcuBi, Click on dashboard section. To view the files in folder view click folder view, to view either in folder or list view.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/65a7a2016e969da008299fa05bf06e3a17cffa5d/images/view_content.png)
@@ -38,10 +38,10 @@ Image
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDA5NzUyOCwtMTU2OTA0ODIyNiwxMz
-k5NzM2MCwtMTgxMzE0MDE3OSwxMTU5NjQzNDkwLDExOTUyNTM1
-MTEsNzAxNDc5MDQyLDE1MzY0NjkyNDgsLTc5NDMzOTMxNCwxND
-Y0NzQ4MjQwLC04MDA4NjczODQsNDk3OTYzMDI5LDEwMDY4ODA4
-NjYsMTI4NDU3NDQ1NywyMDAxMTYyOTc4LC0xMTAxMDg4OTcyLD
-E1NzM5NDU1NzBdfQ==
+eyJoaXN0b3J5IjpbNDUyNDE0OTE1LC0xNTY5MDQ4MjI2LDEzOT
+k3MzYwLC0xODEzMTQwMTc5LDExNTk2NDM0OTAsMTE5NTI1MzUx
+MSw3MDE0NzkwNDIsMTUzNjQ2OTI0OCwtNzk0MzM5MzE0LDE0Nj
+Q3NDgyNDAsLTgwMDg2NzM4NCw0OTc5NjMwMjksMTAwNjg4MDg2
+NiwxMjg0NTc0NDU3LDIwMDExNjI5NzgsLTExMDEwODg5NzIsMT
+U3Mzk0NTU3MF19
 -->
