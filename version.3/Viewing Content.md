@@ -7,7 +7,7 @@ This section provides information on how to view the existing files in AcuBi.
 
 ## Navigating to Saved Content 
 
-To view the saved content or files in AcuBi, Click on dashboard section all the files are visible either in folder or list view.
+To view the saved content or files in AcuBi, Click on dashboard section. To view the files either in folder or list view.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/65a7a2016e969da008299fa05bf06e3a17cffa5d/images/view_content.png)
@@ -20,7 +20,8 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
 ### Dashboard
 
- Click on any Dashboard to view it. it will display the dashboard layouts and global filters used in the dashboard reports.
+ - To view the existing dashboard click on, Dashboard name from the available list. it consist of number of layouts used and global filters used for the same dashboard reports.
+ 
 > **Note** : Dashboard are identified with **Tachometer icon.**
 
 Image
@@ -37,10 +38,10 @@ Image
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjkwNDgyMjYsMTM5OTczNjAsLTE4MT
-MxNDAxNzksMTE1OTY0MzQ5MCwxMTk1MjUzNTExLDcwMTQ3OTA0
-MiwxNTM2NDY5MjQ4LC03OTQzMzkzMTQsMTQ2NDc0ODI0MCwtOD
-AwODY3Mzg0LDQ5Nzk2MzAyOSwxMDA2ODgwODY2LDEyODQ1NzQ0
-NTcsMjAwMTE2Mjk3OCwtMTEwMTA4ODk3MiwxNTczOTQ1NTcwXX
-0=
+eyJoaXN0b3J5IjpbLTk0MDA5NzUyOCwtMTU2OTA0ODIyNiwxMz
+k5NzM2MCwtMTgxMzE0MDE3OSwxMTU5NjQzNDkwLDExOTUyNTM1
+MTEsNzAxNDc5MDQyLDE1MzY0NjkyNDgsLTc5NDMzOTMxNCwxND
+Y0NzQ4MjQwLC04MDA4NjczODQsNDk3OTYzMDI5LDEwMDY4ODA4
+NjYsMTI4NDU3NDQ1NywyMDAxMTYyOTc4LC0xMTAxMDg4OTcyLD
+E1NzM5NDU1NzBdfQ==
 -->
