@@ -30,7 +30,7 @@ After login into AcuBi Home Page Click on Dashboard section.
 
 **3.** Click on **Update report** to add reports to the selected layout. 
 
-   There are 2 ways you can add reports to the layout;
+   **There are 2 ways you can add reports to the layout;**
 
    a. Click on report layout section and select the report you want to **add** to the layout.
 
@@ -114,6 +114,6 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjczNzk5MCwtMjEwNDc5MjEyLC0xNT
-U4MTUwNDIyXX0=
+eyJoaXN0b3J5IjpbLTEyNzU3NTY3NDIsLTIxMDQ3OTIxMiwtMT
+U1ODE1MDQyMl19
 -->
