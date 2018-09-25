@@ -9,7 +9,7 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 After login into AcuBi Home Page Click on Dashboard section.
  it consist of list of dashboards and reports saved under Tag Structure.
 
- - to view existing dashboard click on Dashboard name. it consist of number of layouts used and global filters used for the same dashboard reports.
+ -To view existing dashboard click on Dashboard name. it consist of number of layouts used and global filters used for the same dashboard reports.
  
 > **Note** : Dashboard are identified with **Tachometer icon.**
 
@@ -111,6 +111,6 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4MjI1MTE4LDUwODU1MzUsMjIyMDcyNz
-IxXX0=
+eyJoaXN0b3J5IjpbMTY2NjI3NDYxOCw1MDg1NTM1LDIyMjA3Mj
+cyMV19
 -->
