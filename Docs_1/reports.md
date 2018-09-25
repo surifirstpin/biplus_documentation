@@ -22,7 +22,6 @@ The data in analyse sections is determined by dimensions and measures. Using **F
 ## Getting Started
 
 Let us generate a query to display Stationcode (Dimension) and Order Attendant ID (Dimension) with Quantity Sum. 
-
 After Selecting dimensions and measures **Run** the report to extract the data.
 In the following example we have selected **Two Dimensions and One Measure Field.**
 
@@ -46,7 +45,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 |**Lookup**| To view the lookup in Report filters it should be derived under lookup field in model section|
 
 
-**Following are the different types of filters characteristics applicable ;**
+**Following are the different types of filters characteristics applicable :**
 
 ## String 
 |			**Example**            |						**Description**                        |                                                                                 
@@ -313,6 +312,6 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDE4ODU4MSwxMjg1OTUyMDUxLC0yMD
+eyJoaXN0b3J5IjpbMTU4OTIwNTgwMiwxMjg1OTUyMDUxLC0yMD
 c1OTM3OTc1XX0=
 -->
