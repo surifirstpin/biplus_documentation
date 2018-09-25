@@ -218,7 +218,7 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 
 ## Calculated column
 
-Calculated column functionality allows you to manipulate the retrieved data, using arithmetical, logical, text-based and date-based functions and then displays it in the required format. the data extracted using calculated column will show up in green colour in the data table v.
+Calculated column functionality allows you to manipulate the retrieved data, using arithmetical, logical, text-based and date-based functions and then displays it in the required format. the data extracted using calculated column will show up in green colour in the data table.
 
 > **Note :** To understand the total functionality of Calculated column, **"Refer Calculated Column Document".**
 
@@ -313,5 +313,5 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzU5Mzc5NzVdfQ==
+eyJoaXN0b3J5IjpbMTI4NTk1MjA1MSwtMjA3NTkzNzk3NV19
 -->
