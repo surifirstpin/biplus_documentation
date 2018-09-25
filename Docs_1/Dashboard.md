@@ -101,21 +101,20 @@ After login into AcuBi Home Page Click on Dashboard section.
     
    -   **Info**  summary information of the dashboard created.
     
-  -   **Privacy**  you can save the report in any one of the following privacy option.
+   -   **Privacy**  you can save the report in any one of the following privacy option.
     
-    -   **Private ()**  Dashboard saved in private section and accessed by the user itself.
+         -   **Private ()**  Dashboard saved in private section and accessed by the user itself.
         
-    -   **Public ()**  Dashboard saved in public section and accessed by all the users.
+           -   **Public ()**  Dashboard saved in public section and accessed by all the users.
         
-    -   **Share ()**  Dashboard saved under share section and accessed by specific set of users.
+            -   **Share ()**  Dashboard saved under share section and accessed by specific set of users.
 
 Select the tag in which you want to save **Dashboard Reports** and click on **Save.**
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTM3MDc2MCwtMjEwNDc5MjEyLC0xNT
+eyJoaXN0b3J5IjpbMTY3NTg4ODUwMCwtMjEwNDc5MjEyLC0xNT
 U4MTUwNDIyXX0=
 -->
