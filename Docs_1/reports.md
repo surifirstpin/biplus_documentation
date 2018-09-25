@@ -1,17 +1,17 @@
 
-<center><h1>Reports</h1></center>
+<center><h1> Analysis </h1></center>
 
-This section describes how to retrieves the data in the desired combinations as per your business needs and how to explore particular subject area it self. It has an ability on how to pull the data and modify the report as per the needs and drill down deeper into the report for more better insights across the report.
+Analysis section describes how to retrieves the data in the desired combinations as per your business needs and how to explore particular subject area it self. It has an ability on how to pull the data and modify the report as per the needs and drill down deeper into the report for more better insights across the report.
 
- To create a report, Click on **Analyse Section** and start exploring the data.
+ To create a report, Click on **Analyse Section**.
 
 **1.**  All the connection established, databases and tables used for the Reports are defined under **Project**. Depending on your business requirement you can choose appropriate project.
 
-**For Example :** If you want to create a project based on oracle connection select the project as **Oracle_Techdoc** from drop down list.
+**For Example :** If you want to create a project based on oracle connection select project **Oracle_Techdoc** from drop down list.
 
 **2.** Model Section has different set of models developed  for Orders, Customers, Delivery, Employees, Kitchen Process and Products.
 
-**For Example:** If you want to create a report for order based details, Select **Bi_Orders** for model using drop down list. 
+**For Example:** to create a report for order based details, Select **Bi_Orders** for model using drop down list. 
  
  **3.** To start with **New Analysis** report click on **Reset Visualization**( refresh icon). 
 
@@ -313,5 +313,6 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTk1MjA1MSwtMjA3NTkzNzk3NV19
+eyJoaXN0b3J5IjpbLTMwNDE4ODU4MSwxMjg1OTUyMDUxLC0yMD
+c1OTM3OTc1XX0=
 -->
