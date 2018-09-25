@@ -98,7 +98,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 |**is not null**                   |data which is not equal to null
 |**is null**                       |data which is equal to null
 
-> **Note :** To View the **Timeline Filters** in details please go to Timeline filters document.
+> **Note :** To view the **Timeline Filters** in details please go to Timeline filters document.
 
 
 **4.** The report data is retrieved based on **filter** applied. all the fields selected are visible in filter expression list using which you can apply filters.
@@ -312,6 +312,6 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTIwNTgwMiwxMjg1OTUyMDUxLC0yMD
-c1OTM3OTc1XX0=
+eyJoaXN0b3J5IjpbNzE2MTgwMjk4LDEyODU5NTIwNTEsLTIwNz
+U5Mzc5NzVdfQ==
 -->
