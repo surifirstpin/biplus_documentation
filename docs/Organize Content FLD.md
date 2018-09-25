@@ -25,7 +25,7 @@ Now Let us see how to do this,
 
 ## Managing Access
 
-The circles icon on far right of the screen displays type of privacy setting ( Public, Private or Share) is enabled to the dashboard or report.
+The circles icon on far right of the screen displays type of privacy setting **( Public, Private or Share)** is enabled to the dashboard or report.
 
  -   **Green** colour indicates dashboard or report is saved under public section.
  -   **Red** colour indicates dashboard or reports is saved under shared section.
@@ -36,6 +36,7 @@ The circles icon on far right of the screen displays type of privacy setting ( P
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDY0NjIxNiwxNzI0NjQ2MjE2LDE4ND
-cyNDczMjQsODE4NTA1ODQsMTg5MzY5OTA3Nl19
+eyJoaXN0b3J5IjpbLTE5NDY5ODM4MDAsMTcyNDY0NjIxNiwxNz
+I0NjQ2MjE2LDE4NDcyNDczMjQsODE4NTA1ODQsMTg5MzY5OTA3
+Nl19
 -->
