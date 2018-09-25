@@ -9,7 +9,7 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 After login into AcuBi Home Page Click on Dashboard section.
  it consist of list of dashboards and reports saved under Tag Structure.
 
- -To view existing dashboard click on Dashboard name. it consist of number of layouts used and global filters used for the same dashboard reports.
+ - To view the existing dashboard click on, Dashboard name from the available list. it consist of number of layouts used and global filters used for the same dashboard reports.
  
 > **Note** : Dashboard are identified with **Tachometer icon.**
 
@@ -71,11 +71,11 @@ Fill up the lookup section;
   > **For Instance**  if we want to **refer** to country A then all states falling under that country will be updated based on the selection made.
 
 **7.** **Report Listeners** are used to assign a defined filters to report column (fields of views based on which the report is created). 
-**For instance** if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report1 it results in filter applied on report1, it self and report2 will remain unaffected.
 
-Fill up Report Listener section;
+**For instance** if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report_1 it results in filter applied on report_1, it self and report_2 will remain unaffected.
 
--   **Add Listener**  adds multiple filters to reports.
+**Fill up Report Listener section;
+-   ****Add Listener**  adds multiple filters to reports.
 
 -   **Dashboard Report**  selects reports to add filters.
     
@@ -111,6 +111,6 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjI3NDYxOCw1MDg1NTM1LDIyMjA3Mj
+eyJoaXN0b3J5IjpbMTgwODI0NTQ4NCw1MDg1NTM1LDIyMjA3Mj
 cyMV19
 -->
