@@ -52,7 +52,7 @@ Fill up the dashboard global section;
 
 -   **Filter Name**  identifier name to the filter applicable.
 
--   **Filter Type**  type of filter user (eg: string,date,number).
+-   **Filter Type**  type of filter user (Eg: string, date, number).
 
 -   **Operator**  filter operation that are applicable.
 
@@ -112,6 +112,6 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTgxNTA0MjIsNTA4NTUzNSwyMjIwNz
+eyJoaXN0b3J5IjpbLTIxMjUzMTU0NDIsNTA4NTUzNSwyMjIwNz
 I3MjFdfQ==
 -->
