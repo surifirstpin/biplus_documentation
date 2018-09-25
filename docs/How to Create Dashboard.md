@@ -72,10 +72,11 @@ Fill up the lookup section;
 
 **7.** **Report Listeners** are used to assign a defined filters to report column (fields of views based on which the report is created). 
 
-**For instance** if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report_1 it results in filter applied on report_1, it self and report_2 will remain unaffected.
+**For instance** if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report_1 it results in filter applied on report_1 it self and report_2 will remain unaffected.
 
-**Fill up Report Listener section;
--   ****Add Listener**  adds multiple filters to reports.
+**Fill up Report Listener section ;**
+
+-  **Add Listener**  adds multiple filters to reports.
 
 -   **Dashboard Report**  selects reports to add filters.
     
@@ -111,6 +112,6 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODI0NTQ4NCw1MDg1NTM1LDIyMjA3Mj
-cyMV19
+eyJoaXN0b3J5IjpbLTE1NTgxNTA0MjIsNTA4NTUzNSwyMjIwNz
+I3MjFdfQ==
 -->
