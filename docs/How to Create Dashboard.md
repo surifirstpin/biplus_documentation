@@ -58,7 +58,7 @@ Fill up the dashboard global section;
 
 **6.** Adding lookup to dashboard will refer set of query or list of items in filters.
 
-Fill up the lookup section;
+**Fill up the lookup section ;**
   -   **Lookup name**  name of the lookup field.
    
    -   **Lookup Type**  refers to item or query type.
@@ -112,6 +112,6 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjUzMTU0NDIsNTA4NTUzNSwyMjIwNz
-I3MjFdfQ==
+eyJoaXN0b3J5IjpbLTIxMDQ3OTIxMiw1MDg1NTM1LDIyMjA3Mj
+cyMV19
 -->
