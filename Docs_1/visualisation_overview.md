@@ -22,7 +22,7 @@ Click on **Charts** tab, to configure different type of visualization images for
 
 Under **General** tab click on the type of chart you want to view.
 
-**For instance** : Here will consider **Pie Chart**, for better understanding.
+**For instance**: Here will consider **Pie Chart**, for better understanding.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/eafbc564010f8906e66589373f5039607a0e68b6/images/visu_pie_chart1.png)
@@ -72,5 +72,5 @@ A more detailed explanation on visualization is given in visualization types and
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTQzMDM4OV19
+eyJoaXN0b3J5IjpbMTM2NTIyMzgzOSwxOTA5NDMwMzg5XX0=
 -->
