@@ -19,7 +19,6 @@ After selecting dimensions and measures, run the report to display the fetched d
 ## Visualization Adds Life to Data
 
 Click on **Charts** tab, to configure different type of visualization images for your query. 
-
 Under **General** tab, click on the type of chart you want to view.
 
 **For instance**: Consider **Pie Chart**, for better understanding.
@@ -72,7 +71,7 @@ A more detailed explanation on visualization is given in visualization types and
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDk5NDM4MiwxODM4NjEzMTg4LDE5MD
+eyJoaXN0b3J5IjpbMTg4NDM3MjczMiwxODM4NjEzMTg4LDE5MD
 k0MzAzODksNzA4OTEwMTIwLDM4MTQzMzkyOCwxMzg5NjY0Mjk2
 LC0xMTEzMjA0NTA2LC04MzMxMzc4NjQsLTE0NjUyMTA1NTIsNj
 E0NTI5ODMxLDgxOTA0MzE1NSw0MjExMzY4MzYsLTEyOTU5MTEw
