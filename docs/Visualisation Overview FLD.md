@@ -46,7 +46,7 @@ The resultant for this expression would be seen in green colour;
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot2.png)
 
-In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. Similarly you can hide last column by selecting the check box pivot hide last. ( Applicable only for table chart). 
+In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. Similarly you can hide last column by selecting the check box pivot hide last. (Applicable only for table chart). 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot3.png)
@@ -71,11 +71,11 @@ A more detailed explanation on visualization is given in visualization types and
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1NTIwNTY0LC0xODAwNDIyOTAsMTg4ND
-M3MjczMiwxODM4NjEzMTg4LDE5MDk0MzAzODksNzA4OTEwMTIw
-LDM4MTQzMzkyOCwxMzg5NjY0Mjk2LC0xMTEzMjA0NTA2LC04Mz
-MxMzc4NjQsLTE0NjUyMTA1NTIsNjE0NTI5ODMxLDgxOTA0MzE1
-NSw0MjExMzY4MzYsLTEyOTU5MTEwNzksLTM5OTk1OTA3LDE1NT
-MyOTgzNSwtNjQxODQyMjIzLDIzNTA2MTkyMywtMTcwMzMxOTAx
-M119
+eyJoaXN0b3J5IjpbMTEyNTYxMDY1Niw5MTU1MjA1NjQsLTE4MD
+A0MjI5MCwxODg0MzcyNzMyLDE4Mzg2MTMxODgsMTkwOTQzMDM4
+OSw3MDg5MTAxMjAsMzgxNDMzOTI4LDEzODk2NjQyOTYsLTExMT
+MyMDQ1MDYsLTgzMzEzNzg2NCwtMTQ2NTIxMDU1Miw2MTQ1Mjk4
+MzEsODE5MDQzMTU1LDQyMTEzNjgzNiwtMTI5NTkxMTA3OSwtMz
+k5OTU5MDcsMTU1MzI5ODM1LC02NDE4NDIyMjMsMjM1MDYxOTIz
+XX0=
 -->
