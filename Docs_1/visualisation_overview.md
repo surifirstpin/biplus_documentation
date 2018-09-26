@@ -34,7 +34,7 @@ To hide the first or last column field data  in visualization, Select hide first
 To carry out this function you need to derive a expression in calculated column.
 
 **For Example :** Apply subtraction for Order Value_Sum and derive the expression in calculated column as follow;
-
+	
 ```
 pivot_offset(#{ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,0,-1)
 ```
@@ -56,7 +56,6 @@ In the above image you can see, hide_pivot 1st column is seen empty, so in order
 
 To refine and enhance the data obtained, AcuBi is provided with customizing options. Consider a Pie chart example, and select **Percentage** checkbox, which displays the amount of share, a customer holds in total value and display customers participating, at the bottom of the chart by selecting **Show legend** checkbox.
 
-Add Image
 
 ## Deeper insights in visualization
 
@@ -71,7 +70,7 @@ A more detailed explanation on visualization is given in visualization types and
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTYxMDY1Niw5MTU1MjA1NjQsLTE4MD
+eyJoaXN0b3J5IjpbMTI3ODEyNDE2OCw5MTU1MjA1NjQsLTE4MD
 A0MjI5MCwxODg0MzcyNzMyLDE4Mzg2MTMxODgsMTkwOTQzMDM4
 OV19
 -->
