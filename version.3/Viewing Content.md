@@ -15,8 +15,6 @@ To view the saved content or files in AcuBi, Click on dashboard section. To view
 
 Click on any specific tag which you would like to view. it will navigate to tag location and displays the child tag, reports and dashboard saved under that particulate tag location.
 
-
-
 ### Dashboard
 
  To view the existing dashboard click on, Dashboard name from the available list. it consist of number of layouts used and global filters used for the same dashboard reports.
@@ -28,10 +26,11 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzQ0NDgyMCwxNzkyMTQ3OTQ3LC0zND
-Q1OTQ4NDYsLTE1NjkwNDgyMjYsMTM5OTczNjAsLTE4MTMxNDAx
-NzksMTE1OTY0MzQ5MCwxMTk1MjUzNTExLDcwMTQ3OTA0MiwxNT
-M2NDY5MjQ4LC03OTQzMzkzMTQsMTQ2NDc0ODI0MCwtODAwODY3
-Mzg0LDQ5Nzk2MzAyOSwxMDA2ODgwODY2LDEyODQ1NzQ0NTcsMj
-AwMTE2Mjk3OCwtMTEwMTA4ODk3MiwxNTczOTQ1NTcwXX0=
+eyJoaXN0b3J5IjpbLTE4NjI2NTM1MjAsMTgzNzQ0NDgyMCwxNz
+kyMTQ3OTQ3LC0zNDQ1OTQ4NDYsLTE1NjkwNDgyMjYsMTM5OTcz
+NjAsLTE4MTMxNDAxNzksMTE1OTY0MzQ5MCwxMTk1MjUzNTExLD
+cwMTQ3OTA0MiwxNTM2NDY5MjQ4LC03OTQzMzkzMTQsMTQ2NDc0
+ODI0MCwtODAwODY3Mzg0LDQ5Nzk2MzAyOSwxMDA2ODgwODY2LD
+EyODQ1NzQ0NTcsMjAwMTE2Mjk3OCwtMTEwMTA4ODk3MiwxNTcz
+OTQ1NTcwXX0=
 -->
