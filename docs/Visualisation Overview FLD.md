@@ -2,7 +2,7 @@
 <center><h1>Visualization Overview</h1></center>
 
 This section provides a basic overview on visualization and its functionality.
-Visualization in BiPlus creates impressive graphs and charts based on query result obtained and displays an eye-caching pictorial representation of the data obtained. Based on your requirement, you can visualize the data in different chart formats.
+Visualization in AcuBi creates impressive graphs and charts based on query result obtained and displays an eye-caching pictorial representation of the data obtained. Based on your requirement, you can visualize the data in different chart formats.
 
 **Basic overview on how visualization works ;**
 
@@ -27,7 +27,7 @@ Under **General** tab click on the type of chart you want to view.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/eafbc564010f8906e66589373f5039607a0e68b6/images/visu_pie_chart1.png)
 
-As shown in above image there multiple editing options provided to **Pie chart**, Similarly you can also view types of visualization options available in BiPlus.
+As shown in above image there multiple editing options provided to **Pie chart**, Similarly you can also view types of visualization options available in AcuBi.
 
 ## Hide Pivot
 
@@ -55,7 +55,7 @@ In the above image you can see, hide_pivot 1st column is seen empty, so in order
 
 ## Refine Visualization
 
-To refine and enhance the data obtained, BiPlus is provided with customizing options. Consider a Pie chart example, and select **Percentage** checkbox, which displays the amount of share, a customer holds in total value and display customers participating, at the bottom of the chart by selecting **Show legend** checkbox.
+To refine and enhance the data obtained, AcuBi is provided with customizing options. Consider a Pie chart example, and select **Percentage** checkbox, which displays the amount of share, a customer holds in total value and display customers participating, at the bottom of the chart by selecting **Show legend** checkbox.
 
 Add Image
 
@@ -72,9 +72,9 @@ A more detailed explanation on visualization is given in visualization types and
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4OTEwMTIwLDM4MTQzMzkyOCwxMzg5Nj
-Y0Mjk2LC0xMTEzMjA0NTA2LC04MzMxMzc4NjQsLTE0NjUyMTA1
-NTIsNjE0NTI5ODMxLDgxOTA0MzE1NSw0MjExMzY4MzYsLTEyOT
-U5MTEwNzksLTM5OTk1OTA3LDE1NTMyOTgzNSwtNjQxODQyMjIz
-LDIzNTA2MTkyMywtMTcwMzMxOTAxM119
+eyJoaXN0b3J5IjpbMTkwOTQzMDM4OSw3MDg5MTAxMjAsMzgxND
+MzOTI4LDEzODk2NjQyOTYsLTExMTMyMDQ1MDYsLTgzMzEzNzg2
+NCwtMTQ2NTIxMDU1Miw2MTQ1Mjk4MzEsODE5MDQzMTU1LDQyMT
+EzNjgzNiwtMTI5NTkxMTA3OSwtMzk5OTU5MDcsMTU1MzI5ODM1
+LC02NDE4NDIyMjMsMjM1MDYxOTIzLC0xNzAzMzE5MDEzXX0=
 -->
