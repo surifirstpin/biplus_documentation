@@ -2,7 +2,7 @@
 <center><h1>Visualization Overview</h1></center>
 
 This section provides a basic overview on visualization and its functionality.
-Visualization in AcuBi creates impressive graphs and charts based on query result obtained and displays an eye-caching pictorial representation of the data obtained. Based on your requirement, you can visualize the data in different chart formats.
+Visualization in AcuBi creates impressive graphs and charts based on query result obtained and displays an eye-caching pictorial representation of data obtained. Based on your requirement, you can visualize the data in different chart formats.
 
 **Basic overview on how visualization works ;**
 
@@ -72,10 +72,10 @@ A more detailed explanation on visualization is given in visualization types and
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5OTYwNzg3LDE5MDk0MzAzODksNzA4OT
-EwMTIwLDM4MTQzMzkyOCwxMzg5NjY0Mjk2LC0xMTEzMjA0NTA2
-LC04MzMxMzc4NjQsLTE0NjUyMTA1NTIsNjE0NTI5ODMxLDgxOT
-A0MzE1NSw0MjExMzY4MzYsLTEyOTU5MTEwNzksLTM5OTk1OTA3
-LDE1NTMyOTgzNSwtNjQxODQyMjIzLDIzNTA2MTkyMywtMTcwMz
-MxOTAxM119
+eyJoaXN0b3J5IjpbMTgzODYxMzE4OCwxOTA5NDMwMzg5LDcwOD
+kxMDEyMCwzODE0MzM5MjgsMTM4OTY2NDI5NiwtMTExMzIwNDUw
+NiwtODMzMTM3ODY0LC0xNDY1MjEwNTUyLDYxNDUyOTgzMSw4MT
+kwNDMxNTUsNDIxMTM2ODM2LC0xMjk1OTExMDc5LC0zOTk5NTkw
+NywxNTUzMjk4MzUsLTY0MTg0MjIyMywyMzUwNjE5MjMsLTE3MD
+MzMTkwMTNdfQ==
 -->
