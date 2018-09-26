@@ -54,7 +54,7 @@ In the above image you can see, hide_pivot 1st column is seen empty, so in order
 
 ## Refine Visualization
 
-To refine and enhance the data obtained, AcuBi is provided with customizing options. Consider a Pie chart example, and select **Percentage** checkbox, which displays the amount of share, a customer holds in total value and display customers participating, at the bottom of the chart by selecting **Show legend** checkbox.
+To refine and enhance the data obtained, AcuBi is provided with customizing options. Consider a Pie chart example, and select **Percentage** checkbox, which displays the amount of share a customer holds in total value and display customers participating, at the bottom of the chart by selecting **Show legend** checkbox.
 
 
 ## Deeper insights in visualization
@@ -70,11 +70,11 @@ A more detailed explanation on visualization is given in visualization types and
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODEyNDE2OCw5MTU1MjA1NjQsLTE4MD
-A0MjI5MCwxODg0MzcyNzMyLDE4Mzg2MTMxODgsMTkwOTQzMDM4
-OSw3MDg5MTAxMjAsMzgxNDMzOTI4LDEzODk2NjQyOTYsLTExMT
-MyMDQ1MDYsLTgzMzEzNzg2NCwtMTQ2NTIxMDU1Miw2MTQ1Mjk4
-MzEsODE5MDQzMTU1LDQyMTEzNjgzNiwtMTI5NTkxMTA3OSwtMz
-k5OTU5MDcsMTU1MzI5ODM1LC02NDE4NDIyMjMsMjM1MDYxOTIz
-XX0=
+eyJoaXN0b3J5IjpbLTExODc4NTgzNjQsMTI3ODEyNDE2OCw5MT
+U1MjA1NjQsLTE4MDA0MjI5MCwxODg0MzcyNzMyLDE4Mzg2MTMx
+ODgsMTkwOTQzMDM4OSw3MDg5MTAxMjAsMzgxNDMzOTI4LDEzOD
+k2NjQyOTYsLTExMTMyMDQ1MDYsLTgzMzEzNzg2NCwtMTQ2NTIx
+MDU1Miw2MTQ1Mjk4MzEsODE5MDQzMTU1LDQyMTEzNjgzNiwtMT
+I5NTkxMTA3OSwtMzk5OTU5MDcsMTU1MzI5ODM1LC02NDE4NDIy
+MjNdfQ==
 -->
