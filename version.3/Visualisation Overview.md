@@ -8,6 +8,7 @@ Visualization in AcuBi creates impressive graphs and charts based on query resul
 
 In Analysis section you can configure data and visualization together, So once you share a query user will get a picture and data as well.
 
+
 **For Instance** : Create a report to fetch customer details.  In this example we will query  **Customer_name, customer_address and order_value_sum.** Apply filter order_value_sum to a limit of less than or equal to 200000. ( Pie chart supports maximum 20 division)
 
 After selecting dimensions and measures, run the report to display the fetched data for customer details.
@@ -71,10 +72,11 @@ A more detailed explanation on visualization is given in visualization types and
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd51433e92663a090ee5049d77c52fdbb36a2fa3/images/drill_visu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDM3MjczMiwxODM4NjEzMTg4LDE5MD
-k0MzAzODksNzA4OTEwMTIwLDM4MTQzMzkyOCwxMzg5NjY0Mjk2
-LC0xMTEzMjA0NTA2LC04MzMxMzc4NjQsLTE0NjUyMTA1NTIsNj
-E0NTI5ODMxLDgxOTA0MzE1NSw0MjExMzY4MzYsLTEyOTU5MTEw
-NzksLTM5OTk1OTA3LDE1NTMyOTgzNSwtNjQxODQyMjIzLDIzNT
-A2MTkyMywtMTcwMzMxOTAxMywxNzM0ODM3MDY3XX0=
+eyJoaXN0b3J5IjpbLTE4MDA0MjI5MCwxODg0MzcyNzMyLDE4Mz
+g2MTMxODgsMTkwOTQzMDM4OSw3MDg5MTAxMjAsMzgxNDMzOTI4
+LDEzODk2NjQyOTYsLTExMTMyMDQ1MDYsLTgzMzEzNzg2NCwtMT
+Q2NTIxMDU1Miw2MTQ1Mjk4MzEsODE5MDQzMTU1LDQyMTEzNjgz
+NiwtMTI5NTkxMTA3OSwtMzk5OTU5MDcsMTU1MzI5ODM1LC02ND
+E4NDIyMjMsMjM1MDYxOTIzLC0xNzAzMzE5MDEzLDE3MzQ4Mzcw
+NjddfQ==
 -->
