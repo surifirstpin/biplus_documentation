@@ -152,13 +152,7 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  
  - **Highlight on Hover**  on selecting this check box it will highlight each section by placing a cursor on it.
  
- - **Dynamic Height** on selecting this check box it will display the height as per the values in funnel chart. For example higher value is referred with more height and lower value is referred with low height.
  
- - **Dynamic Slope** on selecting this checkbox it will display the potential covered based on the value. For example higher value is referred with bigger slope and lower value is referred with smaller slope.
-
- - **Load Animation** on selecting this check box the column values in funnel chart will appear as moving image.
-
-
 ##  Gauge Chart 
 
 Gauge chart displays current status in the context of goal.
@@ -381,9 +375,9 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTY2MDYyLC0xODExNjUyOTMzLDIzND
-UzNzE1Myw3NjAyMzIxNSwtMTczODg1NjQ3NCw0NTkwNTUwNjQs
-LTE5NzMxNjU1MTcsLTE2OTM0NzUzMTUsLTE5OTY2NDYzMTAsNz
-k3Mzg3NzQsLTUyNjIwMDAxNywtMTU5OTg1NzYwLC0xNzc2NTIy
-Mzg4LC04MDQ3NDMzMzAsLTEyNjg4MjcyNTNdfQ==
+eyJoaXN0b3J5IjpbLTQ2NDE5MzAyMCwtMTgxMTY1MjkzMywyMz
+Q1MzcxNTMsNzYwMjMyMTUsLTE3Mzg4NTY0NzQsNDU5MDU1MDY0
+LC0xOTczMTY1NTE3LC0xNjkzNDc1MzE1LC0xOTk2NjQ2MzEwLD
+c5NzM4Nzc0LC01MjYyMDAwMTcsLTE1OTk4NTc2MCwtMTc3NjUy
+MjM4OCwtODA0NzQzMzMwLC0xMjY4ODI3MjUzXX0=
 -->
