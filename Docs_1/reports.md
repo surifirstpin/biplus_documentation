@@ -214,7 +214,7 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 
 ## Calculated column
 
-Calculated column functionality allows you to manipulate the retrieved data, using arithmetical, logical, text-based and date-based functions and then displays it in the required format. the data extracted using calculated column will show up in green colour under data section.
+Calculated column functionality allows you to manipulate the retrieved data, using arithmetical, logical, text-based and date-based functions and then displays it in the required format. 
 
 > **Note :** To understand the total functionality of Calculated column, **"Refer Calculated Column Document".**
 
@@ -265,7 +265,7 @@ Data section under visualization is enabled based on the data retrieved on runni
 
 ##  Format
 
- **Format** enables different type of number format to the measure field value. Following are the list of number formats supported by AcuBi:
+ **Format** enables different type of number format to measure a field value. Following are the list of number formats supported by AcuBi:
 
 |  Example | Description |
 |  ------ | :------ |
@@ -278,8 +278,8 @@ Data section under visualization is enabled based on the data retrieved on runni
 |  #,##0.00 | Number with comma between thousands and two decimal(1,234.00) |
 |  #,##0.000 | Number with comma between thousands and three decimal(1,234.000) |
 |  ###,###.0 | Number with comma between hundreds and one decimal(123,456.0) |
-|  ###,###.00 | Number with comma between hunderds and two decimal(123,456.00) |
-|  ###,###.000 | Number with comma between hunderds and three decimal(123,456.000) |
+|  ###,###.00 | Number with comma between hundreds and two decimal(123,456.00) |
+|  ###,###.000 | Number with comma between hundreds and three decimal(123,456.000) |
 |  ###.###,0 | Number with dot between hundreds and comma one decimal(123.456,0) |
 |  ###.###,00 | Number with dot between hundreds and comma two decimal(123.456,00) |
 |  ###.###,000 | Number with dot between hundreds and comma three decimal(123.456,0) |
@@ -309,7 +309,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTQwMDUzMywtMTgwNDcxODUxMCwxOT
-gwMzQyNjY2LDE0MDE3MjczMDYsNzE2MTgwMjk4LDEyODU5NTIw
-NTEsLTIwNzU5Mzc5NzVdfQ==
+eyJoaXN0b3J5IjpbOTgxNTEzMzE5LC0xODA0NzE4NTEwLDE5OD
+AzNDI2NjYsMTQwMTcyNzMwNiw3MTYxODAyOTgsMTI4NTk1MjA1
+MSwtMjA3NTkzNzk3NV19
 -->
