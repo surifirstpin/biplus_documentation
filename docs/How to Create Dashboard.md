@@ -20,7 +20,7 @@ After login into AcuBi Home Page, Click on Dashboard section.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_1.png)
 
-**2.** Select the suitable **layout** as per your requirement from layout options available on left, to add reports to it.
+**2.** Select the suitable **layout** from available layout options available on left, to add reports to it.
 
    **Layout formats are categorized in 2 ways,**
    
@@ -115,6 +115,7 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjI5MTgzMiwxNjc1ODg4NTAwLC0yMT
-A0NzkyMTIsNTA4NTUzNSwyMjIwNzI3MjFdfQ==
+eyJoaXN0b3J5IjpbLTE3OTgyNTc4ODAsMTkyMjI5MTgzMiwxNj
+c1ODg4NTAwLC0yMTA0NzkyMTIsNTA4NTUzNSwyMjIwNzI3MjFd
+fQ==
 -->
