@@ -193,29 +193,29 @@
 |  **Example** | **Description** |
 |  ------ | ------ |
 |  doy n | data belongs to exactly ‘n’th day after the current day in all the available years (gives future data if exists) |
-|  dom n | data belongs to exactly ‘n’th day after the current day in all the availbale months (gives future data if exists) |
+|  dom n | data belongs to exactly ‘n’th day after the current day in all the available months (gives future data if exists) |
 |  doq n | data belongs to exactly ‘n’th day after the current day(that is current day number in quarter) in all the available quarters (gives future data if exists) |
 |  dow n | data belongs to exactly ‘n’th day after the current day(that is current day number in week) in all the available weeks (gives future data if exists) |
 |  woy n | data belongs to exactly ‘n’th week after the current week(that is current week number in year) in all the available years (gives future data if exists) |
 |  wom n | data belongs to exactly ‘n’th week after the current week(that is current week number in month) in all the available months (gives future data if exists) |
 |  woq n | data belongs to exactly ‘n’th week after the current week(that is current week number in quarter) in all the available quarters (gives future data if exists) |
 |  moy n | data belongs to exactly ‘n’th months after the current month(that is current month number in year) in all the available years (gives future data if exists) |
-|  moq n | data belongs to exactly ‘n’th month after the current month(that is current month number in quarter) in all the availbale quarters (gives future data if exists) |
-|  qoy n | data belongs to exactly ‘n’th quarter after the current quarter(that is current quarter number in year) in all the availbale years (gives future data if exists) |
+|  moq n | data belongs to exactly ‘n’th month after the current month(that is current month number in quarter) in all the available quarters (gives future data if exists) |
+|  qoy n | data belongs to exactly ‘n’th quarter after the current quarter(that is current quarter number in year) in all the available years (gives future data if exists) |
 
 ## over & ‘-n’ series
 |  **Example** | **Description** |
 |  ------ | ------ |
 |  doy -n | data belongs to exactly ‘n’th day before the current day in all the available years (gives future data if exists) |
-|  dom -n | data belongs to exactly ‘n’th day before the current day in all the availbale months (gives future data if exists) |
-|  doq -n | data belongs to exactly ‘n’th day before the current day(that is current day number in quarter) in all the availbale quarters (gives future data if exists) |
-|  dow -n | data belongs to exactly ‘n’th day before the current day(that is current day number in week) in all the availbale weeks (gives future data if exists) |
-|  woy -n | data belongs to exactly ‘n’th week before the current week(that is current week number in year) in all the availbale years (gives future data if exists) |
-|  wom -n | data belongs to exactly ‘n’th week before the current week(that is current week number in month) in all the availbale months (gives future data if exists) |
-|  woq -n | data belongs to exactly ‘n’th week before the current week(that is current week number in quarter) in all the availbale quarters (gives future data if exists) |
-|  moy -n | data belongs to exactly ‘n’th months before the current month(that is current month number in year) in all the availbale years (gives future data if exists) |
-|  moq -n | data belongs to exactly ‘n’th months before the current month(that is current month number in quarter) in all the availbale quarters (gives future data if exists) |
-|  qoy -n | data belongs to exactly ‘n’th quarter before the current quarter(that is current quarter number in year) in all the availbale years (gives future data if exists) |
+|  dom -n | data belongs to exactly ‘n’th day before the current day in all the available months (gives future data if exists) |
+|  doq -n | data belongs to exactly ‘n’th day before the current day(that is current day number in quarter) in all the available quarters (gives future data if exists) |
+|  dow -n | data belongs to exactly ‘n’th day before the current day(that is current day number in week) in all the available weeks (gives future data if exists) |
+|  woy -n | data belongs to exactly ‘n’th week before the current week(that is current week number in year) in all the available years (gives future data if exists) |
+|  wom -n | data belongs to exactly ‘n’th week before the current week(that is current week number in month) in all the available months (gives future data if exists) |
+|  woq -n | data belongs to exactly ‘n’th week before the current week(that is current week number in quarter) in all the available quarters (gives future data if exists) |
+|  moy -n | data belongs to exactly ‘n’th months before the current month(that is current month number in year) in all the available years (gives future data if exists) |
+|  moq -n | data belongs to exactly ‘n’th months before the current month(that is current month number in quarter) in all the available quarters (gives future data if exists) |
+|  qoy -n | data belongs to exactly ‘n’th quarter before the current quarter(that is current quarter number in year) in all the available years (gives future data if exists) |
 
 ## over & to date series
 |  **Example** | **Description** |
@@ -237,7 +237,7 @@
 |  doy n to date | In Every Year from 1st to till tomorrow |
 |  dom n to date | In Every Year In Every Month from 1st to till tomorrow |
 |  doq n to date | in Every quarter from 1st to till tomorrow  |
-|  dow n to date | in Every week from 1st to till tomarrow  |
+|  dow n to date | in Every week from 1st to till tomorrow  |
 |  woy n to date | In Every Year from 1st to till next week |
 |  wom n to date | In Every Month from 1st to till next week |
 |  woq n to date | in Every quarter from 1st week to till next week |
@@ -253,7 +253,7 @@
 |  doq -n to date | Every Quarter of  Starting date to Previous day |
 |  dow -n to date | Every Week of  Starting date to Previous day |
 |  woy -n to date | Every year of  Starting week to  Previous week |
-|  wom -n to date | Every month of Starting week tovPrevious week |
+|  wom -n to date | Every month of Starting week to Previous week |
 |  woq -n to date | Every quarter of starting week to Previous week |
 |  moy -n to date | Every year of  Starting month to Previous month |
 |  moq -n to date | Every quarter of Starting month to Previous month |
@@ -291,7 +291,7 @@
 |  **Example** | **Description** |
 |  ------ | ------ |
 |  Date (equal) | From Zero hour to last hour of the selected date through calendar |
-|  Date (notequal) | All the Data excluding the values from zero hour to last hour of the selected date through calender |
+|  Date (not equal) | All the Data excluding the values from zero hour to last hour of the selected date through calendar |
 |  Date (between) | From Zero hour of the first selected date to the last hour of the second selected date |
 |  Date (Not between) | From Zero hour of the first selected date to the last hour of the second selected date |
 |  Date (less or equal) | All the data before the zero hour of the selected date |
@@ -307,6 +307,6 @@
 |  WhenMade(date_hour)(Is Not Null) | Data where date_hour field (hour number in the year) is not Null |
 |  WhenMade(date_hour)(Is Null) | Data where date_hour field (hour number in the year) is Null |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTc1NTA2MCwtMTgxMDc4NDUyMCwtMT
+eyJoaXN0b3J5IjpbLTc3NTk3Mjc0OCwtMTgxMDc4NDUyMCwtMT
 g1MDczOTU3NSw1MzE2NDYzNjMsMzIzNTYwMjY1XX0=
 -->
