@@ -60,7 +60,7 @@ Click on **Run Query** in history section, to re-run the previous query.
 
 ## Sorting Query Result
 
-In your query result you can view the data in ascending or descending order by applying sorting. To enable sorting Click on column header, to reverse the sorting order click on column header for second time.
+In your query result you can view the data in ascending or descending order by applying sorting. To enable sorting click on column header, to reverse the sorting order click on column header for second time.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5f2f6b7d5ed9daf4222fd8da2636ecabbe2cabcd/images/sort_sql.png)
@@ -124,11 +124,11 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQzMDY3OTcsLTE2NDEzMDE2MTMsMT
-M4NDYxMDAxMSw4MTcxMTMzOSwtMTY0MTQ4NDE3MywtMzE1Mjc4
-MDcsNDg1NjUzNTk0LDE5Nzg4MjA3MzAsNzU5MzI4OTQ2LC00ND
-gxNDYwOTYsMTkxMzAxOTQ3NCw0MTkwNDAwNzcsLTY4MzI3OTAz
-OCwtMTA4ODMyMzM5MywxODE0MTQyNzcyLDE0NjQxODYyMTEsMT
-g4Mzk1NzMxOSwtMjQwMTEwNTg1LC02MzcxMzQzNTEsLTQxMzg1
-NDc4XX0=
+eyJoaXN0b3J5IjpbODg3MTAyNjQzLC0xMzY0MzA2Nzk3LC0xNj
+QxMzAxNjEzLDEzODQ2MTAwMTEsODE3MTEzMzksLTE2NDE0ODQx
+NzMsLTMxNTI3ODA3LDQ4NTY1MzU5NCwxOTc4ODIwNzMwLDc1OT
+MyODk0NiwtNDQ4MTQ2MDk2LDE5MTMwMTk0NzQsNDE5MDQwMDc3
+LC02ODMyNzkwMzgsLTEwODgzMjMzOTMsMTgxNDE0Mjc3MiwxND
+Y0MTg2MjExLDE4ODM5NTczMTksLTI0MDExMDU4NSwtNjM3MTM0
+MzUxXX0=
 -->
