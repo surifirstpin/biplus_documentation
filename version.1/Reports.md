@@ -214,7 +214,7 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 
 ## Calculated column
 
-Calculated column functionality allows you to manipulate the retrieved data, using arithmetical, logical, text-based and date-based functions and then displays it in the required format. the data extracted using calculated column will show up in green colour in the data table.
+Calculated column functionality allows you to manipulate the retrieved data, using arithmetical, logical, text-based and date-based functions and then displays it in the required format. the data extracted using calculated column will show up in green colour under data section.
 
 > **Note :** To understand the total functionality of Calculated column, **"Refer Calculated Column Document".**
 
@@ -237,7 +237,7 @@ After navigating to calculated column, enter below fields;
     
 -   **Calculation**  derive arithmetical & logical expressions.
     
--   **Calculate on the raw data**  By enabling the field **calculate on raw** the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
+-   **Calculate on raw data**  By enabling the field **calculate on raw** the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b10da52fba77e866f8f30ae57fabe5c0d0f8c142/images/ful_calculated.png)
@@ -309,11 +309,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTY0ODYwODcsLTE4MDQ3MTg1MTAsMT
-k4MDM0MjY2NiwxNDAxNzI3MzA2LDcxNjE4MDI5OCwxMjg1OTUy
-MDUxLDcxMzUxODAxOCwtODg3OTAwMjA0LDE1NTA3MzI1MTcsLT
-E2Njk0MDQwMSwtMjUwOTY0NjY1LDU0NjQwMjUwOCwtMjU3MjUy
-MTI0LC0xNTQwNjk0MzksMTQ3NDk3NjA5NSwxODg3MzQ2ODg3LC
-0zMjkyNzU1MzksLTUwODQ2MDQ5LDI5MjE4MTA5NSwxNTUyNjYz
-NDQ0XX0=
+eyJoaXN0b3J5IjpbMTMzOTQwMDUzMywtMTgwNDcxODUxMCwxOT
+gwMzQyNjY2LDE0MDE3MjczMDYsNzE2MTgwMjk4LDEyODU5NTIw
+NTEsNzEzNTE4MDE4LC04ODc5MDAyMDQsMTU1MDczMjUxNywtMT
+Y2OTQwNDAxLC0yNTA5NjQ2NjUsNTQ2NDAyNTA4LC0yNTcyNTIx
+MjQsLTE1NDA2OTQzOSwxNDc0OTc2MDk1LDE4ODczNDY4ODcsLT
+MyOTI3NTUzOSwtNTA4NDYwNDksMjkyMTgxMDk1LDE1NTI2NjM0
+NDRdfQ==
 -->
