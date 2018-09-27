@@ -1,6 +1,4 @@
 
-
-
 <center><h1>Viewing Content</h1></center>
 
 This section provides information on how to view the existing files in AcuBi.
@@ -26,8 +24,8 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI2NTM1MjAsMTgzNzQ0NDgyMCwxNz
-kyMTQ3OTQ3LC0zNDQ1OTQ4NDYsLTE1NjkwNDgyMjYsMTM5OTcz
-NjAsLTE4MTMxNDAxNzksMTE1OTY0MzQ5MCwxMTk1MjUzNTExLD
-cwMTQ3OTA0MiwxNTM2NDY5MjQ4XX0=
+eyJoaXN0b3J5IjpbMTgzODE5MzQyMCwxODM3NDQ0ODIwLDE3OT
+IxNDc5NDcsLTM0NDU5NDg0NiwtMTU2OTA0ODIyNiwxMzk5NzM2
+MCwtMTgxMzE0MDE3OSwxMTU5NjQzNDkwLDExOTUyNTM1MTEsNz
+AxNDc5MDQyLDE1MzY0NjkyNDhdfQ==
 -->
