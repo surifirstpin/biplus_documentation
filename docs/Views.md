@@ -9,7 +9,7 @@ A view may join other views and there relationship are defined as part of data a
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3b50165c4cf02e474b87d097aa2f8b0897fae1ae/images/custom_table.png)
    
-**2.** Once the view is created, label the database field and derive the custom table using a SQL query as a result a derived table is created.
+**2.** Once the view is created, label the database field and derive the custom table using SQL query as a result a derived table is created.
 ``` 
 {
 "name": "CustomView_820",
@@ -166,6 +166,6 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTIzNDk2MSwxMDgyNDIzNjcsLTE5Mj
-gzNjgyNzMsMTU2MDMwMTA3NV19
+eyJoaXN0b3J5IjpbNzU1OTU5NjAyLDIwNDEyMzQ5NjEsMTA4Mj
+QyMzY3LC0xOTI4MzY4MjczLDE1NjAzMDEwNzVdfQ==
 -->
