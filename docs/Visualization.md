@@ -127,12 +127,12 @@ This section describes the editing option for Pie chart in visualization.
   - Line
   - Dash
   
-- **Reverse scale** on selecting this checkbox it displays the inverse values.
+- **Reverse scale**  it displays the inverse values.
 **For Instance :** if the chart displays the 10 highest values, on Checking Reverse Scale , it displays 10 lowest values.
 
-- **Show ticklabels** on selecting the checkbox  it enables measure values on y-axis.
+- **Show ticklabels** it enables measure values on y-axis.
 
-- **Show arc lines** on selecting the checkbox it points the dimension fields in radar chart.
+- **Show arc lines** it points the dimension fields in radar chart.
 
 - **Arc field** select the dimension field to apply arc lines.
 
@@ -406,10 +406,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODU2NDY3LC01NjY1OTU5MTYsLTE2Mj
-Q1ODI5NjQsLTk1OTQwODY4NywtNzUzNjAzMTMsLTUzMTE0Njg3
-MCwtMjM4MTkwOTQyLC0zMTEzMzU3OCw0NzM4NzYyNTAsLTEyMz
-cxMDM0NTMsNDUwMzU2MzIzLC05MDE0NzgyMDUsMTA5MzkwMjU2
-MywxNjI4MTE0MTE1LC0xMTk4MjQwMzk5LDY4Njc2OTQ1NywxMD
-U0NzY2NjYyLC04MTUwMDUxODRdfQ==
+eyJoaXN0b3J5IjpbLTIwNzQ2NjgzOTksLTc4ODU2NDY3LC01Nj
+Y1OTU5MTYsLTE2MjQ1ODI5NjQsLTk1OTQwODY4NywtNzUzNjAz
+MTMsLTUzMTE0Njg3MCwtMjM4MTkwOTQyLC0zMTEzMzU3OCw0Nz
+M4NzYyNTAsLTEyMzcxMDM0NTMsNDUwMzU2MzIzLC05MDE0Nzgy
+MDUsMTA5MzkwMjU2MywxNjI4MTE0MTE1LC0xMTk4MjQwMzk5LD
+Y4Njc2OTQ1NywxMDU0NzY2NjYyLC04MTUwMDUxODRdfQ==
 -->
