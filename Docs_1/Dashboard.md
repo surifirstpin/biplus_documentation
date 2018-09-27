@@ -39,7 +39,7 @@ After login into AcuBi Home Page, Click on Dashboard section.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_2.png)
 
-**4.**  Click on **Apply Filters** button it will navigate to  global dashboard filters and lookups section.
+**4.**  Click **Apply Filters** button it will navigate to  global dashboard filters and lookup section.
 
  **5.** **Dashboard global Filters** allows user to view limited data by applying filters on dashboard reports and it supports following filter types string, number, date and lookup.
  
@@ -115,6 +115,7 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjYyNzEzMywxOTIyMjkxODMyLDE2Nz
-U4ODg1MDAsLTIxMDQ3OTIxMiwtMTU1ODE1MDQyMl19
+eyJoaXN0b3J5IjpbNzU1NTE1NDU5LDEzOTY2MjcxMzMsMTkyMj
+I5MTgzMiwxNjc1ODg4NTAwLC0yMTA0NzkyMTIsLTE1NTgxNTA0
+MjJdfQ==
 -->
