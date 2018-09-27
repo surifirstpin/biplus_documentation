@@ -26,9 +26,9 @@ After login into AcuBi Home Page, Click on Dashboard section.
    
 - **Flow Layout** This layout is provided with a scroll bar option to define your layout appropriately.
 
-- **Fixed Layout** This layout consisall the reports will fit into single screen.
+- **Fixed Layout** All the reports in this layout will fit into single screen.
 
-**3.** Click on **Update report** to add reports to the selected layout. 
+**3.** Click on **Update Report** to add reports to the selected layout. 
 
    **There are 2 ways you can add reports to the layout;**
 
@@ -115,7 +115,7 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0NzI2NDQzLDE5MjIyOTE4MzIsMTY3NT
-g4ODUwMCwtMjEwNDc5MjEyLDUwODU1MzUsMjIyMDcyNzIxXX0=
+eyJoaXN0b3J5IjpbMTM5NjYyNzEzMywxOTIyMjkxODMyLDE2Nz
+U4ODg1MDAsLTIxMDQ3OTIxMiw1MDg1NTM1LDIyMjA3MjcyMV19
 
 -->
