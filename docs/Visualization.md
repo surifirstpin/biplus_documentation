@@ -91,17 +91,16 @@ This section describes the editing option for Pie chart in visualization.
 
 ### Editing Options for Line Chart
  
-- **Show percentage**  displays percentage of occupancy, each measure value holds in pie chart. To enable it select the **Check Box** show percentage as shown below;
-
+- **Show percentage**  displays percentage of occupancy, each measure value holds in a pie chart. To enable it select the **Check Box** show percentage as shown in below image.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6921e2105eb29674d2f727201df80f5be58983d5/images/show_percentage.png)
 
-- **Polar Area** On selecting the polar area **Check Box** it enables the polar view for each dimensions in pie chart.
+- **Polar Area** On selecting the polar area **Check Box** it enables the polar view for each dimensions field in a pie chart.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ca8620aee571293baafa06532397667001086ceb/images/polar_area.png)
 
--  **Donut** donut chart are equal to pie chart. they show relationships of parts to a whole. select **Check Box** to enables the donut view.
+-  **Donut** donut chart are equal to pie chart. They show relationships of parts to a whole. select **Check Box** to enables the donut view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/donut.png)
 
@@ -406,10 +405,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5MzIwMzk5LC01NjY1OTU5MTYsLTE2Mj
-Q1ODI5NjQsLTk1OTQwODY4NywtNzUzNjAzMTMsLTUzMTE0Njg3
-MCwtMjM4MTkwOTQyLC0zMTEzMzU3OCw0NzM4NzYyNTAsLTEyMz
-cxMDM0NTMsNDUwMzU2MzIzLC05MDE0NzgyMDUsMTA5MzkwMjU2
-MywxNjI4MTE0MTE1LC0xMTk4MjQwMzk5LDY4Njc2OTQ1NywxMD
-U0NzY2NjYyLC04MTUwMDUxODRdfQ==
+eyJoaXN0b3J5IjpbLTQ3MzYxOTk3NCwtNTY2NTk1OTE2LC0xNj
+I0NTgyOTY0LC05NTk0MDg2ODcsLTc1MzYwMzEzLC01MzExNDY4
+NzAsLTIzODE5MDk0MiwtMzExMzM1NzgsNDczODc2MjUwLC0xMj
+M3MTAzNDUzLDQ1MDM1NjMyMywtOTAxNDc4MjA1LDEwOTM5MDI1
+NjMsMTYyODExNDExNSwtMTE5ODI0MDM5OSw2ODY3Njk0NTcsMT
+A1NDc2NjY2MiwtODE1MDA1MTg0XX0=
 -->
