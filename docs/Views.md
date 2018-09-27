@@ -99,7 +99,7 @@ A view may join other views and there relationship are defined as part of data a
 - **Data_type** define supporting parameters and string is used as  default parameter while deriving the fields for custom table.
    - **String** for measures that contain letters or special characters.
   - **Date** measures that contain dates.
-  - **Time_frame** is a derived list of formats from time stamps for instance the following are the available formats hour, day, week,month,quarter, year,date,week_day, date_month , date_quarter, date_hour, year_week.
+  - **Time_frame** is a derived list of formats from time stamps for instance the following are the available formats : hour, day, week,month,quarter, year,date,week_day, date_month , date_quarter, date_hour, year_week.
   - **Number** for the measure that contain number.
   - **Int** for the measure that contains integers.
  - **Type** can be used as part of dimension or measure.
@@ -108,7 +108,7 @@ A view may join other views and there relationship are defined as part of data a
 
 - **lookup** retrieve list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization).
 - **Operator** is used to retrieve single or multiple values in the filter section while using lookup.
- - **SQL** parameter is used define a valid SQL expression that results in a field value.
+ - **SQL** parameter is used to define a valid SQL expression that results in a field value.
  - **Summary** is used to retrieve the aggregate field values of the measures using the following options,
    - Sum 
    - Count
@@ -166,6 +166,7 @@ A view may join other views and there relationship are defined as part of data a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTQ0OTMyOSwyMDQxMjM0OTYxLDEwOD
-I0MjM2NywtMTkyODM2ODI3MywxNTYwMzAxMDc1XX0=
+eyJoaXN0b3J5IjpbLTExNzA4NjQ4NjgsMTEyOTQ0OTMyOSwyMD
+QxMjM0OTYxLDEwODI0MjM2NywtMTkyODM2ODI3MywxNTYwMzAx
+MDc1XX0=
 -->
