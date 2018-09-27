@@ -278,8 +278,8 @@ Data section under visualization is enabled based on the data retrieved on runni
 |  #,##0.00 | Number with comma between thousands and two decimal(1,234.00) |
 |  #,##0.000 | Number with comma between thousands and three decimal(1,234.000) |
 |  ###,###.0 | Number with comma between hundreds and one decimal(123,456.0) |
-|  ###,###.00 | Number with comma between hunderds and two decimal(123,456.00) |
-|  ###,###.000 | Number with comma between hunderds and three decimal(123,456.000) |
+|  ###,###.00 | Number with comma between hundreds and two decimal(123,456.00) |
+|  ###,###.000 | Number with comma between hundreds and three decimal(123,456.000) |
 |  ###.###,0 | Number with dot between hundreds and comma one decimal(123.456,0) |
 |  ###.###,00 | Number with dot between hundreds and comma two decimal(123.456,00) |
 |  ###.###,000 | Number with dot between hundreds and comma three decimal(123.456,0) |
@@ -309,11 +309,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzcwNzY4NywtMTgwNDcxODUxMCwxOT
-gwMzQyNjY2LDE0MDE3MjczMDYsNzE2MTgwMjk4LDEyODU5NTIw
-NTEsNzEzNTE4MDE4LC04ODc5MDAyMDQsMTU1MDczMjUxNywtMT
-Y2OTQwNDAxLC0yNTA5NjQ2NjUsNTQ2NDAyNTA4LC0yNTcyNTIx
-MjQsLTE1NDA2OTQzOSwxNDc0OTc2MDk1LDE4ODczNDY4ODcsLT
-MyOTI3NTUzOSwtNTA4NDYwNDksMjkyMTgxMDk1LDE1NTI2NjM0
-NDRdfQ==
+eyJoaXN0b3J5IjpbOTgxNTEzMzE5LC0xODA0NzE4NTEwLDE5OD
+AzNDI2NjYsMTQwMTcyNzMwNiw3MTYxODAyOTgsMTI4NTk1MjA1
+MSw3MTM1MTgwMTgsLTg4NzkwMDIwNCwxNTUwNzMyNTE3LC0xNj
+Y5NDA0MDEsLTI1MDk2NDY2NSw1NDY0MDI1MDgsLTI1NzI1MjEy
+NCwtMTU0MDY5NDM5LDE0NzQ5NzYwOTUsMTg4NzM0Njg4NywtMz
+I5Mjc1NTM5LC01MDg0NjA0OSwyOTIxODEwOTUsMTU1MjY2MzQ0
+NF19
 -->
