@@ -13,7 +13,7 @@ Analysis section describes how to retrieves the data in the desired combinations
 
 **For Example:** to create a report for order based details, Select **Bi_Orders** for model using drop down list. 
  
- **3.** To start with **New Analysis** report click on **Reset Visualization**( refresh icon). 
+ **3.** To start with **New Analysis Report** click on **Reset Visualization** ( refresh icon). 
 
 The data in analyse sections is determined by dimensions and measures. Using **Field Picker**, select Dimensions and Measures to retrieve the data. In AcuBi a dimension is derived as group of data and Measure is derived as information about group of data.
 
@@ -312,7 +312,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTcyNzMwNiw3MTYxODAyOTgsMTI4NT
+eyJoaXN0b3J5IjpbMTk4MDM0MjY2Niw3MTYxODAyOTgsMTI4NT
 k1MjA1MSw3MTM1MTgwMTgsLTg4NzkwMDIwNCwxNTUwNzMyNTE3
 LC0xNjY5NDA0MDEsLTI1MDk2NDY2NSw1NDY0MDI1MDgsLTI1Nz
 I1MjEyNCwtMTU0MDY5NDM5LDE0NzQ5NzYwOTUsMTg4NzM0Njg4
