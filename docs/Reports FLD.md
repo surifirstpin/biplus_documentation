@@ -3,9 +3,9 @@
 
 Analysis section describes how to retrieves the data in the desired combinations as per your business needs and how to explore particular subject area it self. It has an ability on how to pull the data and modify the report as per the needs and drill down deeper into the report for more better insights across the report.
 
- To create a report, Click on **Analyse Section**.
+ To create a report, Click on **Analyse Section.**
 
-**1.**  All the connection established, databases and tables used for the Reports are defined under **Project**. Depending on your business requirement you can choose appropriate project.
+**1.**  All the connection established, databases and tables used for the Reports are defined under **Project.**. Depending on your business requirement you can choose appropriate project.
 
 **For Example :** If you want to create a project based on oracle connection select project **Oracle_Techdoc** from drop down list.
 
@@ -312,11 +312,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2MTgwMjk4LDEyODU5NTIwNTEsNzEzNT
-E4MDE4LC04ODc5MDAyMDQsMTU1MDczMjUxNywtMTY2OTQwNDAx
-LC0yNTA5NjQ2NjUsNTQ2NDAyNTA4LC0yNTcyNTIxMjQsLTE1ND
-A2OTQzOSwxNDc0OTc2MDk1LDE4ODczNDY4ODcsLTMyOTI3NTUz
-OSwtNTA4NDYwNDksMjkyMTgxMDk1LDE1NTI2NjM0NDQsMTcxND
-M5Mzg0LDc3OTk2NDg1MywtNjg3NjYzMDM3LC0xNjAwNjY5OTY2
-XX0=
+eyJoaXN0b3J5IjpbLTUwODM1Njk0Miw3MTYxODAyOTgsMTI4NT
+k1MjA1MSw3MTM1MTgwMTgsLTg4NzkwMDIwNCwxNTUwNzMyNTE3
+LC0xNjY5NDA0MDEsLTI1MDk2NDY2NSw1NDY0MDI1MDgsLTI1Nz
+I1MjEyNCwtMTU0MDY5NDM5LDE0NzQ5NzYwOTUsMTg4NzM0Njg4
+NywtMzI5Mjc1NTM5LC01MDg0NjA0OSwyOTIxODEwOTUsMTU1Mj
+Y2MzQ0NCwxNzE0MzkzODQsNzc5OTY0ODUzLC02ODc2NjMwMzdd
+fQ==
 -->
