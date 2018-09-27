@@ -18,8 +18,9 @@ AcuBi has an ability to create graphics and charts based on the result obtained.
 
 ## Types of Visualization
 
-AcuBi visualization charts are used based on the priority of what specific information you want to view about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. It Provides an ability to visualize the data in 10 different types of charts with some standard editing options. Let us see them in detail,
+AcuBi visualization charts are used based on the priority of what specific information you want to view about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. It Provides an ability to visualize the data in 10 different types of charts with some standard editing options. 
 
+**Let us see them in detail : **
  - Line
  - Bar
  - Pie
@@ -33,7 +34,7 @@ AcuBi visualization charts are used based on the priority of what specific infor
 
 > **Note :** Some of the options in editing list might be hidden or grayed in situations where they would conflict with other settings you have chosen.
 
-Let us see in detail how this charts works.
+**Let us see in detail how this charts works.**
 
 ## Line Chart
 
@@ -43,7 +44,6 @@ Let us see in detail how this charts works.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6904440c50633ac92f461d7b7f2fd2c2d0e9b7dc/images/line_chart.png)
-
 
  ### Editing Options for Line Chart
  
@@ -56,7 +56,7 @@ Let us see in detail how this charts works.
    - Area-Step
    - Scatter
     
-- **Points**  will display the the data by specifying the points on the chart.
+- **Points**  will display the data by specifying the points on the chart.
 
 - **Point style** will specify how the data points will appear on chart. below are the following options available. 
   - Circle
@@ -405,10 +405,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTUxMDIwMiwtNTY2NTk1OTE2LC0xNj
-I0NTgyOTY0LC05NTk0MDg2ODcsLTc1MzYwMzEzLC01MzExNDY4
-NzAsLTIzODE5MDk0MiwtMzExMzM1NzgsNDczODc2MjUwLC0xMj
-M3MTAzNDUzLDQ1MDM1NjMyMywtOTAxNDc4MjA1LDEwOTM5MDI1
-NjMsMTYyODExNDExNSwtMTE5ODI0MDM5OSw2ODY3Njk0NTcsMT
-A1NDc2NjY2MiwtODE1MDA1MTg0XX0=
+eyJoaXN0b3J5IjpbOTk2MjUwNDQ3LC01NjY1OTU5MTYsLTE2Mj
+Q1ODI5NjQsLTk1OTQwODY4NywtNzUzNjAzMTMsLTUzMTE0Njg3
+MCwtMjM4MTkwOTQyLC0zMTEzMzU3OCw0NzM4NzYyNTAsLTEyMz
+cxMDM0NTMsNDUwMzU2MzIzLC05MDE0NzgyMDUsMTA5MzkwMjU2
+MywxNjI4MTE0MTE1LC0xMTk4MjQwMzk5LDY4Njc2OTQ1NywxMD
+U0NzY2NjYyLC04MTUwMDUxODRdfQ==
 -->
