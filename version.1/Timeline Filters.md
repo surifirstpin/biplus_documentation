@@ -194,12 +194,12 @@
 |  ------ | ------ |
 |  doy n | data belongs to exactly ‘n’th day after the current day in all the available years (gives future data if exists) |
 |  dom n | data belongs to exactly ‘n’th day after the current day in all the availbale months (gives future data if exists) |
-|  doq n | data belongs to exactly ‘n’th day after the current day(that is current day number in quarter) in all the availbale quarters (gives future data if exists) |
-|  dow n | data belongs to exactly ‘n’th day after the current day(that is current day number in week) in all the availbale weeks (gives future data if exists) |
-|  woy n | data belongs to exactly ‘n’th week after the current week(that is current week number in year) in all the availbale years (gives future data if exists) |
-|  wom n | data belongs to exactly ‘n’th week after the current week(that is current week number in month) in all the availbale months (gives future data if exists) |
-|  woq n | data belongs to exactly ‘n’th week after the current week(that is current week number in quarter) in all the availbale quarters (gives future data if exists) |
-|  moy n | data belongs to exactly ‘n’th months after the current month(that is current month number in year) in all the availbale years (gives future data if exists) |
+|  doq n | data belongs to exactly ‘n’th day after the current day(that is current day number in quarter) in all the available quarters (gives future data if exists) |
+|  dow n | data belongs to exactly ‘n’th day after the current day(that is current day number in week) in all the available weeks (gives future data if exists) |
+|  woy n | data belongs to exactly ‘n’th week after the current week(that is current week number in year) in all the available years (gives future data if exists) |
+|  wom n | data belongs to exactly ‘n’th week after the current week(that is current week number in month) in all the available months (gives future data if exists) |
+|  woq n | data belongs to exactly ‘n’th week after the current week(that is current week number in quarter) in all the available quarters (gives future data if exists) |
+|  moy n | data belongs to exactly ‘n’th months after the current month(that is current month number in year) in all the available years (gives future data if exists) |
 |  moq n | data belongs to exactly ‘n’th month after the current month(that is current month number in quarter) in all the availbale quarters (gives future data if exists) |
 |  qoy n | data belongs to exactly ‘n’th quarter after the current quarter(that is current quarter number in year) in all the availbale years (gives future data if exists) |
 
@@ -307,6 +307,6 @@
 |  WhenMade(date_hour)(Is Not Null) | Data where date_hour field (hour number in the year) is not Null |
 |  WhenMade(date_hour)(Is Null) | Data where date_hour field (hour number in the year) is Null |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA3ODQ1MjAsLTE4NTA3Mzk1NzUsNT
-MxNjQ2MzYzLDMyMzU2MDI2NV19
+eyJoaXN0b3J5IjpbMjA2OTc1NTA2MCwtMTgxMDc4NDUyMCwtMT
+g1MDczOTU3NSw1MzE2NDYzNjMsMzIzNTYwMjY1XX0=
 -->
