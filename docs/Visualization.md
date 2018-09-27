@@ -5,8 +5,8 @@ AcuBi has an ability to create graphics and charts based on the result obtained.
 
 **Let us see in details how to configure visualization;**
 
-Using Analysis section you can create an impressive and good looking charts simultaneously with the data obtained from a query, in fraction of seconds for better understanding. 
-
+ Analysis section creates an impressive and good looking charts with the data obtained within fraction of seconds.
+ 
 ## Getting Started With Visualization.
 
 **I.** Click on **Charts** tab to configure visualization option for the result obtained.
@@ -405,7 +405,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzA5MDA0MCwtNTY2NTk1OTE2LC0xNj
+eyJoaXN0b3J5IjpbMTYwMTUxMDIwMiwtNTY2NTk1OTE2LC0xNj
 I0NTgyOTY0LC05NTk0MDg2ODcsLTc1MzYwMzEzLC01MzExNDY4
 NzAsLTIzODE5MDk0MiwtMzExMzM1NzgsNDczODc2MjUwLC0xMj
 M3MTAzNDUzLDQ1MDM1NjMyMywtOTAxNDc4MjA1LDEwOTM5MDI1
