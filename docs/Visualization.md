@@ -1,11 +1,11 @@
 <center><h1>Visualization</h1></center>
 
 
-BiPlus has an ability to create graphics and charts based on the result obtained. Charts sections in BiPlus displays different type of pictorial representation of the data.
+AcuBi has an ability to create graphics and charts based on the result obtained. Charts sections in AcuBi displays different type of pictorial representation of the data.
 
 **Let us see in details how to configure visualization;**
 
-Using Analysis section you can creates an impressive and good looking charts simultaneously with the data obtained from a query, in fraction of seconds for better understanding. 
+Using Analysis section you can create an impressive and good looking charts simultaneously with the data obtained from a query, in fraction of seconds for better understanding. 
 
 ## Getting Started With Visualization.
 
@@ -18,7 +18,7 @@ Using Analysis section you can creates an impressive and good looking charts sim
 
 ## Types of Visualization
 
-BiPlus visualization charts are used based on the priority of what specific information you want to view about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. It Provides an ability to visualize the data in 10 different types of charts with some standard editing options. Let us see them in detail,
+AcuBi visualization charts are used based on the priority of what specific information you want to view about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. It Provides an ability to visualize the data in 10 different types of charts with some standard editing options. Let us see them in detail,
 
  - Line
  - Bar
@@ -157,7 +157,7 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caca3ad67049c43bc60a5fccae26182c81762732/images/funnel_chart.png)
 
-**Using BiPlus you can view the funnel charts in different formats using the below check boxes:**
+**Using AcuBi you can view the funnel charts in different formats using the below check boxes:**
 
  - **Sort** on selecting the check box it enables data in the sorted order in funnel chart.
   
@@ -360,7 +360,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Format** it enables number format for numeric values.
 
-- **Currency** Using this field, you can specify the formatting for currency as of now BiPlus supports $,   ₹  ,   €  ,  £.
+- **Currency** Using this field, you can specify the formatting for currency as of now AcuBi supports $,   ₹  ,   €  ,  £.
 
 - **Y-Axis** display measure values on Y-axis. 
 
@@ -405,10 +405,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjU5NTkxNiwtMTYyNDU4Mjk2NCwtOT
-U5NDA4Njg3LC03NTM2MDMxMywtNTMxMTQ2ODcwLC0yMzgxOTA5
-NDIsLTMxMTMzNTc4LDQ3Mzg3NjI1MCwtMTIzNzEwMzQ1Myw0NT
-AzNTYzMjMsLTkwMTQ3ODIwNSwxMDkzOTAyNTYzLDE2MjgxMTQx
-MTUsLTExOTgyNDAzOTksNjg2NzY5NDU3LDEwNTQ3NjY2NjIsLT
-gxNTAwNTE4NF19
+eyJoaXN0b3J5IjpbMTA4NzA5MDA0MCwtNTY2NTk1OTE2LC0xNj
+I0NTgyOTY0LC05NTk0MDg2ODcsLTc1MzYwMzEzLC01MzExNDY4
+NzAsLTIzODE5MDk0MiwtMzExMzM1NzgsNDczODc2MjUwLC0xMj
+M3MTAzNDUzLDQ1MDM1NjMyMywtOTAxNDc4MjA1LDEwOTM5MDI1
+NjMsMTYyODExNDExNSwtMTE5ODI0MDM5OSw2ODY3Njk0NTcsMT
+A1NDc2NjY2MiwtODE1MDA1MTg0XX0=
 -->
