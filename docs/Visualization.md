@@ -172,10 +172,7 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  
  - **Dynamic Height**  it will display the height as per the values in funnel chart. For example higher values is referred with larger height and lower values is referred with low height.
  
- - **Dynamic Slope**  it will display the potential covered based on the value. 
- - **For example:** higher value is referred with larger slope and lower value is referred with lesser slope.
 
- - **Load Animation** the column values in funnel chart will appear as moving image.
 
 
 ##  Gauge Chart 
@@ -407,11 +404,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTMyNzg1OSwtMjA3NDY2ODM5OSwtNz
-g4NTY0NjcsLTU2NjU5NTkxNiwtMTYyNDU4Mjk2NCwtOTU5NDA4
-Njg3LC03NTM2MDMxMywtNTMxMTQ2ODcwLC0yMzgxOTA5NDIsLT
-MxMTMzNTc4LDQ3Mzg3NjI1MCwtMTIzNzEwMzQ1Myw0NTAzNTYz
-MjMsLTkwMTQ3ODIwNSwxMDkzOTAyNTYzLDE2MjgxMTQxMTUsLT
-ExOTgyNDAzOTksNjg2NzY5NDU3LDEwNTQ3NjY2NjIsLTgxNTAw
-NTE4NF19
+eyJoaXN0b3J5IjpbLTMyNDUyNzM5MywtNTY1MzI3ODU5LC0yMD
+c0NjY4Mzk5LC03ODg1NjQ2NywtNTY2NTk1OTE2LC0xNjI0NTgy
+OTY0LC05NTk0MDg2ODcsLTc1MzYwMzEzLC01MzExNDY4NzAsLT
+IzODE5MDk0MiwtMzExMzM1NzgsNDczODc2MjUwLC0xMjM3MTAz
+NDUzLDQ1MDM1NjMyMywtOTAxNDc4MjA1LDEwOTM5MDI1NjMsMT
+YyODExNDExNSwtMTE5ODI0MDM5OSw2ODY3Njk0NTcsMTA1NDc2
+NjY2Ml19
 -->
