@@ -90,7 +90,7 @@ To get started with derived view, Click on list icon and select create Derived V
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/custom_view.png)
 
-To view the newly created derived view. Navigate to Model section under the views list as shown in below image.
+To view the newly created derived view. Navigate to Model section under the view list as shown in below image.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png)
@@ -124,11 +124,11 @@ Under query section Click **Tag** Button, it will pop up Create query Tag window
 
 - All the created tags are visible in **Tagged Section**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3MTAyNjQzLC0xMzY0MzA2Nzk3LC0xNj
-QxMzAxNjEzLDEzODQ2MTAwMTEsODE3MTEzMzksLTE2NDE0ODQx
-NzMsLTMxNTI3ODA3LDQ4NTY1MzU5NCwxOTc4ODIwNzMwLDc1OT
-MyODk0NiwtNDQ4MTQ2MDk2LDE5MTMwMTk0NzQsNDE5MDQwMDc3
-LC02ODMyNzkwMzgsLTEwODgzMjMzOTMsMTgxNDE0Mjc3MiwxND
-Y0MTg2MjExLDE4ODM5NTczMTksLTI0MDExMDU4NSwtNjM3MTM0
-MzUxXX0=
+eyJoaXN0b3J5IjpbLTExNDI4NDM4Miw4ODcxMDI2NDMsLTEzNj
+QzMDY3OTcsLTE2NDEzMDE2MTMsMTM4NDYxMDAxMSw4MTcxMTMz
+OSwtMTY0MTQ4NDE3MywtMzE1Mjc4MDcsNDg1NjUzNTk0LDE5Nz
+g4MjA3MzAsNzU5MzI4OTQ2LC00NDgxNDYwOTYsMTkxMzAxOTQ3
+NCw0MTkwNDAwNzcsLTY4MzI3OTAzOCwtMTA4ODMyMzM5MywxOD
+E0MTQyNzcyLDE0NjQxODYyMTEsMTg4Mzk1NzMxOSwtMjQwMTEw
+NTg1XX0=
 -->
