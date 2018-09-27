@@ -58,7 +58,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 |**not equal**                     | shouldn't be equal to specific value                      |
 |**in**                            | selection based on combination of filter values           |
 |**not in**                        | excluding set of values                                   |
-|**begins with**                   | finds any value that starts with mentioned substring      |
+|**begins with**                   | finds any value that starts with mentioned sub string      |
 |**doesn’t begins with**           | finds a value that doesn't begin with mentioned sub-string|
 |**contains**                      | contains mentioned sub-string                             |
 |**doesn’t contain**               | finds a value which does not contain mentioned sub-string |
@@ -312,6 +312,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDM0MjY2NiwxNDAxNzI3MzA2LDcxNj
-E4MDI5OCwxMjg1OTUyMDUxLC0yMDc1OTM3OTc1XX0=
+eyJoaXN0b3J5IjpbNTE2NDcwNTI4LDE5ODAzNDI2NjYsMTQwMT
+cyNzMwNiw3MTYxODAyOTgsMTI4NTk1MjA1MSwtMjA3NTkzNzk3
+NV19
 -->
