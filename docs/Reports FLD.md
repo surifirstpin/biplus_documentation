@@ -158,9 +158,7 @@ For  **Measures** use opposite direction.
 
 ## Pivot
 
-Multiple dimensions in a report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. To **Pivot** a dimension click on pivot for dimension before or after running the query.
-
- **You can apply pivot  in 2 ways :**
+Multiple dimensions in a report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. To **Pivot** a dimension click pivot for a dimension field.**You can apply pivot  in 2 ways :**
  
 **a.** Apply pivot **After Retrieving** the data by selecting the pivot option using field header drop down.
  
@@ -309,11 +307,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2ODUyMzc3LC0xODA0NzE4NTEwLDE5OD
-AzNDI2NjYsNzE2MTgwMjk4LDEyODU5NTIwNTEsNzEzNTE4MDE4
-LC04ODc5MDAyMDQsMTU1MDczMjUxNywtMTY2OTQwNDAxLC0yNT
-A5NjQ2NjUsNTQ2NDAyNTA4LC0yNTcyNTIxMjQsLTE1NDA2OTQz
-OSwxNDc0OTc2MDk1LDE4ODczNDY4ODcsLTMyOTI3NTUzOSwtNT
-A4NDYwNDksMjkyMTgxMDk1LDE1NTI2NjM0NDQsMTcxNDM5Mzg0
-XX0=
+eyJoaXN0b3J5IjpbLTgzMTgxMzgxMSwtMTgwNDcxODUxMCwxOT
+gwMzQyNjY2LDcxNjE4MDI5OCwxMjg1OTUyMDUxLDcxMzUxODAx
+OCwtODg3OTAwMjA0LDE1NTA3MzI1MTcsLTE2Njk0MDQwMSwtMj
+UwOTY0NjY1LDU0NjQwMjUwOCwtMjU3MjUyMTI0LC0xNTQwNjk0
+MzksMTQ3NDk3NjA5NSwxODg3MzQ2ODg3LC0zMjkyNzU1MzksLT
+UwODQ2MDQ5LDI5MjE4MTA5NSwxNTUyNjYzNDQ0LDE3MTQzOTM4
+NF19
 -->
