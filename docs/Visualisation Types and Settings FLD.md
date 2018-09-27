@@ -40,7 +40,7 @@ AcuBi Provides an ability to visualize the data in 10 different types of charts 
     
 - **Points**  will display the data by specifying the points on the chart.
 
-- **Point style** will specify how the data points will appear on chart. below are the following options available. 
+- **Point style** will specify how the data points will appear on chart. Below are the following point styles available in AcuBi.
   - Circle
   - Triangle
   - Rectangle
@@ -98,7 +98,7 @@ This section describes the editing option for Pie chart in visualization.
 
 - **Points** on selecting the checkbox it enables pointers for the data range in line chart.
 
-- **Point style** will specify how the data points will appear on chart. below are the following options are available. 
+- **Point style** will specify how the data points will appear on chart. Below are the following point styles available in AcuBi.
   - Circle
   - Triangle
   - Rectangle
@@ -381,9 +381,9 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzU2ODA3NiwtMTgxMTY1MjkzMywyMz
-Q1MzcxNTMsNzYwMjMyMTUsLTE3Mzg4NTY0NzQsNDU5MDU1MDY0
-LC0xOTczMTY1NTE3LC0xNjkzNDc1MzE1LC0xOTk2NjQ2MzEwLD
-c5NzM4Nzc0LC01MjYyMDAwMTcsLTE1OTk4NTc2MCwtMTc3NjUy
-MjM4OCwtODA0NzQzMzMwLC0xMjY4ODI3MjUzXX0=
+eyJoaXN0b3J5IjpbMTg3NTY2MDYyLC0xODExNjUyOTMzLDIzND
+UzNzE1Myw3NjAyMzIxNSwtMTczODg1NjQ3NCw0NTkwNTUwNjQs
+LTE5NzMxNjU1MTcsLTE2OTM0NzUzMTUsLTE5OTY2NDYzMTAsNz
+k3Mzg3NzQsLTUyNjIwMDAxNywtMTU5OTg1NzYwLC0xNzc2NTIy
+Mzg4LC04MDQ3NDMzMzAsLTEyNjg4MjcyNTNdfQ==
 -->
