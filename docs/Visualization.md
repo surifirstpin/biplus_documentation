@@ -160,15 +160,15 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 
 **Using AcuBi you can view the funnel charts in different formats using the below check boxes:**
 
- - **Sort** on selecting the check box it enables data in the sorted order in funnel chart.
+ - **Sort** it enables data in the sorted order in funnel chart.
   
- - **Curved** on selecting this check box it will display the funnel chart in curved view.
+ - **Curved**  it will display the funnel chart in curved view.
  
- - **Pinched** on selecting this check box it will display the compressed view of the funnel chart.
+ - **Pinched**  it will display the compressed view of the funnel chart.
   
- - **Inverted** on selecting the check box it will display the funnel chart in reversed or bottom up position.
+ - **Inverted** it will display the funnel chart in reversed or bottom up position.
  
- - **Highlight on Hover**  on selecting the check box it will highlight each section by placing a cursor on it.
+ - **Highlight on Hover**   it will highlight each section on placing a cursor on it.
  
  - **Dynamic Height** on selecting the check box it will display the height as per the values in funnel chart. For example higher value is referred with more height and lower value is referred with low height.
  
@@ -406,10 +406,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ2NjgzOTksLTc4ODU2NDY3LC01Nj
-Y1OTU5MTYsLTE2MjQ1ODI5NjQsLTk1OTQwODY4NywtNzUzNjAz
-MTMsLTUzMTE0Njg3MCwtMjM4MTkwOTQyLC0zMTEzMzU3OCw0Nz
-M4NzYyNTAsLTEyMzcxMDM0NTMsNDUwMzU2MzIzLC05MDE0Nzgy
-MDUsMTA5MzkwMjU2MywxNjI4MTE0MTE1LC0xMTk4MjQwMzk5LD
-Y4Njc2OTQ1NywxMDU0NzY2NjYyLC04MTUwMDUxODRdfQ==
+eyJoaXN0b3J5IjpbNzY4ODI5MDUwLC0yMDc0NjY4Mzk5LC03OD
+g1NjQ2NywtNTY2NTk1OTE2LC0xNjI0NTgyOTY0LC05NTk0MDg2
+ODcsLTc1MzYwMzEzLC01MzExNDY4NzAsLTIzODE5MDk0MiwtMz
+ExMzM1NzgsNDczODc2MjUwLC0xMjM3MTAzNDUzLDQ1MDM1NjMy
+MywtOTAxNDc4MjA1LDEwOTM5MDI1NjMsMTYyODExNDExNSwtMT
+E5ODI0MDM5OSw2ODY3Njk0NTcsMTA1NDc2NjY2MiwtODE1MDA1
+MTg0XX0=
 -->
