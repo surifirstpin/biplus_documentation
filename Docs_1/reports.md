@@ -125,6 +125,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 ## Order (Ascending / Descending)
 
 **8.** To view the column data in ascending or descending orders, click on  **Order**  and add the column fields in order section.
+
  **a.** To add more sorting orders to a report click **Add Order**.
  
 **b.** To delete, sorting for fields click **Ban Icon**.
@@ -312,7 +313,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2NDcwNTI4LDE5ODAzNDI2NjYsMTQwMT
-cyNzMwNiw3MTYxODAyOTgsMTI4NTk1MjA1MSwtMjA3NTkzNzk3
-NV19
+eyJoaXN0b3J5IjpbLTIwMDIxNDYwMDIsMTk4MDM0MjY2NiwxND
+AxNzI3MzA2LDcxNjE4MDI5OCwxMjg1OTUyMDUxLC0yMDc1OTM3
+OTc1XX0=
 -->
