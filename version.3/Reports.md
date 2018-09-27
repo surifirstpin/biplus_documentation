@@ -58,7 +58,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 |**not equal**                     | shouldn't be equal to specific value                      |
 |**in**                            | selection based on combination of filter values           |
 |**not in**                        | excluding set of values                                   |
-|**begins with**                   | finds any value that starts with mentioned substring      |
+|**begins with**                   | finds any value that starts with mentioned sub string      |
 |**doesn’t begins with**           | finds a value that doesn't begin with mentioned sub-string|
 |**contains**                      | contains mentioned sub-string                             |
 |**doesn’t contain**               | finds a value which does not contain mentioned sub-string |
@@ -312,11 +312,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDM0MjY2NiwxNDAxNzI3MzA2LDcxNj
-E4MDI5OCwxMjg1OTUyMDUxLDcxMzUxODAxOCwtODg3OTAwMjA0
-LDE1NTA3MzI1MTcsLTE2Njk0MDQwMSwtMjUwOTY0NjY1LDU0Nj
-QwMjUwOCwtMjU3MjUyMTI0LC0xNTQwNjk0MzksMTQ3NDk3NjA5
-NSwxODg3MzQ2ODg3LC0zMjkyNzU1MzksLTUwODQ2MDQ5LDI5Mj
-E4MTA5NSwxNTUyNjYzNDQ0LDE3MTQzOTM4NCw3Nzk5NjQ4NTNd
+eyJoaXN0b3J5IjpbNTE2NDcwNTI4LDE5ODAzNDI2NjYsMTQwMT
+cyNzMwNiw3MTYxODAyOTgsMTI4NTk1MjA1MSw3MTM1MTgwMTgs
+LTg4NzkwMDIwNCwxNTUwNzMyNTE3LC0xNjY5NDA0MDEsLTI1MD
+k2NDY2NSw1NDY0MDI1MDgsLTI1NzI1MjEyNCwtMTU0MDY5NDM5
+LDE0NzQ5NzYwOTUsMTg4NzM0Njg4NywtMzI5Mjc1NTM5LC01MD
+g0NjA0OSwyOTIxODEwOTUsMTU1MjY2MzQ0NCwxNzE0MzkzODRd
 fQ==
 -->
