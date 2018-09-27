@@ -128,7 +128,7 @@ Report filters will narrow the reports results while allowing you to view the sp
          **a.** To add more sorting orders to a report click **Add Order**.
          **b.** To delete, sorting for fields click **Ban Icon**.
 
-**9.** To hide the **Filter** or **Order** section click on angle-double-up icon on to far right of the order section. To un-hide the same click on angle-double-down icon.
+**9.** To hide the **Filter** or **Order** sections, click on angle-double-up icon on to far right of the order section. To un-hide the same click on angle-double-down icon.
 
 ## Local Sorting
 
@@ -311,11 +311,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQ3MTg1MTAsMTk4MDM0MjY2Niw3MT
-YxODAyOTgsMTI4NTk1MjA1MSw3MTM1MTgwMTgsLTg4NzkwMDIw
-NCwxNTUwNzMyNTE3LC0xNjY5NDA0MDEsLTI1MDk2NDY2NSw1ND
-Y0MDI1MDgsLTI1NzI1MjEyNCwtMTU0MDY5NDM5LDE0NzQ5NzYw
-OTUsMTg4NzM0Njg4NywtMzI5Mjc1NTM5LC01MDg0NjA0OSwyOT
-IxODEwOTUsMTU1MjY2MzQ0NCwxNzE0MzkzODQsNzc5OTY0ODUz
+eyJoaXN0b3J5IjpbODc4NzM1NDQ5LC0xODA0NzE4NTEwLDE5OD
+AzNDI2NjYsNzE2MTgwMjk4LDEyODU5NTIwNTEsNzEzNTE4MDE4
+LC04ODc5MDAyMDQsMTU1MDczMjUxNywtMTY2OTQwNDAxLC0yNT
+A5NjQ2NjUsNTQ2NDAyNTA4LC0yNTcyNTIxMjQsLTE1NDA2OTQz
+OSwxNDc0OTc2MDk1LDE4ODczNDY4ODcsLTMyOTI3NTUzOSwtNT
+A4NDYwNDksMjkyMTgxMDk1LDE1NTI2NjM0NDQsMTcxNDM5Mzg0
 XX0=
 -->
