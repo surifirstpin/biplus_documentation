@@ -88,7 +88,7 @@ After login into AcuBi Home Page, Click on Dashboard section.
     
    -   **Apply to field**  applies filter options to field column in a report.
     
-**8**. Finally Click **Save** It will navigate to **save dashboard** section.
+**8.** Finally Click **Save** It will navigate to **save dashboard** section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_3.png)
@@ -115,7 +115,7 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjkyNTg3NywxMzk2NjI3MTMzLDE5Mj
-IyOTE4MzIsMTY3NTg4ODUwMCwtMjEwNDc5MjEyLDUwODU1MzUs
-MjIyMDcyNzIxXX0=
+eyJoaXN0b3J5IjpbMzY4NTk3NDI5LDEzOTY2MjcxMzMsMTkyMj
+I5MTgzMiwxNjc1ODg4NTAwLC0yMTA0NzkyMTIsNTA4NTUzNSwy
+MjIwNzI3MjFdfQ==
 -->
