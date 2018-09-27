@@ -196,7 +196,7 @@ By selecting group option for a field you can display the consolidated value of 
 
 To carry out Multi-level grouping on the data extracted. Select group option for two dimension fields in drop down list. 
 
-> **For Example** : To get it clear on multi grouping, i am adding one more dimension fields **Payment_mode** to the report. Select group option for **Stationcode** and **Order_attendant_ID.** Now on expanding Stationcode_2, it displays corresponding Order_attendant_ID on further expanding it, displays the payment mode for the records as shown in the image below.
+> **For Example** : To get it clear on multi grouping, i am adding one more dimension fields **Payment_mode** to the report. Select group option for **Stationcode** and **Order_attendant_ID.** Now on expanding Stationcode_2, it displays corresponding **Order_attendant_ID** on further expanding, it displays the **payment mode** for the records as shown in the image below.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/883d9bf88b00686fda140fdb1538ed72a8ff5ebf/images/multi_group_f.png)
@@ -309,11 +309,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzNjc1MTYzLC0xODA0NzE4NTEwLDE5OD
-AzNDI2NjYsNzE2MTgwMjk4LDEyODU5NTIwNTEsNzEzNTE4MDE4
-LC04ODc5MDAyMDQsMTU1MDczMjUxNywtMTY2OTQwNDAxLC0yNT
-A5NjQ2NjUsNTQ2NDAyNTA4LC0yNTcyNTIxMjQsLTE1NDA2OTQz
-OSwxNDc0OTc2MDk1LDE4ODczNDY4ODcsLTMyOTI3NTUzOSwtNT
-A4NDYwNDksMjkyMTgxMDk1LDE1NTI2NjM0NDQsMTcxNDM5Mzg0
-XX0=
+eyJoaXN0b3J5IjpbLTE2Mzg3MDY2MzEsLTE4MDQ3MTg1MTAsMT
+k4MDM0MjY2Niw3MTYxODAyOTgsMTI4NTk1MjA1MSw3MTM1MTgw
+MTgsLTg4NzkwMDIwNCwxNTUwNzMyNTE3LC0xNjY5NDA0MDEsLT
+I1MDk2NDY2NSw1NDY0MDI1MDgsLTI1NzI1MjEyNCwtMTU0MDY5
+NDM5LDE0NzQ5NzYwOTUsMTg4NzM0Njg4NywtMzI5Mjc1NTM5LC
+01MDg0NjA0OSwyOTIxODEwOTUsMTU1MjY2MzQ0NCwxNzE0Mzkz
+ODRdfQ==
 -->
