@@ -107,7 +107,7 @@ This section describes the editing option for Pie chart in visualization.
 ## Radar chart 
 
  Radar charts are a great way to compare members of a dimension in a function of several metrics.  
-For example, when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
+**For example:** when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
 
  **4.** Click on **Radar** tab under **General** section  to compare the data in  Radar chart.
 
@@ -116,7 +116,7 @@ For example, when you want to buy a Laptop, you can use a radar chart to compare
 
 - **Points** on selecting the checkbox it enables pointers for the data range in line chart.
 
-- **Point style** will specify how the data points will appear on chart. below are the following options are available. 
+- **Point style** will specify how the data points will appear on chart. Below are the following options are available. 
   - Circle
   - Triangle
   - Rectangle
@@ -405,10 +405,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzYxOTk3NCwtNTY2NTk1OTE2LC0xNj
-I0NTgyOTY0LC05NTk0MDg2ODcsLTc1MzYwMzEzLC01MzExNDY4
-NzAsLTIzODE5MDk0MiwtMzExMzM1NzgsNDczODc2MjUwLC0xMj
-M3MTAzNDUzLDQ1MDM1NjMyMywtOTAxNDc4MjA1LDEwOTM5MDI1
-NjMsMTYyODExNDExNSwtMTE5ODI0MDM5OSw2ODY3Njk0NTcsMT
-A1NDc2NjY2MiwtODE1MDA1MTg0XX0=
+eyJoaXN0b3J5IjpbLTExMjY1NjUxNzIsLTU2NjU5NTkxNiwtMT
+YyNDU4Mjk2NCwtOTU5NDA4Njg3LC03NTM2MDMxMywtNTMxMTQ2
+ODcwLC0yMzgxOTA5NDIsLTMxMTMzNTc4LDQ3Mzg3NjI1MCwtMT
+IzNzEwMzQ1Myw0NTAzNTYzMjMsLTkwMTQ3ODIwNSwxMDkzOTAy
+NTYzLDE2MjgxMTQxMTUsLTExOTgyNDAzOTksNjg2NzY5NDU3LD
+EwNTQ3NjY2NjIsLTgxNTAwNTE4NF19
 -->
