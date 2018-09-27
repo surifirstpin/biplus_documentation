@@ -205,7 +205,7 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 **17.**  To find the specific field value, from the data extracted select **Find** in the field drop down.
 
 
-**18.**  To hide the specific field in the visualization charts select **Hide Visualization** in the drop down list  and to display the same select **Show visualization**.
+**18.**  To hide the specific field in the visualization charts select **Hide Visualization** in the drop down list  and to display the same select **Show visualization.**
 
 **19.**  To remove a specific field column from the extracted list, select **Remove** in drop down list.
 
@@ -309,7 +309,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzg3MDY2MzEsLTE4MDQ3MTg1MTAsMT
+eyJoaXN0b3J5IjpbLTE0MTY0ODYwODcsLTE4MDQ3MTg1MTAsMT
 k4MDM0MjY2Niw3MTYxODAyOTgsMTI4NTk1MjA1MSw3MTM1MTgw
 MTgsLTg4NzkwMDIwNCwxNTUwNzMyNTE3LC0xNjY5NDA0MDEsLT
 I1MDk2NDY2NSw1NDY0MDI1MDgsLTI1NzI1MjEyNCwtMTU0MDY5
