@@ -109,7 +109,8 @@ This section describes the editing option for Pie chart in visualization.
   - Line
   - Dash
   
-- **Reverse scale** on selecting the checkbox the values shown in the chart will be reversed, i.e. if the 10 highest values are shown and the box is checked, then chart will  show the 10 lowest values.
+ **Reverse scale** on selecting this checkbox it displays the inverse values.
+**For Instance :** if the chart displays the 10 highest values, on Checking Reverse Scale , it displays 10 lowest values.
 
 - **Show ticklabels** on selecting the checkbox  it enables measure values on y-axis.
 
@@ -380,5 +381,5 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTE2NTI5MzNdfQ==
+eyJoaXN0b3J5IjpbMTk5NzU2ODA3NiwtMTgxMTY1MjkzM119
 -->
