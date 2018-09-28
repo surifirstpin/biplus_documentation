@@ -80,7 +80,7 @@ The uploaded file will appear in **JSON** format under code view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/81d718b1b8f8fb86a5e9e622a08de17b9fde36a9/images/codeview.png)
 
-## Check Case functionality On / Off
+## Check Case Functionality On / Off
 
 If check case is enabled, global parameters become case sensitive for key mapping in calculated column.
 
@@ -98,10 +98,10 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzMDU4ODkzLC0zMDY0MzY2NTgsMTIzOT
-Y2OTA5MSwtMzQ4ODI4MTc5LC0xNzE1NzUzMjc1LDQ4MTUyNjQx
-OCwtMTM0NTkyMjcwNiwyMDQxMzM4MTkwLC0yNjc2NzIxMywyMT
-E3NjE2OTIzLC04OTUwOTE4OTAsMTY5NDM4NzU5NSwtMzk2OTQy
-MDAxLDEyMzEzNzAyNzksLTE5MDc3NzY4NDAsLTE4MTExMTc4Nj
-UsLTkwMDUwMTY2MV19
+eyJoaXN0b3J5IjpbLTEwNjg2NzE1NzEsMjYzMDU4ODkzLC0zMD
+Y0MzY2NTgsMTIzOTY2OTA5MSwtMzQ4ODI4MTc5LC0xNzE1NzUz
+Mjc1LDQ4MTUyNjQxOCwtMTM0NTkyMjcwNiwyMDQxMzM4MTkwLC
+0yNjc2NzIxMywyMTE3NjE2OTIzLC04OTUwOTE4OTAsMTY5NDM4
+NzU5NSwtMzk2OTQyMDAxLDEyMzEzNzAyNzksLTE5MDc3NzY4ND
+AsLTE4MTExMTc4NjUsLTkwMDUwMTY2MV19
 -->
