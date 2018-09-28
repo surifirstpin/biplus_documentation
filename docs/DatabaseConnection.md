@@ -1,5 +1,5 @@
 <center><h1>Database Connection</h1></center>
-
+wdedede
    **Connection** Specifies a database connection from which a model can retrieve the data.
    
  **To set up database connection, Follow the below steps;**
@@ -80,7 +80,7 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyODgyMTQ5LC0xNDQ5Njc2Njg5LC0xMj
-IzMzQ3MzQ1LDEzMzM2NDEzMywzNDg0NjY4MDcsLTExMjA0MTE0
-OTMsMTY1MzQ4MzI4XX0=
+eyJoaXN0b3J5IjpbLTU1MDY2MDA0Myw4MDI4ODIxNDksLTE0ND
+k2NzY2ODksLTEyMjMzNDczNDUsMTMzMzY0MTMzLDM0ODQ2Njgw
+NywtMTEyMDQxMTQ5MywxNjUzNDgzMjhdfQ==
 -->
