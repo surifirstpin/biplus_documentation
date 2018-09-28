@@ -402,7 +402,8 @@ fname(value1, value2, value3, ..valueN)        * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyNTg1MDI1LC0xNTE5NjYxNjQwLC0xMj
-E2NDcwOTc0LC02MzkxNDY3ODcsLTU5ODI3ODMzMSwxMjIzOTIw
-MTUxLDU2NTg5MDgxMCwtNzc5MTIwOTcxXX0=
+eyJoaXN0b3J5IjpbLTEwODg2MTIyNTIsNjgyNTg1MDI1LC0xNT
+E5NjYxNjQwLC0xMjE2NDcwOTc0LC02MzkxNDY3ODcsLTU5ODI3
+ODMzMSwxMjIzOTIwMTUxLDU2NTg5MDgxMCwtNzc5MTIwOTcxXX
+0=
 -->
