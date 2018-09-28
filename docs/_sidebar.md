@@ -7,7 +7,7 @@
   - [Model](model01.md)
   
 - Visualize
-  - [Data Analysis](DataRun.md) 
+  - [Analysis](DataRun.md) 
   - [Timeline Filters](Timeline Filters.md)
   - [Calculated Column](CalculatedColumn.md)
   - [Visualization](Visualization.md)
