@@ -59,6 +59,6 @@ Cache saves the data, so the future request for the data is provided faster.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTg5MzIyLC04ODg5NTg4NTgsLTMzNz
-I2MjAyXX0=
+eyJoaXN0b3J5IjpbMjAxMzc4OTk0MCwtMjU1ODkzMjIsLTg4OD
+k1ODg1OCwtMzM3MjYyMDJdfQ==
 -->
