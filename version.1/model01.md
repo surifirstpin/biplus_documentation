@@ -502,7 +502,8 @@ BiPlus provides map view by covering various number of countries. Also, there ar
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODQ4MzEwOCwxMzAyMzYwNzQ4LDcyMj
-A5NzA2OCwyMDgxMTUyMzM2LDk1MDI5ODY5LC0xNTY0NTkzNTU1
-LC0xOTg0ODI5OTcxLDQ1NDY5NTUyLDEzMjAzOTA1MTBdfQ==
+eyJoaXN0b3J5IjpbLTIwMDg3NjI4OSwtNzk4NDgzMTA4LDEzMD
+IzNjA3NDgsNzIyMDk3MDY4LDIwODExNTIzMzYsOTUwMjk4Njks
+LTE1NjQ1OTM1NTUsLTE5ODQ4Mjk5NzEsNDU0Njk1NTIsMTMyMD
+M5MDUxMF19
 -->
