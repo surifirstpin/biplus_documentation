@@ -1,7 +1,7 @@
 
  <center><h1>AcuBi HomePage</h1></center>
 
-  c xvc Use the following navigation path to Login AcuBi.
+  Use the following navigation path to Login AcuBi.
   
 **Link :** http://52.29.248.194:8081/biplus
 
