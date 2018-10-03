@@ -141,7 +141,7 @@ timer website
 
 Our Organisation helps you to enable a clear vision of the performance in a simple and effective manner. We are focused more on redefining each aspect of business analytics by making it more easy to explore your business insight. Coming to your success Bi+ focus more on accomplishment and commitment.
                      
-                        We Provide services in 3 impressive ways:
+   We Provide services in 3 impressive ways:
 > https://www.board.com/en
 
 Unified Business Intelligence Software
@@ -169,7 +169,6 @@ Bi+ retrieves the latest information and assist your financial advisor to focus 
 ### Disclose Data
 Sometimes, Direct dashboard reports are not enough to further explore your data. Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like.
 
-
 ## solutions
 Sales
 Plan, monitor and get insight into your sales processes
@@ -190,6 +189,7 @@ Finance
 Automate financial planning and analyze business performance down to operations.
 
 ### Better Insights across all organisations
+
 Bi+ Streamline workforce Planning, performance tracking, Analysis and improves the quality in a dynamic regulatory environment for all departments.
 
 ## Unified Decision Making Platform
@@ -247,5 +247,5 @@ Its Unique data modelling techniques will let you describe and transform raw dat
 
 Hence BiPlus reports need not to be Static and Rigid. Now let us see how to create a Report in BiPlus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTM4MTU0N119
+eyJoaXN0b3J5IjpbLTEwNTA5ODQ0NjEsMTMyOTM4MTU0N119
 -->
