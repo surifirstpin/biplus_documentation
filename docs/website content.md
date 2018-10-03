@@ -78,6 +78,7 @@ Convert, cleanse, or enrich data with multiple transformation functions for more
  Easily combine all your data sources, no matter how large it is, into a single view. Convert, cleanse, or enrich data with multiple transformation functions for more expressive and descriptive data fields and analysis.  Bi+ Associative engines guides every possible relationship in your data by gaining immediate insights and can explore in any direction.
 
 # multi device accessibility
+
 You have the flexibility of getting connected to business intelligence from Desktop, tablet and mobile devices where ever you are.
 
 # dialects
@@ -160,6 +161,7 @@ https://www.columbusglobal.com/en-us/
 
 
 ### Build Lasting Relationships
+
 We aspire to keep our customers for life by proactively leading them through their toughest challenges, by focusing on innovation, support and business satisfaction.
 
 ### Data Creativity
@@ -169,6 +171,7 @@ Bi+ retrieves the latest information and assist your financial advisor to focus 
 
 
 ### Disclose Data
+
 Sometimes, Direct dashboard reports are not enough to further explore your data. Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like.
 
 ## Solutions
@@ -249,8 +252,8 @@ Its Unique data modelling techniques will let you describe and transform raw dat
 
 Hence BiPlus reports need not to be Static and Rigid. Now let us see how to create a Report in BiPlus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDI5MTk3MywtMTg2Mzk1MDE1NywtMT
-E2NDc3MjIwNSwtMTMyMDc4NDcxNywyMDA5NTMyNzM5LDEzMjkz
-ODE1NDcsLTE1Njc4NDc4NDEsMTI0Mjg1NDUzNywtMTExMzAzNj
-IwMF19
+eyJoaXN0b3J5IjpbLTEyNDA4NTI5NDEsLTE4NjM5NTAxNTcsLT
+ExNjQ3NzIyMDUsLTEzMjA3ODQ3MTcsMjAwOTUzMjczOSwxMzI5
+MzgxNTQ3LC0xNTY3ODQ3ODQxLDEyNDI4NTQ1MzcsLTExMTMwMz
+YyMDBdfQ==
 -->
