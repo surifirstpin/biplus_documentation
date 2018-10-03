@@ -88,6 +88,7 @@ AcuBi allows you to provide additional key values to manipulate the data in calc
 - Use global parameters in calculated column to perform mathematical calculations on existing data.
 
 **Steps to Create Global Parameters :**
+
 To create a global parameters Click **Global Parameters**, and Click on **Add Key**. Enter specific **key name** as shown in the pop-up screen below, then Click **ok** button.
 
 ![
@@ -208,6 +209,6 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTIxOTg5MTksMjExODQ2MzQ4MSwyMD
-E2NDQxMzY5LDE0NzM3MDAwMzAsLTIwOTM1ODE0MjNdfQ==
+eyJoaXN0b3J5IjpbLTUzNTgxODMyOSwyMTE4NDYzNDgxLDIwMT
+Y0NDEzNjksMTQ3MzcwMDAzMCwtMjA5MzU4MTQyM119
 -->
