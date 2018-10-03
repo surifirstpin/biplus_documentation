@@ -171,7 +171,7 @@ Bi+ retrieves the latest information and assist your financial advisor to focus 
 ### Disclose Data
 Sometimes, Direct dashboard reports are not enough to further explore your data. Bi+ is provided with filter option "Drill-down" to explore your data as deep as you like.
 
-## solutions
+## Solutions
 Sales
 Plan, monitor and get insight into your sales processes
 
@@ -249,7 +249,7 @@ Its Unique data modelling techniques will let you describe and transform raw dat
 
 Hence BiPlus reports need not to be Static and Rigid. Now let us see how to create a Report in BiPlus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ3NzIyMDUsLTEzMjA3ODQ3MTcsMj
-AwOTUzMjczOSwxMzI5MzgxNTQ3LC0xNTY3ODQ3ODQxLDEyNDI4
-NTQ1MzcsLTExMTMwMzYyMDBdfQ==
+eyJoaXN0b3J5IjpbLTE4NjM5NTAxNTcsLTExNjQ3NzIyMDUsLT
+EzMjA3ODQ3MTcsMjAwOTUzMjczOSwxMzI5MzgxNTQ3LC0xNTY3
+ODQ3ODQxLDEyNDI4NTQ1MzcsLTExMTMwMzYyMDBdfQ==
 -->
