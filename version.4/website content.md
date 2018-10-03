@@ -246,13 +246,13 @@ Getting insights early is key for improving user experience. The traditional met
 
 Its Unique data modelling techniques will let you describe and transform raw data for better understanding and used as reliable source of truth for your business.
 
--  **Analyse Immediately-** Make decision in spur-of-the-movement.
--   **Fine-tune and Mold-** Models can easily change with your business.
--   **Build with Section-** Pick and implement the metrics you need in seconds.
+-  **Analyse Immediately** Make decision in spur-of-the-movement.
+-   **Fine-tune and Mold** Models can easily change with your business.
+-   **Build with Section** Pick and implement the metrics you need in seconds.
 
 Hence BiPlus reports need not to be Static and Rigid. Now let us see how to create a Report in BiPlus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDA4NTI5NDEsLTE4NjM5NTAxNTcsLT
-ExNjQ3NzIyMDUsLTEzMjA3ODQ3MTcsMjAwOTUzMjczOSwxMzI5
-MzgxNTQ3XX0=
+eyJoaXN0b3J5IjpbNjI2MjUyMzE0LC0xODYzOTUwMTU3LC0xMT
+Y0NzcyMjA1LC0xMzIwNzg0NzE3LDIwMDk1MzI3MzksMTMyOTM4
+MTU0N119
 -->
