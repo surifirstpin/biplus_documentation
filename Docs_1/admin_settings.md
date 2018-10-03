@@ -132,7 +132,7 @@ Similarly edit column cell value by clicking on specific cell as shown below.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90ce2c5c848ba57722a38cdfb7623b6037e12058/images/para3.png)
 
-By clicking on **Code iew**, The uploaded file displays the data in JSON Format.
+By clicking on **Code View**, The uploaded file displays the data in JSON Format.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/7ca7febb2aec49c8c334dbe0ba8301fc146905ca/images/Json.png)
@@ -209,6 +209,6 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTk5MTU2NywyMTE4NDYzNDgxLDIwMT
+eyJoaXN0b3J5IjpbLTkzOTI2MjA3MywyMTE4NDYzNDgxLDIwMT
 Y0NDEzNjldfQ==
 -->
