@@ -128,7 +128,7 @@ its cloud architecture allows users, teams, departments and IT to instantly shar
 Turn your information into data, and data into Insights with Embedded Analytics also empower your business by putting analytics where your employees, customers, partners, and suppliers need them.
 
 **Data Blend**
-Access, Manipulate and join data from different sources easily to create reports and get more insights into your business.
+Access, Manipulate and Join data from different sources easily to create reports and get more insights into your business.
 
 **Big Data**
 Set up Data with Hadoop and other big data.
@@ -249,7 +249,7 @@ Its Unique data modelling techniques will let you describe and transform raw dat
 
 Hence BiPlus reports need not to be Static and Rigid. Now let us see how to create a Report in BiPlus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA3ODQ3MTcsMjAwOTUzMjczOSwxMz
-I5MzgxNTQ3LC0xNTY3ODQ3ODQxLDEyNDI4NTQ1MzcsLTExMTMw
-MzYyMDBdfQ==
+eyJoaXN0b3J5IjpbLTExNjQ3NzIyMDUsLTEzMjA3ODQ3MTcsMj
+AwOTUzMjczOSwxMzI5MzgxNTQ3LC0xNTY3ODQ3ODQxLDEyNDI4
+NTQ1MzcsLTExMTMwMzYyMDBdfQ==
 -->
