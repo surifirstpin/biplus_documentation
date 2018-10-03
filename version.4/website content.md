@@ -113,7 +113,7 @@ Start transforming your data into live dashboards and reports in fraction of min
 
 
 
-key advantages:
+## key advantages :
 
 **Analyse**
 Interactive visual analytics allows you to explore your data and instinctively get the answers you need.
@@ -249,6 +249,7 @@ Its Unique data modelling techniques will let you describe and transform raw dat
 
 Hence BiPlus reports need not to be Static and Rigid. Now let us see how to create a Report in BiPlus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM5NTAxNTcsLTExNjQ3NzIyMDUsLT
-EzMjA3ODQ3MTcsMjAwOTUzMjczOSwxMzI5MzgxNTQ3XX0=
+eyJoaXN0b3J5IjpbMjE0NDI5MTk3MywtMTg2Mzk1MDE1NywtMT
+E2NDc3MjIwNSwtMTMyMDc4NDcxNywyMDA5NTMyNzM5LDEzMjkz
+ODE1NDddfQ==
 -->
