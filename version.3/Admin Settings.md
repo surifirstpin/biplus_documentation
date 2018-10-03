@@ -2,7 +2,7 @@
 
  <center><h1>Admin Settings</h1></center>
 
-AcuBi administrative settings allows you to customize AcuBi for your Organisation.
+AcuBi administrative settings allows you to customize AcuBi for your organisation.
 
 Here is how to get started with administrative settings and its features.
 
@@ -208,6 +208,6 @@ Global functions supports all the native java script supported functions and als
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxMzk0NzEzLDIxMTg0NjM0ODEsMjAxNj
-Q0MTM2OSwxNDczNzAwMDMwLC0yMDkzNTgxNDIzXX0=
+eyJoaXN0b3J5IjpbLTE0NTIxOTg5MTksMjExODQ2MzQ4MSwyMD
+E2NDQxMzY5LDE0NzM3MDAwMzAsLTIwOTM1ODE0MjNdfQ==
 -->
