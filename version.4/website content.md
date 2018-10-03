@@ -118,8 +118,6 @@ Interactive visual analytics allows you to explore your data and instinctively g
 **Cloud-Connected**
 its cloud architecture allows users, teams, departments and IT to instantly share findings and data.
 
-
-
 ### A Complete Business analytic Platform. ( pentaho website)
 
 **Business Analytics**
@@ -132,7 +130,7 @@ Access, Manipulate and join data from different sources easily to create reports
 **Big Data**
 Set up Data with Hadoop and other big data.
 
-**Deployment :**support@nykaa.com
+**Deployment :**
 With Bi+ you have flexibility to integrate into your existing data infrastructure, No matter where it is either on-premise or in the cloud.
 
 timer website 
@@ -229,7 +227,7 @@ Create and share trusted data models, analytics and visualizations with team to 
 Advanced Analytics
 Drive your business with better decision-making with more meaningful and forward-looking insights from your data.
 
-acuBi provides a single, integrated enterprise analytics platform by delivering faster and better insights for the whole business, regardless any action or industry.
+AcuBi provides a single, integrated enterprise analytics platform by delivering faster and better insights for the whole business, regardless any action or industry.
 
 Check out how our Business Intelligence products and applications can help you in achieving better decision making at every level of your organization.
 
@@ -247,5 +245,5 @@ Its Unique data modelling techniques will let you describe and transform raw dat
 
 Hence BiPlus reports need not to be Static and Rigid. Now let us see how to create a Report in BiPlus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTA5ODQ0NjEsMTMyOTM4MTU0N119
+eyJoaXN0b3J5IjpbMjAwOTUzMjczOSwxMzI5MzgxNTQ3XX0=
 -->
