@@ -142,7 +142,6 @@ It doesn’t matters what type of data you want to explore or where it stays, yo
 
 Lets see how all the Business platforms use AcuBi to drive insight and innovate decisions. Browse by function and industry.
 
-
 #### Sales
 
 Plan, monitor and get insight into your sales processes.
@@ -169,7 +168,8 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjk1MzI2LC0xMTQ3ODAzMjcxLC01Nz
-k5NDM3NTEsLTc0MTgyMzI0OSwxNTI5OTU5OTE3LDEwODE4MTQ0
-NDcsMTM3NTMxNjI1MywxMDA5MzIxMzUwXX0=
+eyJoaXN0b3J5IjpbLTQzODc3NDg2MCwtOTM2OTUzMjYsLTExND
+c4MDMyNzEsLTU3OTk0Mzc1MSwtNzQxODIzMjQ5LDE1Mjk5NTk5
+MTcsMTA4MTgxNDQ0NywxMzc1MzE2MjUzLDEwMDkzMjEzNTBdfQ
+==
 -->
