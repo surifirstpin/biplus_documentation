@@ -14,7 +14,7 @@ AcuBi Provides A Single, Integrated Enterprise Analytics Platform By Delivering 
 Start Transforming Your Data Into Live Dashboards And Reports In Minutes, By Helping You To Find Answers To Your Most Important Business Queries.
 
 # MULTI DEVICE ACCESSIBILITY  
-**DESKTOP** **MOBILE****TABLET**
+**DESKTOP** **MOBILE** **TABLET**
 
 It Provides Flexibility Of Getting Connected To Data From Desktop,Tablet And Mobile Devices Where Ever You Are.
 
@@ -168,7 +168,7 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzQwOTg2MiwtNDM4Nzc0ODYwLC05Mz
+eyJoaXN0b3J5IjpbLTMyMzA5NTE4NCwtNDM4Nzc0ODYwLC05Mz
 Y5NTMyNiwtMTE0NzgwMzI3MSwtNTc5OTQzNzUxLC03NDE4MjMy
 NDksMTUyOTk1OTkxNywxMDgxODE0NDQ3LDEzNzUzMTYyNTNdfQ
 ==
