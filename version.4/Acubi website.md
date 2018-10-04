@@ -89,6 +89,7 @@ The component has been designed in such a way, that it ensure maximum speed and 
 # **AcuBi** ADVANTAGES
 
 ## Analyse
+
 Interactive visual analytics, allows you to explore the data and instinctively get the answers you need.
 
 ## Automation
@@ -157,9 +158,9 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDI4NTE4MiwxODIwNzY0MjYyLDMzMz
-UwOTYzNCw3NDQxMzM0MiwtMzIzMDk1MTg0LC00Mzg3NzQ4NjAs
-LTkzNjk1MzI2LC0xMTQ3ODAzMjcxLC01Nzk5NDM3NTEsLTc0MT
-gyMzI0OSwxNTI5OTU5OTE3LDEwODE4MTQ0NDcsMTM3NTMxNjI1
-M119
+eyJoaXN0b3J5IjpbLTE1ODkwNDIzMjAsLTQ3MDI4NTE4MiwxOD
+IwNzY0MjYyLDMzMzUwOTYzNCw3NDQxMzM0MiwtMzIzMDk1MTg0
+LC00Mzg3NzQ4NjAsLTkzNjk1MzI2LC0xMTQ3ODAzMjcxLC01Nz
+k5NDM3NTEsLTc0MTgyMzI0OSwxNTI5OTU5OTE3LDEwODE4MTQ0
+NDcsMTM3NTMxNjI1M119
 -->
