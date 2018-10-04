@@ -109,19 +109,14 @@ It is integrated into current software very easily and allows you to re-brand th
 
 AcuBi has an ability to transform the complex data into meaningful insights and performs in-depth analyses with utmost simplicity.
 
-
-
 ## Secure
 
 AcuBi security is built to ensure that your data is safe and secure, by providing 100% data protection on all devices.
 
 
-
 ## Scalable
 
 From one users to many, AcuBi scales seamlessly to meet your growing BI needs and progress to a new hardware easily or add more connection for increased redundancy and scope.
-
-
 
 ## Self-Serve
 
@@ -162,9 +157,9 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyNTMyNDcyLDE4MjA3NjQyNjIsMzMzNT
-A5NjM0LDc0NDEzMzQyLC0zMjMwOTUxODQsLTQzODc3NDg2MCwt
-OTM2OTUzMjYsLTExNDc4MDMyNzEsLTU3OTk0Mzc1MSwtNzQxOD
-IzMjQ5LDE1Mjk5NTk5MTcsMTA4MTgxNDQ0NywxMzc1MzE2MjUz
-XX0=
+eyJoaXN0b3J5IjpbLTQ3MDI4NTE4MiwxODIwNzY0MjYyLDMzMz
+UwOTYzNCw3NDQxMzM0MiwtMzIzMDk1MTg0LC00Mzg3NzQ4NjAs
+LTkzNjk1MzI2LC0xMTQ3ODAzMjcxLC01Nzk5NDM3NTEsLTc0MT
+gyMzI0OSwxNTI5OTU5OTE3LDEwODE4MTQ0NDcsMTM3NTMxNjI1
+M119
 -->
