@@ -26,8 +26,7 @@ It Provides Flexibility Of Getting Connected To Data From Desktop, Tablet And Mo
 
 Our Organisation helps you to enable a clear vision of the performance in a simple and effective manner. We are focused more on redefining each aspect of business analytics by making it more easy to explore your business insight.
 
-####   
-Easy, Affordable, Secure
+#### Easy, Affordable, Secure
 
 It ensure Application building, Customization ,Maintenance and Cost-efficiency by attaining customer satisfaction at the same time provides a secure collaboration in between teams.
 
@@ -50,20 +49,15 @@ Import data from files,databases, cloud drives, popular business applications an
 Usage of different type of charts, widgets, pivot tables and tabular view components to create smart and insightful reports and dashboards.
 
 #### Embedded Analytics
-
 Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
 
-
 #### Smarter Visualization
-
 AcuBi delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
 
 #### Beautiful Dashboards
-
 Join multiple report layouts into single good-looking dashboard, by customizing it as per your business needs.
 
 #### Customer Success
-
 When it comes to business establishment and success, AcuBi software is an innovation that has ability to share and collaborate ideas efficiently.
 
 # FASTER AND SMARTER DECISION MAKING
@@ -169,8 +163,8 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzNTA5NjM0LDc0NDEzMzQyLC0zMjMwOT
-UxODQsLTQzODc3NDg2MCwtOTM2OTUzMjYsLTExNDc4MDMyNzEs
-LTU3OTk0Mzc1MSwtNzQxODIzMjQ5LDE1Mjk5NTk5MTcsMTA4MT
-gxNDQ0NywxMzc1MzE2MjUzXX0=
+eyJoaXN0b3J5IjpbMTgyMDc2NDI2MiwzMzM1MDk2MzQsNzQ0MT
+MzNDIsLTMyMzA5NTE4NCwtNDM4Nzc0ODYwLC05MzY5NTMyNiwt
+MTE0NzgwMzI3MSwtNTc5OTQzNzUxLC03NDE4MjMyNDksMTUyOT
+k1OTkxNywxMDgxODE0NDQ3LDEzNzUzMTYyNTNdfQ==
 -->
