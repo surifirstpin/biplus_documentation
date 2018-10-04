@@ -89,7 +89,7 @@ AcuBi allows you to provide additional key values to manipulate the data in calc
 
 **Steps to Create Global Parameters :**
 
-To create a global parameters Click **Global Parameters**, and Click on **Add Key**. Enter specific **key name** as shown in the pop-up screen below, then Click **ok** button.
+To create a global parameters Click **Global Parameters**, and Click on **Add Key.** Enter specific **key name** as shown in the pop-up screen below, then Click **OK** button.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/358cf93ac803463e1de7a9de99fda806615ab45d/images/full_global_para.png)
@@ -210,11 +210,11 @@ Global functions supports all the native java script supported functions and als
 ](https://raw.githubusercontent.com/sv18042016/fp1/d82a8c27ff4c376dad7db79873f75867a4e49aca/images/edit_func.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTg2NTcxNywtOTM5MjYyMDczLDIxMT
-g0NjM0ODEsMjAxNjQ0MTM2OSwxNDczNzAwMDMwLC0yMDkzNTgx
-NDIzLDM5ODMxMzQ5NiwtMTQzMjQ0MzMyMywyMDY5NTc2NDYsMT
-k5NzY5MDkwOCwtMTQwNTg5NDgyNSwxNDMxNTYwNTY0LDE2NDMx
-NDY4ODYsLTE5NDAxMzk2OTQsLTE2MTExMTQyNjksMTcxNjUzNz
-E2MywtMjAzMjc5MDkwMyw1MzYyMTY4MjIsLTEyMzE4OTc5Njgs
-LTU3OTgxNDMyOV19
+eyJoaXN0b3J5IjpbNTM0MzUzMTQxLDEzNDU4NjU3MTcsLTkzOT
+I2MjA3MywyMTE4NDYzNDgxLDIwMTY0NDEzNjksMTQ3MzcwMDAz
+MCwtMjA5MzU4MTQyMywzOTgzMTM0OTYsLTE0MzI0NDMzMjMsMj
+A2OTU3NjQ2LDE5OTc2OTA5MDgsLTE0MDU4OTQ4MjUsMTQzMTU2
+MDU2NCwxNjQzMTQ2ODg2LC0xOTQwMTM5Njk0LC0xNjExMTE0Mj
+Y5LDE3MTY1MzcxNjMsLTIwMzI3OTA5MDMsNTM2MjE2ODIyLC0x
+MjMxODk3OTY4XX0=
 -->
