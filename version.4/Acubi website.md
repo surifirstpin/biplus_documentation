@@ -16,7 +16,7 @@ Start Transforming Your Data Into Live Dashboards And Reports In Minutes, By Hel
 # MULTI DEVICE ACCESSIBILITY
 **DESKTOP** **MOBILE** **TABLET**
 
-It Provides Flexibility Of Getting Connected To Data From Desktop,Tablet And Mobile Devices Where Ever You Are.
+It Provides Flexibility Of Getting Connected To Data From Desktop, Tablet And Mobile Devices Where Ever You Are.
 
 # WHY  AcuBi
 
@@ -169,8 +169,8 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0MTMzNDIsLTMyMzA5NTE4NCwtNDM4Nz
-c0ODYwLC05MzY5NTMyNiwtMTE0NzgwMzI3MSwtNTc5OTQzNzUx
-LC03NDE4MjMyNDksMTUyOTk1OTkxNywxMDgxODE0NDQ3LDEzNz
-UzMTYyNTNdfQ==
+eyJoaXN0b3J5IjpbMzMzNTA5NjM0LDc0NDEzMzQyLC0zMjMwOT
+UxODQsLTQzODc3NDg2MCwtOTM2OTUzMjYsLTExNDc4MDMyNzEs
+LTU3OTk0Mzc1MSwtNzQxODIzMjQ5LDE1Mjk5NTk5MTcsMTA4MT
+gxNDQ0NywxMzc1MzE2MjUzXX0=
 -->
