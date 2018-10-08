@@ -314,8 +314,8 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Padding** specifies spacing at the top,bottom,left and right side of the charts.
 
-- **Tooltips** points the first measure value of the column field.
-
+- **Tooltips** if the underlying field defines a description for a field, that description is displayed on moving the hover over the column.
+- 
 - **Grouped Tooltips** points all the measure values of the column field.
 
 - **Show legend** on selecting the checkbox it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
@@ -404,7 +404,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1MjQwMDMsLTMyNDUyNzM5MywtNTY1Mz
+eyJoaXN0b3J5IjpbLTkwNDk3OTYzNCw1NzUyNDAwMywtNTY1Mz
 I3ODU5LC0yMDc0NjY4Mzk5LC03ODg1NjQ2NywtNTY2NTk1OTE2
 LC0xNjI0NTgyOTY0LC05NTk0MDg2ODcsLTc1MzYwMzEzLC01Mz
 ExNDY4NzAsLTIzODE5MDk0MiwtMzExMzM1NzgsNDczODc2MjUw
