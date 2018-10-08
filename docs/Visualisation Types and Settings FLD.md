@@ -305,14 +305,15 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Row Grouping**
 - **Explore Enabled**
-- Legend
-- Format
-- Currency
-- Bubble Size( Bubble Chart)
-- Y Axis
-- Column Aggregate
-- Custom Tooltip
-- Custom Label
+- **Legend**
+- **Format**
+- **Type ( Line Chart)**
+- **Currency**
+- **Bubble Size( Bubble Chart)**
+- **Y Axis**
+- **Column Aggregate**
+- **Custom Tooltip**
+- **Custom Label**
 
 
 
@@ -400,11 +401,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjUxMjAxNywtMjA2NTE3NzM1MCwxMD
-Q2MTU4NjY4LC0xNDkwMDM0MDEyLDc4NzA1MDAxNiwxODE2NTQ1
-NDUwLC0xMjQ5NTUxMjI3LC0yODM5NjQ5NjAsLTU4NzUzODY0NS
-wtMTY4NDUyODYxOCw5NDMyODAwMDQsLTQ2NDE5MzAyMCwtMTgx
-MTY1MjkzMywyMzQ1MzcxNTMsNzYwMjMyMTUsLTE3Mzg4NTY0Nz
-QsNDU5MDU1MDY0LC0xOTczMTY1NTE3LC0xNjkzNDc1MzE1LC0x
-OTk2NjQ2MzEwXX0=
+eyJoaXN0b3J5IjpbMTE4NjYyMTU3LC0yMDY1MTc3MzUwLDEwND
+YxNTg2NjgsLTE0OTAwMzQwMTIsNzg3MDUwMDE2LDE4MTY1NDU0
+NTAsLTEyNDk1NTEyMjcsLTI4Mzk2NDk2MCwtNTg3NTM4NjQ1LC
+0xNjg0NTI4NjE4LDk0MzI4MDAwNCwtNDY0MTkzMDIwLC0xODEx
+NjUyOTMzLDIzNDUzNzE1Myw3NjAyMzIxNSwtMTczODg1NjQ3NC
+w0NTkwNTUwNjQsLTE5NzMxNjU1MTcsLTE2OTM0NzUzMTUsLTE5
+OTY2NDYzMTBdfQ==
 -->
