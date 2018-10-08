@@ -2,7 +2,7 @@
 
 ## Our Vision and Mission
 
-We live and breathe the philosophy, people matter and results count.
+We live and breathe the philosophy, ***People Mater Results Count.***
 ## Knowledge is Power 
 Get Informed with the insights and resources provided by us. 
 
@@ -50,5 +50,6 @@ Phone   			Email		  LinkedIn
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5MjE2MzA5LC0xMDg5Mzc3ODQ0XX0=
+eyJoaXN0b3J5IjpbLTE4MzYxOTEyOTAsLTEwODkzNzc4NDRdfQ
+==
 -->
