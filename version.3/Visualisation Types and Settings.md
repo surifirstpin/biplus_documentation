@@ -319,7 +319,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 - **Custom Label** Using this option you can display your own label for the column field values. 
 ##{start: }#{sum_rate} as of #{sum_amount}##{end: }
 
-- **Bubble Size( Bubble Chart)**
+- **Bubble Size( Bubble Chart)** 
 
 
 ### X-Axis Menu Options
@@ -405,7 +405,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDYwNDE2Niw1NjM4NDQzNjYsMTE4Mj
+eyJoaXN0b3J5IjpbMTQxODk2NzY5Miw1NjM4NDQzNjYsMTE4Mj
 QwNjA5NiwtNzE5MTg1MTY1LDE1OTM4NDg2ODMsLTE5MTQ0OTYx
 NDUsLTEzMTE0MTQyNTAsMTc2ODk0MDY0OSwtOTI5NzA1NjcsLT
 M5NzE2Nzg5NywxMjY4NDExNjQsMTE4NjYyMTU3LC0yMDY1MTc3
