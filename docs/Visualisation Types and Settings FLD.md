@@ -303,6 +303,8 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 ### X-Axis Menu Options
 
+ > **Note:**  X-Axis is enabled only for Line, Bar and Bubble chart only.
+ 
 - **Axis type** specifies the how x-axis scale for Line, Bar, Bubble is calculated and displayed.
 
   - **Indexed** specifies the data to be plotted in numeric values starting from zero on x-axis.
@@ -327,10 +329,12 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
  - **Theme** enables colour for reference line.
  
- > **Note:**  X-Axis is enabled only for Line, Bar and Bubble chart only.
+
 
 ### Y-Axis
 
+ > **Note:**  Y-Axis is enabled only for Line, Bar and Bubble chart only.
+ 
 - **Axis** select the measures values on y-axis  to enable
 editing options for y-axis in Line, Bar and bubble chart.
 
@@ -358,7 +362,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 
  - **Theme** enables colour for reference line.
  
- > **Note:**  Y-Axis is enabled only for Line, Bar and Bubble chart only.
  
 ## Format   
       
@@ -381,11 +384,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjE1ODY2OCwtMTQ5MDAzNDAxMiw3OD
-cwNTAwMTYsMTgxNjU0NTQ1MCwtMTI0OTU1MTIyNywtMjgzOTY0
-OTYwLC01ODc1Mzg2NDUsLTE2ODQ1Mjg2MTgsOTQzMjgwMDA0LC
-00NjQxOTMwMjAsLTE4MTE2NTI5MzMsMjM0NTM3MTUzLDc2MDIz
-MjE1LC0xNzM4ODU2NDc0LDQ1OTA1NTA2NCwtMTk3MzE2NTUxNy
-wtMTY5MzQ3NTMxNSwtMTk5NjY0NjMxMCw3OTczODc3NCwtNTI2
-MjAwMDE3XX0=
+eyJoaXN0b3J5IjpbLTIwNjUxNzczNTAsMTA0NjE1ODY2OCwtMT
+Q5MDAzNDAxMiw3ODcwNTAwMTYsMTgxNjU0NTQ1MCwtMTI0OTU1
+MTIyNywtMjgzOTY0OTYwLC01ODc1Mzg2NDUsLTE2ODQ1Mjg2MT
+gsOTQzMjgwMDA0LC00NjQxOTMwMjAsLTE4MTE2NTI5MzMsMjM0
+NTM3MTUzLDc2MDIzMjE1LC0xNzM4ODU2NDc0LDQ1OTA1NTA2NC
+wtMTk3MzE2NTUxNywtMTY5MzQ3NTMxNSwtMTk5NjY0NjMxMCw3
+OTczODc3NF19
 -->
