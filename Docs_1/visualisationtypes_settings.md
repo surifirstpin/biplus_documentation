@@ -29,7 +29,7 @@ AcuBi Provides an ability to visualize the data in 10 different types of charts 
 
  ### Editing Options for Line Chart
  
- - **Line type** displays the information as a series of data points called markers. Below are the list of markers used in line chart ( spline acts as  default line type), 
+ - ***Type** displays the information as a series of data points called markers. Below are the list of markers used in line chart ( spline acts as  default line type), 
    - Line
    - Spline 
    - Step
@@ -407,11 +407,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MjQwNjA5NiwtNzE5MTg1MTY1LDE1OT
-M4NDg2ODMsLTE5MTQ0OTYxNDUsLTEzMTE0MTQyNTAsMTc2ODk0
-MDY0OSwtOTI5NzA1NjcsLTM5NzE2Nzg5NywxMjY4NDExNjQsMT
-E4NjYyMTU3LC0yMDY1MTc3MzUwLDEwNDYxNTg2NjgsLTE0OTAw
-MzQwMTIsNzg3MDUwMDE2LDE4MTY1NDU0NTAsLTEyNDk1NTEyMj
-csLTI4Mzk2NDk2MCwtNTg3NTM4NjQ1LC0xNjg0NTI4NjE4LDk0
-MzI4MDAwNF19
+eyJoaXN0b3J5IjpbNTYzODQ0MzY2LDExODI0MDYwOTYsLTcxOT
+E4NTE2NSwxNTkzODQ4NjgzLC0xOTE0NDk2MTQ1LC0xMzExNDE0
+MjUwLDE3Njg5NDA2NDksLTkyOTcwNTY3LC0zOTcxNjc4OTcsMT
+I2ODQxMTY0LDExODY2MjE1NywtMjA2NTE3NzM1MCwxMDQ2MTU4
+NjY4LC0xNDkwMDM0MDEyLDc4NzA1MDAxNiwxODE2NTQ1NDUwLC
+0xMjQ5NTUxMjI3LC0yODM5NjQ5NjAsLTU4NzUzODY0NSwtMTY4
+NDUyODYxOF19
 -->
