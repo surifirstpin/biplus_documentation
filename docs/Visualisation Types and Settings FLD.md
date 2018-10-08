@@ -289,7 +289,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Tooltips** points the first measure value of the column field.
 
-- **Grouped Tooltips** points all the measure values of the column field.
+- **Grouped Tooltips** if the underlying field defines a description for  a points all the measure values of the column field.
 
 - **Show legend** on selecting the checkbox it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
 
@@ -400,11 +400,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE0MTQyNTAsMTc2ODk0MDY0OSwtOT
-I5NzA1NjcsLTM5NzE2Nzg5NywxMjY4NDExNjQsMTE4NjYyMTU3
-LC0yMDY1MTc3MzUwLDEwNDYxNTg2NjgsLTE0OTAwMzQwMTIsNz
-g3MDUwMDE2LDE4MTY1NDU0NTAsLTEyNDk1NTEyMjcsLTI4Mzk2
-NDk2MCwtNTg3NTM4NjQ1LC0xNjg0NTI4NjE4LDk0MzI4MDAwNC
-wtNDY0MTkzMDIwLC0xODExNjUyOTMzLDIzNDUzNzE1Myw3NjAy
-MzIxNV19
+eyJoaXN0b3J5IjpbMjEyMDgyMjA5MCwtMTMxMTQxNDI1MCwxNz
+Y4OTQwNjQ5LC05Mjk3MDU2NywtMzk3MTY3ODk3LDEyNjg0MTE2
+NCwxMTg2NjIxNTcsLTIwNjUxNzczNTAsMTA0NjE1ODY2OCwtMT
+Q5MDAzNDAxMiw3ODcwNTAwMTYsMTgxNjU0NTQ1MCwtMTI0OTU1
+MTIyNywtMjgzOTY0OTYwLC01ODc1Mzg2NDUsLTE2ODQ1Mjg2MT
+gsOTQzMjgwMDA0LC00NjQxOTMwMjAsLTE4MTE2NTI5MzMsMjM0
+NTM3MTUzXX0=
 -->
