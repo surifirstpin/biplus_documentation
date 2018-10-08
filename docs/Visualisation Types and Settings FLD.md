@@ -14,6 +14,7 @@ AcuBi Provides an ability to visualize the data in 10 different types of charts 
  - **Table**             
  - **Widget**
  - **World**
+ - **Horizontal**
 
 > **Note :** Some of the options in editing list might be hidden or grayed,  where they would conflict with other settings you have chosen.
 
@@ -374,10 +375,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQ1Mjg2MTgsOTQzMjgwMDA0LC00Nj
-QxOTMwMjAsLTE4MTE2NTI5MzMsMjM0NTM3MTUzLDc2MDIzMjE1
-LC0xNzM4ODU2NDc0LDQ1OTA1NTA2NCwtMTk3MzE2NTUxNywtMT
-Y5MzQ3NTMxNSwtMTk5NjY0NjMxMCw3OTczODc3NCwtNTI2MjAw
-MDE3LC0xNTk5ODU3NjAsLTE3NzY1MjIzODgsLTgwNDc0MzMzMC
-wtMTI2ODgyNzI1M119
+eyJoaXN0b3J5IjpbLTU4NzUzODY0NSwtMTY4NDUyODYxOCw5ND
+MyODAwMDQsLTQ2NDE5MzAyMCwtMTgxMTY1MjkzMywyMzQ1Mzcx
+NTMsNzYwMjMyMTUsLTE3Mzg4NTY0NzQsNDU5MDU1MDY0LC0xOT
+czMTY1NTE3LC0xNjkzNDc1MzE1LC0xOTk2NjQ2MzEwLDc5NzM4
+Nzc0LC01MjYyMDAwMTcsLTE1OTk4NTc2MCwtMTc3NjUyMjM4OC
+wtODA0NzQzMzMwLC0xMjY4ODI3MjUzXX0=
 -->
