@@ -310,8 +310,8 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 - **Currency**  Cheese the currency format for  measure value.
 - **Y Axis** Choose the Y axis ( measure value) to be displayed on chart.
 - **Column Aggregate** Type of aggregate value to be displayed for a measure.
-- **Custom Tooltip**
-- **Custom Label**
+- **Custom Tooltip** 
+- **Custom Label** Using this option you can display your own label for the field values.
 - **Type ( Line Chart)** 
 - **Bubble Size( Bubble Chart)**
 
@@ -399,10 +399,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODk0MDY0OSwtOTI5NzA1NjcsLTM5Nz
-E2Nzg5NywxMjY4NDExNjQsMTE4NjYyMTU3LC0yMDY1MTc3MzUw
-LDEwNDYxNTg2NjgsLTE0OTAwMzQwMTIsNzg3MDUwMDE2LDE4MT
-Y1NDU0NTAsLTEyNDk1NTEyMjcsLTI4Mzk2NDk2MCwtNTg3NTM4
-NjQ1LC0xNjg0NTI4NjE4LDk0MzI4MDAwNCwtNDY0MTkzMDIwLC
-0xODExNjUyOTMzXX0=
+eyJoaXN0b3J5IjpbNjYxNjUzNjYwLDE3Njg5NDA2NDksLTkyOT
+cwNTY3LC0zOTcxNjc4OTcsMTI2ODQxMTY0LDExODY2MjE1Nywt
+MjA2NTE3NzM1MCwxMDQ2MTU4NjY4LC0xNDkwMDM0MDEyLDc4Nz
+A1MDAxNiwxODE2NTQ1NDUwLC0xMjQ5NTUxMjI3LC0yODM5NjQ5
+NjAsLTU4NzUzODY0NSwtMTY4NDUyODYxOCw5NDMyODAwMDQsLT
+Q2NDE5MzAyMCwtMTgxMTY1MjkzM119
 -->
