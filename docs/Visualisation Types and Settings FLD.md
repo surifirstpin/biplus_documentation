@@ -304,7 +304,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 ### Data 
 
 - **Row Grouping** displays the grouped value of the duplicate fields.
-- **Explore Enabled** on slecting the chechbox, it allows you to view the  
+- **Explore Enabled** on selecting the checkbox, it allows you to view the  data which has been grouped.
 - **Legend**
 - **Format**
 - **Type ( Line Chart)**
@@ -401,7 +401,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTI5MjYyMCwxMjY4NDExNjQsMTE4Nj
+eyJoaXN0b3J5IjpbLTM5NzE2Nzg5NywxMjY4NDExNjQsMTE4Nj
 YyMTU3LC0yMDY1MTc3MzUwLDEwNDYxNTg2NjgsLTE0OTAwMzQw
 MTIsNzg3MDUwMDE2LDE4MTY1NDU0NTAsLTEyNDk1NTEyMjcsLT
 I4Mzk2NDk2MCwtNTg3NTM4NjQ1LC0xNjg0NTI4NjE4LDk0MzI4
