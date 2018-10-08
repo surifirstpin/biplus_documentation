@@ -293,9 +293,9 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Show legend** on selecting the checkbox it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
 
-- **Include Nulls** on selecting this checkbox it displays **Null Values** retrieved in Charts
+- **Include Nulls** on selecting this checkbox it displays **Null Values** retrieved in Charts secti
 
-- ** Display Labels** on selecting this checkbox, it displays the data obtained for particular field.
+- ** Display Labels** on selecting this checkbox, it displays the data value obtained for the fields in charts section.
  
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
@@ -379,11 +379,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjU0NTQ1MCwtMTI0OTU1MTIyNywtMj
-gzOTY0OTYwLC01ODc1Mzg2NDUsLTE2ODQ1Mjg2MTgsOTQzMjgw
-MDA0LC00NjQxOTMwMjAsLTE4MTE2NTI5MzMsMjM0NTM3MTUzLD
-c2MDIzMjE1LC0xNzM4ODU2NDc0LDQ1OTA1NTA2NCwtMTk3MzE2
-NTUxNywtMTY5MzQ3NTMxNSwtMTk5NjY0NjMxMCw3OTczODc3NC
-wtNTI2MjAwMDE3LC0xNTk5ODU3NjAsLTE3NzY1MjIzODgsLTgw
-NDc0MzMzMF19
+eyJoaXN0b3J5IjpbLTE3NzU3ODMzMSwxODE2NTQ1NDUwLC0xMj
+Q5NTUxMjI3LC0yODM5NjQ5NjAsLTU4NzUzODY0NSwtMTY4NDUy
+ODYxOCw5NDMyODAwMDQsLTQ2NDE5MzAyMCwtMTgxMTY1MjkzMy
+wyMzQ1MzcxNTMsNzYwMjMyMTUsLTE3Mzg4NTY0NzQsNDU5MDU1
+MDY0LC0xOTczMTY1NTE3LC0xNjkzNDc1MzE1LC0xOTk2NjQ2Mz
+EwLDc5NzM4Nzc0LC01MjYyMDAwMTcsLTE1OTk4NTc2MCwtMTc3
+NjUyMjM4OF19
 -->
