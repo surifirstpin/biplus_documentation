@@ -70,9 +70,10 @@ This section describes the editing option for Pie chart in visualization.
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f52c167aa93a715736ed2800ae5ca56675c54e42/images/pie_chart.png)
 
-### Editing Options for Line Chart
+### Editing Options for Pie Chart
  
-- **Show percentage**  displays percentage for each measure value in pie chart. To enable this option select the ** Show Percent Check Box** show percentage as shown below;
+- **Show percentage**  on selecting this checkboxdisplays percentage for each measure value in pie chart. 
+- To enable this option select the ** Show Percent Check Box** show percentage as shown below;
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6921e2105eb29674d2f727201df80f5be58983d5/images/show_percentage.png)
@@ -381,11 +382,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAwMzQwMTIsNzg3MDUwMDE2LDE4MT
-Y1NDU0NTAsLTEyNDk1NTEyMjcsLTI4Mzk2NDk2MCwtNTg3NTM4
-NjQ1LC0xNjg0NTI4NjE4LDk0MzI4MDAwNCwtNDY0MTkzMDIwLC
-0xODExNjUyOTMzLDIzNDUzNzE1Myw3NjAyMzIxNSwtMTczODg1
-NjQ3NCw0NTkwNTUwNjQsLTE5NzMxNjU1MTcsLTE2OTM0NzUzMT
-UsLTE5OTY2NDYzMTAsNzk3Mzg3NzQsLTUyNjIwMDAxNywtMTU5
-OTg1NzYwXX0=
+eyJoaXN0b3J5IjpbMTY5MjYyMTU0MSwtMTQ5MDAzNDAxMiw3OD
+cwNTAwMTYsMTgxNjU0NTQ1MCwtMTI0OTU1MTIyNywtMjgzOTY0
+OTYwLC01ODc1Mzg2NDUsLTE2ODQ1Mjg2MTgsOTQzMjgwMDA0LC
+00NjQxOTMwMjAsLTE4MTE2NTI5MzMsMjM0NTM3MTUzLDc2MDIz
+MjE1LC0xNzM4ODU2NDc0LDQ1OTA1NTA2NCwtMTk3MzE2NTUxNy
+wtMTY5MzQ3NTMxNSwtMTk5NjY0NjMxMCw3OTczODc3NCwtNTI2
+MjAwMDE3XX0=
 -->
