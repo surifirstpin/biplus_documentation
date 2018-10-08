@@ -9,7 +9,6 @@ We live and breathe the philosophy, ***People Mater Results Count.***
 Get Informed with the insights and resources provided by us. 
 
 ## Our Instant Insights provide Instant values
-
 We create an ability to turn your actions into opportunity In hand.
  
 
@@ -53,6 +52,6 @@ Phone   			Email		  LinkedIn
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQ2MTkyNDAsLTE4MzYxOTEyOTAsLT
-EwODkzNzc4NDRdfQ==
+eyJoaXN0b3J5IjpbLTMyNjEzNzgxNCwtMTgzNjE5MTI5MCwtMT
+A4OTM3Nzg0NF19
 -->
