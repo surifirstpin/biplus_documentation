@@ -3,10 +3,13 @@
 ## Our Vision and Mission
 
 We live and breathe the philosophy, ***People Mater Results Count.***
+
 ## Knowledge is Power 
+
 Get Informed with the insights and resources provided by us. 
 
 ## Our Instant Insights provide Instant values
+
 We create an ability to turn your actions into opportunity In hand.
  
 
@@ -50,6 +53,6 @@ Phone   			Email		  LinkedIn
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzYxOTEyOTAsLTEwODkzNzc4NDRdfQ
-==
+eyJoaXN0b3J5IjpbLTE4MTQ2MTkyNDAsLTE4MzYxOTEyOTAsLT
+EwODkzNzc4NDRdfQ==
 -->
