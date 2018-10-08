@@ -295,6 +295,8 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Include Nulls** on selecting this checkbox it displays **Null Values** retrieved in Charts
 
+- ** Display Labels** on selecting this checkbox, it displays the label for ret
+
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
 ### X-Axis Menu Options
@@ -377,11 +379,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDk1NTEyMjcsLTI4Mzk2NDk2MCwtNT
-g3NTM4NjQ1LC0xNjg0NTI4NjE4LDk0MzI4MDAwNCwtNDY0MTkz
-MDIwLC0xODExNjUyOTMzLDIzNDUzNzE1Myw3NjAyMzIxNSwtMT
-czODg1NjQ3NCw0NTkwNTUwNjQsLTE5NzMxNjU1MTcsLTE2OTM0
-NzUzMTUsLTE5OTY2NDYzMTAsNzk3Mzg3NzQsLTUyNjIwMDAxNy
-wtMTU5OTg1NzYwLC0xNzc2NTIyMzg4LC04MDQ3NDMzMzAsLTEy
-Njg4MjcyNTNdfQ==
+eyJoaXN0b3J5IjpbMTczNzA1MTIzOCwtMTI0OTU1MTIyNywtMj
+gzOTY0OTYwLC01ODc1Mzg2NDUsLTE2ODQ1Mjg2MTgsOTQzMjgw
+MDA0LC00NjQxOTMwMjAsLTE4MTE2NTI5MzMsMjM0NTM3MTUzLD
+c2MDIzMjE1LC0xNzM4ODU2NDc0LDQ1OTA1NTA2NCwtMTk3MzE2
+NTUxNywtMTY5MzQ3NTMxNSwtMTk5NjY0NjMxMCw3OTczODc3NC
+wtNTI2MjAwMDE3LC0xNTk5ODU3NjAsLTE3NzY1MjIzODgsLTgw
+NDc0MzMzMF19
 -->
