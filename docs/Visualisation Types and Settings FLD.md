@@ -312,7 +312,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 - **Y Axis** Choose the measure values to be displayed on chart.
 - **Column Aggregate ( Table View)** Type of aggregate value to be displayed for a measure.
 
-- **Custom Tooltip** It customizes the measure fields 
+- **Custom Tooltip** It interchange the measure fields values on the column as per the requirement. 
 
 - **Custom Label** Using this option you can display your own label for the field values. 
 ##{start: }#{sum_rate} as of #{sum_amount}##{end: }
@@ -403,11 +403,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQ3NTAwMTgsMTU5Mzg0ODY4MywtMT
-kxNDQ5NjE0NSwtMTMxMTQxNDI1MCwxNzY4OTQwNjQ5LC05Mjk3
-MDU2NywtMzk3MTY3ODk3LDEyNjg0MTE2NCwxMTg2NjIxNTcsLT
-IwNjUxNzczNTAsMTA0NjE1ODY2OCwtMTQ5MDAzNDAxMiw3ODcw
-NTAwMTYsMTgxNjU0NTQ1MCwtMTI0OTU1MTIyNywtMjgzOTY0OT
-YwLC01ODc1Mzg2NDUsLTE2ODQ1Mjg2MTgsOTQzMjgwMDA0LC00
-NjQxOTMwMjBdfQ==
+eyJoaXN0b3J5IjpbLTY3NTU2NzY1LDE1OTM4NDg2ODMsLTE5MT
+Q0OTYxNDUsLTEzMTE0MTQyNTAsMTc2ODk0MDY0OSwtOTI5NzA1
+NjcsLTM5NzE2Nzg5NywxMjY4NDExNjQsMTE4NjYyMTU3LC0yMD
+Y1MTc3MzUwLDEwNDYxNTg2NjgsLTE0OTAwMzQwMTIsNzg3MDUw
+MDE2LDE4MTY1NDU0NTAsLTEyNDk1NTEyMjcsLTI4Mzk2NDk2MC
+wtNTg3NTM4NjQ1LC0xNjg0NTI4NjE4LDk0MzI4MDAwNCwtNDY0
+MTkzMDIwXX0=
 -->
