@@ -295,8 +295,8 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Include Nulls** on selecting this checkbox it displays **Null Values** retrieved in Charts
 
-- ** Display Labels** on selecting this checkbox, it displays the label for ret
-
+- ** Display Labels** on selecting this checkbox, it displays the data obtained for particular field.
+ 
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
 ### X-Axis Menu Options
@@ -379,7 +379,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzA1MTIzOCwtMTI0OTU1MTIyNywtMj
+eyJoaXN0b3J5IjpbMTgxNjU0NTQ1MCwtMTI0OTU1MTIyNywtMj
 gzOTY0OTYwLC01ODc1Mzg2NDUsLTE2ODQ1Mjg2MTgsOTQzMjgw
 MDA0LC00NjQxOTMwMjAsLTE4MTE2NTI5MzMsMjM0NTM3MTUzLD
 c2MDIzMjE1LC0xNzM4ODU2NDc0LDQ1OTA1NTA2NCwtMTk3MzE2
