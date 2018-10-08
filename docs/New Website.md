@@ -9,6 +9,7 @@ We live and breathe the philosophy, ***People Mater Results Count.***
 Get Informed with the insights and resources provided by us. 
 
 ## Our Instant Insights provide Instant values
+
 We create an ability to turn your actions into opportunity In hand.
  
 
@@ -52,11 +53,11 @@ Phone   			Email		  LinkedIn
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjEzNzgxNCwtMTgzNjE5MTI5MCwtMT
-A4OTM3Nzg0NCwxNzA4MzE5OTE2LC0xODE2MTEzMzAwLC0yMDQ2
-MDMzNTcwLC01NjUxMDQ0Miw3Njc1NzQ4MCwtMTY1NzcwNTI2LD
-c3MTc3MjU0Myw2MTQ5MDI2NDcsLTk2MDQ3Mjg0NywtOTA0MDQ3
-NDQsLTEwMDY0OTc1OTMsLTE4OTM0NTk3NDMsMTQ0MjA3NzE0Ny
-wtMTUxNTg2NDUyOSwzMDE4Nzc2OTcsLTE5ODg3Mjg4NjUsLTEy
-Nzk0OTU2MTRdfQ==
+eyJoaXN0b3J5IjpbLTE4MTQ2MTkyNDAsLTMyNjEzNzgxNCwtMT
+gzNjE5MTI5MCwtMTA4OTM3Nzg0NCwxNzA4MzE5OTE2LC0xODE2
+MTEzMzAwLC0yMDQ2MDMzNTcwLC01NjUxMDQ0Miw3Njc1NzQ4MC
+wtMTY1NzcwNTI2LDc3MTc3MjU0Myw2MTQ5MDI2NDcsLTk2MDQ3
+Mjg0NywtOTA0MDQ3NDQsLTEwMDY0OTc1OTMsLTE4OTM0NTk3ND
+MsMTQ0MjA3NzE0NywtMTUxNTg2NDUyOSwzMDE4Nzc2OTcsLTE5
+ODg3Mjg4NjVdfQ==
 -->
