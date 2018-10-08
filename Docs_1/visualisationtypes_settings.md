@@ -289,7 +289,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Tooltips** points the first measure value of the column field.
 
-- **Grouped Tooltips** if the underlying field defines a description for a field, that description id displayed on moving the hover over the fipoints all the measure values of the column field.
+- **Grouped Tooltips** if the underlying field defines a description for a field, that description id displayed on moving the hover over the column name.
 
 - **Show legend** on selecting the checkbox it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
 
@@ -304,7 +304,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 ### Data 
 
 - **Row Grouping** displays the grouped value of the duplicate fields.
-- **Explore Enabled** on selecting the checkbox, it allows you to view the  data which has been grouped.
+- **Explore Enabled** on selecting the checkbox, it allows you to view the  data which has been grouped or else it displays only the consolidated value.
 - **Legend** displays the measure
 - **Format** Choose the number format for measure value.
 - **Currency**  Cheese the currency format for  measure value.
@@ -400,11 +400,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzY1NTcxOSwtMTMxMTQxNDI1MCwxNz
-Y4OTQwNjQ5LC05Mjk3MDU2NywtMzk3MTY3ODk3LDEyNjg0MTE2
-NCwxMTg2NjIxNTcsLTIwNjUxNzczNTAsMTA0NjE1ODY2OCwtMT
-Q5MDAzNDAxMiw3ODcwNTAwMTYsMTgxNjU0NTQ1MCwtMTI0OTU1
-MTIyNywtMjgzOTY0OTYwLC01ODc1Mzg2NDUsLTE2ODQ1Mjg2MT
-gsOTQzMjgwMDA0LC00NjQxOTMwMjAsLTE4MTE2NTI5MzNdfQ==
+eyJoaXN0b3J5IjpbLTE5MTQ0OTYxNDUsLTEzMTE0MTQyNTAsMT
+c2ODk0MDY0OSwtOTI5NzA1NjcsLTM5NzE2Nzg5NywxMjY4NDEx
+NjQsMTE4NjYyMTU3LC0yMDY1MTc3MzUwLDEwNDYxNTg2NjgsLT
+E0OTAwMzQwMTIsNzg3MDUwMDE2LDE4MTY1NDU0NTAsLTEyNDk1
+NTEyMjcsLTI4Mzk2NDk2MCwtNTg3NTM4NjQ1LC0xNjg0NTI4Nj
+E4LDk0MzI4MDAwNCwtNDY0MTkzMDIwLC0xODExNjUyOTMzXX0=
 
 -->
