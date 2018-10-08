@@ -301,6 +301,12 @@ It displays one or more data series as a data graph. Widget chart is used to dis
  
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
+### Data 
+
+
+
+
+
 ### X-Axis Menu Options
 
  > **Note:**  X-Axis is enabled only for Line, Bar and Bubble chart only.
@@ -384,9 +390,9 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjUxNzczNTAsMTA0NjE1ODY2OCwtMT
-Q5MDAzNDAxMiw3ODcwNTAwMTYsMTgxNjU0NTQ1MCwtMTI0OTU1
-MTIyNywtMjgzOTY0OTYwLC01ODc1Mzg2NDUsLTE2ODQ1Mjg2MT
-gsOTQzMjgwMDA0LC00NjQxOTMwMjAsLTE4MTE2NTI5MzNdfQ==
-
+eyJoaXN0b3J5IjpbLTEyOTY1NDAzNjcsLTIwNjUxNzczNTAsMT
+A0NjE1ODY2OCwtMTQ5MDAzNDAxMiw3ODcwNTAwMTYsMTgxNjU0
+NTQ1MCwtMTI0OTU1MTIyNywtMjgzOTY0OTYwLC01ODc1Mzg2ND
+UsLTE2ODQ1Mjg2MTgsOTQzMjgwMDA0LC00NjQxOTMwMjAsLTE4
+MTE2NTI5MzNdfQ==
 -->
