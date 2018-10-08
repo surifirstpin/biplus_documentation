@@ -314,7 +314,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Custom Tooltip** on moving the hover on the column it displays the customized new value. 
 
-> Note : in case if we are taking two measures than you can interchange the measure fields values on the column as per the requirement. 
+> Example : in case if we are taking two measures than you can interchange the measure fields values on the column as per the requirement. 
 
 - **Custom Label** Using this option you can display your own label for the column field values. 
 ##{start: }#{sum_rate} as of #{sum_amount}##{end: }
@@ -407,11 +407,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc5MDEyODIsLTcxOTE4NTE2NSwxNT
-kzODQ4NjgzLC0xOTE0NDk2MTQ1LC0xMzExNDE0MjUwLDE3Njg5
-NDA2NDksLTkyOTcwNTY3LC0zOTcxNjc4OTcsMTI2ODQxMTY0LD
-ExODY2MjE1NywtMjA2NTE3NzM1MCwxMDQ2MTU4NjY4LC0xNDkw
-MDM0MDEyLDc4NzA1MDAxNiwxODE2NTQ1NDUwLC0xMjQ5NTUxMj
-I3LC0yODM5NjQ5NjAsLTU4NzUzODY0NSwtMTY4NDUyODYxOCw5
-NDMyODAwMDRdfQ==
+eyJoaXN0b3J5IjpbMTE4MjQwNjA5NiwtNzE5MTg1MTY1LDE1OT
+M4NDg2ODMsLTE5MTQ0OTYxNDUsLTEzMTE0MTQyNTAsMTc2ODk0
+MDY0OSwtOTI5NzA1NjcsLTM5NzE2Nzg5NywxMjY4NDExNjQsMT
+E4NjYyMTU3LC0yMDY1MTc3MzUwLDEwNDYxNTg2NjgsLTE0OTAw
+MzQwMTIsNzg3MDUwMDE2LDE4MTY1NDU0NTAsLTEyNDk1NTEyMj
+csLTI4Mzk2NDk2MCwtNTg3NTM4NjQ1LC0xNjg0NTI4NjE4LDk0
+MzI4MDAwNF19
 -->
