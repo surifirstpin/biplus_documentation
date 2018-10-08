@@ -2,7 +2,7 @@
 
 ## Our Vision and Mission
 
-We live and breathe the philosophy that people matter and results count.
+We live and breathe the philosophy, people matter and results count.
 ## Knowledge is Power 
 Get Informed with the insights and resources provided by us. 
 
@@ -23,6 +23,7 @@ So, together lets make your product smarter. Your customer experiences more exce
 Our interactive visual analytics allows you to explore the data and instinctively get the answers you need.
 
 #### Secure Accessibility
+
 Share and collaborate reports with team members more securely and get the consent quickly.
 
 #### Cloud-Connected
@@ -49,11 +50,11 @@ Phone   			Email		  LinkedIn
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODkzNzc4NDQsMTcwODMxOTkxNiwtMT
-gxNjExMzMwMCwtMjA0NjAzMzU3MCwtNTY1MTA0NDIsNzY3NTc0
-ODAsLTE2NTc3MDUyNiw3NzE3NzI1NDMsNjE0OTAyNjQ3LC05Nj
-A0NzI4NDcsLTkwNDA0NzQ0LC0xMDA2NDk3NTkzLC0xODkzNDU5
-NzQzLDE0NDIwNzcxNDcsLTE1MTU4NjQ1MjksMzAxODc3Njk3LC
-0xOTg4NzI4ODY1LC0xMjc5NDk1NjE0LDEwNzEzNDA5MTAsLTE0
-NTIzNzAzMF19
+eyJoaXN0b3J5IjpbMzY5MjE2MzA5LC0xMDg5Mzc3ODQ0LDE3MD
+gzMTk5MTYsLTE4MTYxMTMzMDAsLTIwNDYwMzM1NzAsLTU2NTEw
+NDQyLDc2NzU3NDgwLC0xNjU3NzA1MjYsNzcxNzcyNTQzLDYxND
+kwMjY0NywtOTYwNDcyODQ3LC05MDQwNDc0NCwtMTAwNjQ5NzU5
+MywtMTg5MzQ1OTc0MywxNDQyMDc3MTQ3LC0xNTE1ODY0NTI5LD
+MwMTg3NzY5NywtMTk4ODcyODg2NSwtMTI3OTQ5NTYxNCwxMDcx
+MzQwOTEwXX0=
 -->
