@@ -59,11 +59,8 @@ Bar charts are used to compare data across different categories. You can build a
 
 - **Stacked** Series of values are added on the Y-axis by displaying  each consecutive values above the last. 
 
-- **100% Stacked**  All the series of values are 
+- **100% Stacked**  Series values are presented as percentages stacked on the y-axis, where all values add up to 100%.
 
--   **Stacked**: Series values are added on the y-axis, so each consecutive series appears above the last. Be sure that the units of all series match.
-    
--   **Stacked Percentage**: Series values are presented as percentages stacked on the y-axis, where all values add up to 100%.
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c21c91b0c8f9e243362fbefc44279936c6021d12/images/bar_chart.png)
 
@@ -417,7 +414,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTA3OTk1NjcsMTI2MDYwNDE2Niw1Nj
+eyJoaXN0b3J5IjpbLTIwNjQyODYzMDYsMTI2MDYwNDE2Niw1Nj
 M4NDQzNjYsMTE4MjQwNjA5NiwtNzE5MTg1MTY1LDE1OTM4NDg2
 ODMsLTE5MTQ0OTYxNDUsLTEzMTE0MTQyNTAsMTc2ODk0MDY0OS
 wtOTI5NzA1NjcsLTM5NzE2Nzg5NywxMjY4NDExNjQsMTE4NjYy
