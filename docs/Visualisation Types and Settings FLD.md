@@ -318,6 +318,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 ##{start: }#{sum_rate} as of #{sum_amount}##{end: }
 
 - **Type ( Line Chart)** 
+
 - **Bubble Size( Bubble Chart)**
 
 
@@ -404,7 +405,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjAzMTAwOSwxNTkzODQ4NjgzLC0xOT
+eyJoaXN0b3J5IjpbLTcxOTE4NTE2NSwxNTkzODQ4NjgzLC0xOT
 E0NDk2MTQ1LC0xMzExNDE0MjUwLDE3Njg5NDA2NDksLTkyOTcw
 NTY3LC0zOTcxNjc4OTcsMTI2ODQxMTY0LDExODY2MjE1NywtMj
 A2NTE3NzM1MCwxMDQ2MTU4NjY4LC0xNDkwMDM0MDEyLDc4NzA1
