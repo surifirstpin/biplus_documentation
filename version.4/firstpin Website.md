@@ -2,7 +2,7 @@
 
 ## Our Vision and Mission
 
-We live and breathe the philosophy that people matter and results count.
+We live and breathe the philosophy, people matter and results count.
 ## Knowledge is Power 
 Get Informed with the insights and resources provided by us. 
 
@@ -23,6 +23,7 @@ So, together lets make your product smarter. Your customer experiences more exce
 Our interactive visual analytics allows you to explore the data and instinctively get the answers you need.
 
 #### Secure Accessibility
+
 Share and collaborate reports with team members more securely and get the consent quickly.
 
 #### Cloud-Connected
@@ -49,5 +50,5 @@ Phone   			Email		  LinkedIn
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODkzNzc4NDRdfQ==
+eyJoaXN0b3J5IjpbMzY5MjE2MzA5LC0xMDg5Mzc3ODQ0XX0=
 -->
