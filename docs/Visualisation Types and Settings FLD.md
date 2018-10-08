@@ -368,7 +368,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Value** Specify a value to measure the condition.
 
-- **BG (background colour)** Select the background colour for data which is retrieved using condition.
+- **BG ( background colour )** Select the background colour for data which is retrieved using condition.
 
 - **Font** Select the font colour for the data retrieved based on condition.
 
@@ -381,11 +381,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3MDUwMDE2LDE4MTY1NDU0NTAsLTEyND
-k1NTEyMjcsLTI4Mzk2NDk2MCwtNTg3NTM4NjQ1LC0xNjg0NTI4
-NjE4LDk0MzI4MDAwNCwtNDY0MTkzMDIwLC0xODExNjUyOTMzLD
-IzNDUzNzE1Myw3NjAyMzIxNSwtMTczODg1NjQ3NCw0NTkwNTUw
-NjQsLTE5NzMxNjU1MTcsLTE2OTM0NzUzMTUsLTE5OTY2NDYzMT
-AsNzk3Mzg3NzQsLTUyNjIwMDAxNywtMTU5OTg1NzYwLC0xNzc2
-NTIyMzg4XX0=
+eyJoaXN0b3J5IjpbLTE0OTAwMzQwMTIsNzg3MDUwMDE2LDE4MT
+Y1NDU0NTAsLTEyNDk1NTEyMjcsLTI4Mzk2NDk2MCwtNTg3NTM4
+NjQ1LC0xNjg0NTI4NjE4LDk0MzI4MDAwNCwtNDY0MTkzMDIwLC
+0xODExNjUyOTMzLDIzNDUzNzE1Myw3NjAyMzIxNSwtMTczODg1
+NjQ3NCw0NTkwNTUwNjQsLTE5NzMxNjU1MTcsLTE2OTM0NzUzMT
+UsLTE5OTY2NDYzMTAsNzk3Mzg3NzQsLTUyNjIwMDAxNywtMTU5
+OTg1NzYwXX0=
 -->
