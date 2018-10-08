@@ -312,7 +312,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Label** Specify label text.
 
-- **Padding** specifies spacing at the top,bottom,left and right side of the charts.
+- **Padding** specifies spacing at the top,bottom,left and right side of the charts and Axis. it accepts the number range in between 0 to 100.
 
 - **Tooltips** if the underlying field defines a description for a field, that description is displayed on moving the hover over the column.
 - 
@@ -404,11 +404,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDk3OTYzNCw1NzUyNDAwMywtNTY1Mz
-I3ODU5LC0yMDc0NjY4Mzk5LC03ODg1NjQ2NywtNTY2NTk1OTE2
-LC0xNjI0NTgyOTY0LC05NTk0MDg2ODcsLTc1MzYwMzEzLC01Mz
-ExNDY4NzAsLTIzODE5MDk0MiwtMzExMzM1NzgsNDczODc2MjUw
-LC0xMjM3MTAzNDUzLC05MDE0NzgyMDUsMTA5MzkwMjU2MywxNj
-I4MTE0MTE1LC0xMTk4MjQwMzk5LDY4Njc2OTQ1NywxMDU0NzY2
-NjYyXX0=
+eyJoaXN0b3J5IjpbMzE0MzAzOTY0LC05MDQ5Nzk2MzQsNTc1Mj
+QwMDMsLTU2NTMyNzg1OSwtMjA3NDY2ODM5OSwtNzg4NTY0Njcs
+LTU2NjU5NTkxNiwtMTYyNDU4Mjk2NCwtOTU5NDA4Njg3LC03NT
+M2MDMxMywtNTMxMTQ2ODcwLC0yMzgxOTA5NDIsLTMxMTMzNTc4
+LDQ3Mzg3NjI1MCwtMTIzNzEwMzQ1MywtOTAxNDc4MjA1LDEwOT
+M5MDI1NjMsMTYyODExNDExNSwtMTE5ODI0MDM5OSw2ODY3Njk0
+NTddfQ==
 -->
