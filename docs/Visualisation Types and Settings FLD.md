@@ -304,12 +304,17 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 ### Data 
 
 - **Row Grouping** displays the grouped value of the duplicate fields.
+
 - **Explore Enabled** on selecting the checkbox, it allows you to view the  data which has been grouped or else it displays only the consolidated value.
-- **Legend** displays the measure
+
+- **Legend** displays the measure.
+
 - **Format** Choose the number format for measure value.
 
 - **Currency**  Cheese the currency format for  measure value.
+
 - **Y Axis** Choose the measure values to be displayed on chart.
+
 - **Column Aggregate ( Table View)** Type of aggregate value to be displayed for a measure.
 
 - **Custom Tooltip** on moving the hover on the column it displays the customized new value. 
@@ -405,11 +410,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4MzA1Nzk0LDEyNjA2MDQxNjYsNTYzOD
-Q0MzY2LDExODI0MDYwOTYsLTcxOTE4NTE2NSwxNTkzODQ4Njgz
-LC0xOTE0NDk2MTQ1LC0xMzExNDE0MjUwLDE3Njg5NDA2NDksLT
-kyOTcwNTY3LC0zOTcxNjc4OTcsMTI2ODQxMTY0LDExODY2MjE1
-NywtMjA2NTE3NzM1MCwxMDQ2MTU4NjY4LC0xNDkwMDM0MDEyLD
-c4NzA1MDAxNiwxODE2NTQ1NDUwLC0xMjQ5NTUxMjI3LC0yODM5
-NjQ5NjBdfQ==
+eyJoaXN0b3J5IjpbMTY5OTM1NjI3NCwxMjYwNjA0MTY2LDU2Mz
+g0NDM2NiwxMTgyNDA2MDk2LC03MTkxODUxNjUsMTU5Mzg0ODY4
+MywtMTkxNDQ5NjE0NSwtMTMxMTQxNDI1MCwxNzY4OTQwNjQ5LC
+05Mjk3MDU2NywtMzk3MTY3ODk3LDEyNjg0MTE2NCwxMTg2NjIx
+NTcsLTIwNjUxNzczNTAsMTA0NjE1ODY2OCwtMTQ5MDAzNDAxMi
+w3ODcwNTAwMTYsMTgxNjU0NTQ1MCwtMTI0OTU1MTIyNywtMjgz
+OTY0OTYwXX0=
 -->
