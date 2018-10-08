@@ -304,7 +304,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 ### Data 
 
 - **Row Grouping** displays the consolidated value of all the duplicates.
-- **Explore Enabled**
+- **Explore Enabled** on slecting the chechbox, it displa 
 - **Legend**
 - **Format**
 - **Type ( Line Chart)**
@@ -401,11 +401,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODQxMTY0LDExODY2MjE1NywtMjA2NT
-E3NzM1MCwxMDQ2MTU4NjY4LC0xNDkwMDM0MDEyLDc4NzA1MDAx
-NiwxODE2NTQ1NDUwLC0xMjQ5NTUxMjI3LC0yODM5NjQ5NjAsLT
-U4NzUzODY0NSwtMTY4NDUyODYxOCw5NDMyODAwMDQsLTQ2NDE5
-MzAyMCwtMTgxMTY1MjkzMywyMzQ1MzcxNTMsNzYwMjMyMTUsLT
-E3Mzg4NTY0NzQsNDU5MDU1MDY0LC0xOTczMTY1NTE3LC0xNjkz
-NDc1MzE1XX0=
+eyJoaXN0b3J5IjpbMTU4MzY2Njc5NSwxMjY4NDExNjQsMTE4Nj
+YyMTU3LC0yMDY1MTc3MzUwLDEwNDYxNTg2NjgsLTE0OTAwMzQw
+MTIsNzg3MDUwMDE2LDE4MTY1NDU0NTAsLTEyNDk1NTEyMjcsLT
+I4Mzk2NDk2MCwtNTg3NTM4NjQ1LC0xNjg0NTI4NjE4LDk0MzI4
+MDAwNCwtNDY0MTkzMDIwLC0xODExNjUyOTMzLDIzNDUzNzE1My
+w3NjAyMzIxNSwtMTczODg1NjQ3NCw0NTkwNTUwNjQsLTE5NzMx
+NjU1MTddfQ==
 -->
