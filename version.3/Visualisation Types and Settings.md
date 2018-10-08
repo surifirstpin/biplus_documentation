@@ -303,12 +303,16 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 ### Data 
 
-- Row Grouping
-- Explore Enabled
+- **Row Grouping**
+- **Explore Enabled**
 - Legend
 - Format
 - Currency
-- 
+- Bubble Size( Bubble Chart)
+- Y Axis
+- Column Aggregate
+- Custom Tooltip
+- Custom Label
 
 
 
@@ -396,7 +400,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTAyNjU0NywtMjA2NTE3NzM1MCwxMD
+eyJoaXN0b3J5IjpbLTg0MjUxMjAxNywtMjA2NTE3NzM1MCwxMD
 Q2MTU4NjY4LC0xNDkwMDM0MDEyLDc4NzA1MDAxNiwxODE2NTQ1
 NDUwLC0xMjQ5NTUxMjI3LC0yODM5NjQ5NjAsLTU4NzUzODY0NS
 wtMTY4NDUyODYxOCw5NDMyODAwMDQsLTQ2NDE5MzAyMCwtMTgx
