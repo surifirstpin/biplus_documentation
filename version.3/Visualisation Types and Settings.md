@@ -57,9 +57,9 @@ Bar charts are used to compare data across different categories. You can build a
 
  **2.** Click on **Bar** tab under **General** section  to compare the data in bar chart.
 
-- **Stacked** Set of Values are added on the Y-axis by displaying  each consecutive values above the last. ( all the va
+- **Stacked** Series of values are added on the Y-axis by displaying  each consecutive values above the last. 
 
-- **100% Stacked** 
+- **100% Stacked**  All the series of values are 
 
 -   **Stacked**: Series values are added on the y-axis, so each consecutive series appears above the last. Be sure that the units of all series match.
     
@@ -417,11 +417,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3Njk1Nzg0MSw1NjM4NDQzNjYsMTE4Mj
-QwNjA5NiwtNzE5MTg1MTY1LDE1OTM4NDg2ODMsLTE5MTQ0OTYx
-NDUsLTEzMTE0MTQyNTAsMTc2ODk0MDY0OSwtOTI5NzA1NjcsLT
-M5NzE2Nzg5NywxMjY4NDExNjQsMTE4NjYyMTU3LC0yMDY1MTc3
-MzUwLDEwNDYxNTg2NjgsLTE0OTAwMzQwMTIsNzg3MDUwMDE2LD
-E4MTY1NDU0NTAsLTEyNDk1NTEyMjcsLTI4Mzk2NDk2MCwtNTg3
-NTM4NjQ1XX0=
+eyJoaXN0b3J5IjpbLTE5MTA3OTk1NjcsNTYzODQ0MzY2LDExOD
+I0MDYwOTYsLTcxOTE4NTE2NSwxNTkzODQ4NjgzLC0xOTE0NDk2
+MTQ1LC0xMzExNDE0MjUwLDE3Njg5NDA2NDksLTkyOTcwNTY3LC
+0zOTcxNjc4OTcsMTI2ODQxMTY0LDExODY2MjE1NywtMjA2NTE3
+NzM1MCwxMDQ2MTU4NjY4LC0xNDkwMDM0MDEyLDc4NzA1MDAxNi
+wxODE2NTQ1NDUwLC0xMjQ5NTUxMjI3LC0yODM5NjQ5NjAsLTU4
+NzUzODY0NV19
 -->
