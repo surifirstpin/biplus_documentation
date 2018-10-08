@@ -311,7 +311,9 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 - **Currency**  Cheese the currency format for  measure value.
 - **Y Axis** Choose the measure values to be displayed on chart.
 - **Column Aggregate ( Table View)** Type of aggregate value to be displayed for a measure.
+
 - **Custom Tooltip** 
+
 - **Custom Label** Using this option you can display your own label for the field values. 
 ##{start: }#{sum_rate} as of #{sum_amount}##{end: }
 - **Type ( Line Chart)** 
@@ -401,7 +403,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDUxOTU3MywtMTkxNDQ5NjE0NSwtMT
+eyJoaXN0b3J5IjpbMTU5Mzg0ODY4MywtMTkxNDQ5NjE0NSwtMT
 MxMTQxNDI1MCwxNzY4OTQwNjQ5LC05Mjk3MDU2NywtMzk3MTY3
 ODk3LDEyNjg0MTE2NCwxMTg2NjIxNTcsLTIwNjUxNzczNTAsMT
 A0NjE1ODY2OCwtMTQ5MDAzNDAxMiw3ODcwNTAwMTYsMTgxNjU0
