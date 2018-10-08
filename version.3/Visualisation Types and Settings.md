@@ -303,6 +303,9 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 ### Data 
 
+- Row Grouping
+- Explore Enabled
+- 
 
 
 
@@ -390,11 +393,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTY1NDAzNjcsLTIwNjUxNzczNTAsMT
-A0NjE1ODY2OCwtMTQ5MDAzNDAxMiw3ODcwNTAwMTYsMTgxNjU0
-NTQ1MCwtMTI0OTU1MTIyNywtMjgzOTY0OTYwLC01ODc1Mzg2ND
-UsLTE2ODQ1Mjg2MTgsOTQzMjgwMDA0LC00NjQxOTMwMjAsLTE4
-MTE2NTI5MzMsMjM0NTM3MTUzLDc2MDIzMjE1LC0xNzM4ODU2ND
-c0LDQ1OTA1NTA2NCwtMTk3MzE2NTUxNywtMTY5MzQ3NTMxNSwt
-MTk5NjY0NjMxMF19
+eyJoaXN0b3J5IjpbLTYzOTM0MzIxLC0yMDY1MTc3MzUwLDEwND
+YxNTg2NjgsLTE0OTAwMzQwMTIsNzg3MDUwMDE2LDE4MTY1NDU0
+NTAsLTEyNDk1NTEyMjcsLTI4Mzk2NDk2MCwtNTg3NTM4NjQ1LC
+0xNjg0NTI4NjE4LDk0MzI4MDAwNCwtNDY0MTkzMDIwLC0xODEx
+NjUyOTMzLDIzNDUzNzE1Myw3NjAyMzIxNSwtMTczODg1NjQ3NC
+w0NTkwNTUwNjQsLTE5NzMxNjU1MTcsLTE2OTM0NzUzMTUsLTE5
+OTY2NDYzMTBdfQ==
 -->
