@@ -56,7 +56,11 @@ AcuBi Provides an ability to visualize the data in 10 different types of charts 
 Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on rows and measure on columns area.
 
  **2.** Click on **Bar** tab under **General** section  to compare the data in bar chart.
- 
+
+- **Stacked**
+
+- **100% Stacked** 
+
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c21c91b0c8f9e243362fbefc44279936c6021d12/images/bar_chart.png)
 
@@ -410,7 +414,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTM1NjI3NCw1NjM4NDQzNjYsMTE4Mj
+eyJoaXN0b3J5IjpbMTk3NTkxOTI3Niw1NjM4NDQzNjYsMTE4Mj
 QwNjA5NiwtNzE5MTg1MTY1LDE1OTM4NDg2ODMsLTE5MTQ0OTYx
 NDUsLTEzMTE0MTQyNTAsMTc2ODk0MDY0OSwtOTI5NzA1NjcsLT
 M5NzE2Nzg5NywxMjY4NDExNjQsMTE4NjYyMTU3LC0yMDY1MTc3
