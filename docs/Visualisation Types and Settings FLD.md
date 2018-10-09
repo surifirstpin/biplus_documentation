@@ -309,7 +309,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Border radius** Set the label border radius to a given range.
 
-- **Rotation** Rotate the label direction as per the given range.
+- **Rotation** This option controls the clockwise rotation angle (in degrees) of the label, the rotation center point being the label center. The default value is 0 (no rotation).
 
 -  **Align**   it defines the position of the label relative to the anchor point position and direction. Its value can be expressed by one of the following string presets:
 
@@ -432,11 +432,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0MzczMDkxLDI1NTk5NzA4MywtMTk3NT
-M0MTE2MywxNjI5NDY4OTYsLTIwNjQyODYzMDYsMTI2MDYwNDE2
-Niw1NjM4NDQzNjYsMTE4MjQwNjA5NiwtNzE5MTg1MTY1LDE1OT
-M4NDg2ODMsLTE5MTQ0OTYxNDUsLTEzMTE0MTQyNTAsMTc2ODk0
-MDY0OSwtOTI5NzA1NjcsLTM5NzE2Nzg5NywxMjY4NDExNjQsMT
-E4NjYyMTU3LC0yMDY1MTc3MzUwLDEwNDYxNTg2NjgsLTE0OTAw
-MzQwMTJdfQ==
+eyJoaXN0b3J5IjpbLTg4ODg2MTk1NCwyNTU5OTcwODMsLTE5Nz
+UzNDExNjMsMTYyOTQ2ODk2LC0yMDY0Mjg2MzA2LDEyNjA2MDQx
+NjYsNTYzODQ0MzY2LDExODI0MDYwOTYsLTcxOTE4NTE2NSwxNT
+kzODQ4NjgzLC0xOTE0NDk2MTQ1LC0xMzExNDE0MjUwLDE3Njg5
+NDA2NDksLTkyOTcwNTY3LC0zOTcxNjc4OTcsMTI2ODQxMTY0LD
+ExODY2MjE1NywtMjA2NTE3NzM1MCwxMDQ2MTU4NjY4LC0xNDkw
+MDM0MDEyXX0=
 -->
