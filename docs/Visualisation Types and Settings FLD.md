@@ -313,15 +313,15 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 -  **Align**   it defines the position of the label relative to the anchor point position and direction. Its value can be expressed by one of the following string presets:
 
--   **start** the label is positioned before the anchor point, following the same direction
--   **end** the label is positioned after the anchor point, following the same direction
--   **center (default)** the label is centered on the anchor point
--   **right** the label is positioned to the right of the anchor point (0°)
--   **bottom** the label is positioned to the bottom of the anchor point (90°)
--   **left** the label is positioned to the left of the anchor point (180°)
--   **top** the label is positioned to the top of the anchor point (270°)
+   -   **start** the label is positioned before the anchor point, following the same direction
+   -   **end** the label is positioned after the anchor point, following the same direction
+   -   **center (default)** the label is centered on the anchor point
+   -   **right** the label is positioned to the right of the anchor point (0°)
+   -   **bottom** the label is positioned to the bottom of the anchor point (90°)
+      -   **left** the label is positioned to the left of the anchor point (180°)
+   -   **top** the label is positioned to the top of the anchor point (270°)
 
-- **Position** Align the labels at top, bottom, left and right side of the chart, based on selection criteria.
+   - **Position** Align the labels at top, bottom, left and right side of the chart, based on selection criteria.
 
 ### Data 
 
@@ -432,11 +432,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTk2NTE2NywyNTU5OTcwODMsLTE5Nz
-UzNDExNjMsMTYyOTQ2ODk2LC0yMDY0Mjg2MzA2LDEyNjA2MDQx
-NjYsNTYzODQ0MzY2LDExODI0MDYwOTYsLTcxOTE4NTE2NSwxNT
-kzODQ4NjgzLC0xOTE0NDk2MTQ1LC0xMzExNDE0MjUwLDE3Njg5
-NDA2NDksLTkyOTcwNTY3LC0zOTcxNjc4OTcsMTI2ODQxMTY0LD
-ExODY2MjE1NywtMjA2NTE3NzM1MCwxMDQ2MTU4NjY4LC0xNDkw
-MDM0MDEyXX0=
+eyJoaXN0b3J5IjpbODQ0MzczMDkxLDI1NTk5NzA4MywtMTk3NT
+M0MTE2MywxNjI5NDY4OTYsLTIwNjQyODYzMDYsMTI2MDYwNDE2
+Niw1NjM4NDQzNjYsMTE4MjQwNjA5NiwtNzE5MTg1MTY1LDE1OT
+M4NDg2ODMsLTE5MTQ0OTYxNDUsLTEzMTE0MTQyNTAsMTc2ODk0
+MDY0OSwtOTI5NzA1NjcsLTM5NzE2Nzg5NywxMjY4NDExNjQsMT
+E4NjYyMTU3LC0yMDY1MTc3MzUwLDEwNDYxNTg2NjgsLTE0OTAw
+MzQwMTJdfQ==
 -->
