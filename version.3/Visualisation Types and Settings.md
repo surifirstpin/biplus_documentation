@@ -313,13 +313,13 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 -  **Align**   it defines the position of the label relative to the anchor point position and direction. Its value can be expressed by one of the following string presets:
 
--   `start`: the label is positioned before the anchor point, following the same direction
--   `end`: the label is positioned after the anchor point, following the same direction
--   `center`  (default): the label is centered on the anchor point
--   `right`: the label is positioned to the right of the anchor point (0°)
--   `bottom`: the label is positioned to the bottom of the anchor point (90°)
--   `left`: the label is positioned to the left of the anchor point (180°)
--   `top`: the label is positioned to the top of the anchor point (270°)
+-   **start** the label is positioned before the anchor point, following the same direction
+-   **end** the label is positioned after the anchor point, following the same direction
+-   **center (default)** the label is centered on the anchor point
+-   **right** the label is positioned to the right of the anchor point (0°)
+-   **bottom** the label is positioned to the bottom of the anchor point (90°)
+-   **left** the label is positioned to the left of the anchor point (180°)
+-   **top** the label is positioned to the top of the anchor point (270°)
 
 - **Position** Align the labels at top, bottom, left and right side of the chart, based on selection criteria.
 
@@ -432,11 +432,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI2MTM5NTksMjU1OTk3MDgzLC0xOT
-c1MzQxMTYzLDE2Mjk0Njg5NiwtMjA2NDI4NjMwNiw1NjM4NDQz
-NjYsMTE4MjQwNjA5NiwtNzE5MTg1MTY1LDE1OTM4NDg2ODMsLT
-E5MTQ0OTYxNDUsLTEzMTE0MTQyNTAsMTc2ODk0MDY0OSwtOTI5
-NzA1NjcsLTM5NzE2Nzg5NywxMjY4NDExNjQsMTE4NjYyMTU3LC
-0yMDY1MTc3MzUwLDEwNDYxNTg2NjgsLTE0OTAwMzQwMTIsNzg3
-MDUwMDE2XX0=
+eyJoaXN0b3J5IjpbMTMzOTk2NTE2NywyNTU5OTcwODMsLTE5Nz
+UzNDExNjMsMTYyOTQ2ODk2LC0yMDY0Mjg2MzA2LDU2Mzg0NDM2
+NiwxMTgyNDA2MDk2LC03MTkxODUxNjUsMTU5Mzg0ODY4MywtMT
+kxNDQ5NjE0NSwtMTMxMTQxNDI1MCwxNzY4OTQwNjQ5LC05Mjk3
+MDU2NywtMzk3MTY3ODk3LDEyNjg0MTE2NCwxMTg2NjIxNTcsLT
+IwNjUxNzczNTAsMTA0NjE1ODY2OCwtMTQ5MDAzNDAxMiw3ODcw
+NTAwMTZdfQ==
 -->
