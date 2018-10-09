@@ -322,9 +322,9 @@ It displays one or more data series as a data graph. Widget chart is used to dis
    -   **top** the label is positioned to the top of the anchor point (270°)
   - **Anchor** The label position is calculated based on the anchor option. AcuBi supports Following positioning.
 
-    -   center  (default): Label center
-    -   `start`: lowest label boundary
-    -   `end`: highest label boundary
+    -   **center  (default)** aligns the Label in center.
+    -   **start** aligns the the label at lowest boundary.
+    -   **end** aligns the label at highest boundary.
 
 ### Data 
 
@@ -435,11 +435,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5NjgxNDQxLC04ODg4NjE5NTQsMjU1OT
-k3MDgzLC0xOTc1MzQxMTYzLDE2Mjk0Njg5NiwtMjA2NDI4NjMw
-Niw1NjM4NDQzNjYsMTE4MjQwNjA5NiwtNzE5MTg1MTY1LDE1OT
-M4NDg2ODMsLTE5MTQ0OTYxNDUsLTEzMTE0MTQyNTAsMTc2ODk0
-MDY0OSwtOTI5NzA1NjcsLTM5NzE2Nzg5NywxMjY4NDExNjQsMT
-E4NjYyMTU3LC0yMDY1MTc3MzUwLDEwNDYxNTg2NjgsLTE0OTAw
-MzQwMTJdfQ==
+eyJoaXN0b3J5IjpbLTEzMjMxMTAzMDYsLTg4ODg2MTk1NCwyNT
+U5OTcwODMsLTE5NzUzNDExNjMsMTYyOTQ2ODk2LC0yMDY0Mjg2
+MzA2LDU2Mzg0NDM2NiwxMTgyNDA2MDk2LC03MTkxODUxNjUsMT
+U5Mzg0ODY4MywtMTkxNDQ5NjE0NSwtMTMxMTQxNDI1MCwxNzY4
+OTQwNjQ5LC05Mjk3MDU2NywtMzk3MTY3ODk3LDEyNjg0MTE2NC
+wxMTg2NjIxNTcsLTIwNjUxNzczNTAsMTA0NjE1ODY2OCwtMTQ5
+MDAzNDAxMl19
 -->
