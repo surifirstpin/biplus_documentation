@@ -76,6 +76,10 @@ Bar charts are used to compare data across different categories. You can build a
 
  **2.** Click on **Bar** tab under **General** section  to compare the data in Bar chart.
  
+- **Stacked** Series of values are added on the Y-axis by displaying  each consecutive values above the last. 
+
+- **100% Stacked**  Series of values are presented as percentages stacked on the y-axis, where all values add up to 100%.
+
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c21c91b0c8f9e243362fbefc44279936c6021d12/images/bar_chart.png)
 
@@ -351,6 +355,30 @@ It displays one or more data series as a data graph. Widget chart is used to dis
     
 - **Align Negative** It will enable the negative values to be displayed below range  `0`.
  
+ ### Data 
+
+- **Row Grouping** displays the grouped value of the duplicate fields.
+
+- **Explore Enabled** on selecting the checkbox, it allows you to view the  data which has been grouped or else it displays only the consolidated value.
+
+- **Legend** displays the measure.
+
+- **Format** Choose the number format for measure value.
+
+- **Currency**  Cheese the currency format for  measure value.
+
+- **Y Axis** Choose the measure values to be displayed on chart.
+
+- **Column Aggregate ( Table View)** Type of aggregate value to be displayed for a measure.
+
+- **Custom Tooltip** on moving the hover on the column it displays the customized new value. 
+
+> **Example** : in case if we are taking two measures than you can interchange the measure fields values on the column as per the requirement. 
+
+- **Custom Label** Using this option you can display your own label for the column field values. 
+##{start: }#{sum_rate} as of #{sum_amount}##{end: }
+
+- **Bubble Size( Bubble Chart)** Depending on measure values, it varies in size.
  
 ### X-Axis Menu Options
 
@@ -434,11 +462,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjA0MzQ3NCwtMzU0ODQ0OTg5LC0xMz
-M2ODE4NDM1LC05MDQ5Nzk2MzQsNTc1MjQwMDMsLTU2NTMyNzg1
-OSwtMjA3NDY2ODM5OSwtNzg4NTY0NjcsLTU2NjU5NTkxNiwtMT
-YyNDU4Mjk2NCwtOTU5NDA4Njg3LC03NTM2MDMxMywtNTMxMTQ2
-ODcwLC0yMzgxOTA5NDIsLTMxMTMzNTc4LDQ3Mzg3NjI1MCwtMT
-IzNzEwMzQ1MywtOTAxNDc4MjA1LDEwOTM5MDI1NjMsMTYyODEx
-NDExNV19
+eyJoaXN0b3J5IjpbNjUyNzUxMzAzLC0zNTQ4NDQ5ODksLTEzMz
+Y4MTg0MzUsLTkwNDk3OTYzNCw1NzUyNDAwMywtNTY1MzI3ODU5
+LC0yMDc0NjY4Mzk5LC03ODg1NjQ2NywtNTY2NTk1OTE2LC0xNj
+I0NTgyOTY0LC05NTk0MDg2ODcsLTc1MzYwMzEzLC01MzExNDY4
+NzAsLTIzODE5MDk0MiwtMzExMzM1NzgsNDczODc2MjUwLC0xMj
+M3MTAzNDUzLC05MDE0NzgyMDUsMTA5MzkwMjU2MywxNjI4MTE0
+MTE1XX0=
 -->
