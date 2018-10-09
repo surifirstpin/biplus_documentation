@@ -299,11 +299,11 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Include Nulls** on selecting this checkbox it displays **Null Values** retrieved in Charts section.
 
-- ** Display Labels** on selecting this checkbox, it displays the data value obtained for the fields.
+- **Display Labels** on selecting this checkbox, it displays the data value obtained for the fields.
 
 - **Background Enabled**  it enables background colour for labels.
 
-- **Font Weight ** 
+- **Font Weight** 
 
 - **Font Size**
 
@@ -437,11 +437,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjU4Mjk2MiwxNjAwMTk5MzQ2LC0xMz
-IzMTEwMzA2LC04ODg4NjE5NTQsMjU1OTk3MDgzLC0xOTc1MzQx
-MTYzLDE2Mjk0Njg5NiwtMjA2NDI4NjMwNiwxMjYwNjA0MTY2LD
-U2Mzg0NDM2NiwxMTgyNDA2MDk2LC03MTkxODUxNjUsMTU5Mzg0
-ODY4MywtMTkxNDQ5NjE0NSwtMTMxMTQxNDI1MCwxNzY4OTQwNj
-Q5LC05Mjk3MDU2NywtMzk3MTY3ODk3LDEyNjg0MTE2NCwxMTg2
-NjIxNTddfQ==
+eyJoaXN0b3J5IjpbMTI2NjYxNDA2MCwxOTIyNTgyOTYyLDE2MD
+AxOTkzNDYsLTEzMjMxMTAzMDYsLTg4ODg2MTk1NCwyNTU5OTcw
+ODMsLTE5NzUzNDExNjMsMTYyOTQ2ODk2LC0yMDY0Mjg2MzA2LD
+EyNjA2MDQxNjYsNTYzODQ0MzY2LDExODI0MDYwOTYsLTcxOTE4
+NTE2NSwxNTkzODQ4NjgzLC0xOTE0NDk2MTQ1LC0xMzExNDE0Mj
+UwLDE3Njg5NDA2NDksLTkyOTcwNTY3LC0zOTcxNjc4OTcsMTI2
+ODQxMTY0XX0=
 -->
