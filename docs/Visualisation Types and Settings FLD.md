@@ -154,8 +154,6 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  
  - **Gap** It enables gap between two measure values.
 
-
- 
  
 ##  Gauge Chart 
 
@@ -437,11 +435,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDkxNTk2MSwxMjY2NjE0MDYwLDE5Mj
-I1ODI5NjIsMTYwMDE5OTM0NiwtMTMyMzExMDMwNiwtODg4ODYx
-OTU0LDI1NTk5NzA4MywtMTk3NTM0MTE2MywxNjI5NDY4OTYsLT
-IwNjQyODYzMDYsMTI2MDYwNDE2Niw1NjM4NDQzNjYsMTE4MjQw
-NjA5NiwtNzE5MTg1MTY1LDE1OTM4NDg2ODMsLTE5MTQ0OTYxND
-UsLTEzMTE0MTQyNTAsMTc2ODk0MDY0OSwtOTI5NzA1NjcsLTM5
-NzE2Nzg5N119
+eyJoaXN0b3J5IjpbLTE0NDg3MTQxNzUsMTMyNDkxNTk2MSwxMj
+Y2NjE0MDYwLDE5MjI1ODI5NjIsMTYwMDE5OTM0NiwtMTMyMzEx
+MDMwNiwtODg4ODYxOTU0LDI1NTk5NzA4MywtMTk3NTM0MTE2My
+wxNjI5NDY4OTYsLTIwNjQyODYzMDYsMTI2MDYwNDE2Niw1NjM4
+NDQzNjYsMTE4MjQwNjA5NiwtNzE5MTg1MTY1LDE1OTM4NDg2OD
+MsLTE5MTQ0OTYxNDUsLTEzMTE0MTQyNTAsMTc2ODk0MDY0OSwt
+OTI5NzA1NjddfQ==
 -->
