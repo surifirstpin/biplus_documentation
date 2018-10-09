@@ -162,17 +162,13 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 
  - **Sort** it enables data in the sorted order in funnel chart.
   
- - **Curved**  it will display the funnel chart in curved view.
+ - **Sort** it enables the sorted order for funnel chart.
  
- - **Pinched**  it will display the compressed view of the funnel chart.
-  
- - **Inverted** it will display the funnel chart in reversed or bottom up position.
+ -  **Top width**  it adjust the width dimension in top view.
  
- - **Highlight on Hover**   it will highlight each section on placing a cursor on it.
+ - **Bottom Width** it adjust the width dimension in bottom view.
  
- - **Dynamic Height**  it will display the height as per the values in funnel chart. For example higher values is referred with larger height and lower values is referred with low height.
- 
-
+ - **Gap** It enables gap between two measure values.
 
 
 ##  Gauge Chart 
@@ -436,11 +432,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzY4MTg0MzUsLTkwNDk3OTYzNCw1Nz
-UyNDAwMywtNTY1MzI3ODU5LC0yMDc0NjY4Mzk5LC03ODg1NjQ2
-NywtNTY2NTk1OTE2LC0xNjI0NTgyOTY0LC05NTk0MDg2ODcsLT
-c1MzYwMzEzLC01MzExNDY4NzAsLTIzODE5MDk0MiwtMzExMzM1
-NzgsNDczODc2MjUwLC0xMjM3MTAzNDUzLC05MDE0NzgyMDUsMT
-A5MzkwMjU2MywxNjI4MTE0MTE1LC0xMTk4MjQwMzk5LDY4Njc2
-OTQ1N119
+eyJoaXN0b3J5IjpbLTM1NDg0NDk4OSwtMTMzNjgxODQzNSwtOT
+A0OTc5NjM0LDU3NTI0MDAzLC01NjUzMjc4NTksLTIwNzQ2Njgz
+OTksLTc4ODU2NDY3LC01NjY1OTU5MTYsLTE2MjQ1ODI5NjQsLT
+k1OTQwODY4NywtNzUzNjAzMTMsLTUzMTE0Njg3MCwtMjM4MTkw
+OTQyLC0zMTEzMzU3OCw0NzM4NzYyNTAsLTEyMzcxMDM0NTMsLT
+kwMTQ3ODIwNSwxMDkzOTAyNTYzLDE2MjgxMTQxMTUsLTExOTgy
+NDAzOTldfQ==
 -->
