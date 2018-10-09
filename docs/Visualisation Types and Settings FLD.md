@@ -384,8 +384,6 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
  - **Theme** enables colour for reference line.
  
-
-
 ### Y-Axis
 
  > **Note:**  Y-Axis is enabled only for Line, Bar and Bubble chart only.
@@ -441,11 +439,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjU4MzYzNCwxMzI0OTE1OTYxLDEyNj
-Y2MTQwNjAsMTkyMjU4Mjk2MiwxNjAwMTk5MzQ2LC0xMzIzMTEw
-MzA2LC04ODg4NjE5NTQsMjU1OTk3MDgzLC0xOTc1MzQxMTYzLD
-E2Mjk0Njg5NiwtMjA2NDI4NjMwNiwxMjYwNjA0MTY2LDU2Mzg0
-NDM2NiwxMTgyNDA2MDk2LC03MTkxODUxNjUsMTU5Mzg0ODY4My
-wtMTkxNDQ5NjE0NSwtMTMxMTQxNDI1MCwxNzY4OTQwNjQ5LC05
-Mjk3MDU2N119
+eyJoaXN0b3J5IjpbNjE2NzI3MDUwLDEzMjQ5MTU5NjEsMTI2Nj
+YxNDA2MCwxOTIyNTgyOTYyLDE2MDAxOTkzNDYsLTEzMjMxMTAz
+MDYsLTg4ODg2MTk1NCwyNTU5OTcwODMsLTE5NzUzNDExNjMsMT
+YyOTQ2ODk2LC0yMDY0Mjg2MzA2LDEyNjA2MDQxNjYsNTYzODQ0
+MzY2LDExODI0MDYwOTYsLTcxOTE4NTE2NSwxNTkzODQ4NjgzLC
+0xOTE0NDk2MTQ1LC0xMzExNDE0MjUwLDE3Njg5NDA2NDksLTky
+OTcwNTY3XX0=
 -->
