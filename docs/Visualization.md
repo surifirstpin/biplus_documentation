@@ -91,7 +91,9 @@ This section describes the editing option for Pie chart in visualization.
 
 ### Editing Options for Line Chart
  
-- **Show percentage**  displays percentage of occupancy, each measure value holds in a pie chart. To enable it select the **Check Box** show percentage as shown in below image.
+- **Show percentage**  on selecting this checkbox, it displays percentage value for each measure in pie chart. if disabled it  displays dimension name. 
+
+![
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6921e2105eb29674d2f727201df80f5be58983d5/images/show_percentage.png)
 
@@ -432,11 +434,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDg0NDk4OSwtMTMzNjgxODQzNSwtOT
-A0OTc5NjM0LDU3NTI0MDAzLC01NjUzMjc4NTksLTIwNzQ2Njgz
-OTksLTc4ODU2NDY3LC01NjY1OTU5MTYsLTE2MjQ1ODI5NjQsLT
-k1OTQwODY4NywtNzUzNjAzMTMsLTUzMTE0Njg3MCwtMjM4MTkw
-OTQyLC0zMTEzMzU3OCw0NzM4NzYyNTAsLTEyMzcxMDM0NTMsLT
-kwMTQ3ODIwNSwxMDkzOTAyNTYzLDE2MjgxMTQxMTUsLTExOTgy
-NDAzOTldfQ==
+eyJoaXN0b3J5IjpbLTQ1NjA0MzQ3NCwtMzU0ODQ0OTg5LC0xMz
+M2ODE4NDM1LC05MDQ5Nzk2MzQsNTc1MjQwMDMsLTU2NTMyNzg1
+OSwtMjA3NDY2ODM5OSwtNzg4NTY0NjcsLTU2NjU5NTkxNiwtMT
+YyNDU4Mjk2NCwtOTU5NDA4Njg3LC03NTM2MDMxMywtNTMxMTQ2
+ODcwLC0yMzgxOTA5NDIsLTMxMTMzNTc4LDQ3Mzg3NjI1MCwtMT
+IzNzEwMzQ1MywtOTAxNDc4MjA1LDEwOTM5MDI1NjMsMTYyODEx
+NDExNV19
 -->
