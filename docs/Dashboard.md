@@ -85,6 +85,7 @@ You can add different reports to the layout selected, depending on the requireme
 
 **8.**     **Report Listeners** **( Refer image 5)**
 
+The Listeners option allows to register callbacks to be notified when an event is detected on a specific label.
   AcuBi has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report 1, it is applicable only on report 1 and report 2 will remain unaffected.
 
    -  **Dashboard Report**  selects reports to add filters.
@@ -152,11 +153,11 @@ AcuBi make it easier to view the dashboard list, in mobile devices easily and it
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQ1NjYyMDMsMTM3NDUwNzk2MywxNz
-cwOTA3OTQ3LDE4NjU4MTM0OSwtMzcwMzk5MjE2LDE1MTg4ODE5
-MjEsMTI5Mzc3MTEwOCwyMTQ0NzExOTk0LDE1NDM5MjkyNzIsLT
-E2OTY0MzY3ODEsMTU3MTIyMzUxNywtMTgwODM5Mzk4NSw3OTEx
-MzA5NDAsODY2NTEzMjMwLDE3Mzk3NjQ0NTQsLTIxMDkwNzk0Nj
-UsNDQ5OTY0MzM0LDEwNjY3OTQ2NjgsLTE4NzMzNTgzMjYsLTk3
-MDE1NDk5OF19
+eyJoaXN0b3J5IjpbMTIxNzQwOTYzNywtMTcyNDU2NjIwMywxMz
+c0NTA3OTYzLDE3NzA5MDc5NDcsMTg2NTgxMzQ5LC0zNzAzOTky
+MTYsMTUxODg4MTkyMSwxMjkzNzcxMTA4LDIxNDQ3MTE5OTQsMT
+U0MzkyOTI3MiwtMTY5NjQzNjc4MSwxNTcxMjIzNTE3LC0xODA4
+MzkzOTg1LDc5MTEzMDk0MCw4NjY1MTMyMzAsMTczOTc2NDQ1NC
+wtMjEwOTA3OTQ2NSw0NDk5NjQzMzQsMTA2Njc5NDY2OCwtMTg3
+MzM1ODMyNl19
 -->
