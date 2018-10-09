@@ -286,7 +286,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Padding** specifies spacing at the top, bottom, left and right side of the charts.
 
-- **Tooltips** points the first measure value of the column field.
+- **Tooltips** on moving the cursor over the charts it displays the measure value of the specific section.
 
 - **Grouped Tooltips** if the underlying field defines a description for a field, that description id displayed on moving the hover over the column name.
 
@@ -409,11 +409,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk1MzgzMCwtMjA2NDI4NjMwNiw1Nj
-M4NDQzNjYsMTE4MjQwNjA5NiwtNzE5MTg1MTY1LDE1OTM4NDg2
-ODMsLTE5MTQ0OTYxNDUsLTEzMTE0MTQyNTAsMTc2ODk0MDY0OS
-wtOTI5NzA1NjcsLTM5NzE2Nzg5NywxMjY4NDExNjQsMTE4NjYy
-MTU3LC0yMDY1MTc3MzUwLDEwNDYxNTg2NjgsLTE0OTAwMzQwMT
-IsNzg3MDUwMDE2LDE4MTY1NDU0NTAsLTEyNDk1NTEyMjcsLTI4
-Mzk2NDk2MF19
+eyJoaXN0b3J5IjpbMzYzMzYyMzk0LC0yMDY0Mjg2MzA2LDU2Mz
+g0NDM2NiwxMTgyNDA2MDk2LC03MTkxODUxNjUsMTU5Mzg0ODY4
+MywtMTkxNDQ5NjE0NSwtMTMxMTQxNDI1MCwxNzY4OTQwNjQ5LC
+05Mjk3MDU2NywtMzk3MTY3ODk3LDEyNjg0MTE2NCwxMTg2NjIx
+NTcsLTIwNjUxNzczNTAsMTA0NjE1ODY2OCwtMTQ5MDAzNDAxMi
+w3ODcwNTAwMTYsMTgxNjU0NTQ1MCwtMTI0OTU1MTIyNywtMjgz
+OTY0OTYwXX0=
 -->
