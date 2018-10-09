@@ -302,10 +302,15 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 - ** Display Labels** on selecting this checkbox, it displays the data value obtained for the fields.
 
 - **Background Enabled**  it enables background colour for labels.
+
 - **Font Weight** 
+
 - **Font Size**
-- **Border radius** Set the label border 
-- 
+
+- **Border radius** Set the label border radius to a given range.
+
+- **Rotation** Asign
+
 - **Position** Align the labels at top, bottom, left and right side of the chart, based on selection criteria.
 
 ### Data 
@@ -417,7 +422,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDE0Njk3NiwxNjI5NDY4OTYsLTIwNj
+eyJoaXN0b3J5IjpbMTUwNDk2ODUwOCwxNjI5NDY4OTYsLTIwNj
 QyODYzMDYsNTYzODQ0MzY2LDExODI0MDYwOTYsLTcxOTE4NTE2
 NSwxNTkzODQ4NjgzLC0xOTE0NDk2MTQ1LC0xMzExNDE0MjUwLD
 E3Njg5NDA2NDksLTkyOTcwNTY3LC0zOTcxNjc4OTcsMTI2ODQx
