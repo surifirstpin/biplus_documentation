@@ -302,10 +302,15 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 - ** Display Labels** on selecting this checkbox, it displays the data value obtained for the fields.
 
 - **Background Enabled**  it enables background colour for labels.
+
 - **Font Weight** 
+
 - **Font Size**
-- **Border radius** Set the label b
-- 
+
+- **Border radius** Set the label border radius to a given range.
+
+- **Rotation** Asi
+
 - **Position** Align the labels at top, bottom, left and right side of the chart, based on selection criteria.
 
 ### Data 
@@ -417,11 +422,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0Nzg1Mjk0LDE2Mjk0Njg5NiwtMjA2ND
-I4NjMwNiwxMjYwNjA0MTY2LDU2Mzg0NDM2NiwxMTgyNDA2MDk2
-LC03MTkxODUxNjUsMTU5Mzg0ODY4MywtMTkxNDQ5NjE0NSwtMT
-MxMTQxNDI1MCwxNzY4OTQwNjQ5LC05Mjk3MDU2NywtMzk3MTY3
-ODk3LDEyNjg0MTE2NCwxMTg2NjIxNTcsLTIwNjUxNzczNTAsMT
-A0NjE1ODY2OCwtMTQ5MDAzNDAxMiw3ODcwNTAwMTYsMTgxNjU0
-NTQ1MF19
+eyJoaXN0b3J5IjpbLTE5MTg0MTE4MTksMTYyOTQ2ODk2LC0yMD
+Y0Mjg2MzA2LDEyNjA2MDQxNjYsNTYzODQ0MzY2LDExODI0MDYw
+OTYsLTcxOTE4NTE2NSwxNTkzODQ4NjgzLC0xOTE0NDk2MTQ1LC
+0xMzExNDE0MjUwLDE3Njg5NDA2NDksLTkyOTcwNTY3LC0zOTcx
+Njc4OTcsMTI2ODQxMTY0LDExODY2MjE1NywtMjA2NTE3NzM1MC
+wxMDQ2MTU4NjY4LC0xNDkwMDM0MDEyLDc4NzA1MDAxNiwxODE2
+NTQ1NDUwXX0=
 -->
