@@ -346,7 +346,9 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 > **Example** : in case if we are taking two measures than you can interchange the measure fields values on the column as per the requirement. 
 
-- **Custom Label** Using this option you can display your own customized label for the column field values. at teh same time you can add a prefix at starting or ending position of the label
+- **Custom Label** Using this option you can display your own customized label for the column field values. At the same time you can add a prefix at starting or ending position of the label value.
+
+For Instance : Consider label value 1
 ##{start: }#{sum_rate} as of #{sum_amount}##{end: }
 
 - **Bubble Size( Bubble Chart)** Depending on measure values, it varies in size.
@@ -439,11 +441,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0NjQ3OTYzLDYxNjcyNzA1MCwxMzI0OT
-E1OTYxLDEyNjY2MTQwNjAsMTkyMjU4Mjk2MiwxNjAwMTk5MzQ2
-LC0xMzIzMTEwMzA2LC04ODg4NjE5NTQsMjU1OTk3MDgzLC0xOT
-c1MzQxMTYzLDE2Mjk0Njg5NiwtMjA2NDI4NjMwNiwxMjYwNjA0
-MTY2LDU2Mzg0NDM2NiwxMTgyNDA2MDk2LC03MTkxODUxNjUsMT
-U5Mzg0ODY4MywtMTkxNDQ5NjE0NSwtMTMxMTQxNDI1MCwxNzY4
-OTQwNjQ5XX0=
+eyJoaXN0b3J5IjpbLTgyODA5MTg5MSw2MTY3MjcwNTAsMTMyND
+kxNTk2MSwxMjY2NjE0MDYwLDE5MjI1ODI5NjIsMTYwMDE5OTM0
+NiwtMTMyMzExMDMwNiwtODg4ODYxOTU0LDI1NTk5NzA4MywtMT
+k3NTM0MTE2MywxNjI5NDY4OTYsLTIwNjQyODYzMDYsMTI2MDYw
+NDE2Niw1NjM4NDQzNjYsMTE4MjQwNjA5NiwtNzE5MTg1MTY1LD
+E1OTM4NDg2ODMsLTE5MTQ0OTYxNDUsLTEzMTE0MTQyNTAsMTc2
+ODk0MDY0OV19
 -->
