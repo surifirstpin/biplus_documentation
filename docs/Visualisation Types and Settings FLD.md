@@ -313,13 +313,13 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 -  **Align**   it defines the position of the label relative to the anchor point position and direction. Its value can be expressed by one of the following string presets:
 
--   `start`: the label is positioned before the anchor point, following the same direction
--   `end`: the label is positioned after the anchor point, following the same direction
--   `center`  (default): the label is centered on the anchor point
--   `right`: the label is positioned to the right of the anchor point (0°)
--   `bottom`: the label is positioned to the bottom of the anchor point (90°)
--   `left`: the label is positioned to the left of the anchor point (180°)
--   `top`: the label is positioned to the top of the anchor point (270°)
+-   **start** the label is positioned before the anchor point, following the same direction
+-   **end** the label is positioned after the anchor point, following the same direction
+-   **center (default)** the label is centered on the anchor point
+-   **right** the label is positioned to the right of the anchor point (0°)
+-   **bottom** the label is positioned to the bottom of the anchor point (90°)
+-   **left** the label is positioned to the left of the anchor point (180°)
+-   **top** the label is positioned to the top of the anchor point (270°)
 
 - **Position** Align the labels at top, bottom, left and right side of the chart, based on selection criteria.
 
@@ -432,11 +432,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI2MTM5NTksMjU1OTk3MDgzLC0xOT
-c1MzQxMTYzLDE2Mjk0Njg5NiwtMjA2NDI4NjMwNiwxMjYwNjA0
-MTY2LDU2Mzg0NDM2NiwxMTgyNDA2MDk2LC03MTkxODUxNjUsMT
-U5Mzg0ODY4MywtMTkxNDQ5NjE0NSwtMTMxMTQxNDI1MCwxNzY4
-OTQwNjQ5LC05Mjk3MDU2NywtMzk3MTY3ODk3LDEyNjg0MTE2NC
-wxMTg2NjIxNTcsLTIwNjUxNzczNTAsMTA0NjE1ODY2OCwtMTQ5
-MDAzNDAxMl19
+eyJoaXN0b3J5IjpbMTMzOTk2NTE2NywyNTU5OTcwODMsLTE5Nz
+UzNDExNjMsMTYyOTQ2ODk2LC0yMDY0Mjg2MzA2LDEyNjA2MDQx
+NjYsNTYzODQ0MzY2LDExODI0MDYwOTYsLTcxOTE4NTE2NSwxNT
+kzODQ4NjgzLC0xOTE0NDk2MTQ1LC0xMzExNDE0MjUwLDE3Njg5
+NDA2NDksLTkyOTcwNTY3LC0zOTcxNjc4OTcsMTI2ODQxMTY0LD
+ExODY2MjE1NywtMjA2NTE3NzM1MCwxMDQ2MTU4NjY4LC0xNDkw
+MDM0MDEyXX0=
 -->
