@@ -311,7 +311,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Rotation** Rotate the label direction as per the given range.
 
--  **Align**   it defines the position of the label relative to the anchor point position and orientation. Its value can be expressed either by a number representing the clockwise angle (in degree) or by one of the following string presets:
+-  **Align**   it defines the position of the label relative to the anchor point position and direction. Its value can be expressed by one of the following string presets:
 
 -   `start`: the label is positioned before the anchor point, following the same direction
 -   `end`: the label is positioned after the anchor point, following the same direction
@@ -432,11 +432,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1OTk3MDgzLC0xOTc1MzQxMTYzLDE2Mj
-k0Njg5NiwtMjA2NDI4NjMwNiwxMjYwNjA0MTY2LDU2Mzg0NDM2
-NiwxMTgyNDA2MDk2LC03MTkxODUxNjUsMTU5Mzg0ODY4MywtMT
-kxNDQ5NjE0NSwtMTMxMTQxNDI1MCwxNzY4OTQwNjQ5LC05Mjk3
-MDU2NywtMzk3MTY3ODk3LDEyNjg0MTE2NCwxMTg2NjIxNTcsLT
-IwNjUxNzczNTAsMTA0NjE1ODY2OCwtMTQ5MDAzNDAxMiw3ODcw
-NTAwMTZdfQ==
+eyJoaXN0b3J5IjpbLTIwNzI2MTM5NTksMjU1OTk3MDgzLC0xOT
+c1MzQxMTYzLDE2Mjk0Njg5NiwtMjA2NDI4NjMwNiwxMjYwNjA0
+MTY2LDU2Mzg0NDM2NiwxMTgyNDA2MDk2LC03MTkxODUxNjUsMT
+U5Mzg0ODY4MywtMTkxNDQ5NjE0NSwtMTMxMTQxNDI1MCwxNzY4
+OTQwNjQ5LC05Mjk3MDU2NywtMzk3MTY3ODk3LDEyNjg0MTE2NC
+wxMTg2NjIxNTcsLTIwNjUxNzczNTAsMTA0NjE1ODY2OCwtMTQ5
+MDAzNDAxMl19
 -->
