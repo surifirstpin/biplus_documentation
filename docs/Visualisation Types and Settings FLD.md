@@ -326,7 +326,8 @@ It displays one or more data series as a data graph. Widget chart is used to dis
     -   **start** aligns the the label at lowest boundary.
     -   **end** aligns the label at highest boundary.
     
-- **Align Negative** It will enable the negative values to be displayed below range of number '0'
+- **Align Negative** It will enable the negative values to be displayed below range  `0`
+ 
 ### Data 
 
 - **Row Grouping** displays the grouped value of the duplicate fields.
@@ -436,11 +437,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzE4NDE0MCwtMTMyMzExMDMwNiwtOD
-g4ODYxOTU0LDI1NTk5NzA4MywtMTk3NTM0MTE2MywxNjI5NDY4
-OTYsLTIwNjQyODYzMDYsMTI2MDYwNDE2Niw1NjM4NDQzNjYsMT
-E4MjQwNjA5NiwtNzE5MTg1MTY1LDE1OTM4NDg2ODMsLTE5MTQ0
-OTYxNDUsLTEzMTE0MTQyNTAsMTc2ODk0MDY0OSwtOTI5NzA1Nj
-csLTM5NzE2Nzg5NywxMjY4NDExNjQsMTE4NjYyMTU3LC0yMDY1
-MTc3MzUwXX0=
+eyJoaXN0b3J5IjpbLTEzMDExOTk5NjYsLTEzMjMxMTAzMDYsLT
+g4ODg2MTk1NCwyNTU5OTcwODMsLTE5NzUzNDExNjMsMTYyOTQ2
+ODk2LC0yMDY0Mjg2MzA2LDEyNjA2MDQxNjYsNTYzODQ0MzY2LD
+ExODI0MDYwOTYsLTcxOTE4NTE2NSwxNTkzODQ4NjgzLC0xOTE0
+NDk2MTQ1LC0xMzExNDE0MjUwLDE3Njg5NDA2NDksLTkyOTcwNT
+Y3LC0zOTcxNjc4OTcsMTI2ODQxMTY0LDExODY2MjE1NywtMjA2
+NTE3NzM1MF19
 -->
