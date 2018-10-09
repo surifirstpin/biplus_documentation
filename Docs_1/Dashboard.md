@@ -77,9 +77,6 @@ After login into AcuBi Home Page, Click on Dashboard section.
 **7.** **Report Listeners** 
 
 The Listeners option allows to register callbacks to be notified when an event is detected on a specific label.
-
-are used to assign a defined filters to report column (fields of views based on which the report is created). 
-
 **For instance** if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report_1 it results in filter applied on report_1 it self and report_2 will remain unaffected.
 
 **Fill up Report Listener section ;**
@@ -119,7 +116,7 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5MTQ1NzE1LDM2ODU5NzQyOSwxMzk2Nj
+eyJoaXN0b3J5IjpbMzg1OTgzMzgxLDM2ODU5NzQyOSwxMzk2Nj
 I3MTMzLDE5MjIyOTE4MzIsMTY3NTg4ODUwMCwtMjEwNDc5MjEy
 LC0xNTU4MTUwNDIyXX0=
 -->
