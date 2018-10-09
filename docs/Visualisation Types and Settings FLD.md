@@ -364,6 +364,10 @@ It displays one or more data series as a data graph. Widget chart is used to dis
   
   - **Timeseries** specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
  
+ - **X-Grid Color** display specific color on X-axis.
+
+- **X-Axis Font Color** Enables different color option for the values on X-axis.
+
 - **Label field**  specify a dimension field to be displayed on x-axis.
 
 - **Show Grid** enables the grid display for dimension fields on x-axis.
@@ -393,11 +397,13 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Format** it enables number format for numeric values.
 
-- **Currency** Using this field, you can specify the formatting for currency as of now AcuBi supports $,   ₹  ,   €  ,  £.
+-  **Y-Grid Color** display different color on Y-axis.
+
+- **Y-Axis Font Color** Enables different colors for the dimensions ( Horizontal Bar) or Measures on Y-axis.
 
 - **Y-Axis** display measure values on Y-axis. 
 
-- **Show Grid** enables the grid display for measures on y-axis.
+- **Show Grid** enables the grid display on y-axis.
 
 - **Include Zero** displays measure values starting from zero.
 
@@ -435,11 +441,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDg3MTQxNzUsMTMyNDkxNTk2MSwxMj
-Y2NjE0MDYwLDE5MjI1ODI5NjIsMTYwMDE5OTM0NiwtMTMyMzEx
-MDMwNiwtODg4ODYxOTU0LDI1NTk5NzA4MywtMTk3NTM0MTE2My
-wxNjI5NDY4OTYsLTIwNjQyODYzMDYsMTI2MDYwNDE2Niw1NjM4
-NDQzNjYsMTE4MjQwNjA5NiwtNzE5MTg1MTY1LDE1OTM4NDg2OD
-MsLTE5MTQ0OTYxNDUsLTEzMTE0MTQyNTAsMTc2ODk0MDY0OSwt
-OTI5NzA1NjddfQ==
+eyJoaXN0b3J5IjpbLTc4MjU4MzYzNCwxMzI0OTE1OTYxLDEyNj
+Y2MTQwNjAsMTkyMjU4Mjk2MiwxNjAwMTk5MzQ2LC0xMzIzMTEw
+MzA2LC04ODg4NjE5NTQsMjU1OTk3MDgzLC0xOTc1MzQxMTYzLD
+E2Mjk0Njg5NiwtMjA2NDI4NjMwNiwxMjYwNjA0MTY2LDU2Mzg0
+NDM2NiwxMTgyNDA2MDk2LC03MTkxODUxNjUsMTU5Mzg0ODY4My
+wtMTkxNDQ5NjE0NSwtMTMxMTQxNDI1MCwxNzY4OTQwNjQ5LC05
+Mjk3MDU2N119
 -->
