@@ -147,7 +147,9 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 **Using AcuBi you can view the funnel charts in different formats using the below check boxes:**
 
  - **Sort** it enables the sorted order for funnel chart.
- - 
+ 
+ -  **Top width**  it adjust the width dimension in top view.
+ - Bottom Width it adjust the width 
   
 
 
@@ -410,11 +412,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODE2OTA5MzQsLTIwNjQyODYzMDYsMT
-I2MDYwNDE2Niw1NjM4NDQzNjYsMTE4MjQwNjA5NiwtNzE5MTg1
-MTY1LDE1OTM4NDg2ODMsLTE5MTQ0OTYxNDUsLTEzMTE0MTQyNT
-AsMTc2ODk0MDY0OSwtOTI5NzA1NjcsLTM5NzE2Nzg5NywxMjY4
-NDExNjQsMTE4NjYyMTU3LC0yMDY1MTc3MzUwLDEwNDYxNTg2Nj
-gsLTE0OTAwMzQwMTIsNzg3MDUwMDE2LDE4MTY1NDU0NTAsLTEy
-NDk1NTEyMjddfQ==
+eyJoaXN0b3J5IjpbMTM0MzYwMjA3MiwtMjA2NDI4NjMwNiwxMj
+YwNjA0MTY2LDU2Mzg0NDM2NiwxMTgyNDA2MDk2LC03MTkxODUx
+NjUsMTU5Mzg0ODY4MywtMTkxNDQ5NjE0NSwtMTMxMTQxNDI1MC
+wxNzY4OTQwNjQ5LC05Mjk3MDU2NywtMzk3MTY3ODk3LDEyNjg0
+MTE2NCwxMTg2NjIxNTcsLTIwNjUxNzczNTAsMTA0NjE1ODY2OC
+wtMTQ5MDAzNDAxMiw3ODcwNTAwMTYsMTgxNjU0NTQ1MCwtMTI0
+OTU1MTIyN119
 -->
