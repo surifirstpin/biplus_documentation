@@ -304,6 +304,9 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Negative colour-from & to** Specify colour for specific range of negative values.
 
+## Horizontal Bar
+
+
 ## Standard Editing Option in Charts
 
 ### General Section 
@@ -462,11 +465,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyNzUxMzAzLC0zNTQ4NDQ5ODksLTEzMz
-Y4MTg0MzUsLTkwNDk3OTYzNCw1NzUyNDAwMywtNTY1MzI3ODU5
-LC0yMDc0NjY4Mzk5LC03ODg1NjQ2NywtNTY2NTk1OTE2LC0xNj
-I0NTgyOTY0LC05NTk0MDg2ODcsLTc1MzYwMzEzLC01MzExNDY4
-NzAsLTIzODE5MDk0MiwtMzExMzM1NzgsNDczODc2MjUwLC0xMj
-M3MTAzNDUzLC05MDE0NzgyMDUsMTA5MzkwMjU2MywxNjI4MTE0
-MTE1XX0=
+eyJoaXN0b3J5IjpbMTA4MDEwMzQzNiw2NTI3NTEzMDMsLTM1ND
+g0NDk4OSwtMTMzNjgxODQzNSwtOTA0OTc5NjM0LDU3NTI0MDAz
+LC01NjUzMjc4NTksLTIwNzQ2NjgzOTksLTc4ODU2NDY3LC01Nj
+Y1OTU5MTYsLTE2MjQ1ODI5NjQsLTk1OTQwODY4NywtNzUzNjAz
+MTMsLTUzMTE0Njg3MCwtMjM4MTkwOTQyLC0zMTEzMzU3OCw0Nz
+M4NzYyNTAsLTEyMzcxMDM0NTMsLTkwMTQ3ODIwNSwxMDkzOTAy
+NTYzXX0=
 -->
