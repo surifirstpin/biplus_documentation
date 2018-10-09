@@ -303,9 +303,9 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Background Enabled**  it enables background colour for labels.
 
-- **Font Weight** 
+- **Font Weight**  Set the label font to normal ( default) or Bold text.
 
-- **Font Size**
+- **Font Size** Enable font size for label.
 
 - **Border radius** Set the label border radius to a given range.
 
@@ -437,11 +437,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjYxNDA2MCwxOTIyNTgyOTYyLDE2MD
-AxOTkzNDYsLTEzMjMxMTAzMDYsLTg4ODg2MTk1NCwyNTU5OTcw
-ODMsLTE5NzUzNDExNjMsMTYyOTQ2ODk2LC0yMDY0Mjg2MzA2LD
-EyNjA2MDQxNjYsNTYzODQ0MzY2LDExODI0MDYwOTYsLTcxOTE4
-NTE2NSwxNTkzODQ4NjgzLC0xOTE0NDk2MTQ1LC0xMzExNDE0Mj
-UwLDE3Njg5NDA2NDksLTkyOTcwNTY3LC0zOTcxNjc4OTcsMTI2
-ODQxMTY0XX0=
+eyJoaXN0b3J5IjpbMTMyNDkxNTk2MSwxMjY2NjE0MDYwLDE5Mj
+I1ODI5NjIsMTYwMDE5OTM0NiwtMTMyMzExMDMwNiwtODg4ODYx
+OTU0LDI1NTk5NzA4MywtMTk3NTM0MTE2MywxNjI5NDY4OTYsLT
+IwNjQyODYzMDYsMTI2MDYwNDE2Niw1NjM4NDQzNjYsMTE4MjQw
+NjA5NiwtNzE5MTg1MTY1LDE1OTM4NDg2ODMsLTE5MTQ0OTYxND
+UsLTEzMTE0MTQyNTAsMTc2ODk0MDY0OSwtOTI5NzA1NjcsLTM5
+NzE2Nzg5N119
 -->
