@@ -303,7 +303,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Background Enabled**  it enables background colour for labels.
  
-- **Position** Align the legend at top,bottom,left and right side of the chart.
+- **Position** Align the labels at top, bottom, left and right side of the chart, based on selection criteria.
 
 ### Data 
 
@@ -414,11 +414,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzA1NDI3MDUsLTIwNjQyODYzMDYsNT
-YzODQ0MzY2LDExODI0MDYwOTYsLTcxOTE4NTE2NSwxNTkzODQ4
-NjgzLC0xOTE0NDk2MTQ1LC0xMzExNDE0MjUwLDE3Njg5NDA2ND
-ksLTkyOTcwNTY3LC0zOTcxNjc4OTcsMTI2ODQxMTY0LDExODY2
-MjE1NywtMjA2NTE3NzM1MCwxMDQ2MTU4NjY4LC0xNDkwMDM0MD
-EyLDc4NzA1MDAxNiwxODE2NTQ1NDUwLC0xMjQ5NTUxMjI3LC0y
-ODM5NjQ5NjBdfQ==
+eyJoaXN0b3J5IjpbMTYyOTQ2ODk2LC0yMDY0Mjg2MzA2LDU2Mz
+g0NDM2NiwxMTgyNDA2MDk2LC03MTkxODUxNjUsMTU5Mzg0ODY4
+MywtMTkxNDQ5NjE0NSwtMTMxMTQxNDI1MCwxNzY4OTQwNjQ5LC
+05Mjk3MDU2NywtMzk3MTY3ODk3LDEyNjg0MTE2NCwxMTg2NjIx
+NTcsLTIwNjUxNzczNTAsMTA0NjE1ODY2OCwtMTQ5MDAzNDAxMi
+w3ODcwNTAwMTYsMTgxNjU0NTQ1MCwtMTI0OTU1MTIyNywtMjgz
+OTY0OTYwXX0=
 -->
