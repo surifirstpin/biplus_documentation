@@ -322,6 +322,38 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
+**Include Nulls** on selecting this checkbox it displays **Null Values** retrieved in Charts section.
+
+- **Display Labels** on selecting this checkbox, it displays the data value obtained for the fields.
+
+- **Background Enabled**  it enables background colour for labels.
+
+- **Font Weight**  Set the label font to normal ( default) or Bold text.
+
+- **Font Size** Enable font size for label.
+
+- **Border radius** Set the label border radius to a given range.
+
+- **Rotation** This option controls the clockwise rotation angle (in degrees) of the label, the rotation center point being the label center. The default value is 0 (no rotation).
+
+-  **Align**   it defines the position of the label relative to the anchor point position and direction. Its value can be expressed by one of the following string presets:
+
+   -   **start** the label is positioned before the anchor point, following the same direction
+   -   **end** the label is positioned after the anchor point, following the same direction
+   -   **center (default)** the label is centered on the anchor point
+   -   **right** the label is positioned to the right of the anchor point (0°)
+   -   **bottom** the label is positioned to the bottom of the anchor point (90°)
+      -   **left** the label is positioned to the left of the anchor point (180°)
+   -   **top** the label is positioned to the top of the anchor point (270°)
+  - **Anchor** The label position is calculated based on the anchor option. AcuBi supports Following positioning.
+
+    -   **center  (default)** aligns the Label in center.
+    -   **start** aligns the the label at lowest boundary.
+    -   **end** aligns the label at highest boundary.
+    
+- **Align Negative** It will enable the negative values to be displayed below range  `0`.
+ 
+ 
 ### X-Axis Menu Options
 
 - **Axis type** specifies the how x-axis scale for Line, Bar,Bubble is calculated and displayed.
@@ -404,11 +436,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NzExMDk0MiwtOTA0OTc5NjM0LDU3NT
-I0MDAzLC01NjUzMjc4NTksLTIwNzQ2NjgzOTksLTc4ODU2NDY3
-LC01NjY1OTU5MTYsLTE2MjQ1ODI5NjQsLTk1OTQwODY4NywtNz
-UzNjAzMTMsLTUzMTE0Njg3MCwtMjM4MTkwOTQyLC0zMTEzMzU3
-OCw0NzM4NzYyNTAsLTEyMzcxMDM0NTMsLTkwMTQ3ODIwNSwxMD
-kzOTAyNTYzLDE2MjgxMTQxMTUsLTExOTgyNDAzOTksNjg2NzY5
-NDU3XX0=
+eyJoaXN0b3J5IjpbLTEzMzY4MTg0MzUsLTkwNDk3OTYzNCw1Nz
+UyNDAwMywtNTY1MzI3ODU5LC0yMDc0NjY4Mzk5LC03ODg1NjQ2
+NywtNTY2NTk1OTE2LC0xNjI0NTgyOTY0LC05NTk0MDg2ODcsLT
+c1MzYwMzEzLC01MzExNDY4NzAsLTIzODE5MDk0MiwtMzExMzM1
+NzgsNDczODc2MjUwLC0xMjM3MTAzNDUzLC05MDE0NzgyMDUsMT
+A5MzkwMjU2MywxNjI4MTE0MTE1LC0xMTk4MjQwMzk5LDY4Njc2
+OTQ1N119
 -->
