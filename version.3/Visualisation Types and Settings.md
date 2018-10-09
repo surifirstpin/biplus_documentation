@@ -14,7 +14,7 @@ AcuBi Provides an ability to visualize the data in 10 different types of charts 
  - **Table**             
  - **Widget**
  - **World**
- - **Horizontal**
+ - **Horizontal Bar**
 
 > **Note :** Some of the options in editing list might be hidden or grayed,  where they would conflict with other settings you have chosen.
 
@@ -277,6 +277,12 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Negative colour-from & to** Specify colour for specific range of negative values.
 
+
+## Horizontal Bar
+
+Horizontal Bar charts are used to compare data across different categories horizontally. You can build a bar chart by placing a dimension on the Y-axis and a measure on X-axis.
+
+
 ## Standard Settings
 
 ### General Section 
@@ -446,11 +452,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjM4NDM0NiwtMjExNTA0Mjg4MSw2MT
-Y3MjcwNTAsMTMyNDkxNTk2MSwxMjY2NjE0MDYwLDE5MjI1ODI5
-NjIsMTYwMDE5OTM0NiwtMTMyMzExMDMwNiwtODg4ODYxOTU0LD
-I1NTk5NzA4MywtMTk3NTM0MTE2MywxNjI5NDY4OTYsLTIwNjQy
-ODYzMDYsNTYzODQ0MzY2LDExODI0MDYwOTYsLTcxOTE4NTE2NS
-wxNTkzODQ4NjgzLC0xOTE0NDk2MTQ1LC0xMzExNDE0MjUwLDE3
-Njg5NDA2NDldfQ==
+eyJoaXN0b3J5IjpbMjQxMjc1NTcxLC01NjIzODQzNDYsLTIxMT
+UwNDI4ODEsNjE2NzI3MDUwLDEzMjQ5MTU5NjEsMTI2NjYxNDA2
+MCwxOTIyNTgyOTYyLDE2MDAxOTkzNDYsLTEzMjMxMTAzMDYsLT
+g4ODg2MTk1NCwyNTU5OTcwODMsLTE5NzUzNDExNjMsMTYyOTQ2
+ODk2LC0yMDY0Mjg2MzA2LDU2Mzg0NDM2NiwxMTgyNDA2MDk2LC
+03MTkxODUxNjUsMTU5Mzg0ODY4MywtMTkxNDQ5NjE0NSwtMTMx
+MTQxNDI1MF19
 -->
