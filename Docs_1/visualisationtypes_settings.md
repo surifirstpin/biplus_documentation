@@ -364,6 +364,10 @@ It displays one or more data series as a data graph. Widget chart is used to dis
   
   - **Timeseries** specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
  
+ - **X-Grid Color** display specific color on X-axis.
+
+- **X-Axis Font Color** Enables different color option for the values on X-axis.
+
 - **Label field**  specify a dimension field to be displayed on x-axis.
 
 - **Show Grid** enables the grid display for dimension fields on x-axis.
@@ -381,7 +385,6 @@ It displays one or more data series as a data graph. Widget chart is used to dis
  - **Theme** enables colour for reference line.
  
 
-
 ### Y-Axis
 
  > **Note:**  Y-Axis is enabled only for Line, Bar and Bubble chart only.
@@ -393,11 +396,13 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Format** it enables number format for numeric values.
 
-- **Currency** Using this field, you can specify the formatting for currency as of now AcuBi supports $,   ₹  ,   €  ,  £.
+-  **Y-Grid Color** display different color on Y-axis.
+
+- **Y-Axis Font Color** Enables different colors for the dimensions ( Horizontal Bar) or Measures on Y-axis.
 
 - **Y-Axis** display measure values on Y-axis. 
 
-- **Show Grid** enables the grid display for measures on y-axis.
+- **Show Grid** enables the grid display on y-axis.
 
 - **Include Zero** displays measure values starting from zero.
 
@@ -435,7 +440,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDg3MTQxNzUsMTMyNDkxNTk2MSwxMj
+eyJoaXN0b3J5IjpbLTEyMzMwODE0NDQsMTMyNDkxNTk2MSwxMj
 Y2NjE0MDYwLDE5MjI1ODI5NjIsMTYwMDE5OTM0NiwtMTMyMzEx
 MDMwNiwtODg4ODYxOTU0LDI1NTk5NzA4MywtMTk3NTM0MTE2My
 wxNjI5NDY4OTYsLTIwNjQyODYzMDYsNTYzODQ0MzY2LDExODI0
