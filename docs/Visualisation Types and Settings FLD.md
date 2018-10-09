@@ -149,7 +149,8 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  - **Sort** it enables the sorted order for funnel chart.
  
  -  **Top width**  it adjust the width dimension in top view.
- - Bottom Width it adjust the width 
+ 
+ - **Bottom Width** it adjust the width dimension in bottom view.
   
 
 
@@ -412,7 +413,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzYwMjA3MiwtMjA2NDI4NjMwNiwxMj
+eyJoaXN0b3J5IjpbLTE1NzgyMjkyMSwtMjA2NDI4NjMwNiwxMj
 YwNjA0MTY2LDU2Mzg0NDM2NiwxMTgyNDA2MDk2LC03MTkxODUx
 NjUsMTU5Mzg0ODY4MywtMTkxNDQ5NjE0NSwtMTMxMTQxNDI1MC
 wxNzY4OTQwNjQ5LC05Mjk3MDU2NywtMzk3MTY3ODk3LDEyNjg0
