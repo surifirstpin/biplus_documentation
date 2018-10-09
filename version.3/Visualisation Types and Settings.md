@@ -321,7 +321,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
       -   **left** the label is positioned to the left of the anchor point (180°)
    -   **top** the label is positioned to the top of the anchor point (270°)
 
-   - **Position** Align the labels at top, bottom, left and right side of the chart, based on selection criteria.
+   - **Anchor** The position is calculated based on the anchor option
 
 ### Data 
 
@@ -432,11 +432,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODg2MTk1NCwyNTU5OTcwODMsLTE5Nz
-UzNDExNjMsMTYyOTQ2ODk2LC0yMDY0Mjg2MzA2LDU2Mzg0NDM2
-NiwxMTgyNDA2MDk2LC03MTkxODUxNjUsMTU5Mzg0ODY4MywtMT
-kxNDQ5NjE0NSwtMTMxMTQxNDI1MCwxNzY4OTQwNjQ5LC05Mjk3
-MDU2NywtMzk3MTY3ODk3LDEyNjg0MTE2NCwxMTg2NjIxNTcsLT
-IwNjUxNzczNTAsMTA0NjE1ODY2OCwtMTQ5MDAzNDAxMiw3ODcw
-NTAwMTZdfQ==
+eyJoaXN0b3J5IjpbMTMyNjQxNTgxMywtODg4ODYxOTU0LDI1NT
+k5NzA4MywtMTk3NTM0MTE2MywxNjI5NDY4OTYsLTIwNjQyODYz
+MDYsNTYzODQ0MzY2LDExODI0MDYwOTYsLTcxOTE4NTE2NSwxNT
+kzODQ4NjgzLC0xOTE0NDk2MTQ1LC0xMzExNDE0MjUwLDE3Njg5
+NDA2NDksLTkyOTcwNTY3LC0zOTcxNjc4OTcsMTI2ODQxMTY0LD
+ExODY2MjE1NywtMjA2NTE3NzM1MCwxMDQ2MTU4NjY4LC0xNDkw
+MDM0MDEyXX0=
 -->
