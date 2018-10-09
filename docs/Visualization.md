@@ -395,6 +395,7 @@ Horizontal Bar charts are used to compare data across different categories horiz
   
   - **Timeseries** specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
  
+ X-Grid Color Enables ypu 
 - **Label field**  specify a dimension field to be displayed on X-axis.
 
 - **Show Grid** enables the grid display for dimension fields on x-axis.
@@ -467,11 +468,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQ1NzU2MzcsNjUyNzUxMzAzLC0zNT
-Q4NDQ5ODksLTEzMzY4MTg0MzUsLTkwNDk3OTYzNCw1NzUyNDAw
-MywtNTY1MzI3ODU5LC0yMDc0NjY4Mzk5LC03ODg1NjQ2NywtNT
-Y2NTk1OTE2LC0xNjI0NTgyOTY0LC05NTk0MDg2ODcsLTc1MzYw
-MzEzLC01MzExNDY4NzAsLTIzODE5MDk0MiwtMzExMzM1NzgsND
-czODc2MjUwLC0xMjM3MTAzNDUzLC05MDE0NzgyMDUsMTA5Mzkw
-MjU2M119
+eyJoaXN0b3J5IjpbOTc1NzE2NTgxLC0xNzY0NTc1NjM3LDY1Mj
+c1MTMwMywtMzU0ODQ0OTg5LC0xMzM2ODE4NDM1LC05MDQ5Nzk2
+MzQsNTc1MjQwMDMsLTU2NTMyNzg1OSwtMjA3NDY2ODM5OSwtNz
+g4NTY0NjcsLTU2NjU5NTkxNiwtMTYyNDU4Mjk2NCwtOTU5NDA4
+Njg3LC03NTM2MDMxMywtNTMxMTQ2ODcwLC0yMzgxOTA5NDIsLT
+MxMTMzNTc4LDQ3Mzg3NjI1MCwtMTIzNzEwMzQ1MywtOTAxNDc4
+MjA1XX0=
 -->
