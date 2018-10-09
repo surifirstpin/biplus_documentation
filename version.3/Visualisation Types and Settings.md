@@ -151,6 +151,8 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  -  **Top width**  it adjust the width dimension in top view.
  
  - **Bottom Width** it adjust the width dimension in bottom view.
+ 
+ - **Gap** It enables gap between two measure values.
   
 
 
@@ -413,7 +415,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzgyMjkyMSwtMjA2NDI4NjMwNiw1Nj
+eyJoaXN0b3J5IjpbMTA0ODYyMDc0NywtMjA2NDI4NjMwNiw1Nj
 M4NDQzNjYsMTE4MjQwNjA5NiwtNzE5MTg1MTY1LDE1OTM4NDg2
 ODMsLTE5MTQ0OTYxNDUsLTEzMTE0MTQyNTAsMTc2ODk0MDY0OS
 wtOTI5NzA1NjcsLTM5NzE2Nzg5NywxMjY4NDExNjQsMTE4NjYy
