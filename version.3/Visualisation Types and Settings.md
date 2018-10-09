@@ -348,7 +348,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Custom Label** Using this option you can display your own customized label for the column field values. At the same time you can add a prefix at starting or ending position of the label value.
 
-For Instance : Consider label value 123000, now assign a prefix to this at the starting position, ##{start:TEXT/NUMBER }#{sum_rate}
+For Instance : Consider label value 123000( Sum_Rate), now assign a prefix to the already existing value at the starting position, ##{start:TEXT/NUMBER }#{sum_rate}
 it results in TEXT
 ##{start: }#{sum_rate} as of #{sum_amount}##{end: }
 
@@ -442,11 +442,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUwNDI4ODEsNjE2NzI3MDUwLDEzMj
-Q5MTU5NjEsMTI2NjYxNDA2MCwxOTIyNTgyOTYyLDE2MDAxOTkz
-NDYsLTEzMjMxMTAzMDYsLTg4ODg2MTk1NCwyNTU5OTcwODMsLT
-E5NzUzNDExNjMsMTYyOTQ2ODk2LC0yMDY0Mjg2MzA2LDU2Mzg0
-NDM2NiwxMTgyNDA2MDk2LC03MTkxODUxNjUsMTU5Mzg0ODY4My
-wtMTkxNDQ5NjE0NSwtMTMxMTQxNDI1MCwxNzY4OTQwNjQ5LC05
-Mjk3MDU2N119
+eyJoaXN0b3J5IjpbMTY3ODY3MTg4MSwtMjExNTA0Mjg4MSw2MT
+Y3MjcwNTAsMTMyNDkxNTk2MSwxMjY2NjE0MDYwLDE5MjI1ODI5
+NjIsMTYwMDE5OTM0NiwtMTMyMzExMDMwNiwtODg4ODYxOTU0LD
+I1NTk5NzA4MywtMTk3NTM0MTE2MywxNjI5NDY4OTYsLTIwNjQy
+ODYzMDYsNTYzODQ0MzY2LDExODI0MDYwOTYsLTcxOTE4NTE2NS
+wxNTkzODQ4NjgzLC0xOTE0NDk2MTQ1LC0xMzExNDE0MjUwLDE3
+Njg5NDA2NDldfQ==
 -->
