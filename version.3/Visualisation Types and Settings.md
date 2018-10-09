@@ -153,7 +153,6 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  - **Bottom Width** it adjust the width dimension in bottom view.
  
  - **Gap** It enables gap between two measure values.
-  
 
 
  
@@ -302,7 +301,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - ** Display Labels** on selecting this checkbox, it displays the data value obtained for the fields.
 
-- **Background Enabled**  this checkbox enables background colour for labels.
+- **Background Enabled**  it enables background colour for labels.
  
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
@@ -415,11 +414,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODYyMDc0NywtMjA2NDI4NjMwNiw1Nj
-M4NDQzNjYsMTE4MjQwNjA5NiwtNzE5MTg1MTY1LDE1OTM4NDg2
-ODMsLTE5MTQ0OTYxNDUsLTEzMTE0MTQyNTAsMTc2ODk0MDY0OS
-wtOTI5NzA1NjcsLTM5NzE2Nzg5NywxMjY4NDExNjQsMTE4NjYy
-MTU3LC0yMDY1MTc3MzUwLDEwNDYxNTg2NjgsLTE0OTAwMzQwMT
-IsNzg3MDUwMDE2LDE4MTY1NDU0NTAsLTEyNDk1NTEyMjcsLTI4
-Mzk2NDk2MF19
+eyJoaXN0b3J5IjpbLTEwMzA1NDI3MDUsLTIwNjQyODYzMDYsNT
+YzODQ0MzY2LDExODI0MDYwOTYsLTcxOTE4NTE2NSwxNTkzODQ4
+NjgzLC0xOTE0NDk2MTQ1LC0xMzExNDE0MjUwLDE3Njg5NDA2ND
+ksLTkyOTcwNTY3LC0zOTcxNjc4OTcsMTI2ODQxMTY0LDExODY2
+MjE1NywtMjA2NTE3NzM1MCwxMDQ2MTU4NjY4LC0xNDkwMDM0MD
+EyLDc4NzA1MDAxNiwxODE2NTQ1NDUwLC0xMjQ5NTUxMjI3LC0y
+ODM5NjQ5NjBdfQ==
 -->
