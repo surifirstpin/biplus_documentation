@@ -314,14 +314,14 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 -  **Align**   it defines the position of the label relative to the anchor point position and direction. Its value can be expressed by one of the following string presets:
 
    -   **start** the label is positioned before the anchor point, following the same direction
--   **end** the label is positioned after the anchor point, following the same direction
--   **center (default)** the label is centered on the anchor point
--   **right** the label is positioned to the right of the anchor point (0°)
--   **bottom** the label is positioned to the bottom of the anchor point (90°)
--   **left** the label is positioned to the left of the anchor point (180°)
--   **top** the label is positioned to the top of the anchor point (270°)
+   -   **end** the label is positioned after the anchor point, following the same direction
+   -   **center (default)** the label is centered on the anchor point
+   -   **right** the label is positioned to the right of the anchor point (0°)
+   -   **bottom** the label is positioned to the bottom of the anchor point (90°)
+      -   **left** the label is positioned to the left of the anchor point (180°)
+   -   **top** the label is positioned to the top of the anchor point (270°)
 
-- **Position** Align the labels at top, bottom, left and right side of the chart, based on selection criteria.
+   - **Position** Align the labels at top, bottom, left and right side of the chart, based on selection criteria.
 
 ### Data 
 
@@ -432,11 +432,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzAyOTYzNTksMjU1OTk3MDgzLC0xOT
-c1MzQxMTYzLDE2Mjk0Njg5NiwtMjA2NDI4NjMwNiw1NjM4NDQz
-NjYsMTE4MjQwNjA5NiwtNzE5MTg1MTY1LDE1OTM4NDg2ODMsLT
-E5MTQ0OTYxNDUsLTEzMTE0MTQyNTAsMTc2ODk0MDY0OSwtOTI5
-NzA1NjcsLTM5NzE2Nzg5NywxMjY4NDExNjQsMTE4NjYyMTU3LC
-0yMDY1MTc3MzUwLDEwNDYxNTg2NjgsLTE0OTAwMzQwMTIsNzg3
-MDUwMDE2XX0=
+eyJoaXN0b3J5IjpbODQ0MzczMDkxLDI1NTk5NzA4MywtMTk3NT
+M0MTE2MywxNjI5NDY4OTYsLTIwNjQyODYzMDYsNTYzODQ0MzY2
+LDExODI0MDYwOTYsLTcxOTE4NTE2NSwxNTkzODQ4NjgzLC0xOT
+E0NDk2MTQ1LC0xMzExNDE0MjUwLDE3Njg5NDA2NDksLTkyOTcw
+NTY3LC0zOTcxNjc4OTcsMTI2ODQxMTY0LDExODY2MjE1NywtMj
+A2NTE3NzM1MCwxMDQ2MTU4NjY4LC0xNDkwMDM0MDEyLDc4NzA1
+MDAxNl19
 -->
