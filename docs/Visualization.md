@@ -399,11 +399,11 @@ Horizontal Bar charts are used to compare data across different categories horiz
 
 - **X-Axis Font Color** Enables different color option for the values on X-axis.
 
-- **Label field**  specify a dimension field to be displayed on X-axis.
+- **X-Axis**  specify a dimension or a measure( Horizontal Bar) field on X-axis.
 
 - **Show Grid** enables the grid display for dimension fields on x-axis.
 
-- **Axis label** Text label for x-axis.
+- **Axis label** Label text  for x-axis.
 
 **Reference Lines** enables the creation of reference lines in a chart.
 
@@ -471,11 +471,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTAwNDA3NjksLTE3NjQ1NzU2MzcsNj
-UyNzUxMzAzLC0zNTQ4NDQ5ODksLTEzMzY4MTg0MzUsLTkwNDk3
-OTYzNCw1NzUyNDAwMywtNTY1MzI3ODU5LC0yMDc0NjY4Mzk5LC
-03ODg1NjQ2NywtNTY2NTk1OTE2LC0xNjI0NTgyOTY0LC05NTk0
-MDg2ODcsLTc1MzYwMzEzLC01MzExNDY4NzAsLTIzODE5MDk0Mi
-wtMzExMzM1NzgsNDczODc2MjUwLC0xMjM3MTAzNDUzLC05MDE0
-NzgyMDVdfQ==
+eyJoaXN0b3J5IjpbMTM0MjM5OTcyOCwtMTc2NDU3NTYzNyw2NT
+I3NTEzMDMsLTM1NDg0NDk4OSwtMTMzNjgxODQzNSwtOTA0OTc5
+NjM0LDU3NTI0MDAzLC01NjUzMjc4NTksLTIwNzQ2NjgzOTksLT
+c4ODU2NDY3LC01NjY1OTU5MTYsLTE2MjQ1ODI5NjQsLTk1OTQw
+ODY4NywtNzUzNjAzMTMsLTUzMTE0Njg3MCwtMjM4MTkwOTQyLC
+0zMTEzMzU3OCw0NzM4NzYyNTAsLTEyMzcxMDM0NTMsLTkwMTQ3
+ODIwNV19
 -->
