@@ -321,7 +321,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
       -   **left** the label is positioned to the left of the anchor point (180°)
    -   **top** the label is positioned to the top of the anchor point (270°)
 
-   - **Anchor** The position is calculated based on the anchor option
+   - **Anchor** The label position is calculated based on the anchor option
 
 ### Data 
 
@@ -432,7 +432,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjQxNTgxMywtODg4ODYxOTU0LDI1NT
+eyJoaXN0b3J5IjpbMTc5MTY3MDkzNywtODg4ODYxOTU0LDI1NT
 k5NzA4MywtMTk3NTM0MTE2MywxNjI5NDY4OTYsLTIwNjQyODYz
 MDYsNTYzODQ0MzY2LDExODI0MDYwOTYsLTcxOTE4NTE2NSwxNT
 kzODQ4NjgzLC0xOTE0NDk2MTQ1LC0xMzExNDE0MjUwLDE3Njg5
