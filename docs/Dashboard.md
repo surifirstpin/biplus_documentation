@@ -152,14 +152,15 @@ AcuBi make it easier to view the dashboard list, in mobile devices easily and it
 - Displays dashboard list.
 - Displays dashboard report data.
 - You can add more filters to report.
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0MjAxNTI5LC0xNzI0NTY2MjAzLDEzNz
-Q1MDc5NjMsMTc3MDkwNzk0NywxODY1ODEzNDksLTM3MDM5OTIx
-NiwxNTE4ODgxOTIxLDEyOTM3NzExMDgsMjE0NDcxMTk5NCwxNT
-QzOTI5MjcyLC0xNjk2NDM2NzgxLDE1NzEyMjM1MTcsLTE4MDgz
-OTM5ODUsNzkxMTMwOTQwLDg2NjUxMzIzMCwxNzM5NzY0NDU0LC
-0yMTA5MDc5NDY1LDQ0OTk2NDMzNCwxMDY2Nzk0NjY4LC0xODcz
-MzU4MzI2XX0=
+eyJoaXN0b3J5IjpbLTEwNzIyMTY4MjEsLTE3MjQ1NjYyMDMsMT
+M3NDUwNzk2MywxNzcwOTA3OTQ3LDE4NjU4MTM0OSwtMzcwMzk5
+MjE2LDE1MTg4ODE5MjEsMTI5Mzc3MTEwOCwyMTQ0NzExOTk0LD
+E1NDM5MjkyNzIsLTE2OTY0MzY3ODEsMTU3MTIyMzUxNywtMTgw
+ODM5Mzk4NSw3OTExMzA5NDAsODY2NTEzMjMwLDE3Mzk3NjQ0NT
+QsLTIxMDkwNzk0NjUsNDQ5OTY0MzM0LDEwNjY3OTQ2NjgsLTE4
+NzMzNTgzMjZdfQ==
 -->
