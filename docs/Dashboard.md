@@ -81,6 +81,7 @@ You can add different reports to the layout selected, depending on the requireme
    -   **Multiple Selections**  refers to selection of list of multiple data.
 
    -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the referred data.
+   
   >  **For Instance** if we want to refer to country A then all states falling under that country will be updated based on the selection made.
 
 **8.**     **Report Listeners** **( Refer image 5)**
@@ -154,7 +155,7 @@ AcuBi make it easier to view the dashboard list, in mobile devices easily and it
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4MzQxODc1LC0xNzI0NTY2MjAzLDEzNz
+eyJoaXN0b3J5IjpbOTU0MjAxNTI5LC0xNzI0NTY2MjAzLDEzNz
 Q1MDc5NjMsMTc3MDkwNzk0NywxODY1ODEzNDksLTM3MDM5OTIx
 NiwxNTE4ODgxOTIxLDEyOTM3NzExMDgsMjE0NDcxMTk5NCwxNT
 QzOTI5MjcyLC0xNjk2NDM2NzgxLDE1NzEyMjM1MTcsLTE4MDgz
