@@ -84,8 +84,8 @@ You can add different reports to the layout selected, depending on the requireme
 
 You can refer the existing lookup and create a new lookup to retrieve the data data based of the referred lookup.
 
-   -   **Referred** on selecting the referred checkbox the following lookup will extract the data based on the referred lookup data.
- The changes made on single lookup will be reflected on all the following reports based on the referred data.
+   -   **Referred** on selecting the referred checkbox the following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
+   
    
   >  **For Instance** if we want to refer to country A then all states falling under that country will be updated based on the selection made.
 
@@ -161,11 +161,11 @@ AcuBi make it easier to view the dashboard list, in mobile devices easily and it
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1NTA2MDM3LC05Njg4ODM0OSw1ODY1ND
-MxODIsMTE3NTE5NDQ1OSwtMTA3MjIxNjgyMSwtMTcyNDU2NjIw
-MywxMzc0NTA3OTYzLDE3NzA5MDc5NDcsMTg2NTgxMzQ5LC0zNz
-AzOTkyMTYsMTUxODg4MTkyMSwxMjkzNzcxMTA4LDIxNDQ3MTE5
-OTQsMTU0MzkyOTI3MiwtMTY5NjQzNjc4MSwxNTcxMjIzNTE3LC
-0xODA4MzkzOTg1LDc5MTEzMDk0MCw4NjY1MTMyMzAsMTczOTc2
-NDQ1NF19
+eyJoaXN0b3J5IjpbLTE5ODc0MzI3MDYsLTk2ODg4MzQ5LDU4Nj
+U0MzE4MiwxMTc1MTk0NDU5LC0xMDcyMjE2ODIxLC0xNzI0NTY2
+MjAzLDEzNzQ1MDc5NjMsMTc3MDkwNzk0NywxODY1ODEzNDksLT
+M3MDM5OTIxNiwxNTE4ODgxOTIxLDEyOTM3NzExMDgsMjE0NDcx
+MTk5NCwxNTQzOTI5MjcyLC0xNjk2NDM2NzgxLDE1NzEyMjM1MT
+csLTE4MDgzOTM5ODUsNzkxMTMwOTQwLDg2NjUxMzIzMCwxNzM5
+NzY0NDU0XX0=
 -->
