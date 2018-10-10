@@ -137,7 +137,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 **12.** To create a new dashboard report click on **New Dashboard** icon.
 
-**13.** To set a dashboard to full screen select **Full screen** options listed in Bars Icon on top right of the screen.
+**13.** To set dashboard to full screen , Choose **Full screen** from the list in Bars Icon on top right of the screen.
 
 > **Note :** You can also edit, delete or create new dashboard  using **Bars icon** 
 
@@ -156,11 +156,11 @@ AcuBi make it easier to view the dashboard list, in mobile devices easily and it
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzIyMTY4MjEsLTE3MjQ1NjYyMDMsMT
-M3NDUwNzk2MywxNzcwOTA3OTQ3LDE4NjU4MTM0OSwtMzcwMzk5
-MjE2LDE1MTg4ODE5MjEsMTI5Mzc3MTEwOCwyMTQ0NzExOTk0LD
-E1NDM5MjkyNzIsLTE2OTY0MzY3ODEsMTU3MTIyMzUxNywtMTgw
-ODM5Mzk4NSw3OTExMzA5NDAsODY2NTEzMjMwLDE3Mzk3NjQ0NT
-QsLTIxMDkwNzk0NjUsNDQ5OTY0MzM0LDEwNjY3OTQ2NjgsLTE4
-NzMzNTgzMjZdfQ==
+eyJoaXN0b3J5IjpbLTMyODEwMjAzLC0xMDcyMjE2ODIxLC0xNz
+I0NTY2MjAzLDEzNzQ1MDc5NjMsMTc3MDkwNzk0NywxODY1ODEz
+NDksLTM3MDM5OTIxNiwxNTE4ODgxOTIxLDEyOTM3NzExMDgsMj
+E0NDcxMTk5NCwxNTQzOTI5MjcyLC0xNjk2NDM2NzgxLDE1NzEy
+MjM1MTcsLTE4MDgzOTM5ODUsNzkxMTMwOTQwLDg2NjUxMzIzMC
+wxNzM5NzY0NDU0LC0yMTA5MDc5NDY1LDQ0OTk2NDMzNCwxMDY2
+Nzk0NjY4XX0=
 -->
