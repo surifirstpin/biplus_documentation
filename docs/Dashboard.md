@@ -78,7 +78,7 @@ You can add different reports to the layout selected, depending on the requireme
    
    -   **Test Lookup**  to test the lookup.
    
-   -   **Multiple Selections**  enables the selection of list of multiple data.
+   -   **Multiple Selections**  enables the selection of list for multiple data.
 
 ## Dependency Filters
 
@@ -158,11 +158,11 @@ AcuBi make it easier to view the dashboard list, in mobile devices easily and it
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTg4NzQ1OSwxNzMxMjk5NTQ3LC0xOD
-MzMjc1MjcxLDk2MzMyNDkxNCwtOTY4ODgzNDksNTg2NTQzMTgy
-LDExNzUxOTQ0NTksLTEwNzIyMTY4MjEsLTE3MjQ1NjYyMDMsMT
-M3NDUwNzk2MywxNzcwOTA3OTQ3LDE4NjU4MTM0OSwtMzcwMzk5
-MjE2LDE1MTg4ODE5MjEsMTI5Mzc3MTEwOCwyMTQ0NzExOTk0LD
-E1NDM5MjkyNzIsLTE2OTY0MzY3ODEsMTU3MTIyMzUxNywtMTgw
-ODM5Mzk4NV19
+eyJoaXN0b3J5IjpbMTUwOTU5NTIyOSwxMzQ1ODg3NDU5LDE3Mz
+EyOTk1NDcsLTE4MzMyNzUyNzEsOTYzMzI0OTE0LC05Njg4ODM0
+OSw1ODY1NDMxODIsMTE3NTE5NDQ1OSwtMTA3MjIxNjgyMSwtMT
+cyNDU2NjIwMywxMzc0NTA3OTYzLDE3NzA5MDc5NDcsMTg2NTgx
+MzQ5LC0zNzAzOTkyMTYsMTUxODg4MTkyMSwxMjkzNzcxMTA4LD
+IxNDQ3MTE5OTQsMTU0MzkyOTI3MiwtMTY5NjQzNjc4MSwxNTcx
+MjIzNTE3XX0=
 -->
