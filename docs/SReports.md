@@ -1,6 +1,6 @@
 <center><h1> Reports</h1></center>
 
- Reports in **AcuBi** extract the data effectively and collaborate more efficiently instead of accessing the data in a regular traditional manner. Just in matters of seconds, you can confess a story in what way your organisation is making a difference in the world.
+ Reports in **AcuBi** extract the data effectively and collaborate efficiently instead of accessing the data in a regular traditional manner. Just in matters of seconds, you can confess a story in what way your organisation is making a difference in the world.
 
 ## View Report
 
@@ -118,9 +118,9 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDUyMjk0OTEsMTEyNzAzMDg1OSwtMz
-MyOTA3Mzc1LDY5MjQ4NjIwNiwxNDA5NDExOTEwLDE2MTYxOTUx
-MDcsMTYyMjg4NjMsMzAwNjcwNzI1LDE4MjI4OTk0MzksLTgxMT
-EwNjk4MiwtMTU1MDgyNzg1NywtMTMyMjIzNTc5OCwxNzMwOTc5
-Nzk4LC0xMjU2OTc0NDExXX0=
+eyJoaXN0b3J5IjpbODUxNzE5MDY0LC0xMjA1MjI5NDkxLDExMj
+cwMzA4NTksLTMzMjkwNzM3NSw2OTI0ODYyMDYsMTQwOTQxMTkx
+MCwxNjE2MTk1MTA3LDE2MjI4ODYzLDMwMDY3MDcyNSwxODIyOD
+k5NDM5LC04MTExMDY5ODIsLTE1NTA4Mjc4NTcsLTEzMjIyMzU3
+OTgsMTczMDk3OTc5OCwtMTI1Njk3NDQxMV19
 -->
