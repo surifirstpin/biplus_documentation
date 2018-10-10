@@ -82,6 +82,9 @@ You can add different reports to the layout selected, depending on the requireme
 
 ## Dependency Filters
 
+
+
+
    -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the referred data.
    
   >  **For Instance** if we want to refer to country A then all states falling under that country will be updated based on the selection made.
@@ -158,11 +161,11 @@ AcuBi make it easier to view the dashboard list, in mobile devices easily and it
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2NTQzMTgyLDExNzUxOTQ0NTksLTEwNz
-IyMTY4MjEsLTE3MjQ1NjYyMDMsMTM3NDUwNzk2MywxNzcwOTA3
-OTQ3LDE4NjU4MTM0OSwtMzcwMzk5MjE2LDE1MTg4ODE5MjEsMT
-I5Mzc3MTEwOCwyMTQ0NzExOTk0LDE1NDM5MjkyNzIsLTE2OTY0
-MzY3ODEsMTU3MTIyMzUxNywtMTgwODM5Mzk4NSw3OTExMzA5ND
-AsODY2NTEzMjMwLDE3Mzk3NjQ0NTQsLTIxMDkwNzk0NjUsNDQ5
-OTY0MzM0XX0=
+eyJoaXN0b3J5IjpbMTQ2NDMzMTU0NCw1ODY1NDMxODIsMTE3NT
+E5NDQ1OSwtMTA3MjIxNjgyMSwtMTcyNDU2NjIwMywxMzc0NTA3
+OTYzLDE3NzA5MDc5NDcsMTg2NTgxMzQ5LC0zNzAzOTkyMTYsMT
+UxODg4MTkyMSwxMjkzNzcxMTA4LDIxNDQ3MTE5OTQsMTU0Mzky
+OTI3MiwtMTY5NjQzNjc4MSwxNTcxMjIzNTE3LC0xODA4MzkzOT
+g1LDc5MTEzMDk0MCw4NjY1MTMyMzAsMTczOTc2NDQ1NCwtMjEw
+OTA3OTQ2NV19
 -->
