@@ -23,7 +23,7 @@ AcuBi Provides a nested layered structure by providing you an ability to save th
 
 ## Create Child Tag 
 
-To create a child Tag use **Add Tag** in dashboard section and save it under the desired parent tag. You can add multiple child tags in parent tag.
+To create a child tag use **Add Tag** in dashboard section and save it under the desired parent tag. You can add multiple child tags in parent tag.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c1b8fc9522826986d90afc6df61df3f988227475/images/child_tag.png)
 
@@ -47,8 +47,8 @@ To **Delete** the tag click on delete icon.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e571af6fdf36fb0e58a5248a84669f5f73f5703f/images/delete_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjU3OTgyNSwxMzUzODk1ODE0LDYwOT
-I3MDI4LDEzNTM4OTU4MTQsMTUxNTU4MjM3NCwtMTIxMDQwMDAz
-MiwxNzYxMzQ0MjQ0LC04MTY2ODc2OSwxMTU1NjI5NDMzLDk5Mj
-MwMzYxM119
+eyJoaXN0b3J5IjpbMzM0MTM2ODQ5LDE5NzI1Nzk4MjUsMTM1Mz
+g5NTgxNCw2MDkyNzAyOCwxMzUzODk1ODE0LDE1MTU1ODIzNzQs
+LTEyMTA0MDAwMzIsMTc2MTM0NDI0NCwtODE2Njg3NjksMTE1NT
+YyOTQzMyw5OTIzMDM2MTNdfQ==
 -->
