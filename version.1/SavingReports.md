@@ -1,6 +1,6 @@
 <center><h1>Saving Reports</h1></center>
 
-The report generated in AcuBi can be saved in specific location under a specific tag or share them with team members for better collaboration.
+The report generated in AcuBi can be saved in specific location under a specific tag and share them with your team members for better collaboration.
 
 **1.** After extracting the data click on **Save button** in Analysis section. 
 
@@ -20,9 +20,11 @@ You will be navigated to **Save Explore** page. Enter all the below information 
 
 - **Privacy** you can save the report in any one of the following privacy option.
 
-  - **Private ()** report saved in private section and accessed by the user itself.
-  - **Public ()** the report is saved in public section and accessed by all the users.
-  -  **Share ()** the report saved under share section and accessed by specific set of users or groups.
+  -  **Private()** It enable access for user itself.
+  
+  -  **Public()**   It enable access for all the users. 
+  
+  -  **Share()** It enable access for specific set of users.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/8d50b81c2f7d831fa967d3e3476fbb5eb6d622f9/images/save_tag.png)
@@ -53,7 +55,7 @@ Cache saves the data, to pull the data with in specific time limit.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1ODQ5NDQsMTk4MjU1NjEwLDczNjczNj
-c3OCwzNjU3MTk2ODMsMTkyMzA3NzkxMiwtODg4OTU4ODU4LC0z
-MzcyNjIwMl19
+eyJoaXN0b3J5IjpbMTEyNzg3NDI4Niw3NDU4NDk0NCwxOTgyNT
+U2MTAsNzM2NzM2Nzc4LDM2NTcxOTY4MywxOTIzMDc3OTEyLC04
+ODg5NTg4NTgsLTMzNzI2MjAyXX0=
 -->
