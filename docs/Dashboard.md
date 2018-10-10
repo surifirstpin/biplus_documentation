@@ -119,12 +119,11 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 - **Privacy**  you can save the report in any one of the following privacy option.
 
-  -   **Private**  Dashboard saved in private section and accessed by the user itself.
-
-  -   **Public**  Dashboard saved in public section and accessed by all the users.
-
-  -   **Share**  Dashboard saved under share section and accessed by specific set of users.
-
+  -  **Private()** It enable access for user itself.
+  
+  -  **Public()**   It enable access for all the users. 
+  
+  -  **Share()** It enable access for specific set of users.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0fb2c0fe9fbc99b6ac2cd3d818fe7533a74872b8/images/2018-02-06_16-09-56.png)
  **Image 6**
@@ -158,11 +157,11 @@ AcuBi make it easier to view the dashboard list, in mobile devices easily and it
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTU5NTIyOSwxMzQ1ODg3NDU5LDE3Mz
-EyOTk1NDcsLTE4MzMyNzUyNzEsOTYzMzI0OTE0LC05Njg4ODM0
-OSw1ODY1NDMxODIsMTE3NTE5NDQ1OSwtMTA3MjIxNjgyMSwtMT
-cyNDU2NjIwMywxMzc0NTA3OTYzLDE3NzA5MDc5NDcsMTg2NTgx
-MzQ5LC0zNzAzOTkyMTYsMTUxODg4MTkyMSwxMjkzNzcxMTA4LD
-IxNDQ3MTE5OTQsMTU0MzkyOTI3MiwtMTY5NjQzNjc4MSwxNTcx
-MjIzNTE3XX0=
+eyJoaXN0b3J5IjpbLTE2MDY4NzM5MTAsMTUwOTU5NTIyOSwxMz
+Q1ODg3NDU5LDE3MzEyOTk1NDcsLTE4MzMyNzUyNzEsOTYzMzI0
+OTE0LC05Njg4ODM0OSw1ODY1NDMxODIsMTE3NTE5NDQ1OSwtMT
+A3MjIxNjgyMSwtMTcyNDU2NjIwMywxMzc0NTA3OTYzLDE3NzA5
+MDc5NDcsMTg2NTgxMzQ5LC0zNzAzOTkyMTYsMTUxODg4MTkyMS
+wxMjkzNzcxMTA4LDIxNDQ3MTE5OTQsMTU0MzkyOTI3MiwtMTY5
+NjQzNjc4MV19
 -->
