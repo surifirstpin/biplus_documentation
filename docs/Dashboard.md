@@ -82,8 +82,8 @@ You can add different reports to the layout selected, depending on the requireme
 
 ## Dependency Filters
 
-
-
+You can refer the existing lookup and extract the data based of the referred
+lookup daata
 
    -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the referred data.
    
@@ -161,11 +161,11 @@ AcuBi make it easier to view the dashboard list, in mobile devices easily and it
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDMzMTU0NCw1ODY1NDMxODIsMTE3NT
-E5NDQ1OSwtMTA3MjIxNjgyMSwtMTcyNDU2NjIwMywxMzc0NTA3
-OTYzLDE3NzA5MDc5NDcsMTg2NTgxMzQ5LC0zNzAzOTkyMTYsMT
-UxODg4MTkyMSwxMjkzNzcxMTA4LDIxNDQ3MTE5OTQsMTU0Mzky
-OTI3MiwtMTY5NjQzNjc4MSwxNTcxMjIzNTE3LC0xODA4MzkzOT
-g1LDc5MTEzMDk0MCw4NjY1MTMyMzAsMTczOTc2NDQ1NCwtMjEw
-OTA3OTQ2NV19
+eyJoaXN0b3J5IjpbLTE5NzQxMTk4NzMsNTg2NTQzMTgyLDExNz
+UxOTQ0NTksLTEwNzIyMTY4MjEsLTE3MjQ1NjYyMDMsMTM3NDUw
+Nzk2MywxNzcwOTA3OTQ3LDE4NjU4MTM0OSwtMzcwMzk5MjE2LD
+E1MTg4ODE5MjEsMTI5Mzc3MTEwOCwyMTQ0NzExOTk0LDE1NDM5
+MjkyNzIsLTE2OTY0MzY3ODEsMTU3MTIyMzUxNywtMTgwODM5Mz
+k4NSw3OTExMzA5NDAsODY2NTEzMjMwLDE3Mzk3NjQ0NTQsLTIx
+MDkwNzk0NjVdfQ==
 -->
