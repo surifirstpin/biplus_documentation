@@ -82,7 +82,7 @@ You can add different reports to the layout selected, depending on the requireme
 
 ## Dependency Filters
 
-You can refer the existing lookup and create a new lookup to retrieve the data a based of the referred lookup. In this way  you can extract the data depending on referred
+You can refer the existing lookup and create a new lookup to retrieve the data based of the referred lookup. In this way  you can extract the data depending on referred
 
    -   **Referred** on selecting the referred checkbox the following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
    
@@ -158,7 +158,7 @@ AcuBi make it easier to view the dashboard list, in mobile devices easily and it
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTQ3NjE2NiwtMTgzMzI3NTI3MSw5Nj
+eyJoaXN0b3J5IjpbMTczMTI5OTU0NywtMTgzMzI3NTI3MSw5Nj
 MzMjQ5MTQsLTk2ODg4MzQ5LDU4NjU0MzE4MiwxMTc1MTk0NDU5
 LC0xMDcyMjE2ODIxLC0xNzI0NTY2MjAzLDEzNzQ1MDc5NjMsMT
 c3MDkwNzk0NywxODY1ODEzNDksLTM3MDM5OTIxNiwxNTE4ODgx
