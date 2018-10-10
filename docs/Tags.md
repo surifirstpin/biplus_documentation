@@ -12,10 +12,11 @@ AcuBi Provides a nested layered structure by providing you an ability to save th
 
 - **Enable Privacy** select privacy options for newly created tag.
 
-  -  **Private()** It enable access for user only.
+  -  **Private()** It enable access for user itself.
   
-  -  **Public()**  Tag saved in public section is accessed by all the users. 
-  -  **Share()** Tag saved under share section is accessed by specific set of users.
+  -  **Public()**   It enable access for all the users. 
+  
+  -  **Share()** It enable access for specific set of users.
   
 **2.** Click on **OK** button to save the Tag.
 
@@ -48,8 +49,8 @@ To **Delete** the tag click on delete icon.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e571af6fdf36fb0e58a5248a84669f5f73f5703f/images/delete_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwMjM3NzIzLDE5NzI1Nzk4MjUsMTM1Mz
-g5NTgxNCw2MDkyNzAyOCwxMzUzODk1ODE0LDE1MTU1ODIzNzQs
-LTEyMTA0MDAwMzIsMTc2MTM0NDI0NCwtODE2Njg3NjksMTE1NT
-YyOTQzMyw5OTIzMDM2MTNdfQ==
+eyJoaXN0b3J5IjpbMjAxNzg0NjYwNywxOTcyNTc5ODI1LDEzNT
+M4OTU4MTQsNjA5MjcwMjgsMTM1Mzg5NTgxNCwxNTE1NTgyMzc0
+LC0xMjEwNDAwMDMyLDE3NjEzNDQyNDQsLTgxNjY4NzY5LDExNT
+U2Mjk0MzMsOTkyMzAzNjEzXX0=
 -->
