@@ -20,6 +20,7 @@ To view a saved report click on specific report in dashboard section and it will
 Report filters will narrow the reports results while allowing you to view the specific range of data. The report data is retrieved based on filter applied.
  
  > **For Instance:**
+ 
 Apply report filter **Sum count equals to 1** in Analysis section and the data retrieved is based on filters applied.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b852b51ab2d28891914aab1c0a1efd355c252a19/images/globalfil_overide_report.png)
@@ -118,10 +119,10 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDAwNDYwNiw4NTE3MTkwNjQsLTEyMD
-UyMjk0OTEsMTEyNzAzMDg1OSwtMzMyOTA3Mzc1LDY5MjQ4NjIw
-NiwxNDA5NDExOTEwLDE2MTYxOTUxMDcsMTYyMjg4NjMsMzAwNj
-cwNzI1LDE4MjI4OTk0MzksLTgxMTEwNjk4MiwtMTU1MDgyNzg1
-NywtMTMyMjIzNTc5OCwxNzMwOTc5Nzk4LC0xMjU2OTc0NDExXX
-0=
+eyJoaXN0b3J5IjpbLTE5NjYwMTM0MzIsODUxNzE5MDY0LC0xMj
+A1MjI5NDkxLDExMjcwMzA4NTksLTMzMjkwNzM3NSw2OTI0ODYy
+MDYsMTQwOTQxMTkxMCwxNjE2MTk1MTA3LDE2MjI4ODYzLDMwMD
+Y3MDcyNSwxODIyODk5NDM5LC04MTExMDY5ODIsLTE1NTA4Mjc4
+NTcsLTEzMjIyMzU3OTgsMTczMDk3OTc5OCwtMTI1Njk3NDQxMV
+19
 -->
