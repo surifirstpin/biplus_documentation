@@ -110,7 +110,7 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4379d0e2c52695f2ccdd41e99e118daeb6237113/images/hide_filter.png)
 
-## Show Filters panel
+## Show Filters Panel
 
  To view the filter panel use **Right shift operator** on dashboard report screen.
 
@@ -119,10 +119,10 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjYwMTM0MzIsODUxNzE5MDY0LC0xMj
-A1MjI5NDkxLDExMjcwMzA4NTksLTMzMjkwNzM3NSw2OTI0ODYy
-MDYsMTQwOTQxMTkxMCwxNjE2MTk1MTA3LDE2MjI4ODYzLDMwMD
-Y3MDcyNSwxODIyODk5NDM5LC04MTExMDY5ODIsLTE1NTA4Mjc4
-NTcsLTEzMjIyMzU3OTgsMTczMDk3OTc5OCwtMTI1Njk3NDQxMV
-19
+eyJoaXN0b3J5IjpbMTQ5MzYwMjM0NCwtMTk2NjAxMzQzMiw4NT
+E3MTkwNjQsLTEyMDUyMjk0OTEsMTEyNzAzMDg1OSwtMzMyOTA3
+Mzc1LDY5MjQ4NjIwNiwxNDA5NDExOTEwLDE2MTYxOTUxMDcsMT
+YyMjg4NjMsMzAwNjcwNzI1LDE4MjI4OTk0MzksLTgxMTEwNjk4
+MiwtMTU1MDgyNzg1NywtMTMyMjIzNTc5OCwxNzMwOTc5Nzk4LC
+0xMjU2OTc0NDExXX0=
 -->
