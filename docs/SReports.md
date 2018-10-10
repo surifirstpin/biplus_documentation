@@ -50,6 +50,7 @@ Apply report filter **Sum count equals to 1** in Analysis section and the data r
 - You can also make use of inclusive, exclusive braces to filter the data.
 
   - A closed interval [a,b] includes the end points.
+  
   - An open interval (a,b) excludes them.
   
 ![
@@ -119,10 +120,10 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzYwMjM0NCwtMTk2NjAxMzQzMiw4NT
-E3MTkwNjQsLTEyMDUyMjk0OTEsMTEyNzAzMDg1OSwtMzMyOTA3
-Mzc1LDY5MjQ4NjIwNiwxNDA5NDExOTEwLDE2MTYxOTUxMDcsMT
-YyMjg4NjMsMzAwNjcwNzI1LDE4MjI4OTk0MzksLTgxMTEwNjk4
-MiwtMTU1MDgyNzg1NywtMTMyMjIzNTc5OCwxNzMwOTc5Nzk4LC
-0xMjU2OTc0NDExXX0=
+eyJoaXN0b3J5IjpbMTAwMDUzMDkwMiwxNDkzNjAyMzQ0LC0xOT
+Y2MDEzNDMyLDg1MTcxOTA2NCwtMTIwNTIyOTQ5MSwxMTI3MDMw
+ODU5LC0zMzI5MDczNzUsNjkyNDg2MjA2LDE0MDk0MTE5MTAsMT
+YxNjE5NTEwNywxNjIyODg2MywzMDA2NzA3MjUsMTgyMjg5OTQz
+OSwtODExMTA2OTgyLC0xNTUwODI3ODU3LC0xMzIyMjM1Nzk4LD
+E3MzA5Nzk3OTgsLTEyNTY5NzQ0MTFdfQ==
 -->
