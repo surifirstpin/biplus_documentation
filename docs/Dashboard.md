@@ -86,8 +86,6 @@ You can refer the existing lookup and create a new lookup to retrieve the data d
 
    -   **Referred** on selecting the referred checkbox the following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
    
-   
-  >  **For Instance** if we want to refer to country A then all states falling under that country will be updated based on the selection made.
 
 **8.**     **Report Listeners** **( Refer image 5)**
 
@@ -161,7 +159,7 @@ AcuBi make it easier to view the dashboard list, in mobile devices easily and it
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODc0MzI3MDYsLTk2ODg4MzQ5LDU4Nj
+eyJoaXN0b3J5IjpbLTEwMzUxODk0MzYsLTk2ODg4MzQ5LDU4Nj
 U0MzE4MiwxMTc1MTk0NDU5LC0xMDcyMjE2ODIxLC0xNzI0NTY2
 MjAzLDEzNzQ1MDc5NjMsMTc3MDkwNzk0NywxODY1ODEzNDksLT
 M3MDM5OTIxNiwxNTE4ODgxOTIxLDEyOTM3NzExMDgsMjE0NDcx
