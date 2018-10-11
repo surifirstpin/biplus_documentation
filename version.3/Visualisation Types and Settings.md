@@ -376,7 +376,7 @@ Horizontal Bar charts are used to compare data across different categories horiz
    
   - **Category** specifies the data to be plotted as category group on x-axis.
   
-  - **Timeseries** specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
+  - **Time series** specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
  
  - **X-Grid Color** display specific color on X-axis.
 
@@ -453,11 +453,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjQ4MDc3NCwyNDEyNzU1NzEsLTU2Mj
-M4NDM0NiwtMjExNTA0Mjg4MSw2MTY3MjcwNTAsMTMyNDkxNTk2
-MSwxMjY2NjE0MDYwLDE5MjI1ODI5NjIsMTYwMDE5OTM0NiwtMT
-MyMzExMDMwNiwtODg4ODYxOTU0LDI1NTk5NzA4MywtMTk3NTM0
-MTE2MywxNjI5NDY4OTYsLTIwNjQyODYzMDYsNTYzODQ0MzY2LD
-ExODI0MDYwOTYsLTcxOTE4NTE2NSwxNTkzODQ4NjgzLC0xOTE0
-NDk2MTQ1XX0=
+eyJoaXN0b3J5IjpbLTE3MDk0NTcxMCwxNTcyNDgwNzc0LDI0MT
+I3NTU3MSwtNTYyMzg0MzQ2LC0yMTE1MDQyODgxLDYxNjcyNzA1
+MCwxMzI0OTE1OTYxLDEyNjY2MTQwNjAsMTkyMjU4Mjk2MiwxNj
+AwMTk5MzQ2LC0xMzIzMTEwMzA2LC04ODg4NjE5NTQsMjU1OTk3
+MDgzLC0xOTc1MzQxMTYzLDE2Mjk0Njg5NiwtMjA2NDI4NjMwNi
+w1NjM4NDQzNjYsMTE4MjQwNjA5NiwtNzE5MTg1MTY1LDE1OTM4
+NDg2ODNdfQ==
 -->
