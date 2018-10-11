@@ -353,7 +353,7 @@ Horizontal Bar charts are used to compare data across different categories horiz
 
 > **Example** : in case if we are taking two measures than you can interchange the measure fields values on the column as per the requirement. 
 
-- **Custom Label** It displays customized label for the column field value and at the same time you can add a prefix or Suffix at starting or ending position of the label value.
+- **Custom Label** It displays customized label for the column field value and at the same time you can add a prefix or suffix at starting or ending position of the label value.
 
 **For Instance** : Consider label value 123000( Sum_Rate), now assign a prefix to the already existing value at the starting position, 
 ##{start:00}#{sum_rate}--> it results in 00123000, 
@@ -365,7 +365,6 @@ Horizontal Bar charts are used to compare data across different categories horiz
 ```
 
 - **Bubble Size( Bubble Chart)** Depending on measure values, it varies in size.
-
 
 ### X-Axis Menu Options
 
@@ -454,11 +453,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDA0NTIyMCwtMTcwOTQ1NzEwLDE1Nz
-I0ODA3NzQsMjQxMjc1NTcxLC01NjIzODQzNDYsLTIxMTUwNDI4
-ODEsNjE2NzI3MDUwLDEzMjQ5MTU5NjEsMTI2NjYxNDA2MCwxOT
-IyNTgyOTYyLDE2MDAxOTkzNDYsLTEzMjMxMTAzMDYsLTg4ODg2
-MTk1NCwyNTU5OTcwODMsLTE5NzUzNDExNjMsMTYyOTQ2ODk2LC
-0yMDY0Mjg2MzA2LDU2Mzg0NDM2NiwxMTgyNDA2MDk2LC03MTkx
-ODUxNjVdfQ==
+eyJoaXN0b3J5IjpbNDc5MDQwMDg2LDEwODAwNDUyMjAsLTE3MD
+k0NTcxMCwxNTcyNDgwNzc0LDI0MTI3NTU3MSwtNTYyMzg0MzQ2
+LC0yMTE1MDQyODgxLDYxNjcyNzA1MCwxMzI0OTE1OTYxLDEyNj
+Y2MTQwNjAsMTkyMjU4Mjk2MiwxNjAwMTk5MzQ2LC0xMzIzMTEw
+MzA2LC04ODg4NjE5NTQsMjU1OTk3MDgzLC0xOTc1MzQxMTYzLD
+E2Mjk0Njg5NiwtMjA2NDI4NjMwNiw1NjM4NDQzNjYsMTE4MjQw
+NjA5Nl19
 -->
