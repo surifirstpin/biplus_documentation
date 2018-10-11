@@ -3,7 +3,7 @@
 
 AcuBi Provides an ability to visualize the data in 10 different types of charts with some standard editing options. Based on priority to view specific information about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. 
 
-**Types of visualization available in AcuBi;**
+**Types of visualization available in AcuBi :**
  - **Line**
  - **Bar**
  - **Pie**
@@ -29,7 +29,7 @@ AcuBi Provides an ability to visualize the data in 10 different types of charts 
 
  ### Editing Options for Line Chart
  
- - ***Type** displays the information as a series of data points called markers. Below are the list of markers used in line chart ( spline acts as  default line type), 
+ - **Type** displays the information as a series of data points called markers. Below are the list of markers used in line chart ( spline acts as  default line type), 
    - Line
    - Spline 
    - Step
@@ -93,7 +93,7 @@ This section describes the editing option for Pie chart in visualization.
 ## Radar chart 
 
  Radar charts, are great way to compare members of a dimension in a function of several metrics.  
-**For example**, when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
+**For example,** when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
 
  **4.** Click on **Radar** tab under **General** section  to compare the data in  Radar chart.
 
@@ -452,11 +452,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxMjc1NTcxLC01NjIzODQzNDYsLTIxMT
-UwNDI4ODEsNjE2NzI3MDUwLDEzMjQ5MTU5NjEsMTI2NjYxNDA2
-MCwxOTIyNTgyOTYyLDE2MDAxOTkzNDYsLTEzMjMxMTAzMDYsLT
-g4ODg2MTk1NCwyNTU5OTcwODMsLTE5NzUzNDExNjMsMTYyOTQ2
-ODk2LC0yMDY0Mjg2MzA2LDU2Mzg0NDM2NiwxMTgyNDA2MDk2LC
-03MTkxODUxNjUsMTU5Mzg0ODY4MywtMTkxNDQ5NjE0NSwtMTMx
-MTQxNDI1MF19
+eyJoaXN0b3J5IjpbLTExMTgxMTM1NCwyNDEyNzU1NzEsLTU2Mj
+M4NDM0NiwtMjExNTA0Mjg4MSw2MTY3MjcwNTAsMTMyNDkxNTk2
+MSwxMjY2NjE0MDYwLDE5MjI1ODI5NjIsMTYwMDE5OTM0NiwtMT
+MyMzExMDMwNiwtODg4ODYxOTU0LDI1NTk5NzA4MywtMTk3NTM0
+MTE2MywxNjI5NDY4OTYsLTIwNjQyODYzMDYsNTYzODQ0MzY2LD
+ExODI0MDYwOTYsLTcxOTE4NTE2NSwxNTkzODQ4NjgzLC0xOTE0
+NDk2MTQ1XX0=
 -->
