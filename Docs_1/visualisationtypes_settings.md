@@ -137,14 +137,14 @@ It is used to display the data in circles. We can define each bubble using any o
 
 Funnels helps to visualize a process that has stages and items flow sequentially from one stage to the next. Use a funnel when there is a sequential flow between stages, such as a sales process that starts with inquiry and ends with billing.
 
-**The following section describes the editing option for bubble chart in visualization;**
+**The following section describes the editing option for bubble chart in visualization :**
  
  **6.** Click on **Funnel** tab under **General** section  to compare the data in Funnel chart.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caca3ad67049c43bc60a5fccae26182c81762732/images/funnel_chart.png)
 
-**Using AcuBi you can view the funnel charts in different formats using the below check boxes:**
+**Using AcuBi you can view the funnel charts in different formats using the below check boxes :**
 
  - **Sort** it enables the sorted order for funnel chart.
  
@@ -452,7 +452,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4Njc3NjIzOCwtMTY3MDg4MzI5LC04Mz
+eyJoaXN0b3J5IjpbMTAzNjAwMDUxNywtMTY3MDg4MzI5LC04Mz
 YwOTczODUsMTA4MDA0NTIyMCwtMTcwOTQ1NzEwLDE1NzI0ODA3
 NzQsMjQxMjc1NTcxLC01NjIzODQzNDYsLTIxMTUwNDI4ODEsNj
 E2NzI3MDUwLDEzMjQ5MTU5NjEsMTI2NjYxNDA2MCwxOTIyNTgy
