@@ -366,7 +366,7 @@ Horizontal Bar charts are used to compare data across different categories horiz
 
 - **Bubble Size( Bubble Chart)** Depending on measure values, it varies in size.
 
-### X-Axis Menu Options
+### X-Axis Editing Options
 
  > **Note:**  X-Axis is enabled only for Line, Bar and Bubble chart only.
  
@@ -398,7 +398,7 @@ Horizontal Bar charts are used to compare data across different categories horiz
 
  - **Theme** enables colour for reference line.
  
-### Y-Axis
+### Y-Axis Editing Options
 
  > **Note:**  Y-Axis is enabled only for Line, Bar and Bubble chart only.
  
@@ -453,11 +453,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5MDQwMDg2LDEwODAwNDUyMjAsLTE3MD
-k0NTcxMCwxNTcyNDgwNzc0LDI0MTI3NTU3MSwtNTYyMzg0MzQ2
-LC0yMTE1MDQyODgxLDYxNjcyNzA1MCwxMzI0OTE1OTYxLDEyNj
-Y2MTQwNjAsMTkyMjU4Mjk2MiwxNjAwMTk5MzQ2LC0xMzIzMTEw
-MzA2LC04ODg4NjE5NTQsMjU1OTk3MDgzLC0xOTc1MzQxMTYzLD
-E2Mjk0Njg5NiwtMjA2NDI4NjMwNiwxMjYwNjA0MTY2LDU2Mzg0
-NDM2Nl19
+eyJoaXN0b3J5IjpbLTgzNjA5NzM4NSwxMDgwMDQ1MjIwLC0xNz
+A5NDU3MTAsMTU3MjQ4MDc3NCwyNDEyNzU1NzEsLTU2MjM4NDM0
+NiwtMjExNTA0Mjg4MSw2MTY3MjcwNTAsMTMyNDkxNTk2MSwxMj
+Y2NjE0MDYwLDE5MjI1ODI5NjIsMTYwMDE5OTM0NiwtMTMyMzEx
+MDMwNiwtODg4ODYxOTU0LDI1NTk5NzA4MywtMTk3NTM0MTE2My
+wxNjI5NDY4OTYsLTIwNjQyODYzMDYsMTI2MDYwNDE2Niw1NjM4
+NDQzNjZdfQ==
 -->
