@@ -360,7 +360,8 @@ Horizontal Bar charts are used to compare data across different categories horiz
 ##{End:11}#{sum_rate}--> it results in 12300011, 
 
 ```
-##{start:TEXT/NUMBER }#{sum_rate} as of #{sum_amount}##{end:TEXT/NUMBER }
+##{start:TEXT/NUMBER }#{sum_rate} as of
+ #{sum_amount}##{end:TEXT/NUMBER }
 ```
 
 - **Bubble Size( Bubble Chart)** Depending on measure values, it varies in size.
@@ -453,7 +454,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDI3NTYwMiwtMTcwOTQ1NzEwLDE1Nz
+eyJoaXN0b3J5IjpbMTA4MDA0NTIyMCwtMTcwOTQ1NzEwLDE1Nz
 I0ODA3NzQsMjQxMjc1NTcxLC01NjIzODQzNDYsLTIxMTUwNDI4
 ODEsNjE2NzI3MDUwLDEzMjQ5MTU5NjEsMTI2NjYxNDA2MCwxOT
 IyNTgyOTYyLDE2MDAxOTkzNDYsLTEzMjMxMTAzMDYsLTg4ODg2
