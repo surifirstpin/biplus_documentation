@@ -351,7 +351,7 @@ Horizontal Bar charts are used to compare data across different categories horiz
 
 - **Custom Tooltip** on moving the hover on the column it displays the customized new value. 
 
-> **Example** : in case if we are taking two measures than you can interchange the measure fields values on the column as per the requirement. 
+> **Example :**  in case if we are taking two measures than you can interchange the measure fields values on the column as per the requirement. 
 
 - **Custom Label** It displays customized label for the column field value and at the same time you can add a prefix or suffix at starting or ending position of the label value.
 
@@ -453,11 +453,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjA5NzM4NSwxMDgwMDQ1MjIwLC0xNz
-A5NDU3MTAsMTU3MjQ4MDc3NCwyNDEyNzU1NzEsLTU2MjM4NDM0
-NiwtMjExNTA0Mjg4MSw2MTY3MjcwNTAsMTMyNDkxNTk2MSwxMj
-Y2NjE0MDYwLDE5MjI1ODI5NjIsMTYwMDE5OTM0NiwtMTMyMzEx
-MDMwNiwtODg4ODYxOTU0LDI1NTk5NzA4MywtMTk3NTM0MTE2My
-wxNjI5NDY4OTYsLTIwNjQyODYzMDYsMTI2MDYwNDE2Niw1NjM4
-NDQzNjZdfQ==
+eyJoaXN0b3J5IjpbLTE2NzA4ODMyOSwtODM2MDk3Mzg1LDEwOD
+AwNDUyMjAsLTE3MDk0NTcxMCwxNTcyNDgwNzc0LDI0MTI3NTU3
+MSwtNTYyMzg0MzQ2LC0yMTE1MDQyODgxLDYxNjcyNzA1MCwxMz
+I0OTE1OTYxLDEyNjY2MTQwNjAsMTkyMjU4Mjk2MiwxNjAwMTk5
+MzQ2LC0xMzIzMTEwMzA2LC04ODg4NjE5NTQsMjU1OTk3MDgzLC
+0xOTc1MzQxMTYzLDE2Mjk0Njg5NiwtMjA2NDI4NjMwNiwxMjYw
+NjA0MTY2XX0=
 -->
