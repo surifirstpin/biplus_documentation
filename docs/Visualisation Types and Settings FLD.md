@@ -353,7 +353,7 @@ Horizontal Bar charts are used to compare data across different categories horiz
 
 > **Example** : in case if we are taking two measures than you can interchange the measure fields values on the column as per the requirement. 
 
-- **Custom Label** It displays your own customized label for the column field value. Add a prefix or Suffix at starting or ending position of the label value.
+- **Custom Label** It displays customized label for the column field value at the Add a prefix or Suffix at starting or ending position of the label value.
 
 **For Instance** : Consider label value 123000( Sum_Rate), now assign a prefix to the already existing value at the starting position, 
 ##{start:00}#{sum_rate}--> it results in 00123000, 
@@ -453,7 +453,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1MDE4NDI0LC0xNzA5NDU3MTAsMTU3Mj
+eyJoaXN0b3J5IjpbODc0MTM5MTgxLC0xNzA5NDU3MTAsMTU3Mj
 Q4MDc3NCwyNDEyNzU1NzEsLTU2MjM4NDM0NiwtMjExNTA0Mjg4
 MSw2MTY3MjcwNTAsMTMyNDkxNTk2MSwxMjY2NjE0MDYwLDE5Mj
 I1ODI5NjIsMTYwMDE5OTM0NiwtMTMyMzExMDMwNiwtODg4ODYx
