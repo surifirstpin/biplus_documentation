@@ -4,7 +4,7 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 
 ## View Dashboard
 
- To view already existing dashboard navigate to dashboard section first, Click on the dashboard you want to view.
+ To view already existing dashboard navigate to dashboard section first, then click on the dashboard you want to view.
    
 **1.**  To set the dashboard to home page click on **Set on homepage** icon.
 
@@ -158,11 +158,11 @@ AcuBi make it easier to view the dashboard list, in mobile devices easily and it
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3ODkwNDU0LC0xNjA2ODczOTEwLDE1MD
-k1OTUyMjksMTM0NTg4NzQ1OSwxNzMxMjk5NTQ3LC0xODMzMjc1
-MjcxLDk2MzMyNDkxNCwtOTY4ODgzNDksNTg2NTQzMTgyLDExNz
-UxOTQ0NTksLTEwNzIyMTY4MjEsLTE3MjQ1NjYyMDMsMTM3NDUw
-Nzk2MywxNzcwOTA3OTQ3LDE4NjU4MTM0OSwtMzcwMzk5MjE2LD
-E1MTg4ODE5MjEsMTI5Mzc3MTEwOCwyMTQ0NzExOTk0LDE1NDM5
-MjkyNzJdfQ==
+eyJoaXN0b3J5IjpbMTAzNzQzMDU1OSwtMTYwNjg3MzkxMCwxNT
+A5NTk1MjI5LDEzNDU4ODc0NTksMTczMTI5OTU0NywtMTgzMzI3
+NTI3MSw5NjMzMjQ5MTQsLTk2ODg4MzQ5LDU4NjU0MzE4MiwxMT
+c1MTk0NDU5LC0xMDcyMjE2ODIxLC0xNzI0NTY2MjAzLDEzNzQ1
+MDc5NjMsMTc3MDkwNzk0NywxODY1ODEzNDksLTM3MDM5OTIxNi
+wxNTE4ODgxOTIxLDEyOTM3NzExMDgsMjE0NDcxMTk5NCwxNTQz
+OTI5MjcyXX0=
 -->
