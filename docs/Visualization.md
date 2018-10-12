@@ -18,7 +18,7 @@ AcuBi has an ability to create graphics and charts based on the result obtained.
 
 ## Types of Visualization
 
-AcuBi visualization charts are used based on the priority of what specific information you want to view about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. It Provides an ability to visualize the data in 10 different types of charts with some standard editing options. 
+AcuBi visualization charts are used based on the priority of what specific information you want to view about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. It Provides an ability to visualize the data in 11 different types of charts with some standard editing options. 
 
 **Let us see them in detail : **
  - Line
@@ -31,6 +31,7 @@ AcuBi visualization charts are used based on the priority of what specific infor
  - Table 
  - Widget
  - World
+ - Horizontal Bar
 
 > **Note :** Some of the options in editing list might be hidden or grayed in situations where they would conflict with other settings you have chosen.
 
@@ -472,11 +473,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjE1NjMzODIsLTE3NjQ1NzU2MzcsNj
-UyNzUxMzAzLC0zNTQ4NDQ5ODksLTEzMzY4MTg0MzUsLTkwNDk3
-OTYzNCw1NzUyNDAwMywtNTY1MzI3ODU5LC0yMDc0NjY4Mzk5LC
-03ODg1NjQ2NywtNTY2NTk1OTE2LC0xNjI0NTgyOTY0LC05NTk0
-MDg2ODcsLTc1MzYwMzEzLC01MzExNDY4NzAsLTIzODE5MDk0Mi
-wtMzExMzM1NzgsNDczODc2MjUwLC0xMjM3MTAzNDUzLC05MDE0
-NzgyMDVdfQ==
+eyJoaXN0b3J5IjpbLTg0OTkyMTQ0OSwtMTc2NDU3NTYzNyw2NT
+I3NTEzMDMsLTM1NDg0NDk4OSwtMTMzNjgxODQzNSwtOTA0OTc5
+NjM0LDU3NTI0MDAzLC01NjUzMjc4NTksLTIwNzQ2NjgzOTksLT
+c4ODU2NDY3LC01NjY1OTU5MTYsLTE2MjQ1ODI5NjQsLTk1OTQw
+ODY4NywtNzUzNjAzMTMsLTUzMTE0Njg3MCwtMjM4MTkwOTQyLC
+0zMTEzMzU3OCw0NzM4NzYyNTAsLTEyMzcxMDM0NTMsLTkwMTQ3
+ODIwNV19
 -->
