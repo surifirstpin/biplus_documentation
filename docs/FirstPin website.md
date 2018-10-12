@@ -68,7 +68,7 @@ AcuBi retrieves the most recent data and assist your financial advisor to focus 
 
 #### Data Manipulation
 
-Easily combine all your data sources, no matter how large it is into a single view for better expressive data. Further to this usage of Filter "Drill-down" is used to explore your data as deep as you like more efficiently.
+Easily combine all your data sources, no matter how large it is into a single view for better expressive data. Further to this, usage of Filter **"Drill-down"** is used to explore data as deep as you like more efficiently.
 
 #### Trusted Data Analytic Culture
 
@@ -158,10 +158,10 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODIzNzE1NiwtMTU4OTA0MjMyMCwtND
-cwMjg1MTgyLDE4MjA3NjQyNjIsMzMzNTA5NjM0LDc0NDEzMzQy
-LC0zMjMwOTUxODQsLTQzODc3NDg2MCwtOTM2OTUzMjYsLTExND
-c4MDMyNzEsLTU3OTk0Mzc1MSwtNzQxODIzMjQ5LDE1Mjk5NTk5
-MTcsMTA4MTgxNDQ0NywxMzc1MzE2MjUzLDEwMDkzMjEzNTBdfQ
-==
+eyJoaXN0b3J5IjpbMTIxMzg2MTk2OSwxNzY4MjM3MTU2LC0xNT
+g5MDQyMzIwLC00NzAyODUxODIsMTgyMDc2NDI2MiwzMzM1MDk2
+MzQsNzQ0MTMzNDIsLTMyMzA5NTE4NCwtNDM4Nzc0ODYwLC05Mz
+Y5NTMyNiwtMTE0NzgwMzI3MSwtNTc5OTQzNzUxLC03NDE4MjMy
+NDksMTUyOTk1OTkxNywxMDgxODE0NDQ3LDEzNzUzMTYyNTMsMT
+AwOTMyMTM1MF19
 -->
