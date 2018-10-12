@@ -138,7 +138,7 @@ Plan, monitor and get insight into your sales processes.
 
 #### Marketing
 
-Track, analyze and plan your “lead to revenue” process.
+Track, analyze and plan your **“lead to revenue”** process.
 
 #### Supply Chain
 
@@ -158,10 +158,10 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzg2MTk2OSwxNzY4MjM3MTU2LC0xNT
-g5MDQyMzIwLC00NzAyODUxODIsMTgyMDc2NDI2MiwzMzM1MDk2
-MzQsNzQ0MTMzNDIsLTMyMzA5NTE4NCwtNDM4Nzc0ODYwLC05Mz
-Y5NTMyNiwtMTE0NzgwMzI3MSwtNTc5OTQzNzUxLC03NDE4MjMy
-NDksMTUyOTk1OTkxNywxMDgxODE0NDQ3LDEzNzUzMTYyNTMsMT
-AwOTMyMTM1MF19
+eyJoaXN0b3J5IjpbMTIzNjcyMTM2MSwxMjEzODYxOTY5LDE3Nj
+gyMzcxNTYsLTE1ODkwNDIzMjAsLTQ3MDI4NTE4MiwxODIwNzY0
+MjYyLDMzMzUwOTYzNCw3NDQxMzM0MiwtMzIzMDk1MTg0LC00Mz
+g3NzQ4NjAsLTkzNjk1MzI2LC0xMTQ3ODAzMjcxLC01Nzk5NDM3
+NTEsLTc0MTgyMzI0OSwxNTI5OTU5OTE3LDEwODE4MTQ0NDcsMT
+M3NTMxNjI1MywxMDA5MzIxMzUwXX0=
 -->
