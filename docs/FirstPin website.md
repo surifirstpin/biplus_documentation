@@ -3,11 +3,11 @@
 
 # TURN YOUR INSIGHTS INTO ACTIONS
 
-AcuBi Provides A Single, Integrated Enterprise Analytics Platform By Delivering Faster And Better Insights For The Whole Business, Regardless Any Action Or Industry.
+AcuBi Provides A Single, Integrated Enterprise Analytics Platform By Delivering Faster And Better Insights For The Whole Business, Regardless Of Any Action Or Industry.
 
 # TURN DATA INTO OPPORTUNITY IN HAND  
 
- Check Out How Our Business Intelligence Products And Applications Can Help You In Achieving Better Decision Making At Every Level Of Your Organization.
+ Check Out How Our Business Intelligence Products And Applications, Can Help You In Achieving Better Decision Making At Every Level Of Your Organization.
 
 # CREATE BEAUTIFUL DASHBOARDS AND VISUALIZATIONS IN MINUTES
 
@@ -158,9 +158,10 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODkwNDIzMjAsLTQ3MDI4NTE4MiwxOD
-IwNzY0MjYyLDMzMzUwOTYzNCw3NDQxMzM0MiwtMzIzMDk1MTg0
-LC00Mzg3NzQ4NjAsLTkzNjk1MzI2LC0xMTQ3ODAzMjcxLC01Nz
-k5NDM3NTEsLTc0MTgyMzI0OSwxNTI5OTU5OTE3LDEwODE4MTQ0
-NDcsMTM3NTMxNjI1MywxMDA5MzIxMzUwXX0=
+eyJoaXN0b3J5IjpbLTUzMjAzMzc2OSwtMTU4OTA0MjMyMCwtND
+cwMjg1MTgyLDE4MjA3NjQyNjIsMzMzNTA5NjM0LDc0NDEzMzQy
+LC0zMjMwOTUxODQsLTQzODc3NDg2MCwtOTM2OTUzMjYsLTExND
+c4MDMyNzEsLTU3OTk0Mzc1MSwtNzQxODIzMjQ5LDE1Mjk5NTk5
+MTcsMTA4MTgxNDQ0NywxMzc1MzE2MjUzLDEwMDkzMjEzNTBdfQ
+==
 -->
