@@ -283,7 +283,6 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 Horizontal Bar charts are used to compare data across different categories horizontally. You can build a bar chart by placing a dimension on the Y-axis and a measure on X-axis.
 
-
 ## Standard Settings
 
 ### General Section 
@@ -453,11 +452,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDI3NDY3NSwxMDM2MDAwNTE3LC0xNj
-cwODgzMjksLTgzNjA5NzM4NSwxMDgwMDQ1MjIwLC0xNzA5NDU3
-MTAsMTU3MjQ4MDc3NCwyNDEyNzU1NzEsLTU2MjM4NDM0NiwtMj
-ExNTA0Mjg4MSw2MTY3MjcwNTAsMTMyNDkxNTk2MSwxMjY2NjE0
-MDYwLDE5MjI1ODI5NjIsMTYwMDE5OTM0NiwtMTMyMzExMDMwNi
-wtODg4ODYxOTU0LDI1NTk5NzA4MywtMTk3NTM0MTE2MywxNjI5
-NDY4OTZdfQ==
+eyJoaXN0b3J5IjpbMTczODQwMjY1NywxODY0Mjc0Njc1LDEwMz
+YwMDA1MTcsLTE2NzA4ODMyOSwtODM2MDk3Mzg1LDEwODAwNDUy
+MjAsLTE3MDk0NTcxMCwxNTcyNDgwNzc0LDI0MTI3NTU3MSwtNT
+YyMzg0MzQ2LC0yMTE1MDQyODgxLDYxNjcyNzA1MCwxMzI0OTE1
+OTYxLDEyNjY2MTQwNjAsMTkyMjU4Mjk2MiwxNjAwMTk5MzQ2LC
+0xMzIzMTEwMzA2LC04ODg4NjE5NTQsMjU1OTk3MDgzLC0xOTc1
+MzQxMTYzXX0=
 -->
