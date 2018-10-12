@@ -28,7 +28,7 @@ Our Organisation helps you to enable a clear vision of the performance in a simp
 
 #### Easy, Affordable, Secure
 
-It ensure Application building, Customization ,Maintenance and Cost-efficiency by attaining customer satisfaction at the same time provides a secure collaboration in between teams.
+It ensure Application building, Customization, Maintenance and Cost-efficiency by attaining customer satisfaction at the same time provides a secure collaboration in between teams.
 
 #### Experience Rapid Insights
 
@@ -36,13 +36,13 @@ Enable users to turn their raw data into actionable information by simplifying t
 
 #### Better Insights across all Domains
 
-AcuBi Streamline workforce Planning, performance tracking, Analysis and improves the quality in a dynamic regulatory environment for all domains.
+AcuBi Streamlines workforce Planning, Performance Tracking, Analysis and improves the quality in a dynamic regulatory environment for all domains.
 
 # **AcuBi** IN ACTION
 
 #### Connect to any Data Source
 
-Import data from files,databases, cloud drives, popular business applications and in-house apps. Its rapid setup connects people to data quickly and retrieve massive amount of data with an ease.
+Import data from files,databases, cloud drives, popular business applications and in-house apps. Its rapid setup connects people to data quickly and retrieve massive amount of data with a ease.
 
 #### Variety of Reporting Components
 
@@ -158,7 +158,7 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjAzMzc2OSwtMTU4OTA0MjMyMCwtND
+eyJoaXN0b3J5IjpbMTc2ODIzNzE1NiwtMTU4OTA0MjMyMCwtND
 cwMjg1MTgyLDE4MjA3NjQyNjIsMzMzNTA5NjM0LDc0NDEzMzQy
 LC0zMjMwOTUxODQsLTQzODc3NDg2MCwtOTM2OTUzMjYsLTExND
 c4MDMyNzEsLTU3OTk0Mzc1MSwtNzQxODIzMjQ5LDE1Mjk5NTk5
