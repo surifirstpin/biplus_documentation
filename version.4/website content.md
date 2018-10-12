@@ -112,8 +112,6 @@ Empower every user to explore and discover insights in your data with highly int
 
 Start transforming your data into live dashboards and reports in fraction of minutes, by helping you to find answers to your company's most important query.
 
-
-
 ## key advantages :
 
 **Analyse**
@@ -252,7 +250,7 @@ Its Unique data modelling techniques will let you describe and transform raw dat
 
 Hence BiPlus reports need not to be Static and Rigid. Now let us see how to create a Report in BiPlus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2MjUyMzE0LC0xODYzOTUwMTU3LC0xMT
-Y0NzcyMjA1LC0xMzIwNzg0NzE3LDIwMDk1MzI3MzksMTMyOTM4
-MTU0N119
+eyJoaXN0b3J5IjpbMTQxMjI2ODAyMiwtMTg2Mzk1MDE1NywtMT
+E2NDc3MjIwNSwtMTMyMDc4NDcxNywyMDA5NTMyNzM5LDEzMjkz
+ODE1NDddfQ==
 -->
