@@ -42,7 +42,7 @@ AcuBi Streamlines workforce Planning, Performance Tracking, Analysis and improve
 
 #### Connect to any Data Source
 
-Import data from files,databases, cloud drives, popular business applications and in-house apps. Its rapid setup connects people to data quickly and retrieve massive amount of data with a ease.
+Import data from files, databases, cloud drives, popular business applications and in-house apps. Its rapid setup connects people to data quickly and retrieve massive amount of data with a ease.
 
 #### Variety of Reporting Components
 
@@ -158,10 +158,10 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjcyMTM2MSwxMjEzODYxOTY5LDE3Nj
-gyMzcxNTYsLTE1ODkwNDIzMjAsLTQ3MDI4NTE4MiwxODIwNzY0
-MjYyLDMzMzUwOTYzNCw3NDQxMzM0MiwtMzIzMDk1MTg0LC00Mz
-g3NzQ4NjAsLTkzNjk1MzI2LC0xMTQ3ODAzMjcxLC01Nzk5NDM3
-NTEsLTc0MTgyMzI0OSwxNTI5OTU5OTE3LDEwODE4MTQ0NDcsMT
-M3NTMxNjI1MywxMDA5MzIxMzUwXX0=
+eyJoaXN0b3J5IjpbLTE0Njk3NzAxMjksMTIzNjcyMTM2MSwxMj
+EzODYxOTY5LDE3NjgyMzcxNTYsLTE1ODkwNDIzMjAsLTQ3MDI4
+NTE4MiwxODIwNzY0MjYyLDMzMzUwOTYzNCw3NDQxMzM0MiwtMz
+IzMDk1MTg0LC00Mzg3NzQ4NjAsLTkzNjk1MzI2LC0xMTQ3ODAz
+MjcxLC01Nzk5NDM3NTEsLTc0MTgyMzI0OSwxNTI5OTU5OTE3LD
+EwODE4MTQ0NDcsMTM3NTMxNjI1MywxMDA5MzIxMzUwXX0=
 -->
