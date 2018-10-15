@@ -143,8 +143,8 @@ For **Dimensions**
 
 For **Measures**
 
-- Click upper arrow, to enable  descending order.
-- Click down arrow, to enable ascending order.
+- Click Upper arrow, to enable  descending order.
+- Click Down arrow, to enable ascending order.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/local_sorting.png)
@@ -369,11 +369,11 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2NTQwNTcwLDE0ODczMTUzMDgsMTA1OD
-I1MDg4OSwtOTMzMjEzOTc5LDM3NzQyNDQzNiwxNjU4NjI3NjA5
-LDE2ODMzNDI5MDUsNjY3ODU5MTM5LDkxMDM4NjQ0NCwxOTQwNj
-cwMTMwLC0xMTc4MTQ5OTI3LC0xNDM1NzU0NjQ1LC0xMjQ1Mjgw
-MzQ5LDI5MTkyNjk2NCwxMTU4NzY0MDk1LC0xMTkzOTc0NjMwLC
-02MjQ4MzU4NTMsLTUzNjEyMTEwMCwzMjQ1NjI1OTQsMzgyOTA0
-MTE2XX0=
+eyJoaXN0b3J5IjpbLTE2Mzc1NDg1NCw4MzY1NDA1NzAsMTQ4Nz
+MxNTMwOCwxMDU4MjUwODg5LC05MzMyMTM5NzksMzc3NDI0NDM2
+LDE2NTg2Mjc2MDksMTY4MzM0MjkwNSw2Njc4NTkxMzksOTEwMz
+g2NDQ0LDE5NDA2NzAxMzAsLTExNzgxNDk5MjcsLTE0MzU3NTQ2
+NDUsLTEyNDUyODAzNDksMjkxOTI2OTY0LDExNTg3NjQwOTUsLT
+ExOTM5NzQ2MzAsLTYyNDgzNTg1MywtNTM2MTIxMTAwLDMyNDU2
+MjU5NF19
 -->
