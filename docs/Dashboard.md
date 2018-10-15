@@ -105,7 +105,6 @@ The Listeners option allows to register callbacks to be notified when an event i
 **9.**    Click **Save Button**  to save the dashboard
  **( Refer image 5).**
 
-
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)
 **Image 5**
 
@@ -160,7 +159,7 @@ AcuBi make it easier to view the dashboard list, in mobile devices easily and it
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjQ1OTc4OSwtMzAzODUzMDUsLTE1ND
+eyJoaXN0b3J5IjpbMTUwMjUxODI3NywtMzAzODUzMDUsLTE1ND
 c1MDQ4NzUsMTA2MTQzMTAyOSwtNTUzNDg1MjExLC0xNjA2ODcz
 OTEwLDE1MDk1OTUyMjksMTM0NTg4NzQ1OSwxNzMxMjk5NTQ3LC
 0xODMzMjc1MjcxLDk2MzMyNDkxNCwtOTY4ODgzNDksNTg2NTQz
