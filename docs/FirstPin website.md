@@ -55,6 +55,7 @@ Get a powerful BI tool installed within your own product, application, portal, o
 AcuBi delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
 
 #### Beautiful Dashboards
+
 Join multiple report layouts into single good-looking dashboard, by customizing it as per your business needs.
 
 #### Customer Success
@@ -158,10 +159,11 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njk3NzAxMjksMTIzNjcyMTM2MSwxMj
-EzODYxOTY5LDE3NjgyMzcxNTYsLTE1ODkwNDIzMjAsLTQ3MDI4
-NTE4MiwxODIwNzY0MjYyLDMzMzUwOTYzNCw3NDQxMzM0MiwtMz
-IzMDk1MTg0LC00Mzg3NzQ4NjAsLTkzNjk1MzI2LC0xMTQ3ODAz
-MjcxLC01Nzk5NDM3NTEsLTc0MTgyMzI0OSwxNTI5OTU5OTE3LD
-EwODE4MTQ0NDcsMTM3NTMxNjI1MywxMDA5MzIxMzUwXX0=
+eyJoaXN0b3J5IjpbNzIyODE0MDQ1LC0xNDY5NzcwMTI5LDEyMz
+Y3MjEzNjEsMTIxMzg2MTk2OSwxNzY4MjM3MTU2LC0xNTg5MDQy
+MzIwLC00NzAyODUxODIsMTgyMDc2NDI2MiwzMzM1MDk2MzQsNz
+Q0MTMzNDIsLTMyMzA5NTE4NCwtNDM4Nzc0ODYwLC05MzY5NTMy
+NiwtMTE0NzgwMzI3MSwtNTc5OTQzNzUxLC03NDE4MjMyNDksMT
+UyOTk1OTkxNywxMDgxODE0NDQ3LDEzNzUzMTYyNTMsMTAwOTMy
+MTM1MF19
 -->
