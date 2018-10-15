@@ -45,7 +45,7 @@ You can add different reports to the layout selected, depending on the requireme
 
    **a.** Click on report layout section then select the report you want to add in layout.
 
-   **b.** Click **add** to add new layout to existing one.
+   **b.** Click **Add** to add new layout to existing one.
    
 
 ![
@@ -159,11 +159,11 @@ AcuBi make it easier to view the dashboard list, in mobile devices easily and it
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTQzMTAyOSwtNTUzNDg1MjExLC0xNj
-A2ODczOTEwLDE1MDk1OTUyMjksMTM0NTg4NzQ1OSwxNzMxMjk5
-NTQ3LC0xODMzMjc1MjcxLDk2MzMyNDkxNCwtOTY4ODgzNDksNT
-g2NTQzMTgyLDExNzUxOTQ0NTksLTEwNzIyMTY4MjEsLTE3MjQ1
-NjYyMDMsMTM3NDUwNzk2MywxNzcwOTA3OTQ3LDE4NjU4MTM0OS
-wtMzcwMzk5MjE2LDE1MTg4ODE5MjEsMTI5Mzc3MTEwOCwyMTQ0
-NzExOTk0XX0=
+eyJoaXN0b3J5IjpbLTE1NDc1MDQ4NzUsMTA2MTQzMTAyOSwtNT
+UzNDg1MjExLC0xNjA2ODczOTEwLDE1MDk1OTUyMjksMTM0NTg4
+NzQ1OSwxNzMxMjk5NTQ3LC0xODMzMjc1MjcxLDk2MzMyNDkxNC
+wtOTY4ODgzNDksNTg2NTQzMTgyLDExNzUxOTQ0NTksLTEwNzIy
+MTY4MjEsLTE3MjQ1NjYyMDMsMTM3NDUwNzk2MywxNzcwOTA3OT
+Q3LDE4NjU4MTM0OSwtMzcwMzk5MjE2LDE1MTg4ODE5MjEsMTI5
+Mzc3MTEwOF19
 -->
