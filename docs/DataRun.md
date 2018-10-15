@@ -127,7 +127,7 @@ The data can also be retrieved based on the applied hidden filters.
 
 ## Order  (Ascending / Descending)
 
-To view the column data in ascending or descending orders , to carry out this function Click On **Order** and add the column fields in order section.
+To view the column data in ascending or descending orders , Click **Order** and add the column fields in order section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c178d95ca9160ecb5b41289894133fd10ce37cd/images/sorting1.png)
@@ -369,7 +369,7 @@ To download the retrieved data report click on **Download Data** button ( Downlo
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE1NzQ4NDAsMTA1ODI1MDg4OSwtOT
+eyJoaXN0b3J5IjpbLTEwMDA4NDc4NzksMTA1ODI1MDg4OSwtOT
 MzMjEzOTc5LDM3NzQyNDQzNiwxNjU4NjI3NjA5LDE2ODMzNDI5
 MDUsNjY3ODU5MTM5LDkxMDM4NjQ0NCwxOTQwNjcwMTMwLC0xMT
 c4MTQ5OTI3LC0xNDM1NzU0NjQ1LC0xMjQ1MjgwMzQ5LDI5MTky
