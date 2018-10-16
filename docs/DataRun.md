@@ -42,7 +42,7 @@ Filters removes all the data except the one you want to retrieve. Filter express
 |Date|For fields that contain dates|
 |Lookup| To view the lookup in Report filters it should be derived first under lookup field, in model section|
 
-Following are the different types of filters characteristics applicable :
+## **Following are the different types of filters characteristics applicable :**
 
 ### String :
 |			Example            |						Description                        |                                                                                 
@@ -95,7 +95,7 @@ Following are the different types of filters characteristics applicable :
 |is not null                   |data which is not equal to null
 |is null                       |data which is equal to null
 
-> **Note :** To View the **Timeline Filters** in details please go to Timeline filters document.
+> **Note :** **Timeline Filters** in details please go to Timeline filters document.
 
 **4.**  Click on **Filter** to apply the filters and extract the data based on filter applied.
 
@@ -369,11 +369,11 @@ To download a report, click on **Download ( icon)** button as shown in the image
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTk0NDAwOTQsMTkyODMxMDgwNCwtMT
-gyMDQ1MTgxNCwtNTM0ODk3MDI2LDIxMDYzODE5NTAsODM2NTQw
-NTcwLDE0ODczMTUzMDgsMTA1ODI1MDg4OSwtOTMzMjEzOTc5LD
-M3NzQyNDQzNiwxNjU4NjI3NjA5LDE2ODMzNDI5MDUsNjY3ODU5
-MTM5LDkxMDM4NjQ0NCwxOTQwNjcwMTMwLC0xMTc4MTQ5OTI3LC
-0xNDM1NzU0NjQ1LC0xMjQ1MjgwMzQ5LDI5MTkyNjk2NCwxMTU4
-NzY0MDk1XX0=
+eyJoaXN0b3J5IjpbLTE1NzA4ODcwOSwtMTA1OTQ0MDA5NCwxOT
+I4MzEwODA0LC0xODIwNDUxODE0LC01MzQ4OTcwMjYsMjEwNjM4
+MTk1MCw4MzY1NDA1NzAsMTQ4NzMxNTMwOCwxMDU4MjUwODg5LC
+05MzMyMTM5NzksMzc3NDI0NDM2LDE2NTg2Mjc2MDksMTY4MzM0
+MjkwNSw2Njc4NTkxMzksOTEwMzg2NDQ0LDE5NDA2NzAxMzAsLT
+ExNzgxNDk5MjcsLTE0MzU3NTQ2NDUsLTEyNDUyODAzNDksMjkx
+OTI2OTY0XX0=
 -->
