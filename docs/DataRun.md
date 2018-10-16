@@ -115,8 +115,7 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/603d0055942c97790066aa8195ad659038778ad2/images/hidden_filter.png)
 
-
-- To add more filters click on **Add Rule**.
+- To add more filters click  **Add Rule**.
 - To delete the filter applied Click **Ban Icon**.
 - To hide the **Filter** or **Order** section Click on angle-double-up icon on to far right of the order section. To unhide click on angle-double-down icon at same location.
 
@@ -367,7 +366,7 @@ To download a report, click on **Download ( icon)** button as shown in the image
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODUyMDUzNjMsMTczNjI4MjI0OCwtOT
+eyJoaXN0b3J5IjpbLTE5MDE5NTM4OTIsMTczNjI4MjI0OCwtOT
 A5MDEwNTU0LC0xMDU5NDQwMDk0LDE5MjgzMTA4MDQsLTE4MjA0
 NTE4MTQsLTUzNDg5NzAyNiwyMTA2MzgxOTUwLDgzNjU0MDU3MC
 wxNDg3MzE1MzA4LDEwNTgyNTA4ODksLTkzMzIxMzk3OSwzNzc0
