@@ -208,7 +208,7 @@ To hide pivoted data 1st column in visualization, choose pivot hide first, to hi
 
 ## Pin or Remove Pin
 
-To freeze the column field values while scrolling the data from right or left, click **Pin** in field drop down provided and to release the same click **Remove Pin.**
+To freeze the column field values while scrolling the data, click **Pin** in field drop down provided and to release the same click **Remove Pin.**
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/83983da3cd4f0b19f0ed84550fc2151b0619fc36/images/pin.png)
@@ -254,7 +254,7 @@ To hide the specific field in the visualization charts click on **Hide Visualiza
 
 To remove a specific field column from the extracted list click on **Remove** in drop down list of the field.
 
-## Calculated column 
+## Calculated Column 
 
 Table calculations enable you to easily create on-the-fly metrics, which are similar to formulas found in Excel sheets. These extracted columns will show up in green colour in data table. Using calculated column you can perform mathematical, logical (true/false), lexical (text-based), and date-based calculations on the dimensions, measures, and other table calculations in your query. 
 
@@ -366,11 +366,11 @@ To download a report, click on **Download ( icon)** button as shown in the image
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDE5NTM4OTIsMTczNjI4MjI0OCwtOT
-A5MDEwNTU0LC0xMDU5NDQwMDk0LDE5MjgzMTA4MDQsLTE4MjA0
-NTE4MTQsLTUzNDg5NzAyNiwyMTA2MzgxOTUwLDgzNjU0MDU3MC
-wxNDg3MzE1MzA4LDEwNTgyNTA4ODksLTkzMzIxMzk3OSwzNzc0
-MjQ0MzYsMTY1ODYyNzYwOSwxNjgzMzQyOTA1LDY2Nzg1OTEzOS
-w5MTAzODY0NDQsMTk0MDY3MDEzMCwtMTE3ODE0OTkyNywtMTQz
-NTc1NDY0NV19
+eyJoaXN0b3J5IjpbMzA0NjgzNjEwLC0xOTAxOTUzODkyLDE3Mz
+YyODIyNDgsLTkwOTAxMDU1NCwtMTA1OTQ0MDA5NCwxOTI4MzEw
+ODA0LC0xODIwNDUxODE0LC01MzQ4OTcwMjYsMjEwNjM4MTk1MC
+w4MzY1NDA1NzAsMTQ4NzMxNTMwOCwxMDU4MjUwODg5LC05MzMy
+MTM5NzksMzc3NDI0NDM2LDE2NTg2Mjc2MDksMTY4MzM0MjkwNS
+w2Njc4NTkxMzksOTEwMzg2NDQ0LDE5NDA2NzAxMzAsLTExNzgx
+NDk5MjddfQ==
 -->
