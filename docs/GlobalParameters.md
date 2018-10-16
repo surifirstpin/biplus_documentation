@@ -26,7 +26,6 @@ AcuBi allows you to provide additional key values to manipulate the data in calc
  
  - Click on **Add Row** to increase the table rows.
  
-
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a0355c0670a5270bd78cc76161b7c49b3598d57f/images/gp1.png)
 
 **2.** Click on Browse button to import the file.
@@ -98,10 +97,10 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjg2NzE1NzEsMjYzMDU4ODkzLC0zMD
-Y0MzY2NTgsMTIzOTY2OTA5MSwtMzQ4ODI4MTc5LC0xNzE1NzUz
-Mjc1LDQ4MTUyNjQxOCwtMTM0NTkyMjcwNiwyMDQxMzM4MTkwLC
-0yNjc2NzIxMywyMTE3NjE2OTIzLC04OTUwOTE4OTAsMTY5NDM4
-NzU5NSwtMzk2OTQyMDAxLDEyMzEzNzAyNzksLTE5MDc3NzY4ND
-AsLTE4MTExMTc4NjUsLTkwMDUwMTY2MV19
+eyJoaXN0b3J5IjpbLTUxOTcyNjI3MywtMTA2ODY3MTU3MSwtMz
+A2NDM2NjU4LDEyMzk2NjkwOTEsLTM0ODgyODE3OSwtMTcxNTc1
+MzI3NSw0ODE1MjY0MTgsLTEzNDU5MjI3MDYsMjA0MTMzODE5MC
+wtMjY3NjcyMTMsMjExNzYxNjkyMywtODk1MDkxODkwLDE2OTQz
+ODc1OTUsLTM5Njk0MjAwMSwxMjMxMzcwMjc5LC0xOTA3Nzc2OD
+QwLC0xODExMTE3ODY1LC05MDA1MDE2NjFdfQ==
 -->
