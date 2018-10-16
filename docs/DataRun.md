@@ -278,7 +278,7 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
 
-- Click **ok** after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image,
+- Click **** after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image,
 
 
 ![
@@ -366,7 +366,7 @@ To download a report, click on **Download ( icon)** button as shown in the image
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0NjgzNjEwLC0xOTAxOTUzODkyLDE3Mz
+eyJoaXN0b3J5IjpbMjcyNzUzMDIyLC0xOTAxOTUzODkyLDE3Mz
 YyODIyNDgsLTkwOTAxMDU1NCwtMTA1OTQ0MDA5NCwxOTI4MzEw
 ODA0LC0xODIwNDUxODE0LC01MzQ4OTcwMjYsMjEwNjM4MTk1MC
 w4MzY1NDA1NzAsMTQ4NzMxNTMwOCwxMDU4MjUwODg5LC05MzMy
