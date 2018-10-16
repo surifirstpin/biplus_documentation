@@ -27,13 +27,12 @@ function myfunction(param1,param2,ParamN)
 
  **For Instance**  Create a custom function for adding 2 parameters
 
-
 ```
                                                        * My Custom function *
 /*START*/ 
 function _Addition(param1,param2)
 {
- var add =param1+param2;  
+ var add = param1+param2;  
   return add;
 }
 /*END*/
@@ -50,7 +49,7 @@ function _Addition(param1,param2)
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2c15dfa03d8ed5eed5cdffdc1335c22ce759300c/images/global_functions.png)
 
-## Ability to adopt Javascript
+## Ability to adopt JavaScript
 
 This functions supports all the native java script supported functions and also refer other global functions using  **bi.function_name** ( param1, param2, paramN).
 
@@ -69,7 +68,8 @@ This functions supports all the native java script supported functions and also 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODM2NDUyNywtMzAwNTQxNjI1LDExOD
-Y1NDM2NDksLTE1MjY1MDg3NCwxNDU0ODcwMDgsLTExMzMxNjM1
-OTYsNTc4NDkyMDgzLDY1OTY5MzEyNywxNjUwNTMyNzYxXX0=
+eyJoaXN0b3J5IjpbLTE0NDE4MzUwNzEsMTcxODM2NDUyNywtMz
+AwNTQxNjI1LDExODY1NDM2NDksLTE1MjY1MDg3NCwxNDU0ODcw
+MDgsLTExMzMxNjM1OTYsNTc4NDkyMDgzLDY1OTY5MzEyNywxNj
+UwNTMyNzYxXX0=
 -->
