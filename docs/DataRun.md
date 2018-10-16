@@ -104,7 +104,7 @@ Filters removes all the data except the one you want to retrieve. Filter express
 
 ## Hidden Filters
 
-The data can also be retrieved based on the applied hidden filters.
+The data can be retrieved based on hidden filters applied, but this hidden filter fields are not visible in data section they are visible under 
 
 > **Note :** this hidden filters are visible in the list of filter expression but are not visible while retrieving the data in data section. 
 
@@ -369,11 +369,11 @@ To download a report, click on **Download ( icon)** button as shown in the image
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTAxMDU1NCwtMTA1OTQ0MDA5NCwxOT
-I4MzEwODA0LC0xODIwNDUxODE0LC01MzQ4OTcwMjYsMjEwNjM4
-MTk1MCw4MzY1NDA1NzAsMTQ4NzMxNTMwOCwxMDU4MjUwODg5LC
-05MzMyMTM5NzksMzc3NDI0NDM2LDE2NTg2Mjc2MDksMTY4MzM0
-MjkwNSw2Njc4NTkxMzksOTEwMzg2NDQ0LDE5NDA2NzAxMzAsLT
-ExNzgxNDk5MjcsLTE0MzU3NTQ2NDUsLTEyNDUyODAzNDksMjkx
-OTI2OTY0XX0=
+eyJoaXN0b3J5IjpbMTYxMTIwMjc1LC05MDkwMTA1NTQsLTEwNT
+k0NDAwOTQsMTkyODMxMDgwNCwtMTgyMDQ1MTgxNCwtNTM0ODk3
+MDI2LDIxMDYzODE5NTAsODM2NTQwNTcwLDE0ODczMTUzMDgsMT
+A1ODI1MDg4OSwtOTMzMjEzOTc5LDM3NzQyNDQzNiwxNjU4NjI3
+NjA5LDE2ODMzNDI5MDUsNjY3ODU5MTM5LDkxMDM4NjQ0NCwxOT
+QwNjcwMTMwLC0xMTc4MTQ5OTI3LC0xNDM1NzU0NjQ1LC0xMjQ1
+MjgwMzQ5XX0=
 -->
