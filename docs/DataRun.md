@@ -357,19 +357,19 @@ Using drill down you can view more deeper insights of the data.
 
 **For example:** On clicking country name, it will display states that fall under the particular country. on clicking state-name, it will display the city-name that falls under the state.
 
-> **Note :** to attain drill down features it need to be specified in model section refer model document for more information about drill down feature.
+> **Note :** to attain drill down features it need to be specified in model section, Refer **Model Documentation** for more information about drill down feature.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ae2090f2d0635decef08a516ce8833252bee2822/images/drill_down_report.png)
 
 ## Download Data
 
-To download a report, click on **Download ( Download icon)** button as shown in the image below .
+To download a report, click on **Download ( icon)** button as shown in the image below .
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzA5NTYxMywtMTgyMDQ1MTgxNCwtNT
+eyJoaXN0b3J5IjpbMTkyODMxMDgwNCwtMTgyMDQ1MTgxNCwtNT
 M0ODk3MDI2LDIxMDYzODE5NTAsODM2NTQwNTcwLDE0ODczMTUz
 MDgsMTA1ODI1MDg4OSwtOTMzMjEzOTc5LDM3NzQyNDQzNiwxNj
 U4NjI3NjA5LDE2ODMzNDI5MDUsNjY3ODU5MTM5LDkxMDM4NjQ0
