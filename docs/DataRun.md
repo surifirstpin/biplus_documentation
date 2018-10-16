@@ -173,7 +173,8 @@ For **Measures**
 
 ## Pivot table
 
-Multiple dimensions in the report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. To **Pivot** a dimension click on pivot for dimension before or after running the query.
+Multiple dimensions in the report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. 
+To **Pivot** a dimension click on pivot for dimension before or after running the query.
 
 > **Note :** you can add more pivots to other dimension fields but make sure you have at least one un-pivoted dimension and a measure value.
 
@@ -369,11 +370,11 @@ To download a report, click on **Download ( icon)** button as shown in the image
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODMxMDgwNCwtMTgyMDQ1MTgxNCwtNT
-M0ODk3MDI2LDIxMDYzODE5NTAsODM2NTQwNTcwLDE0ODczMTUz
-MDgsMTA1ODI1MDg4OSwtOTMzMjEzOTc5LDM3NzQyNDQzNiwxNj
-U4NjI3NjA5LDE2ODMzNDI5MDUsNjY3ODU5MTM5LDkxMDM4NjQ0
-NCwxOTQwNjcwMTMwLC0xMTc4MTQ5OTI3LC0xNDM1NzU0NjQ1LC
-0xMjQ1MjgwMzQ5LDI5MTkyNjk2NCwxMTU4NzY0MDk1LC0xMTkz
-OTc0NjMwXX0=
+eyJoaXN0b3J5IjpbLTE5OTgyMjQ1MzgsMTkyODMxMDgwNCwtMT
+gyMDQ1MTgxNCwtNTM0ODk3MDI2LDIxMDYzODE5NTAsODM2NTQw
+NTcwLDE0ODczMTUzMDgsMTA1ODI1MDg4OSwtOTMzMjEzOTc5LD
+M3NzQyNDQzNiwxNjU4NjI3NjA5LDE2ODMzNDI5MDUsNjY3ODU5
+MTM5LDkxMDM4NjQ0NCwxOTQwNjcwMTMwLC0xMTc4MTQ5OTI3LC
+0xNDM1NzU0NjQ1LC0xMjQ1MjgwMzQ5LDI5MTkyNjk2NCwxMTU4
+NzY0MDk1XX0=
 -->
