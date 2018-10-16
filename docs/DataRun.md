@@ -97,7 +97,7 @@ Filters removes all the data except the one you want to retrieve. Filter express
 
 > **Note :** For more details on **Timeline Filters,** Refer timeline filters document.
 
-**4.**  Click on **Filter** to apply the filters and extract the data based on filter applied.
+**4.**  Goto **Filter section,** then extract data based on filter applied.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/451979e37dcbf9fc459308e68773450b4452ed0f/images/filter_analysis.png)
@@ -369,11 +369,11 @@ To download a report, click on **Download ( icon)** button as shown in the image
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk0ODczMDYsLTEwNTk0NDAwOTQsMT
-kyODMxMDgwNCwtMTgyMDQ1MTgxNCwtNTM0ODk3MDI2LDIxMDYz
-ODE5NTAsODM2NTQwNTcwLDE0ODczMTUzMDgsMTA1ODI1MDg4OS
-wtOTMzMjEzOTc5LDM3NzQyNDQzNiwxNjU4NjI3NjA5LDE2ODMz
-NDI5MDUsNjY3ODU5MTM5LDkxMDM4NjQ0NCwxOTQwNjcwMTMwLC
-0xMTc4MTQ5OTI3LC0xNDM1NzU0NjQ1LC0xMjQ1MjgwMzQ5LDI5
-MTkyNjk2NF19
+eyJoaXN0b3J5IjpbLTg4MjMyNzcsLTEwNTk0NDAwOTQsMTkyOD
+MxMDgwNCwtMTgyMDQ1MTgxNCwtNTM0ODk3MDI2LDIxMDYzODE5
+NTAsODM2NTQwNTcwLDE0ODczMTUzMDgsMTA1ODI1MDg4OSwtOT
+MzMjEzOTc5LDM3NzQyNDQzNiwxNjU4NjI3NjA5LDE2ODMzNDI5
+MDUsNjY3ODU5MTM5LDkxMDM4NjQ0NCwxOTQwNjcwMTMwLC0xMT
+c4MTQ5OTI3LC0xNDM1NzU0NjQ1LC0xMjQ1MjgwMzQ5LDI5MTky
+Njk2NF19
 -->
