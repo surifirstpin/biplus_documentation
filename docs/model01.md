@@ -29,6 +29,7 @@ A model is a customized gateway into the database for accessing data as per busi
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model2.png)
 
 - **Database** Choose the database for configuration. All the selected databases are visible under **Selected Databases** section.
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/model3.png)
 
@@ -645,11 +646,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQwNDQ3NSwxOTg0OTk0NTE2LC00OT
-gzMjQwOTYsLTE3Mjc0MzUyMjAsNDc1OTEwMzgwLDEwMTEwNTcz
-NzUsNzEzMjc1NDI4LDc2ODQ1ODY4NSwyMDQ4NzgxMzMyLC0xND
-A2Njg5OTYwLC01MTQ5MzYxMjgsMTkyMzA4OTg3NSwtNTU3OTIy
-NDA3LDIxNDczMjcxNTUsLTMzOTk3MDY2NSwtMTkzNTIwNzc3OS
-wxMTk4MTEzNzMzLDE0MTQ0MzQ0NCwtMTgxMDM5MDc5NSwyMDg2
-NTk0NzQ3XX0=
+eyJoaXN0b3J5IjpbMTc5MzY2NDgxOSwtMTI3NDA0NDc1LDE5OD
+Q5OTQ1MTYsLTQ5ODMyNDA5NiwtMTcyNzQzNTIyMCw0NzU5MTAz
+ODAsMTAxMTA1NzM3NSw3MTMyNzU0MjgsNzY4NDU4Njg1LDIwND
+g3ODEzMzIsLTE0MDY2ODk5NjAsLTUxNDkzNjEyOCwxOTIzMDg5
+ODc1LC01NTc5MjI0MDcsMjE0NzMyNzE1NSwtMzM5OTcwNjY1LC
+0xOTM1MjA3Nzc5LDExOTgxMTM3MzMsMTQxNDQzNDQ0LC0xODEw
+MzkwNzk1XX0=
 -->
