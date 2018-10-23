@@ -281,6 +281,7 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 - Click **OK** after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image,
 
 
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)
 
@@ -366,11 +367,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0NTYzODk0LC0xMzg3NzE5MDc4LC0xOT
-AxOTUzODkyLDE3MzYyODIyNDgsLTkwOTAxMDU1NCwtMTA1OTQ0
-MDA5NCwxOTI4MzEwODA0LC0xODIwNDUxODE0LC01MzQ4OTcwMj
-YsMjEwNjM4MTk1MCw4MzY1NDA1NzAsMTQ4NzMxNTMwOCwxMDU4
-MjUwODg5LC05MzMyMTM5NzksMzc3NDI0NDM2LDE2NTg2Mjc2MD
-ksMTY4MzM0MjkwNSw2Njc4NTkxMzksOTEwMzg2NDQ0LDE5NDA2
-NzAxMzBdfQ==
+eyJoaXN0b3J5IjpbLTQ2NjY5MzA0OCw0MzQ1NjM4OTQsLTEzOD
+c3MTkwNzgsLTE5MDE5NTM4OTIsMTczNjI4MjI0OCwtOTA5MDEw
+NTU0LC0xMDU5NDQwMDk0LDE5MjgzMTA4MDQsLTE4MjA0NTE4MT
+QsLTUzNDg5NzAyNiwyMTA2MzgxOTUwLDgzNjU0MDU3MCwxNDg3
+MzE1MzA4LDEwNTgyNTA4ODksLTkzMzIxMzk3OSwzNzc0MjQ0Mz
+YsMTY1ODYyNzYwOSwxNjgzMzQyOTA1LDY2Nzg1OTEzOSw5MTAz
+ODY0NDRdfQ==
 -->
