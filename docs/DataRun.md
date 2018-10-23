@@ -15,7 +15,7 @@ Analysis section is a starting point, for a building query.  it is designed in s
 
 A **Dimension** is a group of data and **Measure** is information about group of data and they collectively acts as fundamental building blocks for a query.
 
-> **For Instance:** **Name of the Employee** is defined as dimension and **Salary of the Employee** is defined as Measure.
+> **For Instance :** **Name of the Employee** is defined as dimension and **Salary of the Employee** is defined as Measure.
  
  **To retrieve the data in analysis section follow the below steps,**
  
@@ -366,11 +366,11 @@ To download a report, click on **Download ( icon)** button as shown in the image
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODc3MTkwNzgsLTE5MDE5NTM4OTIsMT
-czNjI4MjI0OCwtOTA5MDEwNTU0LC0xMDU5NDQwMDk0LDE5Mjgz
-MTA4MDQsLTE4MjA0NTE4MTQsLTUzNDg5NzAyNiwyMTA2MzgxOT
-UwLDgzNjU0MDU3MCwxNDg3MzE1MzA4LDEwNTgyNTA4ODksLTkz
-MzIxMzk3OSwzNzc0MjQ0MzYsMTY1ODYyNzYwOSwxNjgzMzQyOT
-A1LDY2Nzg1OTEzOSw5MTAzODY0NDQsMTk0MDY3MDEzMCwtMTE3
-ODE0OTkyN119
+eyJoaXN0b3J5IjpbODgyNjc4NTM0LC0xMzg3NzE5MDc4LC0xOT
+AxOTUzODkyLDE3MzYyODIyNDgsLTkwOTAxMDU1NCwtMTA1OTQ0
+MDA5NCwxOTI4MzEwODA0LC0xODIwNDUxODE0LC01MzQ4OTcwMj
+YsMjEwNjM4MTk1MCw4MzY1NDA1NzAsMTQ4NzMxNTMwOCwxMDU4
+MjUwODg5LC05MzMyMTM5NzksMzc3NDI0NDM2LDE2NTg2Mjc2MD
+ksMTY4MzM0MjkwNSw2Njc4NTkxMzksOTEwMzg2NDQ0LDE5NDA2
+NzAxMzBdfQ==
 -->
