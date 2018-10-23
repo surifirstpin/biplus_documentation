@@ -296,7 +296,6 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 - **Data Field** choose the data field to display it on map.	
 
 - **Tip Fields** select numbers of data fields to be displayed on map.
-
 - **Colour Field** specifies which field to be coloured.
 
 - **Colour From & To** specify the colour specific range of values in map region.
@@ -345,18 +344,18 @@ Horizontal Bar charts are used to compare data across different categories horiz
 
 -  **Align**   it defines the position of the label relative to the anchor point position and direction. Its value can be expressed by one of the following string presets:
 
-   -   **start** the label is positioned before the anchor point, following the same direction
-   -   **end** the label is positioned after the anchor point, following the same direction
-   -   **center (default)** the label is centered on the anchor point
-   -   **right** the label is positioned to the right of the anchor point (0°)
-   -   **bottom** the label is positioned to the bottom of the anchor point (90°)
-      -   **left** the label is positioned to the left of the anchor point (180°)
-   -   **top** the label is positioned to the top of the anchor point (270°)
+   -   **Start** the label is positioned before the anchor point, following the same direction
+   -   **End** the label is positioned after the anchor point, following the same direction
+   -   **Center (default)** the label is centered on the anchor point
+   -   **Right** the label is positioned to the right of the anchor point (0°)
+   -   **Bottom** the label is positioned to the bottom of the anchor point (90°)
+      -   **Left** the label is positioned to the left of the anchor point (180°)
+   -   **Top** the label is positioned to the top of the anchor point (270°)
   - **Anchor** The label position is calculated based on the anchor option. AcuBi supports Following positioning.
 
-    -   **center  (default)** aligns the Label in center.
-    -   **start** aligns the the label at lowest boundary.
-    -   **end** aligns the label at highest boundary.
+    -   **Center  (default)** aligns the Label in center.
+    -   **Start** aligns the the label at lowest boundary.
+    -   **End** aligns the label at highest boundary.
     
 - **Align Negative** It will enable the negative values to be displayed below range  `0`.
  
@@ -473,11 +472,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTkyMTQ0OSwtMTc2NDU3NTYzNyw2NT
-I3NTEzMDMsLTM1NDg0NDk4OSwtMTMzNjgxODQzNSwtOTA0OTc5
-NjM0LDU3NTI0MDAzLC01NjUzMjc4NTksLTIwNzQ2NjgzOTksLT
-c4ODU2NDY3LC01NjY1OTU5MTYsLTE2MjQ1ODI5NjQsLTk1OTQw
-ODY4NywtNzUzNjAzMTMsLTUzMTE0Njg3MCwtMjM4MTkwOTQyLC
-0zMTEzMzU3OCw0NzM4NzYyNTAsLTEyMzcxMDM0NTMsLTkwMTQ3
-ODIwNV19
+eyJoaXN0b3J5IjpbMTIyNTI0MjExNywtODQ5OTIxNDQ5LC0xNz
+Y0NTc1NjM3LDY1Mjc1MTMwMywtMzU0ODQ0OTg5LC0xMzM2ODE4
+NDM1LC05MDQ5Nzk2MzQsNTc1MjQwMDMsLTU2NTMyNzg1OSwtMj
+A3NDY2ODM5OSwtNzg4NTY0NjcsLTU2NjU5NTkxNiwtMTYyNDU4
+Mjk2NCwtOTU5NDA4Njg3LC03NTM2MDMxMywtNTMxMTQ2ODcwLC
+0yMzgxOTA5NDIsLTMxMTMzNTc4LDQ3Mzg3NjI1MCwtMTIzNzEw
+MzQ1M119
 -->
