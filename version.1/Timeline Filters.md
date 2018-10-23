@@ -278,7 +278,7 @@
 |  **Example** | **Description** |
 |  ------ | ------ |
 |  day in year n to date | Every year of  first day to  nth day |
-|  day in month n to dtae | Every  month of first day to nth day |
+|  day in month n to date | Every  month of first day to nth day |
 |  day in quarter n to date | Every quarter of first day to nth day |
 |  day in week n to date | Every week of first  day to nth day |
 |  week in year n to date | Every year of first week to nth week |
@@ -296,9 +296,9 @@
 |  Date (between) | From Zero hour of the first selected date to the last hour of the second selected date |
 |  Date (Not between) | From Zero hour of the first selected date to the last hour of the second selected date |
 |  Date (less or equal) | All the data before the zero hour of the selected date |
-|  WhenMadedate(greater or equal) | All the data after the last hour of the selected date |
-|  WhenMadedate(Is Not Null) | Data where date field is not Null |
-|  WhenMadedate(Is Null) | Data where date field is Null |
+|  WhenMadeDate(greater or equal) | All the data after the last hour of the selected date |
+|  WhenMadeDate(Is Not Null) | Data where date field is not Null |
+|  WhenMadeDate(Is Null) | Data where date field is Null |
 |  WhenMade(date_month)(Is Not Null) | Data where date_month field (month number in the year) is not Null |
 |  WhenMade(date_month)(Is Null) | Data where date_month field (month number in the year) is Null |
 |  WhenMade(date_quarter)(Is Not Null) | Data where date_quarter field (quarter number in the year) is not Null |
@@ -308,6 +308,6 @@
 |  WhenMade(date_hour)(Is Not Null) | Data where date_hour field (hour number in the year) is not Null |
 |  WhenMade(date_hour)(Is Null) | Data where date_hour field (hour number in the year) is Null |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5MTU2MDAwLC0xODEwNzg0NTIwLC0xOD
-UwNzM5NTc1LDUzMTY0NjM2MywzMjM1NjAyNjVdfQ==
+eyJoaXN0b3J5IjpbMTAzODQyODI4MiwtMTgxMDc4NDUyMCwtMT
+g1MDczOTU3NSw1MzE2NDYzNjMsMzIzNTYwMjY1XX0=
 -->
