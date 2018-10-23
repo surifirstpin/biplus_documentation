@@ -78,6 +78,7 @@
 |  last n full months | data belongs to the last n completed months with reference to the current point of time<br/>(month resembles start date of month to last date of month) |
 |  last n full quarters | data belongs to the last n completed quarters with reference to the current point of time<br/>(quarter resembles start date to the last date of te quarter) |
 |  last n full years | data belongs to the last n completed years with reference to the current point of time<br/>(year resembles start date to the last date of the year) |
+
 ## next & ‘n’
 |  **Example** | **Description** |
 |  ------ | ------ |
@@ -307,6 +308,6 @@
 |  WhenMade(date_hour)(Is Not Null) | Data where date_hour field (hour number in the year) is not Null |
 |  WhenMade(date_hour)(Is Null) | Data where date_hour field (hour number in the year) is Null |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTk3Mjc0OCwtMTgxMDc4NDUyMCwtMT
+eyJoaXN0b3J5IjpbMTkzNDk0MjIxNCwtMTgxMDc4NDUyMCwtMT
 g1MDczOTU3NSw1MzE2NDYzNjMsMzIzNTYwMjY1XX0=
 -->
