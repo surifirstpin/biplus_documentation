@@ -99,7 +99,7 @@
 |  next n full days | data belongs to the next n completed days with reference to the current point of time (if data exists) |
 |  next n full weeks | data belongs to the next n completed weeks with reference to the current point of time (if data exists)<br/>(week resembles start date of week to next date of week) |
 |  next n full months | data belongs to the next n completed months with reference to the current point of time (if data exists)<br/>(month resembles start date of month to next date of month) |
-|  next n full quarters | data belongs to the next n completed quarters with reference to the current point of time (if data exists)<br/>(quarter resembles start date to the next date of te quarter) |
+|  next n full quarters | data belongs to the next n completed quarters with reference to the current point of time (if data exists)<br/>(quarter resembles start date to the next date of the quarter) |
 |  next n full years | data belongs to the next n completed years with reference to the current point of time (if data exists)<br/>(year resembles start date to the next date of the year) |
 
 ## Ago
@@ -131,11 +131,11 @@
 |  before n seconds | data from the beginning to exactly ‘n’ seconds before the current point of time |
 |  before n minutes | data from the beginning to exactly ‘n’ minutes before the current point of time |
 |  before n hours | data from the beginning to exactly ‘n’ hours before the current point of time |
-|  beofre n days | data from the beginning to exactly ‘n’ days before the current point of time |
+|  before n days | data from the beginning to exactly ‘n’ days before the current point of time |
 |  before n weeks | data from the beginning to exactly ‘n’ weeks before the current point of time<br/>(week here resembles 7 days and not from start date of a week to end date of week) |
 |  before n months | data from the beginning to exactly ‘n’ month before the current point of time<br/>(month here resembles 30 days and not from start date of a month to end date of month) |
 |  before n quarters | data from the beginning to exactly ‘n’ quarter before the current point of time <br/>(quarter here resembles 90 days and not from start date of a quarter to end date of quarter) |
-|  befroe n years | data from the beginning to exactly ‘n’ years before the current point of time<br/>(year here resembles 365 days and not from start date of a year to end date of year) |
+|  before n years | data from the beginning to exactly ‘n’ years before the current point of time<br/>(year here resembles 365 days and not from start date of a year to end date of year) |
 
 ## before – n – full
 |  **Example** | **Description** |
@@ -145,7 +145,7 @@
 |  before n full hours | data from beginning to exactly  ‘n’ completed hours before the current point of time |
 |  before n full days | data from beginning to exactly  ‘n’ completed days before the current point of time |
 |  before n full weeks | data from beginning to exactly  ‘n’ completed Weeks before the current point of time (excludes current week)<br/>(week here resembles time between start date of the week to last date of the week) |
-|  beforen full months | data from beginning to exactly  ‘n’ completed months before the current point of time (excludes current month)<br/>(week here resembles time between start date of the month to last date of the month) |
+|  before full months | data from beginning to exactly  ‘n’ completed months before the current point of time (excludes current month)<br/>(week here resembles time between start date of the month to last date of the month) |
 |  before n full quarters | data from beginning to exactly  ‘n’ completed quarters before the current point of time (excludes current quarter)<br/>(week here resembles time between start date of the quarter to last date of the quarter) |
 |  before n full years | data from beginning to exactly  ‘n’ completed year before the current point of time (excludes current year)<br/>(week here resembles time between start date of the year to last date of the year)|
 
@@ -155,7 +155,7 @@
 |  after n seconds | data from exactly ‘n’ seconds after the current point of time to the last available record |
 |  after n minutes | data from exactly ‘n’ minutes after the current point of time to the last available record |
 |  after n hours | data from exactly ‘n’ hours after the current point of time to the last available record |
-|  aftter n days | data from exactly ‘n’ days after the current point of time to the last available record |
+|  after n days | data from exactly ‘n’ days after the current point of time to the last available record |
 |  after n weeks | data from exactly ‘n’ weeks after the current point of time to the last available record<br/>(week here resembles 7 days and not from start date of a week to end date of week) |
 |  after n months | data from exactly ‘n’ months after the current point of time to the last available record<br/>(month here resembles 30 days and not from start date of a month to end date of month) |
 |  after n quarters | data from exactly ‘n’ quarter after the current point of time to the last available record<br/>(quarter here resembles 90 days and not from start date of a quarter to end date of quarter) |
@@ -172,7 +172,7 @@
 |  after n full weeks | data from exactly ‘n’ completed weeks after the current point of time to the last available record <br/>(excluded the current week and week here resembles 7 days and not from start date of a week to end date of week) |
 |  after n full months | data from exactly ‘n’ completed months after the current point of time to the last available record<br/>(excluded the current month and month here resembles 30 days and not from start date of a month to end date of month) |
 |  after n full quarters | data from exactly ‘n’ completed quarter after the current point of time to the last available record<br/>(excluded the current quarter and quarter here resembles 90 days and not from start date of a quarter to end date of quarter) |
-|  after n full years | data from exactly ‘n’ completed years after the current point of time to the last available record<br/>(excluded the currentyear and year here resembles 365 days and not from start date of a year to end date of year) |
+|  after n full years | data from exactly ‘n’ completed years after the current point of time to the last available record<br/>(excluded the current year and year here resembles 365 days and not from start date of a year to end date of year) |
 
 ## over series
 
@@ -308,6 +308,6 @@
 |  WhenMade(date_hour)(Is Not Null) | Data where date_hour field (hour number in the year) is not Null |
 |  WhenMade(date_hour)(Is Null) | Data where date_hour field (hour number in the year) is Null |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDk0MjIxNCwtMTgxMDc4NDUyMCwtMT
-g1MDczOTU3NSw1MzE2NDYzNjMsMzIzNTYwMjY1XX0=
+eyJoaXN0b3J5IjpbODU5MTU2MDAwLC0xODEwNzg0NTIwLC0xOD
+UwNzM5NTc1LDUzMTY0NjM2MywzMjM1NjAyNjVdfQ==
 -->
