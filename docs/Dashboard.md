@@ -4,7 +4,7 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 
 ## View Dashboard
 
- To view already existing dashboard navigate to dashboard section--> dashboards, then click the dashboard report you want to view.
+ To view already existing dashboard navigate to dashboard section --> dashboards, then click the dashboard report you want to view.
    
 
 To edit dashboard click on **Edit** icon.
@@ -12,7 +12,6 @@ To edit dashboard click on **Edit** icon.
 To delete dashboard click on **Delete** icon.
 
 To set a dashboard to home page click on **Set on homepage** icon.
-
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b56b16b1de0a7088433221a92efcb565b3baae2e/images/view%20-dash.png)
  **Image 1**
@@ -158,11 +157,11 @@ AcuBi make it easier to view the dashboard list, in mobile devices easily and it
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODQyNDc4MSwtMzAzODUzMDUsLTE1ND
-c1MDQ4NzUsMTA2MTQzMTAyOSwtNTUzNDg1MjExLC0xNjA2ODcz
-OTEwLDE1MDk1OTUyMjksMTM0NTg4NzQ1OSwxNzMxMjk5NTQ3LC
-0xODMzMjc1MjcxLDk2MzMyNDkxNCwtOTY4ODgzNDksNTg2NTQz
-MTgyLDExNzUxOTQ0NTksLTEwNzIyMTY4MjEsLTE3MjQ1NjYyMD
-MsMTM3NDUwNzk2MywxNzcwOTA3OTQ3LDE4NjU4MTM0OSwtMzcw
-Mzk5MjE2XX0=
+eyJoaXN0b3J5IjpbMTQ4ODI2OTUxMywtNTk4NDI0NzgxLC0zMD
+M4NTMwNSwtMTU0NzUwNDg3NSwxMDYxNDMxMDI5LC01NTM0ODUy
+MTEsLTE2MDY4NzM5MTAsMTUwOTU5NTIyOSwxMzQ1ODg3NDU5LD
+E3MzEyOTk1NDcsLTE4MzMyNzUyNzEsOTYzMzI0OTE0LC05Njg4
+ODM0OSw1ODY1NDMxODIsMTE3NTE5NDQ1OSwtMTA3MjIxNjgyMS
+wtMTcyNDU2NjIwMywxMzc0NTA3OTYzLDE3NzA5MDc5NDcsMTg2
+NTgxMzQ5XX0=
 -->
