@@ -47,7 +47,7 @@ A model is a customized gateway into the database for accessing data as per busi
 
     -   **Private**  report saved in private section are accessed by the existing user only.
     -   **Public**  report is saved in public section are accessed by all the users.
-    
+   
     -   **Share**  report saved under share section are accessed by specific group of users only.
 
 ![
@@ -646,11 +646,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzY2NDgxOSwtMTI3NDA0NDc1LDE5OD
-Q5OTQ1MTYsLTQ5ODMyNDA5NiwtMTcyNzQzNTIyMCw0NzU5MTAz
-ODAsMTAxMTA1NzM3NSw3MTMyNzU0MjgsNzY4NDU4Njg1LDIwND
-g3ODEzMzIsLTE0MDY2ODk5NjAsLTUxNDkzNjEyOCwxOTIzMDg5
-ODc1LC01NTc5MjI0MDcsMjE0NzMyNzE1NSwtMzM5OTcwNjY1LC
-0xOTM1MjA3Nzc5LDExOTgxMTM3MzMsMTQxNDQzNDQ0LC0xODEw
-MzkwNzk1XX0=
+eyJoaXN0b3J5IjpbMTc0NzcxOTY0NywxNzkzNjY0ODE5LC0xMj
+c0MDQ0NzUsMTk4NDk5NDUxNiwtNDk4MzI0MDk2LC0xNzI3NDM1
+MjIwLDQ3NTkxMDM4MCwxMDExMDU3Mzc1LDcxMzI3NTQyOCw3Nj
+g0NTg2ODUsMjA0ODc4MTMzMiwtMTQwNjY4OTk2MCwtNTE0OTM2
+MTI4LDE5MjMwODk4NzUsLTU1NzkyMjQwNywyMTQ3MzI3MTU1LC
+0zMzk5NzA2NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMywxNDE0
+NDM0NDRdfQ==
 -->
