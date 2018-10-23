@@ -361,12 +361,12 @@ Using drill down you can view more deeper insights of the data.
 
 ## Download Data
 
-To download a report, click on **Download ( icon)** button as shown in the image below .
+To download a report, click on **Download (icon)** button as shown in the image below .
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyNjc4NTM0LC0xMzg3NzE5MDc4LC0xOT
+eyJoaXN0b3J5IjpbNDM0NTYzODk0LC0xMzg3NzE5MDc4LC0xOT
 AxOTUzODkyLDE3MzYyODIyNDgsLTkwOTAxMDU1NCwtMTA1OTQ0
 MDA5NCwxOTI4MzEwODA0LC0xODIwNDUxODE0LC01MzQ4OTcwMj
 YsMjEwNjM4MTk1MCw4MzY1NDA1NzAsMTQ4NzMxNTMwOCwxMDU4
