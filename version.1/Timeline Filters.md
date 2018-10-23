@@ -289,6 +289,7 @@
 |  quarter in year n to date | Every year of first quarter to nth month |
 
 ## Regular Filters
+
 |  **Example** | **Description** |
 |  ------ | ------ |
 |  Date (equal) | From Zero hour to last hour of the selected date through calendar |
@@ -308,6 +309,7 @@
 |  WhenMade(date_hour)(Is Not Null) | Data where date_hour field (hour number in the year) is not Null |
 |  WhenMade(date_hour)(Is Null) | Data where date_hour field (hour number in the year) is Null |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODQyODI4MiwtMTgxMDc4NDUyMCwtMT
-g1MDczOTU3NSw1MzE2NDYzNjMsMzIzNTYwMjY1XX0=
+eyJoaXN0b3J5IjpbMTY3OTM4MzkxMiwxMDM4NDI4MjgyLC0xOD
+EwNzg0NTIwLC0xODUwNzM5NTc1LDUzMTY0NjM2MywzMjM1NjAy
+NjVdfQ==
 -->
