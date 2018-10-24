@@ -13,7 +13,7 @@ Get Informed with the insights and resources provided by us.
 We create an ability to turn your actions into opportunity In hand.
  
 
-##       Introducing FirstPin Technologies
+## Introducing FirstPin Technologies
 ### A Company Built For You
 
 FirstPin Technologies is a outsourced product based, business analytic and service oriented company. we harness  the power of Cloud, Automation, Data Analytics and all the Emerging Technologies to help our clients adapt to digital world and make them successful by helping them to release there products into the market fast.  
@@ -53,11 +53,11 @@ Phone   			Email		  LinkedIn
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Mzg3NzgwMCwtMTgxNDYxOTI0MCwtMz
-I2MTM3ODE0LC0xODM2MTkxMjkwLC0xMDg5Mzc3ODQ0LDE3MDgz
-MTk5MTYsLTE4MTYxMTMzMDAsLTIwNDYwMzM1NzAsLTU2NTEwND
-QyLDc2NzU3NDgwLC0xNjU3NzA1MjYsNzcxNzcyNTQzLDYxNDkw
-MjY0NywtOTYwNDcyODQ3LC05MDQwNDc0NCwtMTAwNjQ5NzU5My
-wtMTg5MzQ1OTc0MywxNDQyMDc3MTQ3LC0xNTE1ODY0NTI5LDMw
-MTg3NzY5N119
+eyJoaXN0b3J5IjpbLTE4MTQ2MTkyNDAsLTE4MTQ2MTkyNDAsLT
+MyNjEzNzgxNCwtMTgzNjE5MTI5MCwtMTA4OTM3Nzg0NCwxNzA4
+MzE5OTE2LC0xODE2MTEzMzAwLC0yMDQ2MDMzNTcwLC01NjUxMD
+Q0Miw3Njc1NzQ4MCwtMTY1NzcwNTI2LDc3MTc3MjU0Myw2MTQ5
+MDI2NDcsLTk2MDQ3Mjg0NywtOTA0MDQ3NDQsLTEwMDY0OTc1OT
+MsLTE4OTM0NTk3NDMsMTQ0MjA3NzE0NywtMTUxNTg2NDUyOSwz
+MDE4Nzc2OTddfQ==
 -->
