@@ -126,7 +126,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 **8.** To view the column data in ascending or descending orders, click on  **Order**  and add the column fields in order section.
          **a.** To add more sorting orders to a report click **Add Order**.
-         **b.** To delete, sorting for fields click **Ban Icon**.
+         **b.** To delete, sorting for fields click **Ban Icon.**
 
 **9.** To hide the **Filter** or **Order** sections, click on angle-double-up icon on to far right of the order section. To un-hide the same click on angle-double-down icon.
 
@@ -309,11 +309,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxNTEzMzE5LC0xODA0NzE4NTEwLDE5OD
-AzNDI2NjYsMTQwMTcyNzMwNiw3MTYxODAyOTgsMTI4NTk1MjA1
-MSw3MTM1MTgwMTgsLTg4NzkwMDIwNCwxNTUwNzMyNTE3LC0xNj
-Y5NDA0MDEsLTI1MDk2NDY2NSw1NDY0MDI1MDgsLTI1NzI1MjEy
-NCwtMTU0MDY5NDM5LDE0NzQ5NzYwOTUsMTg4NzM0Njg4NywtMz
-I5Mjc1NTM5LC01MDg0NjA0OSwyOTIxODEwOTUsMTU1MjY2MzQ0
-NF19
+eyJoaXN0b3J5IjpbLTEyNzMwMjgwOSw5ODE1MTMzMTksLTE4MD
+Q3MTg1MTAsMTk4MDM0MjY2NiwxNDAxNzI3MzA2LDcxNjE4MDI5
+OCwxMjg1OTUyMDUxLDcxMzUxODAxOCwtODg3OTAwMjA0LDE1NT
+A3MzI1MTcsLTE2Njk0MDQwMSwtMjUwOTY0NjY1LDU0NjQwMjUw
+OCwtMjU3MjUyMTI0LC0xNTQwNjk0MzksMTQ3NDk3NjA5NSwxOD
+g3MzQ2ODg3LC0zMjkyNzU1MzksLTUwODQ2MDQ5LDI5MjE4MTA5
+NV19
 -->
