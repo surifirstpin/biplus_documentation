@@ -1,6 +1,6 @@
 <center><h1> Reports</h1></center>
 
- Reports in **AcuBi** extract the data effectively and collaborate efficiently instead of accessing the data in a regular traditional manner. Just in matters of seconds, you can confess a story in what way your organisation is making a difference to the world.
+ Reports in **AcuBi** extract the data effectively and collaborate efficiently, instead of accessing the data in a regular traditional manner. Just in matters of seconds, you can confess a story in what way your organisation is making a difference to the world.
 
 ## View Report
 
@@ -41,6 +41,7 @@ Apply report filter **Sum count equals to 1** in Analysis section and the data r
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ff3c3a540e561e24e5ffdc94929079f309b5f3fc/images
 /filter_reports1.png)
+
 
 **For Example :**  in case if we are choosing timeline under date filters, you have an ability to check the present , previous or a specific range of data as per your business requirement ( Refer below image). 
 
@@ -120,10 +121,11 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDUzMDkwMiwxNDkzNjAyMzQ0LC0xOT
-Y2MDEzNDMyLDg1MTcxOTA2NCwtMTIwNTIyOTQ5MSwxMTI3MDMw
-ODU5LC0zMzI5MDczNzUsNjkyNDg2MjA2LDE0MDk0MTE5MTAsMT
-YxNjE5NTEwNywxNjIyODg2MywzMDA2NzA3MjUsMTgyMjg5OTQz
-OSwtODExMTA2OTgyLC0xNTUwODI3ODU3LC0xMzIyMjM1Nzk4LD
-E3MzA5Nzk3OTgsLTEyNTY5NzQ0MTFdfQ==
+eyJoaXN0b3J5IjpbLTEwMDEwNjE5NjQsMTAwMDUzMDkwMiwxND
+kzNjAyMzQ0LC0xOTY2MDEzNDMyLDg1MTcxOTA2NCwtMTIwNTIy
+OTQ5MSwxMTI3MDMwODU5LC0zMzI5MDczNzUsNjkyNDg2MjA2LD
+E0MDk0MTE5MTAsMTYxNjE5NTEwNywxNjIyODg2MywzMDA2NzA3
+MjUsMTgyMjg5OTQzOSwtODExMTA2OTgyLC0xNTUwODI3ODU3LC
+0xMzIyMjM1Nzk4LDE3MzA5Nzk3OTgsLTEyNTY5NzQ0MTFdfQ==
+
 -->
