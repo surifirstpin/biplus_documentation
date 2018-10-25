@@ -49,10 +49,10 @@ Mobile Based Application
 ## TAKE THE FIRST STEP
 
 Connect us
-Phone   			Email		  LinkedIn
+Phone 	Email		  LinkedIn
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQ2MTkyNDAsLTMyNjEzNzgxNCwtMT
-gzNjE5MTI5MCwtMTA4OTM3Nzg0NF19
+eyJoaXN0b3J5IjpbMTEyMDc0OTkyOCwtMTgxNDYxOTI0MCwtMz
+I2MTM3ODE0LC0xODM2MTkxMjkwLC0xMDg5Mzc3ODQ0XX0=
 -->
