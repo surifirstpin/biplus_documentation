@@ -60,8 +60,7 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
 #### Customer Success
 When it comes to business establishment and success, AcuBi software is an innovation that has ability to share and collaborate ideas efficiently.
 
-# F
-`ER AND SMARTER DECISION MAKING
+# FASTER AND SMARTER DECISION MAKING
 
 #### Benefits of Live Data
 
@@ -159,7 +158,7 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDA3NDg1MSwtMTc2MjcwNTI3OSwtNz
+eyJoaXN0b3J5IjpbLTE2MTQ2ODAxNywtMTc2MjcwNTI3OSwtNz
 Y3MDI1NzQ1LC0xNDMwMjY3ODExLDcyMjgxNDA0NSwtMTQ2OTc3
 MDEyOSwxMjM2NzIxMzYxLDEyMTM4NjE5NjksMTc2ODIzNzE1Ni
 wtMTU4OTA0MjMyMCwtNDcwMjg1MTgyLDE4MjA3NjQyNjIsMzMz
