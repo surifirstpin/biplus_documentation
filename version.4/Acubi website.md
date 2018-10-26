@@ -1,6 +1,4 @@
 
-
-
 # TURN YOUR INSIGHTS INTO ACTIONS
 
 AcuBi Provides A Single, Integrated Enterprise Analytics Platform By Delivering Faster And Better Insights For The Whole Business, Regardless Of Any Action Or Industry.
@@ -14,6 +12,7 @@ AcuBi Provides A Single, Integrated Enterprise Analytics Platform By Delivering 
 Start Transforming Your Data Into Live Dashboards And Reports In Minutes, By Helping You To Find Answers To Your Most Important Business Queries.
 
 # MULTI DEVICE ACCESSIBILITY
+
 **DESKTOP** **MOBILE** **TABLET**
 
 It Provides Flexibility Of Getting Connected To Data From Desktop, Tablet And Mobile Devices Where Ever You Are.
@@ -159,11 +158,11 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzAyNjc4MTEsNzIyODE0MDQ1LC0xND
-Y5NzcwMTI5LDEyMzY3MjEzNjEsMTIxMzg2MTk2OSwxNzY4MjM3
-MTU2LC0xNTg5MDQyMzIwLC00NzAyODUxODIsMTgyMDc2NDI2Mi
-wzMzM1MDk2MzQsNzQ0MTMzNDIsLTMyMzA5NTE4NCwtNDM4Nzc0
-ODYwLC05MzY5NTMyNiwtMTE0NzgwMzI3MSwtNTc5OTQzNzUxLC
-03NDE4MjMyNDksMTUyOTk1OTkxNywxMDgxODE0NDQ3LDEzNzUz
-MTYyNTNdfQ==
+eyJoaXN0b3J5IjpbLTc2NzAyNTc0NSwtMTQzMDI2NzgxMSw3Mj
+I4MTQwNDUsLTE0Njk3NzAxMjksMTIzNjcyMTM2MSwxMjEzODYx
+OTY5LDE3NjgyMzcxNTYsLTE1ODkwNDIzMjAsLTQ3MDI4NTE4Mi
+wxODIwNzY0MjYyLDMzMzUwOTYzNCw3NDQxMzM0MiwtMzIzMDk1
+MTg0LC00Mzg3NzQ4NjAsLTkzNjk1MzI2LC0xMTQ3ODAzMjcxLC
+01Nzk5NDM3NTEsLTc0MTgyMzI0OSwxNTI5OTU5OTE3LDEwODE4
+MTQ0NDddfQ==
 -->
