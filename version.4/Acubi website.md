@@ -86,7 +86,7 @@ With AcuBi you have flexibility to integrate into your existing data infrastruct
 
 The component has been designed in such a way, that it ensure maximum speed and high performance by making calculation part more easy, with the help of powerful math engine in AcuBi.
 
-# **AcuBi** ADVANTAGES
+# **AcuBi** Advantages
 
 ## Analyse
 
@@ -158,11 +158,11 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzAyNTc0NSwtMTQzMDI2NzgxMSw3Mj
-I4MTQwNDUsLTE0Njk3NzAxMjksMTIzNjcyMTM2MSwxMjEzODYx
-OTY5LDE3NjgyMzcxNTYsLTE1ODkwNDIzMjAsLTQ3MDI4NTE4Mi
-wxODIwNzY0MjYyLDMzMzUwOTYzNCw3NDQxMzM0MiwtMzIzMDk1
-MTg0LC00Mzg3NzQ4NjAsLTkzNjk1MzI2LC0xMTQ3ODAzMjcxLC
-01Nzk5NDM3NTEsLTc0MTgyMzI0OSwxNTI5OTU5OTE3LDEwODE4
-MTQ0NDddfQ==
+eyJoaXN0b3J5IjpbLTE2MTQ2ODAxNywtNzY3MDI1NzQ1LC0xND
+MwMjY3ODExLDcyMjgxNDA0NSwtMTQ2OTc3MDEyOSwxMjM2NzIx
+MzYxLDEyMTM4NjE5NjksMTc2ODIzNzE1NiwtMTU4OTA0MjMyMC
+wtNDcwMjg1MTgyLDE4MjA3NjQyNjIsMzMzNTA5NjM0LDc0NDEz
+MzQyLC0zMjMwOTUxODQsLTQzODc3NDg2MCwtOTM2OTUzMjYsLT
+ExNDc4MDMyNzEsLTU3OTk0Mzc1MSwtNzQxODIzMjQ5LDE1Mjk5
+NTk5MTddfQ==
 -->
