@@ -427,18 +427,18 @@ Statement N;
 return `;   
 }
 /*END*/
-fname(value1, value2, value3, ..valueN)        * Call Function *
+fname(value1, value2, value3, ..valueN)                  * Call Function *
 ```
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/52b7c4357f0c07e4a89b14f018cf3d877a5ba4f3/images/cal_local_fucntion.png)
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4MDE1NTc4LDI4NTM2NDQ4MCwyODUzNj
-Q0ODAsLTE3NDYxMjQwNDEsLTExODE5MDE0OTAsLTY4OTY3MjIz
-OCwxOTA5NjU3NzI4LDE4MTY5ODA2NDAsLTMzNzA3Nzg2NCwtMT
-QwNzA2NTIxNSwtMTcxODM3NzcyMCwyMDg2OTgxOTE0LC0xNTQ3
-NzE2Mjc0LC0xODc5NzE5MTUxLC05NDQyNzAwNzUsMjA1NTI3MT
-czNSw3NTI3MDg1MzAsLTE0MjcwMjI5MDYsLTE4NzQ5Nzk2MDIs
-MjA4OTY5MTQzN119
+eyJoaXN0b3J5IjpbLTE0NTQ1ODEyMjIsMzk4MDE1NTc4LDI4NT
+M2NDQ4MCwyODUzNjQ0ODAsLTE3NDYxMjQwNDEsLTExODE5MDE0
+OTAsLTY4OTY3MjIzOCwxOTA5NjU3NzI4LDE4MTY5ODA2NDAsLT
+MzNzA3Nzg2NCwtMTQwNzA2NTIxNSwtMTcxODM3NzcyMCwyMDg2
+OTgxOTE0LC0xNTQ3NzE2Mjc0LC0xODc5NzE5MTUxLC05NDQyNz
+AwNzUsMjA1NTI3MTczNSw3NTI3MDg1MzAsLTE0MjcwMjI5MDYs
+LTE4NzQ5Nzk2MDJdfQ==
 -->
