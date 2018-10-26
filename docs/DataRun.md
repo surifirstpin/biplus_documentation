@@ -157,7 +157,7 @@ For **Measures**
 
 ## Display Totals
 
-**8.**    On selecting  **check box** for totals, the report is displayed with total sum values of the measure fields obtained.
+**8.**    On selecting  **Check box** for totals, the report is displayed with total sum values of the measure fields obtained.
 
 
  ## Display  Row Limit
@@ -365,11 +365,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjU2OTgwMiwxNTkzMDQyMzQwLC00Nj
-Y2OTMwNDgsNDM0NTYzODk0LC0xMzg3NzE5MDc4LC0xOTAxOTUz
-ODkyLDE3MzYyODIyNDgsLTkwOTAxMDU1NCwtMTA1OTQ0MDA5NC
-wxOTI4MzEwODA0LC0xODIwNDUxODE0LC01MzQ4OTcwMjYsMjEw
-NjM4MTk1MCw4MzY1NDA1NzAsMTQ4NzMxNTMwOCwxMDU4MjUwOD
-g5LC05MzMyMTM5NzksMzc3NDI0NDM2LDE2NTg2Mjc2MDksMTY4
-MzM0MjkwNV19
+eyJoaXN0b3J5IjpbLTk3OTg0NDA3NCwtMjMyNTY5ODAyLDE1OT
+MwNDIzNDAsLTQ2NjY5MzA0OCw0MzQ1NjM4OTQsLTEzODc3MTkw
+NzgsLTE5MDE5NTM4OTIsMTczNjI4MjI0OCwtOTA5MDEwNTU0LC
+0xMDU5NDQwMDk0LDE5MjgzMTA4MDQsLTE4MjA0NTE4MTQsLTUz
+NDg5NzAyNiwyMTA2MzgxOTUwLDgzNjU0MDU3MCwxNDg3MzE1Mz
+A4LDEwNTgyNTA4ODksLTkzMzIxMzk3OSwzNzc0MjQ0MzYsMTY1
+ODYyNzYwOV19
 -->
