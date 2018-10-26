@@ -323,7 +323,7 @@ currency : currency_symbol
 |  11 | Year_week | Extract year and respective week component |
 |  12  | Date     | Extracts respective date  |
 
-## User Defined Fields (UDF)
+## User Defined Fields ( UDF)
 
 AcuBi has an ability to create new fields in a view with all attributes that are applicable to a database field and with return value (“sql” section of the field) as any of the following options:
 
@@ -646,11 +646,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzcxOTY0NywxNzkzNjY0ODE5LC0xMj
-c0MDQ0NzUsMTk4NDk5NDUxNiwtNDk4MzI0MDk2LC0xNzI3NDM1
-MjIwLDQ3NTkxMDM4MCwxMDExMDU3Mzc1LDcxMzI3NTQyOCw3Nj
-g0NTg2ODUsMjA0ODc4MTMzMiwtMTQwNjY4OTk2MCwtNTE0OTM2
-MTI4LDE5MjMwODk4NzUsLTU1NzkyMjQwNywyMTQ3MzI3MTU1LC
-0zMzk5NzA2NjUsLTE5MzUyMDc3NzksMTE5ODExMzczMywxNDE0
-NDM0NDRdfQ==
+eyJoaXN0b3J5IjpbLTcyMDc3MDc1MSwxNzQ3NzE5NjQ3LDE3OT
+M2NjQ4MTksLTEyNzQwNDQ3NSwxOTg0OTk0NTE2LC00OTgzMjQw
+OTYsLTE3Mjc0MzUyMjAsNDc1OTEwMzgwLDEwMTEwNTczNzUsNz
+EzMjc1NDI4LDc2ODQ1ODY4NSwyMDQ4NzgxMzMyLC0xNDA2Njg5
+OTYwLC01MTQ5MzYxMjgsMTkyMzA4OTg3NSwtNTU3OTIyNDA3LD
+IxNDczMjcxNTUsLTMzOTk3MDY2NSwtMTkzNTIwNzc3OSwxMTk4
+MTEzNzMzXX0=
 -->
