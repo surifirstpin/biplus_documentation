@@ -17,9 +17,9 @@ Start Transforming Your Data Into Live Dashboards And Reports In Minutes, By Hel
 
 It Provides Flexibility Of Getting Connected To Data From Desktop, Tablet And Mobile Devices Where Ever You Are.
 
-# Why  AcuBi
+# Why  AcuBi 
 
- It Is Business Analytical Tool That Provides A Standard Insights Throughout The Organization And Streamline The Process By Providing An Ability To Use Live Data By Predicting Needs Of The Business.
+ AcuBi is a Business Analytical Tool That Provides A Standard Insights Throughout The Organization And Streamline The Process By Providing An Ability To Use Live Data By Predicting Needs Of The Business.
 
 # HIGH QUALITY DATA ANALYTICS AND REPORTING FOR ALL
 
@@ -158,11 +158,11 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyMjc4NTQzLC0xNjE0NjgwMTcsLTE3Nj
-I3MDUyNzksLTc2NzAyNTc0NSwtMTQzMDI2NzgxMSw3MjI4MTQw
-NDUsLTE0Njk3NzAxMjksMTIzNjcyMTM2MSwxMjEzODYxOTY5LD
-E3NjgyMzcxNTYsLTE1ODkwNDIzMjAsLTQ3MDI4NTE4MiwxODIw
-NzY0MjYyLDMzMzUwOTYzNCw3NDQxMzM0MiwtMzIzMDk1MTg0LC
-00Mzg3NzQ4NjAsLTkzNjk1MzI2LC0xMTQ3ODAzMjcxLC01Nzk5
-NDM3NTFdfQ==
+eyJoaXN0b3J5IjpbMTkwMzEyMTYyNSwtMTYxNDY4MDE3LC0xNz
+YyNzA1Mjc5LC03NjcwMjU3NDUsLTE0MzAyNjc4MTEsNzIyODE0
+MDQ1LC0xNDY5NzcwMTI5LDEyMzY3MjEzNjEsMTIxMzg2MTk2OS
+wxNzY4MjM3MTU2LC0xNTg5MDQyMzIwLC00NzAyODUxODIsMTgy
+MDc2NDI2MiwzMzM1MDk2MzQsNzQ0MTMzNDIsLTMyMzA5NTE4NC
+wtNDM4Nzc0ODYwLC05MzY5NTMyNiwtMTE0NzgwMzI3MSwtNTc5
+OTQzNzUxXX0=
 -->
