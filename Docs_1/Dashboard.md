@@ -68,12 +68,15 @@ After login into AcuBi Home Page, Click on Dashboard section.
    
     -   **Test Lookup**  to test the lookup.
    
-    -   **Multiple Selections**  refers to selection of list of multiple data.
-   
-    -   **Referred** The changes made on single lookup will be reflected on all the following reports based on the referred data.
-    
-  > **For Instance**  if we want to **refer** to country A then all states falling under that country will be updated based on the selection made.
+    -   **Multiple Selections**  enables the selection of list, for multiple data.
 
+   
+## Dependency Filters
+
+You can refer the existing lookup, based on which a new lookup is created to retrieve the data based of the referred lookup. In this way  you can extract the data depending on referred lookup field.
+
+   -   **Referred** on selecting the referred checkbox the following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
+ 
 **7.** **Report Listeners** 
 
 The Listeners option allows to register callbacks to be notified when an event is detected on a specific label.
@@ -104,19 +107,19 @@ The Listeners option allows to register callbacks to be notified when an event i
     
    -   **Privacy**  you can save the report in any one of the following privacy option.
     
-         -   **Private ()**  Dashboard saved in private section and accessed by the user itself.
-        
-           -   **Public ()**  Dashboard saved in public section and accessed by all the users.
-        
-            -   **Share ()**  Dashboard saved under share section and accessed by specific set of users.
-
+       -  **Private()** It enable access for user itself.
+  
+  -  **Public()**   It enable access for all the users. 
+  
+  -  **Share()** It enable access for specific set of users.
+  
 Select the tag in which you want to save **Dashboard Reports** and click on **Save.**
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1OTgzMzgxLDM2ODU5NzQyOSwxMzk2Nj
-I3MTMzLDE5MjIyOTE4MzIsMTY3NTg4ODUwMCwtMjEwNDc5MjEy
-LC0xNTU4MTUwNDIyXX0=
+eyJoaXN0b3J5IjpbLTEwMTIxNjQ0NzksMzg1OTgzMzgxLDM2OD
+U5NzQyOSwxMzk2NjI3MTMzLDE5MjIyOTE4MzIsMTY3NTg4ODUw
+MCwtMjEwNDc5MjEyLC0xNTU4MTUwNDIyXX0=
 -->
