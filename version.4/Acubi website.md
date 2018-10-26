@@ -38,7 +38,7 @@ Enable users to turn their raw data into actionable information by simplifying t
 
 AcuBi Streamlines workforce Planning, Performance Tracking, Analysis and improves the quality in a dynamic regulatory environment for all domains.
 
-# **AcuBi** IN ACTION
+# **AcuBi** In Action
 
 #### Connect to any Data Source
 
@@ -159,10 +159,11 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyODE0MDQ1LC0xNDY5NzcwMTI5LDEyMz
-Y3MjEzNjEsMTIxMzg2MTk2OSwxNzY4MjM3MTU2LC0xNTg5MDQy
-MzIwLC00NzAyODUxODIsMTgyMDc2NDI2MiwzMzM1MDk2MzQsNz
-Q0MTMzNDIsLTMyMzA5NTE4NCwtNDM4Nzc0ODYwLC05MzY5NTMy
-NiwtMTE0NzgwMzI3MSwtNTc5OTQzNzUxLC03NDE4MjMyNDksMT
-UyOTk1OTkxNywxMDgxODE0NDQ3LDEzNzUzMTYyNTNdfQ==
+eyJoaXN0b3J5IjpbLTE0MzAyNjc4MTEsNzIyODE0MDQ1LC0xND
+Y5NzcwMTI5LDEyMzY3MjEzNjEsMTIxMzg2MTk2OSwxNzY4MjM3
+MTU2LC0xNTg5MDQyMzIwLC00NzAyODUxODIsMTgyMDc2NDI2Mi
+wzMzM1MDk2MzQsNzQ0MTMzNDIsLTMyMzA5NTE4NCwtNDM4Nzc0
+ODYwLC05MzY5NTMyNiwtMTE0NzgwMzI3MSwtNTc5OTQzNzUxLC
+03NDE4MjMyNDksMTUyOTk1OTkxNywxMDgxODE0NDQ3LDEzNzUz
+MTYyNTNdfQ==
 -->
