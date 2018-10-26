@@ -5,7 +5,7 @@ This section provides information on how to view the existing files in AcuBi.
 
 ## Navigating to Saved Content 
 
-To view the saved content or files in AcuBi, Click on dashboard section. To view the files in folder view click **Folder View,** to view the files in list view click **List View**.
+To view the saved content or files in AcuBi, Click on dashboard section. To view the files in folder view click **Folder View,** to view the files in list view click **List View.**
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/54f7e3de626de02bf1385a480a0a645223cfeeb5/images/view_content.png)
 
@@ -24,11 +24,11 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODE5MzQyMCwxODM3NDQ0ODIwLDE3OT
-IxNDc5NDcsLTM0NDU5NDg0NiwtMTU2OTA0ODIyNiwxMzk5NzM2
-MCwtMTgxMzE0MDE3OSwxMTU5NjQzNDkwLDExOTUyNTM1MTEsNz
-AxNDc5MDQyLDE1MzY0NjkyNDgsLTc5NDMzOTMxNCwxNDY0NzQ4
-MjQwLC04MDA4NjczODQsNDk3OTYzMDI5LDEwMDY4ODA4NjYsMT
-I4NDU3NDQ1NywyMDAxMTYyOTc4LC0xMTAxMDg4OTcyLDE1NzM5
-NDU1NzBdfQ==
+eyJoaXN0b3J5IjpbMTgxNjkzMTM0MCwxODM4MTkzNDIwLDE4Mz
+c0NDQ4MjAsMTc5MjE0Nzk0NywtMzQ0NTk0ODQ2LC0xNTY5MDQ4
+MjI2LDEzOTk3MzYwLC0xODEzMTQwMTc5LDExNTk2NDM0OTAsMT
+E5NTI1MzUxMSw3MDE0NzkwNDIsMTUzNjQ2OTI0OCwtNzk0MzM5
+MzE0LDE0NjQ3NDgyNDAsLTgwMDg2NzM4NCw0OTc5NjMwMjksMT
+AwNjg4MDg2NiwxMjg0NTc0NDU3LDIwMDExNjI5NzgsLTExMDEw
+ODg5NzJdfQ==
 -->
