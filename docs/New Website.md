@@ -12,7 +12,6 @@ Get Informed with the insights and resources provided by us.
 
 We create an ability to turn your actions into opportunity In hand.
  
-
 ## Introducing FirstPin Technologies
 ### A Company Built For You
 
@@ -45,7 +44,6 @@ Product Based Development
 Web Application
 Mobile Based Application
 
-
 ## TAKE THE FIRST STEP
 
 Connect us
@@ -53,11 +51,11 @@ Phone 	Email		  LinkedIn
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDc0OTkyOCwtMTgxNDYxOTI0MCwtMT
-gxNDYxOTI0MCwtMzI2MTM3ODE0LC0xODM2MTkxMjkwLC0xMDg5
-Mzc3ODQ0LDE3MDgzMTk5MTYsLTE4MTYxMTMzMDAsLTIwNDYwMz
-M1NzAsLTU2NTEwNDQyLDc2NzU3NDgwLC0xNjU3NzA1MjYsNzcx
-NzcyNTQzLDYxNDkwMjY0NywtOTYwNDcyODQ3LC05MDQwNDc0NC
-wtMTAwNjQ5NzU5MywtMTg5MzQ1OTc0MywxNDQyMDc3MTQ3LC0x
-NTE1ODY0NTI5XX0=
+eyJoaXN0b3J5IjpbMTAxOTYwODgwOCwxMTIwNzQ5OTI4LC0xOD
+E0NjE5MjQwLC0xODE0NjE5MjQwLC0zMjYxMzc4MTQsLTE4MzYx
+OTEyOTAsLTEwODkzNzc4NDQsMTcwODMxOTkxNiwtMTgxNjExMz
+MwMCwtMjA0NjAzMzU3MCwtNTY1MTA0NDIsNzY3NTc0ODAsLTE2
+NTc3MDUyNiw3NzE3NzI1NDMsNjE0OTAyNjQ3LC05NjA0NzI4ND
+csLTkwNDA0NzQ0LC0xMDA2NDk3NTkzLC0xODkzNDU5NzQzLDE0
+NDIwNzcxNDddfQ==
 -->
