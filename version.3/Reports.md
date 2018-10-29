@@ -198,8 +198,6 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 
 > **For Example** : To get it clear on multi grouping, i am adding one more dimension fields **Payment_mode** to the report. Select group option for **Stationcode** and **Order_attendant_ID.** Now on expanding Stationcode_2, it displays corresponding **Order_attendant_ID** on further expanding, it displays the **payment mode** for the records as shown in the image below.
 
-
-
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/883d9bf88b00686fda140fdb1538ed72a8ff5ebf/images/multi_group_f.png)
 
@@ -311,11 +309,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODAwMTg4NzcsMjA3NzAzOTExLC0xMj
-czMDI4MDksOTgxNTEzMzE5LC0xODA0NzE4NTEwLDE5ODAzNDI2
-NjYsMTQwMTcyNzMwNiw3MTYxODAyOTgsMTI4NTk1MjA1MSw3MT
-M1MTgwMTgsLTg4NzkwMDIwNCwxNTUwNzMyNTE3LC0xNjY5NDA0
-MDEsLTI1MDk2NDY2NSw1NDY0MDI1MDgsLTI1NzI1MjEyNCwtMT
-U0MDY5NDM5LDE0NzQ5NzYwOTUsMTg4NzM0Njg4NywtMzI5Mjc1
-NTM5XX0=
+eyJoaXN0b3J5IjpbMjA3NzAzOTExLDIwNzcwMzkxMSwtMTI3Mz
+AyODA5LDk4MTUxMzMxOSwtMTgwNDcxODUxMCwxOTgwMzQyNjY2
+LDE0MDE3MjczMDYsNzE2MTgwMjk4LDEyODU5NTIwNTEsNzEzNT
+E4MDE4LC04ODc5MDAyMDQsMTU1MDczMjUxNywtMTY2OTQwNDAx
+LC0yNTA5NjQ2NjUsNTQ2NDAyNTA4LC0yNTcyNTIxMjQsLTE1ND
+A2OTQzOSwxNDc0OTc2MDk1LDE4ODczNDY4ODcsLTMyOTI3NTUz
+OV19
 -->
