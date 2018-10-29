@@ -215,7 +215,7 @@ To freeze the column field values while scrolling the data, click **Pin** in fie
 
 ## Group / Un-Group
 
-By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on **Group** in field drop down provided and to release the same click on **Un-Group**. 
+By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on **Group** in field drop down and **To release** the same click on **Un-Group**. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/93c8d204507e325aea691be5e8a6e7662975fd3c/images/group.png)
@@ -365,11 +365,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTg0NDA3NCwtMjMyNTY5ODAyLDE1OT
-MwNDIzNDAsLTQ2NjY5MzA0OCw0MzQ1NjM4OTQsLTEzODc3MTkw
-NzgsLTE5MDE5NTM4OTIsMTczNjI4MjI0OCwtOTA5MDEwNTU0LC
-0xMDU5NDQwMDk0LDE5MjgzMTA4MDQsLTE4MjA0NTE4MTQsLTUz
-NDg5NzAyNiwyMTA2MzgxOTUwLDgzNjU0MDU3MCwxNDg3MzE1Mz
-A4LDEwNTgyNTA4ODksLTkzMzIxMzk3OSwzNzc0MjQ0MzYsMTY1
-ODYyNzYwOV19
+eyJoaXN0b3J5IjpbLTEwNjk5NzQ0MDUsLTk3OTg0NDA3NCwtMj
+MyNTY5ODAyLDE1OTMwNDIzNDAsLTQ2NjY5MzA0OCw0MzQ1NjM4
+OTQsLTEzODc3MTkwNzgsLTE5MDE5NTM4OTIsMTczNjI4MjI0OC
+wtOTA5MDEwNTU0LC0xMDU5NDQwMDk0LDE5MjgzMTA4MDQsLTE4
+MjA0NTE4MTQsLTUzNDg5NzAyNiwyMTA2MzgxOTUwLDgzNjU0MD
+U3MCwxNDg3MzE1MzA4LDEwNTgyNTA4ODksLTkzMzIxMzk3OSwz
+Nzc0MjQ0MzZdfQ==
 -->
