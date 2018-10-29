@@ -267,6 +267,7 @@ Data section under visualization is enabled based on the data retrieved on runni
 
  **Format** enables different type of number format to measure a field value. Following are the list of number formats supported by AcuBi:
 
+datasets this section enables 
 |  Example | Description |
 |  ------ | :------ |
 |  #  | Number(1234) |
@@ -309,11 +310,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzAzOTExLC0xMjczMDI4MDksOTgxNT
-EzMzE5LC0xODA0NzE4NTEwLDE5ODAzNDI2NjYsMTQwMTcyNzMw
-Niw3MTYxODAyOTgsMTI4NTk1MjA1MSw3MTM1MTgwMTgsLTg4Nz
-kwMDIwNCwxNTUwNzMyNTE3LC0xNjY5NDA0MDEsLTI1MDk2NDY2
-NSw1NDY0MDI1MDgsLTI1NzI1MjEyNCwtMTU0MDY5NDM5LDE0Nz
-Q5NzYwOTUsMTg4NzM0Njg4NywtMzI5Mjc1NTM5LC01MDg0NjA0
-OV19
+eyJoaXN0b3J5IjpbMTg5OTA5MTQ2OSwyMDc3MDM5MTEsLTEyNz
+MwMjgwOSw5ODE1MTMzMTksLTE4MDQ3MTg1MTAsMTk4MDM0MjY2
+NiwxNDAxNzI3MzA2LDcxNjE4MDI5OCwxMjg1OTUyMDUxLDcxMz
+UxODAxOCwtODg3OTAwMjA0LDE1NTA3MzI1MTcsLTE2Njk0MDQw
+MSwtMjUwOTY0NjY1LDU0NjQwMjUwOCwtMjU3MjUyMTI0LC0xNT
+QwNjk0MzksMTQ3NDk3NjA5NSwxODg3MzQ2ODg3LC0zMjkyNzU1
+MzldfQ==
 -->
