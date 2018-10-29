@@ -32,9 +32,9 @@ After login into AcuBi Home Page, Click on Dashboard section.
 
    **There are 2 ways you can add reports to the layout;**
 
-   a. Click on report layout section and select the report you want to **add** to the layout.
+   **a)** Click on report layout section and select the report you want to **add** to the layout.
 
-   b. Click on **add** link available at right side of the saved report. 
+   **b)** Click on **add** link available at right side of the saved report. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_2.png)
@@ -54,7 +54,7 @@ After login into AcuBi Home Page, Click on Dashboard section.
 
   -   **Filter Name**  identifier name to the filter applicable.
 
-  -   **Filter Type**  type of filter used (Eg: string, date, number).
+  -   **Filter Type**  type of filter used ( eg: string, date, number).
 
   -   **Operator**  filter operation that are applicable.
 
@@ -92,7 +92,7 @@ The Listeners option allows to register callbacks to be notified when an event i
     
    -   **Apply to field**  applies filter options to field column in a report.
     
-**8.** Finally Click **Save** It will navigate to **save dashboard** section.
+**8.** Finally Click **Save** It will navigate to **ave dashboard** section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_3.png)
@@ -119,7 +119,8 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjUyNzI1MDUsMzg1OTgzMzgxLDM2OD
-U5NzQyOSwxMzk2NjI3MTMzLDE5MjIyOTE4MzIsMTY3NTg4ODUw
-MCwtMjEwNDc5MjEyLDUwODU1MzUsMjIyMDcyNzIxXX0=
+eyJoaXN0b3J5IjpbOTM2OTQ0NzgyLC0xODI1MjcyNTA1LDM4NT
+k4MzM4MSwzNjg1OTc0MjksMTM5NjYyNzEzMywxOTIyMjkxODMy
+LDE2NzU4ODg1MDAsLTIxMDQ3OTIxMiw1MDg1NTM1LDIyMjA3Mj
+cyMV19
 -->
