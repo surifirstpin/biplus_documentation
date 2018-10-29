@@ -237,7 +237,7 @@ After navigating to calculated column, enter below fields;
     
 -   **Calculation**  derive arithmetical & logical expressions.
     
--   **Calculate on raw data**  By enabling the field **calculate on raw** the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
+-   **Calculate on raw data**  By enabling the field **Calculate on Raw** the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b10da52fba77e866f8f30ae57fabe5c0d0f8c142/images/ful_calculated.png)
@@ -309,11 +309,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzMwMjgwOSw5ODE1MTMzMTksLTE4MD
-Q3MTg1MTAsMTk4MDM0MjY2NiwxNDAxNzI3MzA2LDcxNjE4MDI5
-OCwxMjg1OTUyMDUxLDcxMzUxODAxOCwtODg3OTAwMjA0LDE1NT
-A3MzI1MTcsLTE2Njk0MDQwMSwtMjUwOTY0NjY1LDU0NjQwMjUw
-OCwtMjU3MjUyMTI0LC0xNTQwNjk0MzksMTQ3NDk3NjA5NSwxOD
-g3MzQ2ODg3LC0zMjkyNzU1MzksLTUwODQ2MDQ5LDI5MjE4MTA5
-NV19
+eyJoaXN0b3J5IjpbMjA3NzAzOTExLC0xMjczMDI4MDksOTgxNT
+EzMzE5LC0xODA0NzE4NTEwLDE5ODAzNDI2NjYsMTQwMTcyNzMw
+Niw3MTYxODAyOTgsMTI4NTk1MjA1MSw3MTM1MTgwMTgsLTg4Nz
+kwMDIwNCwxNTUwNzMyNTE3LC0xNjY5NDA0MDEsLTI1MDk2NDY2
+NSw1NDY0MDI1MDgsLTI1NzI1MjEyNCwtMTU0MDY5NDM5LDE0Nz
+Q5NzYwOTUsMTg4NzM0Njg4NywtMzI5Mjc1NTM5LC01MDg0NjA0
+OV19
 -->
