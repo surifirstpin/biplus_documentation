@@ -516,6 +516,8 @@ Custom fields are user defined fields for which we apply arithmetic  and logical
 
 Drill-down is used for exploring the data further with respect to a field value. AcuBi has an ability to define drill option for a field with a set of derivable fields and when clicked on a particular value of an assigned field, the individual records that make up that cell will be displayed by limiting the query with the clicked value.
 
+Drill-down is used for exploring 
+
 ## Show drill-down measures
 
 Sometimes, it may be necessary to bring the current stage measure fields to the next drill stage along with the drill fields.
@@ -646,11 +648,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzcxOTY0NywxNzQ3NzE5NjQ3LDE3OT
-M2NjQ4MTksLTEyNzQwNDQ3NSwxOTg0OTk0NTE2LC00OTgzMjQw
-OTYsLTE3Mjc0MzUyMjAsNDc1OTEwMzgwLDEwMTEwNTczNzUsNz
-EzMjc1NDI4LDc2ODQ1ODY4NSwyMDQ4NzgxMzMyLC0xNDA2Njg5
-OTYwLC01MTQ5MzYxMjgsMTkyMzA4OTg3NSwtNTU3OTIyNDA3LD
-IxNDczMjcxNTUsLTMzOTk3MDY2NSwtMTkzNTIwNzc3OSwxMTk4
-MTEzNzMzXX0=
+eyJoaXN0b3J5IjpbLTgzNzEwMDc0MywxNzQ3NzE5NjQ3LDE3ND
+c3MTk2NDcsMTc5MzY2NDgxOSwtMTI3NDA0NDc1LDE5ODQ5OTQ1
+MTYsLTQ5ODMyNDA5NiwtMTcyNzQzNTIyMCw0NzU5MTAzODAsMT
+AxMTA1NzM3NSw3MTMyNzU0MjgsNzY4NDU4Njg1LDIwNDg3ODEz
+MzIsLTE0MDY2ODk5NjAsLTUxNDkzNjEyOCwxOTIzMDg5ODc1LC
+01NTc5MjI0MDcsMjE0NzMyNzE1NSwtMzM5OTcwNjY1LC0xOTM1
+MjA3Nzc5XX0=
 -->
