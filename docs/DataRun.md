@@ -299,7 +299,6 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - **Legend** it will enable the user to label a measure field value in visualization charts as shown below.
 
-datasets this section enables you to perform alignment, set currency foprmats group aggregate
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/49bb2a07efd42d5b6f9a7f648e8f705e5f63bc4d/images/legend_label.png)
@@ -367,11 +366,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjQxNTE1MCwtOTc5ODQ0MDc0LC0yMz
-I1Njk4MDIsMTU5MzA0MjM0MCwtNDY2NjkzMDQ4LDQzNDU2Mzg5
-NCwtMTM4NzcxOTA3OCwtMTkwMTk1Mzg5MiwxNzM2MjgyMjQ4LC
-05MDkwMTA1NTQsLTEwNTk0NDAwOTQsMTkyODMxMDgwNCwtMTgy
-MDQ1MTgxNCwtNTM0ODk3MDI2LDIxMDYzODE5NTAsODM2NTQwNT
-cwLDE0ODczMTUzMDgsMTA1ODI1MDg4OSwtOTMzMjEzOTc5LDM3
-NzQyNDQzNl19
+eyJoaXN0b3J5IjpbLTE3NjU5MDgwODcsLTk3OTg0NDA3NCwtMj
+MyNTY5ODAyLDE1OTMwNDIzNDAsLTQ2NjY5MzA0OCw0MzQ1NjM4
+OTQsLTEzODc3MTkwNzgsLTE5MDE5NTM4OTIsMTczNjI4MjI0OC
+wtOTA5MDEwNTU0LC0xMDU5NDQwMDk0LDE5MjgzMTA4MDQsLTE4
+MjA0NTE4MTQsLTUzNDg5NzAyNiwyMTA2MzgxOTUwLDgzNjU0MD
+U3MCwxNDg3MzE1MzA4LDEwNTgyNTA4ODksLTkzMzIxMzk3OSwz
+Nzc0MjQ0MzZdfQ==
 -->
