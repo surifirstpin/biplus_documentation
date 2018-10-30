@@ -59,7 +59,7 @@ Apply report filter **Sum count equals to 1** in Analysis section and the data r
 
 ## Explore Report
 
-**7.** To view the data flow of the report click on the **Setting icon**.
+**7.** To view the data flow of the report click on the **Setting icon.**
 
 **8.** To view the data in a graph click on **Show data** in the drop down.
 
@@ -121,11 +121,11 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDEwNjE5NjQsMTAwMDUzMDkwMiwxND
-kzNjAyMzQ0LC0xOTY2MDEzNDMyLDg1MTcxOTA2NCwtMTIwNTIy
-OTQ5MSwxMTI3MDMwODU5LC0zMzI5MDczNzUsNjkyNDg2MjA2LD
-E0MDk0MTE5MTAsMTYxNjE5NTEwNywxNjIyODg2MywzMDA2NzA3
-MjUsMTgyMjg5OTQzOSwtODExMTA2OTgyLC0xNTUwODI3ODU3LC
-0xMzIyMjM1Nzk4LDE3MzA5Nzk3OTgsLTEyNTY5NzQ0MTFdfQ==
-
+eyJoaXN0b3J5IjpbMzEzOTcwODY4LC0xMDAxMDYxOTY0LDEwMD
+A1MzA5MDIsMTQ5MzYwMjM0NCwtMTk2NjAxMzQzMiw4NTE3MTkw
+NjQsLTEyMDUyMjk0OTEsMTEyNzAzMDg1OSwtMzMyOTA3Mzc1LD
+Y5MjQ4NjIwNiwxNDA5NDExOTEwLDE2MTYxOTUxMDcsMTYyMjg4
+NjMsMzAwNjcwNzI1LDE4MjI4OTk0MzksLTgxMTEwNjk4MiwtMT
+U1MDgyNzg1NywtMTMyMjIzNTc5OCwxNzMwOTc5Nzk4LC0xMjU2
+OTc0NDExXX0=
 -->
