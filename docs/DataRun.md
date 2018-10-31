@@ -299,7 +299,6 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - **Legend** it will enable the user to label a measure field value in visualization charts as shown below.
 
-
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/49bb2a07efd42d5b6f9a7f648e8f705e5f63bc4d/images/legend_label.png)
 
@@ -366,11 +365,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDMxMjMxNSwtMTc2NTkwODA4NywtOT
-c5ODQ0MDc0LC0yMzI1Njk4MDIsMTU5MzA0MjM0MCwtNDY2Njkz
-MDQ4LDQzNDU2Mzg5NCwtMTM4NzcxOTA3OCwtMTkwMTk1Mzg5Mi
-wxNzM2MjgyMjQ4LC05MDkwMTA1NTQsLTEwNTk0NDAwOTQsMTky
-ODMxMDgwNCwtMTgyMDQ1MTgxNCwtNTM0ODk3MDI2LDIxMDYzOD
-E5NTAsODM2NTQwNTcwLDE0ODczMTUzMDgsMTA1ODI1MDg4OSwt
-OTMzMjEzOTc5XX0=
+eyJoaXN0b3J5IjpbMzgzMTgwMjksMjA1MDMxMjMxNSwtMTc2NT
+kwODA4NywtOTc5ODQ0MDc0LC0yMzI1Njk4MDIsMTU5MzA0MjM0
+MCwtNDY2NjkzMDQ4LDQzNDU2Mzg5NCwtMTM4NzcxOTA3OCwtMT
+kwMTk1Mzg5MiwxNzM2MjgyMjQ4LC05MDkwMTA1NTQsLTEwNTk0
+NDAwOTQsMTkyODMxMDgwNCwtMTgyMDQ1MTgxNCwtNTM0ODk3MD
+I2LDIxMDYzODE5NTAsODM2NTQwNTcwLDE0ODczMTUzMDgsMTA1
+ODI1MDg4OV19
 -->
