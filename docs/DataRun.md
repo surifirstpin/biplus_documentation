@@ -258,7 +258,7 @@ To remove a specific field column from the extracted list click on **Remove** in
 
 Table calculations enable you to easily create on-the-fly metrics, which are similar to formulas found in Excel sheets. These extracted columns will show up in green colour in data table. Using calculated column you can perform mathematical, logical (true/false), lexical (text-based), and date-based calculations on the dimensions, measures, and other table calculations in your query. 
 
-- Click on **Calculated column** button to enable table calculations as shown in below image,
+- Click on **Calculated Column** button to enable table calculations as shown in below image,
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9dd01207f083d272ba2269a4c999dfa8976f1914/images/calculate%20column1.png)
@@ -365,11 +365,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzMTgwMjksMjA1MDMxMjMxNSwtMTc2NT
-kwODA4NywtOTc5ODQ0MDc0LC0yMzI1Njk4MDIsMTU5MzA0MjM0
-MCwtNDY2NjkzMDQ4LDQzNDU2Mzg5NCwtMTM4NzcxOTA3OCwtMT
-kwMTk1Mzg5MiwxNzM2MjgyMjQ4LC05MDkwMTA1NTQsLTEwNTk0
-NDAwOTQsMTkyODMxMDgwNCwtMTgyMDQ1MTgxNCwtNTM0ODk3MD
-I2LDIxMDYzODE5NTAsODM2NTQwNTcwLDE0ODczMTUzMDgsMTA1
-ODI1MDg4OV19
+eyJoaXN0b3J5IjpbLTIwOTg3MDQ0NjcsMjA1MDMxMjMxNSwtMT
+c2NTkwODA4NywtOTc5ODQ0MDc0LC0yMzI1Njk4MDIsMTU5MzA0
+MjM0MCwtNDY2NjkzMDQ4LDQzNDU2Mzg5NCwtMTM4NzcxOTA3OC
+wtMTkwMTk1Mzg5MiwxNzM2MjgyMjQ4LC05MDkwMTA1NTQsLTEw
+NTk0NDAwOTQsMTkyODMxMDgwNCwtMTgyMDQ1MTgxNCwtNTM0OD
+k3MDI2LDIxMDYzODE5NTAsODM2NTQwNTcwLDE0ODczMTUzMDgs
+MTA1ODI1MDg4OV19
 -->
