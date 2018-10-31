@@ -278,7 +278,7 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
 
-- Click **OK** after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image,
+- Click **OK** after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image:
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)
@@ -306,7 +306,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 ##  Format
 
   - **Format** enables different type of number format to the measure field value. Following are the list of number formats supported by AcuBi ;
-
+  
 |  Example | Description |
 |  ------ | :------ |
 |  #  | Number(1234) |
@@ -352,9 +352,10 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 
 Using drill down you can view more deeper insights of the data.
 
-**For example:** On clicking country name, it will display states that fall under the particular country. on clicking state-name, it will display the city-name that falls under the state.
+**For example:** On expanding country name, it will display states that fall under the particular country. on further expanding state-name, it will display the city-name that falls under the state.
 
 > **Note :** to attain drill down features it need to be specified in model section, Refer **Model Documentation** for more information about drill down feature.
+
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ae2090f2d0635decef08a516ce8833252bee2822/images/drill_down_report.png)
@@ -366,11 +367,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NjA2MTE0NywyMDUwMzEyMzE1LC0xNz
-Y1OTA4MDg3LC05Nzk4NDQwNzQsLTIzMjU2OTgwMiwxNTkzMDQy
-MzQwLC00NjY2OTMwNDgsNDM0NTYzODk0LC0xMzg3NzE5MDc4LC
-0xOTAxOTUzODkyLDE3MzYyODIyNDgsLTkwOTAxMDU1NCwtMTA1
-OTQ0MDA5NCwxOTI4MzEwODA0LC0xODIwNDUxODE0LC01MzQ4OT
-cwMjYsMjEwNjM4MTk1MCw4MzY1NDA1NzAsMTQ4NzMxNTMwOCwx
-MDU4MjUwODg5XX0=
+eyJoaXN0b3J5IjpbLTE5Nzc0MDU5MTEsMjA1MDMxMjMxNSwtMT
+c2NTkwODA4NywtOTc5ODQ0MDc0LC0yMzI1Njk4MDIsMTU5MzA0
+MjM0MCwtNDY2NjkzMDQ4LDQzNDU2Mzg5NCwtMTM4NzcxOTA3OC
+wtMTkwMTk1Mzg5MiwxNzM2MjgyMjQ4LC05MDkwMTA1NTQsLTEw
+NTk0NDAwOTQsMTkyODMxMDgwNCwtMTgyMDQ1MTgxNCwtNTM0OD
+k3MDI2LDIxMDYzODE5NTAsODM2NTQwNTcwLDE0ODczMTUzMDgs
+MTA1ODI1MDg4OV19
 -->
