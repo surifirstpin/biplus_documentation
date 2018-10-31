@@ -352,7 +352,7 @@ To View the SQL query built on retrieving data in report, click on **SQL** secti
 
 Using drill down you can view more deeper insights of the data.
 
-**For example:** On expanding country name, it will display states that fall under the particular country. on further expanding state-name, it will display the city-name that falls under the state.
+**For example:** On expanding country name, it will display states that fall under the particular country. On further expanding state-name, it will display the city-name that falls under the state.
 
 > **Note :** to attain drill down features it need to be specified in model section, Refer **Model Documentation** for more information about drill down feature.
 
@@ -367,11 +367,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzc0MDU5MTEsMjA1MDMxMjMxNSwtMT
-c2NTkwODA4NywtOTc5ODQ0MDc0LC0yMzI1Njk4MDIsMTU5MzA0
-MjM0MCwtNDY2NjkzMDQ4LDQzNDU2Mzg5NCwtMTM4NzcxOTA3OC
-wtMTkwMTk1Mzg5MiwxNzM2MjgyMjQ4LC05MDkwMTA1NTQsLTEw
-NTk0NDAwOTQsMTkyODMxMDgwNCwtMTgyMDQ1MTgxNCwtNTM0OD
-k3MDI2LDIxMDYzODE5NTAsODM2NTQwNTcwLDE0ODczMTUzMDgs
-MTA1ODI1MDg4OV19
+eyJoaXN0b3J5IjpbOTE4MTA0NjQ5LDIwNTAzMTIzMTUsLTE3Nj
+U5MDgwODcsLTk3OTg0NDA3NCwtMjMyNTY5ODAyLDE1OTMwNDIz
+NDAsLTQ2NjY5MzA0OCw0MzQ1NjM4OTQsLTEzODc3MTkwNzgsLT
+E5MDE5NTM4OTIsMTczNjI4MjI0OCwtOTA5MDEwNTU0LC0xMDU5
+NDQwMDk0LDE5MjgzMTA4MDQsLTE4MjA0NTE4MTQsLTUzNDg5Nz
+AyNiwyMTA2MzgxOTUwLDgzNjU0MDU3MCwxNDg3MzE1MzA4LDEw
+NTgyNTA4ODldfQ==
 -->
