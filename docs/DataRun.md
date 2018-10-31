@@ -299,6 +299,12 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - **Legend** it will enable the user to label a measure field value in visualization charts as shown below.
 
+series values are added on y-axis so each consecutive series appears above the last. besure that the units of all series match.
+datasets enables you to per
+
+
+
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/49bb2a07efd42d5b6f9a7f648e8f705e5f63bc4d/images/legend_label.png)
 
@@ -365,11 +371,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg3MDQ0NjcsMjA1MDMxMjMxNSwtMT
-c2NTkwODA4NywtOTc5ODQ0MDc0LC0yMzI1Njk4MDIsMTU5MzA0
-MjM0MCwtNDY2NjkzMDQ4LDQzNDU2Mzg5NCwtMTM4NzcxOTA3OC
-wtMTkwMTk1Mzg5MiwxNzM2MjgyMjQ4LC05MDkwMTA1NTQsLTEw
-NTk0NDAwOTQsMTkyODMxMDgwNCwtMTgyMDQ1MTgxNCwtNTM0OD
-k3MDI2LDIxMDYzODE5NTAsODM2NTQwNTcwLDE0ODczMTUzMDgs
-MTA1ODI1MDg4OV19
+eyJoaXN0b3J5IjpbLTI1Nzk0MDM4OSwyMDUwMzEyMzE1LC0xNz
+Y1OTA4MDg3LC05Nzk4NDQwNzQsLTIzMjU2OTgwMiwxNTkzMDQy
+MzQwLC00NjY2OTMwNDgsNDM0NTYzODk0LC0xMzg3NzE5MDc4LC
+0xOTAxOTUzODkyLDE3MzYyODIyNDgsLTkwOTAxMDU1NCwtMTA1
+OTQ0MDA5NCwxOTI4MzEwODA0LC0xODIwNDUxODE0LC01MzQ4OT
+cwMjYsMjEwNjM4MTk1MCw4MzY1NDA1NzAsMTQ4NzMxNTMwOCwx
+MDU4MjUwODg5XX0=
 -->
