@@ -42,7 +42,7 @@ Filters removes all the data except the one you want to retrieve. Filter express
 |Date|For fields that contain dates|
 |Lookup| To view the lookup in Report filters it should be derived first under lookup field, in model section|
 
-## **Following are the different types of filters characteristics applicable :**
+## **Filters characteristics applicable :**
 
 ### String :
 |			Example            |						Description                        |                                                                                 
@@ -106,7 +106,7 @@ Filters removes all the data except the one you want to retrieve. Filter express
 
 The data is retrieved based on hidden filters applied, this applied hidden filter fields are not visible in data section they are only visible under filter expression list.
 
-**To carry out this function you can follow the following steps:**
+**To carry out this function, follow the below steps:**
 
 **a.**  Apply hidden filters, to data fields in dimensions.
 **b.** Fields to which hidden filters applied are visible in filter expression of filter section.
@@ -116,7 +116,7 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 ](https://raw.githubusercontent.com/sv18042016/fp1/603d0055942c97790066aa8195ad659038778ad2/images/hidden_filter.png)
 
 - To add more filters click  **Add Rule**.
-- To delete the filter applied Click **Ban Icon**.
+- To delete the filter applied click **Ban Icon**.
 - To hide the **Filter** or **Order** section Click on angle-double-up icon on to far right of the order section. To unhide click on angle-double-down icon at same location.
 
 **5.**  Click on **Run** to display the data retrieved.
@@ -366,11 +366,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjU5MDgwODcsLTk3OTg0NDA3NCwtMj
-MyNTY5ODAyLDE1OTMwNDIzNDAsLTQ2NjY5MzA0OCw0MzQ1NjM4
-OTQsLTEzODc3MTkwNzgsLTE5MDE5NTM4OTIsMTczNjI4MjI0OC
-wtOTA5MDEwNTU0LC0xMDU5NDQwMDk0LDE5MjgzMTA4MDQsLTE4
-MjA0NTE4MTQsLTUzNDg5NzAyNiwyMTA2MzgxOTUwLDgzNjU0MD
-U3MCwxNDg3MzE1MzA4LDEwNTgyNTA4ODksLTkzMzIxMzk3OSwz
-Nzc0MjQ0MzZdfQ==
+eyJoaXN0b3J5IjpbMjA1MDMxMjMxNSwtMTc2NTkwODA4NywtOT
+c5ODQ0MDc0LC0yMzI1Njk4MDIsMTU5MzA0MjM0MCwtNDY2Njkz
+MDQ4LDQzNDU2Mzg5NCwtMTM4NzcxOTA3OCwtMTkwMTk1Mzg5Mi
+wxNzM2MjgyMjQ4LC05MDkwMTA1NTQsLTEwNTk0NDAwOTQsMTky
+ODMxMDgwNCwtMTgyMDQ1MTgxNCwtNTM0ODk3MDI2LDIxMDYzOD
+E5NTAsODM2NTQwNTcwLDE0ODczMTUzMDgsMTA1ODI1MDg4OSwt
+OTMzMjEzOTc5XX0=
 -->
