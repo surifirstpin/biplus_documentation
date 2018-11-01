@@ -126,9 +126,9 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 |  bitNot | Bitwise NOT value, ~x. | bi.bitNot(1) = -2, <br/>bi.bitNot([2,-3,4]) = [-3,2,5] |
 |  bitOr | Bitwise OR two values, x&#124 y.| bi.bitOr(1,2) = 3, <br/>bi.bitOr([1,2,3],4) = [5,6,7] |
 |  bitXor | Bitwise XOR two values, x ^ y. | bi.bitXor(1, 2) = 3, <br/>bi.bitXor([2, 3, 4], 4) = [6,7,0] |
-|  leftShift | Bitwise left logical shift of a value x by y number of bits, x << y. | bi.leftShift(1, 2) = 4, <br/>bi.leftShift([1, 2, 3], 4) = [16, 32, 64] |
-|  rightArithShift | Bitwise right arithmetic shift of a value x by y number of bits, x >> y. | bi.rightArithShift(4, 2) = 1, <br/>bi.rightArithShift([16, -32, 64], 4) = [1, -2, 3] |
-|  rightLogShift | Bitwise right logical shift of value x by y number of bits, x >>> y. | bi.rightLogShift(4, 2) = 1, <br/>bi.rightLogShift([16, -32, 64], 4) = [1, 2, 3] |
+|  LeftShift | Bitwise left logical shift of a value x by y number of bits, x << y. | bi.leftShift(1, 2) = 4, <br/>bi.leftShift([1, 2, 3], 4) = [16, 32, 64] |
+|  RightArithShift | Bitwise right arithmetic shift of a value x by y number of bits, x >> y. | bi.rightArithShift(4, 2) = 1, <br/>bi.rightArithShift([16, -32, 64], 4) = [1, -2, 3] |
+|  RightLogShift | Bitwise right logical shift of value x by y number of bits, x >>> y. | bi.rightLogShift(4, 2) = 1, <br/>bi.rightLogShift([16, -32, 64], 4) = [1, 2, 3] |
 
 ### Arithmetic
 
@@ -441,9 +441,10 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTU0NjUwNywtODU0ODI4ODE3LC04Nz
-c3NTE1MDAsOTc1MTMxNzAsMTA2Njk0MjExNiwxNTQzNTIxNTAs
-LTE0NDA3NzUyNDgsMTMwMjYxNTc0OSwtMjQ1MTczOTA1LC0yMD
-kzOTk5NzMwLC0xMzA4NDUxMzEwLC05NzYwNjgyMTEsLTE1Njg3
-NTkyNTIsLTE3MzY2MDk2NDQsLTMxMjI0MTU0OF19
+eyJoaXN0b3J5IjpbLTE5MjExMTg0MjEsMTAzNTU0NjUwNywtOD
+U0ODI4ODE3LC04Nzc3NTE1MDAsOTc1MTMxNzAsMTA2Njk0MjEx
+NiwxNTQzNTIxNTAsLTE0NDA3NzUyNDgsMTMwMjYxNTc0OSwtMj
+Q1MTczOTA1LC0yMDkzOTk5NzMwLC0xMzA4NDUxMzEwLC05NzYw
+NjgyMTEsLTE1Njg3NTkyNTIsLTE3MzY2MDk2NDQsLTMxMjI0MT
+U0OF19
 -->
