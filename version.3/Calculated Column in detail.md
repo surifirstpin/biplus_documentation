@@ -145,9 +145,9 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 |  dotDivide | Returns the value obtained after dividing two matrices element wise | For   a = [[9, 5], [6, 1]];<br/>       _b = [[3, 2], [5, 2]];<br/>bi.dotDivide(a, b)  returns [[3, 2.5], [1.2, 0.5]] |
 |  dotMultiply | Returns the value obtained after multiplying two matrices element wise | For   a = [[9, 5], [6, 1]];<br/>       _b = [[3, 2], [5, 2]];<br/>bi.dotMultiple(a, _b)  returns [[27, 10], [30, 2]] |
 |  dotPow | Return value after calculateing the power of x to y element wise. | For a = [[1, 2], [4, 3]];<br/>bi.dotPow(a, 2)   returns  [[1, 4], [16, 9]] |
-|  exp | Retunr the exponentinal power of a value. | bi.exp(x)<br/>Ex: bi.exp(2) = 7.3890560989306495 |
+|  exp | Return the exponential power of a value. | bi.exp(x)<br/>Ex: bi.exp(2) = 7.3890560989306495 |
 |  gcd | Returns  the greatest common divisor for two or more values or arrays. | bi.gcd(a,b) = a.b/Lcm(a,b) Ex: For a= 8, b = 12 then bi.gcd(a,b) = 4 |
-|  hypot | Returns the hypotenusa of a list with values. | bi.hypot = (p1,p2,p3..) <br/>Ex: bi.hypot (3,4) = sqrate_root ( square(3) + square(4) ) = 5 |
+|  hypot | Returns the hypotenuse of a list with values. | bi.hypot = (p1,p2,p3..) <br/>Ex: bi.hypot (3,4) = sqrate_root ( square(3) + square(4) ) = 5 |
 |  lcm | Returns the least common multiple for two or more values or arrays | bi.lcm(a,b)<br/>Ex: For a = 4,b = 6 then  bi.lcm(4,6) = 12 |
 |  log | Returns the logarithm of a value (e-based). | bi.log(a)<br/>Ex: bi.log(10) = 2.3025850929 |
 |  log10 | Returns the logarithm of a value (10-based). | bi.log10(a)<br/>Ex: bi.log10(10) = 1 |
@@ -196,7 +196,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 ### Geometry
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
-|  distance | Results the eucledian distance between two points in 2 and 3 dimensional spaces. | distance([x1, y1], [x2, y2]) = distance([0,0], [4,4]) = 5.6569. |
+|  distance | Results the euclidean distance between two points in 2 and 3 dimensional spaces. | distance([x1, y1], [x2, y2]) = distance([0,0], [4,4]) = 5.6569. |
 
 ### String
 
@@ -441,9 +441,9 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDgyODgxNywtODc3NzUxNTAwLDk3NT
-EzMTcwLDEwNjY5NDIxMTYsMTU0MzUyMTUwLC0xNDQwNzc1MjQ4
-LDEzMDI2MTU3NDksLTI0NTE3MzkwNSwtMjA5Mzk5OTczMCwtMT
-MwODQ1MTMxMCwtOTc2MDY4MjExLC0xNTY4NzU5MjUyLC0xNzM2
-NjA5NjQ0LC0zMTIyNDE1NDhdfQ==
+eyJoaXN0b3J5IjpbMTAzNTU0NjUwNywtODU0ODI4ODE3LC04Nz
+c3NTE1MDAsOTc1MTMxNzAsMTA2Njk0MjExNiwxNTQzNTIxNTAs
+LTE0NDA3NzUyNDgsMTMwMjYxNTc0OSwtMjQ1MTczOTA1LC0yMD
+kzOTk5NzMwLC0xMzA4NDUxMzEwLC05NzYwNjgyMTEsLTE1Njg3
+NTkyNTIsLTE3MzY2MDk2NDQsLTMxMjI0MTU0OF19
 -->
