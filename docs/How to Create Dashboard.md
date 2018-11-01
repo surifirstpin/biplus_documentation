@@ -54,7 +54,7 @@ After login into AcuBi Home Page, Click on Dashboard section.
 
   -   **Filter Name**  identifier name to the filter applicable.
 
-  -   **Filter Type**  type of filter used ( eg: string, date, number).
+  -   **Filter Type**  type of filter used ( Eg: string, date, number).
 
   -   **Operator**  filter operation that are applicable.
 
@@ -119,8 +119,8 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxMTc1NDkwLDg0MzkyMDUxNCwtMTgyNT
-I3MjUwNSwzODU5ODMzODEsMzY4NTk3NDI5LDEzOTY2MjcxMzMs
-MTkyMjI5MTgzMiwxNjc1ODg4NTAwLC0yMTA0NzkyMTIsNTA4NT
-UzNSwyMjIwNzI3MjFdfQ==
+eyJoaXN0b3J5IjpbMjAyODY4MTM3OCw1ODExNzU0OTAsODQzOT
+IwNTE0LC0xODI1MjcyNTA1LDM4NTk4MzM4MSwzNjg1OTc0Mjks
+MTM5NjYyNzEzMywxOTIyMjkxODMyLDE2NzU4ODg1MDAsLTIxMD
+Q3OTIxMiw1MDg1NTM1LDIyMjA3MjcyMV19
 -->
