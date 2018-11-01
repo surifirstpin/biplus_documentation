@@ -144,7 +144,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 |  floor | Round the integer value for given value towards minus infinity. | bi.floor(value)<br/>Ex: floor(2.8) = 2, floor(-7.5) = -8 |
 |  dotDivide | Returns the value obtained after dividing two matrices element wise | For   a = [[9, 5], [6, 1]];<br/>       _b = [[3, 2], [5, 2]];<br/>bi.dotDivide(a, b)  returns [[3, 2.5], [1.2, 0.5]] |
 |  dotMultiply | Returns the value obtained after multiplying two matrices element wise | For   a = [[9, 5], [6, 1]];<br/>       _b = [[3, 2], [5, 2]];<br/>bi.dotMultiple(a, _b)  returns [[27, 10], [30, 2]] |
-|  dotPow | Return value after calculateing the power of x to y element wise. | For a = [[1, 2], [4, 3]];<br/>bi.dotPow(a, 2)   returns  [[1, 4], [16, 9]] |
+|  dotPow | Return value after calculating the power of x to y element wise. | For a = [[1, 2], [4, 3]];<br/>bi.dotPow(a, 2)   returns  [[1, 4], [16, 9]] |
 |  exp | Return the exponential power of a value. | bi.exp(x)<br/>Ex: bi.exp(2) = 7.3890560989306495 |
 |  gcd | Returns  the greatest common divisor for two or more values or arrays. | bi.gcd(a,b) = a.b/Lcm(a,b) Ex: For a= 8, b = 12 then bi.gcd(a,b) = 4 |
 |  hypot | Returns the hypotenuse of a list with values. | bi.hypot = (p1,p2,p3..) <br/>Ex: bi.hypot (3,4) = sqrate_root ( square(3) + square(4) ) = 5 |
@@ -441,6 +441,6 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTU5NTA3NCwxMDM1NTQ2NTA3LC04NT
+eyJoaXN0b3J5IjpbLTE5OTI4MDkxOSwxMDM1NTQ2NTA3LC04NT
 Q4Mjg4MTcsLTg3Nzc1MTUwMF19
 -->
