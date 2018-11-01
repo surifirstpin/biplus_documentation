@@ -134,7 +134,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
-|  abs | Returns the absolute value of a number<br/>It removed the -ve symbol for a negative value and displays the result as positive value | bi.abs(${Col_name})<br/>Ex: bi.abs(-2) = 2 |
+|  abs | Returns the absolute value of a number<br/>It removes negative symbol for a negative value and displays the result as positive value | bi.abs(${Col_name})<br/>Ex: bi.abs(-2) = 2 |
 |  add | Returns the value which obtained by adding the given list of values | bi.add(p1,p2,p3,.....)<br/>Ex: bi.add(3,4) = 7 |
 |  cbrt | Returns the cuberoot value  of a give value | bi.cbrt(value)<br/>Ex: bi.cbrt(27) = 3 |
 |  ceil | Returns the smallest integer greater than or equal to the given number | bi.ceil(value)<br/>Ex: bi.ceil(3.1) = 4 & bi.ceil(-8.5) = -8 |
@@ -441,5 +441,5 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Nzc1MTUwMF19
+eyJoaXN0b3J5IjpbLTg1NDgyODgxNywtODc3NzUxNTAwXX0=
 -->
