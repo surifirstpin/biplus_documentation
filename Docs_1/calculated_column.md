@@ -139,7 +139,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 |  cbrt | Returns the cuberoot value  of a give value | bi.cbrt(value)<br/>Ex: bi.cbrt(27) = 3 |
 |  ceil | Returns the smallest integer greater than or equal to the given number | bi.ceil(value)<br/>Ex: bi.ceil(3.1) = 4 & bi.ceil(-8.5) = -8 |
 |  cube | Returns the cube value of given value | bi.cube(value)<br/>Ex: bi.cube(3)=27 |
-|  divide | Return the results after divid the two given values | bi.divide(m,n) = m/ n<br/>Ex: bi.divide(6,3) = 2 |
+|  divide | Return the results after dividing two given values | bi.divide(m,n) = m/ n<br/>Ex: bi.divide(6,3) = 2 |
 |  fix | Round the integer value for a given value towards zero. | bi.fix(value)<br/>Ex: bi.fix(4.5) = 4, fix(-4.5) = -4 |
 |  floor | Round the integer value for given value towards minus infinity. | bi.floor(value)<br/>Ex: floor(2.8) = 2, floor(-7.5) = -8 |
 |  dotDivide | Returns the value obtained after dividing two matrices element wise | For   a = [[9, 5], [6, 1]];<br/>       _b = [[3, 2], [5, 2]];<br/>bi.dotDivide(a, b)  returns [[3, 2.5], [1.2, 0.5]] |
@@ -441,6 +441,6 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzU5MDc0NSwxMDM1NTQ2NTA3LC04NT
+eyJoaXN0b3J5IjpbLTkwOTU5NTA3NCwxMDM1NTQ2NTA3LC04NT
 Q4Mjg4MTcsLTg3Nzc1MTUwMF19
 -->
