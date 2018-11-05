@@ -88,7 +88,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 |in_global_key|it returns the data from global parameters based on the multiple common references.this references can be static or column|bi.in_global_keys ([“GP_Rkey1”,”GP_Rkey2”,.....],[Ref1, Ref2,.....], ”GP_Name.R_Val”) Note: Ref1/Ref2 can be static strings or column names or userid|
 |calculate_key_group|Returns an aggregated value of a measure based on a dimension with further mention of row grouping column name|bi.calculate_key_group (#Ag_col,$Ag_col,#RG_col,$RG_col,$M_col,”agg_type”) Where Ag= Aggregated & RG for Row Grouping  & M_Col for measure and agg_type can be sum, avg, min, max, count|
 |col_running_total|Returns the running total value for a column in each cell|bi.col_running_total(#{col_name})|
-|col_running_avg|Returns the average value upto current cell for a column|bi.col_running_avg(#{col_name})|
+|col_running_avg|Returns the average value up to current cell for a column|bi.col_running_avg(#{col_name})|
 
 ### Statistics
 |  **Name** | **Description** | **Usage & Example** |
@@ -98,7 +98,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 |  max | Returns the maximum value of a matrix or a list with values. | bi.max(p1,p2,p3,.....)<br/>Ex: bi.max(100,200,300) = 300 |
 |  mean | Returns the mean value of a list of values mentioned | bi.mean(p1,p2,p3)<br/>Ex: bi.mean(100,200,300) = 200 |
 |  median | Returns the median value of a list of values mentioned | bi.median(p1,p2,p3,.....) |
-|  mode | Retruns the values which are repeated in the list mentioned | bi.mode(p1,p2,p3,.....)<br/>Ex: bi.mode(1,2,1)=1 |
+|  mode | Returns the values which are repeated in the list mentioned | bi.mode(p1,p2,p3,.....)<br/>Ex: bi.mode(1,2,1)=1 |
 |  prod | Returns the product values of the mentioned values |bi.prod(p1,p2,p3,p4,....) Ex: bi.prod(p1,p2,p3) = p1 * p2 * p3|
 |  quantileSeq | Returns prob order quantile of a matrix or a list with values | bi.quantileSeq(A, prob[, sorted]) |
 |  std | Returns the standard deviation of a matrix or a list with values. | bi.std(p1,p2,p3 ...)<br/>bi.std(A)<br/>bi.std(A, normalization) |
@@ -441,10 +441,11 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ2NjUyMjcsLTE5OTI4MDkxOSwtMT
-kyMTExODQyMSwxMDM1NTQ2NTA3LC04NTQ4Mjg4MTcsLTg3Nzc1
-MTUwMCw5NzUxMzE3MCwxMDY2OTQyMTE2LDE1NDM1MjE1MCwtMT
-Q0MDc3NTI0OCwxMzAyNjE1NzQ5LC0yNDUxNzM5MDUsLTIwOTM5
-OTk3MzAsLTEzMDg0NTEzMTAsLTk3NjA2ODIxMSwtMTU2ODc1OT
-I1MiwtMTczNjYwOTY0NCwtMzEyMjQxNTQ4XX0=
+eyJoaXN0b3J5IjpbMTYwNjI2NzgzOSwtMTYyNDY2NTIyNywtMT
+k5MjgwOTE5LC0xOTIxMTE4NDIxLDEwMzU1NDY1MDcsLTg1NDgy
+ODgxNywtODc3NzUxNTAwLDk3NTEzMTcwLDEwNjY5NDIxMTYsMT
+U0MzUyMTUwLC0xNDQwNzc1MjQ4LDEzMDI2MTU3NDksLTI0NTE3
+MzkwNSwtMjA5Mzk5OTczMCwtMTMwODQ1MTMxMCwtOTc2MDY4Mj
+ExLC0xNTY4NzU5MjUyLC0xNzM2NjA5NjQ0LC0zMTIyNDE1NDhd
+fQ==
 -->
