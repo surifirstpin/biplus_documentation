@@ -181,7 +181,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 |  kron | Calculates the kronecker product of 2 matrices or vectors. | bi.kron([1,1], [2,3,4]) = [ [ 2, 3, 4, 2, 3, 4 ] ] |
 |  map | Create a new matrix or array with the results of the callback function executed on each entry of the matrix/array. | Ex: bi.map([1, 2, 3], function(value) { return value * value;})<br/>      Returns [1,4,9] |
 |  ones | Create a matrix filled with ones. | Ex: ones(3) = [1, 1, 1], <br/>       Ones(3, 2) = [[1, 1], [1, 1], [1, 1]] |
-|  partitionSelect | Partition-based selection of an array or 1D matrix. | Ex: function sortByLength (a, b) { <br/>       return a.length – b.length;<br/>       } <br/>bi.partitionSelect(['Langdon', 'Tom', 'Sara'], 2, sortByLength); <br/>returns 'Langdon' |
+|  partitionSelect | Partition-based selection of an array or 1D matrix. | Ex: function sortByLength (a, b) { <br/>       return a.length – b.length;<br/>       } <br/>bi.partitionSelect(['Langdon', 'Tom', 'Sara'], 2, SortByLength); <br/>returns 'Langdon' |
 |  range | Create an array from a range. | bi.range(m,n)<br/>Ex: bi.range(2, 6) = [2, 3, 4, 5], <br/>      bi.range(2, -3, -1) = [2, 1, 0, -1, -2] |
 |  reshape | Reshape a multi dimensional array to fit the specified dimensions. | bi.reshape(x, sizes)<br/>Ex: For var x = matrix([1, 2, 3, 4, 5, 6, 7, 8]);<br/>       bi.reshape(x, [2, 2, 2])  = [[[1, 2], [3, 4]], [[5, 6], [7, 8]]] |
 |  resize | Resize a matrix | bi.resize(x, size, defaultValue) <br/>Ex: bi.resize([1, 2, 3, 4, 5], [3]) = [1,2,3], <br/>       bi.resize("hello", [8], "!") = 'hello!!!' |
@@ -441,7 +441,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjI2NzgzOSwtMTYyNDY2NTIyNywtMT
-k5MjgwOTE5LDEwMzU1NDY1MDcsLTg1NDgyODgxNywtODc3NzUx
-NTAwXX0=
+eyJoaXN0b3J5IjpbNjU3NzU2MTI3LDE2MDYyNjc4MzksLTE2Mj
+Q2NjUyMjcsLTE5OTI4MDkxOSwxMDM1NTQ2NTA3LC04NTQ4Mjg4
+MTcsLTg3Nzc1MTUwMF19
 -->
