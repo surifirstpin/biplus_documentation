@@ -330,6 +330,7 @@ return item;
 
 It will execute a series of actions on a database record and returns a particular value.
  
+ 
  ```
 /*START*/
 
@@ -441,11 +442,11 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3NzU2MTI3LDE2MDYyNjc4MzksLTE2Mj
-Q2NjUyMjcsLTE5OTI4MDkxOSwtMTkyMTExODQyMSwxMDM1NTQ2
-NTA3LC04NTQ4Mjg4MTcsLTg3Nzc1MTUwMCw5NzUxMzE3MCwxMD
-Y2OTQyMTE2LDE1NDM1MjE1MCwtMTQ0MDc3NTI0OCwxMzAyNjE1
-NzQ5LC0yNDUxNzM5MDUsLTIwOTM5OTk3MzAsLTEzMDg0NTEzMT
-AsLTk3NjA2ODIxMSwtMTU2ODc1OTI1MiwtMTczNjYwOTY0NCwt
-MzEyMjQxNTQ4XX0=
+eyJoaXN0b3J5IjpbMzI5Njg2ODc3LDY1Nzc1NjEyNywxNjA2Mj
+Y3ODM5LC0xNjI0NjY1MjI3LC0xOTkyODA5MTksLTE5MjExMTg0
+MjEsMTAzNTU0NjUwNywtODU0ODI4ODE3LC04Nzc3NTE1MDAsOT
+c1MTMxNzAsMTA2Njk0MjExNiwxNTQzNTIxNTAsLTE0NDA3NzUy
+NDgsMTMwMjYxNTc0OSwtMjQ1MTczOTA1LC0yMDkzOTk5NzMwLC
+0xMzA4NDUxMzEwLC05NzYwNjgyMTEsLTE1Njg3NTkyNTIsLTE3
+MzY2MDk2NDRdfQ==
 -->
