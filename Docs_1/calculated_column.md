@@ -88,7 +88,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 |in_global_key|it returns the data from global parameters based on the multiple common references.this references can be static or column|bi.in_global_keys ([“GP_Rkey1”,”GP_Rkey2”,.....],[Ref1, Ref2,.....], ”GP_Name.R_Val”) Note: Ref1/Ref2 can be static strings or column names or userid|
 |calculate_key_group|Returns an aggregated value of a measure based on a dimension with further mention of row grouping column name|bi.calculate_key_group (#Ag_col,$Ag_col,#RG_col,$RG_col,$M_col,”agg_type”) Where Ag= Aggregated & RG for Row Grouping  & M_Col for measure and agg_type can be sum, avg, min, max, count|
 |col_running_total|Returns the running total value for a column in each cell|bi.col_running_total(#{col_name})|
-|col_running_avg|Returns the average value upto current cell for a column|bi.col_running_avg(#{col_name})|
+|col_running_avg|Returns the average value up to current cell for a column|bi.col_running_avg(#{col_name})|
 
 ### Statistics
 |  **Name** | **Description** | **Usage & Example** |
@@ -441,6 +441,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ2NjUyMjcsLTE5OTI4MDkxOSwxMD
-M1NTQ2NTA3LC04NTQ4Mjg4MTcsLTg3Nzc1MTUwMF19
+eyJoaXN0b3J5IjpbNDgwMDc0MzI5LC0xNjI0NjY1MjI3LC0xOT
+kyODA5MTksMTAzNTU0NjUwNywtODU0ODI4ODE3LC04Nzc3NTE1
+MDBdfQ==
 -->
