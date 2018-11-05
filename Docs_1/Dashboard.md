@@ -15,7 +15,7 @@ After login into AcuBi Home Page, Click on Dashboard section.
 
 ## Create Dashboard
 
-**1.** Click **Dashboard section** then Click on **New Dashboard** Button on top right of the screen. 
+**1.** Click **Dashboard Section** then Click on **New Dashboard** Button on top right of the screen. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_1.png)
@@ -119,8 +119,9 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyNDM5MDc0LDIwMjg2ODEzNzgsNTgxMT
-c1NDkwLDg0MzkyMDUxNCwtMTgyNTI3MjUwNSwzODU5ODMzODEs
-MzY4NTk3NDI5LDEzOTY2MjcxMzMsMTkyMjI5MTgzMiwxNjc1OD
-g4NTAwLC0yMTA0NzkyMTIsLTE1NTgxNTA0MjJdfQ==
+eyJoaXN0b3J5IjpbMTc4NDA0NDgyLDgyMjQzOTA3NCwyMDI4Nj
+gxMzc4LDU4MTE3NTQ5MCw4NDM5MjA1MTQsLTE4MjUyNzI1MDUs
+Mzg1OTgzMzgxLDM2ODU5NzQyOSwxMzk2NjI3MTMzLDE5MjIyOT
+E4MzIsMTY3NTg4ODUwMCwtMjEwNDc5MjEyLC0xNTU4MTUwNDIy
+XX0=
 -->
