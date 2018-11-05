@@ -330,6 +330,7 @@ return item;
 
 It will execute a series of actions on a database record and returns a particular value.
  
+ 
  ```
 /*START*/
 
@@ -441,7 +442,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3NzU2MTI3LDE2MDYyNjc4MzksLTE2Mj
-Q2NjUyMjcsLTE5OTI4MDkxOSwxMDM1NTQ2NTA3LC04NTQ4Mjg4
-MTcsLTg3Nzc1MTUwMF19
+eyJoaXN0b3J5IjpbMzI5Njg2ODc3LDY1Nzc1NjEyNywxNjA2Mj
+Y3ODM5LC0xNjI0NjY1MjI3LC0xOTkyODA5MTksMTAzNTU0NjUw
+NywtODU0ODI4ODE3LC04Nzc3NTE1MDBdfQ==
 -->
