@@ -328,7 +328,8 @@ Horizontal Bar charts are used to compare data across different categories horiz
 
     -   **Center  (default)** aligns the Label in center.
     -   **Start** aligns the the label at lowest boundary.
-    -   **End** aligns the label at highest boundary.
+    -   **E
+    - nd** aligns the label at highest boundary.
     
 - **Align Negative** It will enable the negative values to be displayed below range  `0`.
  
@@ -452,11 +453,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjkyMDI3ODQsMTU3OTUyNTU2OCwxNz
-M4NDAyNjU3LDE4NjQyNzQ2NzUsMTAzNjAwMDUxNywtMTY3MDg4
-MzI5LC04MzYwOTczODUsMTA4MDA0NTIyMCwtMTcwOTQ1NzEwLD
-E1NzI0ODA3NzQsMjQxMjc1NTcxLC01NjIzODQzNDYsLTIxMTUw
-NDI4ODEsNjE2NzI3MDUwLDEzMjQ5MTU5NjEsMTI2NjYxNDA2MC
-wxOTIyNTgyOTYyLDE2MDAxOTkzNDYsLTEzMjMxMTAzMDYsLTg4
-ODg2MTk1NF19
+eyJoaXN0b3J5IjpbLTMzMTA5ODgxMSwtMTk2OTIwMjc4NCwxNT
+c5NTI1NTY4LDE3Mzg0MDI2NTcsMTg2NDI3NDY3NSwxMDM2MDAw
+NTE3LC0xNjcwODgzMjksLTgzNjA5NzM4NSwxMDgwMDQ1MjIwLC
+0xNzA5NDU3MTAsMTU3MjQ4MDc3NCwyNDEyNzU1NzEsLTU2MjM4
+NDM0NiwtMjExNTA0Mjg4MSw2MTY3MjcwNTAsMTMyNDkxNTk2MS
+wxMjY2NjE0MDYwLDE5MjI1ODI5NjIsMTYwMDE5OTM0NiwtMTMy
+MzExMDMwNl19
 -->
