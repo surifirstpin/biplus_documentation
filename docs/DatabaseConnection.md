@@ -10,7 +10,7 @@
   -  Using  IP Address Whitelist, optionally adding SSL Encryption.
   - Using SSH Tunnel, which provides a secured and encrypted connection with extra authentication.
   
-**III.** Set up database to work with BiPlus. Instructions may vary from dialect to dialect. Typically it includes providing approval to BiPlus to access database.
+**III.** Set up database to work with AcuBi. Instructions may vary from dialect to dialect. Typically it includes providing approval to AcuBi to access database.
 
  ## Set-Up Connection
 
@@ -39,13 +39,13 @@
 
 ## SSH 
 
-**a)**  To connect BiPlus SSH tunnel with same database host, provide following information to BiPlus analyst :
+**a)**  To connect AcuBi SSH tunnel with same database host, provide following information to AcuBi analyst :
  
   - IP address or DNS name of the database server
   - SSH port of the database server
   - Database port number
   
-**b)** If connecting with separate database host, provide following information to BiPlus analyst:
+**b)** If connecting with separate database host, provide following information to AcuBi analyst:
   
   - IP address or DNS name of the database server as seen from the tunnel server.
   - Database port number as seen from the tunnel server.
@@ -80,7 +80,8 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyODgyMTQ5LC01NTA2NjAwNDMsODAyOD
-gyMTQ5LC0xNDQ5Njc2Njg5LC0xMjIzMzQ3MzQ1LDEzMzM2NDEz
-MywzNDg0NjY4MDcsLTExMjA0MTE0OTMsMTY1MzQ4MzI4XX0=
+eyJoaXN0b3J5IjpbMTQ2NDIxNDk2LDgwMjg4MjE0OSwtNTUwNj
+YwMDQzLDgwMjg4MjE0OSwtMTQ0OTY3NjY4OSwtMTIyMzM0NzM0
+NSwxMzMzNjQxMzMsMzQ4NDY2ODA3LC0xMTIwNDExNDkzLDE2NT
+M0ODMyOF19
 -->
