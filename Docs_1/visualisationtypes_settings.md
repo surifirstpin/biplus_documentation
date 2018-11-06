@@ -326,9 +326,9 @@ Horizontal Bar charts are used to compare data across different categories horiz
    -   **top** the label is positioned to the top of the anchor point (270°)
   - **Anchor** The label position is calculated based on the anchor option. AcuBi supports Following positioning.
 
-    -   **center  (default)** aligns the Label in center.
-    -   **start** aligns the the label at lowest boundary.
-    -   **end** aligns the label at highest boundary.
+    -   **Center  (default)** aligns the Label in center.
+    -   **Start** aligns the the label at lowest boundary.
+    -   **End** aligns the label at highest boundary.
     
 - **Align Negative** It will enable the negative values to be displayed below range  `0`.
  
@@ -452,11 +452,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTUyNTU2OCwxNzM4NDAyNjU3LDE4Nj
-QyNzQ2NzUsMTAzNjAwMDUxNywtMTY3MDg4MzI5LC04MzYwOTcz
-ODUsMTA4MDA0NTIyMCwtMTcwOTQ1NzEwLDE1NzI0ODA3NzQsMj
-QxMjc1NTcxLC01NjIzODQzNDYsLTIxMTUwNDI4ODEsNjE2NzI3
-MDUwLDEzMjQ5MTU5NjEsMTI2NjYxNDA2MCwxOTIyNTgyOTYyLD
-E2MDAxOTkzNDYsLTEzMjMxMTAzMDYsLTg4ODg2MTk1NCwyNTU5
-OTcwODNdfQ==
+eyJoaXN0b3J5IjpbLTE5NjkyMDI3ODQsMTU3OTUyNTU2OCwxNz
+M4NDAyNjU3LDE4NjQyNzQ2NzUsMTAzNjAwMDUxNywtMTY3MDg4
+MzI5LC04MzYwOTczODUsMTA4MDA0NTIyMCwtMTcwOTQ1NzEwLD
+E1NzI0ODA3NzQsMjQxMjc1NTcxLC01NjIzODQzNDYsLTIxMTUw
+NDI4ODEsNjE2NzI3MDUwLDEzMjQ5MTU5NjEsMTI2NjYxNDA2MC
+wxOTIyNTgyOTYyLDE2MDAxOTkzNDYsLTEzMjMxMTAzMDYsLTg4
+ODg2MTk1NF19
 -->
