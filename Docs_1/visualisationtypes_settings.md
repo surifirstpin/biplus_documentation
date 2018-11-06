@@ -425,7 +425,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Name** specify a reference name, for specific information on y-axis.
   
- - **Type** specify  Linear, Polynomial, Exponential, Logarithmic, Average, Median, Minimum, Maximum, Deviation, Variance, Custom Line, Custom Area on Y-axis.
+ - **Type** Specify  Linear, Polynomial, Exponential, Logarithmic, Average, Median, Minimum, Maximum, Deviation, Variance, Custom Line, Custom Area on Y-axis.
   
  -  **From & to** specify the reference line for specific range of measure values.
 
@@ -453,11 +453,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTA5ODgxMSwtMTk2OTIwMjc4NCwxNT
-c5NTI1NTY4LDE3Mzg0MDI2NTcsMTg2NDI3NDY3NSwxMDM2MDAw
-NTE3LC0xNjcwODgzMjksLTgzNjA5NzM4NSwxMDgwMDQ1MjIwLC
-0xNzA5NDU3MTAsMTU3MjQ4MDc3NCwyNDEyNzU1NzEsLTU2MjM4
-NDM0NiwtMjExNTA0Mjg4MSw2MTY3MjcwNTAsMTMyNDkxNTk2MS
-wxMjY2NjE0MDYwLDE5MjI1ODI5NjIsMTYwMDE5OTM0NiwtMTMy
-MzExMDMwNl19
+eyJoaXN0b3J5IjpbLTE0NjMzOTUwMzUsLTMzMTA5ODgxMSwtMT
+k2OTIwMjc4NCwxNTc5NTI1NTY4LDE3Mzg0MDI2NTcsMTg2NDI3
+NDY3NSwxMDM2MDAwNTE3LC0xNjcwODgzMjksLTgzNjA5NzM4NS
+wxMDgwMDQ1MjIwLC0xNzA5NDU3MTAsMTU3MjQ4MDc3NCwyNDEy
+NzU1NzEsLTU2MjM4NDM0NiwtMjExNTA0Mjg4MSw2MTY3MjcwNT
+AsMTMyNDkxNTk2MSwxMjY2NjE0MDYwLDE5MjI1ODI5NjIsMTYw
+MDE5OTM0Nl19
 -->
