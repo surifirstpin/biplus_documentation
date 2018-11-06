@@ -7,14 +7,13 @@ The report generated in AcuBi can be saved in specific location under a specific
 ![ 
   ](https://raw.githubusercontent.com/sv18042016/fp1/cbe0a5ade1657451e97f2a05d4eba5db6eaa2b1d/images/save_report.png)
 
-
 ## Save Report
 
 You will be navigated to **Save Explore** page. Enter all the below information  to save a report for further accessing.
 
 - **Report Name** Name identifier for a report. ( AcuBi allows  special character but does not  support any spaces )
 
-- **Title** label for the report the way you want it to appear.
+- **Title** label the report.
 
 - **Info** displays any specific information about the report.
 
@@ -55,7 +54,7 @@ Cache saves the data, to pull the data with in specific time limit.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzg3NDI4Niw3NDU4NDk0NCwxOTgyNT
+eyJoaXN0b3J5IjpbMTk3NDI0NDA0Myw3NDU4NDk0NCwxOTgyNT
 U2MTAsNzM2NzM2Nzc4LDM2NTcxOTY4MywxOTIzMDc3OTEyLC04
 ODg5NTg4NTgsLTMzNzI2MjAyXX0=
 -->
