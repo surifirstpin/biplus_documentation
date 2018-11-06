@@ -18,7 +18,7 @@ AcuBi allows you to provide additional key values to manipulate the data in calc
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb08bee2614e37797672ab46bd201d2f6211d09b/images/global+para.png)
 
--  Enter **key name** as shown in the pop-up screen below, then Click on **ok** button.
+-  Enter **key name** as shown in the pop-up screen below, then Click on **OK** button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/af27c45cb55b5170d224482c0ac646b1093c8f1a/images/global+para2.png)
 
@@ -96,11 +96,11 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzgzMzk3MDIsLTUxOTcyNjI3MywtMT
-A2ODY3MTU3MSwtMzA2NDM2NjU4LDEyMzk2NjkwOTEsLTM0ODgy
-ODE3OSwtMTcxNTc1MzI3NSw0ODE1MjY0MTgsLTEzNDU5MjI3MD
-YsMjA0MTMzODE5MCwtMjY3NjcyMTMsMjExNzYxNjkyMywtODk1
-MDkxODkwLDE2OTQzODc1OTUsLTM5Njk0MjAwMSwxMjMxMzcwMj
-c5LC0xOTA3Nzc2ODQwLC0xODExMTE3ODY1LC05MDA1MDE2NjFd
-fQ==
+eyJoaXN0b3J5IjpbLTE2NzcyNDUzMDIsLTE5MzgzMzk3MDIsLT
+UxOTcyNjI3MywtMTA2ODY3MTU3MSwtMzA2NDM2NjU4LDEyMzk2
+NjkwOTEsLTM0ODgyODE3OSwtMTcxNTc1MzI3NSw0ODE1MjY0MT
+gsLTEzNDU5MjI3MDYsMjA0MTMzODE5MCwtMjY3NjcyMTMsMjEx
+NzYxNjkyMywtODk1MDkxODkwLDE2OTQzODc1OTUsLTM5Njk0Mj
+AwMSwxMjMxMzcwMjc5LC0xOTA3Nzc2ODQwLC0xODExMTE3ODY1
+LC05MDA1MDE2NjFdfQ==
 -->
