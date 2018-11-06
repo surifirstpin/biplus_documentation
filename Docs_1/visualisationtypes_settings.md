@@ -394,7 +394,7 @@ Horizontal Bar charts are used to compare data across different categories horiz
   
  - **Type** specify reference type as line or  area.
   
- -  **From & to** specify the reference line for specific range of dimensions.
+ -  **From & To** specify the reference line for specific range of dimensions.
 
  - **Theme** enables colour for reference line.
  
@@ -453,11 +453,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjMzOTUwMzUsLTMzMTA5ODgxMSwtMT
-k2OTIwMjc4NCwxNTc5NTI1NTY4LDE3Mzg0MDI2NTcsMTg2NDI3
-NDY3NSwxMDM2MDAwNTE3LC0xNjcwODgzMjksLTgzNjA5NzM4NS
-wxMDgwMDQ1MjIwLC0xNzA5NDU3MTAsMTU3MjQ4MDc3NCwyNDEy
-NzU1NzEsLTU2MjM4NDM0NiwtMjExNTA0Mjg4MSw2MTY3MjcwNT
-AsMTMyNDkxNTk2MSwxMjY2NjE0MDYwLDE5MjI1ODI5NjIsMTYw
-MDE5OTM0Nl19
+eyJoaXN0b3J5IjpbLTcyNzMwNDk1NSwtMTQ2MzM5NTAzNSwtMz
+MxMDk4ODExLC0xOTY5MjAyNzg0LDE1Nzk1MjU1NjgsMTczODQw
+MjY1NywxODY0Mjc0Njc1LDEwMzYwMDA1MTcsLTE2NzA4ODMyOS
+wtODM2MDk3Mzg1LDEwODAwNDUyMjAsLTE3MDk0NTcxMCwxNTcy
+NDgwNzc0LDI0MTI3NTU3MSwtNTYyMzg0MzQ2LC0yMTE1MDQyOD
+gxLDYxNjcyNzA1MCwxMzI0OTE1OTYxLDEyNjY2MTQwNjAsMTky
+MjU4Mjk2Ml19
 -->
