@@ -1,4 +1,4 @@
-<center><h1>Saving Reports</h1></center>
+ <center><h1>Saving Reports</h1></center>
 
 The report generated in AcuBi can be saved in specific location under a specific tag and share them with your team members for better collaboration.
 
@@ -55,7 +55,8 @@ Cache saves the data, to pull the data with in specific time limit.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3MjM1NDYyLDE5NzQyNDQwNDMsNzQ1OD
-Q5NDQsMTk4MjU1NjEwLDczNjczNjc3OCwzNjU3MTk2ODMsMTky
-MzA3NzkxMiwtODg4OTU4ODU4LC0zMzcyNjIwMl19
+eyJoaXN0b3J5IjpbMTg5Nzg0MTc3MCw3MjcyMzU0NjIsMTk3ND
+I0NDA0Myw3NDU4NDk0NCwxOTgyNTU2MTAsNzM2NzM2Nzc4LDM2
+NTcxOTY4MywxOTIzMDc3OTEyLC04ODg5NTg4NTgsLTMzNzI2Mj
+AyXX0=
 -->
