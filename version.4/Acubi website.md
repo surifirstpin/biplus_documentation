@@ -27,7 +27,7 @@ Our Organisation enables you to have a clear vision of the performance in simple
 
 #### Easy, Affordable, Secure
 
-It ensure Application building, Customization, Maintenance and Cost-efficiency by attaining customer satisfaction at the same time provides a secure collaboration in between teams.
+It ensure Application building, Customization, Maintenance and Cost-efficiency by attaining customer satisfaction at the same time provides a secure collaboration between teams.
 
 #### Experience Rapid Insights
 
@@ -158,11 +158,11 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwMDIzODkzLDE5MDMxMjE2MjUsLTE2MT
-Q2ODAxNywtMTc2MjcwNTI3OSwtNzY3MDI1NzQ1LC0xNDMwMjY3
-ODExLDcyMjgxNDA0NSwtMTQ2OTc3MDEyOSwxMjM2NzIxMzYxLD
-EyMTM4NjE5NjksMTc2ODIzNzE1NiwtMTU4OTA0MjMyMCwtNDcw
-Mjg1MTgyLDE4MjA3NjQyNjIsMzMzNTA5NjM0LDc0NDEzMzQyLC
-0zMjMwOTUxODQsLTQzODc3NDg2MCwtOTM2OTUzMjYsLTExNDc4
-MDMyNzFdfQ==
+eyJoaXN0b3J5IjpbLTE4MDMwNzI1MDQsMTkwMzEyMTYyNSwtMT
+YxNDY4MDE3LC0xNzYyNzA1Mjc5LC03NjcwMjU3NDUsLTE0MzAy
+Njc4MTEsNzIyODE0MDQ1LC0xNDY5NzcwMTI5LDEyMzY3MjEzNj
+EsMTIxMzg2MTk2OSwxNzY4MjM3MTU2LC0xNTg5MDQyMzIwLC00
+NzAyODUxODIsMTgyMDc2NDI2MiwzMzM1MDk2MzQsNzQ0MTMzND
+IsLTMyMzA5NTE4NCwtNDM4Nzc0ODYwLC05MzY5NTMyNiwtMTE0
+NzgwMzI3MV19
 -->
