@@ -11,7 +11,7 @@ To view the saved content or files in AcuBi, Navigate to dashboard section. Clic
 
 ### TAGS
 
-Click on any specific tag which you would like to view. it will navigate to tag location and displays the child tag, reports and dashboard saved under that particulate tag location.
+Click on any specific tag which you would like to view. it will navigate to tag location and displays the child tag, reports and dashboard saved under that particular tag location.
 
 ### Dashboard
 
@@ -24,9 +24,9 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjA4MDMxMSwxODE2OTMxMzQwLDE4Mz
-gxOTM0MjAsMTgzNzQ0NDgyMCwxNzkyMTQ3OTQ3LC0zNDQ1OTQ4
-NDYsLTE1NjkwNDgyMjYsMTM5OTczNjAsLTE4MTMxNDAxNzksMT
-E1OTY0MzQ5MCwxMTk1MjUzNTExLDcwMTQ3OTA0MiwxNTM2NDY5
-MjQ4XX0=
+eyJoaXN0b3J5IjpbLTE4NTc4Nzk5NzQsLTk2NjA4MDMxMSwxOD
+E2OTMxMzQwLDE4MzgxOTM0MjAsMTgzNzQ0NDgyMCwxNzkyMTQ3
+OTQ3LC0zNDQ1OTQ4NDYsLTE1NjkwNDgyMjYsMTM5OTczNjAsLT
+E4MTMxNDAxNzksMTE1OTY0MzQ5MCwxMTk1MjUzNTExLDcwMTQ3
+OTA0MiwxNTM2NDY5MjQ4XX0=
 -->
