@@ -23,10 +23,7 @@ It Provides Flexibility Of Getting Connected To Data From Desktop, Tablet And Mo
 
 # HIGH QUALITY DATA ANALYTICS AND REPORTING FOR ALL
 
-Our Organisation helps you to enable a clear vision of the performance in a simple and effective manner. We are focused more on redefining each aspect of business analytics by making it more easy to explore your business insight.
-
-Our Organisation enables you to have a clear vision
-
+Our Organisation enables you to have a clear vision of the performance in simple and effective manner. We are focused more on redefining each aspect of business analytics by making it more easy to explore your business insight.
 
 #### Easy, Affordable, Secure
 
@@ -161,11 +158,11 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3Mjg1MzgwMywxOTAzMTIxNjI1LC0xNj
-E0NjgwMTcsLTE3NjI3MDUyNzksLTc2NzAyNTc0NSwtMTQzMDI2
-NzgxMSw3MjI4MTQwNDUsLTE0Njk3NzAxMjksMTIzNjcyMTM2MS
-wxMjEzODYxOTY5LDE3NjgyMzcxNTYsLTE1ODkwNDIzMjAsLTQ3
-MDI4NTE4MiwxODIwNzY0MjYyLDMzMzUwOTYzNCw3NDQxMzM0Mi
-wtMzIzMDk1MTg0LC00Mzg3NzQ4NjAsLTkzNjk1MzI2LC0xMTQ3
-ODAzMjcxXX0=
+eyJoaXN0b3J5IjpbNDYwMDIzODkzLDE5MDMxMjE2MjUsLTE2MT
+Q2ODAxNywtMTc2MjcwNTI3OSwtNzY3MDI1NzQ1LC0xNDMwMjY3
+ODExLDcyMjgxNDA0NSwtMTQ2OTc3MDEyOSwxMjM2NzIxMzYxLD
+EyMTM4NjE5NjksMTc2ODIzNzE1NiwtMTU4OTA0MjMyMCwtNDcw
+Mjg1MTgyLDE4MjA3NjQyNjIsMzMzNTA5NjM0LDc0NDEzMzQyLC
+0zMjMwOTUxODQsLTQzODc3NDg2MCwtOTM2OTUzMjYsLTExNDc4
+MDMyNzFdfQ==
 -->
