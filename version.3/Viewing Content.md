@@ -5,7 +5,8 @@ This section explains on how to view the existing files saved under workspace in
 
 ## Navigating to Saved Content 
 
-Click on the file you would like to view
+Click on the file you would like to view. As explained below.
+
 ### 1. TAGS
 
 Click on any specific tag which you would like to view. it will navigate to tag location and displays the child tag, reports and dashboard saved under that particular tag location.
@@ -25,11 +26,11 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY3NjUyMjEsLTE4NTc4Nzk5NzQsLT
-k2NjA4MDMxMSwxODE2OTMxMzQwLDE4MzgxOTM0MjAsMTgzNzQ0
-NDgyMCwxNzkyMTQ3OTQ3LC0zNDQ1OTQ4NDYsLTE1NjkwNDgyMj
-YsMTM5OTczNjAsLTE4MTMxNDAxNzksMTE1OTY0MzQ5MCwxMTk1
-MjUzNTExLDcwMTQ3OTA0MiwxNTM2NDY5MjQ4LC03OTQzMzkzMT
-QsMTQ2NDc0ODI0MCwtODAwODY3Mzg0LDQ5Nzk2MzAyOSwxMDA2
-ODgwODY2XX0=
+eyJoaXN0b3J5IjpbMTQxNzI0Mjc1OCwtMTg1Nzg3OTk3NCwtOT
+Y2MDgwMzExLDE4MTY5MzEzNDAsMTgzODE5MzQyMCwxODM3NDQ0
+ODIwLDE3OTIxNDc5NDcsLTM0NDU5NDg0NiwtMTU2OTA0ODIyNi
+wxMzk5NzM2MCwtMTgxMzE0MDE3OSwxMTU5NjQzNDkwLDExOTUy
+NTM1MTEsNzAxNDc5MDQyLDE1MzY0NjkyNDgsLTc5NDMzOTMxNC
+wxNDY0NzQ4MjQwLC04MDA4NjczODQsNDk3OTYzMDI5LDEwMDY4
+ODA4NjZdfQ==
 -->
