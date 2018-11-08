@@ -25,6 +25,9 @@ It Provides Flexibility Of Getting Connected To Data From Desktop, Tablet And Mo
 
 Our Organisation helps you to enable a clear vision of the performance in a simple and effective manner. We are focused more on redefining each aspect of business analytics by making it more easy to explore your business insight.
 
+Our Organisation enables you to have a clear vision 
+
+
 #### Easy, Affordable, Secure
 
 It ensure Application building, Customization, Maintenance and Cost-efficiency by attaining customer satisfaction at the same time provides a secure collaboration in between teams.
@@ -158,11 +161,11 @@ Automate financial planning and analyze business performance down to operations.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzEyMTYyNSwtMTYxNDY4MDE3LC0xNz
-YyNzA1Mjc5LC03NjcwMjU3NDUsLTE0MzAyNjc4MTEsNzIyODE0
-MDQ1LC0xNDY5NzcwMTI5LDEyMzY3MjEzNjEsMTIxMzg2MTk2OS
-wxNzY4MjM3MTU2LC0xNTg5MDQyMzIwLC00NzAyODUxODIsMTgy
-MDc2NDI2MiwzMzM1MDk2MzQsNzQ0MTMzNDIsLTMyMzA5NTE4NC
-wtNDM4Nzc0ODYwLC05MzY5NTMyNiwtMTE0NzgwMzI3MSwtNTc5
-OTQzNzUxXX0=
+eyJoaXN0b3J5IjpbMTkzODk3MTk2NywxOTAzMTIxNjI1LC0xNj
+E0NjgwMTcsLTE3NjI3MDUyNzksLTc2NzAyNTc0NSwtMTQzMDI2
+NzgxMSw3MjI4MTQwNDUsLTE0Njk3NzAxMjksMTIzNjcyMTM2MS
+wxMjEzODYxOTY5LDE3NjgyMzcxNTYsLTE1ODkwNDIzMjAsLTQ3
+MDI4NTE4MiwxODIwNzY0MjYyLDMzMzUwOTYzNCw3NDQxMzM0Mi
+wtMzIzMDk1MTg0LC00Mzg3NzQ4NjAsLTkzNjk1MzI2LC0xMTQ3
+ODAzMjcxXX0=
 -->
