@@ -98,7 +98,7 @@ Apply report filter **Sum count equals to 1** in Analysis section and the data r
 
 - **Referred** to refer predefined filter for the following filters.
 
-## Save As / Update option for a saved report in Edit
+## Save As / Update Report
 
 **9.**  To update the changes made to report click **Update** button.
 
@@ -121,11 +121,11 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzOTcwODY4LC0xMDAxMDYxOTY0LDEwMD
-A1MzA5MDIsMTQ5MzYwMjM0NCwtMTk2NjAxMzQzMiw4NTE3MTkw
-NjQsLTEyMDUyMjk0OTEsMTEyNzAzMDg1OSwtMzMyOTA3Mzc1LD
-Y5MjQ4NjIwNiwxNDA5NDExOTEwLDE2MTYxOTUxMDcsMTYyMjg4
-NjMsMzAwNjcwNzI1LDE4MjI4OTk0MzksLTgxMTEwNjk4MiwtMT
-U1MDgyNzg1NywtMTMyMjIzNTc5OCwxNzMwOTc5Nzk4LC0xMjU2
-OTc0NDExXX0=
+eyJoaXN0b3J5IjpbMTQzNjk4NjQyMSwzMTM5NzA4NjgsLTEwMD
+EwNjE5NjQsMTAwMDUzMDkwMiwxNDkzNjAyMzQ0LC0xOTY2MDEz
+NDMyLDg1MTcxOTA2NCwtMTIwNTIyOTQ5MSwxMTI3MDMwODU5LC
+0zMzI5MDczNzUsNjkyNDg2MjA2LDE0MDk0MTE5MTAsMTYxNjE5
+NTEwNywxNjIyODg2MywzMDA2NzA3MjUsMTgyMjg5OTQzOSwtOD
+ExMTA2OTgyLC0xNTUwODI3ODU3LC0xMzIyMjM1Nzk4LDE3MzA5
+Nzk3OThdfQ==
 -->
