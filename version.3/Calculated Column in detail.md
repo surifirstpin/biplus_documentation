@@ -246,8 +246,6 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 |  atanh | Returns the hyperbolic arctangent of a value, <br/>Defined as atanh(x) = ln((1 + x)/(1 - x)) / 2. | bi.atanh(value)<br/>Ex: bi.atanh(0.5) = 0.5493061443340549 |
 |  acoth | Returns  the hyperbolic arccotangent of a value, <br/>Defined as acoth(x) = atanh(1/x) = (ln((x+1)/x) + ln(x/(x-1))) / 2. | bi.acoth(value)<br/>Ex: bi.acoth(0.5) = 0.8047189562170503 |
 
-
-
 ### Constant
 
 |  **Name** | **Description** | **Example** |
@@ -285,8 +283,6 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 |  isPrime | Results true / false after validating  the given value is  whether a prime number | bi.isPrime(value)<br/> Ex: bi.isPrime(3) = true, <br/>       bi.isPrime(4) = false |
 |  isZero | Results true / false after validating  the given value is  whether it is zero | bi.isZero(value)<br/> Ex: bi.isZero(1) = false, <br/>       bi.isZero(0) = true |
 |  typeof | Determine the type of a variable. | bi.typeof(3.5) = number, <br/>bi.typeof(math.complex('2-4i')) = complex,<br/>bi.typeof('hello world') = string |
-
-
 
 
 ## Arithmetic & Logical operations on Data Fields
@@ -442,11 +438,11 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5Njg2ODc3LDY1Nzc1NjEyNywxNjA2Mj
-Y3ODM5LC0xNjI0NjY1MjI3LC0xOTkyODA5MTksLTE5MjExMTg0
-MjEsMTAzNTU0NjUwNywtODU0ODI4ODE3LC04Nzc3NTE1MDAsOT
-c1MTMxNzAsMTA2Njk0MjExNiwxNTQzNTIxNTAsLTE0NDA3NzUy
-NDgsMTMwMjYxNTc0OSwtMjQ1MTczOTA1LC0yMDkzOTk5NzMwLC
-0xMzA4NDUxMzEwLC05NzYwNjgyMTEsLTE1Njg3NTkyNTIsLTE3
-MzY2MDk2NDRdfQ==
+eyJoaXN0b3J5IjpbLTMwMDUzMjM4NywzMjk2ODY4NzcsNjU3Nz
+U2MTI3LDE2MDYyNjc4MzksLTE2MjQ2NjUyMjcsLTE5OTI4MDkx
+OSwtMTkyMTExODQyMSwxMDM1NTQ2NTA3LC04NTQ4Mjg4MTcsLT
+g3Nzc1MTUwMCw5NzUxMzE3MCwxMDY2OTQyMTE2LDE1NDM1MjE1
+MCwtMTQ0MDc3NTI0OCwxMzAyNjE1NzQ5LC0yNDUxNzM5MDUsLT
+IwOTM5OTk3MzAsLTEzMDg0NTEzMTAsLTk3NjA2ODIxMSwtMTU2
+ODc1OTI1Ml19
 -->
