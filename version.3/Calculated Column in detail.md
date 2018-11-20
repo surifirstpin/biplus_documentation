@@ -43,7 +43,7 @@ $(Root.BI_DELIVERYREPORT.sum_ORDERVALUE}+2000
 ](https://raw.githubusercontent.com/sv18042016/fp1/aff2f17d1b5383de542a7b534df7caeb69c03b3d/images/calculated_col_window.png)
 
 
--  **Calculate on the raw data** if it is enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
+-  **Calculate on Raw data**  if enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
 
 
 ![
@@ -438,11 +438,11 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDUzMjM4NywzMjk2ODY4NzcsNjU3Nz
-U2MTI3LDE2MDYyNjc4MzksLTE2MjQ2NjUyMjcsLTE5OTI4MDkx
-OSwtMTkyMTExODQyMSwxMDM1NTQ2NTA3LC04NTQ4Mjg4MTcsLT
-g3Nzc1MTUwMCw5NzUxMzE3MCwxMDY2OTQyMTE2LDE1NDM1MjE1
-MCwtMTQ0MDc3NTI0OCwxMzAyNjE1NzQ5LC0yNDUxNzM5MDUsLT
-IwOTM5OTk3MzAsLTEzMDg0NTEzMTAsLTk3NjA2ODIxMSwtMTU2
-ODc1OTI1Ml19
+eyJoaXN0b3J5IjpbLTE0NzkwNDgxNjksLTMwMDUzMjM4NywzMj
+k2ODY4NzcsNjU3NzU2MTI3LDE2MDYyNjc4MzksLTE2MjQ2NjUy
+MjcsLTE5OTI4MDkxOSwtMTkyMTExODQyMSwxMDM1NTQ2NTA3LC
+04NTQ4Mjg4MTcsLTg3Nzc1MTUwMCw5NzUxMzE3MCwxMDY2OTQy
+MTE2LDE1NDM1MjE1MCwtMTQ0MDc3NTI0OCwxMzAyNjE1NzQ5LC
+0yNDUxNzM5MDUsLTIwOTM5OTk3MzAsLTEzMDg0NTEzMTAsLTk3
+NjA2ODIxMV19
 -->
