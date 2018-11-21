@@ -111,7 +111,7 @@ The Listeners option allows to register callbacks to be notified when an event i
   
        -  **Public()**   It enable access for all the users. 
   
-        -  **Share()** It enable access for specific set of users.
+       -  **Share()** It enable access for specific set of users.
   
 Select the tag in which you want to save **Dashboard Reports** and click on **Save.**
 
@@ -119,9 +119,9 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDA0NDgyLDgyMjQzOTA3NCwyMDI4Nj
-gxMzc4LDU4MTE3NTQ5MCw4NDM5MjA1MTQsLTE4MjUyNzI1MDUs
-Mzg1OTgzMzgxLDM2ODU5NzQyOSwxMzk2NjI3MTMzLDE5MjIyOT
-E4MzIsMTY3NTg4ODUwMCwtMjEwNDc5MjEyLC0xNTU4MTUwNDIy
-XX0=
+eyJoaXN0b3J5IjpbLTk2MDczMjkyNiwxNzg0MDQ0ODIsODIyND
+M5MDc0LDIwMjg2ODEzNzgsNTgxMTc1NDkwLDg0MzkyMDUxNCwt
+MTgyNTI3MjUwNSwzODU5ODMzODEsMzY4NTk3NDI5LDEzOTY2Mj
+cxMzMsMTkyMjI5MTgzMiwxNjc1ODg4NTAwLC0yMTA0NzkyMTIs
+LTE1NTgxNTA0MjJdfQ==
 -->
