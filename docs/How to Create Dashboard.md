@@ -73,7 +73,7 @@ After login into AcuBi Home Page, Click on Dashboard section.
    
 ## Dependency Filters
 
-You can refer the existing lookup, based on which a new lookup is created to retrieve the data based of the referred lookup. In this way  you can extract the data depending on referred lookup field.
+You can refer the existing lookup, based on which a new lookup is created to retrieve the data based on referred lookup. In this way  you can extract the data depending on referred lookup field.
 
    -   **Referred** on selecting the referred checkbox the following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
  
@@ -119,9 +119,10 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODI5MzE0MCwxMDQ1MTU1MDkyLDE3OD
-QwNDQ4Miw4MjI0MzkwNzQsMjAyODY4MTM3OCw1ODExNzU0OTAs
-ODQzOTIwNTE0LC0xODI1MjcyNTA1LDM4NTk4MzM4MSwzNjg1OT
-c0MjksMTM5NjYyNzEzMywxOTIyMjkxODMyLDE2NzU4ODg1MDAs
-LTIxMDQ3OTIxMiw1MDg1NTM1LDIyMjA3MjcyMV19
+eyJoaXN0b3J5IjpbMTg4MTkxNTcyMywxNDM4MjkzMTQwLDEwND
+UxNTUwOTIsMTc4NDA0NDgyLDgyMjQzOTA3NCwyMDI4NjgxMzc4
+LDU4MTE3NTQ5MCw4NDM5MjA1MTQsLTE4MjUyNzI1MDUsMzg1OT
+gzMzgxLDM2ODU5NzQyOSwxMzk2NjI3MTMzLDE5MjIyOTE4MzIs
+MTY3NTg4ODUwMCwtMjEwNDc5MjEyLDUwODU1MzUsMjIyMDcyNz
+IxXX0=
 -->
