@@ -345,7 +345,7 @@ bi._Fname(input_param1, input_param2,..input_paramN)
 
 ## Access Global Parameters
  
- Global parameter is a flat file used to manipulate,control and organize the data which is not available in database and can be accessed in report.
+ Global parameter is a flat file used to manipulate, control and organize the data which is not available in database and can be accessed in report.
  ```
  bi.in_global_keys(["ParameterColumnName"] ["DatabaseValue"],"ParameterName.Field"])
 ```
@@ -392,7 +392,7 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 
 ## Calculate on Raw functionality
 
-By enabling the field **calculate on raw** the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
+By enabling the field **calculate on raw**, the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
  
 >**For Instance:**  consider the below image, which represents calculated data with disabling calculate on raw.
 
@@ -438,11 +438,11 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTg3MjE1MjcsMTk5MDI4NTMzMywtMT
-I4MDc0ODUzNywtODk0NDAyNDI2LC0xNDc5MDQ4MTY5LC0zMDA1
-MzIzODcsMzI5Njg2ODc3LDY1Nzc1NjEyNywxNjA2MjY3ODM5LC
-0xNjI0NjY1MjI3LC0xOTkyODA5MTksLTE5MjExMTg0MjEsMTAz
-NTU0NjUwNywtODU0ODI4ODE3LC04Nzc3NTE1MDAsOTc1MTMxNz
-AsMTA2Njk0MjExNiwxNTQzNTIxNTAsLTE0NDA3NzUyNDgsMTMw
-MjYxNTc0OV19
+eyJoaXN0b3J5IjpbLTc1MDMxMzQ1OSwtMTcxODcyMTUyNywxOT
+kwMjg1MzMzLC0xMjgwNzQ4NTM3LC04OTQ0MDI0MjYsLTE0Nzkw
+NDgxNjksLTMwMDUzMjM4NywzMjk2ODY4NzcsNjU3NzU2MTI3LD
+E2MDYyNjc4MzksLTE2MjQ2NjUyMjcsLTE5OTI4MDkxOSwtMTky
+MTExODQyMSwxMDM1NTQ2NTA3LC04NTQ4Mjg4MTcsLTg3Nzc1MT
+UwMCw5NzUxMzE3MCwxMDY2OTQyMTE2LDE1NDM1MjE1MCwtMTQ0
+MDc3NTI0OF19
 -->
