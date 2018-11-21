@@ -99,13 +99,13 @@ The Listeners option allows to register callbacks to be notified when an event i
 
 ****Fill up save dashboard section :****
 
-   -   **Name**  name identifier for dashboard created.
+   -   **Name :**  name identifier for dashboard created.
                               
-   -   **Title**  title to refer the dashboard.
+   -   **Title :**  title to refer the dashboard.
     
-   -   **Info**  summary information of the dashboard created.
+   -   **Info :**  summary information of the dashboard created.
     
-   -   **Privacy**  you can save the report in any one of the following privacy option.
+   -   **Privacy :**  you can save the report in any one of the following privacy option.
     
        -  **Private()** It enable access for user itself.
   
@@ -119,10 +119,11 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTA0MTQ0NSwtMTM3NTc0NDEwMywxOD
-gxOTE1NzIzLDE0MzgyOTMxNDAsMTA0NTE1NTA5MiwxNzg0MDQ0
-ODIsODIyNDM5MDc0LDIwMjg2ODEzNzgsNTgxMTc1NDkwLDg0Mz
-kyMDUxNCwtMTgyNTI3MjUwNSwzODU5ODMzODEsMzY4NTk3NDI5
-LDEzOTY2MjcxMzMsMTkyMjI5MTgzMiwxNjc1ODg4NTAwLC0yMT
-A0NzkyMTIsNTA4NTUzNSwyMjIwNzI3MjFdfQ==
+eyJoaXN0b3J5IjpbNDIyMTI2ODA5LDEwMzkwNDE0NDUsLTEzNz
+U3NDQxMDMsMTg4MTkxNTcyMywxNDM4MjkzMTQwLDEwNDUxNTUw
+OTIsMTc4NDA0NDgyLDgyMjQzOTA3NCwyMDI4NjgxMzc4LDU4MT
+E3NTQ5MCw4NDM5MjA1MTQsLTE4MjUyNzI1MDUsMzg1OTgzMzgx
+LDM2ODU5NzQyOSwxMzk2NjI3MTMzLDE5MjIyOTE4MzIsMTY3NT
+g4ODUwMCwtMjEwNDc5MjEyLDUwODU1MzUsMjIyMDcyNzIxXX0=
+
 -->
