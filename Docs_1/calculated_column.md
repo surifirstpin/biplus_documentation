@@ -49,7 +49,7 @@ $(Root.BI_DELIVERYREPORT.sum_ORDERVALUE}+2000
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
 
-- Click **Ok** after deriving an expression,  all the values based on calculation, is shown up in green colour as shown in below image,
+- Click **Oku** after deriving an expression,  all the values based on calculation, is shown up in green colour as shown in below image,
 
 
 ![
@@ -438,8 +438,8 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA3NDg1MzcsLTE0NzkwNDgxNjksLT
-MwMDUzMjM4NywzMjk2ODY4NzcsNjU3NzU2MTI3LDE2MDYyNjc4
-MzksLTE2MjQ2NjUyMjcsLTE5OTI4MDkxOSwxMDM1NTQ2NTA3LC
-04NTQ4Mjg4MTcsLTg3Nzc1MTUwMF19
+eyJoaXN0b3J5IjpbLTg5NDQwMjQyNiwtMTI4MDc0ODUzNywtMT
+Q3OTA0ODE2OSwtMzAwNTMyMzg3LDMyOTY4Njg3Nyw2NTc3NTYx
+MjcsMTYwNjI2NzgzOSwtMTYyNDY2NTIyNywtMTk5MjgwOTE5LD
+EwMzU1NDY1MDcsLTg1NDgyODgxNywtODc3NzUxNTAwXX0=
 -->
