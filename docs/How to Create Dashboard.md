@@ -52,23 +52,23 @@ After login into AcuBi Home Page, Click on Dashboard section.
 
 **Fill up the dashboard global section;**
 
-  -   **Filter Name**  identifier name to the filter applicable.
+  -   **Filter Name :**  identifier name to the filter applicable.
 
-  -   **Filter Type**  type of filter used ( Eg: string, date, number).
+  -   **Filter Type :**  type of filter used ( Eg: string, date, number).
 
-  -   **Operator**  filter operation that are applicable.
+  -   **Operator :**  filter operation that are applicable.
 
 **6.** Adding lookup to dashboard will refer set of query or list of items in filters.
 
 **Fill up the lookup section ;**
 
-   -   **Lookup name**  name of the lookup field.
+   -   **Lookup name :**  name of the lookup field.
    
-    -   **Lookup Type**  refers to item or query type.
+    -   **Lookup Type :**  refers to item or query type.
    
-    -   **Test Lookup**  to test the lookup.
+    -   **Test Lookup :**  to test the lookup.
    
-    -   **Multiple Selections**  enables the selection of list, for multiple data.
+    -   **Multiple Selections :**  enables the selection of list, for multiple data.
 
    
 ## Dependency Filters
@@ -119,10 +119,10 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTkxNTcyMywxNDM4MjkzMTQwLDEwND
-UxNTUwOTIsMTc4NDA0NDgyLDgyMjQzOTA3NCwyMDI4NjgxMzc4
-LDU4MTE3NTQ5MCw4NDM5MjA1MTQsLTE4MjUyNzI1MDUsMzg1OT
-gzMzgxLDM2ODU5NzQyOSwxMzk2NjI3MTMzLDE5MjIyOTE4MzIs
-MTY3NTg4ODUwMCwtMjEwNDc5MjEyLDUwODU1MzUsMjIyMDcyNz
-IxXX0=
+eyJoaXN0b3J5IjpbLTEzNzU3NDQxMDMsMTg4MTkxNTcyMywxND
+M4MjkzMTQwLDEwNDUxNTUwOTIsMTc4NDA0NDgyLDgyMjQzOTA3
+NCwyMDI4NjgxMzc4LDU4MTE3NTQ5MCw4NDM5MjA1MTQsLTE4Mj
+UyNzI1MDUsMzg1OTgzMzgxLDM2ODU5NzQyOSwxMzk2NjI3MTMz
+LDE5MjIyOTE4MzIsMTY3NTg4ODUwMCwtMjEwNDc5MjEyLDUwOD
+U1MzUsMjIyMDcyNzIxXX0=
 -->
