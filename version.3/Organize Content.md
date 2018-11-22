@@ -29,14 +29,14 @@ The circles icon on far right of the screen displays type of privacy setting **(
 
  -   **Green** colour indicates dashboard or report is saved under public section.
  -   **Red** colour indicates dashboard or reports is saved under shared section.
--   **Grey** colour indicates dashboard or reports is saved under private section.
+ -   **Grey** colour indicates dashboard or reports is saved under private section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/93fab44572b6a9c124a7c80f1ec840cd0488f319/images/organise_full.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjI3MzYxMCwtODQ3NTA2Nzg2LC0xOT
+eyJoaXN0b3J5IjpbMjAzMjc1MjUzNiwtODQ3NTA2Nzg2LC0xOT
 Q2OTgzODAwLDE3MjQ2NDYyMTYsMTcyNDY0NjIxNiwxODQ3MjQ3
 MzI0LDgxODUwNTg0LDE4OTM2OTkwNzYsNzQyMTE0NjUyLDExMj
 cxODE5MzgsLTQ3OTczODI0MywtMTE1ODI5MjAxMywtMzI3NjM2
