@@ -17,7 +17,8 @@ There are two ways you can work on organizing data,
    -  Renaming, Moving and deleting. 
    -  Set Home page display.
 
-**Now Let us see how to do this,**
+**Let us see how it works,**
+
 - To set dashboard on Home page click on **Set Home page** Icon.
 - To edit the dashboard or report click on  **Edit**  icon.
 - To delete the dashboard or report permanently Click on  **Delete**  icon.
@@ -35,10 +36,10 @@ The circles icon on far right of the screen displays type of privacy setting **(
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyNDc2MzAyLDIwMzI3NTI1MzYsLTg0Nz
-UwNjc4NiwtMTk0Njk4MzgwMCwxNzI0NjQ2MjE2LDE3MjQ2NDYy
-MTYsMTg0NzI0NzMyNCw4MTg1MDU4NCwxODkzNjk5MDc2LDc0Mj
-ExNDY1MiwxMTI3MTgxOTM4LC00Nzk3MzgyNDMsLTExNTgyOTIw
-MTMsLTMyNzYzNjMxNSw1NTI3NTc2MzQsMjA4NDYzODkyMCwxMT
-E3NTE5NzkwXX0=
+eyJoaXN0b3J5IjpbLTY1ODc2NjkwNywyMDMyNzUyNTM2LC04ND
+c1MDY3ODYsLTE5NDY5ODM4MDAsMTcyNDY0NjIxNiwxNzI0NjQ2
+MjE2LDE4NDcyNDczMjQsODE4NTA1ODQsMTg5MzY5OTA3Niw3ND
+IxMTQ2NTIsMTEyNzE4MTkzOCwtNDc5NzM4MjQzLC0xMTU4Mjky
+MDEzLC0zMjc2MzYzMTUsNTUyNzU3NjM0LDIwODQ2Mzg5MjAsMT
+ExNzUxOTc5MF19
 -->
