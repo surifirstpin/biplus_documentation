@@ -12,15 +12,14 @@ There are two ways you can work on organizing data,
 
  - **Second,** editing and managing access level, allows users to make necessary changes to the content such as;
 
-   - Editing Reports and Dashboards.
+   -  Editing Reports and Dashboards.
    -  Specifying which users and groups as  authority to access the data.
    -  Renaming, Moving and deleting. 
-   - Set Home page display.
+   -  Set Home page display.
 
 **Now Let us see how to do this,**
 - To set dashboard on Home page click on **Set Home page** Icon.
 - To edit the dashboard or report click on  **Edit**  icon.
-
 - To delete the dashboard or report permanently Click on  **Delete**  icon.
 
 ## Managing Access
@@ -36,10 +35,10 @@ The circles icon on far right of the screen displays type of privacy setting **(
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjc1MjUzNiwtODQ3NTA2Nzg2LC0xOT
-Q2OTgzODAwLDE3MjQ2NDYyMTYsMTcyNDY0NjIxNiwxODQ3MjQ3
-MzI0LDgxODUwNTg0LDE4OTM2OTkwNzYsNzQyMTE0NjUyLDExMj
-cxODE5MzgsLTQ3OTczODI0MywtMTE1ODI5MjAxMywtMzI3NjM2
-MzE1LDU1Mjc1NzYzNCwyMDg0NjM4OTIwLDExMTc1MTk3OTBdfQ
-==
+eyJoaXN0b3J5IjpbMzUyNDc2MzAyLDIwMzI3NTI1MzYsLTg0Nz
+UwNjc4NiwtMTk0Njk4MzgwMCwxNzI0NjQ2MjE2LDE3MjQ2NDYy
+MTYsMTg0NzI0NzMyNCw4MTg1MDU4NCwxODkzNjk5MDc2LDc0Mj
+ExNDY1MiwxMTI3MTgxOTM4LC00Nzk3MzgyNDMsLTExNTgyOTIw
+MTMsLTMyNzYzNjMxNSw1NTI3NTc2MzQsMjA4NDYzODkyMCwxMT
+E3NTE5NzkwXX0=
 -->
