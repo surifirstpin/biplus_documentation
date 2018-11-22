@@ -15,13 +15,13 @@ There are two ways you can work on organizing data,
    - Editing Reports and Dashboards.
    -  Specifying which users and groups as  authority to access the data.
    -  Renaming, Moving and deleting. 
-    - Set Home page display.
+   - Set Home page display.
 
 **Now Let us see how to do this,**
 - To set dashboard on Home page click on **Set Home page** Icon.
 - To edit the dashboard or report click on  **Edit**  icon.
 
- - To delete the dashboard or report permanently Click on  **Delete**  icon.
+- To delete the dashboard or report permanently Click on  **Delete**  icon.
 
 ## Managing Access
 
@@ -36,6 +36,7 @@ The circles icon on far right of the screen displays type of privacy setting **(
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzUwNjc4NiwtMTk0Njk4MzgwMCwtMT
-k0Njk4MzgwMCwxNzI0NjQ2MjE2LDE3MjQ2NDYyMTZdfQ==
+eyJoaXN0b3J5IjpbLTMyNjI3MzYxMCwtODQ3NTA2Nzg2LC0xOT
+Q2OTgzODAwLC0xOTQ2OTgzODAwLDE3MjQ2NDYyMTYsMTcyNDY0
+NjIxNl19
 -->
