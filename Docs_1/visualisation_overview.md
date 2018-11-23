@@ -18,7 +18,7 @@ After selecting dimensions and measures, run the report to display the fetched d
 ](https://raw.githubusercontent.com/sv18042016/fp1/b8aad43c522f9e3f211ee64e97819bb66b98ff81/images/full_vis1.png)
 
 
-## Visualization-Adds Life to Data
+## Visualization- Adds Life to Data
 
 Click on **Charts** tab, to configure different type of visualization images for your query. 
 Under **General** tab, click on the type of chart you want to view.
@@ -74,8 +74,8 @@ A more detailed explanation on visualization is given in visualization types and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTk4NDA0OCwxMTc1OTkwMjQzLDEzMT
-AyOTQ2NjMsMTk3Mjg3MjM1OCwxMjc4MTI0MTY4LDkxNTUyMDU2
-NCwtMTgwMDQyMjkwLDE4ODQzNzI3MzIsMTgzODYxMzE4OCwxOT
-A5NDMwMzg5XX0=
+eyJoaXN0b3J5IjpbNTEwNjE3MjA0LDIxMDk5ODQwNDgsMTE3NT
+k5MDI0MywxMzEwMjk0NjYzLDE5NzI4NzIzNTgsMTI3ODEyNDE2
+OCw5MTU1MjA1NjQsLTE4MDA0MjI5MCwxODg0MzcyNzMyLDE4Mz
+g2MTMxODgsMTkwOTQzMDM4OV19
 -->
