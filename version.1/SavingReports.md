@@ -14,7 +14,6 @@ You will be navigated to **Save Explore** page. Enter all the below information 
 - **Report Name** Name identifier for a report. ( AcuBi allows  special character but does not  support any spaces )
 
 - **Title** label the report
-- .
 
 - **Info** displays any specific information about the report.
 
@@ -55,8 +54,8 @@ Cache saves the data, to pull the data with in specific time limit.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Nzg0MTc3MCw3MjcyMzU0NjIsMTk3ND
-I0NDA0Myw3NDU4NDk0NCwxOTgyNTU2MTAsNzM2NzM2Nzc4LDM2
-NTcxOTY4MywxOTIzMDc3OTEyLC04ODg5NTg4NTgsLTMzNzI2Mj
-AyXX0=
+eyJoaXN0b3J5IjpbLTUwMzc4NzI0NywxODk3ODQxNzcwLDcyNz
+IzNTQ2MiwxOTc0MjQ0MDQzLDc0NTg0OTQ0LDE5ODI1NTYxMCw3
+MzY3MzY3NzgsMzY1NzE5NjgzLDE5MjMwNzc5MTIsLTg4ODk1OD
+g1OCwtMzM3MjYyMDJdfQ==
 -->
