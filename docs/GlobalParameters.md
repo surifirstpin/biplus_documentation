@@ -71,8 +71,8 @@ To find specific cell value in global parameter click on field column header dro
 The uploaded file will appear in **JSON** format under code view.
 
  **Note :** 
-- To undo the changes done for the code established click  **Undo** icon. 
--  To redo the changes done for the code click  **Redo** icon.
+ - To undo the changes done for the code established click  **Undo** icon. 
+ -  To redo the changes done for the code click  **Redo** icon.
  - To format the code according to proper alignment click on **Format Code** Icon.
 
 
@@ -96,11 +96,11 @@ If check case is enabled, global parameters become case sensitive for key mappin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzcyNDUzMDIsLTE5MzgzMzk3MDIsLT
-UxOTcyNjI3MywtMTA2ODY3MTU3MSwtMzA2NDM2NjU4LDEyMzk2
-NjkwOTEsLTM0ODgyODE3OSwtMTcxNTc1MzI3NSw0ODE1MjY0MT
-gsLTEzNDU5MjI3MDYsMjA0MTMzODE5MCwtMjY3NjcyMTMsMjEx
-NzYxNjkyMywtODk1MDkxODkwLDE2OTQzODc1OTUsLTM5Njk0Mj
-AwMSwxMjMxMzcwMjc5LC0xOTA3Nzc2ODQwLC0xODExMTE3ODY1
-LC05MDA1MDE2NjFdfQ==
+eyJoaXN0b3J5IjpbLTg5NTk0MzA5OCwtMTY3NzI0NTMwMiwtMT
+kzODMzOTcwMiwtNTE5NzI2MjczLC0xMDY4NjcxNTcxLC0zMDY0
+MzY2NTgsMTIzOTY2OTA5MSwtMzQ4ODI4MTc5LC0xNzE1NzUzMj
+c1LDQ4MTUyNjQxOCwtMTM0NTkyMjcwNiwyMDQxMzM4MTkwLC0y
+Njc2NzIxMywyMTE3NjE2OTIzLC04OTUwOTE4OTAsMTY5NDM4Nz
+U5NSwtMzk2OTQyMDAxLDEyMzEzNzAyNzksLTE5MDc3NzY4NDAs
+LTE4MTExMTc4NjVdfQ==
 -->
