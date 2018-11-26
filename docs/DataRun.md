@@ -1,6 +1,6 @@
 <center><h1>Analysis</h1></center>
 
-Analysis section is a starting point, for a building query.  it is designed in such a way, that it retrieves the data in desired combinations as per your business needs and explores particular subject area it self. It also provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight.
+Analysis section is a starting point for building a query.  it is designed in such a way, that it retrieves the data in desired combinations as per your business needs and explores particular subject area it self. It also provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight.
  
 **Let see in detail, How AcuBi helps you in retrieving the data as per your business needs :**
  
@@ -367,11 +367,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4MTA0NjQ5LDIwNTAzMTIzMTUsLTE3Nj
-U5MDgwODcsLTk3OTg0NDA3NCwtMjMyNTY5ODAyLDE1OTMwNDIz
-NDAsLTQ2NjY5MzA0OCw0MzQ1NjM4OTQsLTEzODc3MTkwNzgsLT
-E5MDE5NTM4OTIsMTczNjI4MjI0OCwtOTA5MDEwNTU0LC0xMDU5
-NDQwMDk0LDE5MjgzMTA4MDQsLTE4MjA0NTE4MTQsLTUzNDg5Nz
-AyNiwyMTA2MzgxOTUwLDgzNjU0MDU3MCwxNDg3MzE1MzA4LDEw
-NTgyNTA4ODldfQ==
+eyJoaXN0b3J5IjpbODk1MTc3MzM1LDkxODEwNDY0OSwyMDUwMz
+EyMzE1LC0xNzY1OTA4MDg3LC05Nzk4NDQwNzQsLTIzMjU2OTgw
+MiwxNTkzMDQyMzQwLC00NjY2OTMwNDgsNDM0NTYzODk0LC0xMz
+g3NzE5MDc4LC0xOTAxOTUzODkyLDE3MzYyODIyNDgsLTkwOTAx
+MDU1NCwtMTA1OTQ0MDA5NCwxOTI4MzEwODA0LC0xODIwNDUxOD
+E0LC01MzQ4OTcwMjYsMjEwNjM4MTk1MCw4MzY1NDA1NzAsMTQ4
+NzMxNTMwOF19
 -->
