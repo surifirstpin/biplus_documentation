@@ -85,7 +85,7 @@ To get started with derived view, Click on list icon and select create Derived V
  
  -  **Field List** On selecting the dialects all the fields used in query are reflected here.
  
- -  Click  on **Create**, to create a new custom view. 
+ -  Click  on **Create,** to create a new custom view. 
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/custom_view.png)
@@ -117,14 +117,14 @@ Under query section Click **Tag** Button, it will pop up create query Tag window
 
 **Info** enter query tag information.
 
- Finally Hit **Create Tag button**.
+  Hit **Create Tag button**.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1a7f8565de46814dd5aab91b5cfe32b61e4252e5/images/Tag2.png)
 
-- All the created tags are visible in **Tagged Section.**
+- All the created tags are visible under **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA5NTIxMjYsLTYzNTIxNTY3OCw4OD
+eyJoaXN0b3J5IjpbLTE4NjQ0MzUwOTgsLTYzNTIxNTY3OCw4OD
 cxMDI2NDMsLTEzNjQzMDY3OTcsLTE2NDEzMDE2MTMsMTM4NDYx
 MDAxMSw4MTcxMTMzOSwtMTY0MTQ4NDE3MywtMzE1Mjc4MDcsND
 g1NjUzNTk0LDE5Nzg4MjA3MzAsNzU5MzI4OTQ2LC00NDgxNDYw
