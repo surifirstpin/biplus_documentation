@@ -546,6 +546,8 @@ In the above example, Drill down option is defined over field “**State Name**�
 
 As  **Show drill down measures**  is set  **TRUE**, the associated measures (if exists) of the field “State Name” will also be brought to the next stage along with drill fields City Name and No_of_Employees.
 
+
+
 # Maps
 
 AcuBi provides map view by covering various number of countries. Also, there are special attributes like colour change for specific range of values.
@@ -646,11 +648,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjM1MDcyMSwtODM3MTAwNzQzLDE3ND
-c3MTk2NDcsMTc0NzcxOTY0NywxNzkzNjY0ODE5LC0xMjc0MDQ0
-NzUsMTk4NDk5NDUxNiwtNDk4MzI0MDk2LC0xNzI3NDM1MjIwLD
-Q3NTkxMDM4MCwxMDExMDU3Mzc1LDcxMzI3NTQyOCw3Njg0NTg2
-ODUsMjA0ODc4MTMzMiwtMTQwNjY4OTk2MCwtNTE0OTM2MTI4LD
-E5MjMwODk4NzUsLTU1NzkyMjQwNywyMTQ3MzI3MTU1LC0zMzk5
-NzA2NjVdfQ==
+eyJoaXN0b3J5IjpbNzU3NzgzMzg3LC00MTYzNTA3MjEsLTgzNz
+EwMDc0MywxNzQ3NzE5NjQ3LDE3NDc3MTk2NDcsMTc5MzY2NDgx
+OSwtMTI3NDA0NDc1LDE5ODQ5OTQ1MTYsLTQ5ODMyNDA5NiwtMT
+cyNzQzNTIyMCw0NzU5MTAzODAsMTAxMTA1NzM3NSw3MTMyNzU0
+MjgsNzY4NDU4Njg1LDIwNDg3ODEzMzIsLTE0MDY2ODk5NjAsLT
+UxNDkzNjEyOCwxOTIzMDg5ODc1LC01NTc5MjI0MDcsMjE0NzMy
+NzE1NV19
 -->
