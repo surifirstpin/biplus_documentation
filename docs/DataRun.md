@@ -203,7 +203,7 @@ To **Pivot** a dimension click on pivot for dimension before or after running th
 
 ## Hide data in pivot 
 
-To hide 1st columnpivoted data  in visualization, choose pivot hide first, to hide the last column choose pivot hide last in data section under datasets.
+To hide first column of pivoted data  in visualization, choose pivot hide first, to hide the last column data, choose pivot hide last in data section under datasets.
 
 
 ## Pin or Remove Pin
@@ -224,8 +224,6 @@ The below image shows the consolidated values after grouping is applied on field
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/93c8d204507e325aea691be5e8a6e7662975fd3c/images/after_grouping.png)
-
-
 
 ## Multi-Level grouping
 
@@ -367,11 +365,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxNTYzMzkxLDg5NTE3NzMzNSw5MTgxMD
-Q2NDksMjA1MDMxMjMxNSwtMTc2NTkwODA4NywtOTc5ODQ0MDc0
-LC0yMzI1Njk4MDIsMTU5MzA0MjM0MCwtNDY2NjkzMDQ4LDQzND
-U2Mzg5NCwtMTM4NzcxOTA3OCwtMTkwMTk1Mzg5MiwxNzM2Mjgy
-MjQ4LC05MDkwMTA1NTQsLTEwNTk0NDAwOTQsMTkyODMxMDgwNC
-wtMTgyMDQ1MTgxNCwtNTM0ODk3MDI2LDIxMDYzODE5NTAsODM2
-NTQwNTcwXX0=
+eyJoaXN0b3J5IjpbMTQ5MjcwNTMyMCw4OTUxNzczMzUsOTE4MT
+A0NjQ5LDIwNTAzMTIzMTUsLTE3NjU5MDgwODcsLTk3OTg0NDA3
+NCwtMjMyNTY5ODAyLDE1OTMwNDIzNDAsLTQ2NjY5MzA0OCw0Mz
+Q1NjM4OTQsLTEzODc3MTkwNzgsLTE5MDE5NTM4OTIsMTczNjI4
+MjI0OCwtOTA5MDEwNTU0LC0xMDU5NDQwMDk0LDE5MjgzMTA4MD
+QsLTE4MjA0NTE4MTQsLTUzNDg5NzAyNiwyMTA2MzgxOTUwLDgz
+NjU0MDU3MF19
 -->
