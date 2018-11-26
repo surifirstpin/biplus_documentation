@@ -164,9 +164,8 @@ A view may join other views and there relationship are defined as part of data a
 ``` 
 - **Visualize** parameter is used as, display on-off option for fields in data analyse section by assigning true or false condition to the parameter.
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA4NjQ4NjgsMTEyOTQ0OTMyOSwyMD
-QxMjM0OTYxLDEwODI0MjM2NywtMTkyODM2ODI3MywxNTYwMzAx
-MDc1XX0=
+eyJoaXN0b3J5IjpbMTA4NzE2NzA4NiwtMTE3MDg2NDg2OCwxMT
+I5NDQ5MzI5LDIwNDEyMzQ5NjEsMTA4MjQyMzY3LC0xOTI4MzY4
+MjczLDE1NjAzMDEwNzVdfQ==
 -->
