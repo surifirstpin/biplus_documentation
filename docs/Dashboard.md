@@ -148,7 +148,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
 
 ## Dashboard for Mobile Device
 
-AcuBi make it easier to view the dashboard list, in mobile devices easily and it consist of following features;
+AcuBi, makes it easier to view the dashboard list in mobile devices easily by following features;
 
 - Displays dashboard list.
 - Displays dashboard report data.
@@ -157,11 +157,11 @@ AcuBi make it easier to view the dashboard list, in mobile devices easily and it
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODI2OTUxMywtNTk4NDI0NzgxLC0zMD
-M4NTMwNSwtMTU0NzUwNDg3NSwxMDYxNDMxMDI5LC01NTM0ODUy
-MTEsLTE2MDY4NzM5MTAsMTUwOTU5NTIyOSwxMzQ1ODg3NDU5LD
-E3MzEyOTk1NDcsLTE4MzMyNzUyNzEsOTYzMzI0OTE0LC05Njg4
-ODM0OSw1ODY1NDMxODIsMTE3NTE5NDQ1OSwtMTA3MjIxNjgyMS
-wtMTcyNDU2NjIwMywxMzc0NTA3OTYzLDE3NzA5MDc5NDcsMTg2
-NTgxMzQ5XX0=
+eyJoaXN0b3J5IjpbLTE5MjU0NDMwNTEsMTQ4ODI2OTUxMywtNT
+k4NDI0NzgxLC0zMDM4NTMwNSwtMTU0NzUwNDg3NSwxMDYxNDMx
+MDI5LC01NTM0ODUyMTEsLTE2MDY4NzM5MTAsMTUwOTU5NTIyOS
+wxMzQ1ODg3NDU5LDE3MzEyOTk1NDcsLTE4MzMyNzUyNzEsOTYz
+MzI0OTE0LC05Njg4ODM0OSw1ODY1NDMxODIsMTE3NTE5NDQ1OS
+wtMTA3MjIxNjgyMSwtMTcyNDU2NjIwMywxMzc0NTA3OTYzLDE3
+NzA5MDc5NDddfQ==
 -->
