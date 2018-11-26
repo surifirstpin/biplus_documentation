@@ -203,7 +203,7 @@ To **Pivot** a dimension click on pivot for dimension before or after running th
 
 ## Hide data in pivot 
 
-To hide pivoted data 1st column in visualization, choose pivot hide first, to hide the last column choose pivot hide last in data section under datasets.
+To hide 1st columnpivoted data  in visualization, choose pivot hide first, to hide the last column choose pivot hide last in data section under datasets.
 
 
 ## Pin or Remove Pin
@@ -367,11 +367,11 @@ To download a report, click on **Download (icon)** button as shown in the image 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1MTc3MzM1LDkxODEwNDY0OSwyMDUwMz
-EyMzE1LC0xNzY1OTA4MDg3LC05Nzk4NDQwNzQsLTIzMjU2OTgw
-MiwxNTkzMDQyMzQwLC00NjY2OTMwNDgsNDM0NTYzODk0LC0xMz
-g3NzE5MDc4LC0xOTAxOTUzODkyLDE3MzYyODIyNDgsLTkwOTAx
-MDU1NCwtMTA1OTQ0MDA5NCwxOTI4MzEwODA0LC0xODIwNDUxOD
-E0LC01MzQ4OTcwMjYsMjEwNjM4MTk1MCw4MzY1NDA1NzAsMTQ4
-NzMxNTMwOF19
+eyJoaXN0b3J5IjpbOTgxNTYzMzkxLDg5NTE3NzMzNSw5MTgxMD
+Q2NDksMjA1MDMxMjMxNSwtMTc2NTkwODA4NywtOTc5ODQ0MDc0
+LC0yMzI1Njk4MDIsMTU5MzA0MjM0MCwtNDY2NjkzMDQ4LDQzND
+U2Mzg5NCwtMTM4NzcxOTA3OCwtMTkwMTk1Mzg5MiwxNzM2Mjgy
+MjQ4LC05MDkwMTA1NTQsLTEwNTk0NDAwOTQsMTkyODMxMDgwNC
+wtMTgyMDQ1MTgxNCwtNTM0ODk3MDI2LDIxMDYzODE5NTAsODM2
+NTQwNTcwXX0=
 -->
