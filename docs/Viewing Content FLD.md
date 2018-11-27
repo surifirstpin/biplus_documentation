@@ -3,6 +3,9 @@
 
 This section explains on how to view the existing files saved under workspace in AcuBi.
 
+One of the best ways to start using Acubi is to navigate around the existing WorkSpaces and pages to see what content already exists. The **Browse** menu and the left panel of the Spaces and pages show the top-level Spaces and pages to which you have access to view:
+
+
 ## Navigating to Saved Content 
 
 Click on the file you would like to view. As explained below.
@@ -26,9 +29,10 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzI0Mjc1OCwtMTg1Nzg3OTk3NCwtOT
-Y2MDgwMzExLDE4MTY5MzEzNDAsMTgzODE5MzQyMCwxODM3NDQ0
-ODIwLDE3OTIxNDc5NDcsLTM0NDU5NDg0NiwtMTU2OTA0ODIyNi
-wxMzk5NzM2MCwtMTgxMzE0MDE3OSwxMTU5NjQzNDkwLDExOTUy
-NTM1MTEsNzAxNDc5MDQyLDE1MzY0NjkyNDhdfQ==
+eyJoaXN0b3J5IjpbMTY5Mjg3Mzg2MiwxNDE3MjQyNzU4LC0xOD
+U3ODc5OTc0LC05NjYwODAzMTEsMTgxNjkzMTM0MCwxODM4MTkz
+NDIwLDE4Mzc0NDQ4MjAsMTc5MjE0Nzk0NywtMzQ0NTk0ODQ2LC
+0xNTY5MDQ4MjI2LDEzOTk3MzYwLC0xODEzMTQwMTc5LDExNTk2
+NDM0OTAsMTE5NTI1MzUxMSw3MDE0NzkwNDIsMTUzNjQ2OTI0OF
+19
 -->
