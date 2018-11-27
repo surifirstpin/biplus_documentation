@@ -117,18 +117,18 @@ Under query section Click **Tag** Button, it will pop up create query Tag window
 
 **Info** enter query tag information.
 
-  Hit **Create Tag button**.
+  - Hit **Create Tag button**.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1a7f8565de46814dd5aab91b5cfe32b61e4252e5/images/Tag2.png)
 
 - All the created tags are visible under **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQ0MzUwOTgsLTYzNTIxNTY3OCw4OD
-cxMDI2NDMsLTEzNjQzMDY3OTcsLTE2NDEzMDE2MTMsMTM4NDYx
-MDAxMSw4MTcxMTMzOSwtMTY0MTQ4NDE3MywtMzE1Mjc4MDcsND
-g1NjUzNTk0LDE5Nzg4MjA3MzAsNzU5MzI4OTQ2LC00NDgxNDYw
-OTYsMTkxMzAxOTQ3NCw0MTkwNDAwNzcsLTY4MzI3OTAzOCwtMT
-A4ODMyMzM5MywxODE0MTQyNzcyLDE0NjQxODYyMTEsMTg4Mzk1
-NzMxOV19
+eyJoaXN0b3J5IjpbOTYxNDM1MDAxLC02MzUyMTU2NzgsODg3MT
+AyNjQzLC0xMzY0MzA2Nzk3LC0xNjQxMzAxNjEzLDEzODQ2MTAw
+MTEsODE3MTEzMzksLTE2NDE0ODQxNzMsLTMxNTI3ODA3LDQ4NT
+Y1MzU5NCwxOTc4ODIwNzMwLDc1OTMyODk0NiwtNDQ4MTQ2MDk2
+LDE5MTMwMTk0NzQsNDE5MDQwMDc3LC02ODMyNzkwMzgsLTEwOD
+gzMjMzOTMsMTgxNDE0Mjc3MiwxNDY0MTg2MjExLDE4ODM5NTcz
+MTldfQ==
 -->
