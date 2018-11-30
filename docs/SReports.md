@@ -64,10 +64,6 @@ Apply report filter **Sum count equals to 1** in Analysis section and the data r
 **8.** To view the data in a graph click on **Show data** in the drop down.
 
    -  Select **Show data** to display data report.
-
-to view the data flow of a report click on setting icon.
-
-
    
    ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e936982e20971effbecba83e6088080a4ba6a465/images/show_data1.png)
@@ -125,7 +121,7 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzU0OTg5MCwxNDM2OTg2NDIxLDMxMz
+eyJoaXN0b3J5IjpbMTQzNjk4NjQyMSwxNDM2OTg2NDIxLDMxMz
 k3MDg2OCwtMTAwMTA2MTk2NCwxMDAwNTMwOTAyLDE0OTM2MDIz
 NDQsLTE5NjYwMTM0MzIsODUxNzE5MDY0LC0xMjA1MjI5NDkxLD
 ExMjcwMzA4NTksLTMzMjkwNzM3NSw2OTI0ODYyMDYsMTQwOTQx
