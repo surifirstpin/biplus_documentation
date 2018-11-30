@@ -68,7 +68,7 @@ Apply report filter **Sum count equals to 1** in Analysis section and the data r
    ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e936982e20971effbecba83e6088080a4ba6a465/images/show_data1.png)
 
- note :    Select **Show Visualization** to view visualization of the report.
+ > Note :    Select **Show Visualization** to view visualization of the report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d52bc64c5ef2973d8b81e9a4f8925e0e50686102/images/show_data.png)
 
@@ -121,11 +121,11 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzcyNjY5NTgsLTEzNTk5NDY2ODMsLT
-EzNjg3MTI2MzUsMTQzNjk4NjQyMSwxNDM2OTg2NDIxLDMxMzk3
-MDg2OCwtMTAwMTA2MTk2NCwxMDAwNTMwOTAyLDE0OTM2MDIzND
-QsLTE5NjYwMTM0MzIsODUxNzE5MDY0LC0xMjA1MjI5NDkxLDEx
-MjcwMzA4NTksLTMzMjkwNzM3NSw2OTI0ODYyMDYsMTQwOTQxMT
-kxMCwxNjE2MTk1MTA3LDE2MjI4ODYzLDMwMDY3MDcyNSwxODIy
-ODk5NDM5XX0=
+eyJoaXN0b3J5IjpbLTc4ODU0MTEzMiwtMTM1OTk0NjY4MywtMT
+M2ODcxMjYzNSwxNDM2OTg2NDIxLDE0MzY5ODY0MjEsMzEzOTcw
+ODY4LC0xMDAxMDYxOTY0LDEwMDA1MzA5MDIsMTQ5MzYwMjM0NC
+wtMTk2NjAxMzQzMiw4NTE3MTkwNjQsLTEyMDUyMjk0OTEsMTEy
+NzAzMDg1OSwtMzMyOTA3Mzc1LDY5MjQ4NjIwNiwxNDA5NDExOT
+EwLDE2MTYxOTUxMDcsMTYyMjg4NjMsMzAwNjcwNzI1LDE4MjI4
+OTk0MzldfQ==
 -->
