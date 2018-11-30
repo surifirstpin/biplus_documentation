@@ -62,14 +62,13 @@ Apply report filter **Sum count equals to 1** in Analysis section and the data r
 
 **7.** To view the data flow of the report click on the **Setting icon.**
 
-**8.** To view the data in a graph click on **Show data** in the drop down.
+**8.** To view the data in a report click on **Show data.** 
 
-   -  Select **Show data** to display data report.
-    
+   
    ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e936982e20971effbecba83e6088080a4ba6a465/images/show_data1.png)
 
-   -  Select **Show Visualization** to view visualization of the report.
+ note :    Select **Show Visualization** to view visualization of the report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d52bc64c5ef2973d8b81e9a4f8925e0e50686102/images/show_data.png)
 
@@ -122,7 +121,7 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDY3MTgzMTMsLTEzNTk5NDY2ODMsLT
+eyJoaXN0b3J5IjpbLTE2MzcyNjY5NTgsLTEzNTk5NDY2ODMsLT
 EzNjg3MTI2MzUsMTQzNjk4NjQyMSwxNDM2OTg2NDIxLDMxMzk3
 MDg2OCwtMTAwMTA2MTk2NCwxMDAwNTMwOTAyLDE0OTM2MDIzND
 QsLTE5NjYwMTM0MzIsODUxNzE5MDY0LC0xMjA1MjI5NDkxLDEx
