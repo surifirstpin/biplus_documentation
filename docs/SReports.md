@@ -54,6 +54,15 @@ Apply report filter **Sum count equals to 1** in Analysis section and the data r
   
   - An open interval (a,b) excludes them.
   
+to view the data flow of the report click on setting icon,
+
+to view the data on graph click on show data.
+to view the visulisation image in a report click on charts button
+
+
+
+
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1f5814f39a56216832c77c94d75e8f9c6a2fb97a/images/date.png)
 
@@ -121,11 +130,11 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk5NDY2ODMsLTEzNjg3MTI2MzUsMT
-QzNjk4NjQyMSwxNDM2OTg2NDIxLDMxMzk3MDg2OCwtMTAwMTA2
-MTk2NCwxMDAwNTMwOTAyLDE0OTM2MDIzNDQsLTE5NjYwMTM0Mz
-IsODUxNzE5MDY0LC0xMjA1MjI5NDkxLDExMjcwMzA4NTksLTMz
-MjkwNzM3NSw2OTI0ODYyMDYsMTQwOTQxMTkxMCwxNjE2MTk1MT
-A3LDE2MjI4ODYzLDMwMDY3MDcyNSwxODIyODk5NDM5LC04MTEx
-MDY5ODJdfQ==
+eyJoaXN0b3J5IjpbMTgxNTU4ODIyMCwtMTM2ODcxMjYzNSwxND
+M2OTg2NDIxLDE0MzY5ODY0MjEsMzEzOTcwODY4LC0xMDAxMDYx
+OTY0LDEwMDA1MzA5MDIsMTQ5MzYwMjM0NCwtMTk2NjAxMzQzMi
+w4NTE3MTkwNjQsLTEyMDUyMjk0OTEsMTEyNzAzMDg1OSwtMzMy
+OTA3Mzc1LDY5MjQ4NjIwNiwxNDA5NDExOTEwLDE2MTYxOTUxMD
+csMTYyMjg4NjMsMzAwNjcwNzI1LDE4MjI4OTk0MzksLTgxMTEw
+Njk4Ml19
 -->
