@@ -54,6 +54,7 @@ Apply report filter **Sum count equals to 1** in Analysis section and the data r
   
   - An open interval (a,b) excludes them.
   
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1f5814f39a56216832c77c94d75e8f9c6a2fb97a/images/date.png)
 
@@ -121,11 +122,11 @@ To hide the filter panel click on **left shift operator** on dashboard report sc
 eyJoaXN0b3J5IjpbMTA2MDQyNDUzNSw5MDA2NDI4MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk5NDY2ODMsLTEzNjg3MTI2MzUsMT
-QzNjk4NjQyMSwxNDM2OTg2NDIxLDMxMzk3MDg2OCwtMTAwMTA2
-MTk2NCwxMDAwNTMwOTAyLDE0OTM2MDIzNDQsLTE5NjYwMTM0Mz
-IsODUxNzE5MDY0LC0xMjA1MjI5NDkxLDExMjcwMzA4NTksLTMz
-MjkwNzM3NSw2OTI0ODYyMDYsMTQwOTQxMTkxMCwxNjE2MTk1MT
-A3LDE2MjI4ODYzLDMwMDY3MDcyNSwxODIyODk5NDM5LC04MTEx
-MDY5ODJdfQ==
+eyJoaXN0b3J5IjpbLTIxNDY3MTgzMTMsLTEzNTk5NDY2ODMsLT
+EzNjg3MTI2MzUsMTQzNjk4NjQyMSwxNDM2OTg2NDIxLDMxMzk3
+MDg2OCwtMTAwMTA2MTk2NCwxMDAwNTMwOTAyLDE0OTM2MDIzND
+QsLTE5NjYwMTM0MzIsODUxNzE5MDY0LC0xMjA1MjI5NDkxLDEx
+MjcwMzA4NTksLTMzMjkwNzM3NSw2OTI0ODYyMDYsMTQwOTQxMT
+kxMCwxNjE2MTk1MTA3LDE2MjI4ODYzLDMwMDY3MDcyNSwxODIy
+ODk5NDM5XX0=
 -->
