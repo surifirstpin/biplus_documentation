@@ -418,7 +418,8 @@ ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} 
 
 ## Local Function
 
-Custom function is a block of code (Series of statements which intended to a particular task) with submitted inputs and derivable output. It will ease-up the process of calculations when a series of statements or actions to be repeated on a set of values and output to be derived. AcuBi supports local function which can be written inside the function body:
+C
+ustom function is a block of code (Series of statements which intended to a particular task) with submitted inputs and derivable output. It will ease-up the process of calculations when a series of statements or actions to be repeated on a set of values and output to be derived. AcuBi supports local function which can be written inside the function body:
 ```
 /*START*/
 function fname(param1, param2, param3 ..ParamN)
@@ -438,10 +439,10 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMxMDk4NjM3LC03NTAzMTM0NTksLTE3MT
-g3MjE1MjcsMTk5MDI4NTMzMywtMTI4MDc0ODUzNywtODk0NDAy
-NDI2LC0xNDc5MDQ4MTY5LC0zMDA1MzIzODcsMzI5Njg2ODc3LD
-Y1Nzc1NjEyNywxNjA2MjY3ODM5LC0xNjI0NjY1MjI3LC0xOTky
-ODA5MTksMTAzNTU0NjUwNywtODU0ODI4ODE3LC04Nzc3NTE1MD
-BdfQ==
+eyJoaXN0b3J5IjpbLTk4NDU4MjY4OSw1MzEwOTg2MzcsLTc1MD
+MxMzQ1OSwtMTcxODcyMTUyNywxOTkwMjg1MzMzLC0xMjgwNzQ4
+NTM3LC04OTQ0MDI0MjYsLTE0NzkwNDgxNjksLTMwMDUzMjM4Ny
+wzMjk2ODY4NzcsNjU3NzU2MTI3LDE2MDYyNjc4MzksLTE2MjQ2
+NjUyMjcsLTE5OTI4MDkxOSwxMDM1NTQ2NTA3LC04NTQ4Mjg4MT
+csLTg3Nzc1MTUwMF19
 -->
