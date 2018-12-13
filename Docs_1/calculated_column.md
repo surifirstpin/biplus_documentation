@@ -429,7 +429,7 @@ statement 2;                                     * Function body *
 statement 3;
 
 Statement N;
-return `;   
+return ;   
 }
 /*END*/
 fname(value1, value2, value3, ..valueN)         * Call Function *
@@ -439,10 +439,11 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDU4MjY4OSw1MzEwOTg2MzcsLTk4ND
-U4MjY4OSw1MzEwOTg2MzcsLTc1MDMxMzQ1OSwtMTcxODcyMTUy
-NywxOTkwMjg1MzMzLC0xMjgwNzQ4NTM3LC04OTQ0MDI0MjYsLT
-E0NzkwNDgxNjksLTMwMDUzMjM4NywzMjk2ODY4NzcsNjU3NzU2
-MTI3LDE2MDYyNjc4MzksLTE2MjQ2NjUyMjcsLTE5OTI4MDkxOS
-wxMDM1NTQ2NTA3LC04NTQ4Mjg4MTcsLTg3Nzc1MTUwMF19
+eyJoaXN0b3J5IjpbLTgxNTI5ODI0MywtOTg0NTgyNjg5LDUzMT
+A5ODYzNywtOTg0NTgyNjg5LDUzMTA5ODYzNywtNzUwMzEzNDU5
+LC0xNzE4NzIxNTI3LDE5OTAyODUzMzMsLTEyODA3NDg1MzcsLT
+g5NDQwMjQyNiwtMTQ3OTA0ODE2OSwtMzAwNTMyMzg3LDMyOTY4
+Njg3Nyw2NTc3NTYxMjcsMTYwNjI2NzgzOSwtMTYyNDY2NTIyNy
+wtMTk5MjgwOTE5LDEwMzU1NDY1MDcsLTg1NDgyODgxNywtODc3
+NzUxNTAwXX0=
 -->
