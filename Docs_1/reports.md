@@ -1,7 +1,7 @@
 
 <center><h1> Analysis </h1></center>
 
-Analysis section describes how to retrieves the data in the desired combinations as per your business needs and how to explore particular subject area it self. It has an ability on how to pull the data and modify the report as per the needs and drill down deeper into the report for more better insights across the report.
+AAnalysis section describes how to retrieves the data in the desired combinations as per your business needs and how to explore particular subject area it self. It has an ability on how to pull the data and modify the report as per the needs and drill down deeper into the report for more better insights across the report.
 
  To create a report, Click on **Analyse Section.**
 
@@ -309,8 +309,8 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzAzOTExLDIwNzcwMzkxMSwtMTI3Mz
-AyODA5LDk4MTUxMzMxOSwtMTgwNDcxODUxMCwxOTgwMzQyNjY2
-LDE0MDE3MjczMDYsNzE2MTgwMjk4LDEyODU5NTIwNTEsLTIwNz
-U5Mzc5NzVdfQ==
+eyJoaXN0b3J5IjpbOTgxMDQwMDQyLDIwNzcwMzkxMSwyMDc3MD
+M5MTEsLTEyNzMwMjgwOSw5ODE1MTMzMTksLTE4MDQ3MTg1MTAs
+MTk4MDM0MjY2NiwxNDAxNzI3MzA2LDcxNjE4MDI5OCwxMjg1OT
+UyMDUxLC0yMDc1OTM3OTc1XX0=
 -->
