@@ -308,9 +308,40 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
+
+## Save Report
+
+  -  Click Save Button to Save the Report.
+
+  -  You will be navigated to Save Report Page. Fill the following fields to save the report.
+  
+-   **Report Name**  Name identifier for a report. ( Acubi allows special character but does not support any spaces )
+    
+-   **Title**  label for the report the way you want it to appear.
+    
+-   **Info**  displays any specific information about the report.
+    
+-   **Privacy**  you can save the report in any one of the following privacy option.
+   
+    -   **Private ()**  report saved in private section and accessed by the user itself.
+    -   **Public ()**  the report is saved in public section and accessed by all the users.
+    -   **Share ()**  the report saved under share section and accessed by specific set of users.
+    
+## Saving under specific tag
+
+Reports build, are saved under  **Work space**  tag.
+
+## Defining Filter fields
+
+Filter are used to extract only specific data you want to view. this function is carried out by applying filters to reports.
+
+-   **Filter**  filters added in this section is automatically reflected in the filter section of dashboard reports.
+
+Click Save to **Save** the Report in Data Base.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzAzOTExLDk4MTA0MDA0MiwyMDc3MD
-M5MTEsMjA3NzAzOTExLC0xMjczMDI4MDksOTgxNTEzMzE5LC0x
-ODA0NzE4NTEwLDE5ODAzNDI2NjYsMTQwMTcyNzMwNiw3MTYxOD
-AyOTgsMTI4NTk1MjA1MSwtMjA3NTkzNzk3NV19
+eyJoaXN0b3J5IjpbODA4ODc1NjkwLDIwNzcwMzkxMSw5ODEwND
+AwNDIsMjA3NzAzOTExLDIwNzcwMzkxMSwtMTI3MzAyODA5LDk4
+MTUxMzMxOSwtMTgwNDcxODUxMCwxOTgwMzQyNjY2LDE0MDE3Mj
+czMDYsNzE2MTgwMjk4LDEyODU5NTIwNTEsLTIwNzU5Mzc5NzVd
+fQ==
 -->
