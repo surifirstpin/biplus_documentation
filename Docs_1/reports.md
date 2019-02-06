@@ -311,11 +311,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 
 ## Save Report
 
-  -  Click Save Button to Save the Report.
+  -  Click **Save** Button to Save the Report.
 
   -  You will be navigated to Save Report Page. Fill the following fields to save the report.
   
--   **Report Name**  Name identifier for a report. ( Acubi allows special character but does not support any spaces )
+-   **Report Name**  Name identifier for a report. ( acubi allows special character but does not support any spaces )
     
 -   **Title**  label for the report the way you want it to appear.
     
@@ -339,9 +339,9 @@ Filter are used to extract only specific data you want to view. this function is
 
 Click Save to **Save** the Report in Data Base.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4ODc1NjkwLDIwNzcwMzkxMSw5ODEwND
-AwNDIsMjA3NzAzOTExLDIwNzcwMzkxMSwtMTI3MzAyODA5LDk4
-MTUxMzMxOSwtMTgwNDcxODUxMCwxOTgwMzQyNjY2LDE0MDE3Mj
-czMDYsNzE2MTgwMjk4LDEyODU5NTIwNTEsLTIwNzU5Mzc5NzVd
-fQ==
+eyJoaXN0b3J5IjpbLTE1NzA5NzY2MzAsMjA3NzAzOTExLDk4MT
+A0MDA0MiwyMDc3MDM5MTEsMjA3NzAzOTExLC0xMjczMDI4MDks
+OTgxNTEzMzE5LC0xODA0NzE4NTEwLDE5ODAzNDI2NjYsMTQwMT
+cyNzMwNiw3MTYxODAyOTgsMTI4NTk1MjA1MSwtMjA3NTkzNzk3
+NV19
 -->
