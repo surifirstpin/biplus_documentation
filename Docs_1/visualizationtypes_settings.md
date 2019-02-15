@@ -114,7 +114,7 @@ For example, when you want to buy a Laptop, you can use a radar chart to compare
 
 - **Arc field** select the dimension field to apply arc lines.
 
-- **Curve** it maximum and minimize the surface area in radar chart.
+- **Curve** it maximizes and minimize the surface area in radar chart.
 
 ## Bubble chart 
 
@@ -382,6 +382,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzcyNDkzODQsLTExMjUxNDIzNTgsLT
-IxNzQ5Njg3MSwtMTI2ODgyNzI1M119
+eyJoaXN0b3J5IjpbNzY2NzAxOTMsLTExMjUxNDIzNTgsLTIxNz
+Q5Njg3MSwtMTI2ODgyNzI1M119
 -->
