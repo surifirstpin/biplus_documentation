@@ -1,7 +1,7 @@
 
 <center><h1>Visualization Types and Settings</h1></center>
 
- Based on your priority to view specific information about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. It Provides an ability to visualize the data in 10 different types of charts with some standard editing options. fgdgshfhdfthertyt
+ Based on your priority to view specific information about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. It Provides an ability to visualize the data in 10 different types of charts with some standard editing options.
  - Line
  - Bar
  - Pie
@@ -382,5 +382,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzQ5Njg3MSwtMTI2ODgyNzI1M119
+eyJoaXN0b3J5IjpbLTExMjUxNDIzNTgsLTIxNzQ5Njg3MSwtMT
+I2ODgyNzI1M119
 -->
