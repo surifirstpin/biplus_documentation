@@ -1,7 +1,7 @@
 
 <center><h1>Visualization Types and Settings</h1></center>
 
-AcuBi Provides an ability to visualize the data in 11 different types of charts with some standard editing options. Based on priority to view specific information about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. 
+AcuBi Provides an ability to visualize the data in 11 different types of charts with some standard editing options. Based on priority to view specific information about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. bchfghfg
 
 **Types of visualization available in AcuBi :**
  - **Line**
@@ -453,11 +453,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzMwNDk1NSwtMTQ2MzM5NTAzNSwtMz
-MxMDk4ODExLC0xOTY5MjAyNzg0LDE1Nzk1MjU1NjgsMTczODQw
-MjY1NywxODY0Mjc0Njc1LDEwMzYwMDA1MTcsLTE2NzA4ODMyOS
-wtODM2MDk3Mzg1LDEwODAwNDUyMjAsLTE3MDk0NTcxMCwxNTcy
-NDgwNzc0LDI0MTI3NTU3MSwtNTYyMzg0MzQ2LC0yMTE1MDQyOD
-gxLDYxNjcyNzA1MCwxMzI0OTE1OTYxLDEyNjY2MTQwNjAsMTky
-MjU4Mjk2Ml19
+eyJoaXN0b3J5IjpbMTAzOTMwNjE4MCwtNzI3MzA0OTU1LC0xND
+YzMzk1MDM1LC0zMzEwOTg4MTEsLTE5NjkyMDI3ODQsMTU3OTUy
+NTU2OCwxNzM4NDAyNjU3LDE4NjQyNzQ2NzUsMTAzNjAwMDUxNy
+wtMTY3MDg4MzI5LC04MzYwOTczODUsMTA4MDA0NTIyMCwtMTcw
+OTQ1NzEwLDE1NzI0ODA3NzQsMjQxMjc1NTcxLC01NjIzODQzND
+YsLTIxMTUwNDI4ODEsNjE2NzI3MDUwLDEzMjQ5MTU5NjEsMTI2
+NjYxNDA2MF19
 -->
