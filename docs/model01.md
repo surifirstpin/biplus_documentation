@@ -1,6 +1,6 @@
 <center><h1>Model</h1></center>
 
-A model is a customized gateway into the database for accessing data as per business logic. AcuBi provides an IDE, which allows mappings between views (database tables) and apply several filters on the data as per business requirement. It is designed in such a way that it provides a spontaneous data analysis to specific business users.
+ghghfgA model is a customized gateway into the database for accessing data as per business logic. AcuBi provides an IDE, which allows mappings between views (database tables) and apply several filters on the data as per business requirement. It is designed in such a way that it provides a spontaneous data analysis to specific business users.
 
 **A Model can be defined in 3 steps :**
 
@@ -648,11 +648,11 @@ AcuBi provides map view by covering various number of countries. Also, there are
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3NzgzMzg3LC00MTYzNTA3MjEsLTgzNz
-EwMDc0MywxNzQ3NzE5NjQ3LDE3NDc3MTk2NDcsMTc5MzY2NDgx
-OSwtMTI3NDA0NDc1LDE5ODQ5OTQ1MTYsLTQ5ODMyNDA5NiwtMT
-cyNzQzNTIyMCw0NzU5MTAzODAsMTAxMTA1NzM3NSw3MTMyNzU0
-MjgsNzY4NDU4Njg1LDIwNDg3ODEzMzIsLTE0MDY2ODk5NjAsLT
-UxNDkzNjEyOCwxOTIzMDg5ODc1LC01NTc5MjI0MDcsMjE0NzMy
-NzE1NV19
+eyJoaXN0b3J5IjpbMjI0NzU4MzIsNzU3NzgzMzg3LC00MTYzNT
+A3MjEsLTgzNzEwMDc0MywxNzQ3NzE5NjQ3LDE3NDc3MTk2NDcs
+MTc5MzY2NDgxOSwtMTI3NDA0NDc1LDE5ODQ5OTQ1MTYsLTQ5OD
+MyNDA5NiwtMTcyNzQzNTIyMCw0NzU5MTAzODAsMTAxMTA1NzM3
+NSw3MTMyNzU0MjgsNzY4NDU4Njg1LDIwNDg3ODEzMzIsLTE0MD
+Y2ODk5NjAsLTUxNDkzNjEyOCwxOTIzMDg5ODc1LC01NTc5MjI0
+MDddfQ==
 -->
