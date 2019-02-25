@@ -1,6 +1,6 @@
 <center><h1>Database Connection</h1></center>
 
-fjkhsjhsdfgj   **Connection** Specifies a database connection from which a model can retrieve the data.
+ **Connection** Specifies a database connection from which a model can retrieve the data.
    
  **To set up database connection, Follow the below steps;**
     
@@ -80,8 +80,8 @@ fjkhsjhsdfgj   **Connection** Specifies a database connection from which a model
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzY5OTUzNiwxNDY0MjE0OTYsODAyOD
-gyMTQ5LC01NTA2NjAwNDMsODAyODgyMTQ5LC0xNDQ5Njc2Njg5
-LC0xMjIzMzQ3MzQ1LDEzMzM2NDEzMywzNDg0NjY4MDcsLTExMj
-A0MTE0OTMsMTY1MzQ4MzI4XX0=
+eyJoaXN0b3J5IjpbMzY2MTgwNjY0LDE2NTc2OTk1MzYsMTQ2ND
+IxNDk2LDgwMjg4MjE0OSwtNTUwNjYwMDQzLDgwMjg4MjE0OSwt
+MTQ0OTY3NjY4OSwtMTIyMzM0NzM0NSwxMzMzNjQxMzMsMzQ4ND
+Y2ODA3LC0xMTIwNDExNDkzLDE2NTM0ODMyOF19
 -->
