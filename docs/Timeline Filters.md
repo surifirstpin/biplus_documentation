@@ -306,5 +306,6 @@
 |  WhenMade(date_hour)(Is Not Null) | Data where date_hour field (hour number in the year) is not Null |
 |  WhenMade(date_hour)(Is Null) | Data where date_hour field (hour number in the year) is Null |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMxNjQ2MzYzLDMyMzU2MDI2NV19
+eyJoaXN0b3J5IjpbMTUxMDQ1NzgwMiw1MzE2NDYzNjMsMzIzNT
+YwMjY1XX0=
 -->
