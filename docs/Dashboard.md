@@ -26,9 +26,9 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
  ## Step 1:  Customize Layout 
    
 AcuBi has ability to create multiple report layouts, depending on the requirement. There layout formats are categorized in 2 ways.
-- **Flow Layout**  it defines your layout a
+- **Flow Layout**  it defines your layout approp
 - in this layout it is provided with a scroll bar option to define your layout appropriately.
-- **Fixed Layout** in this layout all the reports will fit into single screen.
+- **Fixed Layout** defines single fit layout option for reports
 
    **a.** To navigate to next page click right arrow.
 
@@ -158,7 +158,7 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTU0ODc4OCwyNzQ1NTU4MjgsLTM1Mj
+eyJoaXN0b3J5IjpbMTI4MzQ0MDk0OCwyNzQ1NTU4MjgsLTM1Mj
 YyODQ2MSwxNDg4MjY5NTEzLC01OTg0MjQ3ODEsLTMwMzg1MzA1
 LC0xNTQ3NTA0ODc1LDEwNjE0MzEwMjksLTU1MzQ4NTIxMSwtMT
 YwNjg3MzkxMCwxNTA5NTk1MjI5LDEzNDU4ODc0NTksMTczMTI5
