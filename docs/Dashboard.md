@@ -26,9 +26,12 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
  ## Step 1:  Customize Layout 
    
 AcuBi has ability to create multiple report layouts, depending on the requirement. There layout formats are categorized in 2 ways.
-- **Flow Layout** in this layout it is provided with a scroll bar option to define your layout appropriately.
+- **Flow Layout**  it defines your layout a
+- in this layout it is provided with a scroll bar option to define your layout appropriately.
 - **Fixed Layout** in this layout all the reports will fit into single screen.
-**a.** To navigate to next page click right arrow.
+
+   **a.** To navigate to next page click right arrow.
+
 **b.** To navigate to previous page click left arrow.
 
 ![
@@ -155,11 +158,11 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0NTU1ODI4LC0zNTI2Mjg0NjEsMTQ4OD
-I2OTUxMywtNTk4NDI0NzgxLC0zMDM4NTMwNSwtMTU0NzUwNDg3
-NSwxMDYxNDMxMDI5LC01NTM0ODUyMTEsLTE2MDY4NzM5MTAsMT
-UwOTU5NTIyOSwxMzQ1ODg3NDU5LDE3MzEyOTk1NDcsLTE4MzMy
-NzUyNzEsOTYzMzI0OTE0LC05Njg4ODM0OSw1ODY1NDMxODIsMT
-E3NTE5NDQ1OSwtMTA3MjIxNjgyMSwtMTcyNDU2NjIwMywxMzc0
-NTA3OTYzXX0=
+eyJoaXN0b3J5IjpbMTAzOTU0ODc4OCwyNzQ1NTU4MjgsLTM1Mj
+YyODQ2MSwxNDg4MjY5NTEzLC01OTg0MjQ3ODEsLTMwMzg1MzA1
+LC0xNTQ3NTA0ODc1LDEwNjE0MzEwMjksLTU1MzQ4NTIxMSwtMT
+YwNjg3MzkxMCwxNTA5NTk1MjI5LDEzNDU4ODc0NTksMTczMTI5
+OTU0NywtMTgzMzI3NTI3MSw5NjMzMjQ5MTQsLTk2ODg4MzQ5LD
+U4NjU0MzE4MiwxMTc1MTk0NDU5LC0xMDcyMjE2ODIxLC0xNzI0
+NTY2MjAzXX0=
 -->
