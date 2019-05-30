@@ -62,7 +62,7 @@ You can add different reports to the layout selected, depending on the requireme
  **6.** **Dashboard global Filters** allows user to view limited data by applying filters on dashboard reports. **(Refer Image 5)**
 -   **Filter Name**  identifier name for the filter applicable.
 
--   ****Filter Type****  type of filter used (String,date,number).
+-   **Filter Type**  type of filter used (String,date,number).
 
     - **String** For fields that contain letters or special characters.
 
@@ -159,11 +159,11 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTg2ODcwMDQsMTc5MDA2NjAyMCwxMD
-I5MjA1NjM2LDE5MjM3Njc3MzAsMjc0NTU1ODI4LC0zNTI2Mjg0
-NjEsMTQ4ODI2OTUxMywtNTk4NDI0NzgxLC0zMDM4NTMwNSwtMT
-U0NzUwNDg3NSwxMDYxNDMxMDI5LC01NTM0ODUyMTEsLTE2MDY4
-NzM5MTAsMTUwOTU5NTIyOSwxMzQ1ODg3NDU5LDE3MzEyOTk1ND
-csLTE4MzMyNzUyNzEsOTYzMzI0OTE0LC05Njg4ODM0OSw1ODY1
-NDMxODJdfQ==
+eyJoaXN0b3J5IjpbMTc5MDA2NjAyMCwtMTE1ODY4NzAwNCwxNz
+kwMDY2MDIwLDEwMjkyMDU2MzYsMTkyMzc2NzczMCwyNzQ1NTU4
+MjgsLTM1MjYyODQ2MSwxNDg4MjY5NTEzLC01OTg0MjQ3ODEsLT
+MwMzg1MzA1LC0xNTQ3NTA0ODc1LDEwNjE0MzEwMjksLTU1MzQ4
+NTIxMSwtMTYwNjg3MzkxMCwxNTA5NTk1MjI5LDEzNDU4ODc0NT
+ksMTczMTI5OTU0NywtMTgzMzI3NTI3MSw5NjMzMjQ5MTQsLTk2
+ODg4MzQ5XX0=
 -->
