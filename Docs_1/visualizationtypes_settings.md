@@ -106,7 +106,7 @@ For example, when you want to buy a Laptop, you can use a radar chart to compare
   - Line
   - Dash
   
-**Reverse scale** on selecting the checkbox, it display the reversal side of data . i.e. if the 10 highest values are shown in radar chart ,on selecting the checkbox, then it will display 10 lowest values.
+**Reverse scale** on selecting the checkbox, it display the reversal side of data displayed in radar chart i.e. if the 10 highest values are shown in radar chart ,on selecting the checkbox, then it will display 10 lowest values.
 
 - **Show ticklabels** on selecting the checkbox  it enables measure values on y-axis.
 
@@ -382,6 +382,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2MjI0NzI4LC0xNDM2MTYzMzk5LC0xMT
-I1MTQyMzU4LC0yMTc0OTY4NzEsLTEyNjg4MjcyNTNdfQ==
+eyJoaXN0b3J5IjpbMjEyODUyMDg3NiwtMTQzNjE2MzM5OSwtMT
+EyNTE0MjM1OCwtMjE3NDk2ODcxLC0xMjY4ODI3MjUzXX0=
 -->
