@@ -1,6 +1,6 @@
 <center><h1>Calculated Column</h1></center>
 
-nhggfj Calculated Column allows user to manipulate the retrieved data using arithmetical, logical, text-based and date-based functions and displays the same in required format. The data extracted using calculated column will show up in green colour in the data table. Just like regular dimensions and measures, calculated columns are controlled from display in visualizations.
+Calculated Column allows user to manipulate the retrieved data using arithmetical, logical, text-based and date-based functions and displays the same in required format. The data extracted using calculated column will show up in green colour in the data table. Just like regular dimensions and measures, calculated columns are controlled from display in visualizations.
 
 ### Functionalities of Calculated Column
 
@@ -434,7 +434,7 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY0Mzc2OTIsLTE0NTQ1ODEyMjIsMT
+eyJoaXN0b3J5IjpbLTE0NTQ1ODEyMjIsLTE0NTQ1ODEyMjIsMT
 Y0OTYwNzk2NiwtMTQ1NDU4MTIyMiwzOTgwMTU1NzgsMjg1MzY0
 NDgwLDI4NTM2NDQ4MCwtMTc0NjEyNDA0MSwtMTE4MTkwMTQ5MC
 wtNjg5NjcyMjM4LDE5MDk2NTc3MjgsMTgxNjk4MDY0MCwtMzM3
