@@ -182,8 +182,6 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 
 - **Load Animation:** Enables animation view to funnel chart
 
-
-
 ##  Gauge Chart 
 
 Gauge chart displays current status in the context of goal.
@@ -478,11 +476,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0NDUzNDUzLDEyMjUyNDIxMTcsLTg0OT
-kyMTQ0OSwtMTc2NDU3NTYzNyw2NTI3NTEzMDMsLTM1NDg0NDk4
-OSwtMTMzNjgxODQzNSwtOTA0OTc5NjM0LDU3NTI0MDAzLC01Nj
-UzMjc4NTksLTIwNzQ2NjgzOTksLTc4ODU2NDY3LC01NjY1OTU5
-MTYsLTE2MjQ1ODI5NjQsLTk1OTQwODY4NywtNzUzNjAzMTMsLT
-UzMTE0Njg3MCwtMjM4MTkwOTQyLC0zMTEzMzU3OCw0NzM4NzYy
-NTBdfQ==
+eyJoaXN0b3J5IjpbMTEyNTM0MzEzLDQ0NDQ1MzQ1MywxMjI1Mj
+QyMTE3LC04NDk5MjE0NDksLTE3NjQ1NzU2MzcsNjUyNzUxMzAz
+LC0zNTQ4NDQ5ODksLTEzMzY4MTg0MzUsLTkwNDk3OTYzNCw1Nz
+UyNDAwMywtNTY1MzI3ODU5LC0yMDc0NjY4Mzk5LC03ODg1NjQ2
+NywtNTY2NTk1OTE2LC0xNjI0NTgyOTY0LC05NTk0MDg2ODcsLT
+c1MzYwMzEzLC01MzExNDY4NzAsLTIzODE5MDk0MiwtMzExMzM1
+NzhdfQ==
 -->
