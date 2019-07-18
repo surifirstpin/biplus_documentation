@@ -165,17 +165,23 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caca3ad67049c43bc60a5fccae26182c81762732/images/funnel_chart.png)
 
-**Using AcuBi you can view the funnel charts in different formats using the below check boxes:**
 
- - **Sort** it enables data in the sorted order in funnel chart.
-  
- - **Sort** it enables the sorted order for funnel chart.
+ **AcuBi** displays funnel charts in following formats:
+
+ - **Sort:** it enables data in the sorted order in funnel chart.
  
- -  **Top width**  it adjust the width dimension in top view.
+ - **Curved:** it enables the curved view for funnel chart.
  
- - **Bottom Width** it adjust the width dimension in bottom view.
- 
- - **Gap** It enables gap between two measure values.
+- **Pinched:** :enable compressed view of funnel chart
+
+- **Inverted:**  enables inverted view of Funnel chart
+
+- **Highlight on hover:** highlights on moving hover on funnel chart.
+
+- **Dynamic Height:** Enables dynamic height for the measure field with maximum value.
+
+- **Load Animation:** Enables animation view to funnel chart
+
 
 
 ##  Gauge Chart 
@@ -472,11 +478,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTI0MjExNywtODQ5OTIxNDQ5LC0xNz
-Y0NTc1NjM3LDY1Mjc1MTMwMywtMzU0ODQ0OTg5LC0xMzM2ODE4
-NDM1LC05MDQ5Nzk2MzQsNTc1MjQwMDMsLTU2NTMyNzg1OSwtMj
-A3NDY2ODM5OSwtNzg4NTY0NjcsLTU2NjU5NTkxNiwtMTYyNDU4
-Mjk2NCwtOTU5NDA4Njg3LC03NTM2MDMxMywtNTMxMTQ2ODcwLC
-0yMzgxOTA5NDIsLTMxMTMzNTc4LDQ3Mzg3NjI1MCwtMTIzNzEw
-MzQ1M119
+eyJoaXN0b3J5IjpbNDQ0NDUzNDUzLDEyMjUyNDIxMTcsLTg0OT
+kyMTQ0OSwtMTc2NDU3NTYzNyw2NTI3NTEzMDMsLTM1NDg0NDk4
+OSwtMTMzNjgxODQzNSwtOTA0OTc5NjM0LDU3NTI0MDAzLC01Nj
+UzMjc4NTksLTIwNzQ2NjgzOTksLTc4ODU2NDY3LC01NjY1OTU5
+MTYsLTE2MjQ1ODI5NjQsLTk1OTQwODY4NywtNzUzNjAzMTMsLT
+UzMTE0Njg3MCwtMjM4MTkwOTQyLC0zMTEzMzU3OCw0NzM4NzYy
+NTBdfQ==
 -->
